@@ -1,0 +1,71 @@
+---
+id: SAEJ3053_202403
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Heavy Duty Truck and Bus Electrical Circuit Performance Requirement for
+    12/24-Volt Electric Starter Motors
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3053_202403
+- type: src
+  content: https://saemobilus.sae.org/standards/j3053_202403-heavy-duty-truck-bus-electrical-circuit-performance-requirement-12-24-volt-electric-starter-motors
+docidentifier:
+- content: SAE J3053_202403
+  type: SAE
+  primary: true
+- content: 10.4271/j3053_202403
+  type: DOI
+date:
+- type: approved
+  at: '2024-03-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Electrical Systems Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The recommended practice describes a design standard that defines the maximum recommended voltage drop of the starting motor main circuits, as well as control system circuits, for 12/24-V starter systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The battery technologies used in developing this document include the flooded lead acid, gel cell, and AGM. Starting systems supported by NiCd, Lithium Ion, NiZn, etc., or Ultracaps are not included in this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is not intended to be updated or modified to include starter motors rated at voltages above the nominal 24-V electrical system. The starter is basically an electrical-to-mechanical power converter. If you double the available battery power in, you double the peak mechanical power out and double the heat losses. This means that we have to pay special attention to how battery power changes when we change the battery voltage and the effects it may have in overpowering the cranking system. A new stand-alone document would need to be developed to address electrical circuit performance for starter motor systems with ratings above the nominal 24-V system.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

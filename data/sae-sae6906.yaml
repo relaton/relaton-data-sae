@@ -1,0 +1,56 @@
+---
+id: SAESAE6906
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standard Practice for Human Systems Integration
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/sae6906
+- type: src
+  content: https://saemobilus.sae.org/standards/sae6906-standard-practice-human-systems-integration
+docidentifier:
+- content: SAE SAE6906
+  type: SAE
+  primary: true
+- content: 10.4271/sae6906
+  type: DOI
+date:
+- type: approved
+  at: '2019-02-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-45 Human Systems Integration
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Human Systems Integration (HSI) Standard Practice identifies the Department of Defense (DoD) approach to conducting HSI programs as part of procurement activities. This Standard covers HSI processes throughout design, development, test, production, use, and disposal. Depending on contract phase and/or complexity of the program, tailoring &lt;b&gt;should&lt;/b&gt; be applied. The scope of this standard includes prime and subcontractor HSI activities; it does not include Government HSI activities, which are covered in the DoD HSI Handbook. HSI programs &lt;b&gt;should&lt;/b&gt; use the latest version of standards and handbooks listed below, unless a particular revision is specifically cited in the contract.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

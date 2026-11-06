@@ -1,0 +1,57 @@
+---
+id: SAEAIR7382
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Procedures for the Sampling and Measurement of Particle Size Distributions
+    from Aircraft Turbine Engines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air7382
+- type: src
+  content: https://saemobilus.sae.org/standards/air7382-procedures-sampling-measurement-particle-size-distributions-aircraft-turbine-engines
+docidentifier:
+- content: SAE AIR7382
+  type: SAE
+  primary: true
+- content: 10.4271/air7382
+  type: DOI
+date:
+- type: approved
+  at: '2025-11-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-31P Particulate Matter Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document, expanding upon AIR6037A, provides technical specifications and operational protocols for instruments commonly used to measure aircraft engine nonvolatile Particulate Matter (nvPM) Particle Size Distributions (PSDs). For each instrument type, its functionality, calibration, uncertainties, and known limitations are discussed to support the development of procedures that help ARP6320B nvPM system operators reliably determine PSDs. Practical setup considerations, such as sample conditioning and instrument positioning, are highlighted, together with guidelines for maintenance, data correction, and quality control to minimize measurement uncertainty.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

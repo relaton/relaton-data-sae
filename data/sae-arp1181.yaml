@@ -1,0 +1,52 @@
+---
+id: SAEARP1181
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TERMINOLOGY FOR REDUNDANT FLIGHT CONTROL SYSTEMS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1181
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1181-terminology-redundant-flight-control-systems
+docidentifier:
+- content: SAE ARP1181
+  type: SAE
+  primary: true
+- content: 10.4271/arp1181
+  type: DOI
+date:
+- type: approved
+  at: '1971-10-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This ARP presents definitions of terminology used in conjunction with redundant flight control systems. No details of specific redundant system design approaches are given. Likewise, no recommendations are included for system performance and design requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Redundancy may be provided within individual components of a flight control system, or it may be used for the system in total. The scope of this ARP is sufficiently broad to include both of these extremes.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

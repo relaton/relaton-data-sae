@@ -1,0 +1,56 @@
+---
+id: SAEAMS6355L
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Sheet, Strip, and Plate 0.50cr 0.55ni 0.20mo (0.28-0.33c)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6355l
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6355l-steel-sheet-strip-plate-050cr-055ni-020mo-028-033c
+docidentifier:
+- content: SAE AMS6355L
+  type: SAE
+  primary: true
+- content: 10.4271/ams6355l
+  type: DOI
+date:
+- type: approved
+  at: '1991-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers an aircraft-quality, low-alloy steel in the
+    form of sheet, strip, and plate.  Primarily for use where welding and moderate
+    mechanical properties are required.  Sheet and strip are extensively used where
+    minimum tensile strength of 160,000 psi (1105 MPa) is required in sections up
+    to 0.125 in. (3.12 mm) thick and proportionately lower strength in heavier thicknesses.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

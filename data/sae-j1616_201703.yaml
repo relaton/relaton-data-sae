@@ -1,0 +1,108 @@
+---
+id: SAEJ1616_201703
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Recommended Practice for Compressed Natural Gas Vehicle Fuel
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1616_201703
+- type: src
+  content: https://saemobilus.sae.org/standards/j1616_201703-recommended-practice-compressed-natural-gas-vehicle-fuel
+docidentifier:
+- content: SAE J1616_201703
+  type: SAE
+  primary: true
+- content: 10.4271/j1616_201703
+  type: DOI
+date:
+- type: approved
+  at: '2017-03-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuels and Lubricants TC 7 Fuels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Compressed Natural Gas (CNG) is a practical automotive fuel, with advantages and disadvantages when compared to gasoline. Large quantities of natural gas are available in North America. It has a higher octane number rating, produces low exhaust emissions, no evaporative emissions and can cost less on an equivalent energy basis than other fuels. Natural gas is normally compressed from 20 684 to 24 821 kPa (3000 to 3600 psig) to increase its energy density thereby reducing its on-board vehicle storage volume for a given range and payload. CNG can also be made from liquefied natural gas by elevating its pressure and vaporizing it to a gas. Once converted it is referred to LCNG.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The properties of natural gas are influenced by: (1) source of supply i.e. field, composition or impurities; (2) the processing of natural gas by the production and transmission companies; (3) the regional gas supply, storage, and demand balancing done by distribution companies often in concert with pipeline companies to maintain uninterrupted service throughout the year, e.g., peak shaving with propane-air (see U.S. Bureau of Mines Publication 503); and (4) dispensing site maintenance characteristics i.e. filtration and drying.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The Coordinating Research Council (CRC) has published the results of a national compressed natural gas vehicle fuel survey. Information on the properties of distribution system natural gas and its variability has been included in &lt;span class="xref"&gt;Figure 1&lt;/span&gt;, &lt;span class="xref"&gt;2&lt;/span&gt;, and &lt;span class="xref"&gt;3&lt;/span&gt;, and can be found in CRC Report No. PC-2-12. Composition can vary hourly under certain operating conditions in certain areas of the country. Thus the data should generally be considered representative for the areas mentioned with due consideration for local variation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Natural gases transported throughout the U. S. are not subject to uniform national standards. Under federal government rules covering interstate sales of natural gas, the U. S. Federal Energy Regulatory Commission (FERC) adjudicates tariffs, placing economic and technical requirements upon natural gases entering interstate commerce. In 2006, FERC issued a policy statement advising stakeholders that:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Only natural gas quality and interchangeability specifications contained in FERC-approved gas tariffs can be enforced;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Pipeline tariff provisions on gas quality and interchangeability need to be flexible to allow pipelines to balance safety and reliability concerns;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Pipelines and their customers should develop gas quality and interchangeability specifications based on technical requirements;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;4&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;In negotiating technically-based solutions, pipelines and their customers are strongly encouraged to use the Natural Gas Council Plus (NGC+) Interim Guidelines…as a common reference point for resolving gas quality and interchangeability issues; and&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;5&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;To the extent pipelines and their customers cannot resolve disputes over gas quality and interchangeability, those disputes can be brought before FERC to be resolved on a case-by-case basis…&lt;sup&gt;&lt;span class="xref"&gt;1&lt;/span&gt;&lt;/sup&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;The NGC+ Interim Guidelines call for natural gas specifications that include:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A range of plus or minus 4% Wobbe number variation from local historical average gas, or alternatively, established adjustment or target gas for the service territory, subject to:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Maximum Wobbe number limit: 1400&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Maximum higher heating value limit: 1110 Btu/scf&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Additional composition maximum limits:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Maximum butanes+: 1.5 mole percent&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Maximum total inerts: 4 mole percent&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;EXCEPTION: Service territories with demonstrated experience with supplies exceeding these Wobbe, higher heating value and/or compositional limits may continue to use supplies conforming to this experience as long as it does not unduly contribute to safety and utilization problems of end use equipment.&lt;sup&gt;&lt;span class="xref"&gt;2&lt;/span&gt;&lt;/sup&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;While the Interim Guidelines provide only guidance for the setting of tariff limits on gas quality, experience has shown that in most cases the Wobbe and higher heating value limits are used in interstate tariffs. Since the bulk of U. S. sales of natural gas fall under FERC jurisdiction, this means that the Interim Guideline limits represent, in most cases, the limits that apply to natural gases received by distribution systems. Intrastate natural gas sales, by contrast, are not within FERC jurisdiction, but customers including utilities receiving gases from both intrastate and interstate sources, for practical purposes, generally receive natural gas that meet&lt;u&gt;s&lt;/u&gt; the Interim Guidelines.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The NGC+ Interim Guidelines address combustion issues associated with natural gases. Separately, FERC considered condensable hydrocarbons in response to a second paper from NGC+.&lt;sup&gt;&lt;span class="xref"&gt;3&lt;/span&gt;&lt;/sup&gt; No specific actions were recommended by FERC in response to the NGC+ recommendations from this report, which basically recommended translation of historical condensable hydrocarbon experience into more general phase diagram-depicted “cricondentherm hydrocarbon dew point” (CHDP) criteria for higher hydrocarbon mixtures. CHDP criteria help ensure that natural gases of various compositions remain in gaseous state at all operating pressures and all reasonable ambient temperatures.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Natural gas is comprised chiefly of methane (generally 88 to 96 mole percent) with the balance being a decreasing proportion of proportion of higher hydrocarbon alkanes such as ethane, propane, and butane. It can also contain nitrogen, water, carbon dioxide, oxygen, sulfur compounds and trace amounts of lubricating oil. At the retail outlet a warning agent, or odorant, is likely present in natural gas.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Experience with natural gas vehicles has grown considerably. Fleet and ongoing in-use applications provide a foundation for characterizing gas composition factors that will help to understand gas quality effects on vehicle and overall performance and may cause fundamental operational problems for natural gas vehicles (NGVs). Water content and other corrosion precursors, heavier hydrocarbons, which may condense within the fuel container, particulate matter, oil, and energy content all need to be considered. Condensable hydrocarbons (liquid state) are also of concern in NGV equipment degradation.&lt;/div&gt;
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

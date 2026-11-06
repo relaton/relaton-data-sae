@@ -1,0 +1,56 @@
+---
+id: SAEAMS3052A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Grease, Aircraft, General Purpose, Low Temperature Range, Lithium Thickened
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3052a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3052a-grease-aircraft-general-purpose-low-temperature-range-lithium-thickened
+docidentifier:
+- content: SAE AMS3052A
+  type: SAE
+  primary: true
+- content: 10.4271/ams3052a
+  type: DOI
+date:
+- type: approved
+  at: '2018-05-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS M Aerospace Greases Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers grease for use within an aircraft. It also defines the quality control requirements to assure batch conformance and materials traceability, and the procedures to manage and communicate changes in the grease formulation and brand. This specification invokes the Performance Review Institute (PRI) product qualification process. Requests for submittal information may be made to the PRI at the address in &lt;span class="xref"&gt;2.2&lt;/span&gt;, referencing this specification. Products qualified to this specification are listed on a Qualified Products List (QPL) managed by the PRI. Additional tests and evaluations may be required by individual equipment builders before a grease is approved for use in their equipment. Approval and/or certification for use of a specific grease in aero and aero-derived marine and industrial applications is the responsibility of the individual equipment builder and/or governmental authorities and is not implied by compliance with or qualification to this specification.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

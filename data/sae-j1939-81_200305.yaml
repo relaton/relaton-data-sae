@@ -1,0 +1,58 @@
+---
+id: SAEJ193981_200305
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: NETWORK MANAGEMENT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939/81_200305
+- type: src
+  content: https://saemobilus.sae.org/standards/j193981_200305-network-management
+docidentifier:
+- content: SAE J1939/81_200305
+  type: SAE
+  primary: true
+- content: 10.4271/j1939/81_200305
+  type: DOI
+date:
+- type: approved
+  at: '2003-05-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;These SAE Recommended Practices are intended for light and heavy duty vehicles used on or off road as well as appropriate stationary applications which use vehicle derived components (e. g. generator sets). Vehicles of interest include, but are not limited to on and off highway trucks and their trailers; construction equipment; and agricultural equipment and implements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The purpose of these documents is to provide an open interconnect system for electronic systems. It is the intention of these documents to allow Electronic Control Units to communicate with each other by providing a standard architecture.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Network management in the SAE J1939 network is concerned with the management of source addresses and the association of those addresses with an actual function and with the detection and reporting of network related errors. Due to the nature of management of source addresses, network management also specifies initialization processes, requirements for reaction to brief power outages and minimum requirements for ECUs on the network.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

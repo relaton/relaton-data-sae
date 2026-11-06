@@ -1,0 +1,57 @@
+---
+id: SAEARP1192
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: METHOD FOR CALIBRATION AND VERIFICATION OF AUTOMATIC LIQUIDBORNE PARTICLE
+    COUNTER (LIGHT METHOD)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1192
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1192-method-calibration-verification-automatic-liquidborne-particle-counter-light-method
+docidentifier:
+- content: SAE ARP1192
+  type: SAE
+  primary: true
+- content: 10.4271/arp1192
+  type: DOI
+date:
+- type: approved
+  at: '1971-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice covers the calibration and verification of automatic liquid-borne particle counter for the determination of the concentration by number and size distribution of particles in aerospace liquids. This method is intended for the standardization of automatic liquid-borne particle counting instrumentation.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

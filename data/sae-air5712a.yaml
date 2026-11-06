@@ -1,0 +1,56 @@
+---
+id: SAEAIR5712A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Common Launch Acceptability Region Approach (CLARA) Rationale Document
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5712a
+- type: src
+  content: https://saemobilus.sae.org/standards/air5712a-common-launch-acceptability-region-approach-clara-rationale-document
+docidentifier:
+- content: SAE AIR5712A
+  type: SAE
+  primary: true
+- content: 10.4271/air5712a
+  type: DOI
+date:
+- type: approved
+  at: '2012-08-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1B Aircraft Store Integration Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document was developed by the SAE AS-1B5 CLARA Task Group to explain and document background information and decisions with associated rationale made in development of the CLARA Interface Control Document (ICD), AIR5682. This rationale document is published separately to preserve information that is not required or provided in the ICD but may be important to users.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

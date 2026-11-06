@@ -1,0 +1,57 @@
+---
+id: SAEARP1705B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Coaxial Test Procedure to Measure the RF Shielding Characteristics of EMI
+    Gasket Materials
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1705b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1705b-coaxial-test-procedure-measure-rf-shielding-characteristics-emi-gasket-materials
+docidentifier:
+- content: SAE ARP1705B
+  type: SAE
+  primary: true
+- content: 10.4271/arp1705b
+  type: DOI
+date:
+- type: approved
+  at: '2012-06-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-4 Electromagnetic Compatibility (EMC) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this procedure is to establish a technique for reliably and repeatedly measuring the RF shielding characteristics of EMI gasket materials and EMI gaskets against various joint surfaces. The procedure is also used to test the reliability of the gasketed joint combinations after being subjected to hostile environments.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

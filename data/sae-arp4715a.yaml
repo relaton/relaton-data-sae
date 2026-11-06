@@ -1,0 +1,57 @@
+---
+id: SAEARP4715A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Induction Hardening of Steel Components
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4715a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4715a-induction-hardening-steel-components
+docidentifier:
+- content: SAE ARP4715A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4715a
+  type: DOI
+date:
+- type: approved
+  at: '2018-04-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice provides guidelines for the establishment of an induction hardening process for steel components. It is intended to be used as a guide for designers of induction hardened parts, for process auditors, and for purchase specifications and/or process sheets as applicable.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Induction heat treatment is intended for hardening of only selected areas of plain carbon or alloy steel components. A prior heat treatment may be specified for improved response of the overall component to induction hardening, or for control of properties in the balance of the part. AMS 2759 is recommended for such prior heat treatment.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

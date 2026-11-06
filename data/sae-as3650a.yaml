@@ -1,0 +1,48 @@
+---
+id: SAEAS3650A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BOLT, MACHINE – DOUBLE HEX HEAD, REDUCED SHANK, UNS N07718 – 185 KSI
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as3650a
+- type: src
+  content: https://saemobilus.sae.org/standards/as3650a-bolt-machine-double-hex-head-reduced-shank-uns-n07718-185-ksi
+docidentifier:
+- content: SAE AS3650A
+  type: SAE
+  primary: true
+- content: 10.4271/as3650a
+  type: DOI
+date:
+- type: approved
+  at: '2015-04-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

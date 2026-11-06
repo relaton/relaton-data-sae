@@ -1,0 +1,55 @@
+---
+id: SAEAMS4102G
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Bars, Rods, and Wire, Rolled Or Cold-Finished 99.0a1, as
+    Fabricated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4102g
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4102g-aluminum-alloy-bars-rods-wire-rolled-cold-finished-990a1-fabricated
+docidentifier:
+- content: SAE AMS4102G
+  type: SAE
+  primary: true
+- content: 10.4271/ams4102g
+  type: DOI
+date:
+- type: approved
+  at: '2001-11-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers an aluminum alloy in the form of bars, rods,
+    and wire.  Primarily for parts requiring good formability and weldability in fabrications
+    where strength is unimportant.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

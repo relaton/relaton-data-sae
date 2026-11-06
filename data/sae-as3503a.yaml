@@ -1,0 +1,49 @@
+---
+id: SAEAS3503A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: INSERT, SCREW THREAD, SELF LOCKING PLASTIC LOCKING DEVICE, SOLID FILM LUBRICATED,
+    SELF-BROACHING KEYS, OVERSIZE UNS S66286
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as3503a
+- type: src
+  content: https://saemobilus.sae.org/standards/as3503a-insert-screw-thread-self-locking-plastic-locking-device-solid-film-lubricated-self-broaching-keys-oversize-uns-s66286
+docidentifier:
+- content: SAE AS3503A
+  type: SAE
+  primary: true
+- content: 10.4271/as3503a
+  type: DOI
+date:
+- type: approved
+  at: '2025-08-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

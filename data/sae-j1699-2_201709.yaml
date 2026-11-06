@@ -1,0 +1,57 @@
+---
+id: SAEJ16992_201709
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Test Cases for OBD-II Scan Tools and I/M Test Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1699/2_201709
+- type: src
+  content: https://saemobilus.sae.org/standards/j16992_201709-test-cases-obd-ii-scan-tools-m-test-equipment
+docidentifier:
+- content: SAE J1699/2_201709
+  type: SAE
+  primary: true
+- content: 10.4271/j1699/2_201709
+  type: DOI
+date:
+- type: approved
+  at: '2017-09-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;To define test cases for the OBD-II interface on external test equipment (such as an OBD-II Scan Tool, Inspection/Maintenance Tester, etc.) which can be used to verify compliance with the applicable standards such as SAE J1978 and SAE J1979 for Passenger Cars, Light-Duty Trucks, and Medium-Duty Vehicles and Engines (OBD II).&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

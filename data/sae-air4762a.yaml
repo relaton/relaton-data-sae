@@ -1,0 +1,60 @@
+---
+id: SAEAIR4762A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Compilation of Freezing Brake Experience and Potential Designs and Operating
+    Procedures to Prevent Its Occurrence
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4762a
+- type: src
+  content: https://saemobilus.sae.org/standards/air4762a-compilation-freezing-brake-experience-potential-designs-operating-procedures-prevent-occurrence
+docidentifier:
+- content: SAE AIR4762A
+  type: SAE
+  primary: true
+- content: 10.4271/air4762a
+  type: DOI
+date:
+- type: approved
+  at: '2016-05-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5A Wheels, Brakes and Skid Controls Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Information Report (AIR) describes conditions under which freezing (frozen) brakes can occur and describes operating procedures which have been used to prevent or lessen the severity or probability of brake freezing.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document also identifies design features that some manufacturers implement to minimize the occurrence of freezing brakes.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is not an Aerospace Recommended Practice (ARP) and therefore does not make recommendations based on a consensus of the industry. However, part of this document’s purpose is to describe the design and operational practices that some are using to minimize the risk of frozen brakes.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: The following information is based upon experience gained across a wide-range of aircraft types and operational profiles, and should NOT take precedence over Aircraft Flight Manual or Flight Operations Procedures.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

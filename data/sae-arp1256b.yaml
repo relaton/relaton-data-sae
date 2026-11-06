@@ -1,0 +1,57 @@
+---
+id: SAEARP1256B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PROCEDURE FOR THE CONTINUOUS SAMPLING AND MEASUREMENT OF GASEOUS EMISSIONS
+    FROM AIRCRAFT TURBINE ENGINES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1256b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1256b-procedure-continuous-sampling-measurement-gaseous-emissions-aircraft-turbine-engines
+docidentifier:
+- content: SAE ARP1256B
+  type: SAE
+  primary: true
+- content: 10.4271/arp1256b
+  type: DOI
+date:
+- type: approved
+  at: '1990-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-31 Aircraft Eng Gas and Particulate Emissions Measurement
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice (ARP) describes the continuous sampling and analysis of gaseous emissions from aircraft gas turbine engines and is intended to standardize the emission test procedures&lt;span class="xref"&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/span&gt; and equipment for measuring carbon monoxide, carbon dioxide, nitric oxide, nitrogen dioxide, and total hydrocarbons. This ARP is not intended for in-flight testing, nor does it apply to engines operating in the afterburning mode.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

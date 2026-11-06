@@ -1,0 +1,49 @@
+---
+id: SAEAS6043A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FITTING, TEE, STANDARD AND REDUCER, BULKHEAD ON RUN, FLARELESS, PRECISION
+    TYPE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6043a
+- type: src
+  content: https://saemobilus.sae.org/standards/as6043a-fitting-tee-standard-reducer-bulkhead-run-flareless-precision-type
+docidentifier:
+- content: SAE AS6043A
+  type: SAE
+  primary: true
+- content: 10.4271/as6043a
+  type: DOI
+date:
+- type: approved
+  at: '2012-07-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

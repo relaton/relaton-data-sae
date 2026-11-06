@@ -1,0 +1,57 @@
+---
+id: SAEAMS4308B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Sheet 8.6Fe - 1.8Si - 1.3V (8009-H112) Powder Metallurgy
+    Product, Strain Hardened
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4308b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4308b-aluminum-alloy-sheet-86fe-18si-13v-8009-h112-powder-metallurgy-product-strain-hardened
+docidentifier:
+- content: SAE AMS4308B
+  type: SAE
+  primary: true
+- content: 10.4271/ams4308b
+  type: DOI
+date:
+- type: approved
+  at: '2017-04-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy powder metallurgy product in the form of sheet 0.010 to 0.250 inch (0.25 to 6.35 mm) in nominal thickness.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

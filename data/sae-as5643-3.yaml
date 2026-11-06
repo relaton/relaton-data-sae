@@ -1,0 +1,88 @@
+---
+id: SAEAS56433
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: IEEE 1394 Beta PHY Enhancements
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5643/3
+- type: src
+  content: https://saemobilus.sae.org/standards/as56433-ieee-1394-beta-phy-enhancements
+docidentifier:
+- content: SAE AS5643/3
+  type: SAE
+  primary: true
+- content: 10.4271/as5643/3
+  type: DOI
+date:
+- type: approved
+  at: '2026-09-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) establishes guidelines for enhancement to IEEE 1394-2008 Beta (formerly IEEE 1394b) PHYsical (PHY) layer. It encompasses enhancements to the IEEE 1394-2008 Beta PHY to reduce port connection times and increase port connection reliability.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Therefore, this document contains extensions/restrictions to “off-the-shelf” IEEE 1394 standards and assumes that the reader already has a working knowledge of IEEE 1394.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The enhancements covered in this document include:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Detect loss of descrambler synchronization&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Fast-ReTrain (FRT)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Fast Power-on Re-connect (FPR)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Fast Connection Tone Debounce (FTD)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Programmable invalidCount&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Bus Reset Cause&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not identify specific environmental requirements (electromagnetic compatibility, temperature, vibration, etc.); such requirements will be vehicle-specific and even LRU-specific. One should refer to the appropriate sections of MIL-STD-461E for their particular LRU and utilize handbooks such as MIL-HDBK-454A and MIL-HDBK-5400 for guidance.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is referred to as a “slash sheet” and accompanies the AS5643B base standard.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

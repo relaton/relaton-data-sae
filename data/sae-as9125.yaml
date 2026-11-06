@@ -1,0 +1,59 @@
+---
+id: SAEAS9125
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Series - Non-Deliverable Software Requirements
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9125
+- type: src
+  content: https://saemobilus.sae.org/standards/as9125-aerospace-series-non-deliverable-software-requirements
+docidentifier:
+- content: SAE AS9125
+  type: SAE
+  primary: true
+- content: 10.4271/as9125
+  type: DOI
+date:
+- type: approved
+  at: '2024-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard defines the requirements for the effective control of non-deliverable software. This standard can be used during the design, development, test, production, release, use, maintenance, and retirement of non-deliverable software. This can include non-deliverable software procured from external suppliers and utilized in the design, production, evaluation, test, acceptance, or calibration of a deliverable product.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard focuses solely on the unique requirements of the operational processes that pertain to non-deliverable software as identified by clause &lt;span class="xref"&gt;1.2&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Operational processes not covered in this standard are addressed by the respective organization’s Quality Management System (QMS), based on the 9100-series (i.e., 9100, 9110, 9120) and/or ISO 9001 standards.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;If there is a conflict between the requirements of this standard, and customer or applicable statutory/regulatory requirements, the latter shall take precedence.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

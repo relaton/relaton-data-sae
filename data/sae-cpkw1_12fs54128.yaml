@@ -1,0 +1,51 @@
+---
+id: SAECPKW1_12FS54128
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: J1995 Certified Power Engine Data for Kawasaki FS541 as used in 2012 Lawn
+    Mowers - Level 1
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/cpkw1_12fs54128
+- type: src
+  content: https://saemobilus.sae.org/services/cpkw1_12fs54128-j1995-certified-power-engine-data-kawasaki-fs541-used-2012-lawn-mowers-level-1
+docidentifier:
+- content: SAE CPKW1_12FS54128
+  type: SAE
+  primary: true
+- content: 10.4271/cpkw1_12fs54128
+  type: DOI
+date:
+- type: approved
+  at: '2011-10-17'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This product includes information on the manufacturer, engine, application,
+    testing location, certified maximum horsepower, certified maximum torque along
+    with the certified curves of horsepower and torque over a wide range of engine
+    RPM speeds.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

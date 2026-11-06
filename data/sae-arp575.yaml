@@ -1,0 +1,59 @@
+---
+id: SAEARP575
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PROCEDURE AND METHOD EVALUATION OF FILTER PATCH TESTING FOR AIRCRAFT HYDRAULIC
+    PUMPS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp575
+- type: src
+  content: https://saemobilus.sae.org/standards/arp575-procedure-method-evaluation-filter-patch-testing-aircraft-hydraulic-pumps
+docidentifier:
+- content: SAE ARP575
+  type: SAE
+  primary: true
+- content: 10.4271/arp575
+  type: DOI
+date:
+- type: approved
+  at: '1959-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;These recommendations are written to cover the subject of obtaining filter patch test samples from aircraft hydraulic pumps of the categories shown below. The same procedure shall apply regardless of the pump drive category.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

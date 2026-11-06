@@ -1,0 +1,59 @@
+---
+id: SAEAIR5532
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Generic Aircraft-Store Interface Framework (GASIF)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5532
+- type: src
+  content: https://saemobilus.sae.org/standards/air5532-generic-aircraft-store-interface-framework-gasif
+docidentifier:
+- content: SAE AIR5532
+  type: SAE
+  primary: true
+- content: 10.4271/air5532
+  type: DOI
+date:
+- type: approved
+  at: '2003-06-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1B Aircraft Store Integration Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) defines a Generic Aircraft-Store Interface Framework (GASIF). This is a common framework for modeling and specifying aircraft-store logical interfaces. GASIF complies with the OSI Basic Reference Model (ITU-T Rec. X.200 | ISO/IEC 7498-1) in that it describes operations and mechanisms which are assignable to layers as specified in the OSI Basic Reference Model.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This AIR provides a mapping of the Interface Standard for Aircraft-store Electrical Interconnection System (AEIS), MIL-STD-1760, in &lt;span class="xref"&gt;Appendix C&lt;/span&gt;.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

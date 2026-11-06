@@ -1,0 +1,59 @@
+---
+id: SAEAIR4275A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Jet Reference Fluid Study for Fuel Tank Sealants
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4275a
+- type: src
+  content: https://saemobilus.sae.org/standards/air4275a-jet-reference-fluid-study-fuel-tank-sealants
+docidentifier:
+- content: SAE AIR4275A
+  type: SAE
+  primary: true
+- content: 10.4271/air4275a
+  type: DOI
+date:
+- type: approved
+  at: '2012-01-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G9 Aerospace Sealing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Standard reference fluids, or test fluids, have long been used to evaluate the effects of hydrocarbon fuels on various materials, such as integral fuel tank sealants. Standard fluids are required because hydrocarbon fuels, such as JP-4, vary widely in composition depending on crude source, refining techniques, and other factors. To ensure reliable and reproducible results when determining the fuel resistance of materials, reference fluids of known composition, using worst case fuel compositions, are used. The current Jet Reference Fluid (JRF) called out in military sealant specifications was developed in the mid-1950s specifically as a JP-4 type test fluid formulation to be used for the accelerated laboratory testing of integral fuel tank sealants.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In August 1978, chalking of the polysulfide sealant in integral fuel tanks of some new aircraft at Edwards Air Force Base in California was discovered after only 1 year of service. Although chalking of polysulfide sealants had been observed occasionally in the past, the rate of chalking was unprecedented. The results of an investigation showed that the rapid chalking of the polysulfide sealant was caused by a chemical reaction involving metal ions (copper, cadmium, lead, and iron) and mercaptan sulfur in the fuel. It was also noted that qualification testing of the sealant used had not predicted the chalking that occurred in service. Further investigation disclosed that the sealant had passed the chalking test in the military specification because the JRF used in the specifications chalking test did not contain trace metal ions as did the fuel removed from the tanks of the affected aircraft. The special Air Force investigating team included in its final report a recommendation that the JRF specification be reviewed and revised.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The above chalking incident coupled with concerns resulting from deficiencies observed with the current JRF, and from changing sources of JP-4 indicated that an update of the JRF formulation in the sealant specifications was needed. A proposal was made to the SAE Aerospace Sealing Committee (G-9) which then formed a subcommittee for the development of a new Jet Reference Fluid (JRF) for evaluation of integral fuel tank sealants with Mr. W. F. Anspach as its chairman. The subcommittee members were:&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

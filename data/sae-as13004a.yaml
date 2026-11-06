@@ -1,0 +1,58 @@
+---
+id: SAEAS13004A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Process Failure Mode and Effects Analysis (PFMEA) and Control Plans
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as13004a
+- type: src
+  content: https://saemobilus.sae.org/standards/as13004a-process-failure-mode-effects-analysis-pfmea-control-plans
+docidentifier:
+- content: SAE AS13004A
+  type: SAE
+  primary: true
+- content: 10.4271/as13004a
+  type: DOI
+date:
+- type: approved
+  at: '2024-09-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-22 Aerospace Engine Supplier Quality (AESQ) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard defines requirements for the identification, assessment, mitigation, and prevention of risk in the manufacturing process through the application of Process Flow Diagrams (PFDs), Process Failure Mode and Effects Analysis (PFMEA) and Control Plans throughout the life cycle of a product.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard aligns and collaborates with the requirements of AS9100, AS9102, AS9103, and AS9145.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The requirements specified in this standard apply in conjunction with and are not alternative to contractual and applicable statutory and regulatory requirements. In case of conflict between the requirements of this standard and applicable statutory or regulatory requirements, the latter shall take precedence.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

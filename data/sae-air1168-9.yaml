@@ -1,0 +1,88 @@
+---
+id: SAEAIR11689
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Thermophysical Properties of the Natural Environment, Gases, Liquids, and
+    Solids
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1168/9
+- type: src
+  content: https://saemobilus.sae.org/standards/air11689-thermophysical-properties-natural-environment-gases-liquids-solids
+docidentifier:
+- content: SAE AIR1168/9
+  type: SAE
+  primary: true
+- content: 10.4271/air1168/9
+  type: DOI
+date:
+- type: approved
+  at: '2004-06-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AIR is arranged in the following four sections:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;2A&lt;/span&gt; - Properties of the Natural Environment&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;2B&lt;/span&gt; - Properties of Gases&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;2C&lt;/span&gt; - Properties of Liquids&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;2D&lt;/span&gt; - Properties of Solids&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;A summary of each section is given below.&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Section 2A&lt;/span&gt; - This section includes currently applicable earth atmosphere standards (Refs. 101 and 103) and data on the near-Earth environment. Limited data on Mars and Venus reflected solar and planetary-emitted radiation and on micrometeorite data are also included. For space vehicle applications, environmental models are of two general types: orbital and reentry. For orbital models, variable properties such as time and solar flux are usually averaged. Reentry atmospheres are chiefly a function of location and altitude, and selection may be based on reentry location. Variation with latitude is an important local effect (Ref. 106).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The electromagnetic solar radiation data in this section are for altitudes above the Earth’s atmosphere. The amount of radiation energy below 0.22μ (&lt;span class="xref"&gt;Fig. 2A-10&lt;/span&gt;) is small and has little effect on vehicle thermal balance. It is primarily of interest because of degradation effects on thermal control coatings. Planetary albedo (fraction of solar radiation which is reflected) varies strongly with the local solar angle of incidence, surface characteristics, and existence of planetary atmosphere (particularly the extent of cloud cover; see Ref. 121). The following ranges may be used as a guide:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(1)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Earth, 0.33-0.39 (frequently considered as uniform diffuse radiation, average value in low orbits is 0.36).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(2)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Venus, 0.55-0.90 (0.76 at 5500Ǻ).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(3)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Mars, 0.3 at 7000Ǻ; 0.04 below 4500Ǻ.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;Planetary thermal emission is predominantly infrared. Emission from the atmosphere occurs only at wavelengths at which the atmosphere absorbs; for wavelengths where the atmospheric gas is transparent, the emission comes from the planetary surface. An average value of 15% of solar flux is frequently used for low Earth orbits. The opaque atmosphere of Venus prevents long wave surface radiation from emerging. Thermal emission in the 8-13μ range comes from the upper atmosphere, which has an emitting temperature of 230K. The mean Mars surface temperature range is 200-300K, and these values bracket the seasonal, diurnal, and latitudinal variations (Ref. 118).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Considerable uncertainty still exists on meteorite data (Refs. 111-113). Ref. 114 is a more recent attempt to provide an interim standard. Data on space environments can be used only as a guide, since they are subject to rapid obsolescence as additional information from interplanetary probe experiments becomes available.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Sections 2B&lt;/span&gt;, &lt;span class="xref"&gt;2C&lt;/span&gt;, and &lt;span class="xref"&gt;2D&lt;/span&gt; - The data in these sections are presented primarily in graphical form. The data were compiled by Professor Harold Sogin, circa 1966, and represent a selection of the then best currently available sources. The following properties are listed as applicable to the materials listed alphabetically in the index, Par. 7. Consult specific material for desired properties. Materials are indexed by figure number and table number.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Section 2E - Thermodynamic Characteristics of Working Fluids and Section 2F - Properties of Heat Transfer Fluids are in AIR 1168/10.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

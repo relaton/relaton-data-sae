@@ -1,0 +1,56 @@
+---
+id: SAEAMS6473B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Welding Wire 0.88Cr - 1.8Ni - 1.6Co - 0.42Mo - 0.08V (0.28 - 0.33C)
+    (SAE 4330V) Vacuum Melted, Environment Controlled Packaging
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6473b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6473b-steel-welding-wire-088cr-18ni-16co-042mo-008v-028-033c-sae-4330v-vacuum-melted-environment-controlled-packaging
+docidentifier:
+- content: SAE AMS6473B
+  type: SAE
+  primary: true
+- content: 10.4271/ams6473b
+  type: DOI
+date:
+- type: approved
+  at: '2006-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This specification covers a low-alloy steel in the form of welding wire.
+
+    This specification has been declared “CANCELLED” by the Aerospace Materials Division, SAE, as of September, 2006. By this action, this document will remain listed in the Numerical Section of the Index of Aerospace Material Specifications indicating that it has been “CANCELLED”. Cancelled specifications are available from SAE.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

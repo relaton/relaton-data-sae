@@ -1,0 +1,61 @@
+---
+id: SAEARP5151A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Safety Assessment of General Aviation Airplanes and Rotorcraft in Commercial
+    Service
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5151a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5151a-safety-assessment-general-aviation-airplanes-rotorcraft-commercial-service
+docidentifier:
+- content: SAE ARP5151A
+  type: SAE
+  primary: true
+- content: 10.4271/arp5151a
+  type: DOI
+date:
+- type: approved
+  at: '2019-08-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-18C Ongoing Safety Assessment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes a process that may be used to perform the ongoing safety assessment for (1) GAR aircraft and components (hereafter, aircraft), and (2) commercial operators of GAR aircraft. The process described herein is intended to support an overall safety management program. It is to help a company establish and meet its own internal standards. The process described herein identifies a systematic means, but not the only means, to assess continuing airworthiness.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Ongoing safety management is an activity dedicated to assuring that risk is identified and properly eliminated or controlled. The safety management process includes both safety assessment and economic decision-making. While economic decision-making (factors related to scheduling, parts, and cost) is an integral part of the safety management process, this document addresses only the ongoing safety assessment process. This ongoing safety assessment process includes safety problem identification and corrective action, tracking of problems, the application of “lessons learned” to improve the efficiency of the process, and reduction of the time to achieve corrective action in the field.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;ARP5150 is the recommended practice for the safety assessment of Transport Airplanes in Commercial Service. ARP5151 is the recommended practice for the safety assessment process for GAR aircraft in commercial services. While the processes are similar, their implementations are different due to operations, data availability, and sizes of individual operations.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

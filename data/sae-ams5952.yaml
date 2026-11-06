@@ -1,0 +1,59 @@
+---
+id: SAEAMS5952
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nickel Alloy, Corrosion- and Heat-Resistant, Welding and Additive Manufacturing
+    Wire 57Ni - 20Cr - 10Co - 8.5Mo - 2.1Ti - 1.5Al - 0.005B (282) Vacuum Induction
+    Melted and Electroslag or Vacuum Remelted Solution Heat Treated, Cold Worked,
+    Precipitation Heat Treatable
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5952
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5952-nickel-alloy-corrosion-heat-resistant-welding-additive-manufacturing-wire-57ni-20cr-10co-85mo-21ti-15al-0005b-282-vacuum-induction-melted-electroslag-vacuum-remelted-solution-heat-treated-cold-worked-precipitation-heat-treatable
+docidentifier:
+- content: SAE AMS5952
+  type: SAE
+  primary: true
+- content: 10.4271/ams5952
+  type: DOI
+date:
+- type: approved
+  at: '2023-11-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion- and heat-resistant nickel alloy in the form of welding and additive manufacturing wire.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

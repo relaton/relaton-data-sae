@@ -1,0 +1,48 @@
+---
+id: SAEAMS3346B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SILICONE RUBBER 1000 psi 55 - 65
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3346b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3346b-silicone-rubber-1000-psi-55-65
+docidentifier:
+- content: SAE AMS3346B
+  type: SAE
+  primary: true
+- content: 10.4271/ams3346b
+  type: DOI
+date:
+- type: approved
+  at: '1965-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CE Elastomers Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

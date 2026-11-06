@@ -1,0 +1,61 @@
+---
+id: SAEARP1307
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MEASUREMENT OF EXTERIOR NOISE PRODUCED BY AIRCRAFT AUXILIARY POWER UNITS
+    (APUs) AND ASSOCIATED EQUIPMENT DURING GROUND OPERATION
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1307
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1307-measurement-exterior-noise-produced-aircraft-auxiliary-power-units-apus-associated-equipment-ground-operation
+docidentifier:
+- content: SAE ARP1307
+  type: SAE
+  primary: true
+- content: 10.4271/arp1307
+  type: DOI
+date:
+- type: approved
+  at: '1979-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-21 Aircraft Noise Measurement Aviation Emission Modeling
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Test procedures are described for measuring noise at specific locations (passenger and cargo doors, and servicing positions) and for conducting general noise surveys around aircraft.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Requirements are identified with respect to instrumentation; acoustic and atmospheric environment; data acquisition, reduction and presentation, and such other information as is needed for reporting the results.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Recommended procedures involve recording data on magnetic tape for subsequent processing. The use of tape-recorder/time-integrating analyzer systems avoids the need to average by eye the variations associated with manual readings from sound level meters and octave band analyzers and therefore yields more accurate results.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document makes no provision for predicting APU noise from basic engine characteristics, nor for measuring noise of more than one aircraft operating at the same time.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;No attempt is made to suggest acceptable levels of noise or suitable subjective criteria for judging acceptability.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

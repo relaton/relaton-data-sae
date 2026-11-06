@@ -1,0 +1,57 @@
+---
+id: SAEAIR4366
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ISSUES AND CONCERNS ASSOCIATED WITH ELECTRONIC PROPULSION CONTROL SYSTEM
+    PARTITIONING
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4366
+- type: src
+  content: https://saemobilus.sae.org/standards/air4366-issues-concerns-associated-electronic-propulsion-control-system-partitioning
+docidentifier:
+- content: SAE AIR4366
+  type: SAE
+  primary: true
+- content: 10.4271/air4366
+  type: DOI
+date:
+- type: approved
+  at: '1996-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-36 Electronic Engine Controls Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) enumerates areas of concern which need to be addressed when the aircraft propulsion control system functions are distributed. Distributed items may include electronic control sensors, electrical or hydraulic power sources, computer hardware and software, etc. This report identifies many factors which should be considered to determine the best system architecture for any given application.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

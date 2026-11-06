@@ -1,0 +1,57 @@
+---
+id: SAEAIR5306A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Inlet Airflow Ramps for Gas Turbine Engine Test Cells
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5306a
+- type: src
+  content: https://saemobilus.sae.org/standards/air5306a-inlet-airflow-ramps-gas-turbine-engine-test-cells
+docidentifier:
+- content: SAE AIR5306A
+  type: SAE
+  primary: true
+- content: 10.4271/air5306a
+  type: DOI
+date:
+- type: approved
+  at: '2013-12-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EG-1E Gas Turbine Test Facilities and Equipment
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) has been written for individuals associated with the ground-level testing of gas turbine engines and particularly for those who might be interested in upgrading their existing engine test facility to meet the airflow requirements for higher thrust engine models. The intellectual property rights on the material contained in this document are protected by US Patent Number 5,293,775 dated March 15, 1994 assigned to United Technologies Corporation, Hartford, Connecticut, USA. Any individual, or organization, attempting to use the system described in this document should get a clearance from United Technologies Corporation, to avoid any potential liability arising from patent infringement.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEJ1881_200111
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Initial Graphics Exchange Specification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1881_200111
+- type: src
+  content: https://saemobilus.sae.org/standards/j1881_200111-initial-graphics-exchange-specification
+docidentifier:
+- content: SAE J1881_200111
+  type: SAE
+  primary: true
+- content: 10.4271/j1881_200111
+  type: DOI
+date:
+- type: approved
+  at: '2001-11-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Manufacturing Division
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The Initial Graphics Exchange Specification (I.G.E.S.) defines a neutral
+    file format for facilitating transfer of graphic information between dissimilar
+    CAD/CAM systems. This specification is being developed under the auspices of the
+    National Institute for Standards and Technology and in the opinion of this committee
+    is properly addressing the key communication issue of dissimilar graphic data
+    formats.  The purpose of this SAE Recommended Practice is to establish a  uniform
+    practice for the exchange of graphic data between organizations using dissimilar
+    CAD/CAM systems.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,62 @@
+---
+id: SAEAS8033
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nickel Cadmium Vented Rechargeable Aircraft Batteries (Non-Sealed, Maintainable
+    Type)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8033
+- type: src
+  content: https://saemobilus.sae.org/standards/as8033-nickel-cadmium-vented-rechargeable-aircraft-batteries-non-sealed-maintainable-type
+docidentifier:
+- content: SAE AS8033
+  type: SAE
+  primary: true
+- content: 10.4271/as8033
+  type: DOI
+date:
+- type: approved
+  at: '2017-10-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7B Power Management, Distribution and Storage
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The Nickel Cadmium battery covered by this Aerospace Standard is the type which is generally, although not exclusively, used for engine starting purposes in turbine-powered aircraft and/or on aircraft with turbine type Auxiliary Power Units. This turbine starting function requires high power delivery rates from the battery for 15 to 30 seconds or more for each engine start. This same battery may also be used at lower power delivery rates, as the final redundant source of emergency electrical energy for the operation of essential flight equipment for required periods of 30 to 60 minutes.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The battery generally consists of a group of plastic jarred cells contained within an enclosing battery case. They are electrically connected in series with each other and usually terminate in an electrical connector mounted in the case front wall. The battery case may be secured to the aircraft structure by any of a number of clamping techniques.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The outer or battery case is ventilated to purge it of gases, such as the hydrogen and oxygen produced in overcharge. This ventilation may be of the closed air circuit type which is accomplished by passing air through the case and then exhausting these gases overboard. An alternative method, which is used to purge these gases from the battery case, is to encourage their natural convective diffusion with the ambient air in the compartment which contains the battery, by use of relatively open construction of the battery case and cover.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The battery, while in service, is generally charged by one of two methods: 1) by direct electrical connection to the D.C. bus which in turn is supplied by a regulated/controlled “constant potential” source such as a D.C. generator, or 2) from a dedicated “constant current” source in a system whereby the battery response voltage controls the termination, and also possibly the reinitiation, of that charge current. The “control” voltage of the “constant current” charge system or the regulated supply voltage of the “constant potential” system, may be compensated, or automatically adjusted, according to cell temperature, in order to more accurately control the state of “full charge” and minimize the amount of water used during overcharge.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These batteries may be equipped internally with heaters, thermal switches, thermal sensors, etc. for performing various functions both inside the battery and/or in the aircraft/battery system. In addition, some battery types have air passages between cells with appropriate plenum chambers above and below the cells, for more positive responsive control of cell temperature, by the passage of conditioned air.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

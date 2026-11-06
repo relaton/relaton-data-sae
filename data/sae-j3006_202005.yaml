@@ -1,0 +1,60 @@
+---
+id: SAEJ3006_202005
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Low-Duty Inertia Dynamometer Hydraulic Brake Wear Test Procedures for Vehicles
+    Above 4536 kg (10000 pounds) of GVWR
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3006_202005
+- type: src
+  content: https://saemobilus.sae.org/standards/j3006_202005-low-duty-inertia-dynamometer-hydraulic-brake-wear-test-procedures-vehicles-4536-kg-10000-pounds-gvwr
+docidentifier:
+- content: SAE J3006_202005
+  type: SAE
+  primary: true
+- content: 10.4271/j3006_202005
+  type: DOI
+date:
+- type: approved
+  at: '2020-05-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Hydraulic Brake Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Recommended Practice is derived from OEM and tier-1 laboratory tests and applies to two-axle multipurpose passenger vehicles, or trucks with a GVWR above 4536 kg (10 000 pounds) equipped with hydraulic disc or drum service brakes. Before conducting testing for a specific brake sizes or under specific test conditions, review, agree upon, and document with the test requestor any deviations from the test procedure. Also, the applicable criteria for the final test results and wear rates deemed as significantly different require definition, assessment, and proper documentation; especially as this will determine whether or not Method B testing is needed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This Recommended Practice does not evaluate or quantify other brake system characteristics such as performance, noise, judder, ABS performance, or braking under extreme temperatures or speeds. Minimum performance requirements are not part of this recommended practice. Consistency and margin of pass/fail of the minimum requirements related to wear rates and wear behavior can be assessed as part of the project in coordination with the test requestor.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: This Recommended Practice uses the unit conversion and rounding techniques from the NIST Special Publication 811. This to ensure the use of standard conversion factors and to determine the appropriate number of significant digits to ensure the Rounding Error (RE) of the converted unit is smaller than or similar to the RE of the original English or Imperial unit.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

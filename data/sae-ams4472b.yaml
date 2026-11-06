@@ -1,0 +1,57 @@
+---
+id: SAEAMS4472B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Plate 4.0Cu - 1.0Li - 0.40Mg - 0.35Ag - 0.13Zr (2195-T34)
+    Solution Heat Treated and Stress Relieved
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4472b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4472b-aluminum-alloy-plate-40cu-10li-040mg-035ag-013zr-2195-t34-solution-heat-treated-stress-relieved
+docidentifier:
+- content: SAE AMS4472B
+  type: SAE
+  primary: true
+- content: 10.4271/ams4472b
+  type: DOI
+date:
+- type: approved
+  at: '2022-10-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of plate 0.500 to 2.250 inches (12.70 to 57.15 mm), inclusive, in nominal thickness (see &lt;span class="xref"&gt;8.6&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

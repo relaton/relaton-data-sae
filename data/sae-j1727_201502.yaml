@@ -1,0 +1,56 @@
+---
+id: SAEJ1727_201502
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Calculation Guidelines for Impact Testing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1727_201502
+- type: src
+  content: https://saemobilus.sae.org/standards/j1727_201502-calculation-guidelines-impact-testing
+docidentifier:
+- content: SAE J1727_201502
+  type: SAE
+  primary: true
+- content: 10.4271/j1727_201502
+  type: DOI
+date:
+- type: approved
+  at: '2015-02-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Safety Test Instrumentation Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice presents a series of standard calculations and numerical methods for processing safety test instrumentation data that has been acquired during impact tests with instruments installed in ATD’s (crash test dummies), vehicle structures, and laboratory fixtures. The output data from performing these calculations may have applications that include energy analysis, biomechanical analysis, regulation compliance, or other purposes. However, application of the output data from these calculations is outside the scope of this document. It is the intent of this document to present a basic set of calculations that are applicable to test labs that follow the practices set forth by SAE J211-1, SAE J211-2, SAE J2570, and SAE J1733. For the calculations that are described in other sources, the relevant documents are referenced.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

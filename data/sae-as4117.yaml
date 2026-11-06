@@ -1,0 +1,57 @@
+---
+id: SAEAS4117
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TEST PLAN FOR THE DIGITAL TIME DIVISION COMMAND/RESPONSE MULTIPLEX DATA
+    BUS COUPLERS, TERMINATORS, AND DATA BUS CABLES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4117
+- type: src
+  content: https://saemobilus.sae.org/standards/as4117-test-plan-digital-time-division-command-response-multiplex-data-bus-couplers-terminators-data-bus-cables
+docidentifier:
+- content: SAE AS4117
+  type: SAE
+  primary: true
+- content: 10.4271/as4117
+  type: DOI
+date:
+- type: approved
+  at: '2011-11-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This test plan defines the requirements of data bus components which comply with the requirements of MIL-STD-1553B, Digital Time Division Command/Response Multiplex Data Bus.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

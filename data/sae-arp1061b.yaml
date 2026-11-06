@@ -1,0 +1,60 @@
+---
+id: SAEARP1061B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Altitude Alerting Devices and Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1061b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1061b-altitude-alerting-devices-systems
+docidentifier:
+- content: SAE ARP1061B
+  type: SAE
+  primary: true
+- content: 10.4271/arp1061b
+  type: DOI
+date:
+- type: approved
+  at: '2020-04-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4 Aircraft Instruments Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides performance criteria for Altitude Alerting Devices and Systems. These devices can be self-contained or receive remote altitude information and can have integral or remote barometric corrections. Only the generation of the alerting signals is covered by this recommended practice and not the details of the visual or audio alerts operated by these signals. It is recommended that the system’s operational correspondence between the selected altitude settings of the Altitude Alerting Device and the Altitude Level Indication normally used to control the aircraft should not exceed ±250 ft RSS throughout the operating range of the device.&lt;/div&gt;
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

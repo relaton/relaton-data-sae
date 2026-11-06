@@ -1,0 +1,57 @@
+---
+id: SAEARP4904A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Capability Guidelines for Computer Controlled Test Equipment for Hydraulic
+    Components
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4904a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4904a-capability-guidelines-computer-controlled-test-equipment-hydraulic-components
+docidentifier:
+- content: SAE ARP4904A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4904a
+  type: DOI
+date:
+- type: approved
+  at: '2014-04-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C4 Power Sources Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) establishes software capability guidelines for computer controlled test equipment, hereinafter referred to as automatic test equipment (ATE), for testing hydraulic components. A typical ATE system is shown in &lt;span class="xref"&gt;Figure 1&lt;/span&gt;. The items herein have been selected as potential features which may or may not be applicable to a particular application. This document does not address software development requirements, qualification procedures, or hardware design requirements, but encourages users to refer to existing documents, defined in &lt;span class="xref"&gt;2.1.1&lt;/span&gt;, for guidance on such issues.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

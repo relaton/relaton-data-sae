@@ -1,0 +1,60 @@
+---
+id: SAEAIR5113
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Legal Issues Associated with the Use of Probabilistic Design Methods
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5113
+- type: src
+  content: https://saemobilus.sae.org/standards/air5113-legal-issues-associated-use-probabilistic-design-methods
+docidentifier:
+- content: SAE AIR5113
+  type: SAE
+  primary: true
+- content: 10.4271/air5113
+  type: DOI
+date:
+- type: approved
+  at: '2012-05-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-11 Probabilistic Methods and Uncertainty Quantification
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) addresses legal issues concerning use of non-deterministic methods in the design and/or analysis of systems. The investigation includes an assessment of legal precedent for use of these methods both in the aerospace industry and in other non-aerospace engineering contexts. The investigation is primarily, but not exclusively, focused on United States of America Federal and State Law.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is not intended to be used in any way as a “legal justification” for the use of Probabilistic Methods - it is simply a compilation of experience and past precedent.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Many engineers note that the use of Probabilistic Methods for failure risk assessment implies an acceptance that any design will have a finite, albeit small, risk of loss of function, and express concern that this could be seized upon in a Court of Law to indicate that the design was “unsafe”. This report helps to allay some of these fears by presenting the logic used in past legal determinations to assess liability following loss of function of artifacts designed using both deterministic and probabilistic engineering methods.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Some recommendations are also provided in the report of “good practice” to be followed when using non-deterministic design methods - most of which are equally applicable to deterministic design methods.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

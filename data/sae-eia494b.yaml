@@ -1,0 +1,58 @@
+---
+id: SAEEIA494B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 32 Bit Binary CL (BCL) and 7 Bit ASCII CL (ACL) Exchange Input Format for
+    Numerically Controlled Machines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/eia494b
+- type: src
+  content: https://saemobilus.sae.org/standards/eia494b-32-bit-binary-cl-bcl-7-bit-ascii-cl-acl-exchange-input-format-numerically-controlled-machines
+docidentifier:
+- content: SAE EIA-494B
+  type: SAE
+  primary: true
+- content: 10.4271/eia494b
+  type: DOI
+date:
+- type: approved
+  at: '2016-05-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Systems Management Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this Standard is the definition of the response of a numerically controlled machine to a valid sequence of records made up of 32 bit binary words or ASCII text strings. The Standard defines the structure of these records and of the 32 bit binary words or ASCII text strings which make up the records.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard addresses the control of machines capable of performing 2, 3, 4, and 5 axis motion of an active tool (mill, laser, pen, etc.) relative to a part, and those capable of 2 and 4 axis tool motion relative to a rotating part (turning machines), including parallel tool slide sets capable of concurrent (merged) motion.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,60 @@
+---
+id: SAEARP5879
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace – Test Methodology for Electrohydrostatic Actuators
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5879
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5879-aerospace-test-methodology-electrohydrostatic-actuators
+docidentifier:
+- content: SAE ARP5879
+  type: SAE
+  primary: true
+- content: 10.4271/arp5879
+  type: DOI
+date:
+- type: approved
+  at: '2010-04-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6B2 Electrohydrostatic Actuation Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides an overview of the tests and issues related to testing that are unique to Electrohydrostatic Actuators (EHAs). An EHA incorporates a linear or rotary hydraulic actuator and a variable speed, reversible electric servomotor driving a fixed displacement hydraulic pump for actuator control, and associated power drive electronics. The tests and issues documented are not necessarily all-inclusive. This document discusses both, the tests applicable to EHAs and the test methodologies to accomplish the test objectives.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document also lists tests that are not unique to EHAs, but are still applicable to EHAs. In these instances a discussion of such tests is not contained in this document, and as applicable, the reader may reference ARP1281 (Actuators: Aircraft Flight Controls, Power Operated, Hydraulic, General Specification For), which addresses test issues applicable to electrohydraulic flight control servoactuators.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In the discussion of the tests and test methodologies contained in this document, numerical definition or specification of the test parameters to be imposed or measured is not included. These definitions or specifications should be developed to conform to the requirements of the applicable EHA technical specification document, considering the usual influencing factors such as instrumentation accuracy, test temperature, etc.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

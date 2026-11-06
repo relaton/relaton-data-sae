@@ -1,0 +1,43 @@
+---
+id: SAEAIR63
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: O-Ring Size & Part Number Cross-Reference Chart
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air63
+- type: src
+  content: https://saemobilus.sae.org/standards/air63-o-ring-size-part-number-cross-reference-chart
+docidentifier:
+- content: SAE AIR63
+  type: SAE
+  primary: true
+- content: 10.4271/air63
+  type: DOI
+date:
+- type: approved
+  at: '1960-07-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

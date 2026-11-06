@@ -1,0 +1,68 @@
+---
+id: SAEAIR13A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FINAL REPORT ON COLD STARTING OF RECIPROCATING AIRCRAFT ENGINES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air13a
+- type: src
+  content: https://saemobilus.sae.org/standards/air13a-final-report-cold-starting-reciprocating-aircraft-engines
+docidentifier:
+- content: SAE AIR13A
+  type: SAE
+  primary: true
+- content: 10.4271/air13a
+  type: DOI
+date:
+- type: approved
+  at: '1951-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>INTRODUCT ION
+    Conventional internal conbustion a i r c r a f t engines require the same
+    basic conditions for starting in cold weather as they do in warn
+    weather. These are:
+    (1) The engine must be cranked a t a reasonable speed.
+    ( 2 ) A combustible mixture must be delivered t o the
+    cylinders.
+    (3) An ignition spark must be supplied which is capable of
+    igniting t'ne charge a t the proper t i m e .
+    (4) The fits and olearanoes of mating parts in the engine
+    m u s t be such that normal Sunctions occur a t a l l
+    temperatures.
+    (5) The engine must receive a usable lubricant.
+    (6) The engine must develop s u f f i c i e n t power t o overcome
+    its own f r i c t i o n and accelerate itself t o the desired
+    operating speed.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,54 @@
+---
+id: SAEARP824
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hose Assemblies, Flexible Metal, High Pressure and  High Temperature
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp824
+- type: src
+  content: https://saemobilus.sae.org/standards/arp824-hose-assemblies-flexible-metal-high-pressure-high-temperature
+docidentifier:
+- content: SAE ARP824
+  type: SAE
+  primary: true
+- content: 10.4271/arp824
+  type: DOI
+date:
+- type: approved
+  at: '2002-12-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This recommended practice covers the requirements and qualification
+    tests for two types of flexible, all-metal hose assemblies intended for hydraulic
+    use on aircraft at rated pressures of 4000 psi.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

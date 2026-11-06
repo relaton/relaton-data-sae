@@ -1,0 +1,56 @@
+---
+id: SAEARP85D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AIR CONDITIONING EQUIPMENT, GENERAL REQUIREMENTS FOR SUBSONIC AIRPLANES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp85d
+- type: src
+  content: https://saemobilus.sae.org/standards/arp85d-air-conditioning-equipment-general-requirements-subsonic-airplanes
+docidentifier:
+- content: SAE ARP85D
+  type: SAE
+  primary: true
+- content: 10.4271/arp85d
+  type: DOI
+date:
+- type: approved
+  at: '1961-08-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Air Conditioning System - General - Dealing with Design Features&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

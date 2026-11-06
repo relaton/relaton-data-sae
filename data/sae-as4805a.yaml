@@ -1,0 +1,58 @@
+---
+id: SAEAS4805A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Solid-State Power Controller, General Standard For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4805a
+- type: src
+  content: https://saemobilus.sae.org/standards/as4805a-solid-state-power-controller-general-standard
+docidentifier:
+- content: SAE AS4805A
+  type: SAE
+  primary: true
+- content: 10.4271/as4805a
+  type: DOI
+date:
+- type: approved
+  at: '2025-03-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7B Power Management, Distribution and Storage
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) covers the general requirements for the design, manufacture, and test of 28 VDC, 270 VDC, and 115 VAC solid-state power controllers (SSPCs) for use in electrical power systems. SSPCs conforming to this standard are intended for use in controlling the making and breaking of power circuits for electrically operated equipment and devices, and for providing overload and short-circuit protection. Applications that require SSPCs to have a high level of performance in some areas or may be exposed to harsher electrical or environmental conditions are designated as CLASS A. Applications that utilize SSPCs in moderate level of performance or are exposed to a controlled environment are designated as CLASS C.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Applicability of both MIL-STD-704 and RTCA DO-160G have been considered when determining the performance standards for the designated classes of SSPCs. To support older aircraft platforms, legacy versions of these specifications were also considered as guidance when determining minimum performance given that prior revisions of these specifications may have demanded more stringent performance.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard is applicable to products containing one or more SSPCs. Compliance of a product to this standard requires that all SSPCs within the product adhere to one of the two classes defined for each of the performance requirements specified in this document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

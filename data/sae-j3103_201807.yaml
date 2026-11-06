@@ -1,0 +1,57 @@
+---
+id: SAEJ3103_201807
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Benchmark H-Point Procedure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3103_201807
+- type: src
+  content: https://saemobilus.sae.org/standards/j3103_201807-benchmark-h-point-procedure
+docidentifier:
+- content: SAE J3103_201807
+  type: SAE
+  primary: true
+- content: 10.4271/j3103_201807
+  type: DOI
+date:
+- type: approved
+  at: '2018-07-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Human Accom and Design Devices Stds Comm
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This procedure provides a method of determining a benchmark SgRP position for adjustable Driver’s seats in Class A vehicles where the design intent information is not available. Class A vehicles include passenger cars, multipurpose passengervehicles, and vans with Seat Heights (H30) greater than 127 mm and less than 405 mm for the purposes of this document. Once the Driver’s Seat Benchmark SgRP is determined other seating positions can be readily benchmarked based on the standard procedures.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document references installation procedures using the SAE J826 H-point Machine. If desired the document can be adapted to use the HPM-II by substituting the appropriate SAE J4002 instatllation procedures. In that case, the use of the HPM-II should be clearly documented. Since the SgRP is the basis for many interior benchmark dimensions this information can be used to assess or compare vehicle interiors in a standard repeatable way based on the packaging limitations of the property.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

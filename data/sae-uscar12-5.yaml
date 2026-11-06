@@ -1,0 +1,85 @@
+---
+id: SAEUSCAR125
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ELECTRICAL CONNECTOR DESIGN CRITERIA
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar12-5
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar12-5-electrical-connector-design-criteria
+docidentifier:
+- content: SAE USCAR-12-5
+  type: SAE
+  primary: true
+- content: 10.4271/uscar12-5
+  type: DOI
+date:
+- type: approved
+  at: '2017-08-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document gives specific and measurable design criteria to be applied at a design review prior to tooling. The specification is formatted as a checklist to aid in its use. The requirements do not apply in all situations so engineering judgment must be used. This is a specification for design criteria; applicable performance specifications (USCAR-2, etc.) must still be performed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Items in this document are grouped by component as follows:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;A&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Terminals&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;B&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Secondary Terminal Locks&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;C&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Connectors&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;D&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Connector Locks&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;E&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Secondary Connector Locks (Connector Position Assurance, CPA)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;F&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Connector Seals&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;G&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Serviceability&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;H&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;High Voltage (≥60V) Application Requirements&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;I&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Drawing and General Requirements&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

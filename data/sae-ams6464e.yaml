@@ -1,0 +1,56 @@
+---
+id: SAEAMS6464E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: WELDING ELECTRODES, COVERED, STEEL 1.05Mo - 0.20V (0.06 - 0.12C)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6464e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6464e-welding-electrodes-covered-steel-105mo-020v-006-012c
+docidentifier:
+- content: SAE AMS6464E
+  type: SAE
+  primary: true
+- content: 10.4271/ams6464e
+  type: DOI
+date:
+- type: approved
+  at: '1992-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a low-alloy steel in the form of covered welding electrodes.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

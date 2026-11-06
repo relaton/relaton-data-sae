@@ -1,0 +1,49 @@
+---
+id: SAEARP820
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PHYSICAL & PERFORMANCE TESTS FOR TYPE II (-65 to 275 F) O-RING PACKINGS,
+    3000 PSI HYDRAULIC SERVICE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp820
+- type: src
+  content: https://saemobilus.sae.org/standards/arp820-physical-performance-tests-type-ii-65-275-f-o-ring-packings-3000-psi-hydraulic-service
+docidentifier:
+- content: SAE ARP820
+  type: SAE
+  primary: true
+- content: 10.4271/arp820
+  type: DOI
+date:
+- type: approved
+  at: '2007-12-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C2 Seals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

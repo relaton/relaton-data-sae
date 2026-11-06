@@ -1,0 +1,57 @@
+---
+id: SAEJ2738_200510
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Improved Roadway Illumination: Information Resource'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2738_200510
+- type: src
+  content: https://saemobilus.sae.org/standards/j2738_200510-improved-roadway-illumination-information-resource
+docidentifier:
+- content: SAE J2738_200510
+  type: SAE
+  primary: true
+- content: 10.4271/j2738_200510
+  type: DOI
+date:
+- type: approved
+  at: '2005-10-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Road Illumination Devices Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Headlamps should illuminate the traffic scene ahead of the vehicle in such a way that the driver can operate the vehicle safely and in a relaxed manner. At the same time, negative effects on drivers of other vehicles, pedestrians and other people should be minimized. Various technical parameters such as beam pattern, mounting height, headlamp aiming, and source spectrum can be tuned to find the necessary compromise. The physiology of the vision system under specific night time conditions strongly influences these factors and how headlamps can be best optimized for visibility and comfort. The SAE Improved Roadway Illumination task force collected and reviewed relevant research on these topics. This document is a comprehensive summary of this information. The goal is to enable lighting experts, advocacy groups, and non-experts (journalists, consumer organizations, car drivers) to better understand the benefits and tradeoffs of improved roadway lighting with modern headlamp technology. It should be noted that all studies can not be included in this report, but the intent of this document is to provide the reader with a representative sample of the existing research as a starting point. Further, this document can be updated in the future to reflect new research findings.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

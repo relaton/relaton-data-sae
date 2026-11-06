@@ -1,0 +1,59 @@
+---
+id: SAEAIR1387C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Designing with Elastomers for Use at Low Temperatures, Near or Below Glass
+    Transition
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1387c
+- type: src
+  content: https://saemobilus.sae.org/standards/air1387c-designing-elastomers-use-low-temperatures-near-glass-transition
+docidentifier:
+- content: SAE AIR1387C
+  type: SAE
+  primary: true
+- content: 10.4271/air1387c
+  type: DOI
+date:
+- type: approved
+  at: '2003-12-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CE Elastomers Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;To ensure success in design of elastomeric parts for use at low temperature, the design engineer must understand the peculiar properties of rubber materials at these temperatures.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;There are no static applications of rubber. The Gaussian theory of rubber elasticity demonstrates that the elastic characteristic of rubber is due to approximately 15% internal energy and the balance, 85%, is entropy change. In other words, when an elastomer is deformed, the elastomer chain network is forced to rearrange its configuration thereby storing energy through entropy change. Thermodynamically, this means that rubber elasticity is time and temperature dependent (Reference 25).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The purpose of this report is to provide guidance on low temperature properties of rubber with the terminology, test methods, and mathematical models applicable to rubber, and to present some practical experience. In this way, it is hoped that mistakes can be avoided, particularly in selection of rubber materials, enabling the design engineer to weigh low-temperature material properties together with the many other factors involved in the design process.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

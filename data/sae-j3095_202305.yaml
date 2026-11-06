@@ -1,0 +1,58 @@
+---
+id: SAEJ3095_202305
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Linear Impactor Calibration Procedure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3095_202305
+- type: src
+  content: https://saemobilus.sae.org/standards/j3095_202305-linear-impactor-calibration-procedure
+docidentifier:
+- content: SAE J3095_202305
+  type: SAE
+  primary: true
+- content: 10.4271/j3095_202305
+  type: DOI
+date:
+- type: approved
+  at: '2023-05-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Impact and Rollover Test Procedures Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice provides a procedure for measuring quantitatively the physical characteristics of linear impactors that are believed to effect impact test accuracy, repeatability, and reproducibility. Suggested values and tolerance are also provided for specific applications of linear impactor testing (i.e., ejection mitigation tests, head form impact tests, body block tests). Two functional groups of linear impactors are considered: those whose function is related primarily to displacement, and those related to measuring acceleration or force.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

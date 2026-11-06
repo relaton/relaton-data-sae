@@ -1,0 +1,60 @@
+---
+id: SAEARP1256C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Procedure for the Continuous Sampling and Measurement of Gaseous Emissions
+    from Aircraft Turbine Engines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1256c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1256c-procedure-continuous-sampling-measurement-gaseous-emissions-aircraft-turbine-engines
+docidentifier:
+- content: SAE ARP1256C
+  type: SAE
+  primary: true
+- content: 10.4271/arp1256c
+  type: DOI
+date:
+- type: approved
+  at: '2006-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-31 Aircraft Eng Gas and Particulate Emissions Measurement
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) describes the continuous sampling and analysis of gaseous emissions from aircraft gas turbine engines. The measured gas species include carbon monoxide (CO), carbon dioxide (CO&lt;sub&gt;2&lt;/sub&gt;), nitric oxide (NO), nitrogen dioxide (NO&lt;sub&gt;2&lt;/sub&gt;), total hydrocarbons (CH&lt;sub&gt;α&lt;/sub&gt; where “α” is the hydrogen to carbon ratio of the fuel) and water vapor (H2O). This ARP excludes engine operating procedures and test modes, and is not intended for in-flight testing, nor does it apply to engines operating in the afterburning mode.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is recognized that there will probably be major advances in the gas analysis measurement technology. It is not the intent of this ARP to exclude other analysis techniques, but to form the basis of the minimum amount of conventional instruments (those in common industry usage over the last fifteen years) required for the analysis of aircraft engine exhaust. It is the responsibility of the analyst to demonstrate the alternative measurement technology has comparable (or better) performance, than the techniques described in this ARP.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The measurement of other exhaust gas species is beyond the scope of this ARP.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It should be noted the measurement of oxygen (O&lt;sub&gt;2&lt;/sub&gt;) is generally accepted as essential for assessing data quality, but is not covered by this ARP. Sulfur dioxide (SO&lt;sub&gt;2&lt;/sub&gt;) is normally not measured using conventional systems but is calculated from fuel sulfur content. Again this is not covered by this ARP.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

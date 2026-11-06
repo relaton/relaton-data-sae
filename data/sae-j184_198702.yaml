@@ -1,0 +1,63 @@
+---
+id: SAEJ184_198702
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Qualifying A Sound Data Acquisition System
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j184_198702
+- type: src
+  content: https://saemobilus.sae.org/standards/j184_198702-qualifying-a-sound-data-acquisition-system
+docidentifier:
+- content: SAE J184_198702
+  type: SAE
+  primary: true
+- content: 10.4271/j184_198702
+  type: DOI
+date:
+- type: approved
+  at: '1987-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Light Vehicle Exterior Sound Level Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The scope of the recommended practice includes the system performance
+    requirements.for the entire sound measurement system. It provides the methods
+    needed to verify Type 1 or Type 2 instruments. However, it also provides a method
+    to qualify an SDAS that does not meet the requirements in their entirety, but
+    can be used provided knowledge of the test data is obtained and an iterative process
+    is followed in qualifying the SDAS. The system need only be qualified for the
+    dynamic characteristic and weighting mode in which it is to be used. The scope
+    of this document does not include qualification of system components for harmonic
+    distortion, tape recorder wow and flutter, etc. However, these factors must be
+    considered when determining system performance, especially where spectral information
+    is sought. The references in Section 8 should be consulted for general performance
+    requirements and precautions regarding instrumentation for acoustical measurements.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

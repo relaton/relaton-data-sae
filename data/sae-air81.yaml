@@ -1,0 +1,59 @@
+---
+id: SAEAIR81
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HYDRAULIC FLUID CHARACTERISTICS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air81
+- type: src
+  content: https://saemobilus.sae.org/standards/air81-hydraulic-fluid-characteristics
+docidentifier:
+- content: SAE AIR81
+  type: SAE
+  primary: true
+- content: 10.4271/air81
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report discusses the characteristics of hydraulic fluids and evaluates their importance, not only from the standpoint of fluid formulation, but also in their effect on aero-space hydraulic system design and the materials used in the components of the system. In some cases numerical parameter limits are suggested, but, in general, the effect of a parameter is the basic consideration.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Not only must the characteristics of the fluid be considered in the design of a hydraulic system in which it is to be used, but also the characteristics of the system will affect the extent of the importance of the various characteristics of the fluid. In each individual system, as it employs a fluid, the characteristics of the fluid must be assessed with their immediate import and weighed in considering their effects on the system design requirements based upon the variables of system environment, function and basic design.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The fluid characteristics must be considered not only in the system design, but also in connection with the ground handling and servicing characteristics of the vehicle.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It can be said that the only characteristic of a hydraulic fluid that is absolute, is that it be a liquid throughout the range of use conditions. All the other parametric values form the basis for consideration in hydraulic system design.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAIR1593A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Clamp Loads and Bending Stresses in Aircraft Tubing Installations
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1593a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1593a-clamp-loads-bending-stresses-aircraft-tubing-installations
+docidentifier:
+- content: SAE AIR1593A
+  type: SAE
+  primary: true
+- content: 10.4271/air1593a
+  type: DOI
+date:
+- type: approved
+  at: '2020-10-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) contains information relative to stresses and loads developed in tubes caused by tube deflections encountered in misaligned installations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Users are advised that when calculating the stresses and loads of a tubing system, the yield strength of existing loop clamp material is significantly lower than the tubing materials specified herein and should be considered.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

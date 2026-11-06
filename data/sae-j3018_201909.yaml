@@ -1,0 +1,69 @@
+---
+id: SAEJ3018_201909
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Safety-Relevant Guidance for On-Road Testing of SAE Level 3, 4, and 5 Prototype
+    Automated Driving System (ADS)-Operated Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3018_201909
+- type: src
+  content: https://saemobilus.sae.org/standards/j3018_201909-safety-relevant-guidance-road-testing-sae-level-3-4-5-prototype-automated-driving-system-ads-operated-vehicles
+docidentifier:
+- content: SAE J3018_201909
+  type: SAE
+  primary: true
+- content: 10.4271/j3018_201909
+  type: DOI
+date:
+- type: approved
+  at: '2019-09-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: On-Road Automated Driving (ORAD) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides safety-relevant guidance for on-road testing of vehicles being operated by prototype conditional, high, and full (Levels 3 to 5) ADS, as defined by SAE J3016. It does not include guidance for evaluating the performance of post-production ADS-equipped vehicles. Moreover, this guidance only addresses testing of ADS-operated vehicles as overseen by in-vehicle fallback test drivers (IFTD).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These guidelines do not address:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Remote driving, including remote fallback test driving of prototype ADS-operated test vehicles in driverless operation. (Note: The term “remote fallback test driver” is included as a defined term herein and is intended to be addressed in a future iteration of this document. However, at this time, too little is published or known about this type of testing to provide even preliminary guidance.)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Testing of driver support features (i.e., Levels 1 and 2), which rely on a human driver to perform part of the dynamic driving task (DDT) and to supervise the driving automation feature’s performance in real time. (Refer to SAE J3016.)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Closed-course testing.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Simulation testing (except for training purposes).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Component-level testing.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

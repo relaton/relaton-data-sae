@@ -1,0 +1,56 @@
+---
+id: SAEARP266A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Installation, Heaters, Airplane, Internal Combustion Heater Exchange Type
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp266a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp266a-installation-heaters-airplane-internal-combustion-heater-exchange-type
+docidentifier:
+- content: SAE ARP266A
+  type: SAE
+  primary: true
+- content: 10.4271/arp266a
+  type: DOI
+date:
+- type: approved
+  at: '2001-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>To provide a recommended practice covering the recommended safety and
+    performance practices found desirable in service in the installation of combustion
+    heaters, as specified in Society of Automotive Engineers Aeronautical Standard
+    AS143 and certain auxiliary devices which are considered necessary to the safety
+    and performance of the heaters as used in certain aircraft.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

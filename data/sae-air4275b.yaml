@@ -1,0 +1,59 @@
+---
+id: SAEAIR4275B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Jet Reference Fluid Study for Fuel Tank Sealants
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4275b
+- type: src
+  content: https://saemobilus.sae.org/standards/air4275b-jet-reference-fluid-study-fuel-tank-sealants
+docidentifier:
+- content: SAE AIR4275B
+  type: SAE
+  primary: true
+- content: 10.4271/air4275b
+  type: DOI
+date:
+- type: approved
+  at: '2021-02-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G9 Aerospace Sealing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This information report covers two distinct projects to formulate Jet Refrence Fluids (JRF) for testing of material compatibility. The first effort began in 1978 and focused on producing a formulation (JRF-2) that simulated JP-4 and included composition with metallic ions that reproduced chalking of fuel tank sealants. This effort resulted in the preparation of AMS2629 that defined the formulation of JRF-2 (Type 1) and the same formulation with metallic ions (Type 2). The second effort began in 2002 and focused on preparing a JRF that simulated Jet A, JP-5 and JP-8. This effort went through multiple iterations, but eventually resulted in a JRF-3 formulation composed of Jet A plus military additives spiked to 25% aromatic content and high levels of sulfur experienced in the global fuel supply. Since the metallic ions added to JRF-2 demonstrated their ability to simulate a chalking reaction, chalking was not tested with the ions added to JRF-3. AMS2629 was changed multiple times to reflect the onging changes of this project and included both Type 1 and Type 2 formulations.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

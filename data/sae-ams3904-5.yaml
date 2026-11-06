@@ -1,0 +1,56 @@
+---
+id: SAEAMS39045
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: YARN, ORGANIC FIBER 1560 Denier, 4% Finish
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3904/5
+- type: src
+  content: https://saemobilus.sae.org/standards/ams39045-yarn-organic-fiber-1560-denier-4-finish
+docidentifier:
+- content: SAE AMS3904/5
+  type: SAE
+  primary: true
+- content: 10.4271/ams3904/5
+  type: DOI
+date:
+- type: approved
+  at: '1978-04-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P Polymeric Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers one type of organic fiber in the form of yarn. The product shall be formed as a multiplicity of filaments drawn together and gathered into an approximately parallel arrangement.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

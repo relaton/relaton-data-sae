@@ -1,0 +1,57 @@
+---
+id: SAEAS8090A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Mobility, Towed Aerospace Ground Equipment, General Requirements For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8090a
+- type: src
+  content: https://saemobilus.sae.org/standards/as8090a-mobility-towed-aerospace-ground-equipment-general-requirements
+docidentifier:
+- content: SAE AS8090A
+  type: SAE
+  primary: true
+- content: 10.4271/as8090a
+  type: DOI
+date:
+- type: approved
+  at: '2016-03-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers general design and performance requirements for the mobility of towed ground support equipment. The complete mobility requirements for an item of towed aerospace ground equipment not specified herein shall be specified in the individual equipment specification (see &lt;span class="xref"&gt;6.4&lt;/span&gt;).&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

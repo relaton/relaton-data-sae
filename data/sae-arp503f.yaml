@@ -1,0 +1,57 @@
+---
+id: SAEARP503F
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Emergency Evacuation Illumination
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp503f
+- type: src
+  content: https://saemobilus.sae.org/standards/arp503f-emergency-evacuation-illumination
+docidentifier:
+- content: SAE ARP503F
+  type: SAE
+  primary: true
+- content: 10.4271/arp503f
+  type: DOI
+date:
+- type: approved
+  at: '2004-07-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20C Interior Lighting
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice (ARP) provides criteria for design and location of power supplies, controls, light fixtures, and associated equipment which are used to provide emergency illumination in transport aircraft, designed to comply with FAR 25 (Ref. 1) for operation under FAR 91 (Ref. 11) and FAR 121 (Ref. 2), and also in compliance with FAA Advisory Circulars AC25.812-1A (Ref. 3) and AC25.812-2 (Ref. 10).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is not the purpose of an ARP to specify design methods to be followed in the accomplishment of the stated objectives.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

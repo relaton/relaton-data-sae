@@ -1,0 +1,56 @@
+---
+id: SAEAS4467A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standardization, Hydraulic Tube Walls
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4467a
+- type: src
+  content: https://saemobilus.sae.org/standards/as4467a-standardization-hydraulic-tube-walls
+docidentifier:
+- content: SAE AS4467A
+  type: SAE
+  primary: true
+- content: 10.4271/as4467a
+  type: DOI
+date:
+- type: approved
+  at: '2025-08-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) defines a series of standardized tube walls to be used for high pressure hydraulic tubing. These tube walls are applicable to all homogenous tube materials (i.e., aluminum, steel, titanium) throughout a rated pressure range of 1000 to 8000 psi and a maximum rated operating temperature range of 160 to 450 °F. All future aerospace applications for which a required tube outside diameter/tube wall combination is not presently available shall be selected from the table contained herein (see &lt;span class="xref"&gt;Figure 1&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

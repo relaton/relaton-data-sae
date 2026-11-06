@@ -1,0 +1,56 @@
+---
+id: SAEARP1331B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: THE CHEMICAL MILLING PROCESS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1331b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1331b-chemical-milling-process
+docidentifier:
+- content: SAE ARP1331B
+  type: SAE
+  primary: true
+- content: 10.4271/arp1331b
+  type: DOI
+date:
+- type: approved
+  at: '2015-03-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice provides recommendations concerning the chemical milling of aluminum, magnesium, and titanium alloys, and specialty alloys.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

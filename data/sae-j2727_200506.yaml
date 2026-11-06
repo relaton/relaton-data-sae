@@ -1,0 +1,57 @@
+---
+id: SAEJ2727_200506
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: R134a Mobile Air Conditioning System Leakage Chart
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2727_200506
+- type: src
+  content: https://saemobilus.sae.org/standards/j2727_200506-r134a-mobile-air-conditioning-system-leakage-chart
+docidentifier:
+- content: SAE J2727_200506
+  type: SAE
+  primary: true
+- content: 10.4271/j2727_200506
+  type: DOI
+date:
+- type: approved
+  at: '2005-06-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Interior Climate Control Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Current industry standards do not exist for determining refrigerant emissions from mobile air conditioning systems. Test procedures are not common between production component suppliers in establishing leakage values. This “System Leakage Chart” has been developed from industry experience of expected refrigerant leakage gains from system design resulting from technology changes. It provides a rating value of various technologies that are currently available. The “Leakage Chart” can be expanded as new technologies are offered and/or developed. This document provides the information to develop an Excel file template “Leakage Chart” for making system analysis. It is not the intent of this Standard to define the refrigerant emissions from a mobile air conditioning system. It is to only define a system rating based upon the technology used. Future development of SAE Standards for determining mobile air conditioning refrigerant emissions such as system static and dynamic min-shed test procedures will provide a procedure for determining system emissions.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

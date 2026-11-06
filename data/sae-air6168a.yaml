@@ -1,0 +1,56 @@
+---
+id: SAEAIR6168A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Landing Gear Structural Health Monitoring
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6168a
+- type: src
+  content: https://saemobilus.sae.org/standards/air6168a-landing-gear-structural-health-monitoring
+docidentifier:
+- content: SAE AIR6168A
+  type: SAE
+  primary: true
+- content: 10.4271/air6168a
+  type: DOI
+date:
+- type: approved
+  at: '2019-05-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5 Aerospace Landing Gear Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) discusses past and present approaches for monitoring the landing gear structure and shock absorber (servicing), opportunities for corrosion detection, methods for transient overload detection, techniques for measuring the forces seen by the landing gear structure, and methods for determining the fatigue state of the landing gear structure. Landing gear tire condition and tire pressure monitoring are detailed in ARP6225, AIR4830, and ARP6137, respectively. Aircraft Brake Temperature Monitoring Systems (BTMS) are detailed in AS1145.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,51 @@
+---
+id: SAECPGM1_17LT4CAMA
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: J1349 Certified Power Engine Data for GM as used in 2017 Chevrolet Camaro
+    93 Octane PON - Level 1
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/cpgm1_17lt4cama
+- type: src
+  content: https://saemobilus.sae.org/services/cpgm1_17lt4cama-j1349-certified-power-engine-data-gm-used-2017-chevrolet-camaro-93-octane-pon-level-1
+docidentifier:
+- content: SAE CPGM1_17LT4CAMA
+  type: SAE
+  primary: true
+- content: 10.4271/cpgm1_17lt4cama
+  type: DOI
+date:
+- type: approved
+  at: '2016-09-15'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This product includes information on the manufacturer, engine, application,
+    testing location, certified maximum horsepower, certified maximum torque along
+    with the certified curves of horsepower and torque over a wide range of engine
+    RPM speeds.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

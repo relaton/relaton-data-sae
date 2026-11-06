@@ -1,0 +1,56 @@
+---
+id: SAEARP721
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Turbine Drive Shaft Connection
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp721
+- type: src
+  content: https://saemobilus.sae.org/standards/arp721-turbine-drive-shaft-connection
+docidentifier:
+- content: SAE ARP721
+  type: SAE
+  primary: true
+- content: 10.4271/arp721
+  type: DOI
+date:
+- type: approved
+  at: '2023-01-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-12 Powered Lift Propulsion Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This ARP applies to turbine engines that are to be used in helicopters. It provides the engine designer guide lines in achieving a satisfactory turbine engine drive shaft connection.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

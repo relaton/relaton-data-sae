@@ -1,0 +1,57 @@
+---
+id: SAEAS7482
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STUDS, STEEL, CORROSION AND HEAT RESISTANT 1800°F Solution Heat Treated
+    Precipitation Heat Treated Before Roll Threaded
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as7482
+- type: src
+  content: https://saemobilus.sae.org/standards/as7482-studs-steel-corrosion-heat-resistant-1800f-solution-heat-treated-precipitation-heat-treated-roll-threaded
+docidentifier:
+- content: SAE AS7482
+  type: SAE
+  primary: true
+- content: 10.4271/as7482
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This procurement specification covers aircraft quality studs made from a corrosion and heat resistant age hardenable iron base alloy of the type identified under the Unified Numbering System as UNS S66286 and of 130 000 psi tensile strength at room temperature, with maximum test temperature of parts at 1200°F.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

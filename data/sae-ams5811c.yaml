@@ -1,0 +1,58 @@
+---
+id: SAEAMS5811C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Corrosion and Heat Resistant, Welding Wire 15Cr - 30Ni - 1.2Mo -
+    2.2Ti - 0.25Al - 0.001B - 0.030V (0.01 - 0.03C) Vacuum Induction Melted, Environment
+    Controlled Packaging
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5811c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5811c-steel-corrosion-heat-resistant-welding-wire-15cr-30ni-12mo-22ti-025al-0001b-0030v-001-003c-vacuum-induction-melted-environment-controlled-packaging
+docidentifier:
+- content: SAE AMS5811C
+  type: SAE
+  primary: true
+- content: 10.4271/ams5811c
+  type: DOI
+date:
+- type: approved
+  at: '2006-10-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat resistant steel in the form of welding wire.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

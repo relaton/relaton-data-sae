@@ -1,0 +1,61 @@
+---
+id: SAEAS47643
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Verification Methods for MIL-STD-1760E Aircraft Station Interfaces
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as47643
+- type: src
+  content: https://saemobilus.sae.org/standards/as47643-verification-methods-mil-std-1760e-aircraft-station-interfaces
+docidentifier:
+- content: SAE AS47643
+  type: SAE
+  primary: true
+- content: 10.4271/as47643
+  type: DOI
+date:
+- type: approved
+  at: '2017-03-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1B Aircraft Store Integration Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document establishes techniques for validating that an Aircraft Station Interface (ASI) complies with the interface requirements delineated in MIL-STD-1760 Revision E.&lt;/div&gt;
+
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

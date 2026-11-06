@@ -1,0 +1,56 @@
+---
+id: SAEARP1258
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: QUALIFICATION OF HYDRAULIC TUBE JOINTS TO SPECIFIED FLEXURE FATIGUE REQUIREMENTS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1258
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1258-qualification-hydraulic-tube-joints-specified-flexure-fatigue-requirements
+docidentifier:
+- content: SAE ARP1258
+  type: SAE
+  primary: true
+- content: 10.4271/arp1258
+  type: DOI
+date:
+- type: approved
+  at: '1973-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice establishes the method for qualification testing of tube joints and fittings using the rotary or planar flexure test method described in ARP 1185. This qualification test method requires the determination of S-N type curves except that tube deflections are plotted versus the number of test cycles. This replaces flexure testing to a single stress level as specified in MIL-F-18280, B and C revisions.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

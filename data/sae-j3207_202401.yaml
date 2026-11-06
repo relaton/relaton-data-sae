@@ -1,0 +1,68 @@
+---
+id: SAEJ3207_202401
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Quick Connect Fluid Coupling Specification for Coolant System Interconnect
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3207_202401
+- type: src
+  content: https://saemobilus.sae.org/standards/j3207_202401-quick-connect-fluid-coupling-specification-coolant-system-interconnect
+docidentifier:
+- content: SAE J3207_202401
+  type: SAE
+  primary: true
+- content: 10.4271/j3207_202401
+  type: DOI
+date:
+- type: approved
+  at: '2024-01-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Cooling Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice defines the minimum performance and dimensional requirements for quick connect couplings between flexible tubing or hose and rigid tubing or tubular fittings used in coolant systems. This document applies to automotive and light duty truck applications under the following conditions:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Gasoline, diesel, hybrid, and electrical propulsion cooling systems.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Operating pressure up to 206 kPa (30 psi).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Operating temperatures from -40 °C (-40 °F) to 125 °C (260 °F).&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;Quick connect couplings function by joining the connector to a mating end form, typically without the use of tools. The requirements stated in this document apply to new connectors in assembly operations unless otherwise indicated.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For modern powertrain applications, the interconnection of the following devices is typically the design responsibility of the cooling group: coolant control valve, water-to-air charge air cooler (CAC), radiator (high and low temperature variants), and remote transmission oil heat exchanger (used for both warming and cooling functions).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

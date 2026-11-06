@@ -1,0 +1,49 @@
+---
+id: SAEAS21432C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BEARING, ROLLER, NEEDLE, TRACK ROLLER, INTEGRAL STUD, TYPE VII, ANTIFRICTION,
+    INCH
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as21432c
+- type: src
+  content: https://saemobilus.sae.org/standards/as21432c-bearing-roller-needle-track-roller-integral-stud-type-vii-antifriction-inch
+docidentifier:
+- content: SAE AS21432C
+  type: SAE
+  primary: true
+- content: 10.4271/as21432c
+  type: DOI
+date:
+- type: approved
+  at: '2024-01-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ACBG Rolling Element Bearing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

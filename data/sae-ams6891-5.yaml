@@ -1,0 +1,71 @@
+---
+id: SAEAMS68915
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Carbon Fiber and Fiberglass Epoxy Prepreg Products with 350 °F (177 °C)
+    Cure for Aerospace Applications: Type 35, Class 1, Grade 145'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6891/5
+- type: src
+  content: https://saemobilus.sae.org/standards/ams68915-carbon-fiber-fiberglass-epoxy-prepreg-products-350-f-177-c-cure-aerospace-applications-type-35-class-1-grade-145
+docidentifier:
+- content: SAE AMS6891/5
+  type: SAE
+  primary: true
+- content: 10.4271/ams6891/5
+  type: DOI
+date:
+- type: approved
+  at: '2026-07-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P17 Polymer Matrix Composites Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The intent of this specification is for the procurement of the material listed on the QPL; therefore, no qualification or equivalency threshold values are provided. Users that intend to conduct a new material qualification or equivalency program must refer to the Quality Assurance section of the base specification, AMS6891.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

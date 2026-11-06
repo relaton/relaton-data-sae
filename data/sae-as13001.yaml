@@ -1,0 +1,57 @@
+---
+id: SAEAS13001
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Supplier Self Release Training Requirements
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as13001
+- type: src
+  content: https://saemobilus.sae.org/standards/as13001-supplier-self-release-training-requirements
+docidentifier:
+- content: SAE AS13001
+  type: SAE
+  primary: true
+- content: 10.4271/as13001
+  type: DOI
+date:
+- type: approved
+  at: '2015-02-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-22 Aerospace Engine Supplier Quality (AESQ) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The standard applies to aero engine suppliers operating a self-release process as a delegated activity from the delegating organization. While primarily developed around the aero engine supply chain requirements, this standard can also be used in other industry sectors where a self-release process may be of benefit.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

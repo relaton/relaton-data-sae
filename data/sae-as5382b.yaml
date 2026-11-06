@@ -1,0 +1,56 @@
+---
+id: SAEAS5382B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Cable, Fiber Optic
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5382b
+- type: src
+  content: https://saemobilus.sae.org/standards/as5382b-aerospace-cable-fiber-optic
+docidentifier:
+- content: SAE AS5382B
+  type: SAE
+  primary: true
+- content: 10.4271/as5382b
+  type: DOI
+date:
+- type: approved
+  at: '2021-09-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard covers jacketed single-fiber multimode and single-mode fiber optic cables for aerospace usage.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

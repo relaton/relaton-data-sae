@@ -1,0 +1,62 @@
+---
+id: SAEAIR4061C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guidelines for Integrating Typical Engine Health Management Functions Within
+    Aircraft Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4061c
+- type: src
+  content: https://saemobilus.sae.org/standards/air4061c-guidelines-integrating-typical-engine-health-management-functions-aircraft-systems
+docidentifier:
+- content: SAE AIR4061C
+  type: SAE
+  primary: true
+- content: 10.4271/air4061c
+  type: DOI
+date:
+- type: approved
+  at: '2016-11-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>SAE Aerospace Information Report (AIR) 4061 provides best practice
+    guidelines for the integration of Engine Health Management (EHM) system functions
+    within aircraft systems to include both its main engine(s) and any Auxiliary Power
+    Unit(s) (APU). This document provides an overview of some of the functions EHM
+    typically integrates, offers some system variations encountered with different
+    aircraft, and suggests general considerations involved with integration. It presents
+    a sample EHM parameter coverage matrix to show the types of parameters with which
+    a typical EHM system might interface, offers insight into signal and data processing
+    and retrieval, and offers a view of typical EHM parameter requirements by function.
+    Where practical, this document delineates between military and commercial practices.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

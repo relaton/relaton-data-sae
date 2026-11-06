@@ -1,0 +1,58 @@
+---
+id: SAEUSCAR251
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ELECTRICAL CONNECTOR ASSEMBLY ERGONOMIC DESIGN CRITERIA
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar25-1
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar25-1-electrical-connector-assembly-ergonomic-design-criteria
+docidentifier:
+- content: SAE USCAR-25-1
+  type: SAE
+  primary: true
+- content: 10.4271/uscar25-1
+  type: DOI
+date:
+- type: approved
+  at: '2008-09-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes the design, assembly force, and packaging guidelines for conventional hand-plug, mechanical assist and twist lock electrical connectors, as well as Connector Position Assurances (CPAs).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;All possible designs and applications could not be anticipated in creating these guidelines. Where there are questions of adherence to this document, such as use of an “off-the-shelf” design, always consult the responsible Ergonomics Department.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Refer to SAE/USCAR-12 Wiring Component Design Guidelines for additional guidelines.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

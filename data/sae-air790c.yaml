@@ -1,0 +1,61 @@
+---
+id: SAEAIR790C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Considerations on Ice Formation in Aircraft Fuel Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air790c
+- type: src
+  content: https://saemobilus.sae.org/standards/air790c-considerations-ice-formation-aircraft-fuel-systems
+docidentifier:
+- content: SAE AIR790C
+  type: SAE
+  primary: true
+- content: 10.4271/air790c
+  type: DOI
+date:
+- type: approved
+  at: '2006-08-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5A Aerospace Fuel, Inerting and Lubrication Sys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Ice formation in aircraft fuel systems results from the presence of dissolved and undissolved water in the fuel. Dissolved water or water in solution with hydrocarbon fuels constitutes a relatively small part of the total water potential in a particular system with the quantity dissolved being primarily dependent on the fuel temperature and the water solubility characteristics of the fuel. One condition of undissolved water is entrained water such as water particles suspended in the fuel as a result of mechanical agitation of free water or conversion of dissolved water through temperature reduction. Another condition of undissolved water is free water which may be introduced as a result of refueling or the settling of entrained water which collects at the bottom of a fuel tank in easily detectable quantities separated by a continuous interface from the fuel above. Water may also be introduced as a result of condensation from air entering a fuel tank through the vent system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Entrained water will settle out in time under static conditions and may or may not be drained, depending on the rate at which it is converted to free water. In general, it is not likely that all entrained water can ever be separated from fuel under field conditions. The settling rate depends on a series of factors including temperature, quiescence and droplet size. The droplet size will vary depending upon the mechanics of formation. Usually the particles are so small as to be invisible to the naked eye, but in extreme cases can cause a slight haziness in the fuel.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Free water can be drained from a fuel tank if low point drain provisions are adequate. Water in solution cannot be removed except by dehydration or by converting it, through temperature reduction, to entrained, then to free water.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Water strictly in solution is not a serious problem in aviation fuel so long as it remains in solution. Entrained and free water are the most dangerous because of the potential of freezing on the surfaces of the fuel system. Further, entrained water will freeze in cold fuel and tend to stay in solution longer since the specific gravity of ice is approximately the same as that of hydrocarbon fuels.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The elimination of undissolved water, to the extent practicable, in fuel storage, handling and delivery systems as well as in aircraft fuel systems can reduce or eliminate the potential for icing problems. Appropriate testing of fuel systems, sub systems and components under controlled icing conditions can establish confidence in the safe operation of the aircraft fuel system in such icing conditions. Considerations for these measures to control potential icing problems are addressed herein.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Several things happen to moisture laden fuel as the temperature is lowered, and an understanding of this helps to arrive at proper fuel conditioning procedures and subsequent testing for icing conditions. As the temperature of fuel is lowered, concentration of water droplets in the fuel begins to decrease in the vicinity of 40 to 50 °F (4 to 10 °C). Therefore, to get a reliable conditioning of fuel, samples should be taken and mixing of fuel and water should be accomplished before lowering the temperature further. Ice crystals begin to form as the temperature nears the freeze point of water; however, due to impurities in the water, this normally takes place at slightly lower temperatures (27 to 31 °F) (-3 to -1 °C). As the temperature is lowered further, the ice crystals begin to adhere to their surroundings in the form of ice. This is known as the critical icing temperature and occurs at about 12 to 15 °F (-11 to -9 °C). At temperatures below 0 °F (-18 °C), ice crystals tend to become larger and offer a threat to plugging small openings such as screens, filters, and orifices. The cooling rate and agitation or turbulence due to obstruction of flow have an effect on the type and size of ice formed, so it becomes important to test actual or closely simulated aircraft systems and to cool the fuel during tests at the aircraft cooling rate or practical simulation to obtain more accurate results.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

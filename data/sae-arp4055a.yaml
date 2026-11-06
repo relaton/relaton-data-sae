@@ -1,0 +1,58 @@
+---
+id: SAEARP4055A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Ground-Plane Microphone Configuration for Propeller-Driven Light-Aircraft
+    Noise Measurement
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4055a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4055a-ground-plane-microphone-configuration-propeller-driven-light-aircraft-noise-measurement
+docidentifier:
+- content: SAE ARP4055A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4055a
+  type: DOI
+date:
+- type: approved
+  at: '2020-12-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-21 Aircraft Noise Measurement Aviation Emission Modeling
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this ARP embraces the description of a configuration for a ground-plane microphone installation that may be used to determine sound pressure levels equivalent to those which would have been measured in an acoustic freefield at the microphone location. The one-third - octave-band center-frequency range over which equivalent freefield sound pressure levels may be obtained is from as low as 50 Hz to at least as high as 10,000 Hz.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The specific application of the measurement technique described in this ARP is the determination of the equivalent freefield sound pressure levels of the noise produced by propeller-driven light aircraft, in flight, for sound incidence angles within 30 degrees of the normal to the ground. For larger angles to the normal, additional adjustments may be necessary which are outside the scope of this ARP. Caution needs to be exercised, therefore, if the recommended configuration is used to measure the noise from aircraft other than those driven by propeller powerplants, in particular, when full spectral information is required (especially outside the range of 30 degrees to the normal to the ground surface), or when measurements of time-integrated noise descriptors are required.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,49 @@
+---
+id: SAEAMS4095
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY SHEET AND PLATE, ALCLAD 6.3Cu - 0.30Mn - 0.18Zr - 0.10V
+    - 0.06Ti (Alclad 2219; -T31 Sheet, -T351 Plate)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4095
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4095-aluminum-alloy-sheet-plate-alclad-63cu-030mn-018zr-010v-006ti-alclad-2219-t31-sheet-t351-plate
+docidentifier:
+- content: SAE AMS4095
+  type: SAE
+  primary: true
+- content: 10.4271/ams4095
+  type: DOI
+date:
+- type: approved
+  at: '1969-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

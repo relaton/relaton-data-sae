@@ -1,0 +1,58 @@
+---
+id: SAEAS8039
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MINIMUM PERFORMANCE STANDARD GENERAL AVIATION FLIGHT RECORDER
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8039
+- type: src
+  content: https://saemobilus.sae.org/standards/as8039-minimum-performance-standard-general-aviation-flight-recorder
+docidentifier:
+- content: SAE AS8039
+  type: SAE
+  primary: true
+- content: 10.4271/as8039
+  type: DOI
+date:
+- type: approved
+  at: '1991-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4 Aircraft Instruments Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard covers three (3) basic types of flight recorders as defined below:&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;All requirements specified in &lt;span class="xref"&gt;sections 3&lt;/span&gt;, &lt;span class="xref"&gt;4&lt;/span&gt;, &lt;span class="xref"&gt;5&lt;/span&gt;, &lt;span class="xref"&gt;6&lt;/span&gt; &amp;amp; &lt;span class="xref"&gt;7&lt;/span&gt; of this standard shall be applicable to all recorder types unless otherwise noted.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

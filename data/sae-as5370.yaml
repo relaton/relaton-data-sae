@@ -1,0 +1,57 @@
+---
+id: SAEAS5370
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Multi-Transmitter Bidirectional Fiber-Optic Data Bus for Distributed Aircraft
+    Control Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5370
+- type: src
+  content: https://saemobilus.sae.org/standards/as5370-multi-transmitter-bidirectional-fiber-optic-data-bus-distributed-aircraft-control-systems
+docidentifier:
+- content: SAE AS5370
+  type: SAE
+  primary: true
+- content: 10.4271/as5370
+  type: DOI
+date:
+- type: approved
+  at: '2002-04-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification applies to a communication protocol for networked control systems. The protocol provides peer-to-peer communication for networked control and is suitable for implementing both peer-to-peer and master-slave control strategies. This specification describes services for all seven protocol layers. In the layer 7 specification, it includes a description of the types of messages used by applications to exchange application and network management data.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

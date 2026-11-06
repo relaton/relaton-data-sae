@@ -1,0 +1,60 @@
+---
+id: SAEJ2929_201302
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Safety Standard for Electric and Hybrid Vehicle Propulsion Battery Systems
+    Utilizing Lithium-based Rechargeable Cells
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2929_201302
+- type: src
+  content: https://saemobilus.sae.org/standards/j2929_201302-safety-standard-electric-hybrid-vehicle-propulsion-battery-systems-utilizing-lithium-based-rechargeable-cells
+docidentifier:
+- content: SAE J2929_201302
+  type: SAE
+  primary: true
+- content: 10.4271/j2929_201302
+  type: DOI
+date:
+- type: approved
+  at: '2013-02-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Battery Safety Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard defines a minimum set of acceptable safety criteria for a lithium-based rechargeable battery system to be considered for use in a vehicle propulsion application as an energy storage system connected to a high voltage power train. While the objective is a safe battery system when installed into a vehicle application, this Standard is primarily focused, wherever possible, on conditions which can be evaluated utilizing the battery system alone. As this is a minimum set of criteria, it is recognized that battery system and vehicle manufacturers may have additional requirements for cells, modules, packs and systems in order to assure a safe battery system for a given application.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A battery system is a completely functional energy storage system consisting of the pack(s) and necessary ancillary subsystems for physical support and enclosure, thermal management, and electronic control.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,48 @@
+---
+id: SAEAS24122A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: WIRING HARNESS - EXTERNAL POWER, 115 VOLT AC, SINGLE PHASE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as24122a
+- type: src
+  content: https://saemobilus.sae.org/standards/as24122a-wiring-harness-external-power-115-volt-ac-single-phase
+docidentifier:
+- content: SAE AS24122A
+  type: SAE
+  primary: true
+- content: 10.4271/as24122a
+  type: DOI
+date:
+- type: approved
+  at: '2019-08-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8A Elec Wiring and Fiber Optic Interconnect Sys Install
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,54 @@
+---
+id: SAEAIR1558B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Interface Protective Devices - Ground Equipment to Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1558b
+- type: src
+  content: https://saemobilus.sae.org/standards/air1558b-interface-protective-devices-ground-equipment-aircraft
+docidentifier:
+- content: SAE AIR1558B
+  type: SAE
+  primary: true
+- content: 10.4271/air1558b
+  type: DOI
+date:
+- type: approved
+  at: '2015-06-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This Aerospace Information Report (AIR) discusses damage to aircraft
+    caused by ground equipment contact and suggests methods of protecting against
+    that damage.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

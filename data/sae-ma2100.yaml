@@ -1,0 +1,57 @@
+---
+id: SAEMA2100
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hose Assemblies, Metal Medium Pressure, High Temperature, Metric
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma2100
+- type: src
+  content: https://saemobilus.sae.org/standards/ma2100-hose-assemblies-metal-medium-pressure-high-temperature-metric
+docidentifier:
+- content: SAE MA2100
+  type: SAE
+  primary: true
+- content: 10.4271/ma2100
+  type: DOI
+date:
+- type: approved
+  at: '2015-08-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers metric medium pressure, high temperature, flexible metal hose assemblies suitable for continuous operation in liquid and pneumatic systems from 55 to 400°C, with short duration excursion to 650°C, and primarily for use on jet aircraft power plants.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

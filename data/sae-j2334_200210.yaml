@@ -1,0 +1,56 @@
+---
+id: SAEJ2334_200210
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Cosmetic Corrosion Lab Test
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2334_200210
+- type: src
+  content: https://saemobilus.sae.org/standards/j2334_200210-cosmetic-corrosion-lab-test
+docidentifier:
+- content: SAE J2334_200210
+  type: SAE
+  primary: true
+- content: 10.4271/j2334_200210
+  type: DOI
+date:
+- type: approved
+  at: '2002-10-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Automotive Corrosion and Prevention Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The SAE J2334 lab test procedure should be used when determining cosmetic corrosion performance for a particular coating system, substrate, process, or design. Since it is a field correlated test, it can be used as a validation tool as well as a development tool. If corrosion mechanisms other than cosmetic or general corrosion are to be examined using this test, field correlation must be established.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

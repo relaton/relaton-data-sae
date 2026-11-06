@@ -1,0 +1,73 @@
+---
+id: SAEJ1903_202408
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Mechanical and Hybrid Automotive Adaptive Driver Controls
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1903_202408
+- type: src
+  content: https://saemobilus.sae.org/standards/j1903_202408-mechanical-hybrid-automotive-adaptive-driver-controls
+docidentifier:
+- content: SAE J1903_202408
+  type: SAE
+  primary: true
+- content: 10.4271/j1903_202408
+  type: DOI
+date:
+- type: approved
+  at: '2024-08-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Adaptive Devices Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes uniform procedures for assuring the manufactured quality, installed utility, and service performance of manual automotive adaptive products, other than those provided by the OEM, intended to provide driving capability for persons with physical disabilities. These devices function as adaptive appliances to compensate for lost or reduced performance in the drivers’ arms or legs, or both. Some of the devices are designed to transfer foot functions to the hands, hand functions to the feet, or functions from one side of the body to the other.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document applies only to primary controls as defined in &lt;span class="xref"&gt;3.4.1&lt;/span&gt; and in the Foreword. In particular, this document is specifically concerned with those mechanical and hybrid products that are intended by the manufacturer of the adaptive product to:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Be installed within the occupant space of the vehicle&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Be operated by a vehicle driver with a physical disability&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Be added to, or substituted for, the OEM vehicle pedals, steering wheels, levers, knobs, and switches&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Allow normal operation of vehicle primary controls by a driver who does not have a physical disability, without reconversion or special training&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Rely on the vehicle operator as the only source of activating force&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Allow normal operation of driver-side airbags or be installed utilizing 49 CFR Part 595, especially where knee-bolster airbags are part of the OEM’s vehicle&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;This document specifically excludes any automotive adaptive product that does not satisfy these criteria, or which, to be installed in the vehicle, requires the removal or alteration of a vehicle component that is normally mounted outside the occupant space (on the fire wall, chassis, or engine). Also excluded are secondary controls (see &lt;span class="xref"&gt;3.4.2&lt;/span&gt;).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document applies primarily to adaptive controls installed in passenger vehicles, including sedans, crossovers, SUVs, MPVs, light trucks, and van-type vehicles. In most cases, the vehicle will be equipped with OEM controls such as power steering, power brakes, and an automatic transmission.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is not intended to be used for secondary controls as defined in &lt;span class="xref"&gt;3.4.2&lt;/span&gt;, even though many of the design and operating principles in this document are applicable to these controls.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

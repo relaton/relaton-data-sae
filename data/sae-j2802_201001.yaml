@@ -1,0 +1,59 @@
+---
+id: SAEJ2802_201001
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Blind Spot Monitoring System (BSMS): Operating Characteristics and User
+    Interface'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2802_201001
+- type: src
+  content: https://saemobilus.sae.org/standards/j2802_201001-blind-spot-monitoring-system-bsms-operating-characteristics-user-interface
+docidentifier:
+- content: SAE J2802_201001
+  type: SAE
+  primary: true
+- content: 10.4271/j2802_201001
+  type: DOI
+date:
+- type: approved
+  at: '2010-01-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Safety and Human Factors Standards Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document specifies the minimum recommendations for Blind Spot Monitoring System (BSMS) operational characteristics and elements of the user interface. A visual BSMS indicator is recommended.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;BSMS detects and conveys to the driver via a visual indicator the presence of a target (e.g., a vehicle), adjacent to the subject vehicle in the “traditional” Adjacent Blind Spot Zone (ABSZ). The BSMS is not intended to replace the need for interior and exterior rear-view mirrors or to reduce mirror size. BSMS is only intended as a supplement to these mirrors and will not take any automatic vehicle control action to prevent possible collisions. While the BSMS will assist drivers in detecting the presence of vehicles in their ABSZ, the absence of a visual indicator will not guarantee that the driver can safely make a lane change maneuver (e.g., vehicles may be approaching rapidly outside the ABSZ area).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document applies to original equipment and aftermarket BSMS systems for passenger vehicles. This document does not apply to installing a BSMS on either motorcycles or commercial vehicles. Finally, this document does not address Lane Change Warning systems, which monitor areas substantially farther back than the side blind spot areas monitored by the BSMS (See ISO FDIS 17387).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

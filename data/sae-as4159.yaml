@@ -1,0 +1,58 @@
+---
+id: SAEAS4159
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SPECIFICATION FOR AN AUTOMATED INTERCHANGE OF STANDARDS DATA
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4159
+- type: src
+  content: https://saemobilus.sae.org/standards/as4159-specification-automated-interchange-standards-data
+docidentifier:
+- content: SAE AS4159
+  type: SAE
+  primary: true
+- content: 10.4271/as4159
+  type: DOI
+date:
+- type: approved
+  at: '1988-04-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aerospace Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The requirements contained herein are intended for those standards that are promulgated by national standards organizations and used in the aerospace industry. These technical data include narrative text, tables and various graphic data which comprise the standards.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Both interface control and interface definitions are covered in this specification. The internal architectures of the computer facilities of either the providers or the users are not constrained by this interchange specification. Rather, neutral formats and transmitting media are defined in order to enable more cost-effective ways to distribute information for computer users than by sending printed documents.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This method for digital delivery of aerospace standards is intended to allow the users to display and maintain standards on current computer systems in addition to producing hard copy comparable to existing printed standards.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

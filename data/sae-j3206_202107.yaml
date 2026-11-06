@@ -1,0 +1,86 @@
+---
+id: SAEJ3206_202107
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Taxonomy and Definition of Safety Principles for Automated Driving System
+    (ADS)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3206_202107
+- type: src
+  content: https://saemobilus.sae.org/standards/j3206_202107-taxonomy-definition-safety-principles-automated-driving-system-ads
+docidentifier:
+- content: SAE J3206_202107
+  type: SAE
+  primary: true
+- content: 10.4271/j3206_202107
+  type: DOI
+date:
+- type: approved
+  at: '2021-07-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: On-Road Automated Driving (ORAD) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report classifies and defines a harmonized set of safety principles intended to be considered by ADS and ADS-equipped vehicle development stakeholders. The set of safety principles herein is based on the collection and analysis of existing information from multiple entities, reflecting the content and spirit of their efforts, including:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE ITC AVSC Best Practices&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;CAMP Automated Vehicle Research for Enhanced Safety - Final Report&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;RAND Report - Measuring Automated Vehicle Safety: Forging a Framework&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;U.S. DOT: Automated Driving Systems 2.0 - A Vision for Safety&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Safety First for Automated Driving (SaFAD)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;UNECE WP29 amendment proposal&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;UNECE/TRANS/WP.29/GRVA/2019/13&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;On a Formal Model of Safe and Scalable Self-Driving Cars (Intel RSS model)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J3018&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report provides guidance for the consideration and application of the safety principles for the development and deployment of ADS and ADS-equipped vehicles. This SAE Information Report is not intended to encompass all aspects of system-level safety for an ADS-equipped vehicle, including communication with other traffic participants. Addressing all identified safety principles is intended to support, but not fully ensure, comprehensive system-level safety.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;As an SAE Information Report, this document is non-normative, imposes no requirements, and does not address:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Requirements for methodology, metrics, and/or acceptance thresholds.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Ethics-related safety principles, or any link between the safety principles defined in this document and ethical studies/frameworks.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Conformance with safety principles for purposes of liability and/or fault assignment.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;As ADS technology and deployment are expanded in the future, this document may be reconsidered for future revision including normative requirements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

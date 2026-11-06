@@ -1,0 +1,59 @@
+---
+id: SAEJ3119_202004
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Reliability, Maintainability, and Sustainability Terms and Definitions
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3119_202004
+- type: src
+  content: https://saemobilus.sae.org/standards/j3119_202004-reliability-maintainability-sustainability-terms-definitions
+docidentifier:
+- content: SAE J3119_202004
+  type: SAE
+  primary: true
+- content: 10.4271/j3119_202004
+  type: DOI
+date:
+- type: approved
+  at: '2020-04-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-41 Reliability
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;A glossary of basic terms and definitions useful for working in reliability, maintainability, and sustainability (RMS).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The terms used in most engineering technologies tend to be physical characteristics such as speed, rate of turn, and fuel consumption. While they may require very careful definition and control of the way in which they are measured, the terms themselves are not subject to different interpretations. Reliability, maintainability, and sustainability (RMS), however, use terms that are defined in a variety of ways with multiple interpretations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The variety of definitions given to a single term creates problems when trying to compare the performance of one system to another. To eliminate the confusion, a literature search that listed current and past RMS terms and definitions was conducted. The literature search included input from the U.S. military, UK military, NATO, SAE, IEEE, NASA, ISO, university research, and other publications. The object was to determine the common definition of reliability terms from a variety of sources. It is accepted that some of the definitions may be unique because of the nature of the mission, but it is the strong conviction of the government and industry practitioners who make up the SAE Reliability Committee under the G-11 Division that there should be some fundamental definitions used for all hardware systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Accordingly, in October of 2003, there were discussions to revise the current AIR4896 that was published in 1995. It is understood by individuals who participated in this project that future editions will update terminology as developments are made within the RMS community. Due to the complexity and nature of software reliability, we have specifically excluded “software reliability” terms from this edition. Future updates of this document will continue to reflect the converging of defense and commercial technology and standards.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

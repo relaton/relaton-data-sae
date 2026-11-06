@@ -1,0 +1,57 @@
+---
+id: SAEJ16993_201707
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Vehicle OBD II Compliance Test Cases
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1699/3_201707
+- type: src
+  content: https://saemobilus.sae.org/standards/j16993_201707-vehicle-obd-ii-compliance-test-cases
+docidentifier:
+- content: SAE J1699/3_201707
+  type: SAE
+  primary: true
+- content: 10.4271/j1699/3_201707
+  type: DOI
+date:
+- type: approved
+  at: '2017-07-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The main purpose of this Recommended Practice is to verify that vehicles are capable of communicating a minimum subset of information, in accordance with the diagnostic test services specified in SAE J1979: &lt;i&gt;E/E Diagnostic Test Modes&lt;/i&gt;, or the equivalent document ISO 15031-5: &lt;i&gt;Communication Between Vehicle and External Equipment for Emissions-Related Diagnostics – Part 5: Emissions-related diagnostic services.&lt;/i&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Any software meeting these specifications will utilize the vehicle interface that is defined in SAE J2534, Recommended Practice for Pass-Thru Vehicle Programming.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

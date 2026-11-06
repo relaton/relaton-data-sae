@@ -1,0 +1,67 @@
+---
+id: SAEJ2640_200810
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: General Automotive Embedded Software Design Requirements
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2640_200810
+- type: src
+  content: https://saemobilus.sae.org/standards/j2640_200810-general-automotive-embedded-software-design-requirements
+docidentifier:
+- content: SAE J2640_200810
+  type: SAE
+  primary: true
+- content: 10.4271/j2640_200810
+  type: DOI
+date:
+- type: approved
+  at: '2008-10-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Embedded Software Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this Recommended Practice encompasses the following objectives:
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Concentrate on general best practices for vehicular embedded software design.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Establish programming language-independent best practices.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Establish hardware/software interface best practices.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Establish multi-threaded system best practices.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Provide verification criteria to evaluate product compliance with this best practice.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

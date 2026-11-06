@@ -1,0 +1,59 @@
+---
+id: SAEAS5958G
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fittings, Axially Swaged Tube with Flareless Separable, Fluid System for
+    Operating Pressures up to and Including 5080 psi (35000 kPa), Specification for
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5958g
+- type: src
+  content: https://saemobilus.sae.org/standards/as5958g-fittings-axially-swaged-tube-flareless-separable-fluid-system-operating-pressures-including-5080-psi-35000-kpa-specification
+docidentifier:
+- content: SAE AS5958G
+  type: SAE
+  primary: true
+- content: 10.4271/as5958g
+  type: DOI
+date:
+- type: approved
+  at: '2019-06-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) establishes the requirements for axially swaged titanium fittings on titanium, CRES, and aluminum tubing with flareless separable fitting ends for use in hydraulic supply and return aerospace fluid systems up to operating pressure of 5080 psig (35000 kPa) maximum. The operating temperature range for titanium tubing and CRES tubing is -65 to +275 °F (-54 to +135 °C) and the operating temperature range for aluminum return system tubing is -65 to +225 °F (-54 to +107 °C).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This specification covers a common 5080 psi pressure titanium fitting that may be used for a range of operating pressures up to 5080 psi with different tubing materials and tubing wall thicknesses and is assembled with the same tooling in accordance with AS5959. The flareless fitting operating pressure is based on the fitting thread pitch. Extra fine pitch is used for 5080 psi operating pressure and fine pitch for operating pressures 3000 psi and less. &lt;span class="xref"&gt;Table 14&lt;/span&gt; shows applicable aerospace fitting part number standard and tubing materials and operating pressures.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

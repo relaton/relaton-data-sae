@@ -1,0 +1,56 @@
+---
+id: SAEAMS03_2C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Cleaning and Preparation of Metal Surfaces
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams03_2c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams03_2c-cleaning-preparation-metal-surfaces
+docidentifier:
+- content: SAE AMS03-2C
+  type: SAE
+  primary: true
+- content: 10.4271/ams03_2c
+  type: DOI
+date:
+- type: approved
+  at: '2020-02-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard specifies processes for the cleaning of metal surfaces to remove any extraneous or undesirable material or deposits at any stage of manufacture, storage or service and for the preparation of these surfaces for further treatment. Any necessary stress-relieving treatments are also included. This Standard does not override special preparatory procedures specified in individual Defence Standards, Defence Specifications, DTD Process Specifications, DG Ships Specifications and Naval Defence Standards. It also does not cover cleaning operations associated with the maintenance of internal combustion engines, the preliminary removal of heavy deposits of oil, grease, or dirt accumulated during operational service, preparations for welding and the cleaning of electrical contacts.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

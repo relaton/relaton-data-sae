@@ -1,0 +1,49 @@
+---
+id: SAEAS4478
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HOSE ASSEMBLY, SILICONE LINED, 125 psi, FLARELESS, POTABLE WATER, STRAIGHT
+    MALE TO STRAIGHT MALE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4478
+- type: src
+  content: https://saemobilus.sae.org/standards/as4478-hose-assembly-silicone-lined-125-psi-flareless-potable-water-straight-male-straight-male
+docidentifier:
+- content: SAE AS4478
+  type: SAE
+  primary: true
+- content: 10.4271/as4478
+  type: DOI
+date:
+- type: approved
+  at: '1992-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

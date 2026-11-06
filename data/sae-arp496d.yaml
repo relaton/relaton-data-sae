@@ -1,0 +1,54 @@
+---
+id: SAEARP496D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Stowage of Cabin Emergency Flotation Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp496d
+- type: src
+  content: https://saemobilus.sae.org/standards/arp496d-stowage-cabin-emergency-flotation-equipment
+docidentifier:
+- content: SAE ARP496D
+  type: SAE
+  primary: true
+- content: 10.4271/arp496d
+  type: DOI
+date:
+- type: approved
+  at: '2007-11-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-9A Safety Equipment and Survival Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The scope of this Aerospace Recommended Practice (ARP) is to establish
+    the criteria for aircraft installations which shall ensure rapid and effective
+    use of emergency flotation equipment in the event of ditching.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

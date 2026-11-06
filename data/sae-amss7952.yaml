@@ -1,0 +1,56 @@
+---
+id: SAEAMSS7952
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Sheet and Strip, Uncoated, Carbon (1020 and 1025) (Aircraft Quality)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/amss7952
+- type: src
+  content: https://saemobilus.sae.org/standards/amss7952-steel-sheet-strip-uncoated-carbon-1020-1025-aircraft-quality
+docidentifier:
+- content: SAE AMS-S-7952
+  type: SAE
+  primary: true
+- content: 10.4271/amss7952
+  type: DOI
+date:
+- type: approved
+  at: '1998-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers low-carbon steel, sheet or strip, of aircraft quality.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

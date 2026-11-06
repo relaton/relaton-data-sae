@@ -1,0 +1,58 @@
+---
+id: SAEAIR1826A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Acoustical Considerations for Aircraft Environmental Control System Design
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1826a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1826a-acoustical-considerations-aircraft-environmental-control-system-design
+docidentifier:
+- content: SAE AIR1826A
+  type: SAE
+  primary: true
+- content: 10.4271/air1826a
+  type: DOI
+date:
+- type: approved
+  at: '2024-10-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Information Report (AIR) is limited in scope to the general consideration of environmental control system noise and its effect on occupant comfort. Additional information on the control of environmental control system noise may be found in 2.3 and in the documents referenced throughout the text.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not contain sufficient direction and detail to accomplish effective and complete acoustic designs.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEJ1698_200502
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Vehicle Event Data Interface—Vehicular Output Data Definition
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1698_200502
+- type: src
+  content: https://saemobilus.sae.org/standards/j1698_200502-vehicle-event-data-interface-vehicular-output-data-definition
+docidentifier:
+- content: SAE J1698_200502
+  type: SAE
+  primary: true
+- content: 10.4271/j1698_200502
+  type: DOI
+date:
+- type: approved
+  at: '2005-02-04'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice aims to establish a common output format of crash-related data recorded and stored within certain electronic components currently installed in many light-duty vehicles. This document pertains only to the post-download format of such data and is not intended to standardize the format of the data stored within any on-board storage unit, or to standardize the method of data recording, storing, or extraction.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Historically, crash data recording technology in light-duty vehicles has developed and evolved based on differing technical needs of manufacturers and their customers without industry standards or government regulation. As a result, wide variations currently exist among vehicle manufacturers regarding the scope and extent of recorded data. This document is intended to be a compilation of data elements that various manufacturers are currently recording, as well as those elements reasonably predicted to be recorded in the foreseeable future, and establishes a common output format of those data elements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The scope of this document is deliberately restricted to providing output data formatting guidelines, only. It is not intended to standardize or mandate the recording of any specific data elements or to specify a minimum data set. This restriction in the scope is to avoid imposing constraints on the type of data recorded, the method of gathering and storing data, and the pre-and/or post-processing of data that may be used by various vehicle/device manufacturers as a matter of proprietary design. The committee recognized that, given the lack of societal consensus regarding the acceptability of on-board data recording devices, and has therefore avoided specific recommendations concerning whether event data recorders should be equipped on motor vehicles, and whether, when implemented, a particular type, quantity, and manner of data collection should be used.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Readers of this series of documents are advised to examine the validity and accuracy of VEDI event data in conjunction with the results from the traditional accident reconstruction practice. Since VEDI event data are acquired only from the on-board electronics systems, they may have not accurately capture the actual dynamics of the vehicle during the accident, or may not contain the full range or length of data during the event.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is one of a multi-volume J1698 series of documents and provides general concepts and common definitions of event data recording. J1698-1 provides definitions of event data and J1698-2 provides data extraction protocols.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

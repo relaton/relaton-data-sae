@@ -1,0 +1,55 @@
+---
+id: SAEARP743C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Procedure for the Determination of Particulate Contamination of Air in
+    Dust Controlled Spaces By the Particle Count Method
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp743c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp743c-procedure-determination-particulate-contamination-air-dust-controlled-spaces-particle-count-method
+docidentifier:
+- content: SAE ARP743C
+  type: SAE
+  primary: true
+- content: 10.4271/arp743c
+  type: DOI
+date:
+- type: approved
+  at: '2010-05-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This document has been decalred "CANCELLED" as of May 2010. By this action, this document will remain listed in the Numercial Section of the Aerospace Standards Index.&lt;/p&gt;
+    &lt;p&gt;This SAE Aerospace Recommended Practice (ARP) describes two procedures for sampling particles in dust controlled spaces. One procedure covers airborne dust above 5 μm. The other (and newly added procedure) covers particles of 25 μm and larger that "fall out" of the environment onto surfaces. In each case the particles are sized in the longest dimension and counted. Airborne particles are reported as particles per cubic meter (cubic foot) whereas particles collected in fall out samples are reported as particles per 0.1 square meter (square foot). This document includes English units in parentheses as referenced information to the SI units where meaningful.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

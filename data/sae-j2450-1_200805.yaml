@@ -1,0 +1,56 @@
+---
+id: SAEJ24501_200805
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SAE J2450 Supplemental Training Document
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2450/1_200805
+- type: src
+  content: https://saemobilus.sae.org/standards/j24501_200805-sae-j2450-supplemental-training-document
+docidentifier:
+- content: SAE J2450/1_200805
+  type: SAE
+  primary: true
+- content: 10.4271/j2450/1_200805
+  type: DOI
+date:
+- type: approved
+  at: '2008-05-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This supplement, which is a living document, is meant to provide both clients and translation suppliers with some suggestions for integrating SAE J2450 into their business practices. It is intended for the use of clients, trainers who wish to develop new evaluators, and those who wish to self-train.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

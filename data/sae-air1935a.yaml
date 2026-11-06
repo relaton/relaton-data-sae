@@ -1,0 +1,57 @@
+---
+id: SAEAIR1935A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Methods of Controlling Distortion of Inlet Airflow During Static Acoustical
+    Tests of Turbofan Engines and Fan Rigs
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1935a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1935a-methods-controlling-distortion-inlet-airflow-static-acoustical-tests-turbofan-engines-fan-rigs
+docidentifier:
+- content: SAE AIR1935A
+  type: SAE
+  primary: true
+- content: 10.4271/air1935a
+  type: DOI
+date:
+- type: approved
+  at: '2020-12-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-21 Aircraft Noise Measurement Aviation Emission Modeling
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Information Report provides guidelines for hardware design. Guidelines on such items as engine types, test arrangements, and test purposes that would benefit from the use of an inflow control device during static noise testing are outside the scope of this report.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

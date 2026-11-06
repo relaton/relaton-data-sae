@@ -1,0 +1,57 @@
+---
+id: SAEJ2909_201005
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Light Vehicle Dry Stopping Distance
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2909_201005
+- type: src
+  content: https://saemobilus.sae.org/standards/j2909_201005-light-vehicle-dry-stopping-distance
+docidentifier:
+- content: SAE J2909_201005
+  type: SAE
+  primary: true
+- content: 10.4271/j2909_201005
+  type: DOI
+date:
+- type: approved
+  at: '2010-05-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Highway Tire Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document establishes best practices to measure vehicle stopping distance on dry asphalt in a straight path of travel intended for the purpose of publishing stopping distance by manufacturers and media organizations. It is recommended that the test method within be adopted for all vehicles less than 10 000 lb (4536 kg) GVWR. This procedure is typically used with initial speeds of 100 km/h and 60 mph, but other speeds may be used.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,49 @@
+---
+id: SAEAS25472
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GAGE, IN-SERVICE-INSPECTION, FOR USE WITH MS25442 CRIMPING DIES (FOR USE
+    WITH ALUMINUM WIRE TERMINALS)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as25472
+- type: src
+  content: https://saemobilus.sae.org/standards/as25472-gage-service-inspection-use-ms25442-crimping-dies-use-aluminum-wire-terminals
+docidentifier:
+- content: SAE AS25472
+  type: SAE
+  primary: true
+- content: 10.4271/as25472
+  type: DOI
+date:
+- type: approved
+  at: '2009-04-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C2 Terminating Devices and Tooling Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

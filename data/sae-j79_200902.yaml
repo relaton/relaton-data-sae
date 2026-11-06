@@ -1,0 +1,55 @@
+---
+id: SAEJ79_200902
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Brake Disc and Drum Thermocouple Installation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j79_200902
+- type: src
+  content: https://saemobilus.sae.org/standards/j79_200902-brake-disc-drum-thermocouple-installation
+docidentifier:
+- content: SAE J79_200902
+  type: SAE
+  primary: true
+- content: 10.4271/j79_200902
+  type: DOI
+date:
+- type: approved
+  at: '2009-02-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Brake Dynamometer Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>To provide a uniform method for installing thermocouples in automotive brake discs and drums.
+
+    This SAE Recommended Practice describes two methods for installing thermocouples in automotive brake discs or  drums for the purpose of indicating bulk temperature during inertia dynamometer and vehicle road tests.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

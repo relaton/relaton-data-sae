@@ -1,0 +1,60 @@
+---
+id: SAEJ1088_199302
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TEST PROCEDURE FOR THE MEASUREMENT OF GASEOUS EXHAUST EMISSIONS FROM SMALL
+    UTILITY ENGINES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1088_199302
+- type: src
+  content: https://saemobilus.sae.org/standards/j1088_199302-test-procedure-measurement-gaseous-exhaust-emissions-small-utility-engines
+docidentifier:
+- content: SAE J1088_199302
+  type: SAE
+  primary: true
+- content: 10.4271/j1088_199302
+  type: DOI
+date:
+- type: approved
+  at: '1993-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Small Engine and Powered Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice specifies a uniform procedure for the evaluation of gaseous exhaust emissions from small utility engines typically less than 20 kW. Details of engine test setup and exhaust gas analysis techniques are specified with the intent of providing a uniform and reproducible method of measurement.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The intent has been to allow as much flexibility as possible in the physical construction of the experimental apparatus. Therefore, only those portions of the apparatus whose operation is critical to the accurate measurement of emissions levels are prescribed in detail.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;An engine test procedure including a test sequence is outlined such that it would cover the various applications in which small engines are used. The intent is to provide an understanding of the levels of exhaust emissions and does not imply that in a given application, an engine would operate in all the modes outlined in the test procedure.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is intended as a guide toward standard practice and is subject to change to keep pace with experience and technical advances.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAMS5626D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS AND FORGINGS, TOOL, HIGH SPEED 4.1Cr - 18W - 1.1V
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5626d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5626d-steel-bars-forgings-tool-high-speed-41cr-18w-11v
+docidentifier:
+- content: SAE AMS5626D
+  type: SAE
+  primary: true
+- content: 10.4271/ams5626d
+  type: DOI
+date:
+- type: approved
+  at: '1989-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an alloy steel in the form of bars, forgings, and forging stock.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

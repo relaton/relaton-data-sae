@@ -1,0 +1,69 @@
+---
+id: SAEAMS6904
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Titanium Alloy, Bars, Forgings, and Flash-Welded Rings, 5.0Al - 2.5V -
+    4.0Sn - 1.0Co - 0.8Fe, Solution Heat Treated and Aged
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6904
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6904-titanium-alloy-bars-forgings-flash-welded-rings-50al-25v-40sn-10co-08fe-solution-heat-treated-aged
+docidentifier:
+- content: SAE AMS6904
+  type: SAE
+  primary: true
+- content: 10.4271/ams6904
+  type: DOI
+date:
+- type: approved
+  at: '2025-12-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G Titanium and Refractory Metals Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a titanium alloy in the form of bars, forgings, and flash-welded rings up to 4.500 inches (114.30 mm), inclusive, in nominal diameter or least distance between parallel sides and stock of any size for forging and flash-welded rings (see &lt;span class="xref"&gt;8.6&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

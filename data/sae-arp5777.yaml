@@ -1,0 +1,59 @@
+---
+id: SAEARP5777
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Maintenance and Inspection Procedures for Acme Screw Assemblies
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5777
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5777-maintenance-inspection-procedures-acme-screw-assemblies
+docidentifier:
+- content: SAE ARP5777
+  type: SAE
+  primary: true
+- content: 10.4271/arp5777
+  type: DOI
+date:
+- type: approved
+  at: '2022-11-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6B3 Electro-Mechanical Actuation Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is to be used as a guide in preparing specifications for maintenance and inspection of acme screw assemblies used in driven linear actuators. It is intended to cover Acme screw assemblies driven by electric, hydraulic, pneumatic, manual means, with or without gear case or speed reduction systems, and micro actuators.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Though the Acme screw is the most common thread form for sliding contact jackscrews this guideline is equally applicable to other sliding contact thread forms such as buttress, square, stub acme, and others including custom thread forms. The term Acme shall be used generally to address all sliding contact thread forms.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

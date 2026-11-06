@@ -1,0 +1,61 @@
+---
+id: SAEJ1885_200801
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Accelerated Exposure of Automotive Interior Trim Components Using a Controlled
+    Irradiance Water Cooled Xenon-Arc Apparatus
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1885_200801
+- type: src
+  content: https://saemobilus.sae.org/standards/j1885_200801-accelerated-exposure-automotive-interior-trim-components-using-a-controlled-irradiance-water-cooled-xenon-arc-apparatus
+docidentifier:
+- content: SAE J1885_200801
+  type: SAE
+  primary: true
+- content: 10.4271/j1885_200801
+  type: DOI
+date:
+- type: approved
+  at: '2008-01-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Textile and Flexible Plastics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This test method specifies the operating procedures for a controlled irradiance, water cooled xenon-arc apparatus used for the accelerated exposure of various automotive interior trim components.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Test durations, as well as any exceptions to the sample preparation and performance evaluation procedures contained in this document, are covered in material specifications of the different automotive manufacturers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard is limited to the models of xenon arc test apparatus specified in the Section on Equipment.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;All other models of xenon arc test apparatus must use SAE J2412 to perform the test conditions specified in SAE J1885. SAE J2412 is the performance standard based on the test parameters of SAE J1885. Use of xenon arc test apparatus to perform SAE J2412 must be agreed upon by contractual parties.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

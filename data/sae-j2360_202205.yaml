@@ -1,0 +1,57 @@
+---
+id: SAEJ2360_202205
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Automotive Gear Lubricants for Commercial and Military Use
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2360_202205
+- type: src
+  content: https://saemobilus.sae.org/standards/j2360_202205-automotive-gear-lubricants-commercial-military-use
+docidentifier:
+- content: SAE J2360_202205
+  type: SAE
+  primary: true
+- content: 10.4271/j2360_202205
+  type: DOI
+date:
+- type: approved
+  at: '2022-05-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuels and Lubricants TC 3  Driveline and Chassis Lubrication
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The gear lubricants covered by this standard exceed American Petroleum Institute (API) Service Classification API GL-5 and are intended for hypoid-type, automotive gear units, operating under conditions of high-speed/shock load and low-speed/high-torque. These lubricants may be appropriate for other gear applications where the position of the shafts relative to each other and the type of gear flank contact involve a large percentage of sliding contact. Such applications typically require extreme pressure (EP) additives to prevent the adhesion and subsequent tearing away of material from the loaded gear flanks. These lubricants are not appropriate for the lubrication of worm gears.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Appendix A&lt;/span&gt; is a mandatory part of this standard. The information contained in &lt;span class="xref"&gt;Appendix A&lt;/span&gt; is intended for the demonstration of compliance with the requirements of this standard and for listing on the Qualified Products List (QPL) administered by the Lubricant Review Institute (LRI). &lt;span class="xref"&gt;Appendix A&lt;/span&gt; contains a summary of key qualification requirements. A complete listing of qualification requirements and procedures can be found in the Program Document (PD4000), Gear Lubricant Review Program, available on the Performance Review Institute (PRI) website, &lt;a href="http://www.p-r-i.org" target="_blank"&gt;www.p-r-i.org&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

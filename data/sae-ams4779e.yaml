@@ -1,0 +1,57 @@
+---
+id: SAEAMS4779E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: NICKEL ALLOY, BRAZING FILLER METAL 94Ni - 3.5Si - 1.8B 1800 to 1950 °F
+    (982 to 1066 °C) Solidus-Liquidus Range
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4779e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4779e-nickel-alloy-brazing-filler-metal-94ni-35si-18b-1800-1950-f-982-1066-c-solidus-liquidus-range
+docidentifier:
+- content: SAE AMS4779E
+  type: SAE
+  primary: true
+- content: 10.4271/ams4779e
+  type: DOI
+date:
+- type: approved
+  at: '1994-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a nickel alloy in the form of wire, rod, strip, foil, and powder and a viscous mixture (paste) of the powder in a suitable binder.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

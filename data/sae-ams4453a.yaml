@@ -1,0 +1,48 @@
+---
+id: SAEAMS4453A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MAGNESIUM ALLOY CASTINGS, INVESTMENT 9A1 - 2Zn (AZ92A-T6)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4453a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4453a-magnesium-alloy-castings-investment-9a1-2zn-az92a-t6
+docidentifier:
+- content: SAE AMS4453A
+  type: SAE
+  primary: true
+- content: 10.4271/ams4453a
+  type: DOI
+date:
+- type: approved
+  at: '1968-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

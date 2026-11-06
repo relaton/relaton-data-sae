@@ -1,0 +1,57 @@
+---
+id: SAEAS440B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Automatic Pilots (Turbine Powered Subsonic Aircraft)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as440b
+- type: src
+  content: https://saemobilus.sae.org/standards/as440b-automatic-pilots-turbine-powered-subsonic-aircraft
+docidentifier:
+- content: SAE AS440B
+  type: SAE
+  primary: true
+- content: 10.4271/as440b
+  type: DOI
+date:
+- type: approved
+  at: '2020-12-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4 Aircraft Instruments Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) covers automatic pilots intended for use on aircraft to automatically operate the primary and trim aerodynamic controls to maintain stable flight and/or to provide maneuvering about any of the three axes through servo control. Automatic control functions essential for primary or augmented flight control are excluded.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

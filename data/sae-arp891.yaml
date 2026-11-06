@@ -1,0 +1,57 @@
+---
+id: SAEARP891
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: DETERMINATION OF ALUMINUM ALLOY TEMPERS THROUGH ELECTRICAL CONDUCTIVITY
+    MEASUREMENT (EDDY CURRENT)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp891
+- type: src
+  content: https://saemobilus.sae.org/standards/arp891-determination-aluminum-alloy-tempers-electrical-conductivity-measurement-eddy-current
+docidentifier:
+- content: SAE ARP891
+  type: SAE
+  primary: true
+- content: 10.4271/arp891
+  type: DOI
+date:
+- type: approved
+  at: '1967-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice establishes a procedure for checking the tempers of aluminum alloys through eddy current conductivity measurements and defines criteria for acceptance or rejection.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

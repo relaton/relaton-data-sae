@@ -1,0 +1,57 @@
+---
+id: SAEAIR4827B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Physical Modeling Techniques for Jet Engine Test Cell Aerodynamics
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4827b
+- type: src
+  content: https://saemobilus.sae.org/standards/air4827b-physical-modeling-techniques-jet-engine-test-cell-aerodynamics
+docidentifier:
+- content: SAE AIR4827B
+  type: SAE
+  primary: true
+- content: 10.4271/air4827b
+  type: DOI
+date:
+- type: approved
+  at: '2016-10-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EG-1E Gas Turbine Test Facilities and Equipment
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) has been written for individuals associated with ground level testing of turbofan and turbojet engines and particularly for those who might be interested in investigating the performance characteristics of a new test cell design or of proposed modifications to an existing test cell by means of a scale model test.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

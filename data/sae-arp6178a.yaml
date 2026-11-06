@@ -1,0 +1,59 @@
+---
+id: SAEARP6178A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Counterfeit Electrical, Electronic, and Electromechanical (EEE) Parts:
+    Tools for Risk Assessment of Other than an Authorized Source (e.g., Independent
+    Distributors)'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6178a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6178a-counterfeit-electrical-electronic-electromechanical-eee-parts-tools-risk-assessment-authorized-source-eg-independent-distributors
+docidentifier:
+- content: SAE ARP6178A
+  type: SAE
+  primary: true
+- content: 10.4271/arp6178a
+  type: DOI
+date:
+- type: approved
+  at: '2023-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-19 Counterfeit Electronic Parts Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) is a tool that organizations may use to evaluate a non-authorized supplier’s processes for the prevention, detection, containment, adjudication, and reporting of suspect counterfeit and counterfeit EEE parts. See &lt;span class="xref"&gt;3.1.1&lt;/span&gt; and &lt;span class="xref"&gt;3.1.2&lt;/span&gt;, which reference the use of AS6081 when performing pre-visit self-assessment and on-site assessment of non-authorized suppliers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This ARP is applicable for all organizations that procure EEE parts from suppliers other than authorized sources (e.g., independent distributors).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

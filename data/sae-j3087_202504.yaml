@@ -1,0 +1,81 @@
+---
+id: SAEJ3087_202504
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Automatic Emergency Braking (AEB) System Performance Testing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3087_202504
+- type: src
+  content: https://saemobilus.sae.org/standards/j3087_202504-automatic-emergency-braking-aeb-system-performance-testing
+docidentifier:
+- content: SAE J3087_202504
+  type: SAE
+  primary: true
+- content: 10.4271/j3087_202504
+  type: DOI
+date:
+- type: approved
+  at: '2025-04-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Active Safety and Driver Support Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes an SAE Recommended Practice for Automatic Emergency Braking (AEB) system performance testing which:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Establishes uniform vehicle level test procedures&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Identifies target equipment, test scenarios, and measurement methods&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Identifies and explains the performance data of interest&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Does not exclude any particular system or sensor technology&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Identifies the known limitations of the information contained within (assumptions and “gaps”)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Is intended to be a guide toward standard practice and is subject to change on pace with the technology&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Focuses on “Vehicle Front to Rear, In Lane Scenarios” expanded to include additional offset impacts&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;This document describes the equipment, facilities, methods, and procedures needed to evaluate the ability of Automatic Emergency Braking (AEB) systems to detect and respond to another vehicle, in its forward path, as it is approached from the rear.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not specify test conditions (e.g., speeds, decelerations, clearance gaps, etc.). Those values will be defined by the tester according to the intended purpose of a given test sequence. Informative examples are provided for reference in &lt;span class="xref"&gt;Appendix B&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The procedure includes three test scenarios:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Stopped lead vehicle (Test 1): The vehicle being approached is stopped in the lane of the test vehicle.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Slower lead vehicle (Test 2): The vehicle being approached is moving at a constant speed that is slower than the test vehicle.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Decelerating lead vehicle (Test 3): The vehicle being approached is initially moving at the same speed as the test vehicle, but then slows.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

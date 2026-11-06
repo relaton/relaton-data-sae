@@ -1,0 +1,53 @@
+---
+id: SAEAMS32176A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Test Slabs, Phosphonitrilic Fluoroelastomer (Fz), 65-75
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3217/6a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams32176a-test-slabs-phosphonitrilic-fluoroelastomer-fz-65-75
+docidentifier:
+- content: SAE AMS3217/6A
+  type: SAE
+  primary: true
+- content: 10.4271/ams3217/6a
+  type: DOI
+date:
+- type: approved
+  at: '2001-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CE Elastomers Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers a standard phosphonitrilic fluoroelastomer
+    (FZ) rubber stock in the form of molded test slabs.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,54 @@
+---
+id: SAEAMS2665
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Brazing, Silver For Use Up to 400°F (204°C)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2665
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2665-brazing-silver-use-400f-204c
+docidentifier:
+- content: SAE AMS2665
+  type: SAE
+  primary: true
+- content: 10.4271/ams2665
+  type: DOI
+date:
+- type: approved
+  at: '1947-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This specification covers the engineering requirements for producing brazed joints in parts fabricated from steels, iron alloys, nickel alloys, cobalt alloys, and copper alloys by use of silver alloys, and the properties of such joints.&lt;/p&gt;
+    &lt;p&gt;This procedure has been used typically for joints requiring high strength up to 400 degrees F (204 degrees C), but usage is not limited to such applications.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

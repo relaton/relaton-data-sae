@@ -1,0 +1,57 @@
+---
+id: SAEAMS6469A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: WIRE, STEEL WELDING 1.75Mn - 0.80Cr - 2.8Ni - 0.85Mo (0.09 - 0.12C) Vacuum
+    Melted, Environment-Controlled Packaging
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6469a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6469a-wire-steel-welding-175mn-080cr-28ni-085mo-009-012c-vacuum-melted-environment-controlled-packaging
+docidentifier:
+- content: SAE AMS6469A
+  type: SAE
+  primary: true
+- content: 10.4271/ams6469a
+  type: DOI
+date:
+- type: approved
+  at: '1995-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a low-alloy steel in the form of welding wire.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

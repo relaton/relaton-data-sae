@@ -1,0 +1,64 @@
+---
+id: SAEJ517_201005
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hydraulic Hose
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j517_201005
+- type: src
+  content: https://saemobilus.sae.org/standards/j517_201005-hydraulic-hose
+docidentifier:
+- content: SAE J517_201005
+  type: SAE
+  primary: true
+- content: 10.4271/j517_201005
+  type: DOI
+date:
+- type: approved
+  at: '2010-05-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hydraulic Hose and Hose Fittings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard provides general, dimensional and performance specifications for the most common hoses used in hydraulic systems on mobile and stationary equipment.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The general specifications contained in &lt;span class="xref"&gt;Sections 1&lt;/span&gt; through &lt;span class="xref"&gt;12&lt;/span&gt; are applicable to all hydraulic hoses and supplement the detailed specifications for the 100R-series hoses contained in the later sections of this document. (See &lt;span class="xref"&gt;Tables 1A&lt;/span&gt; and &lt;span class="xref"&gt;1B&lt;/span&gt;).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document shall be utilized as a procurement document only to the extent as agreed upon by the manufacturer and user.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The maximum working pressure of a hose assembly comprising SAE J517 hose and hose connectors per SAE J516, SAE J518, SAE J1453, etc., shall not exceed the lower of the respective SAE maximum working pressure values.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;When using SAE J517 hose for marine applications, see SAE J1475, SAE J1942 and SAE J1942-1.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The SAE J517 100R9, 100R10 and 100R11 hoses are discontinued due to lack of demand. For DOD orders see &lt;span class="xref"&gt;Appendix C&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The SAE J517 100R1A, 100R2A, 100R2B and 100R 2BT are discontinued due to lack of demand. For DOD orders replace 100R1A with 100R1AT, replace 100R2A, 100R2B and 100R2BT with 100R2AT.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The SAE J517 100R2AT maximum working pressures will be replaced by the type S maximum working pressures beginning with the year 2009, eliminating the need to label 100R2 as type S.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The SAE J517 100R16 maximum working pressures will be replaced by the type S maximum working pressures with the year 2009, eliminating the need to label 100R16 as type S.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

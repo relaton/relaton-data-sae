@@ -1,0 +1,59 @@
+---
+id: SAEAS5392
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Health and Usage Monitoring System, Rotational System Indexing Sensor Specification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5392
+- type: src
+  content: https://saemobilus.sae.org/standards/as5392-health-usage-monitoring-system-rotational-system-indexing-sensor-specification
+docidentifier:
+- content: SAE AS5392
+  type: SAE
+  primary: true
+- content: 10.4271/as5392
+  type: DOI
+date:
+- type: approved
+  at: '2002-12-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: HM-1 Integrated Vehicle Health Management Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) specifies requirements for the interface between a rotational system indexing sensor and its interface electronics. These sensors generate one or more electrical pulses for each revolution of the shaft being monitored. These pulses can be used to determine the actual shaft rotational speed and/or position for use in a Health and Usage Monitoring System (HUMS). Indexing sensors are used in the following HUMS areas on the aircraft: (a) rotor track and balance, (b) engine vibration monitoring and diagnostics, (c) drive train vibration monitoring and diagnostics. The goal of this standardization effort is to be able to take any compliant indexing sensor and connect it to any compliant interface electronics.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These SAE HUMS Interface Specifications include the minimal interface and performance requirements for interoperability with the Rotorcraft Industry Technology Association (RITA) compliant HUMS. Compliance with these Interface Specifications can be referenced in more comprehensive procurement and device specifications.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

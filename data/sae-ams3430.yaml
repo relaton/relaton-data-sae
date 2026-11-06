@@ -1,0 +1,48 @@
+---
+id: SAEAMS3430
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PASTE, COPPER BRAZING Water Thinning
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3430
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3430-paste-copper-brazing-water-thinning
+docidentifier:
+- content: SAE AMS3430
+  type: SAE
+  primary: true
+- content: 10.4271/ams3430
+  type: DOI
+date:
+- type: approved
+  at: '1958-01-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

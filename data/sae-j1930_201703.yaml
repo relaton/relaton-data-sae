@@ -1,0 +1,71 @@
+---
+id: SAEJ1930_201703
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electrical/Electronic Systems Diagnostic Terms, Definitions, Abbreviations,
+    and Acronyms - Equivalent to ISO/TR 15031-2
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1930_201703
+- type: src
+  content: https://saemobilus.sae.org/standards/j1930_201703-electrical-electronic-systems-diagnostic-terms-definitions-abbreviations-acronyms-equivalent-iso-tr-15031-2
+docidentifier:
+- content: SAE J1930_201703
+  type: SAE
+  primary: true
+- content: 10.4271/j1930_201703
+  type: DOI
+date:
+- type: approved
+  at: '2017-03-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice supersedes SAE J1930 OCT2008, and is technically equivalent to ISO 15031-2. This document is applicable to all light-duty gasoline and diesel passenger vehicles and trucks, and to heavy-duty gasoline vehicles. Specific applications of this document include diagnostic, service and repair manuals, bulletins and updates, training manuals, repair databases, underhood emission labels, and emission certification applications.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document should be used in conjunction with SAE J1930DA Digital Annexes, which contains all of the information previously contained within the SAE J1930 tables.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These documents focus on diagnostic terms applicable to electrical/electronic systems, and therefore also contains related mechanical terms, definitions, abbreviations, and acronyms.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Even though the use and appropriate updating of these documents is strongly encouraged, nothing in these documents should be construed as prohibiting the introduction of a term, abbreviation, or acronym not covered by these documents.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Certain terms have already been in common use and are readily understood by manufacturers and technicians, but do not strictly follow the methodology of this document. The SAE J1930 committee may approve these terms that already may be considered industry standards. These terms fall into three categories:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Acronyms that do not logically fit the term.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Acronyms existing at the component level, i.e., their terms contain the base word or noun that describes the generic item that is being further defined.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Acronyms for terms that appear to contain the base word, but are frequently used as a modifier to another base word. (This use may possibly be thought of as following the methodology since the acronym is normally used as a modifier.)&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

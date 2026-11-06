@@ -1,0 +1,59 @@
+---
+id: SAEAMS2750C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PYROMETRY
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2750c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2750c-pyrometry
+docidentifier:
+- content: SAE AMS2750C
+  type: SAE
+  primary: true
+- content: 10.4271/ams2750c
+  type: DOI
+date:
+- type: approved
+  at: '1994-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers temperature sensors, instrumentation, thermal processing equipment, system accuracy tests, and temperature uniformity tests. These are necessary (See &lt;span class="xref"&gt;8.2&lt;/span&gt;) to ensure that parts or raw materials (See &lt;span class="xref"&gt;8.3.7&lt;/span&gt;) are heat treated in accordance with the applicable specification(s). It is applicable to all heat treatment of parts and to those heat treatments by producers of raw material which could affect fabrication or properties of parts.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

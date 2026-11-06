@@ -1,0 +1,60 @@
+---
+id: SAEJ28476_202009
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Communication for Wireless Power Transfer Between Light-Duty Plug-in Electric
+    Vehicles and Wireless EV Charging Stations
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2847/6_202009
+- type: src
+  content: https://saemobilus.sae.org/standards/j28476_202009-communication-wireless-power-transfer-light-duty-plug-electric-vehicles-wireless-ev-charging-stations
+docidentifier:
+- content: SAE J2847/6_202009
+  type: SAE
+  primary: true
+- content: 10.4271/j2847/6_202009
+  type: DOI
+date:
+- type: approved
+  at: '2020-09-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE J2847/6 establishes minimum requirements for communication between an electric vehicle and an inductive battery charging system for wireless power transfer (WPT). Where relevant, this document notes—but does not formally specify—interactions between the vehicle and vehicle operator.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document leverages the work of the SAE J2954 Alignment and Controls Sub-Team in the Wireless Power Transfer and Alignment Task Force by extending a JSON-based message set (protocol) originally developed to bench test wireless energy transfer interoperability between unmatched Ground Assembly (GA) and Vehicle Assembly (VA) systems (i.e., components manufactured by different companies). SAE J2847/6 furthers that work by adding messages sufficient to indicate that proper coil alignment has been achieved, initialize the sub-systems for wireless charging, ramp-up to full power, perform active wireless power transfer, and terminate the WPT session.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Guidance for an engineering implementation of the JSON protocol is provided as a reference for developing verification and validation of test plans by enabling the GA and VA to transmit a basic set of information using standard wireless IEEE 802.11n (Wi-Fi) communications hardware.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

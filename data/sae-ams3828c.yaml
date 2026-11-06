@@ -1,0 +1,56 @@
+---
+id: SAEAMS3828C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Glass Roving, Epoxy Resin Preimpregnated Type E Glass
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3828c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3828c-glass-roving-epoxy-resin-preimpregnated-type-e-glass
+docidentifier:
+- content: SAE AMS3828C
+  type: SAE
+  primary: true
+- content: 10.4271/ams3828c
+  type: DOI
+date:
+- type: approved
+  at: '1998-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P17 Polymer Matrix Composites Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers glass roving impregnated with epoxy resin, the resin being partially processed to a "B" stage condition.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

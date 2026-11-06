@@ -1,0 +1,127 @@
+---
+id: SAEUSCAR141
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SPECIFICATION FOR TESTING AUTOMOTIVE HALOGEN LIGHT SOURCES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar14-1
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar14-1-specification-testing-automotive-halogen-light-sources
+docidentifier:
+- content: SAE USCAR-14-1
+  type: SAE
+  primary: true
+- content: 10.4271/uscar14-1
+  type: DOI
+date:
+- type: approved
+  at: '2002-04-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The procedures contained in this specification cover the laboratory testing of replaceable halogen incandescent bulbs for use in automotive road illumination. The following tests are intended to be run under the following conditions.&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;New bulb design&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Design or process change made to an existing bulb, which could affect the outcome of the test&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;The completion of one calendar year, accept as noted in the following Test Schedule Table.
+    &lt;div class="table-wrap anchor "&gt;
+    &lt;div class="table-container"&gt;&lt;table class="br-all tbr-box " data-dataset-id=""&gt;
+    &lt;thead&gt;
+    &lt;tr&gt;
+    &lt;th class="va-bottom ta-center "&gt;&lt;u&gt;Test Title&lt;/u&gt;&lt;/th&gt;
+    &lt;th class="va-bottom ta-center "&gt;&lt;u&gt;Yearly&lt;/u&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;
+    &lt;tbody&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-center "&gt;Physical Dimensions&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-center "&gt;Mean Spherical Candela (MSCD)&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-center "&gt;External Visual Examination&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-center "&gt;Color&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-center "&gt;Leak /Sealability Through Terminals and Seals&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-center "&gt;Deflection&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-center "&gt;Fluid Compatibility&lt;/td&gt;
+    &lt;td class="va-top ta-center "/&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-center "&gt;Terminal Retention&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-center "&gt;Resonant Frequencies&lt;/td&gt;
+    &lt;td class="va-top ta-center "/&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-center "&gt;Aged Resonant Frequency&lt;/td&gt;
+    &lt;td class="va-top ta-center "/&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-center "&gt;Salt Spray&lt;/td&gt;
+    &lt;td class="va-top ta-center "/&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-center "&gt;Outgassing Temperatures Requirement&lt;/td&gt;
+    &lt;td class="va-top ta-center "/&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-center "&gt;Laboratory Life at 14.0 VDC&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-center "&gt;Luminous Intensity Maintenance&lt;/td&gt;
+    &lt;td class="va-top ta-center "/&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-center "&gt;Vibration Durability&lt;/td&gt;
+    &lt;td class="va-top ta-center "/&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-center "&gt;Shock&lt;/td&gt;
+    &lt;td class="va-top ta-center "/&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-center "&gt;Aged Vibration Durability&lt;/td&gt;
+    &lt;td class="va-top ta-center "/&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-center "&gt;Terminal Requirements&lt;/td&gt;
+    &lt;td class="va-top ta-center "/&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-center "&gt;DRL (SAE J2087)&lt;/td&gt;
+    &lt;td class="va-top ta-center "/&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div/&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

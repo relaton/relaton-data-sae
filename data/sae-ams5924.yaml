@@ -1,0 +1,58 @@
+---
+id: SAEAMS5924
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nickel Alloy, Corrosion and Heat-Resistant, 47.5Ni - 22Cr - 1.5Co - 9.0Mo
+    - 0.60W - 18.5Fe Powder for General Applications including Metal Injection Molding
+    and Additive Manufacturing without Special Powder Manufacturing Controls
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5924
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5924-nickel-alloy-corrosion-heat-resistant-475ni-22cr-15co-90mo-060w-185fe-powder-general-applications-including-metal-injection-molding-additive-manufacturing-without-special-powder-manufacturing-controls
+docidentifier:
+- content: SAE AMS5924
+  type: SAE
+  primary: true
+- content: 10.4271/ams5924
+  type: DOI
+date:
+- type: approved
+  at: '2019-01-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat-resistant nickel-chromium-iron-molybdenum-alloy in the form of pre-alloyed powder manufactured by atomization in an inert gas.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,64 @@
+---
+id: SAEGEIASTD0005_1A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Performance Standard for Aerospace and High Performance Electronic Systems
+    Containing Lead-free Solder
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/geiastd0005_1a
+- type: src
+  content: https://saemobilus.sae.org/standards/geiastd0005_1a-performance-standard-aerospace-high-performance-electronic-systems-containing-lead-free-solder
+docidentifier:
+- content: SAE GEIA-STD-0005-1A
+  type: SAE
+  primary: true
+- content: 10.4271/geiastd0005_1a
+  type: DOI
+date:
+- type: approved
+  at: '2012-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-24 Pb-free Risk Management Committee for ADHP
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard defines the objectives of, and requirements for, documenting processes that assure customers and regulatory agencies that ADHP electronic systems containing Pb-free solder, piece parts, and PBs will satisfy the applicable requirements for performance, reliability, airworthiness, safety, and certifiability throughout the specified life of performance.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is intended to communicate requirements for a Pb-free Control Plan (LFCP), hereinafter referred to as the Plan, and to assist the Plan Owners in the development of their own Plans. The Plan documents the Plan Owner’s processes that assure their customers, and all other stakeholders that the Plan Owner’s products will continue to meet their requirements, given the risks stated in the Introduction.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard does not contain detailed descriptions of the processes to be documented but lists high-level requirements for such processes, and areas of concern to the ADHP industries that must be addressed by the processes.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Pb-free risk management should be accomplished through specific requirements added to the Plan Owner’s existing infrastructure of product management and control.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard applies to the ADHP electronics system supply chain.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The control of the Pb-free activities &lt;b&gt;&lt;i&gt;shall&lt;/i&gt;&lt;/b&gt; be accomplished by the Plan Owner addressing the requirements of their Customer. These activities include, but are not limited to, those performed by the System Integrator, the OEM, and their respective supply chains, to the lowest level possible. This must be done with the knowledge that, at the component level, the aerospace industry may not have a great influence over those suppliers. In such cases, the Plan Owner assumes responsibility.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Some applications may have unique requirements that exceed the scope of this standard. The extended scope should be covered separately.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The requirements of this standard may be tailored to address unique/specific program needs. If tailoring is performed, the user &lt;b&gt;&lt;i&gt;shall&lt;/i&gt;&lt;/b&gt; obtain documented customer concurrence. &lt;span class="xref"&gt;Annex A&lt;/span&gt; provides a tailoring template that may be used.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

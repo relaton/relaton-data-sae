@@ -1,0 +1,58 @@
+---
+id: SAEJ2803_202006
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Dimension Compatibility for Commercial Vehicle Wheels to Air Disc Brake
+    Calipers - Truck and Bus
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2803_202006
+- type: src
+  content: https://saemobilus.sae.org/standards/j2803_202006-dimension-compatibility-commercial-vehicle-wheels-air-disc-brake-calipers-truck-bus
+docidentifier:
+- content: SAE J2803_202006
+  type: SAE
+  primary: true
+- content: 10.4271/j2803_202006
+  type: DOI
+date:
+- type: approved
+  at: '2020-06-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Wheel Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice defines the boundary line for establishing dimensional compatibility between air disc brake calipers and 22.5 x 8.25 inch disc wheels, including bent valve stems on steel wheels and manufacturer recommended valve stems on aluminum wheels. The line establishes the minimum wheel with valve stem envelope to allow interchangeability. The line does not accommodate customer-specific wheels (such as OEM-specific stylized wheels) or customer-specific brakes.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document addresses dimensional characteristics only and makes no reference to the performance, operational dynamic deflections or heat dissipation of the system. It is up to the system integrator to ensure sufficient clearance exists between the caliper, wheel and valve stem to provide safe operating conditions. Mounting systems as noted are referenced in SAE J694.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

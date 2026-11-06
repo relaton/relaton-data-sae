@@ -1,0 +1,59 @@
+---
+id: SAEARP4763
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace - General Requirements for Hydraulic Relief Valves
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4763
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4763-aerospace-general-requirements-hydraulic-relief-valves
+docidentifier:
+- content: SAE ARP4763
+  type: SAE
+  primary: true
+- content: 10.4271/arp4763
+  type: DOI
+date:
+- type: approved
+  at: '2017-09-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C5 Components Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) is intended as a guide to define the requirements for aerospace hydraulic relief valves, including details pertinent to the design, performance, fabrication, and testing of the relief valves.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE 1: This ARP is for hydraulic system full-flow relief valves; ARP4835 has been developed to specifically cover thermal relief valves.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE 2: This document does not cover the modification of cracking pressure by external input; either hydraulic, electric, or pneumatic.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

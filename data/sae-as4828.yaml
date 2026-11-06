@@ -1,0 +1,59 @@
+---
+id: SAEAS4828
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Technical Manual Development for Ground Support Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4828
+- type: src
+  content: https://saemobilus.sae.org/standards/as4828-technical-manual-development-ground-support-equipment
+docidentifier:
+- content: SAE AS4828
+  type: SAE
+  primary: true
+- content: 10.4271/as4828
+  type: DOI
+date:
+- type: approved
+  at: '2002-07-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document shall serve as a guide for format, style, and method of presentation for all material included in manufacturers' publications for ground support equipment (GSE). These requirements shall be observed throughout all publications except where modified by detail requirements for specific publications. AS4828 is not applicable to the development or revision of electronic test equipment user manuals and documents.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is written in general terms by intention, and in most cases conform to recognized practices in the industry. In the event there is a question which is not specifically covered by this document, the user engineering department should be contacted for guidance before proceeding to the final phase of manual development.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Each manual prepared by a manufacturer shall contain an introduction which shall include a brief statement explaining the organization, content, and method for using the manual.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The prime manufacturer may supply data for components which the manufacturer does not manufacture or alter, and for which the supplier has already developed technical data provided it meets the requirements under Manufacturers' Appendices (see &lt;span class="xref"&gt;4.1&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

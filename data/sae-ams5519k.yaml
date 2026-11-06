@@ -1,0 +1,57 @@
+---
+id: SAEAMS5519K
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL, CORROSION RESISTANT, SHEET AND STRIP 18Cr - 8Ni (SAE 30301) Cold
+    Rolled, 185 ksi (1276 MPa) Tensile Strength
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5519k
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5519k-steel-corrosion-resistant-sheet-strip-18cr-8ni-sae-30301-cold-rolled-185-ksi-1276-mpa-tensile-strength
+docidentifier:
+- content: SAE AMS5519K
+  type: SAE
+  primary: true
+- content: 10.4271/ams5519k
+  type: DOI
+date:
+- type: approved
+  at: '1992-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion-resistant steel in the form of sheet and strip.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

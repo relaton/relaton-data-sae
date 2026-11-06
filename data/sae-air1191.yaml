@@ -1,0 +1,56 @@
+---
+id: SAEAIR1191
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PERFORMANCE OF LOW PRESSURE RATIO EJECTORS FOR ENGINE NACELLE COOLING
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1191
+- type: src
+  content: https://saemobilus.sae.org/standards/air1191-performance-low-pressure-ratio-ejectors-engine-nacelle-cooling
+docidentifier:
+- content: SAE AIR1191
+  type: SAE
+  primary: true
+- content: 10.4271/air1191
+  type: DOI
+date:
+- type: approved
+  at: '1989-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-12 Powered Lift Propulsion Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;A general method for the preliminary design of a single, straight-sided, low subsonic ejector is presented. The method is based on the information presented in References 1, 2, 3, and 4, and utilizes analytical and empirical data for the sizing of the ejector mixing duct diameter and flow length. The low subsonic restriction applies because compressibility effects were not included in the development of the basic design equations. The equations are restricted to applications where Mach numbers within the ejector primary or secondary flow paths are equal to or less than 0.3.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

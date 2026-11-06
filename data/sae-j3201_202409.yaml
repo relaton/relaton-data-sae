@@ -1,0 +1,58 @@
+---
+id: SAEJ3201_202409
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guidelines for Automotive Environment Cybersecurity Key Management and
+    Credential Distribution
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3201_202409
+- type: src
+  content: https://saemobilus.sae.org/standards/j3201_202409-guidelines-automotive-environment-cybersecurity-key-management-credential-distribution
+docidentifier:
+- content: SAE J3201_202409
+  type: SAE
+  primary: true
+- content: 10.4271/j3201_202409
+  type: DOI
+date:
+- type: approved
+  at: '2024-09-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Electrical System Security Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document specifically pertains to cybersecurity for road vehicles. This document encompasses the entire vehicle lifecycle of key management. It has been developed by SAE Committee TEVEES18F, Vehicle Security Credentials Interoperability (VSCI), a subcommittee of SAE Committee TEVEES18A, Vehicle Cybersecurity Systems Engineering Committee. This committee is authorized under the scope and authority fo the SAE Electronic Design Automation Steering Committee (also known as the Electronic Systems Group) that is directly under the scope and authority fo the SAE Motor Vehicle Council.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The SAE Motor Vehicle Council’s stated scope of influence and authority, as defined by the SAE includes, passenger car and light truck in conjunction with ISO/SAE 21434.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

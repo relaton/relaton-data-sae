@@ -1,0 +1,57 @@
+---
+id: SAEJ1030_200210
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Maximum Sound Level for Passenger Cars and Light Trucks
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1030_200210
+- type: src
+  content: https://saemobilus.sae.org/standards/j1030_200210-maximum-sound-level-passenger-cars-light-trucks
+docidentifier:
+- content: SAE J1030_200210
+  type: SAE
+  primary: true
+- content: 10.4271/j1030_200210
+  type: DOI
+date:
+- type: approved
+  at: '2002-10-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Light Vehicle Exterior Sound Level Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This SAE Recommended Practice establishes the test procedures, environment, and instrumentation for determining the maximum exterior sound level of passenger cars, multipurpose vehicles, and light trucks having a gross vehicle mass (weight) rating of 4540 kg (10 000 lb) or less.
+
+    This document is intended for use when the maximum sound generating capability of any applicable vehicle is to be measured.  The test procedure is characterized by having fixed terminal conditions (attainment of rated engine speed at a fixed end point on the test site) in contrast to the procedure of SAE J986 NOV81, Sound Level for Passenger Cars and Light Trucks, which has fixed initial conditions (specified initial vehicle speed at a fixed acceleration point on the test site).  Full-throttle acceleration and closed-throttle deceleration of the vehicle are included in both procedures.
+
+    Sound levels determined in accordance with this document are essentially independent of transmission and final-drive ratios for a vehicle family having otherwise identical characteristics.  Thus, this document is particularly applicable to development testing of vehicle families or to test development where vehicle performance differences are to be minimized.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

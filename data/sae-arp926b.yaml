@@ -1,0 +1,57 @@
+---
+id: SAEARP926B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FAULT/FAILURE ANALYSIS PROCEDURE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp926b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp926b-fault-failure-analysis-procedure
+docidentifier:
+- content: SAE ARP926B
+  type: SAE
+  primary: true
+- content: 10.4271/arp926b
+  type: DOI
+date:
+- type: approved
+  at: '1997-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-18 Aircraft and Sys Dev and Safety Assessment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides guidance in performing Failure/Fault Analyses in relatively low complexity systems. Methodologies and processes are presented and described for accomplishing Failure/Fault Analyses.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;ARP4761 provides updated methods and processes for use on civil aircraft safety assessment. When analyzing these types of systems, ARP4761 should be used in lieu of this ARP.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

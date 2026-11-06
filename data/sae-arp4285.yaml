@@ -1,0 +1,58 @@
+---
+id: SAEARP4285
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace - Evaluation of Particulate Contamination in Hydraulic Fluid
+    - Membrane Procedure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4285
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4285-aerospace-evaluation-particulate-contamination-hydraulic-fluid-membrane-procedure
+docidentifier:
+- content: SAE ARP4285
+  type: SAE
+  primary: true
+- content: 10.4271/arp4285
+  type: DOI
+date:
+- type: approved
+  at: '2008-06-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) establishes a method for evaluating the particulate matter extracted from the working fluid of a hydraulic system or component using a membrane. The amount of particulate matter deposited on the membrane due to filtering a given quantity of fluid is visually compared against a standard membrane in order to provide an indication of the cleanliness level of the fluid. A particular feature of this method is the membrane preparation to achieve an even particulate distribution on the membrane suitable for other applications.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Membrane evaluation using standard membranes, described in this document, is an alternative technique to counting with either an optical microscope (ARP598) or an automatic particle counter (ISO 11500). The latter particle counting procedures are considered more precise. This procedure shall not be used as an alternative to particle counting unless agreed to by the customer since the results by this procedure may differ from those by particle counting, even though the standard membrane correlates to a specific particle count.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,60 @@
+---
+id: SAEJ2654_201508
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hardness of Brake Lining
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2654_201508
+- type: src
+  content: https://saemobilus.sae.org/standards/j2654_201508-hardness-brake-lining
+docidentifier:
+- content: SAE J2654_201508
+  type: SAE
+  primary: true
+- content: 10.4271/j2654_201508
+  type: DOI
+date:
+- type: approved
+  at: '2015-08-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Brake Linings Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Hardness measurements are used as a quality control check of the consistency of formulation and processing of brake linings. This hardness method is nondestructive.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE—This method is not a measure of friction level.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The hardness and the range of hardness are characteristic of each formulation; therefore, the acceptable values and ranges must be established for each formulation and may be affected by processing.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE—The hardness of sintered powder metal lining is usually determined with Rockwell superficial hardness equipment. (See ASTM B 347)&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

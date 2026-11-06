@@ -1,0 +1,56 @@
+---
+id: SAEAS5756B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Cable, Power, Electrical, Portable General Specification For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5756b
+- type: src
+  content: https://saemobilus.sae.org/standards/as5756b-cable-power-electrical-portable-general-specification
+docidentifier:
+- content: SAE AS5756B
+  type: SAE
+  primary: true
+- content: 10.4271/as5756b
+  type: DOI
+date:
+- type: approved
+  at: '2019-06-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8D Wire and Cable Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers 600 V heavy duty, portable, power, single and multiconductor, electrical cable for severe flexing service (see detail specifications for voltage limitations). The AS5756 insulation system has been used in aerospace ground power applications using 115/200 V (phase to neutral) at 400 Hz AC. Verification of the suitability of this product for use in other electrical system configurations (600 V, etc.) is the responsibility of the user.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

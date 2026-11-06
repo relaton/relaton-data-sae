@@ -1,0 +1,56 @@
+---
+id: SAEJ2994_201508
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Brake Hydraulic Component Low Pressure Flow Rate Measurement
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2994_201508
+- type: src
+  content: https://saemobilus.sae.org/standards/j2994_201508-brake-hydraulic-component-low-pressure-flow-rate-measurement
+docidentifier:
+- content: SAE J2994_201508
+  type: SAE
+  primary: true
+- content: 10.4271/j2994_201508
+  type: DOI
+date:
+- type: approved
+  at: '2015-08-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hydraulic Brake Components Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The SAE Recommended Practice specifies a standardize method and test procedure to measure low pressure differential (&amp;lt; 1bar) brake component brake fluid flow performance. The standard can be utilized for flow measurements across hydraulic brake components such as master cylinders, apply system to chassis controls piping, or other sources of flow restriction in the low pressure side of the hydraulic brake system. It covers materials, manufacturing processes, and general properties required to meet the wide range of service encountered in automotive application. This specification covers only low pressure differential fluid flow and does not include measurement recommended practice for High Pressure differential (&amp;gt; 1 bar) flows.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

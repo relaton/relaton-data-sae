@@ -1,0 +1,57 @@
+---
+id: SAEJ193973_199810
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Application Layer— Diagnostics
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939/73_199810
+- type: src
+  content: https://saemobilus.sae.org/standards/j193973_199810-application-layer-diagnostics
+docidentifier:
+- content: SAE J1939/73_199810
+  type: SAE
+  primary: true
+- content: 10.4271/j1939/73_199810
+  type: DOI
+date:
+- type: approved
+  at: '1998-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The SAE J1939 series of recommended practices are intended for light- and heavy-duty vehicle uses on- or off-road as well as appropriate stationary applications which use vehicle derived components (e.g., generator sets). Vehicles of interest include, but are not limited to: on- and off-highway trucks and their trailers, construction equipment, and agriculture equipment and implements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The purpose of these documents is to provide an open interconnect system for on-board electronic systems. It is the intention of these documents to allow electronic devices to communicate with each other by providing a standard architecture.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

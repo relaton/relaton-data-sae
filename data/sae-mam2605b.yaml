@@ -1,0 +1,53 @@
+---
+id: SAEMAM2605B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Pressure Testing, 380 Kpa
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/mam2605b
+- type: src
+  content: https://saemobilus.sae.org/standards/mam2605b-pressure-testing-380-kpa
+docidentifier:
+- content: SAE MAM2605B
+  type: SAE
+  primary: true
+- content: 10.4271/mam2605b
+  type: DOI
+date:
+- type: approved
+  at: '2003-04-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification provides requirements and procedures for air-pressure
+    leak testing of parts.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

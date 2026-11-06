@@ -1,0 +1,57 @@
+---
+id: SAEAIR5914
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Landing Gear Fatigue Spectrum Development For Part 25 Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5914
+- type: src
+  content: https://saemobilus.sae.org/standards/air5914-landing-gear-fatigue-spectrum-development-part-25-aircraft
+docidentifier:
+- content: SAE AIR5914
+  type: SAE
+  primary: true
+- content: 10.4271/air5914
+  type: DOI
+date:
+- type: approved
+  at: '2020-02-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides guidelines for the development of landing gear fatigue spectra for the purpose of designing and certification testing of Part 25 landing gear. Many of the recommendations herein are generalizations based on data obtained from a wide range of landing gears. The aircraft manufacturer or the landing gear supplier is encouraged to use data more specific to their particular undercarriage whenever possible.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEARP492C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Engine Fuel Pump Cavitation Endurance Test
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp492c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp492c-aircraft-engine-fuel-pump-cavitation-endurance-test
+docidentifier:
+- content: SAE ARP492C
+  type: SAE
+  primary: true
+- content: 10.4271/arp492c
+  type: DOI
+date:
+- type: approved
+  at: '2021-03-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5B Aircraft and Engine Fuel and Lubricant Sys Components
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) defines procedures for testing aircraft engine fuel pumps for the purpose of determining their resistance to deterioration, during steady state endurance test, while receiving MIL-T-5624 Grade JP-4 fuel as a homogenous mixture of gas and liquid expressed as a ratio of vapor volume to liquid volume (V/L).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;If any of the above conditions do not apply, refer to &lt;span class="xref"&gt;Section 2&lt;/span&gt;.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

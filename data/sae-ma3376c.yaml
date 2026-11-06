@@ -1,0 +1,76 @@
+---
+id: SAEMA3376C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Bolts & Screws, UNS G87400 Tensile Strength 860 MPa & 1000 MPa Procurement
+    Specification, Metric
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma3376c
+- type: src
+  content: https://saemobilus.sae.org/standards/ma3376c-bolts-screws-uns-g87400-tensile-strength-860-mpa-1000-mpa-procurement-specification-metric
+docidentifier:
+- content: SAE MA3376C
+  type: SAE
+  primary: true
+- content: 10.4271/ma3376c
+  type: DOI
+date:
+- type: approved
+  at: '2018-03-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers metric bolts and screws made from a low alloy steel of the type identified under the Unified Numbering System as UNS G87400. The following specification designations and their properties are covered:
+    &lt;div class="table-wrap anchor " id="tu1-MA3376B"&gt;
+    &lt;div class="table-container"&gt;&lt;table class="br-none tbr-void " data-dataset-id=""&gt;
+    &lt;tbody&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;MA3376&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;860 MPa minimum ultimate tensile strength at room temperature&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;MA3376-1&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;1000 MPa minimum ultimate tensile strength at room temperature&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left " rowspan="2"&gt;MA3376-2&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;860 MPa minimum ultimate tensile strength at room temperature&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;516 MPa minimum ultimate shear strength at room temperature&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left " rowspan="2"&gt;MA3376-3&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;1000 MPa minimum ultimate tensile strength at room temperature&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;600 MPa minimum ultimate shear strength at room temperature&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div/&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

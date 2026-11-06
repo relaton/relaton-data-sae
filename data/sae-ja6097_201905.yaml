@@ -1,0 +1,57 @@
+---
+id: SAEJA6097_201905
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Using a System Reliability Model to Optimize Maintenance Costs A Best Practices
+    Guide
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ja6097_201905
+- type: src
+  content: https://saemobilus.sae.org/standards/ja6097_201905-using-a-system-reliability-model-optimize-maintenance-costs-a-best-practices-guide
+docidentifier:
+- content: SAE JA6097_201905
+  type: SAE
+  primary: true
+- content: 10.4271/ja6097_201905
+  type: DOI
+date:
+- type: approved
+  at: '2019-05-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: HM-1 Integrated Vehicle Health Management Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE JA6097 (“Using a System Reliability Model to Optimize Maintenance”) shows how to determine which maintenance to perform on a system when that system requires corrective maintenance to achieve the lowest long-term operating cost. While this document may focus on applications to Jet Engines and Aircraft, this methodology could be applied to nearly any type of system. However, it would be most effective for systems that are tightly integrated, where a failure in any part of the system causes the entire system to go off-line, and the process of accessing a failed component can require additional maintenance on other unrelated components.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

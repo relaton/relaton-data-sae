@@ -1,0 +1,48 @@
+---
+id: SAEAMS4029
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY SHEET AND PLATE 4.5Cu - 0.8Si - 0.8Mn - 0.5Mg (2014-T6)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4029
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4029-aluminum-alloy-sheet-plate-45cu-08si-08mn-05mg-2014-t6
+docidentifier:
+- content: SAE AMS4029
+  type: SAE
+  primary: true
+- content: 10.4271/ams4029
+  type: DOI
+date:
+- type: approved
+  at: '1958-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

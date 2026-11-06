@@ -1,0 +1,60 @@
+---
+id: SAEAIR790D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Considerations on Ice Formation in Aircraft and Engine Fuel Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air790d
+- type: src
+  content: https://saemobilus.sae.org/standards/air790d-considerations-ice-formation-aircraft-engine-fuel-systems
+docidentifier:
+- content: SAE AIR790D
+  type: SAE
+  primary: true
+- content: 10.4271/air790d
+  type: DOI
+date:
+- type: approved
+  at: '2020-09-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5A Aerospace Fuel, Inerting and Lubrication Sys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Ice formation in aircraft fuel systems results from the presence of dissolved and undissolved water in the fuel. Dissolved water or water in solution with hydrocarbon fuels constitutes a relatively small part of the total water potential in a particular system with the quantity dissolved being primarily dependent on the fuel temperature and the water solubility characteristics of the fuel. One condition of undissolved water is entrained water, such as water particles suspended in the fuel as a result of mechanical agitation of free water or conversion of dissolved water through temperature reduction. This can be considered as analogous to an emulsion state. Another condition of undissolved water is free water which may be introduced as a result of refueling or the settling of entrained water which collects at the bottom of a fuel tank in easily detectable quantities separated by a continuous interface from the fuel above. Water may also be introduced as a result of condensation from air entering a fuel tank through the vent system. Assuming good quality of uplifted fuel, vapor passing through the aircraft vent system is a significant water introduction mechanism.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Entrained water will settle out in time under static conditions and may or may not be drained, depending on the rate at which it is converted to free water. In general, it is not likely that all entrained water can ever be separated from fuel under field conditions. The settling rate depends on a series of factors including temperature, quiescence, and droplet size. The droplet size will vary depending upon the mechanics of formation. Usually the particles are so small as to be invisible to the naked eye, but in extreme cases can cause a slight haziness in the fuel.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Free water can be drained from a fuel tank if low point drain provisions are adequate and recommended maintenance actions are followed. Water in solution cannot be removed except by dehydration or by converting it, through temperature reduction, to entrained, then to free water.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Water strictly in solution is not a serious problem in aviation fuel so long as it remains in solution. Entrained and free water are the most problematic because of the potential of freezing on the surfaces of the fuel system. Further, entrained water will freeze in cold fuel and tend to stay in solution longer since the specific gravity of ice is approximately the same as that of hydrocarbon fuels.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The elimination of undissolved water, to the extent it is practical, in fuel storage, handling, and delivery systems, as well as in aircraft fuel systems, can reduce or eliminate the potential for icing problems. Appropriate testing of fuel systems, subsystems, and components under controlled icing conditions can establish confidence in the safe operation of the aircraft fuel system in such icing conditions. The objective of testing is not necessarily to demonstrate that no icing will occur but rather that the effects of the icing will not create a hazardous condition. Considerations for these measures to control potential icing problems are addressed herein.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

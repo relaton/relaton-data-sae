@@ -1,0 +1,56 @@
+---
+id: SAEJ2974_201902
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Technical Information Report on Automotive Battery Recycling
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2974_201902
+- type: src
+  content: https://saemobilus.sae.org/standards/j2974_201902-technical-information-report-automotive-battery-recycling
+docidentifier:
+- content: SAE J2974_201902
+  type: SAE
+  primary: true
+- content: 10.4271/j2974_201902
+  type: DOI
+date:
+- type: approved
+  at: '2019-02-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Battery Standards Recycling Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document will focus on the language used to describe batteries at the end of battery or vehicle life as batteries are transitioned to the recycler, dismantler, or other third party. This document also provides a compilation of current recycling technologies and flow sheets, and their application to different battery chemistries at the end of battery life. At the time of document authorship, the technical information cited is most applicable to Li-ion battery type rechargeable energy storage systems (RESS), but the language used is not to be limited by chemistry of the battery systems and is generally applicable to other RESS.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

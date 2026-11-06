@@ -1,0 +1,59 @@
+---
+id: SAEJ3093_201901
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Design and Performance Specifications for a Generic Buck Representing a
+    Small Family Car Used in the Assessment of Pedestrian Dummy Whole Body Impact
+    Response
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3093_201901
+- type: src
+  content: https://saemobilus.sae.org/standards/j3093_201901-design-performance-specifications-a-generic-buck-representing-a-small-family-car-used-assessment-pedestrian-dummy-whole-body-impact-response
+docidentifier:
+- content: SAE J3093_201901
+  type: SAE
+  primary: true
+- content: 10.4271/j3093_201901
+  type: DOI
+date:
+- type: approved
+  at: '2019-01-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Human Biomechanics and Simulations Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Information Report addresses the design and performance specifications for a generic buck to be used in full-scale vehicle to pedestrian tests conducted to evaluate pedestrian dummy performance. Specifically, the buck is designed to mimic the impact response of the front end of a sedan within the small family car class during a collision with a pedestrian. The goal is to develop a generic buck with simplified geometry and a limited number of components made of clearly defined and readily available engineering materials to facilitate fabrication and reproducibility. To ensure performance of the buck, it is specified that the buck mimics the maximum crush distance, absorbed energy, and maximum force corresponding to a sedan within the small family car class during a pedestrian impact. The design and performance specifications provided in this document focus on: (1) the design specifications describing the materials and geometry of the generic buck and (2) the specific certification tests that are required to ensure that any fabricated buck meets the necessary design specifications.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,49 @@
+---
+id: SAEAMS7471G
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Bolts and Screws, Nickel Alloy, Corrosion and Heat Resistant, Upset Headed,
+    Heat Treated, Roll Threaded, 1950°F Solution Heat Treatment (AMS 5708)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7471g
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7471g-bolts-screws-nickel-alloy-corrosion-heat-resistant-upset-headed-heat-treated-roll-threaded-1950f-solution-heat-treatment-ams-5708
+docidentifier:
+- content: SAE AMS7471G
+  type: SAE
+  primary: true
+- content: 10.4271/ams7471g
+  type: DOI
+date:
+- type: approved
+  at: '1993-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

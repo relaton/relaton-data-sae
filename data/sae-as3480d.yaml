@@ -1,0 +1,49 @@
+---
+id: SAEAS3480D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'NUT, SELF-LOCKING, PLATE, ONE LUG, REDUCED RIVET SPACING, LOW HEIGHT,
+    UNS S66286, CLASS: 125 KSI/800 °F'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as3480d
+- type: src
+  content: https://saemobilus.sae.org/standards/as3480d-nut-self-locking-plate-one-lug-reduced-rivet-spacing-low-height-uns-s66286-class-125-ksi-800-f
+docidentifier:
+- content: SAE AS3480D
+  type: SAE
+  primary: true
+- content: 10.4271/as3480d
+  type: DOI
+date:
+- type: approved
+  at: '2014-10-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

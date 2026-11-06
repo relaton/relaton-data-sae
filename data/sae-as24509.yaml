@@ -1,0 +1,48 @@
+---
+id: SAEAS24509
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CIRCUIT BREAKER - AIRCRAFT, TRIP-FREE, TOGGLE, 5 THRU 15 AMP, TYPE I
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as24509
+- type: src
+  content: https://saemobilus.sae.org/standards/as24509-circuit-breaker-aircraft-trip-free-toggle-5-thru-15-amp-type
+docidentifier:
+- content: SAE AS24509
+  type: SAE
+  primary: true
+- content: 10.4271/as24509
+  type: DOI
+date:
+- type: approved
+  at: '1999-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8B1 Protective Devices Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

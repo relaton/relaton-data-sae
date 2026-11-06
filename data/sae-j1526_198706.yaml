@@ -1,0 +1,68 @@
+---
+id: SAEJ1526_198706
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: JOINT TMC/SAE FUEL CONSUMPTION IN-SERVICE TEST PROCEDURE TYPE III
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1526_198706
+- type: src
+  content: https://saemobilus.sae.org/standards/j1526_198706-joint-tmc-sae-fuel-consumption-service-test-procedure-type-iii
+docidentifier:
+- content: SAE J1526_198706
+  type: SAE
+  primary: true
+- content: 10.4271/j1526_198706
+  type: DOI
+date:
+- type: approved
+  at: '1987-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Aerodynamics and Fuel Economy Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The test utilizes two medium to heavy duty in-service vehicles operated over interstate type highways. The relative fuel economy of the component, system, or vehicle under test is expressed as a percentage improvement or as a percentage of fuel saved. This factor is calculated using relative fuel consumption while operating with and without the test component, system, or vehicle under evaluation. Accuracy obtained from the use of this test procedure can be ±% when properly executed. This procedure is not intended to replace SAE J1264 OCT86, Joint RCCC/SAE Fuel Consumption Test Procedure or SAE J1321 OCT86, Joint TMC/SAE Fuel Consumption Test Procedure Type II, but will enhance a fleet's or manufacturer's ability to do a wide variety of fuel consumption tests on highway.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The following basic rules must be applied to this procedure to ensure valid test results:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A single test is inconclusive. A single test result may be an indicator. Test results must be repeatable to have validity.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The more variables controlled, the more conclusive the results.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;All test procedures are accurate within prescribed limits. If the component, system or vehicle being tested by a given procedure shows a degree of improvement which is equal to or less than the accuracy limit of the procedure, an additional number of tests should be conducted to prove validity.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

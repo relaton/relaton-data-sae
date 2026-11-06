@@ -1,0 +1,70 @@
+---
+id: SAEARP5904A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Airborne Icing Tankers
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5904a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5904a-airborne-icing-tankers
+docidentifier:
+- content: SAE ARP5904A
+  type: SAE
+  primary: true
+- content: 10.4271/arp5904a
+  type: DOI
+date:
+- type: approved
+  at: '2026-05-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9C Aircraft Icing Technology Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) document establishes criteria and recommended practices for the use of airborne icing tankers to aid in design and certification of aircraft ice protection systems and components. Several icing tankers are described, along with their capabilities and suggested use. Sample data for these tanker spray systems are included, shown with 14 CFR Parts 25 and 29, Appendix C icing envelopes for continuous maximum and intermittent maximum icing conditions. (Note: In the remainder of this document, the phrase “Appendix C icing envelopes” will be used for brevity.) This ARP is intended as a guide toward standard practice and is subject to change to keep pace with experience and technical advances.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

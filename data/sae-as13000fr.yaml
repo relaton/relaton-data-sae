@@ -1,0 +1,53 @@
+---
+id: SAEAS13000FR
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Exigences en résolution de problèmes pour les fournisseurs
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as13000fr
+- type: src
+  content: https://saemobilus.sae.org/standards/as13000fr-exigences-en-resolution-de-problemes-pour-les-fournisseurs
+docidentifier:
+- content: SAE AS13000FR
+  type: SAE
+  primary: true
+- content: 10.4271/as13000fr
+  type: DOI
+date:
+- type: approved
+  at: '2014-05-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-22 Aerospace Engine Supplier Quality (AESQ) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>Le fournisseur devra utiliser le processus qui suit pour répondre à
+    une demande du client d’action corrective et préventive.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

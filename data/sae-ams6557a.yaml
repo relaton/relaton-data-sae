@@ -1,0 +1,57 @@
+---
+id: SAEAMS6557A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Bars, Wire, and Forgings 9V - 5.25Cr - 1.3Mo (1.80 - 1.95C) Powder
+    Metallurgy Product Hot Isostatically Pressed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6557a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6557a-steel-bars-wire-forgings-9v-525cr-13mo-180-195c-powder-metallurgy-product-hot-isostatically-pressed
+docidentifier:
+- content: SAE AMS6557A
+  type: SAE
+  primary: true
+- content: 10.4271/ams6557a
+  type: DOI
+date:
+- type: approved
+  at: '2023-05-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a premium aircraft-quality, high-alloy tool steel gas-atomized and HIP consolidated in the form of bars, wire, forgings, and forging stock.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

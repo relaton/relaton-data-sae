@@ -1,0 +1,58 @@
+---
+id: SAEAIR1602
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STARTER SYSTEM OPTIMIZATION START ANALYSIS, TURBINE ENGINE - ELECTRIC,
+    BATTERY POWER
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1602
+- type: src
+  content: https://saemobilus.sae.org/standards/air1602-starter-system-optimization-start-analysis-turbine-engine-electric-battery-power
+docidentifier:
+- content: SAE AIR1602
+  type: SAE
+  primary: true
+- content: 10.4271/air1602
+  type: DOI
+date:
+- type: approved
+  at: '1991-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-6 Starting Systems and Auxiliary Power Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report includes procedures for the analysis of a gas turbine engine start. It utilizes a standard form for the essential starting characteristics of the gas turbine engine and for the starting power capability of the aircraft battery. This report illustrates the format of the characteristic which is provided by the electric starter to transform the battery electric power (voltage and current) to the mechanical power (torque and speed) required to successfully start the engine.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;An aircraft engine start battery typically also serves as a backup source for emergency electrical energy. Guidelines are therefore provided for the determination of battery capacity to fulfill the emergency energy requirements of the aircraft.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

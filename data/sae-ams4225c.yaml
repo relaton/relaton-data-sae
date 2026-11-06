@@ -1,0 +1,57 @@
+---
+id: SAEAMS4225C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY, HEAT RESISTANT, CASTINGS 5.OCu - 1.5Ni - 0.25Mn - 0.25Sb
+    - 0.25Co - 0.20Ti - 0.20Zr (203.0-T7) Solution Heat Treated and Stabilized
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4225c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4225c-aluminum-alloy-heat-resistant-castings-5ocu-15ni-025mn-025sb-025co-020ti-020zr-2030-t7-solution-heat-treated-stabilized
+docidentifier:
+- content: SAE AMS4225C
+  type: SAE
+  primary: true
+- content: 10.4271/ams4225c
+  type: DOI
+date:
+- type: approved
+  at: '1996-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of castings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

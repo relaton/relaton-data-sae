@@ -1,0 +1,57 @@
+---
+id: SAEAS942
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PRESSURE ALTMETER SYSTEM MINIMUM SAFE PERFORMANCE STANDARD
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as942
+- type: src
+  content: https://saemobilus.sae.org/standards/as942-pressure-altmeter-system-minimum-safe-performance-standard
+docidentifier:
+- content: SAE AS942
+  type: SAE
+  primary: true
+- content: 10.4271/as942
+  type: DOI
+date:
+- type: approved
+  at: '1971-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4 Aircraft Instruments Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The instrument system specified shall accept an input of static pressure and in some equipment other inputs that contribute altitude information to provide a visual indication of pressure altitude. If equipped with an automatic correction mechanism, it shall indicate by a positive means when the automatic correction mechanism is not in use. If the static source pressure error compensating mechanism is operational it shall be functional throughout the required operating envelope of the particular aircraft. Each aircraft type has its own static source error data which shall be obtained from the airframe manufacturer's certified data. When a Central Air Data Computer is used in the altimeter system, the CADC shall be certified to its own governing document and the altimeter system (CADC and display) shall comply with the requirements of this document.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,68 @@
+---
+id: SAEAS6332
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Ground Deicing/Anti-icing Quality Management
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6332
+- type: src
+  content: https://saemobilus.sae.org/standards/as6332-aircraft-ground-deicing-anti-icing-quality-management
+docidentifier:
+- content: SAE AS6332
+  type: SAE
+  primary: true
+- content: 10.4271/as6332
+  type: DOI
+date:
+- type: approved
+  at: '2017-08-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12T Training and Quality Programs Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document establishes the general requirements for the quality management of aircraft ground deicing/anti-icing systems and processes. It covers the areas of:
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Quality system, documentation and control of records;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Management responsibility;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Resource management;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Product realization; and&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Measurement, analysis and improvement.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document defines these areas and their key aspects so they can be practically managed, and that deicing operations can become safer with time. In alignment with AS6285 and AS6286, the primary focus of this standard is on the deicing/anti-icing of aircraft using deicing and anti-icing fluids.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,109 @@
+---
+id: SAEAS6057
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: JAUS Manipulator Service Set
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6057
+- type: src
+  content: https://saemobilus.sae.org/standards/as6057-jaus-manipulator-service-set
+docidentifier:
+- content: SAE AS6057
+  type: SAE
+  primary: true
+- content: 10.4271/as6057
+  type: DOI
+date:
+- type: approved
+  at: '2011-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-4JAUS Joint Architecture for Unmanned Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document defines a set of standard application layer interfaces called JAUS Manipulator Services. JAUS Services provide the means for software entities in an unmanned system or system of unmanned systems to communicate and coordinate their activities. The Manipulator Services represent the platform-independent capabilities commonly found across all domains and types of unmanned systems. At present, nineteen (19) services are defined in this document. These services are categorized as:&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Low Level Manipulator Control Services – The one service in this category allows for low-level command of the manipulator joint actuation efforts. This is an open-loop command that could be used in a simple tele-operation scenario. The service in this category is listed as follows:
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Primitive Manipulator Service&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Manipulator Sensor Services – These services, when queried, return instantaneous sensor data. Three services are defined that return respectively joint positions, joint velocities, and joint torques or forces. Two additional services return the end effector pose and velocity with respect to the manipulator base coordinate frame. The services in this category are listed as follows:
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Manipulator Joint Position Sensor Service&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Manipulator Joint Velocity Sensor Service&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Manipulator Joint Force/Torque Sensor Service&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Manipulator End Effector Pose Sensor Service&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Manipulator End Effector Velocity State Sensor Service&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Mid Level Position and Velocity Driver Services – These services take as inputs the desired joint positions, the desired joint velocities, the desired end effector pose, or the desired end effector velocity state. Closed-loop control is implied. The services in this category are listed as follows:
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Manipulator Joint Position Driver Service&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Manipulator Joint Position List Driver Service&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Manipulator End Effector Pose Driver Service&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Manipulator End Effector Pose List Driver Service&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Manipulator Joint Velocity Driver Service&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Manipulator End Effector Velocity State Driver Service&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Manipulator Actuator Force/Torque Driver Service&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Pan Tilt Driver Services –These services provide an interface to a specific pan tilt mechanism. The pan tilt mechanism is a two degree of freedom serial manipulator. It is comprised of two revolute joints whose axes intersect and are perpendicular. The services in this category are listed as follows:
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Primitive Pan Tilt Service&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Pan Tilt Joint Position Sensor Service&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Pan Tilt Joint Position Driver Service&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Pan Tilt Joint Velocity Sensor Service&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Pan Tilt Joint Velocity Driver Service&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;End Effector Driver Services – This service provides an interface to a specific end effector. The end effector is a one-degree of freedom serial manipulator, usually mounted on the end of a &lt;i&gt;n&lt;/i&gt;-degree of freedom serial manipulator. Examples include grippers, screw drivers, or other tools. The services in this category are listed as follows:
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Primitive End Effector Service&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Each service is described by a JAUS Service Definition (JSD) which specifies the message set and protocol required for compliance. Each JSD is fully compliant with the JAUS Service Interface Definition Language [&lt;u&gt;JSIDL&lt;/u&gt;].&lt;/div&gt;
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

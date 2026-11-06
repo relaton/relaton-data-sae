@@ -1,0 +1,54 @@
+---
+id: SAEJ1698_200312
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Vehicle Event Data Interface—Vehicular Output Data Definition
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1698_200312
+- type: src
+  content: https://saemobilus.sae.org/standards/j1698_200312-vehicle-event-data-interface-vehicular-output-data-definition
+docidentifier:
+- content: SAE J1698_200312
+  type: SAE
+  primary: true
+- content: 10.4271/j1698_200312
+  type: DOI
+date:
+- type: approved
+  at: '2003-12-15'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Recommended Practice aims to establish a common format for displaying and presenting crash-related data recorded and stored within certain electronic components currently installed in many light-duty vehicles. This Recommended Practice pertains only to the post-download format of such data and is not intended to standardize the format of the data stored within any on-board storage unit, or to standardize the method of data recording, storing, or extraction.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Historically, crash data recording technology in light-duty vehicles has developed and evolved based on differing technical needs of manufacturers and their customers without industry standards or government regulation. As a result, wide variations currently exist among vehicle manufacturers regarding the scope and extent of recorded data. For this reason, this Recommended Practice is not intended to standardize or mandate the recording of any specific data element or to specify a minimum data set. Rather, it is intended to be a compilation of data elements and parameters that various manufacturers are currently recording, as well as those elements reasonably predicted to be recorded in the foreseeable future, and to establish a common format for display and presentation of that data so recorded.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This version of the Recommended Practice is limited in application to vehicular data recorded in single frontal impact events. Provisions for multiple-impact events may be included in the next version. Side-impact and rollover events may be addressed at a later time.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

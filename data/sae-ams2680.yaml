@@ -1,0 +1,56 @@
+---
+id: SAEAMS2680
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ELECTRON-BEAM WELDING For Fatigue Critical Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2680
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2680-electron-beam-welding-fatigue-critical-applications
+docidentifier:
+- content: SAE AMS2680
+  type: SAE
+  primary: true
+- content: 10.4271/ams2680
+  type: DOI
+date:
+- type: approved
+  at: '1981-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification defines the procedures and requirements for joining metals and alloys using the electron-beam welding process.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

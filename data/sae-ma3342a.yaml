@@ -1,0 +1,49 @@
+---
+id: SAEMA3342A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BOLT, MACHINE-SPLINE EXTENDED WASHER, FULL SHANK, DRILLED, LONG THREAD,
+    AMS5731 SIMILAR TO UNS S66286, METRIC
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma3342a
+- type: src
+  content: https://saemobilus.sae.org/standards/ma3342a-bolt-machine-spline-extended-washer-full-shank-drilled-long-thread-ams5731-similar-uns-s66286-metric
+docidentifier:
+- content: SAE MA3342A
+  type: SAE
+  primary: true
+- content: 10.4271/ma3342a
+  type: DOI
+date:
+- type: approved
+  at: '2021-07-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

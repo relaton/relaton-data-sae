@@ -1,0 +1,56 @@
+---
+id: SAEAMS5725B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS, CORROSION AND HEAT RESISTANT 16Cr - 25.5Ni - 6.2Mo - 0.15N
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5725b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5725b-steel-bars-corrosion-heat-resistant-16cr-255ni-62mo-015n
+docidentifier:
+- content: SAE AMS5725B
+  type: SAE
+  primary: true
+- content: 10.4271/ams5725b
+  type: DOI
+date:
+- type: approved
+  at: '1976-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat resistant steel in the form of bars and wire 1.500 in. (38.10 mm) and under in nominal diameter or distance between parallel sides.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

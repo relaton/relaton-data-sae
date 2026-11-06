@@ -1,0 +1,55 @@
+---
+id: SAEJ562_200506
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nonmetallic Loom
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j562_200506
+- type: src
+  content: https://saemobilus.sae.org/standards/j562_200506-nonmetallic-loom
+docidentifier:
+- content: SAE J562_200506
+  type: SAE
+  primary: true
+- content: 10.4271/j562_200506
+  type: DOI
+date:
+- type: approved
+  at: '2005-06-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electrical Distribution Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>Nonmetallic flexible loom is recommended for use as an insulated covering giving mechanical protection over insulated wire, metal tubing, or other parts requiring a water-, oil-, and acid-proof covering  resistant to fire or abrasion. It is also recommended for use as a covering for copper or other metal tubing to prevent crystallization and to eliminate rattles.
+
+    The rationale for cancellation is that it's been rendered obsolete by J2192 and is no longer necessary-6/1/2005</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,60 @@
+---
+id: SAEJ3216_202107
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Taxonomy and Definitions for Terms Related to Cooperative Driving Automation
+    for On-Road Motor Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3216_202107
+- type: src
+  content: https://saemobilus.sae.org/standards/j3216_202107-taxonomy-definitions-terms-related-cooperative-driving-automation-road-motor-vehicles
+docidentifier:
+- content: SAE J3216_202107
+  type: SAE
+  primary: true
+- content: 10.4271/j3216_202107
+  type: DOI
+date:
+- type: approved
+  at: '2021-07-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Cooperative Driving Automation(CDA) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes machine-to-machine (M2M) communication to enable cooperation between two or more participating entities or communication devices possessed or controlled by those entities. The cooperation supports or enables performance of the dynamic driving task (DDT) for a subject vehicle with driving automation feature(s) engaged. Other participants may include other vehicles with driving automation feature(s) engaged, shared road users (e.g., drivers of manually operated vehicles or pedestrians or cyclists carrying personal devices), or road operators (e.g., those who maintain or operate traffic signals or workzones).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Cooperative driving automation (CDA) aims to improve the safety and flow of traffic and/or facilitate road operations by supporting the movement of multiple vehicles in proximity to one another. This is accomplished, for example, by sharing information that can be used to influence (directly or indirectly) DDT performance by one or more nearby road users. Vehicles and infrastructure elements engaged in cooperative automation may share information, such as state (e.g., vehicle position, signal phase), intent (e.g., planned vehicle trajectory, signal timing), or seek agreement on a plan (e.g., coordinated merge). Cooperation among multiple participants and perspectives in traffic can improve safety, mobility, situational awareness, and operations. However, nothing in this document is intended to suggest that driving automation requires such cooperation in order to be performed safely.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Cooperative strategies may be enabled by the sharing of information in a way that meets the needs of a given application. The needs may be expressed in terms of performance characteristics, such as latency, transmission mode (e.g., one-way, two-way), range, privacy and security, and information content and quality. There are several potential technologies for communicating information between the subject vehicle and other participants.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document focuses on application-oriented functionality and does not imply the need for or require any specific functionality associated with communications protocols or the open systems interconnection model layers in a protocol stack. This document addresses the operational and tactical timescales of dynamic driving on ADS-operated vehicles, and excludes strategic functions such as trip scheduling and selection of destinations and waypoints. This information report is intended to facilitate communication and awareness for the design and anticipated development and validation of cooperative driving automation.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

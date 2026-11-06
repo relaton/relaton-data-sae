@@ -1,0 +1,59 @@
+---
+id: SAEJ1773_200905
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SAE Electric Vehicle Inductively Coupled Charging
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1773_200905
+- type: src
+  content: https://saemobilus.sae.org/standards/j1773_200905-sae-electric-vehicle-inductively-coupled-charging
+docidentifier:
+- content: SAE J1773_200905
+  type: SAE
+  primary: true
+- content: 10.4271/j1773_200905
+  type: DOI
+date:
+- type: approved
+  at: '2009-05-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes the minimum interface compatibility requirements for electric vehicle (EV) inductively coupled charging for North America.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This part of the specification is applicable to manually connected inductive charging for Levels 1 and 2 power transfer. Requirements for Level 3 compatibility are contained in &lt;span class="xref"&gt;Appendix B&lt;/span&gt;. Recommended software interface messaging requirements are contained in &lt;span class="xref"&gt;Appendix A&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This type of inductively coupled charging is generally intended for transferring power at frequencies significantly higher than power line frequencies. This part of the specification is not applicable to inductive coupling schemes that employ automatic connection methods or that are intended for transferring power at power line frequencies.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

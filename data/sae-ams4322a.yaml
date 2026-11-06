@@ -1,0 +1,55 @@
+---
+id: SAEAMS4322A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Die Forgings 4.0Mg 1.3Li 1.2C 0.45 O₂ Mechanically Alloyed,
+    As-Fabricated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4322a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4322a-aluminum-alloy-die-forgings-40mg-13li-12c-045-o-mechanically-alloyed-fabricated
+docidentifier:
+- content: SAE AMS4322A
+  type: SAE
+  primary: true
+- content: 10.4271/ams4322a
+  type: DOI
+date:
+- type: approved
+  at: '2005-07-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This specification covers an aluminum alloy in the form of die forgings and forging stock.&lt;/p&gt;
+    &lt;p&gt;These forgings have been used typically for applications requiring moderate triaxial strength, low density, high modulus, and good resistance to a combination of stress-corrosion cracking, but usage is not limited to such applications.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

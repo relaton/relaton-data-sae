@@ -1,0 +1,48 @@
+---
+id: SAEAS24510A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CIRCUIT BREAKER - AIRCRAFT, TRIP-FREE, PUSH-PULL, 5 THRU 15 AMP, TYPE I
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as24510a
+- type: src
+  content: https://saemobilus.sae.org/standards/as24510a-circuit-breaker-aircraft-trip-free-push-pull-5-thru-15-amp-type
+docidentifier:
+- content: SAE AS24510A
+  type: SAE
+  primary: true
+- content: 10.4271/as24510a
+  type: DOI
+date:
+- type: approved
+  at: '2007-04-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7P Protective and Control Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

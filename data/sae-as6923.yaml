@@ -1,0 +1,57 @@
+---
+id: SAEAS6923
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Portable Measuring Devices/Systems for Maintenance Troubleshooting of Aircraft
+    Cabin and Flight Deck Air Quality Issues
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6923
+- type: src
+  content: https://saemobilus.sae.org/standards/as6923-portable-measuring-devices-systems-maintenance-troubleshooting-aircraft-cabin-flight-deck-air-quality-issues
+docidentifier:
+- content: SAE AS6923
+  type: SAE
+  primary: true
+- content: 10.4271/as6923
+  type: DOI
+date:
+- type: approved
+  at: '2021-12-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9M Cabin Air Measurement Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this standard is to aid manufacturers in creating devices that will provide maintenance staff with objective, reliable data consistent with certain types of airborne contaminants (“sources”), captured either during an event or during maintenance troubleshooting on the ground, in both cases for post-flight interpretation on the ground.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

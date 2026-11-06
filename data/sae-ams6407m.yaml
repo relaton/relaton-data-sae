@@ -1,0 +1,69 @@
+---
+id: SAEAMS6407M
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Bars, Forgings, Mechanical Tubing, and Forging Stock, 1.2Cr - 2.0Ni
+    - 0.45Mo (0.27 - 0.33C), Aircraft Quality
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6407m
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6407m-steel-bars-forgings-mechanical-tubing-forging-stock-12cr-20ni-045mo-027-033c-aircraft-quality
+docidentifier:
+- content: SAE AMS6407M
+  type: SAE
+  primary: true
+- content: 10.4271/ams6407m
+  type: DOI
+date:
+- type: approved
+  at: '2026-09-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aircraft-quality, low-alloy steel in the form of bars, forgings, mechanical tubing, and forging stock.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

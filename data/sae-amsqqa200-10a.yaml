@@ -1,0 +1,53 @@
+---
+id: SAEAMSQQA20010A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy 6066, Bar, Rod, Shapes, Tube, and Wire, Extruded
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/amsqqa200/10a
+- type: src
+  content: https://saemobilus.sae.org/standards/amsqqa20010a-aluminum-alloy-6066-bar-rod-shapes-tube-wire-extruded
+docidentifier:
+- content: SAE AMS-QQ-A-200/10A
+  type: SAE
+  primary: true
+- content: 10.4271/amsqqa200/10a
+  type: DOI
+date:
+- type: approved
+  at: '2007-06-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers the specific requirements for aluminum alloy
+    6066 bar, rod, shapes, tube, and wire produced by extrusion.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

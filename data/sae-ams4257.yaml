@@ -1,0 +1,59 @@
+---
+id: SAEAMS4257
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Extrusion 3.7Cu - 1.15Li - 0.5Zn - 0.45Ag - 0.4Mg - 0.3Mn
+    - 0.1Zr (2055-T84) Solution Heat Treated, Stress Relieved by Stretching 2% to
+    5% and Aged
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4257
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4257-aluminum-alloy-extrusion-37cu-115li-05zn-045ag-04mg-03mn-01zr-2055-t84-solution-heat-treated-stress-relieved-stretching-2-5-aged
+docidentifier:
+- content: SAE AMS4257
+  type: SAE
+  primary: true
+- content: 10.4271/ams4257
+  type: DOI
+date:
+- type: approved
+  at: '2019-11-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of extruded bars, rods, and profiles.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

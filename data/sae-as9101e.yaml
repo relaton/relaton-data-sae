@@ -1,0 +1,60 @@
+---
+id: SAEAS9101E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Quality Management Systems Audit Requirements for Aviation, Space, and
+    Defense Organizations
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9101e
+- type: src
+  content: https://saemobilus.sae.org/standards/as9101e-quality-management-systems-audit-requirements-aviation-space-defense-organizations
+docidentifier:
+- content: SAE AS9101E
+  type: SAE
+  primary: true
+- content: 10.4271/as9101e
+  type: DOI
+date:
+- type: approved
+  at: '2014-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard defines requirements for the preparation and execution of the audit process. In addition, it defines the content and composition for the audit reporting of conformity and process effectiveness to the 9100-series standards, the organization's QMS documentation, and customer and statutory/regulatory requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The requirements in this standard are additions or represent changes to the requirements and guidelines in the standards for conformity assessment, auditing, and certification as published by ISO/IEC (i.e., ISO/IEC 17000, ISO/IEC 17021). When there is conflict with these standards, the requirements of the 9101 standard shall take precedence.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE 1: In this standard, the term “9100-series standards” comprises the following Aerospace Quality Management System (AQMS) standards: 9100, 9110, and 9120; developed by the IAQG and published by various national standards bodies.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE 2: In addition to this standard, the IAQG publishes deployment support material on the IAQG website (see &lt;a href="http://www.sae.org/iaqg/" target="_blank"&gt;http://www.sae.org/iaqg/&lt;/a&gt;) that can be used by audit teams, when executing the audit process.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

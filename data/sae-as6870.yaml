@@ -1,0 +1,56 @@
+---
+id: SAEAS6870
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nondestructive Inspection Program Requirements for Aerospace Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6870
+- type: src
+  content: https://saemobilus.sae.org/standards/as6870-nondestructive-inspection-program-requirements-aerospace-systems
+docidentifier:
+- content: SAE AS6870
+  type: SAE
+  primary: true
+- content: 10.4271/as6870
+  type: DOI
+date:
+- type: approved
+  at: '2020-12-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS K Non Destructive Methods and Processes Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard defines the requirements for establishing a Nondestructive Inspection (NDI) program for aerospace systems to include but not not be limited to aircraft structure, aircraft stores (external structures such as antennas, pods, fuel tanks, weapons, radomes, etc.) and missile/rocket structural components when an NDI Program Plan is required by contract. NDI Programs are essential to ensuring NDI processes are implemented to support the lifecycle design requirements of the system and its components. NDI Programs are applicable to all phases of the system life cycle, including acquisition, modification, and sustainment. This standard may also be applicable to mechanical equipment, subsystems, and propulsion systems, but the requirements defined by the NDI Program Plan should be tailored by the contracting agency for such use. An NDI Program Plan shall be developed at the beginning of the technology development phase and shall define all NDI requirements to be adhered to throughout the system life cycle.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

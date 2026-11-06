@@ -1,0 +1,56 @@
+---
+id: SAEAS443
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: COMPASS, MAGNETIC, NON-STABILIZED TYPE (FOR TURBINE-POWERED, SUBSONIC AIRCRAFT)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as443
+- type: src
+  content: https://saemobilus.sae.org/standards/as443-compass-magnetic-non-stabilized-type-turbine-powered-subsonic-aircraft
+docidentifier:
+- content: SAE AS443
+  type: SAE
+  primary: true
+- content: 10.4271/as443
+  type: DOI
+date:
+- type: approved
+  at: '1964-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4 Aircraft Instruments Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Standard covers a direct reading magnetic compass.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

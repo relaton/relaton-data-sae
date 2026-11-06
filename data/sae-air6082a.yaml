@@ -1,0 +1,67 @@
+---
+id: SAEAIR6082A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Calculations to Determine Dimensions for Backup Rings to AS5781, AS5782,
+    AS5860, AS5861
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6082a
+- type: src
+  content: https://saemobilus.sae.org/standards/air6082a-calculations-determine-dimensions-backup-rings-as5781-as5782-as5860-as5861
+docidentifier:
+- content: SAE AIR6082A
+  type: SAE
+  primary: true
+- content: 10.4271/air6082a
+  type: DOI
+date:
+- type: approved
+  at: '2016-06-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C2 Seals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AIR documents the methodologies used to calculate the dimensions and tolerances used in the following backup rings standards:
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;AS5781&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;AS5782&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;AS5860&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;AS5861&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In addition, an appendix is provided which provides details of gland and backup ring design practices.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

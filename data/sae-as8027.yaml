@@ -1,0 +1,56 @@
+---
+id: SAEAS8027
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Crew Member Oxygen Regulators, Demand
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8027
+- type: src
+  content: https://saemobilus.sae.org/standards/as8027-crew-member-oxygen-regulators-demand
+docidentifier:
+- content: SAE AS8027
+  type: SAE
+  primary: true
+- content: 10.4271/as8027
+  type: DOI
+date:
+- type: approved
+  at: '2023-08-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) is intended to apply to those oxygen regulators which supply gaseous oxygen at breathing pressures to meet physiological requirements of aircraft flight crew members. It defines the minimum performance requirements and testing for aircraft demand type breathing oxygen regulators.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

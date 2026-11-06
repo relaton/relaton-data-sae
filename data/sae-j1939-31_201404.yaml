@@ -1,0 +1,56 @@
+---
+id: SAEJ193931_201404
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Network Layer
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939/31_201404
+- type: src
+  content: https://saemobilus.sae.org/standards/j193931_201404-network-layer
+docidentifier:
+- content: SAE J1939/31_201404
+  type: SAE
+  primary: true
+- content: 10.4271/j1939/31_201404
+  type: DOI
+date:
+- type: approved
+  at: '2014-04-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE J1939-31 Network Layer describes the requirements and services for Network Interconnection ECUs (NIECU) that enable electronic control units (ECUs) on a network segment to intercommunicate with other ECUs on different network segments of the vehicle network. This document defines various types of NIECUs. The information in this document applies only to ECUs that are intended to provide networking services. It is not necessary for an ECU to provide any of these services in order to be compliant with the SAE J1939 protocol.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

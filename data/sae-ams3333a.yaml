@@ -1,0 +1,57 @@
+---
+id: SAEAMS3333A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Sealing Compound, Polysulfide For Aircraft Windshields and Canopies, For
+    Use up to 250 °F (121 °C)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3333a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3333a-sealing-compound-polysulfide-aircraft-windshields-canopies-use-250-f-121-c
+docidentifier:
+- content: SAE AMS3333A
+  type: SAE
+  primary: true
+- content: 10.4271/ams3333a
+  type: DOI
+date:
+- type: approved
+  at: '2008-03-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G9 Aerospace Sealing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers types and classes of polysulfide sealing compound supplied as a two-component system suitable for application by brush, or by extrusion gun, spatula brush, or roller.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

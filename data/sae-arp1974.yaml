@@ -1,0 +1,58 @@
+---
+id: SAEARP1974
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Clamps, Support, Comparative Fatigue Strengths, Test Method
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1974
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1974-clamps-support-comparative-fatigue-strengths-test-method
+docidentifier:
+- content: SAE ARP1974
+  type: SAE
+  primary: true
+- content: 10.4271/arp1974
+  type: DOI
+date:
+- type: approved
+  at: '2007-08-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice establishes vibration and transmissibility test procedures which compare the relative strengths of various loop and saddle type support clamps.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This procedure is intended for conducting fatigue testing which is standard throughout the aerospace industry thereby establishing a clamp strength comparison which can be used in an evaluation process.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The testing required by this recommended practice ensures that clamps will meet adequate fatigue requirements only. It does not infer qualification of the clamp installation techniques or its ability to meet in-service environments or operating conditions. Separate qualification testing should be performed to ensure satisfactory service of the installed clamp.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

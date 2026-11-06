@@ -1,0 +1,56 @@
+---
+id: SAEAIR1108A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Groove Design - Metal Face Seal
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1108a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1108a-groove-design-metal-face-seal
+docidentifier:
+- content: SAE AIR1108A
+  type: SAE
+  primary: true
+- content: 10.4271/air1108a
+  type: DOI
+date:
+- type: approved
+  at: '2019-06-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Groove designs presented herein are applicable for use with machined or formed metal seals which are similar in configuration to those shown in &lt;span class="xref"&gt;figure 3&lt;/span&gt;, which operate under internal pressure or in vacuum service and which have been specifically qualified or recommended by the purchaser or the manufacturer for use with this AIR. They are also applicable for use with metal o-rings (e.g., MS9142, MS202 thru MS9205) where interchangeability with machined or formed metal seals is desired. For metal o-ring groove designs where inter-changeability is not a requirement refer to ARP 674.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAMS5558C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL TUBING, WELDED, CORROSION AND HEAT RESISTANT 18Cr - 10.5Ni - 0.70
+    (Cb + Ta) (SAE 30347) Thin Wall
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5558c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5558c-steel-tubing-welded-corrosion-heat-resistant-18cr-105ni-070-cb-ta-sae-30347-thin-wall
+docidentifier:
+- content: SAE AMS5558C
+  type: SAE
+  primary: true
+- content: 10.4271/ams5558c
+  type: DOI
+date:
+- type: approved
+  at: '1979-01-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat resistant steel in the form of welded tubing.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAIR4289
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Handbook For The SAE AS4075 High Speed Ring Bus Standard
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4289
+- type: src
+  content: https://saemobilus.sae.org/standards/air4289-handbook-sae-as4075-high-speed-ring-bus-standard
+docidentifier:
+- content: SAE AIR4289
+  type: SAE
+  primary: true
+- content: 10.4271/air4289
+  type: DOI
+date:
+- type: approved
+  at: '2002-01-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Handbook has been prepared by the Ring Implementation Task Group of the SAE AS-2 Committee, and is intended to support AS4075 by providing explanation of the standard itself and guidance on its use.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The principal objective in the preparation of a standard is to provide a statement of operational and performance requirements, and an unambiguous definition of the functions to be realized in any implementation, primarily from the view point of interoperability. While efforts have been made within the AS4075 standard to provide a readable general description of the HSRB, detailed explanations, rationale and guidance to the use are incompatible with the purpose and, indeed, the format of a standard. Accordingly, this Handbook contains a paragraph-by-paragraph explanation of the main sections of the standard, and a discussion of application and implementation issues.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

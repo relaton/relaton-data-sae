@@ -1,0 +1,62 @@
+---
+id: SAEAIR1673A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Cargo Door Opening/Sill Details for Ground Support Equipment Interface
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1673a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1673a-aircraft-cargo-door-opening-sill-details-ground-support-equipment-interface
+docidentifier:
+- content: SAE AIR1673A
+  type: SAE
+  primary: true
+- content: 10.4271/air1673a
+  type: DOI
+date:
+- type: approved
+  at: '2013-08-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Manufacturers/designers of all aircraft equipped with a pallet/container capability have provided a means of linking the ground loaders/elevators with the aircraft sill for the smoother transfer of pallets and containers into or out of the aircraft holds.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Use of the aircraft attachment points may be used as a means of averting damage to the aircraft door frames and other important parts. Latch-on guarantees fore and aft and vertical alignment of the loader bed with the aircraft doorway, when used in conjunction with the appropriate ground equipment.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) has been prepared by SAE Subcommittee AGE-2A to present a review of the current range of aircraft attachment points on wide body aircraft and those narrow body aircraft with a ULD cargo capability. Airline operators, who utilized these facilities, have been faced with a growing number of adaptor bars necessary to suit each type of aircraft and door position. There is also a stowage problem on the elevator compounded by the increasing number of bars necessary to suit each aircraft. Some measure of standardization is obviously desirable.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The adapter bars which have to be fitted to the forward face of the elevators to suit each different type of sill attachment are very heavy and present some handling problems to operators.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Where the same elevator services different aircraft types, these bars may have to be changed many times each day on the ramp.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Alternatively, elevators have to be restricted to servicing specific aircraft types or to those aircraft where a common attachment point already exists.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

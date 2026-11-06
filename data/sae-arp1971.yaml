@@ -1,0 +1,56 @@
+---
+id: SAEARP1971
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AIRCRAFT DEICING VEHICLE - SELF-PROPELLED, LARGE CAPACITY
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1971
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1971-aircraft-deicing-vehicle-self-propelled-large-capacity
+docidentifier:
+- content: SAE ARP1971
+  type: SAE
+  primary: true
+- content: 10.4271/arp1971
+  type: DOI
+date:
+- type: approved
+  at: '1992-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12E Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers requirements for a self-propelled, boom type aerial device, equipped with an aircraft deicing fluid spraying system. The unit shall be highly maneuverable for deicing all exterior surfaces of wide-body and intermediate size aircraft, e.g., B-747 and B-737. The vehicle will also be used for aircraft maintenance and inspection. The vehicle shall be suitable for day and night operations.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

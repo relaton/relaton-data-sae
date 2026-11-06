@@ -1,0 +1,69 @@
+---
+id: SAEAIR1678B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Uncertainty of In-Flight Thrust Determination
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1678b
+- type: src
+  content: https://saemobilus.sae.org/standards/air1678b-uncertainty-flight-thrust-determination
+docidentifier:
+- content: SAE AIR1678B
+  type: SAE
+  primary: true
+- content: 10.4271/air1678b
+  type: DOI
+date:
+- type: approved
+  at: '2023-03-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-33 In Flight Propulsion Measurement Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document defines and illustrates the process for determination of uncertainty of turbofan and turbojet engine in-flight thrust and other measured in-flight performance parameters. The reasons for requiring this information, as specified in the E-33 Charter, are:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;determination of high confidence aircraft drag;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;problem rectification if performance is low;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;interpolation of measured thrust and aircraft drag over a range of flight conditions by validation and development of high confidence analytical methods;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;establishment of a baseline for future engine modifications.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;This document describes systematic and random measurement uncertainties and methods for propagating the uncertainties to the more complicated parameter, in-flight thrust. Methods for combining the uncertainties to obtain given confidence levels are also addressed. Although the primary focus of the document is in-flight thrust, the statistical methods described are applicable to any measurement process.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The E-33 Committee has endeavoured to gather industry-wide expertise in in-flight measurement and uncertainty analysis to collect and promulgate recommended practices in the subject disciplines. The Committee is organized into subcommittees to address both the analytical and test methodology for determination of in-flight thrust and also the uncertainty of the determination. This document; Uncertainty of In-flight Thrust Determination, AIR1678, addresses the process for determining the uncertainty of in-flight thrust. A companion document, In-Flight Thrust Determination, AIR1703, addresses the basic methodology for determining in-flight thrust.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The Committee, after reviewing recommended changes and clarification in definitions and application of statistical uncertainty items, made small revisions to the original document published in 1985. These changes were incorporated into AIR1678 Rev A.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This Revision B has the same Scope as preceding versions. The nomenclature and methodology used herein are now consistent with evolving world and national standards promulgated primarily by ISO and ASME.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

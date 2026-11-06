@@ -1,0 +1,48 @@
+---
+id: SAEAMS4820A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BEARINGS 71 Copper 28 Lead 1 Silver Steel Backed Castings
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4820a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4820a-bearings-71-copper-28-lead-1-silver-steel-backed-castings
+docidentifier:
+- content: SAE AMS4820A
+  type: SAE
+  primary: true
+- content: 10.4271/ams4820a
+  type: DOI
+date:
+- type: approved
+  at: '1946-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

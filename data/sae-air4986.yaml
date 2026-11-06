@@ -1,0 +1,56 @@
+---
+id: SAEAIR4986
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Engine Electrostatic Gas Path Monitoring
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4986
+- type: src
+  content: https://saemobilus.sae.org/standards/air4986-engine-electrostatic-gas-path-monitoring
+docidentifier:
+- content: SAE AIR4986
+  type: SAE
+  primary: true
+- content: 10.4271/air4986
+  type: DOI
+date:
+- type: approved
+  at: '1999-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Turbine engine malfunctions account for a substantial portion of the maintenance actions required to keep both fixed and rotary wing aircraft operational. Undetected incipient component failures can result in secondary engine damage and expensive unscheduled maintenance actions. Recent developments of electrostatic methods now provide the potential for the detection of foreign object ingestion and early detection of distress in gas path components. This SAE Aerospace Information Report (AIR) seeks to outline the history of the electrostatic technique and provides examples of state-of-the-art systems for both inlet and exhaust gas debris monitoring systems along with examples of most recent testing.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

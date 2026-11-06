@@ -1,0 +1,49 @@
+---
+id: SAEMA3279D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: INSERT, SCREW THREAD, HELICAL COIL, METRIC SERIES, FREE RUNNING, CRES,
+    UNCOATED
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma3279d
+- type: src
+  content: https://saemobilus.sae.org/standards/ma3279d-insert-screw-thread-helical-coil-metric-series-free-running-cres-uncoated
+docidentifier:
+- content: SAE MA3279D
+  type: SAE
+  primary: true
+- content: 10.4271/ma3279d
+  type: DOI
+date:
+- type: approved
+  at: '2025-01-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

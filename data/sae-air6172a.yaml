@@ -1,0 +1,61 @@
+---
+id: SAEAIR6172A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Ice Undercutting Test Method for Runways and Taxiways Deicing/Anti-Icing
+    Chemicals
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6172a
+- type: src
+  content: https://saemobilus.sae.org/standards/air6172a-ice-undercutting-test-method-runways-taxiways-deicing-anti-icing-chemicals
+docidentifier:
+- content: SAE AIR6172A
+  type: SAE
+  primary: true
+- content: 10.4271/air6172a
+  type: DOI
+date:
+- type: approved
+  at: '2017-03-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12RDP Runway Deicing Product Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This test method provides stakeholders (runway deicing chemical manufacturers, users, regulators and airport authorities) with relative ice undercutting capacity of runway deicing chemicals, by measuring the area of ice undercut pattern as a function of time. Such runway deicing chemicals are often also used on taxiways and other paved areas.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This test method does not quantitatively measure the theoretical or extended time of ice undercutting capability of ready-to-use runway deicing/anti-icing chemicals in liquid or solid form.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

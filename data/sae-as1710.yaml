@@ -1,0 +1,56 @@
+---
+id: SAEAS1710
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: COUPLING, FUEL, FLEXIBLE, VARIABLE CAVITY THREADED TYPE WITH FERRULES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1710
+- type: src
+  content: https://saemobilus.sae.org/standards/as1710-coupling-fuel-flexible-variable-cavity-threaded-type-ferrules
+docidentifier:
+- content: SAE AS1710
+  type: SAE
+  primary: true
+- content: 10.4271/as1710
+  type: DOI
+date:
+- type: approved
+  at: '1982-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification defines the requirements for a threaded flexible coupling assembly, which utilizes ferrules or machined tube end fittings, to join tubing and components in aircraft fuel, vent or other systems. This coupling assembly is designed for use from -65 to 200 degrees F and at 125 psi operating pressure.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

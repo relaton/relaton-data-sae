@@ -1,0 +1,56 @@
+---
+id: SAEAS5394
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Health and Usage Monitoring System Advanced Multipoint Interface Specification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5394
+- type: src
+  content: https://saemobilus.sae.org/standards/as5394-health-usage-monitoring-system-advanced-multipoint-interface-specification
+docidentifier:
+- content: SAE AS5394
+  type: SAE
+  primary: true
+- content: 10.4271/as5394
+  type: DOI
+date:
+- type: approved
+  at: '2008-06-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: HM-1 Integrated Vehicle Health Management Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document specifies a multipoint, digital, serial interface that incorporates other interface standards such as EIA-485 and the nine bit interrupt mode of many microcontrollers. Standardized interfaces are critical to the development of an "open" HUMS architecture.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

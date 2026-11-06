@@ -1,0 +1,57 @@
+---
+id: SAEAS81822A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Wire, Electrical, Solderless Wrap, Insulated and Uninsulated, General Specification
+    For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as81822a
+- type: src
+  content: https://saemobilus.sae.org/standards/as81822a-wire-electrical-solderless-wrap-insulated-uninsulated-general-specification
+docidentifier:
+- content: SAE AS81822A
+  type: SAE
+  primary: true
+- content: 10.4271/as81822a
+  type: DOI
+date:
+- type: approved
+  at: '2011-07-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8D Wire and Cable Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers both insulated and uninsulated solid conductor wire, designed for solderless wrap connections in electrical and electronic devices and equipment. The terminations of the wire are intended to be made with hand or automatic tools which wrap the wire, under tension, around terminal pins (commonly called wrapposts) to form solderless wrapped connections.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

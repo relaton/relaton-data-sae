@@ -1,0 +1,60 @@
+---
+id: SAEARP6803
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: IVHM Concepts, Technology and Implementation Overview
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6803
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6803-ivhm-concepts-technology-implementation-overview
+docidentifier:
+- content: SAE ARP6803
+  type: SAE
+  primary: true
+- content: 10.4271/arp6803
+  type: DOI
+date:
+- type: approved
+  at: '2016-03-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: HM-1 Integrated Vehicle Health Management Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) examines a comprehensive construct of an Integrated Vehicle Health Management (IVHM) capability. This document provides a top-level view of the concepts, technology, and implementation practices associated with IVHM. This keystone document of the SAE HM-1 Committee is not intended as a legal document and does not provide detailed implementation steps, but does address general implementation concerns and potential benefits. &lt;span class="xref"&gt;Figure 1&lt;/span&gt; provides a document flow map of the documents currently in work or planned by the Committee. The documents shown below will provide the recommended practices for IVHM implementation. This document map reflects the current SAE IVHM document configuration as of the date of publication. Future documents that are released will be included in the flow map in future updates of this document.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;An indication of the scope of IVHM is diagrammed in &lt;span class="xref"&gt;Figure 2&lt;/span&gt;. When an organization decides to implement an IVHM capability as part of their product sustainment strategy, the decision must consider the business objectives and user perspectives driving the decision, the system architecture and design to support the impetus, the Technology Readiness Level (TRL) or maturity of the technologies involved, the unique aspects of the operational environment and infrastructure, and the tools required to support the IVHM life cycle. This document discusses significant aspects and considerations of the interrelated IVHM elements listed in this diagram.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAIR81D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Importance of Physical and Chemical Properties of Aircraft Hydraulic Fluids
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air81d
+- type: src
+  content: https://saemobilus.sae.org/standards/air81d-importance-physical-chemical-properties-aircraft-hydraulic-fluids
+docidentifier:
+- content: SAE AIR81D
+  type: SAE
+  primary: true
+- content: 10.4271/air81d
+  type: DOI
+date:
+- type: approved
+  at: '2016-04-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document discusses the relative merits of the physical and chemical properties of hydraulic fluids in relation to the aerospace hydraulic system design, and the related materials compatibility. The discussion in this report applies both to hydrocarbon and phosphate ester based aircraft hydraulic fluids. In some cases, numerical limits are suggested, but, in general, the significance and effect of a property is noted qualitatively.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

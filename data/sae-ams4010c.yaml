@@ -1,0 +1,52 @@
+---
+id: SAEAMS4010C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy Foil, 1.25Mn - 0.12Cu (3003-H18)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4010c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4010c-aluminum-alloy-foil-125mn-012cu-3003-h18
+docidentifier:
+- content: SAE AMS4010C
+  type: SAE
+  primary: true
+- content: 10.4271/ams4010c
+  type: DOI
+date:
+- type: approved
+  at: '2006-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers an aluminum alloy in the form of foil.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

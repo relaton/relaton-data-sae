@@ -1,0 +1,84 @@
+---
+id: SAEEIA836B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Configuration Management Data Exchange and Interoperability
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/eia836b
+- type: src
+  content: https://saemobilus.sae.org/standards/eia836b-configuration-management-data-exchange-interoperability
+docidentifier:
+- content: SAE EIA-836B
+  type: SAE
+  primary: true
+- content: 10.4271/eia836b
+  type: DOI
+date:
+- type: approved
+  at: '2015-09-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-33 Configuration Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The primary focus of this standard is information of interest to Configuration Management (CM) practitioners related to the performance of CM functions as products are conceived, proposed, defined, developed, produced, operated, maintained, modified, and disposed. This information is stored when generated and, from time to time, must be moved or shared with others.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard, through the use of the Data Dictionary, defines real world things of interest to the CM practitioner, which are the foundation of the following CM functional areas, and are needed for effective data exchange and interoperability:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Configuration Management Planning and Management&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Configuration Identification&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Configuration Change Management&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Configuration Audit&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Configuration Verification&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Configuration Status Accounting&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;The &lt;b&gt;&lt;i&gt;Data Dictionary&lt;/i&gt;&lt;/b&gt; [21] defines &lt;i&gt;terms&lt;/i&gt; that are used to define these &lt;i&gt;objects&lt;/i&gt; of interest, which are listed below. Some of &lt;i&gt;terms&lt;/i&gt; are considered to flow from applying CM principles or performing CM functions and are designated as part of the CM domain. Others, while important to CM, are designated as being a part of other domains.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;This standard is an industry consensus standard and, as such, is intended to serve as a guidance document. The information provided in this standard may be used in the preparation of solicitations, requests for proposals, contracts, and business partner agreements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Several possible avenues can lead to the application of this standard, or parts thereof. A procuring organization may reference this standard within a solicitation or request for proposal. Alternatively, the procuring organization may specify or recommend use of industry best practices and/or published guidelines that, in turn, recommend this standard.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Some of the benefits of this standard are as follows:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard provides definitions and relationships for all CM objects and a cross-reference to their sources. It is a primary source for CM data element definitions to be included in systems and standards development such as GEIA-927, and in vendor development of improved CM tools.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;A CM practitioner could take any of the CM objects and turn them into a contract requirement for data. Take, for example, &lt;b&gt;ChangeBoardMinutes&lt;/b&gt;. Its content could be referenced as a data requirement in a contract.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;The Data Dictionary defined in this standard can be used as a common (canonical) standard to which multiple trading partners can map for interoperability and data exchange.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;The Data Dictionary can be directly transformed into a data exchange schema language, such as World Wide Web Consortium XML Schema Language, and used to specify and validate data exchanges. This can result in a significant product life cycle cost reduction. (See &lt;b&gt;&lt;i&gt;Reference Schema&lt;/i&gt;&lt;/b&gt; [375] and &lt;b&gt;&lt;i&gt;How to Use EIA-836 to Exchange Data&lt;/i&gt;&lt;/b&gt; [425].)&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

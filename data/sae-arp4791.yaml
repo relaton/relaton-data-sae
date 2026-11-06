@@ -1,0 +1,57 @@
+---
+id: SAEARP4791
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HUMAN ENGINEERING RECOMMENDATIONS FOR DATA LINK SYSTEMS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4791
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4791-human-engineering-recommendations-data-link-systems
+docidentifier:
+- content: SAE ARP4791
+  type: SAE
+  primary: true
+- content: 10.4271/arp4791
+  type: DOI
+date:
+- type: approved
+  at: '1994-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10 Aerospace Behavioral Engineering Technology
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document sets forth functional, procedural, and design criteria and recommendations concerning human engineering of data link systems. For the most part, the recommendations are based on evidence from empirical and analytic studies of data link communication, and on experience from operational tests, and actual use of data link. Because the recommendations deal only with the available research, they are not comprehensive; data are not yet available to support recommendations on all potentially critical human engineering issues. Citations for the supporting research are embedded within the recommendations and a full list of references appears in &lt;span class="xref"&gt;Section 2&lt;/span&gt; of this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Consistent with the focus of the research and operational development, this document focuses on recommendations for Air Traffic Control (ATC) communications, although data link systems are being designed to support flight information services, airline operational and administrative services, and passenger communication services. Unless otherwise specified within the text, all recommendations apply to both flight deck and ground-based data link systems.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEJ1927_201406
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Cumulative Damage Analysis for Hydraulic Hose Assemblies
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1927_201406
+- type: src
+  content: https://saemobilus.sae.org/standards/j1927_201406-cumulative-damage-analysis-hydraulic-hose-assemblies
+docidentifier:
+- content: SAE J1927_201406
+  type: SAE
+  primary: true
+- content: 10.4271/j1927_201406
+  type: DOI
+date:
+- type: approved
+  at: '2014-06-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hydraulic Hose and Hose Fittings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report is intended to provide the hydraulic system analyst with a procedure which will assist in the selection and use of high-pressure wire reinforced hydraulic hose assemblies. Many construction, agricultural, industrial, or commercial equipment systems utilize hydraulic hose assemblies that are subjected to irregular cyclic pressure variations (cannot be approximated by a constant amplitude pressure cycle). This document relates damage done by pressure cycles with the pressure-life performance curve for the hose assembly being evaluated, using a linear damage rule to predict fatigue life similar to that used for predicting metal fatigue life. More detailed information on the subject may be found in SAE Paper No. 880713. The accuracy of cumulative damage calculations is directly related to proper measurement of the service pressure history and pressure-life performance for the hose assembly being evaluated. Final selection of a hose assembly must also consider installation and maintenance as noted in SAE J1273.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

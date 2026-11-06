@@ -1,0 +1,57 @@
+---
+id: SAEAS439A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Stall Warning Instrument (Turbine Powered Subsonic Aircraft)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as439a
+- type: src
+  content: https://saemobilus.sae.org/standards/as439a-stall-warning-instrument-turbine-powered-subsonic-aircraft
+docidentifier:
+- content: SAE AS439A
+  type: SAE
+  primary: true
+- content: 10.4271/as439a
+  type: DOI
+date:
+- type: approved
+  at: '2008-02-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4 Aircraft Instruments Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard covers stall warning instruments to provide positive warning to the pilot of an impending stall. Stall, as defined for the purpose of this standard, is the minimum steady flight speed at which the airplane is controllable.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

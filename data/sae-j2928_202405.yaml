@@ -1,0 +1,57 @@
+---
+id: SAEJ2928_202405
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Brake Rotor Thermal Cracking Procedure for Vehicles Below 4 540 kg GVWR
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2928_202405
+- type: src
+  content: https://saemobilus.sae.org/standards/j2928_202405-brake-rotor-thermal-cracking-procedure-vehicles-4-540-kg-gvwr
+docidentifier:
+- content: SAE J2928_202405
+  type: SAE
+  primary: true
+- content: 10.4271/j2928_202405
+  type: DOI
+date:
+- type: approved
+  at: '2024-05-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Brake Dynamometer Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice is derived from common test sequences used within the industry. This procedure applies to all on-road passenger cars and light trucks up to 4 540 kg of GVWR. This recommended practice does not address other aspects such as performance, NVH, and durability. Test results from this recommended practice should be combined with other measurements and dynamometer tests (or vehicle-level tests), and acceptance criteria to validate a given design or configuration.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

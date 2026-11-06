@@ -1,0 +1,54 @@
+---
+id: SAEJ1148_199006
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Engine Charge Air Cooler (CAC) Nomenclature
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1148_199006
+- type: src
+  content: https://saemobilus.sae.org/standards/j1148_199006-engine-charge-air-cooler-cac-nomenclature
+docidentifier:
+- content: SAE J1148_199006
+  type: SAE
+  primary: true
+- content: 10.4271/j1148_199006
+  type: DOI
+date:
+- type: approved
+  at: '1990-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Cooling Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This SAE Recommended Practice is intended to outline basic nomenclature and terminology in common use for engine charge air coolers, related charge air cooling system components, and charge air operating and performance parameters.&lt;/p&gt;
+    &lt;p&gt;An engine charge air cooler is a heat exchanger used to cool the charge air of an internal combustion engine after it has been compressed by an exhaust gas driven turbocharger, an engine driven turbocharger, or a mechanically or electrically driven blower. The use of a charge air cooler allows increased engine horsepower output, and may reduce emission levels and improve fuel economy through a more complete combustion due to the increased air density available. Typical cooling media includes the engine's coolant, ambient air, or an external water or coolant source.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

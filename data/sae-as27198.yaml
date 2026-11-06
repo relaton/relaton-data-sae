@@ -1,0 +1,48 @@
+---
+id: SAEAS27198
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SEAL, PLAIN, RUBBER, (-65 TO +350°F FUEL RESISTANT), MOLD IN GROOVE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as27198
+- type: src
+  content: https://saemobilus.sae.org/standards/as27198-seal-plain-rubber-65-350f-fuel-resistant-mold-groove
+docidentifier:
+- content: SAE AS27198
+  type: SAE
+  primary: true
+- content: 10.4271/as27198
+  type: DOI
+date:
+- type: approved
+  at: '2001-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C Power Generation and Distribution Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

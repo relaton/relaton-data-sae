@@ -1,0 +1,57 @@
+---
+id: SAEJ443_200301
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Procedures for Using Standard Shot Peening Test Strip
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j443_200301
+- type: src
+  content: https://saemobilus.sae.org/standards/j443_200301-procedures-using-standard-shot-peening-test-strip
+docidentifier:
+- content: SAE J443_200301
+  type: SAE
+  primary: true
+- content: 10.4271/j443_200301
+  type: DOI
+date:
+- type: approved
+  at: '2003-01-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Surface Enhancement Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice provides uniform procedures for using the standard shot peening test strips reported in SAE J442. Standard test strips are used to establish saturation, determine intensity, monitor repeatability of the shot peening machine operations, and can be used to predict a desired result on a part. It is recommended that the standard test strip A be used for intensities that produce arc heights of 0.10mm A (0.004 inch A) to 0.60 mm A (0.024 inch A). For intensities below 0.10 mm A (0.004 inch A), the standard N strip is recommended, and for intensities above 0.60 mm A (0.024 inch A), the standard C strip is recommended.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The process of shot peening, in common with many other processes, cannot at present be adequately controlled by nondestructive inspection of the peened parts, therefore, it is necessary to control the process itself to achieve consistent, reliable results.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

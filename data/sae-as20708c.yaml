@@ -1,0 +1,56 @@
+---
+id: SAEAS20708C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Synchros, General Specification for
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as20708c
+- type: src
+  content: https://saemobilus.sae.org/standards/as20708c-synchros-general-specification
+docidentifier:
+- content: SAE AS20708C
+  type: SAE
+  primary: true
+- content: 10.4271/as20708c
+  type: DOI
+date:
+- type: approved
+  at: '2019-06-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7A Generators and Controls Motors and Magnetic Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification relates to Synchros, 60 and 400 Hz. It is not complete in itself, but shall be used in conjunction with MIL-DTL-81963, in which the latter shall be recognized as forming an inherent part of this specification. This standard requires a Qualified Products List (see &lt;span class="xref"&gt;6.4&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

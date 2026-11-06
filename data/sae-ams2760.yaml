@@ -1,0 +1,57 @@
+---
+id: SAEAMS2760
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HEAT TREATMENT Carbon, Low-Alloy, and Specialty Steels
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2760
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2760-heat-treatment-carbon-low-alloy-specialty-steels
+docidentifier:
+- content: SAE AMS2760
+  type: SAE
+  primary: true
+- content: 10.4271/ams2760
+  type: DOI
+date:
+- type: approved
+  at: '1976-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the procedure for through-hardening and related heat treatments of carbon, low-alloy, and specialty steel parts to produce specified mechanical properties within the capability of each respective steel.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

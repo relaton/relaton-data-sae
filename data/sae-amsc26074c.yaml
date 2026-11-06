@@ -1,0 +1,54 @@
+---
+id: SAEAMSC26074C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electroless Nickel Coatings
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/amsc26074c
+- type: src
+  content: https://saemobilus.sae.org/standards/amsc26074c-electroless-nickel-coatings
+docidentifier:
+- content: SAE AMS-C-26074C
+  type: SAE
+  primary: true
+- content: 10.4271/amsc26074c
+  type: DOI
+date:
+- type: approved
+  at: '2011-07-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers the requirements for electroless (autocatalytic
+    chemical reduction) deposition of nickel-phosphorous alloy coatings on metal and
+    composite surfaces.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

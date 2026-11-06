@@ -1,0 +1,64 @@
+---
+id: SAEAIR6813
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Landing Gear Manufacturing, Maintenance, Repair, and Overhaul Critical
+    Processes
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6813
+- type: src
+  content: https://saemobilus.sae.org/standards/air6813-landing-gear-manufacturing-maintenance-repair-overhaul-critical-processes
+docidentifier:
+- content: SAE AIR6813
+  type: SAE
+  primary: true
+- content: 10.4271/air6813
+  type: DOI
+date:
+- type: approved
+  at: '2022-05-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;CPs are a process that is executed on a critical landing gear (or undercarriage) part, assembly or equipment that if performed incorrectly or omitted would cause:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;An operational failure of the aircraft; or&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;An unacceptable risk of injury&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;This document identifies CPs that have either caused operational failure or that can be reasonably expected to cause operational failures based on experience. Note that in the interest of brevity, that this document is not intended to be a definitive listing, only an introduction and a consideration of common processes.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

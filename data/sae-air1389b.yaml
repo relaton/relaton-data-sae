@@ -1,0 +1,56 @@
+---
+id: SAEAIR1389B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FAR – Regulatory Requirements Covering the Use of Breathing Oxygen in Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1389b
+- type: src
+  content: https://saemobilus.sae.org/standards/air1389b-far-regulatory-requirements-covering-use-breathing-oxygen-aircraft
+docidentifier:
+- content: SAE AIR1389B
+  type: SAE
+  primary: true
+- content: 10.4271/air1389b
+  type: DOI
+date:
+- type: approved
+  at: '2016-06-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report presents, paraphrased in tabular format, an overview of the Federal Aviation Regulations (FAR) for aircraft oxygen systems. It is intended as a ready reference for those considering the use of oxygen in aircraft and those wishing to familiarize themselves with the systems requirements for existing aircraft. This document is not intended to replace the oxygen related FAR but rather to index them in some order. For detailed information, the user is referred to the current issue of the relevant FAR paragraph referenced in this report.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

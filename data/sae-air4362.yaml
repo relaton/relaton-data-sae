@@ -1,0 +1,56 @@
+---
+id: SAEAIR4362
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: NBC Protection Considerations for ECS Design
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4362
+- type: src
+  content: https://saemobilus.sae.org/standards/air4362-nbc-protection-considerations-ecs-design
+docidentifier:
+- content: SAE AIR4362
+  type: SAE
+  primary: true
+- content: 10.4271/air4362
+  type: DOI
+date:
+- type: approved
+  at: '2008-08-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides Nuclear, Biological and Chemical (NBC) protection considerations for environmental control system (ECS) design. It is intended to familiarize the ECS designer with the subject in order to know what information will be required to do an ECS design where NBC protection is a requirement. This is not intended to be a thorough discussion of NBC protection. Such a document would be large and would be classified. Topics of NBC protection that are more pertinent to the ECS designer are discussed in more detail. Those of peripheral interest, but of which the ECS designer should be aware are briefly discussed. Only radiological aspects of nuclear blast are discussed. The term CBR (Chemical, Biological, and Radiological) has been used to contrast with NBC to indicate that only the radiological aspects of a nuclear blast are being discussed. This is actually a more accurate term to describe the subject of this paper, but NBC has become more widely used in the aircraft industry.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

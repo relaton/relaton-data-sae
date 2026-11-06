@@ -1,0 +1,59 @@
+---
+id: SAECMB5A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Configuration Management Requirements for Subcontractors/Vendors
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/cmb5a
+- type: src
+  content: https://saemobilus.sae.org/standards/cmb5a-configuration-management-requirements-subcontractors-vendors
+docidentifier:
+- content: SAE CMB5A
+  type: SAE
+  primary: true
+- content: 10.4271/cmb5a
+  type: DOI
+date:
+- type: approved
+  at: '2014-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-33 Configuration Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The role of CM, within any one company's organization, on the development and production of a product has been established by internal company needs or imposed by customer dictum. (As used hereinafter, in order to reduce any confusion, computer programs, components, software, hardware, firmware, etc., are included in the designation "PRODUCT".)&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The primary focus of this Bulletin is directed toward the Buyer and Supplier personnel who will be managing hardware products in the production phase and software products in the full-scale development phase. The trend in DoD is toward expanded use of standardized components and subassemblies, using competitive reprocurement. The DoD needs to know the full span of CM requirements which should be included in the production contract and the management tasks that will have to be accomplished. Buyers, bidding on the competitive production contracts, need to understand the full impact of the management tasks required by the work statement prior to submitting any proposal. In order to estimate the full impact, the Buyer must pass the CM disciplines onto the Supplier to the extent necessary to fulfill the contract requirements and obtain an estimate of the cost from the Supplier.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;While extensive reference is made to DoD Military Specifications and Standards such as; DoD-STD-100/-480/-2167 and MIL-STD-483/490/1521, this does not preclude the applications of standards imposed by other government agencies such as FAA, NASA, NSA, etc. Nor does it preclude a Buyer's own standards or requirements prepared specifically for subcontracting which are based on these established federal/military/agency standards.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The tasks identified in this Bulletin are those that can be easily translated by a Buyer into a contract work statement, and by the Supplier into recognized functional organizations and responsibilities.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

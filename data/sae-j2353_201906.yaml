@@ -1,0 +1,57 @@
+---
+id: SAEJ2353_201906
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Data Dictionary for Advanced Traveler Information Systems (ATIS)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2353_201906
+- type: src
+  content: https://saemobilus.sae.org/standards/j2353_201906-data-dictionary-advanced-traveler-information-systems-atis
+docidentifier:
+- content: SAE J2353_201906
+  type: SAE
+  primary: true
+- content: 10.4271/j2353_201906
+  type: DOI
+date:
+- type: approved
+  at: '2019-06-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Core Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice provides a set of core data elements needed by information service providers for Advanced Traveler Information Systems (ATIS). The data dictionary herein provides the foundation for ATIS message sets for all stages of travel (pre-trip and en route), all types of travelers (drivers, passengers), all categories of information, and all platforms for delivery of information (in-vehicle, portable devices, kiosks, etc.).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The elements of this document are the basis for the SAE ATIS Message Set Standard J2354 and are entered into the SAE Data Registry for ITS wide coordination.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

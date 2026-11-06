@@ -1,0 +1,57 @@
+---
+id: SAEARP5007
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Development Process - Aerospace Fly-By-Wire Actuation System
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5007
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5007-development-process-aerospace-fly-wire-actuation-system
+docidentifier:
+- content: SAE ARP5007
+  type: SAE
+  primary: true
+- content: 10.4271/arp5007
+  type: DOI
+date:
+- type: approved
+  at: '1997-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A3 Flight Control and Vehicle Management Systems Cmt
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides a description of a process for development of fly-by-wire actuation systems. Included are (1) the development of requirements for the servo-actuator hardware and the electronics hardware and software, (2) actuator and servo-electronics interface definitions and, (3) the required communications and interactions between the servo-actuator and the servo-electronics designers.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

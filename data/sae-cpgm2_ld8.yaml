@@ -1,0 +1,51 @@
+---
+id: SAECPGM2_LD8
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: J1349 Certified Power Engine Data for GM LD8 as used in 2006 Cadillac DTS,
+    Buick Lucerne Level 2
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/cpgm2_ld8
+- type: src
+  content: https://saemobilus.sae.org/services/cpgm2_ld8-j1349-certified-power-engine-data-gm-ld8-used-2006-cadillac-dts-buick-lucerne-level-2
+docidentifier:
+- content: SAE CPGM2_LD8
+  type: SAE
+  primary: true
+- content: 10.4271/cpgm2_ld8
+  type: DOI
+date:
+- type: approved
+  at: '2005-09-27'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This product includes information on the manufacturer, engine, applications, testing location, certified maximum horsepower, certified maximum torque along with the certified curves of horsepower and torque over a wide range of engine RPM speeds.
+
+    In addition, this product contains complete engine information such as displacement, cylinder configuration, valve train, combustion cycle, pressure charging, charge air cooling, bore, stroke, cylinder numbering  convention, firing order, compression ratio, fuel system, fuel system pressure, ignition system, knock control, intake manifold, exhaust manifold, cooling system, coolant liquid, thermostat, cooling fan, lubricating oil, fuel, fuel shut off speed, etc.  Also included are all measured test parameters outlined in J2723.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

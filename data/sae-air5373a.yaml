@@ -1,0 +1,58 @@
+---
+id: SAEAIR5373A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fuels in Ground Support Equipment (Other Than Gasoline or Diesel)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5373a
+- type: src
+  content: https://saemobilus.sae.org/standards/air5373a-fuels-ground-support-equipment-gasoline-diesel
+docidentifier:
+- content: SAE AIR5373A
+  type: SAE
+  primary: true
+- content: 10.4271/air5373a
+  type: DOI
+date:
+- type: approved
+  at: '2020-09-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) is intended as a source of comparative information and is subject to change to keep pace with experience and technical advances. This document describes currently used fuels and fuels which may be used in the future. Conventional gasoline and diesel fuels are intentionally omitted from this document.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

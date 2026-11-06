@@ -1,0 +1,49 @@
+---
+id: SAEAMS7237
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: RIVETS, ALLOY, CORROSION AND HEAT RESISTANT Nickel Base - 22Cr - 1.5Co
+    - 9.0Mo - 0.60W - 18.5Fe
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7237
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7237-rivets-alloy-corrosion-heat-resistant-nickel-base-22cr-15co-90mo-060w-185fe
+docidentifier:
+- content: SAE AMS7237
+  type: SAE
+  primary: true
+- content: 10.4271/ams7237
+  type: DOI
+date:
+- type: approved
+  at: '1963-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

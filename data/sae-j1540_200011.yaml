@@ -1,0 +1,58 @@
+---
+id: SAEJ1540_200011
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Manual Transmission Efficiency and Parasitic Loss Measurement
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1540_200011
+- type: src
+  content: https://saemobilus.sae.org/standards/j1540_200011-manual-transmission-efficiency-parasitic-loss-measurement
+docidentifier:
+- content: SAE J1540_200011
+  type: SAE
+  primary: true
+- content: 10.4271/j1540_200011
+  type: DOI
+date:
+- type: approved
+  at: '2000-11-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Powertrain Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Because of the intense focus on fuel economy and fuel emission standards, it has become imperative to optimize vehicle drivetrains. In light of this, component efficiencies have become an important factor in the drivetrain decision-making process. It has therefore become necessary to develop a universal standard to judge transmission efficiency.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice specifies a test procedure which maps torque transmittal efficiency and parasitic losses for manual transmissions. The application of this document is intended for manual transmissions used in light (class 4) through heavy truck applications with both simple and compound ratio structures.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is separated into two parts. The first compares input and output torque throughout a specified input speed range in order to determine the overall transmission efficiency. This test is used to evaluate all forward gears; testing in reverse is optional. The second procedure measures parasitic losses experienced at zero output torque over a range of operating speeds. A procedure for further reduction of this data into a loaded efficiency from gear and bearing systems is also provided.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAS5901A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Water Spray and High Humidity Endurance Test Methods for SAE AMS1424 and
+    SAE AMS1428 Aircraft Deicing/Anti-icing Fluids
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5901a
+- type: src
+  content: https://saemobilus.sae.org/standards/as5901a-water-spray-high-humidity-endurance-test-methods-sae-ams1424-sae-ams1428-aircraft-deicing-anti-icing-fluids
+docidentifier:
+- content: SAE AS5901A
+  type: SAE
+  primary: true
+- content: 10.4271/as5901a
+  type: DOI
+date:
+- type: approved
+  at: '2008-03-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12ADF Aircraft Deicing Fluids
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document establishes the minimum requirements for an environmental test chamber, and test procedures to carry out anti-icing performance tests according to the current materials specification for aircraft deicing/anti-icing fluids. The primary purpose for such a test method is to determine the anti-icing endurance under controlled laboratory conditions of AMS1424 Type I and AMS1428 Type II, III, and IV.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

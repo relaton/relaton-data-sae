@@ -1,0 +1,54 @@
+---
+id: SAEJ1939DA_202010
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: J1939 Digital Annex
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939da_202010
+- type: src
+  content: https://saemobilus.sae.org/standards/j1939da_202010-j1939-digital-annex
+docidentifier:
+- content: SAE J1939DA_202010
+  type: SAE
+  primary: true
+- content: 10.4271/j1939da_202010
+  type: DOI
+date:
+- type: approved
+  at: '2020-10-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>&lt;p&gt;This document is intended to supplement the J1939 documents
+    by offering the J1939 information in a form that can be sorted and search for
+    easier use.&lt;/p&gt;</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

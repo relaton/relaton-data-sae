@@ -1,0 +1,51 @@
+---
+id: SAECPGM1_20CADCT4P
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: J1349 Certified Power Engine Data for GM L3B as used in the 2020 Cadillac
+    CT4 Premium Luxury - Level 1
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/cpgm1_20cadct4p
+- type: src
+  content: https://saemobilus.sae.org/services/cpgm1_20cadct4p-j1349-certified-power-engine-data-gm-l3b-used-2020-cadillac-ct4-premium-luxury-level-1
+docidentifier:
+- content: SAE CPGM1_20CADCT4P
+  type: SAE
+  primary: true
+- content: 10.4271/cpgm1_20cadct4p
+  type: DOI
+date:
+- type: approved
+  at: '2020-01-27'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This product includes information on the manufacturer, engine, application,
+    testing location, certified maximum horsepower, certified maximum torque along
+    with the certified curves of horsepower and torque over a wide range of engine
+    RPM speeds.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

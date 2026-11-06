@@ -1,0 +1,56 @@
+---
+id: SAEARP54838
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Rolling Bearing Dynamic Radial Load Test
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5483/8
+- type: src
+  content: https://saemobilus.sae.org/standards/arp54838-rolling-bearing-dynamic-radial-load-test
+docidentifier:
+- content: SAE ARP5483/8
+  type: SAE
+  primary: true
+- content: 10.4271/arp5483/8
+  type: DOI
+date:
+- type: approved
+  at: '2002-12-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ACBG Rolling Element Bearing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This test method outlines the recommended machine function, fixtures and procedures used to test airframe rolling element bearings for dynamic performance under steady unidirectional radial load and oscillatory motion. Bearings covered by this test method shall be ball, roller and needle type in either annular or rod end configuration, used in airframe control applications.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

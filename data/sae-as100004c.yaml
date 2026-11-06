@@ -1,0 +1,48 @@
+---
+id: SAEAS100004C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GASKET - TYPE XIII ENGINE ACCESSORY DRIVE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as100004c
+- type: src
+  content: https://saemobilus.sae.org/standards/as100004c-gasket-type-xiii-engine-accessory-drive
+docidentifier:
+- content: SAE AS100004C
+  type: SAE
+  primary: true
+- content: 10.4271/as100004c
+  type: DOI
+date:
+- type: approved
+  at: '2006-10-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

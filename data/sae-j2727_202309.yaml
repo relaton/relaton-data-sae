@@ -1,0 +1,58 @@
+---
+id: SAEJ2727_202309
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Mobile Air Conditioning System Refrigerant Emissions Estimate for Mobile
+    Air Conditioning Refrigerants
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2727_202309
+- type: src
+  content: https://saemobilus.sae.org/standards/j2727_202309-mobile-air-conditioning-system-refrigerant-emissions-estimate-mobile-air-conditioning-refrigerants
+docidentifier:
+- content: SAE J2727_202309
+  type: SAE
+  primary: true
+- content: 10.4271/j2727_202309
+  type: DOI
+date:
+- type: approved
+  at: '2023-09-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Interior Climate Control Vehicle OEM Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The system emissions chart contained herein is intended to serve as a means of estimating the annual refrigerant emission rate (grams per year) from new production A/C systems equipped with specified component technologies. It provides emission values for various component technologies that are currently available and can be expanded as new technologies are commercialized. This document provides the information to develop an Excel file template system emissions chart for system emission analysis. The chart includes automotive compressor technologies for conventional mobile air conditioning systems, as well as those using semi-hermetic compressors. Fully hermetic compressors contain the working electric compressor within a welded housing that allows little if any typical emissions and the emission value for this type of compressor is added as low, fixed value. This standard can be considered a companion document to SAE J2763. SAE J2727 estimates system emissions, taking into account production assembly variation and accounts for components that are 100% helium leak tested prior to vehicle final assembly. The results from SAE J2064 are used to better represent permeation emissions from different hose material and coupling configurations in this version. SAE J2763 may be used to quantify emissions from properly assembled systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This estimate is does not apply to systems that use sealing technology that has not been characterized and included in the spreadsheet calculation, such as R-744 sealing designs.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

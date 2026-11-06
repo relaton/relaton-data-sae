@@ -1,0 +1,49 @@
+---
+id: SAEARP4386A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Terminology and Definitions for Aerospace Fluid Power, Actuation, and Control
+    Technologies
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4386a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4386a-terminology-definitions-aerospace-fluid-power-actuation-control-technologies
+docidentifier:
+- content: SAE ARP4386A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4386a
+  type: DOI
+date:
+- type: approved
+  at: '1994-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6 Aerospace Actuation, Control and Fluid Power Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

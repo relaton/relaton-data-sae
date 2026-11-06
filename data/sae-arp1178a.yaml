@@ -1,0 +1,57 @@
+---
+id: SAEARP1178A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Evacuation Signal System
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1178a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1178a-aircraft-evacuation-signal-system
+docidentifier:
+- content: SAE ARP1178A
+  type: SAE
+  primary: true
+- content: 10.4271/arp1178a
+  type: DOI
+date:
+- type: approved
+  at: '1998-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-9B Cabin Interiors and Furnishings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) establishes the criteria for the development and installation of an aircraft emergency signal system to permit any crew member to inform all other crew members that an emergency evacuation situation exists and that an evacuation has been or should be immediately started.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

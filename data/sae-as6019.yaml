@@ -1,0 +1,56 @@
+---
+id: SAEAS6019
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ARC Fault Circuit Breaker (AFCB), Aircraft, Trip-Free 28 VDC
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6019
+- type: src
+  content: https://saemobilus.sae.org/standards/as6019-arc-fault-circuit-breaker-afcb-aircraft-trip-free-28-vdc
+docidentifier:
+- content: SAE AS6019
+  type: SAE
+  primary: true
+- content: 10.4271/as6019
+  type: DOI
+date:
+- type: approved
+  at: '2023-03-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7P Protective and Control Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The primary function of this specification is to cover the general requirements for 28 VDC manual reset trip-free arc fault/thermal circuit breakers for use in aircraft electrical systems conforming to MIL-STD-704. As a secondary function, this specification may possibly cover the general requirements for AFCBs for use in primary vehicles, other than aircraft, when mounted directly to the structure.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

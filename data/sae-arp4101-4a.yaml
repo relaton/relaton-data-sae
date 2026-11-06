@@ -1,0 +1,56 @@
+---
+id: SAEARP41014A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Flight Deck Environment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4101/4a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp41014a-flight-deck-environment
+docidentifier:
+- content: SAE ARP4101/4A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4101/4a
+  type: DOI
+date:
+- type: approved
+  at: '2012-07-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-7 Flight Deck Handling Qualities Stds for Trans Aircraft
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is intended to specify the environmental conditions for transport aircraft necessary to permit the crew to perform their duties and functions in comfort, with minimum fatigue and no distraction. Environmental conditions should cause no short or long-term effects deleterious to health or physical well-being, nor significantly impair ability to perform normal or abnormal crew functions.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

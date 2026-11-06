@@ -1,0 +1,58 @@
+---
+id: SAEJ12131_199709
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Glossary of Vehicle Networks for Multiplexing and Data Communications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1213/1_199709
+- type: src
+  content: https://saemobilus.sae.org/standards/j12131_199709-glossary-vehicle-networks-multiplexing-data-communications
+docidentifier:
+- content: SAE J1213/1_199709
+  type: SAE
+  primary: true
+- content: 10.4271/j1213/1_199709
+  type: DOI
+date:
+- type: approved
+  at: '1997-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Architecture For Data Communications Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document covers the general terms and corresponding definitions that support the design, development, implementation, testing, and application of vehicle networks.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The terminology also covers some terms and concepts of distributed embedded systems, network hardware, network software, physical layers, protocols, and other related areas.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

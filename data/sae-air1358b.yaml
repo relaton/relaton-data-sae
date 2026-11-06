@@ -1,0 +1,58 @@
+---
+id: SAEAIR1358B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Information Report for Continuous Flow Oxygen Hose Disconnect
+    Fittings
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1358b
+- type: src
+  content: https://saemobilus.sae.org/standards/air1358b-aerospace-information-report-continuous-flow-oxygen-hose-disconnect-fittings
+docidentifier:
+- content: SAE AIR1358B
+  type: SAE
+  primary: true
+- content: 10.4271/air1358b
+  type: DOI
+date:
+- type: approved
+  at: '2009-08-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Information Report (AIR) indicates those dimensions, deemed critical by the manufacturer to assure proper mating of disconnect hose fittings. The dimensions are critical, but not necessarily complete, in defining these fittings since there are other criteria which must also be met.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

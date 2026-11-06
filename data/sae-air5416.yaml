@@ -1,0 +1,58 @@
+---
+id: SAEAIR5416
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Maintenance Life Cycle Cost Model
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5416
+- type: src
+  content: https://saemobilus.sae.org/standards/air5416-maintenance-life-cycle-cost-model
+docidentifier:
+- content: SAE AIR5416
+  type: SAE
+  primary: true
+- content: 10.4271/air5416
+  type: DOI
+date:
+- type: approved
+  at: '2016-10-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CACRC Commercial Aircraft Composite Repair Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes a life cycle cost model for commercial aircraft composite structure. The term life cycle cost used herein, refers to the airline costs for maintenance, spares support, fuel, repair material and labor associated with composites after introduction into service and throughout its useful life. This document contains the equations that can be programmed into software which is used to estimate the total cost of ownership aircraft, including structure. Modification costs and operating costs are estimated over a specified life (any period up to 30 years). Modification costs include spares holding, training, support equipment, and other system related costs. Annual operating costs include: Schedule interruption, fuel, spares, insurance, and maintenance. Maintenance costs are separated by scheduled maintenance or unscheduled damage, or can by grouped into the typical organizations of line, shop, and hangar maintenance. This Lifecycle Cost allows users to evaluate the impact of Service Bulletins, potential design changes, changes in maintenance programs, or effectiveness of maintenance operations.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

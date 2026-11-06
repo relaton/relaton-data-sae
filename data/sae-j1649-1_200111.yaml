@@ -1,0 +1,57 @@
+---
+id: SAEJ16491_200111
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Compressed Air for General Use--Part 1: classes'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1649/1_200111
+- type: src
+  content: https://saemobilus.sae.org/standards/j16491_200111-compressed-air-general-use-part-1-classes
+docidentifier:
+- content: SAE J1649/1_200111
+  type: SAE
+  primary: true
+- content: 10.4271/j1649/1_200111
+  type: DOI
+date:
+- type: approved
+  at: '2001-11-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Manufacturing Division
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This part of SAE J1649/1 specifies quality classes of industrial compressed
+    air for general use (e.g. for workshops, the construction industry, pneumatic
+    transport, etc.) without consideration of the quality of the air when it is discharged
+    from the compressor. The quality class of compressed air for a particular application
+    has to be based on the  mean value of several measurements carried out over a
+    specific period of time and under defined operating conditions.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

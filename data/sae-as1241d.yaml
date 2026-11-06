@@ -1,0 +1,57 @@
+---
+id: SAEAS1241D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fire Resistant Phosphate Ester Hydraulic Fluid for Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1241d
+- type: src
+  content: https://saemobilus.sae.org/standards/as1241d-fire-resistant-phosphate-ester-hydraulic-fluid-aircraft
+docidentifier:
+- content: SAE AS1241D
+  type: SAE
+  primary: true
+- content: 10.4271/as1241d
+  type: DOI
+date:
+- type: approved
+  at: '2016-09-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document establishes the requirements for physical and chemical properties and the minimum tests to evaluate suitability of phosphate ester hydraulic fluids for use in aircraft systems where fire resistance is required. Additional tests may be specified by the qualifying agency to demonstrate compliance with their specific requirements. The "qualifying agency" will be defined herein to be the airframe manufacturer submitting certification approval for use of the fluid in a specific model airplane.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Fluids meeting the requirements of this specification may be approved by a qualifying agency for use on specific airplane models. Data used to show compliance to this specification can be used by the qualifying agency to show compliance to the applicable regulations for the appropriate certifying authority; e.g., FAA, EASA, etc.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

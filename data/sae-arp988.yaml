@@ -1,0 +1,58 @@
+---
+id: SAEARP988
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ELECTROHYDRAULIC MECHANICAL FEEDBACK SERVOACTUATORS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp988
+- type: src
+  content: https://saemobilus.sae.org/standards/arp988-electrohydraulic-mechanical-feedback-servoactuators
+docidentifier:
+- content: SAE ARP988
+  type: SAE
+  primary: true
+- content: 10.4271/arp988
+  type: DOI
+date:
+- type: approved
+  at: '1992-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6B1 Hydraulic Servo Actuation Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The recommendations contained herein are confined to the input and output characteristics of electrohydraulic mechanical feedback servoactuators. The information presented should be useful for standardizing the terminology and for specification of physical and performance parameters.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The recommendations do not restrict nor attempt to define the internal design characteristics of servoactuators. As such, the material is equally applicable to servoactuators having different internal functioning, different ratings, different physical size, etc. In certain instances, standards for actuator design are recommended to increase interchangeability as, for example, pigtail color-coding and actuator polarity.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The specifications contained herein should be adequate to describe electrohydraulic mechanical feedback servoactuators used for position control. Additional specifications may be necessary to define special requirements for specific control systems. Certain dynamic compensation methods will be discussed.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

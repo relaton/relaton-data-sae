@@ -1,0 +1,49 @@
+---
+id: SAEAMS4871B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM BRONZE CASTINGS, CENTRIFUGAL AND CHILL 85.3Cu - 10.9Al - 3.6Fe
+    Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4871b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4871b-aluminum-bronze-castings-centrifugal-chill-853cu-109al-36fe-heat-treated
+docidentifier:
+- content: SAE AMS4871B
+  type: SAE
+  primary: true
+- content: 10.4271/ams4871b
+  type: DOI
+date:
+- type: approved
+  at: '1951-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

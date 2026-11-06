@@ -1,0 +1,58 @@
+---
+id: SAEJ2892_202111
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Graphics-Based Service Information
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2892_202111
+- type: src
+  content: https://saemobilus.sae.org/standards/j2892_202111-graphics-based-service-information
+docidentifier:
+- content: SAE J2892_202111
+  type: SAE
+  primary: true
+- content: 10.4271/j2892_202111
+  type: DOI
+date:
+- type: approved
+  at: '2021-11-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Graphics Based Service Information Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document establishes standard graphical symbols and color conventions for use in either still (static) or animated graphics used for communicating service information. This document’s purpose is to communicate conventions for using those symbols and colors to accurately and consistently communicate intended information via graphics-based documentation. These practices are intended for use in service procedures, assembly instructions, training materials, and similar applications when trying to minimize the amount of human natural language text used within the document. The still and animated graphical conventions referenced should support effective communication via paper and “traditional” electronic media. The conventions can also extend to documenting via additional electronic delivery paradigms such as augmented reality (AR).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is intended for organizations interested in using graphics-based documentation to record and communicate assembly, adjustment, maintenance, and other service procedures.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Adoption of this document’s recommendations involves a series of business decisions. An organization choosing to follow this recommended practice is able to decide to implement the entire set of recommendations or to selectively adopt only those recommendations it determines are appropriate for their unique needs and situation. Short- and long-term retention of an organization’s legacy symbols and conventions are options to consider. Implementation may be partial or progress through multiple stages towards the full set of recommendations. In all situations, realizing this document’s maximum, long-term benefits for all companies, organizations, and people requires that the symbols, colors, and conventions recommended be widely taught and applied.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

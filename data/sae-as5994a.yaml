@@ -1,0 +1,56 @@
+---
+id: SAEAS5994A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Pump Units, Hydraulic, Electric Motor Driven, Variable Delivery
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5994a
+- type: src
+  content: https://saemobilus.sae.org/standards/as5994a-pump-units-hydraulic-electric-motor-driven-variable-delivery
+docidentifier:
+- content: SAE AS5994A
+  type: SAE
+  primary: true
+- content: 10.4271/as5994a
+  type: DOI
+date:
+- type: approved
+  at: '2013-10-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C4 Power Sources Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes the common requirements for variable delivery electric motor driven, hydraulic pump units, suitable for use in aircraft hydraulic systems.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

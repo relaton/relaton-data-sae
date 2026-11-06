@@ -1,0 +1,61 @@
+---
+id: SAEAS393B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Airspeed Tubes Electrically Heated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as393b
+- type: src
+  content: https://saemobilus.sae.org/standards/as393b-airspeed-tubes-electrically-heated
+docidentifier:
+- content: SAE AS393B
+  type: SAE
+  primary: true
+- content: 10.4271/as393b
+  type: DOI
+date:
+- type: approved
+  at: '2008-02-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4 Aircraft Instruments Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This aeronautical standard covers two basic types of instruments as follows:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Type I - Pitot Pressure, straight and L-shaped, 12 and 14 volt nominal, 2 wire circuit.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Type II - Pitot and Static Pressured, straight and L-shaped, 12 and 24 volt nominal, 2 wire circuit.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

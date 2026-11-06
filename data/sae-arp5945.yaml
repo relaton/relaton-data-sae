@@ -1,0 +1,57 @@
+---
+id: SAEARP5945
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Endurance Time Tests for Aircraft Deicing/Anti-icing Fluids SAE Type I
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5945
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5945-endurance-time-tests-aircraft-deicing-anti-icing-fluids-sae-type
+docidentifier:
+- content: SAE ARP5945
+  type: SAE
+  primary: true
+- content: 10.4271/arp5945
+  type: DOI
+date:
+- type: approved
+  at: '2007-07-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12HOT Holdover Time Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this ARP is to provide the sample selection criteria and test procedures for SAE Type I aircraft deicing/anti-icing fluids, required for the generation of endurance time data of acceptable quality for review by the SAE G-12 Holdover Time Subcommittee.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A significant body of previous research and testing has indicated that all Type I fluids formulated with glycol perform in a similar manner from an endurance time perspective. This applies to Type I deicing/anti-icing fluids formulated with propylene glycol, ethylene glycol, and diethylene glycol only. Type I deicing/anti-icing fluids containing these glycol bases no longer require testing for endurance times. The methods described in this ARP shall be employed, however, if endurance time testing of a glycol-based Type I deicing/anti-icing fluid is desired or requested by a fluid manufacturer, operator or other organization. Fluids formulated with glycol bases other than those listed herein, and all non-glycol Type I deicing/anti-icing fluids, must be tested for endurance times using the methods described in this ARP (as appropriate).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEAS9100A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Quality Systems - Aerospace - Model for Quality Assurance in Design, Development,
+    Production, Installation and Servicing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9100a
+- type: src
+  content: https://saemobilus.sae.org/standards/as9100a-quality-systems-aerospace-model-quality-assurance-design-development-production-installation-servicing
+docidentifier:
+- content: SAE AS9100A
+  type: SAE
+  primary: true
+- content: 10.4271/as9100a
+  type: DOI
+date:
+- type: approved
+  at: '2001-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;&lt;i&gt;This standard includes ISO 9001:1994&lt;span class="xref"&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/span&gt; quality system requirements and specifies additional requirements for the quality system of the aerospace industry.&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;&lt;i&gt;For those not involved in design activities (ref. ISO 9002:1994), &lt;span class="xref"&gt;4.4&lt;/span&gt; is not applicable.&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;&lt;i&gt;It is emphasized that the quality system requirements specified in this standard are complementary (not alternative) to the contractual and applicable law and regulatory requirements.&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

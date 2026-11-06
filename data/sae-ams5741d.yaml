@@ -1,0 +1,49 @@
+---
+id: SAEAMS5741D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Corrosion and Heat Resistant 13.5Cr - 26Ni - 1.75Mo - 3Ti Consumable
+    Electrode Vacuum Melted
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5741d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5741d-steel-corrosion-heat-resistant-135cr-26ni-175mo-3ti-consumable-electrode-vacuum-melted
+docidentifier:
+- content: SAE AMS5741D
+  type: SAE
+  primary: true
+- content: 10.4271/ams5741d
+  type: DOI
+date:
+- type: approved
+  at: '1982-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

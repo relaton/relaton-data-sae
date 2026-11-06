@@ -1,0 +1,57 @@
+---
+id: SAEAS9018
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace – Customer Identified Major Quality Management System Nonconformity
+    Other Party Collaborative Corrective Action Process
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9018
+- type: src
+  content: https://saemobilus.sae.org/standards/as9018-aerospace-customer-identified-major-quality-management-system-nonconformity-party-collaborative-corrective-action-process
+docidentifier:
+- content: SAE AS9018
+  type: SAE
+  primary: true
+- content: 10.4271/as9018
+  type: DOI
+date:
+- type: approved
+  at: '2021-10-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard is applicable to AQMS COs listed in the Online Aerospace Supplier Information System (OASIS) database. This standard is intended for the management and resolution of AQMS CO’s major QMS nonconformities. This standard is not intended to address QMS nonconformities classified as minor or nonconformities related to the products or services provided by the CO.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

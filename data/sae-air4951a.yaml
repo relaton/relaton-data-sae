@@ -1,0 +1,57 @@
+---
+id: SAEAIR4951A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Test Cell Thrust Measurement
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4951a
+- type: src
+  content: https://saemobilus.sae.org/standards/air4951a-test-cell-thrust-measurement
+docidentifier:
+- content: SAE AIR4951A
+  type: SAE
+  primary: true
+- content: 10.4271/air4951a
+  type: DOI
+date:
+- type: approved
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EG-1E Gas Turbine Test Facilities and Equipment
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Thrust measurement systems come in many sizes and shapes, with varying degrees of complexity, accuracy and cost . For the purposes of this information report, the discussions of thrust measurement will be limited to axial thrust in single-axis test systems.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

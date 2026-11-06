@@ -1,0 +1,57 @@
+---
+id: SAEMA2005A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TUBE FITTINGS, METRIC, AEROSPACE FLUID SYSTEMS, SEPARABLE – GENERAL SPECIFICATION
+    FOR
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma2005a
+- type: src
+  content: https://saemobilus.sae.org/standards/ma2005a-tube-fittings-metric-aerospace-fluid-systems-separable-general-specification
+docidentifier:
+- content: SAE MA2005A
+  type: SAE
+  primary: true
+- content: 10.4271/ma2005a
+  type: DOI
+date:
+- type: approved
+  at: '1983-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard establishes the basic performance and quality criteria for screw-together tube fitting assemblies and port connectors. It was prepared to standardize on the qualification test and procurement requirements for ISO standard tube fittings. The test requirements are intended to satisfy the most strenuous demands encountered in a high performance aircraft hydraulic system. The procurement requirements are intended to assure that fittings which are bought to this specification are of the same quality as the fittings used during the original qualification testing. Compliance with these test and procurement requirements is necessary for fittings which are used in control systems where a malfunction could affect the safety of flight.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

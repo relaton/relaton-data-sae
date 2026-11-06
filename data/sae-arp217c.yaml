@@ -1,0 +1,69 @@
+---
+id: SAEARP217C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TESTING OF COMMERCIAL AIRPLANE ENVIRONMENTAL CONTROL SYSTEMS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp217c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp217c-testing-commercial-airplane-environmental-control-systems
+docidentifier:
+- content: SAE ARP217C
+  type: SAE
+  primary: true
+- content: 10.4271/arp217c
+  type: DOI
+date:
+- type: approved
+  at: '1997-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;These recommendations are written to cover the testing of environmental control equipment, functioning as a complete and installed system in civil aircraft for the purpose of:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Demonstrating the safety of the installation and equipment.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Demonstrating proper functioning of the installation and equipment.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Demonstrating performance of the installation and equipment.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Obtaining data for future design and to aid in the analysis of in-service performance of the system and equipment.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

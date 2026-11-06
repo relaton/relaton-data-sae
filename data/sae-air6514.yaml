@@ -1,0 +1,56 @@
+---
+id: SAEAIR6514
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'UxS Control Segment (UCS) Architecture: Interface Control Document (ICD)'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6514
+- type: src
+  content: https://saemobilus.sae.org/standards/air6514-uxs-control-segment-ucs-architecture-interface-control-document-icd
+docidentifier:
+- content: SAE AIR6514
+  type: SAE
+  primary: true
+- content: 10.4271/air6514
+  type: DOI
+date:
+- type: approved
+  at: '2016-12-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-4UCS Unmanned Systems Control Segment Architecture
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This interface control document (ICD) specifies all software services in the Unmanned Systems (UxS) Control Segment Architecture, including interfaces, messages, and data model.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

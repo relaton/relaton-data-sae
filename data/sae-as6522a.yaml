@@ -1,0 +1,58 @@
+---
+id: SAEAS6522A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Unmanned Systems (UxS) Control Segment (UCS) Architecture: Architecture
+    Technical Governance'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6522a
+- type: src
+  content: https://saemobilus.sae.org/standards/as6522a-unmanned-systems-uxs-control-segment-ucs-architecture-architecture-technical-governance
+docidentifier:
+- content: SAE AS6522A
+  type: SAE
+  primary: true
+- content: 10.4271/as6522a
+  type: DOI
+date:
+- type: approved
+  at: '2020-08-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-4UCS Unmanned Systems Control Segment Architecture
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Technical Governance is part of the SAE UCS Architecture Library and is primarily concerned with the UCS Architecture Model (AS6518) starting at Revision A and its user extensions. Users of the Model may extend it in accordance with AS6513 to meet the needs of their UCS Products. UCS Products include software components, software configurations and systems that provide or consume UCS services. For further information, refer to AS6513 Revision A or later.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Technical Governance is part of the UCS Architecture Framework. This framework governs the UCS views expressed as Packages and Diagrams in the UCS Architecture Model.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

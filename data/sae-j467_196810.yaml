@@ -1,0 +1,54 @@
+---
+id: SAEJ467_196810
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Special Purpose Alloys ("Superalloys")
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j467_196810
+- type: src
+  content: https://saemobilus.sae.org/standards/j467_196810-special-purpose-alloys-superalloys
+docidentifier:
+- content: SAE J467_196810
+  type: SAE
+  primary: true
+- content: 10.4271/j467_196810
+  type: DOI
+date:
+- type: approved
+  at: '1968-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Metals Technical Executive Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;title&gt;&lt;![CDATA[ABSTRACT]]&gt;&lt;/title&gt;
+    The data given in Tables 1-4 are typical values only and are not intended for design parameters. Mechanical properties of the special  purpose alloys depend greatly upon processing variables and heat  treatment.  It is recommended that design data be obtained by actual testing or by consultation with the producers of the alloys.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

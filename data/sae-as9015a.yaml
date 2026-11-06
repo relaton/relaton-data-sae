@@ -1,0 +1,57 @@
+---
+id: SAEAS9015A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Supplier Self Verification Process, Delegation Programs
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9015a
+- type: src
+  content: https://saemobilus.sae.org/standards/as9015a-supplier-self-verification-process-delegation-programs
+docidentifier:
+- content: SAE AS9015A
+  type: SAE
+  primary: true
+- content: 10.4271/as9015a
+  type: DOI
+date:
+- type: approved
+  at: '2016-08-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Aerospace Standard (AS) further defines the requirements for
+    a delegation process identified in Aerospace Quality Management System (AQMS)
+    standards (i.e., AS9100, AS9110, AS9120). This standard establishes minimum requirements
+    for the delegation of product verification to an organization's suppliers; outlining
+    requirements for the initial delegation (qualification/selection), maintenance,
+    and removal/withdrawal of delegations.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

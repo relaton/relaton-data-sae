@@ -1,0 +1,52 @@
+---
+id: SAEB921B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Involute Splines - 1996 Addendum
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/b-92.1b
+- type: src
+  content: https://saemobilus.sae.org/standards/b-92.1b-involute-splines-1996-addendum
+docidentifier:
+- content: SAE B-92.1B
+  type: SAE
+  primary: true
+- content: 10.4271/b-92.1b
+  type: DOI
+date:
+- type: approved
+  at: '1996-06-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The purposes of this addendum to B92.1 is to expand the capability
+    of the standard. All numbers are connected to a formula to enable an easier use
+    of the standard. Minimum effective clearance is defined. Form clearance is controlled
+    by tooth size and minimum fillet radius is specified for a flat root spline. Some
+    drawings callouts are added for clarification and the tolerances are limited for
+    splines with a larger number of teeth.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

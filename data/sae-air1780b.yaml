@@ -1,0 +1,57 @@
+---
+id: SAEAIR1780B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Flotation Analysis
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1780b
+- type: src
+  content: https://saemobilus.sae.org/standards/air1780b-aircraft-flotation-analysis
+docidentifier:
+- content: SAE AIR1780B
+  type: SAE
+  primary: true
+- content: 10.4271/air1780b
+  type: DOI
+date:
+- type: approved
+  at: '2022-12-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5 Aerospace Landing Gear Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is divided into five parts. The first part deals with flotation analysis features and definitions to acquaint the engineer with elements common to the various methods and the meanings of the terms used. The second part identifies and describes current flotation analysis methods. Due to the close relationship between flotation analysis and runway design, methods for the latter are also included in this document. As runway design criteria are occasionally used for flotation evaluation, including some for runways built to now obsolete criteria, a listing of the majority of these criteria constitutes the third part. The fourth part of this document tabulates the most relevant documents, categorizing them for commercial and civil versus military usage, by military service to be satisfied, and by type of pavement. This document concludes with brief elaborations of some concepts for broadening the analyst’s understanding of the subject. At revision B of this document, significant new material added is adapted from Reference [34], Schmidt, R. Kyle, &lt;i&gt;The Design of Aircraft Landing Gear&lt;/i&gt;, SAE International, 2020.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEAIR4548B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Real-Time Modeling Methods for Gas Turbine Engine Performance
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4548b
+- type: src
+  content: https://saemobilus.sae.org/standards/air4548b-real-time-modeling-methods-gas-turbine-engine-performance
+docidentifier:
+- content: SAE AIR4548B
+  type: SAE
+  primary: true
+- content: 10.4271/air4548b
+  type: DOI
+date:
+- type: approved
+  at: '2022-01-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-15 Gas Turbine Perf Simulation Nomenclature and Interfaces
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides a review of real-time modeling methodologies for gas turbine engine performance. The application of real-time models and modeling methodologies are discussed. The modeling methodologies addressed in this AIR concentrate on the aerothermal portion of the gas turbine propulsion system. Characteristics of the models, the various algorithms used in them, and system integration issues are also reviewed. In addition, example cases of digital models in source code are provided for several methodologies.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

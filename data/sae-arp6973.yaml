@@ -1,0 +1,56 @@
+---
+id: SAEARP6973
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Noise Level Reduction Measurement of Building Façades
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6973
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6973-aircraft-noise-level-reduction-measurement-building-facades
+docidentifier:
+- content: SAE ARP6973
+  type: SAE
+  primary: true
+- content: 10.4271/arp6973
+  type: DOI
+date:
+- type: approved
+  at: '2021-04-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-21 Aircraft Noise Measurement Aviation Emission Modeling
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice (ARP) provides two methods for measuring the aircraft noise level reduction of building façades. Airports and their consultants can use either of the methods presented in this ARP to determine the eligibility of structures exposed to aircraft noise to participate in an FAA-funded Airport Noise Mitigation Project, to determine the treatments required to meet project objectives, and to verify that such objectives are satisfied.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

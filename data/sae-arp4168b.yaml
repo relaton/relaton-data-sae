@@ -1,0 +1,59 @@
+---
+id: SAEARP4168B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Night Vision Goggle (NVG) Compatible Light Sources
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4168b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4168b-night-vision-goggle-nvg-compatible-light-sources
+docidentifier:
+- content: SAE ARP4168B
+  type: SAE
+  primary: true
+- content: 10.4271/arp4168b
+  type: DOI
+date:
+- type: approved
+  at: '2024-11-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20A Crew Station Lighting
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This ARP covers three common light sources, incandescent, electroluminescent and light emitting diode that, when NVG filtered, can be used to illuminate NVG compatible aerospace crew stations. It is recognized that many other different light sources can also be used for this purpose. Also see &lt;span class="xref"&gt;2.1.1&lt;/span&gt; for other SAE documents that cover particular applications within the crew station environment.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This ARP sets forth recommendations for the design of NVG compatible lighting, utilizing these light sources, that will meet the requirements of MIL-L-85762 Lighting, Aircraft, Interior, Night Vision Imaging System (NVIS) Compatible. This also includes the replacement document MIL-STD-3009: Lighting, Aircraft, Night Vision Imaging System (NVIS) Compatible.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Although this ARP concentrates on lamp light sources for illumination, the information contained within this ARP may be directly applied to incandescent, electroluminescent and light emitting diode information display devices. Regardless of the light source, the focus of this document is the understanding that the radiometric energy that can be amplified by the Night Vision Goggles (NVG’s) must be filtered to such an extent that it will not impact the operational use of the NVG’s while still allowing sufficient visible (photometric) energy to be viewed by the pilot.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

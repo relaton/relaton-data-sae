@@ -1,0 +1,59 @@
+---
+id: SAEAS4052A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Gland Design: Scraper, Landing Gear, Installation'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4052a
+- type: src
+  content: https://saemobilus.sae.org/standards/as4052a-gland-design-scraper-landing-gear-installation
+docidentifier:
+- content: SAE AS4052A
+  type: SAE
+  primary: true
+- content: 10.4271/as4052a
+  type: DOI
+date:
+- type: approved
+  at: '2006-08-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) covers an alternate gland design for the installation of scraper/wiper rings in the lower end of landing gear shock struts for the purpose of contaminant exclusion.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The defined scraper gland covered by this document, as shown in &lt;span class="xref"&gt;Table 1&lt;/span&gt;, is a variant of AS4716, the accepted gland standard for MS28775, O-ring packing seals. Piston diameters, gland internal diameters, groove sidewall angles and the surface finish are all defined by AS4716, but the gland outer retaining wall diameter is changed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;AS4088 is similar to this document, but was developed by SAE A-6 for flight control and general-purpose cylinders. It differs from this document primarily by the clearance between the rod (piston) and outer gland wall. Since landing gears are more susceptible to dirt contamination, the additional clearance provides a larger path to allow excessive dirt accumulation to exit the gland.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

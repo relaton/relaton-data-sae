@@ -1,0 +1,61 @@
+---
+id: SAEUSCAR214
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PERFORMANCE SPECIFICATION FOR CABLE-TO-TERMINAL ELECTRICAL CRIMPS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar21-4
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar21-4-performance-specification-cable-terminal-electrical-crimps
+docidentifier:
+- content: SAE USCAR-21-4
+  type: SAE
+  primary: true
+- content: 10.4271/uscar21-4
+  type: DOI
+date:
+- type: approved
+  at: '2020-01-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification defines test methods and requirements for validation of solderless crimped connections. The purpose of this test is to simulate in the lab the stress seen in a typical life (15 years and 150000 miles) for a crimp connection and assure the crimp is mechanically strong and electrically stable. This specification was developed for use with stranded automotive copper wire. Only where specifically mentioned are other constructions or other core materials (aluminum, clad, steel core, etc.) applicable. This specification does not apply to wire types not mentioned, such as coaxial cable crimps, unless a USCAR-21 test is specifically referenced in the test specification for that wire type.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This specification is based on accepted levels of environmental exposure for automotive applications. In any intended vehicle application, if the products covered by this specification are or may be subjected to conditions beyond those described in this document, they must pass special tests simulating the actual conditions to be encountered before they can be considered acceptable for actual vehicle application. Products certified by their supplier as having passed specific applicable portions of this specification are not to be used in applications where conditions may exceed those for which the product has been satisfactorily tested. Any deviation must be documented and included in the final test report.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Crimp applications validated to this specification are intended to supersede crimp information on the component prints. The terminal supplier has the primary responsibility for testing and selection of crimp tooling and to supply detailed crimp information or make crimp tooling available to the wiring assembly supplier actually doing the production crimping. The wiring harness supplier is responsible for validating all crimps produced per this specification.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Environmental exposures called-out in this specification include Thermal Shock and Temperature Humidity Cycling and are used to stress every production terminal and cable combination used under test to simulate field exposure. SAE/USCAR-21 has tests that will detect deficiencies in crimp tooling geometry, plating quality, strand distribution, and cable strand count. SAE/USCAR-21 must be done in addition to a connector system validation such as SAE/USCAR-2 to assure the entire allowable production crimp height range of every combination is acceptable. Testing to a connector system specification also validates what is not tested in SAE/USCAR-21 such as long-term high temperature exposure.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Procedures included within this specification are intended to cover performance testing and development of electrical terminal crimps that are part of the electrical connection systems in low voltage (0 to 48 VDC) road vehicle applications at ambient temperatures of 125 °C maximum. Higher voltages and temperatures may be tested if the OEM customer approves use of these test procedures for use at voltages and temperatures beyond these limits.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

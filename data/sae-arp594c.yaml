@@ -1,0 +1,56 @@
+---
+id: SAEARP594C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FUEL PUMP THERMAL SAFETY DESIGN
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp594c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp594c-fuel-pump-thermal-safety-design
+docidentifier:
+- content: SAE ARP594C
+  type: SAE
+  primary: true
+- content: 10.4271/arp594c
+  type: DOI
+date:
+- type: approved
+  at: '1978-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5B Aircraft and Engine Fuel and Lubricant Sys Components
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;These recommendations cover only those design factors which might cause the pump motor or pump housing to act as an autogenous or spark-ignition source for explosive fuel vapors within the airplane tank.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

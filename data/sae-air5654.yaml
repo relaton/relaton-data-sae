@@ -1,0 +1,59 @@
+---
+id: SAEAIR5654
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: IEEE-1394b for Military and Aerospace Vehicles – Applications Handbook
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5654
+- type: src
+  content: https://saemobilus.sae.org/standards/air5654-ieee-1394b-military-aerospace-vehicles-applications-handbook
+docidentifier:
+- content: SAE AIR5654
+  type: SAE
+  primary: true
+- content: 10.4271/air5654
+  type: DOI
+date:
+- type: approved
+  at: '2009-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This handbook is intended to accompany or incorporate AS5643 IEEE-1394b Interface Requirements for Military and Aerospace Vehicle Applications, AS5643/1 S400 Copper Media Interface Characteristics over Extended Distances, AS5657 Test Plan/Procedure for AS5643 IEEE-1394b Interface Requirements for Military and Aerospace Vehicle Applications, AS5706 Test Plan/procedure for AS5643/1 S400 Copper Media Interface Characteristics Over Extended Distances, and ARD5708 Frequently Asked Questions about IEEE-1394b and SAE AS5643. In addition, full understanding of this handbook also requires knowledge of IEEE-1394-1995, IEEE-1394a and IEEE-1394b standards.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This handbook contains detailed explanations and architecture analysis on AS5643, bus timing and scheduling considerations, system redundancy design considerations, suggestions on AS5643-based system configurations, cable selection guidance, and lessons learned on failure modes.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

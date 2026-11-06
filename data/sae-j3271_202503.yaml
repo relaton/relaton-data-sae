@@ -1,0 +1,71 @@
+---
+id: SAEJ3271_202503
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SAE Megawatt Charging System for Electric Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3271_202503
+- type: src
+  content: https://saemobilus.sae.org/standards/j3271_202503-sae-megawatt-charging-system-electric-vehicles
+docidentifier:
+- content: SAE J3271_202503
+  type: SAE
+  primary: true
+- content: 10.4271/j3271_202503
+  type: DOI
+date:
+- type: approved
+  at: '2025-03-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Technical Information Report (TIR) is based on the initial assumption that a system level standard covering all aspects of EV charging components and use cases would grow to be too large for one comprehensive document. Hence, the SAE J3271 work group was launched with five subtopics that could be subsections of one standard or a separate document for each topic.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In this document, all five subtopics are compiled into one document. The recommended practice level documents will follow this structure, with added detail and streamlined content.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The five subtopics that are now subsection numbers in this document include:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J3271/1 (see &lt;span class="xref"&gt;5.1&lt;/span&gt;) Electromechanical Coupler Specifications&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J3271/2 (see &lt;span class="xref"&gt;5.2&lt;/span&gt;) Communication and Controls&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J3271/3 (see &lt;span class="xref"&gt;5.3&lt;/span&gt;) Cables/Cable Handling, Cooling, and Automated Connection Systems&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J3271/4 (see &lt;span class="xref"&gt;5.4&lt;/span&gt;) Use Cases Including Grid Interconnection, Black Start, and Bidirectional Power Transfer&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J3271/5 (see &lt;span class="xref"&gt;5.5&lt;/span&gt;) Interoperability Testing Requirements and Test Procedures&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;Hierarchical numbering schemes are used in this document with section, subsection, and subtopic levels. First digit is section, second digit is subsection, third digit is subtopic, etc.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This SAE TIR is intended as a guide toward standard practice and is subject to change in order to harmonize with international standards and to keep pace with experience and technical advances.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

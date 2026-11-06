@@ -1,0 +1,53 @@
+---
+id: SAEAS22073_A1
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Circuit Breaker, Trip-Free, Push-Pull, Recycling, 1/2 Thru 20 Amp, Type
+    I
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as22073_a1
+- type: src
+  content: https://saemobilus.sae.org/standards/as22073_a1-circuit-breaker-trip-free-push-pull-recycling-1-2-thru-20-amp-type
+docidentifier:
+- content: SAE AS22073_A1
+  type: SAE
+  primary: true
+- content: 10.4271/as22073_a1
+  type: DOI
+date:
+- type: approved
+  at: '2004-08-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8B1 Protective Devices Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>Amendment 1 of AS22073.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,60 @@
+---
+id: SAEARP4392
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Lighting, Aircraft Exterior, Night Vision Imaging System (NVIS) Compatible
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4392
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4392-lighting-aircraft-exterior-night-vision-imaging-system-nvis-compatible
+docidentifier:
+- content: SAE ARP4392
+  type: SAE
+  primary: true
+- content: 10.4271/arp4392
+  type: DOI
+date:
+- type: approved
+  at: '2022-09-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20B Exterior Lighting Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) describes the recommended performance levels for equipment located on the aircraft exterior which produces radiant energy which will provide desired information when viewed with NVIS goggles.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These performance intensities, normally stated in candelas for visible light, are modified to consider the goggle spectral response range. Where necessary, location of the equipment on the airplane is specified.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The spectral emission characteristics may or may not include visible light. Whether or not visible energy is emitted, this document will refer to these items of equipment as "lights".&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

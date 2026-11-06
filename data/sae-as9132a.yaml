@@ -1,0 +1,68 @@
+---
+id: SAEAS9132A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Data Matrix Quality Requirements for Parts Marking
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9132a
+- type: src
+  content: https://saemobilus.sae.org/standards/as9132a-data-matrix-quality-requirements-parts-marking
+docidentifier:
+- content: SAE AS9132A
+  type: SAE
+  primary: true
+- content: 10.4271/as9132a
+  type: DOI
+date:
+- type: approved
+  at: '2005-02-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) defines uniform Quality and Technical requirements relative to metallic parts marking performed in using "Data Matrix symbology" used within the aerospace industry. The ISO/IEC 16022 specifies general requirements (data character encodation, error correction rules, decoding algorithm, etc.). In addition to ISO/IEC 16022 specification, part identification with such symbology is subject to the following requirements to ensure electronic reading of the symbol.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The marking processes covered by this standard are as follows:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Dot Peening&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Laser&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Electro-Chemical Etching&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;Further marking processes will be included if required.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard does not specify information to be encoded.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Unless specified otherwise in the contractual business relationship, the company responsible for the design of the part shall determine the location of the Data Matrix Marking. Symbol position should allow optimum illumination from all sides for readability.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAMS3890B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Graphite Yarn, Non-Structural 5 Ply Yarn, 720 Filaments
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3890b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3890b-graphite-yarn-non-structural-5-ply-yarn-720-filaments
+docidentifier:
+- content: SAE AMS3890B
+  type: SAE
+  primary: true
+- content: 10.4271/ams3890b
+  type: DOI
+date:
+- type: approved
+  at: '2016-12-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P17 Polymer Matrix Composites Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The product shall consist of 5-ply yarn having 720 continuous filaments per ply and a maximum of 4 turns per inch (25.4 mm).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

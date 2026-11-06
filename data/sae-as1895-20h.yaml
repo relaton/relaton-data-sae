@@ -1,0 +1,60 @@
+---
+id: SAEAS189520H
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: COUPLING, V-RETAINER, DOUBLE LATCH, TYPE II LOW PROFILE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1895/20h
+- type: src
+  content: https://saemobilus.sae.org/standards/as189520h-coupling-v-retainer-double-latch-type-ii-low-profile
+docidentifier:
+- content: SAE AS1895/20H
+  type: SAE
+  primary: true
+- content: 10.4271/as1895/20h
+  type: DOI
+date:
+- type: approved
+  at: '2026-06-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

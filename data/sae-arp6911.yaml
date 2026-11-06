@@ -1,0 +1,64 @@
+---
+id: SAEARP6911
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Horizontal Balancing Systems - Isolating Repeatability Issues in Challenging
+    Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6911
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6911-horizontal-balancing-systems-isolating-repeatability-issues-challenging-applications
+docidentifier:
+- content: SAE ARP6911
+  type: SAE
+  primary: true
+- content: 10.4271/arp6911
+  type: DOI
+date:
+- type: approved
+  at: '2023-06-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EG-1A Balancing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice will serve as a practical resource that offers guidance to both the machine operator and process engineer for isolating the source(s) of non-repeatability in measured unbalance data. The content of this standard addresses:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Machine capability to achieve the specified unbalance tolerances and repeat within those tolerances.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Tooling capability to repeat within the specified unbalance tolerances.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Rotor characteristics that may preclude repeating within the required unbalance tolerances.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

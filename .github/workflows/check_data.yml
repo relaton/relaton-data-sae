@@ -1,0 +1,16 @@
+name: check_data
+
+on:
+  push:
+    branches: [ master, main ]
+    tags: [ v* ]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  check-data:
+    # check-data.yml checks out the repo (with submodules) and runs
+    # `bundle exec ruby check_data.rb`. Nothing writes, so read is the union.
+    permissions:
+      contents: read
+    uses: relaton/support/.github/workflows/check-data.yml@main

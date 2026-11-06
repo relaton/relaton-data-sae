@@ -1,0 +1,82 @@
+---
+id: SAEAIR1494A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Verification of Landing Gear Design Strength
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1494a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1494a-verification-landing-gear-design-strength
+docidentifier:
+- content: SAE AIR1494A
+  type: SAE
+  primary: true
+- content: 10.4271/air1494a
+  type: DOI
+date:
+- type: approved
+  at: '2007-07-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Verification of landing gear design strength is accomplished by dynamic and static test programs. This is essentially a verification of the analytical procedures used to design the gear. An industry survey was recently conducted to determine just what analysis and testing are currently being applied to landing gear. Timing in relation to first flight of new aircraft was also questioned. Opinions were solicited from designers of the following categories and/or types of aircraft:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Military - Large Land Based (Bomber)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Military - Small Land Based (Fighter)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Military - Carrier Based (Navy)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Military - Helicopter (Large)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Military - Helicopter (Small-attack)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;f&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Commercial - Large (Airliner)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;g&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Commercial - Small (Business)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;h&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;USAF (WPAFB) - Recommendations&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is the objective of this AIR to present a summary of these responses. It is hoped that this summary will be useful to designers as a guide and/or check list in establishing criteria for landing gear analysis and test.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

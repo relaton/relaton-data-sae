@@ -1,0 +1,57 @@
+---
+id: SAEAS85049B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Connector Accessories, Electrical General Specification For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as85049b
+- type: src
+  content: https://saemobilus.sae.org/standards/as85049b-connector-accessories-electrical-general-specification
+docidentifier:
+- content: SAE AS85049B
+  type: SAE
+  primary: true
+- content: 10.4271/as85049b
+  type: DOI
+date:
+- type: approved
+  at: '2007-03-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C1 Connectors Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers connector accessories for use with electrical connectors under environmental or non-environmental conditions. Applicable connector accessories defined in this specification are delineated for the suppression of Electromagnetic Interference (EMI) and Radio Frequency Interference (RFI).&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

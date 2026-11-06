@@ -1,0 +1,56 @@
+---
+id: SAEAS7117A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: National Aerospace and Defense Contractors Accreditation Program, Requirements
+    for Shot Peening, Peen Forming, Glass Bead Peening
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as7117a
+- type: src
+  content: https://saemobilus.sae.org/standards/as7117a-national-aerospace-defense-contractors-accreditation-program-requirements-shot-peening-peen-forming-glass-bead-peening
+docidentifier:
+- content: SAE AS7117A
+  type: SAE
+  primary: true
+- content: 10.4271/as7117a
+  type: DOI
+date:
+- type: approved
+  at: '2008-07-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS AMEC Aerospace Metals and Engineering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This Aerospace Standard (AS) establishes the requirements for suppliers of Shot Peening Services to be accredited by the National Aerospace and Defense Contractors Accreditation Program (NADCAP).  NADCAP accreditation is granted in accordance with SAE AS7003 after demonstration of compliance with the requirements herein.  The requirements may be supplemented by additional requirements specified by the NADCAP Nonconventional Machining and Surface Enhancement (NMSE) Task Group.  Using the corresponding Audit Criteria (PRI AC7117) will ensure that accredited Shot Peening suppliers meet all of the requirements in this standard and all applicable supplementary standards.
+
+    The purpose of this audit program is to assess a supplier's ability to consistently provide a product or service that conforms to the technical specifications and customer requirements.  The corresponding audit criteria are also structured to obtain information relevant to management practices and processes that directly or indirectly affect the product or service.  This information will be used in the determination of accreditation status and may be used by the supplier to guide improvements in the product or service and the associated processes.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

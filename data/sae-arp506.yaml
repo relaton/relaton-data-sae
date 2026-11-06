@@ -1,0 +1,48 @@
+---
+id: SAEARP506
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TERMINALS, LUG AND SPLICE, CRIMP STYLE, INSULATED, COPPER FOR 500°F MAXIMUM
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp506
+- type: src
+  content: https://saemobilus.sae.org/standards/arp506-terminals-lug-splice-crimp-style-insulated-copper-500f-maximum
+docidentifier:
+- content: SAE ARP506
+  type: SAE
+  primary: true
+- content: 10.4271/arp506
+  type: DOI
+date:
+- type: approved
+  at: '1959-11-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C2 Terminating Devices and Tooling Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEUSCAR26
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Performance Specification for Automotive Electrical Connector Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar2-6
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar2-6-performance-specification-automotive-electrical-connector-systems
+docidentifier:
+- content: SAE USCAR-2-6
+  type: SAE
+  primary: true
+- content: 10.4271/uscar2-6
+  type: DOI
+date:
+- type: approved
+  at: '2013-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Procedures included within this specification are intended to cover performance testing at all phases of development, production, and field analysis of electrical terminals, connectors, and components that constitute the electrical connection systems in low voltage (0 – 20 VDC) road vehicle applications. These procedures are only applicable to terminals used for In-Line, Header, and Device Connector systems. They are not applicable to Edge Board connector systems, twist lock connector systems, &amp;gt; 20 VAC or DC, or to eyelet-type terminals.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;No electrical connector, terminal, or related component may be represented as having met USCAR/EWCAP specifications unless conformance to &lt;u&gt;all&lt;/u&gt; applicable requirements of this specification have been verified and documented. All required verification and documentation must be done by the supplier of the part or parts. If testing is performed by another source, it does not relieve the primary supplier of responsibility for documentation (DVP&amp;amp;R) of all test results and for verification that all samples tested met all applicable Acceptance Criteria. See section &lt;span class="xref"&gt;4.3&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;NOTICE:&lt;/b&gt; If the products tested to this specification are or may be subjected to conditions beyond those described in this document, they must pass special tests simulating the actual conditions to be encountered before they can be considered acceptable for actual vehicle application. The Authorized Person is the final authority as to what tests are to be performed on his or her parts and for what purpose these tests are required. He or she is also the final authority for resolving any questions related to testing to this specification and to authorizing any variance (with supporting data) to the equipment or procedures contained in this specification. Any such deviation must be documented and included in the final test report. Guidance as to the recommended tests for selected purposes is given in the charts in Appendices C and D.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

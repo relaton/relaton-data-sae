@@ -1,0 +1,57 @@
+---
+id: SAEAS4842A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fittings and Bosses, Pipe Threaded, Fluid Connection
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4842a
+- type: src
+  content: https://saemobilus.sae.org/standards/as4842a-fittings-bosses-pipe-threaded-fluid-connection
+docidentifier:
+- content: SAE AS4842A
+  type: SAE
+  primary: true
+- content: 10.4271/as4842a
+  type: DOI
+date:
+- type: approved
+  at: '2016-06-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) establishes the requirements for pipe threaded fluid connection fittings (see &lt;span class="xref"&gt;Section 6&lt;/span&gt;) for use in all types of fluid systems.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

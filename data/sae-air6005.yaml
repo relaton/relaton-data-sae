@@ -1,0 +1,57 @@
+---
+id: SAEAIR6005
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: General Requirements for WDM Backbone Networks
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6005
+- type: src
+  content: https://saemobilus.sae.org/standards/air6005-general-requirements-wdm-backbone-networks
+docidentifier:
+- content: SAE AIR6005
+  type: SAE
+  primary: true
+- content: 10.4271/air6005
+  type: DOI
+date:
+- type: approved
+  at: '2024-10-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document (AIR6005) provides the framework for the specifications of a WDM OBN within the SAE AS5659 WDM LAN Specification document family, in particular, the Transparent Optical Backbone Network Specification. This framework includes potential requirements, technical background, investigation and context to support the writing of SAE’s WDM LAN specifications documents. The SAE’s AS6005 WDM OBN document describes a transparent optical network which contains optical components and optical interfaces to perform optical transport, optical add/drop, optical amplification, optical routing, and optical switching functions. The conforming &lt;b&gt;&lt;i&gt;optical&lt;/i&gt;&lt;/b&gt; signal interfaces for the data plane of the WDM OBN are defined. The conforming signal interfaces for the control and management planes of this network are also defined. The control and management plane signals may be either electrical or optical. If successful, a WDM LAN standard is anticipated to include multiple variants that may get created either as separate documents (e.g. a multimode and single-mode specification) and additional documents may be needed to specify the components from which a WDM LAN and OBN will be built.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The WDM OBN specification is to be established in a future document, SAE AS5659. This AIR document is a requirements document that provides input regarding the WDM OBN to the AS5659 Aerospace Standard. Additional documents are anticipated to specify aggregation of access for multiple systems that interface to the OBN. The transition from electrical communications links to optically multiplexed networks, is anticipated to involve aggregation of slower speed signals as necessary part of a cost effective transition.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

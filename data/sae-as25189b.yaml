@@ -1,0 +1,49 @@
+---
+id: SAEAS25189B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TERMINAL, LUG, CRIMP STYLE, COPPER, UNINSULATED, FLAG TONGUE, SIZES 8-0000,
+    TYPE I, CLASS I, FOR 150 °C TOTAL CONDUCTOR TEMPERATURE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as25189b
+- type: src
+  content: https://saemobilus.sae.org/standards/as25189b-terminal-lug-crimp-style-copper-uninsulated-flag-tongue-sizes-8-0000-type-i-class-i-150-c-total-conductor-temperature
+docidentifier:
+- content: SAE AS25189B
+  type: SAE
+  primary: true
+- content: 10.4271/as25189b
+  type: DOI
+date:
+- type: approved
+  at: '2019-03-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C2 Terminating Devices and Tooling Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

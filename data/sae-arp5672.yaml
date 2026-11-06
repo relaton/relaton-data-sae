@@ -1,0 +1,60 @@
+---
+id: SAEARP5672
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Precipitation Static Certification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5672
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5672-aircraft-precipitation-static-certification
+docidentifier:
+- content: SAE ARP5672
+  type: SAE
+  primary: true
+- content: 10.4271/arp5672
+  type: DOI
+date:
+- type: approved
+  at: '2023-10-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-2 Lightning Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Aircraft surface precipitation static (p-static) charge can be generated when aircraft fly through ice particles, rain, snow and dust. However, in the context of p-static protection, this document is used for providing guidance for any thing that charges the outer surface of the aircraft (e.g. engine exhaust). P-static discharges from the aircraft can disrupt aircraft communication, navigation, and surveillance radios, and can damage aircraft radomes and windshields. This SAE Aerospace Recommended Practice (ARP) defines design considerations for aircraft p-static control and related methods to verify acceptable aircraft p-static performance. This ARP addresses p-static charging due to the aircraft flying through ice particles, rain, snow and dust. It does not address other triboelectric charging that may be present in an aircraft, such as triboelectric fuel charging or environmental control system or air conditioning static charging. It does not address electrostatic charging created by passengers or crewmembers, or electrostatic discharge hazards to electronics and systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The purpose of this document is to provide information and guidance concerning an acceptable means, but not the only means, of compliance with Parts 23, 25, 27, and 29 (23.867, 25.899, 27.610, and 29.610) of the Federal Aviation Regulations (FAR) and European Aviation Safety Agency (EASA), applicable to aircraft for protection against the adverse effects of precipitations static. This ARP provides general information on aircraft surface p-static charging mechanisms and the impact p-static has on aircraft systems. It addresses elements of effective aircraft p-static control design. Finally, it defines methods for verifying acceptable aircraft p-static control. Accordingly, this material is neither mandatory nor regulatory in nature and does not constitute a regulation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Aircraft p-static control should be addressed early in the aircraft design to be effective. Effective aircraft design features and effective verification methods will result in an aircraft that can be operated in p-static charging conditions without adverse impact to the aircraft systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The existing reports and guidance do not provide standards for aircraft design to control p-static or standard methods to verify acceptable aircraft p-static control. This document provides acceptable approaches to design effective aircraft p-static control, and provides acceptable methods to verify the design effectiveness.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Existing aircraft certification regulations in Title 14 CFR 25.899, 27.610(d) and 29.610(d), specifically address aircraft p-static control. These regulations include the requirement to minimize the accumulation of electrostatic charge in order to reduce to an acceptable level the effects of static electricity on the functioning of essential electrical and electronic equipment. Compliance may be shown by bonding the components to the airframe, or incorporating other acceptable means to dissipate the static charge. Title 14 CFR 23 is an exception, as it does not specifically address aircraft p-static control, however p-static is considered a foreseeable operating condition, so all aircraft designed for operation in instrument meteorological conditions (IMC) should have certified p-static control. Prior to this document, the absence of specific standards or guidance material resulted in inconsistent application and verification of the requirements for aircraft p-static control.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

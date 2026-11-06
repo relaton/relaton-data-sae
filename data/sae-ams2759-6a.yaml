@@ -1,0 +1,58 @@
+---
+id: SAEAMS27596A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Gas Nitriding and Heat Treatment of Low-Alloy Steel Parts
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2759/6a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams27596a-gas-nitriding-heat-treatment-low-alloy-steel-parts
+docidentifier:
+- content: SAE AMS2759/6A
+  type: SAE
+  primary: true
+- content: 10.4271/ams2759/6a
+  type: DOI
+date:
+- type: approved
+  at: '2002-03-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document specifies the procedure and requirements for heat treating low-alloy and tool steels and for their subsequent gas nitriding by the use of raw or dissociated ammonia. Specific process parameters are given for Nitralloy 135M, Nitralloy EZ, Nitralloy N, 4140, 4340, D6AC and H11 steels. Additional alloys and steel families (e.g., stainless steels) can also be nitrided using parameters acceptable to the cognizant engineering organization.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEARP4033
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PILOT-SYSTEM INTEGRATION
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4033
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4033-pilot-system-integration
+docidentifier:
+- content: SAE ARP4033
+  type: SAE
+  primary: true
+- content: 10.4271/arp4033
+  type: DOI
+date:
+- type: approved
+  at: '2008-02-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10EAB Executive Advisory Group
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;A recommended pilot-system integration (i.e., crew interface and system integration) approach for concept development is described in &lt;span class="xref"&gt;Figure 1&lt;/span&gt;. The approach emphasizes the fundamental need for a top-down design methodology with particular focus on clear operational performance requirements and functional integration. While this document is primarily aimed at aircraft systems design and integration, the methodology is applicable to a wide range of design and integration situations. It is derived from well established human factors engineering design principles.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

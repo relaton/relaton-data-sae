@@ -1,0 +1,59 @@
+---
+id: SAEJ2716_200704
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SENT—Single Edge Nibble Transmission for Automotive Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2716_200704
+- type: src
+  content: https://saemobilus.sae.org/standards/j2716_200704-sent-single-edge-nibble-transmission-automotive-applications
+docidentifier:
+- content: SAE J2716_200704
+  type: SAE
+  primary: true
+- content: 10.4271/j2716_200704
+  type: DOI
+date:
+- type: approved
+  at: '2007-04-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Architecture For Data Communications Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document defines a level of standardization in the implementation of the digital pulse scheme for reporting sensor information via Single Edge Nibble Transmission (SENT) encoding. This standard will allow ECU and tool manufacturers to satisfy the needs of multiple end users with minimum modifications to the basic design. This standard will benefit vehicle Original Equipment Manufacturers (OEMs) by achieving lower ECU costs due to higher industry volumes of the basic design.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Requirements stated in this document provide a minimum standard level of performance to which all compatible ECUs and media shall be designed. This assures data communication among all connected devices regardless of supplier.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The intended audience includes, but is not limited to, ECU suppliers, sensor suppliers, component release engineers and vehicle system engineers.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

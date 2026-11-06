@@ -1,0 +1,56 @@
+---
+id: SAEAMS4619C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MANGANESE BRONZE FORGINGS 58Cu - 39.8Zn - 1.05Fe - 0.95A1 - 0.25Mn
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4619c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4619c-manganese-bronze-forgings-58cu-398zn-105fe-095a1-025mn
+docidentifier:
+- content: SAE AMS4619C
+  type: SAE
+  primary: true
+- content: 10.4271/ams4619c
+  type: DOI
+date:
+- type: approved
+  at: '1977-01-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers one type of manganese bronze in the form of forgings and forging stock.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

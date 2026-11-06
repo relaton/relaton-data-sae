@@ -1,0 +1,57 @@
+---
+id: SAEAMS5225E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Iron-Nickel Alloy, Strip 49Fe - 5.3Cr - 42Ni - 2.5Ti - 0.55Al Solution
+    Heat Treated, Cold Rolled, 50% Reduction
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5225e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5225e-iron-nickel-alloy-strip-49fe-53cr-42ni-25ti-055al-solution-heat-treated-cold-rolled-50-reduction
+docidentifier:
+- content: SAE AMS5225E
+  type: SAE
+  primary: true
+- content: 10.4271/ams5225e
+  type: DOI
+date:
+- type: approved
+  at: '2006-04-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an iron-nickel alloy in the form of strip.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

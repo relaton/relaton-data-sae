@@ -1,0 +1,56 @@
+---
+id: SAEAS9101A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Quality System Assessment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9101a
+- type: src
+  content: https://saemobilus.sae.org/standards/as9101a-quality-system-assessment
+docidentifier:
+- content: SAE AS9101A
+  type: SAE
+  primary: true
+- content: 10.4271/as9101a
+  type: DOI
+date:
+- type: approved
+  at: '2002-04-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this document is to define the content and the presentation of the Assessment Report of the section 1 of the AS/EN/JISQ 9100, based on ISO 9001-2000.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

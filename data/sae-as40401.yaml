@@ -1,0 +1,56 @@
+---
+id: SAEAS40401
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Solenoid, Electrical, General Specification for
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as40401
+- type: src
+  content: https://saemobilus.sae.org/standards/as40401-solenoid-electrical-general-specification
+docidentifier:
+- content: SAE AS40401
+  type: SAE
+  primary: true
+- content: 10.4271/as40401
+  type: DOI
+date:
+- type: approved
+  at: '2023-04-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C5 Components Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the general requirements for electrical solenoids used to actuate various devices through the conversion of electrical signals into mechanical motion. These solenoids are of the axial stroke type and the rotary stroke type.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

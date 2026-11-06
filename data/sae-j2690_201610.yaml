@@ -1,0 +1,120 @@
+---
+id: SAEJ2690_201610
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Driveline Parking Brake Test Procedure for Medium Duty Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2690_201610
+- type: src
+  content: https://saemobilus.sae.org/standards/j2690_201610-driveline-parking-brake-test-procedure-medium-duty-vehicles
+docidentifier:
+- content: SAE J2690_201610
+  type: SAE
+  primary: true
+- content: 10.4271/j2690_201610
+  type: DOI
+date:
+- type: approved
+  at: '2016-10-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Hydraulic Brake Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes uniform test procedures for friction based parking brake components used in conjunction with hydraulic service braked vehicles with a gross vehicle weight rating greater than 4500 kg (10 000 lb). The components covered in this document are the primary actuation and the foundation park brake. Various peripheral devices such as application dashboard switches or indicators are not included. These test procedures include the following:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Brake Related Tests
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Brake Functional Performance&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Brake Dynamic Torque Performance&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Brake Corrosion Resistance&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;4&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Brake Endurance with Torque&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;5&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Brake Endurance without Torque&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;6&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Vibration Resistance&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;7&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Brake Ultimate Static Load&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;8&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Brake Lining Wear Adjuster Function&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Actuation Related Tests
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Mechanical Actuator Functional Performance&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Mechanical Actuator Endurance&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Mechanical Actuator Quick Release&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;4&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Mechanical Actuator Ultimate Load&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;5&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Spring Apply Actuator Functional Performance&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;6&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Spring Apply Actuator Operating Temperature Range&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;7&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Spring Apply Actuator Endurance&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;8&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Spring Apply Actuator Corrosion Resistance&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;9&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Spring Apply Actuator On-Off Switch&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;10&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Spring Apply Actuator Vibration&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

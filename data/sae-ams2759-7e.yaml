@@ -1,0 +1,58 @@
+---
+id: SAEAMS27597E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Carburizing and Heat Treatment of Carburizing Grade Steel Parts
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2759/7e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams27597e-carburizing-heat-treatment-carburizing-grade-steel-parts
+docidentifier:
+- content: SAE AMS2759/7E
+  type: SAE
+  primary: true
+- content: 10.4271/ams2759/7e
+  type: DOI
+date:
+- type: approved
+  at: '2021-09-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification, in conjunction with the general requirements for steel heat treatment covered in AMS2759, establishes the requirements and procedures for three classes of gas, vacuum, liquid, and low pressure (LPC) carburizing and related heat treatment of parts fabricated from carburizing grade steels. Parts made from steels other than those specified in the detail specifications may be heat treated in accordance with the applicable requirements using processing temperatures, times, and other parameters recommended by the material producer unless otherwise specified by the purchaser. This specification does not cover pack carburizing.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,60 @@
+---
+id: SAEAIR6519
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'UxS Control Segment (UCS) Architecture: UCTRACE'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6519
+- type: src
+  content: https://saemobilus.sae.org/standards/air6519-uxs-control-segment-ucs-architecture-uctrace
+docidentifier:
+- content: SAE AIR6519
+  type: SAE
+  primary: true
+- content: 10.4271/air6519
+  type: DOI
+date:
+- type: approved
+  at: '2016-12-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-4UCS Unmanned Systems Control Segment Architecture
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The Use Case Trace (UCTRACE) is SAE publication AIR6519 of the Department of Defense Unmanned Control Segment (UCS) Architecture. This document is the SAE publication of the Department of Defense UAS Control Segment (UCS) Architecture: Use Case Trace (UCTRACE) Version 3.4(PR) approved for Distribution A public release 15.S-1859.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This information is produced from a script run against the System Use Case Model contained in the UCS Architecture Model AS6518-MODEL.eap configuration item.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The System Use Case Model includes, at its lowest level of elaboration, use cases Level 2/3 (L2/L3) that describe specific scenarios of message exchanges between Actors and internal system Participants via ServiceInterfaces.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These message exchanges provide a way to create detailed traces that answer the question: “What UCS service interfaces must my components implement to satisfy functional requirements represented by a given Level 2/3 UCS use case?”&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The AIR6519-UCTRACE spreadsheet contains trace information derived directly from the message sequences in the L2/L3 use cases.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

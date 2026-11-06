@@ -1,0 +1,56 @@
+---
+id: SAEJ1095_202105
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Fatigue Test Procedures: Hubs and Wheels for Demountable Rims'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1095_202105
+- type: src
+  content: https://saemobilus.sae.org/standards/j1095_202105-fatigue-test-procedures-hubs-wheels-demountable-rims
+docidentifier:
+- content: SAE J1095_202105
+  type: SAE
+  primary: true
+- content: 10.4271/j1095_202105
+  type: DOI
+date:
+- type: approved
+  at: '2021-05-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Wheel Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice provides uniform laboratory procedures for fatigue testing of wheels for demountable rims and hubs intended for normal highway use on trucks, buses, truck trailers, and multipurpose passenger vehicles. The hubs included have bolt circle diameters ranging from 165.1 to 335.0 mm (6.500 to 13.189 inches). It is up to each hub and/or wheel for demountable rims manufacturer to determine the appropriate test method, accelerated load factor and cycle life requirements applicable to obtain satisfactory service life for a given application. When deviations from the procedures recommended herein are made, it is the responsibility of the hub and/or wheel for demountable rims developer to modify other parameters as necessary to ensure satisfactory service life for the intended application. It should be noted that this test procedure focuses on fatigue resulting from vehicle loading and cornering forces. It does not consider loads imparted to the hub from braking events.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

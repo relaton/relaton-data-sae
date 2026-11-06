@@ -1,0 +1,58 @@
+---
+id: SAEJ2012_199203
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: DIAGNOSTIC TROUBLE CODE DEFINITIONS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2012_199203
+- type: src
+  content: https://saemobilus.sae.org/standards/j2012_199203-diagnostic-trouble-code-definitions
+docidentifier:
+- content: SAE J2012_199203
+  type: SAE
+  primary: true
+- content: 10.4271/j2012_199203
+  type: DOI
+date:
+- type: approved
+  at: '1992-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice is applicable to all light duty and medium duty passenger vehicles and trucks with feedback fuel control system. Specific applications of this document include diagnostic, service and repair manuals, repair data bases, and off-board readout devices.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document focuses on a diagnostic code format and code messages for automotive electronic control systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The use and appropriate updating of this document is strongly encouraged; however, this document does not prohibit the use of additional codes for additional diagnostics.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

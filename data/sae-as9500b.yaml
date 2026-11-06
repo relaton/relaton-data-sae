@@ -1,0 +1,49 @@
+---
+id: SAEAS9500B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BOLT, MACHINE – HEXAGON HEAD DRILLED, 1 HOLE, FULL SHANK, CRES, UNS S66286,
+    130 KIS MIN, .1900-32 UNJF-3A
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9500b
+- type: src
+  content: https://saemobilus.sae.org/standards/as9500b-bolt-machine-hexagon-head-drilled-1-hole-full-shank-cres-uns-s66286-130-kis-min-1900-32-unjf-3a
+docidentifier:
+- content: SAE AS9500B
+  type: SAE
+  primary: true
+- content: 10.4271/as9500b
+  type: DOI
+date:
+- type: approved
+  at: '2016-07-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

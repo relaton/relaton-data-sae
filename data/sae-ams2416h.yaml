@@ -1,0 +1,56 @@
+---
+id: SAEAMS2416H
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Plating, Nickel-Cadmium Diffused
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2416h
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2416h-plating-nickel-cadmium-diffused
+docidentifier:
+- content: SAE AMS2416H
+  type: SAE
+  primary: true
+- content: 10.4271/ams2416h
+  type: DOI
+date:
+- type: approved
+  at: '1995-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the engineering requirements for a diffused electrodeposit of cadmium into an electrodeposit of nickel on carbon, low-alloy, and corrosion-resistant steels and the properties of the diffused deposit.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAIR6840
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Performance-Based Package Standard for Lithium Batteries as Cargo on Aircraft
+    Background Information and Rationales
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6840
+- type: src
+  content: https://saemobilus.sae.org/standards/air6840-performance-based-package-standard-lithium-batteries-cargo-aircraft-background-information-rationales
+docidentifier:
+- content: SAE AIR6840
+  type: SAE
+  primary: true
+- content: 10.4271/air6840
+  type: DOI
+date:
+- type: approved
+  at: '2024-10-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-27 Lithium Battery Packaging Performance
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides additional information and the rationale used for certain elements of AS6413. This AIR is provided to assist persons performing the tests described in AS6413 with an understanding of certain aspects of the test apparatus and the test criteria, such as the volume of the test chamber, cell heating rate, and the pass/fail criteria. It will be updated concurrently with AS6413 to explain changes, provide rationales, and cover future cell/battery technologies as they arise.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

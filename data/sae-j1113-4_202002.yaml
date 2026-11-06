@@ -1,0 +1,56 @@
+---
+id: SAEJ11134_202002
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Immunity to Radiated Electromagnetic Fields - Bulk Current Injection (BCI)
+    Method
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1113/4_202002
+- type: src
+  content: https://saemobilus.sae.org/standards/j11134_202002-immunity-radiated-electromagnetic-fields-bulk-current-injection-bci-method
+docidentifier:
+- content: SAE J1113/4_202002
+  type: SAE
+  primary: true
+- content: 10.4271/j1113/4_202002
+  type: DOI
+date:
+- type: approved
+  at: '2020-02-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This SAE Standard defines a method for evaluating the immunity of automotive electrical/electronic devices to radiated electromagnetic fields coupled to the vehicle wiring harness. The method, called bulk current injection (BCI), uses a current probe to inject RF onto the wiring harness in the frequency range of 1 to 400 MHz. BCI is one of a number of test methods that can be used to simulate the electromagnetic field.&lt;/p&gt;
+    &lt;p&gt;The test method refers to ISO 11452-4 (please refer to ISO 11452-4 for test procedures).&lt;/p&gt;
+    &lt;p&gt;In addition to ISO 11452-4, this test method also includes a differential bulk current injection (DBCI) test. DBCI is described in Section 4 of this document.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

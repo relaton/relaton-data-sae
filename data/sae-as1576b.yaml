@@ -1,0 +1,57 @@
+---
+id: SAEAS1576B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FITTINGS, WELDED, HYDRAULIC, TITANIUM AND CORROSION RESISTANT STEEL, 3000
+    PSI HYDRAULIC
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1576b
+- type: src
+  content: https://saemobilus.sae.org/standards/as1576b-fittings-welded-hydraulic-titanium-corrosion-resistant-steel-3000-psi-hydraulic
+docidentifier:
+- content: SAE AS1576B
+  type: SAE
+  primary: true
+- content: 10.4271/as1576b
+  type: DOI
+date:
+- type: approved
+  at: '1991-05-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document defines the requirements for weld fittings and machine weldments using an orbiting welding head suitable for use on cold worked 3Al-2.5V titanium and 21Cr-6Ni-9Mn CRES tubing.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEJ11132_199609
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electromagnetic Compatibility Measurement PRocedures and Limits for Vehicle
+    Components (Except Aircraft)—Conducted Immunity, 30 Hz to 250 kHz—All Leads
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1113/2_199609
+- type: src
+  content: https://saemobilus.sae.org/standards/j11132_199609-electromagnetic-compatibility-measurement-procedures-limits-vehicle-components-except-aircraft-conducted-immunity-30-hz-250-khz-leads
+docidentifier:
+- content: SAE J1113/2_199609
+  type: SAE
+  primary: true
+- content: 10.4271/j1113/2_199609
+  type: DOI
+date:
+- type: approved
+  at: '1996-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is an SAE Standard and covers the requirements for determining the immunity characteristics of automotive electronic equipment, subsystems, and systems to EM energy injected individually onto all leads. This test may be used over the frequency range of 30 Hz to 250 kHz. The method is applicable to all input, output, and power leads. The method is particularly useful in evaluating DUTs with acoustic or visible display functions.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,48 @@
+---
+id: SAEAS25244B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CIRCUIT BREAKER, TRIP-FREE, PUSH-PULL, 5 THRU 50 AMP, TYPE I
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as25244b
+- type: src
+  content: https://saemobilus.sae.org/standards/as25244b-circuit-breaker-trip-free-push-pull-5-thru-50-amp-type
+docidentifier:
+- content: SAE AS25244B
+  type: SAE
+  primary: true
+- content: 10.4271/as25244b
+  type: DOI
+date:
+- type: approved
+  at: '2014-06-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7P Protective and Control Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

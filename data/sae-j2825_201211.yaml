@@ -1,0 +1,57 @@
+---
+id: SAEJ2825_201211
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Measurement of Exhaust Sound Pressure Levels of Stationary On-Highway Motorcycles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2825_201211
+- type: src
+  content: https://saemobilus.sae.org/standards/j2825_201211-measurement-exhaust-sound-pressure-levels-stationary-highway-motorcycles
+docidentifier:
+- content: SAE J2825_201211
+  type: SAE
+  primary: true
+- content: 10.4271/j2825_201211
+  type: DOI
+date:
+- type: approved
+  at: '2012-11-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Motorcycle Technical Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes test procedures, test conditions, environment, and instrumentation for determining the exhaust sound pressure levels of stationary motorcycles. These are based on a comprehensive study of a wide variety of on-highway motorcycles, and therefore are intended to be applied to on-highway motorcycles. For off-highway motorcycles, SAE J1287 continues to be the recommended practice.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

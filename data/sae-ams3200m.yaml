@@ -1,0 +1,57 @@
+---
+id: SAEAMS3200M
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Elastomer, Acrylonitrile Butadiene Rubber (NBR) 55-65 Type A Durometer
+    Hardness Petroleum-Base Hydraulic Fluid Resistant
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3200m
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3200m-elastomer-acrylonitrile-butadiene-rubber-nbr-55-65-type-a-durometer-hardness-petroleum-base-hydraulic-fluid-resistant
+docidentifier:
+- content: SAE AMS3200M
+  type: SAE
+  primary: true
+- content: 10.4271/ams3200m
+  type: DOI
+date:
+- type: approved
+  at: '2024-05-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CE Elastomers Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an acrylonitrile-butadiene (NBR) elastomer that can be used to manufacture product in the form of sheet, strip, tubing, extrusions, and molded shapes. For molded rings, compression seals, O-ring cord, and molded-in-place gaskets for aeronautical and aerospace applications, use the AMS-P-83461 specification or the MIL-PRF-25732 specification.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

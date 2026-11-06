@@ -1,0 +1,44 @@
+---
+id: SAECPGM2_12CADCTS
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: J1349 Certified Power Engine Data for GM LFX as used in 2012 Cadillac CTS
+    - Level 2
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/cpgm2_12cadcts
+- type: src
+  content: https://saemobilus.sae.org/services/cpgm2_12cadcts-j1349-certified-power-engine-data-gm-lfx-used-2012-cadillac-cts-level-2
+docidentifier:
+- content: SAE CPGM2_12CADCTS
+  type: SAE
+  primary: true
+- content: 10.4271/cpgm2_12cadcts
+  type: DOI
+date:
+- type: approved
+  at: '2011-04-06'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

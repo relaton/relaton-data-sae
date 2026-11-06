@@ -1,0 +1,57 @@
+---
+id: SAEJ1946_200106
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Companion Flanges, Type A (External Pilot) and Type S (Internal Pilot)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1946_200106
+- type: src
+  content: https://saemobilus.sae.org/standards/j1946_200106-companion-flanges-type-a-external-pilot-type-s-internal-pilot
+docidentifier:
+- content: SAE J1946_200106
+  type: SAE
+  primary: true
+- content: 10.4271/j1946_200106
+  type: DOI
+date:
+- type: approved
+  at: '2001-06-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Driveline Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard specifies the nominal dimensions and tolerances which affect the interchangeability between companion flanges and mating parts. The flanges covered by this document are designated type A and type S.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The type A flanges are equivalent to type A ISO 7646. The type S flanges are equivalent to the type S ISO 7647. Type A is an external (male) pilot construction and type S is an internal (female) pilot construction. These flanges are not interchangeable. Dimensions not specified are left to the discretion of the component manufacturer.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

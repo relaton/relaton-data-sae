@@ -1,0 +1,58 @@
+---
+id: SAEJ1441_202408
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Subjective Rating Scale for Vehicle Ride and Handling
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1441_202408
+- type: src
+  content: https://saemobilus.sae.org/standards/j1441_202408-subjective-rating-scale-vehicle-ride-handling
+docidentifier:
+- content: SAE J1441_202408
+  type: SAE
+  primary: true
+- content: 10.4271/j1441_202408
+  type: DOI
+date:
+- type: approved
+  at: '2024-08-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Dynamics Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes a rating scale for subjective evaluation of vehicle ride and handling. The scale is applicable for the evaluation of specific vehicle ride and handling properties for specified maneuvers, road characteristics and driving conditions, and on proving ground and public roads. The validity of the evaluation is restricted to the individual ride and handling disciplines defined by these maneuvers and to the particular combination of conditions of the vehicle (e.g., equipment, degree of maintenance) and of the environment (e.g., road, weather).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This rating scale may not be suitable for some applications, such as specific types of ride or handling qualities, driver populations and market segments, or for correlating with objective measures. &lt;span class="xref"&gt;Appendix A&lt;/span&gt; discusses rating scales that better suit such applications.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is intended as a guide toward standard practice and is subject to change to keep pace with experience and technical advances.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

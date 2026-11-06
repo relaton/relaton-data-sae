@@ -1,0 +1,56 @@
+---
+id: SAEARP987A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: The Control of Excess Humidity in Avionics Cooling
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp987a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp987a-control-excess-humidity-avionics-cooling
+docidentifier:
+- content: SAE ARP987A
+  type: SAE
+  primary: true
+- content: 10.4271/arp987a
+  type: DOI
+date:
+- type: approved
+  at: '2003-10-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this document is threefold: (1) to review the problem of moisture in avionics equipment, (2) to outline methods for correcting conditions of excess moisture in existing avionics installations, and (3) to recommend design practices for new avionics cooling system installations which will minimize the adverse effects of moisture.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

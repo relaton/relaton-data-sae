@@ -1,0 +1,57 @@
+---
+id: SAEJ1207_198405
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MEASUREMENT PROCEDURE FOR DETERMINATION OF SILENCER EFFECTIVENESS IN REDUCING
+    ENGINE INTAKE OR EXHAUST SOUND LEVEL
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1207_198405
+- type: src
+  content: https://saemobilus.sae.org/standards/j1207_198405-measurement-procedure-determination-silencer-effectiveness-reducing-engine-intake-exhaust-sound-level
+docidentifier:
+- content: SAE J1207_198405
+  type: SAE
+  primary: true
+- content: 10.4271/j1207_198405
+  type: DOI
+date:
+- type: approved
+  at: '1984-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Light Vehicle Exterior Sound Level Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice sets forth the instrumentation, environment, and test procedures to be used in measuring the silencer system effectiveness in reducing intake or exhaust sound level of internal combustion engines. The system shall include the intake or exhaust silencer, related piping, and components. This procedure is intended for engine-dynamometer testing and is not necessarily applicable to vehicle testing (see &lt;span class="xref"&gt;Appendix A&lt;/span&gt;). The effect of the exhaust or intake system on the sound level of the overall machine must be determined using other procedures. This procedure may be successively applied to various silencer configurations to determine relative effectiveness for that engine. Insertion loss for individual silencers may be calculated through measurement of the silenced and unsilenced system.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

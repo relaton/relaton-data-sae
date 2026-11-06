@@ -1,0 +1,52 @@
+---
+id: SAEAS25959A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Tie Downs, Cargo, Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as25959a
+- type: src
+  content: https://saemobilus.sae.org/standards/as25959a-tie-downs-cargo-aircraft
+docidentifier:
+- content: SAE AS25959A
+  type: SAE
+  primary: true
+- content: 10.4271/as25959a
+  type: DOI
+date:
+- type: approved
+  at: '2006-06-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers four types of aircraft cargo tie downs.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

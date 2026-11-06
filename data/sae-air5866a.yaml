@@ -1,0 +1,57 @@
+---
+id: SAEAIR5866A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: An Assessment of Planar Waves
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5866a
+- type: src
+  content: https://saemobilus.sae.org/standards/air5866a-assessment-planar-waves
+docidentifier:
+- content: SAE AIR5866A
+  type: SAE
+  primary: true
+- content: 10.4271/air5866a
+  type: DOI
+date:
+- type: approved
+  at: '2021-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-16 Turbine Engine Inlet Flow Distortion  Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;“An Assessment of Planar Waves” provides background on some of the history of planar waves, which are time-dependent variations of inlet recovery, as well as establishing a hierarchy for categorizing various types of planar waves. It further identifies approaches for establishing compression-component and engine sensitivities to planar waves, and methods for accounting for the destabilizing effects of planar waves. This document contains an extensive list and categorization (see &lt;span class="xref"&gt;Appendix A&lt;/span&gt;) of references to aid both the newcomer and the practitioner on this subject.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The committee acknowledges that this document addresses only the impact of planar waves on compression-component stability and does not address the impact of planar waves on augmenter rumble, engine structural issues, and/or pilot discomfort.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

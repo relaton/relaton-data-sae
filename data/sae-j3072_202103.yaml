@@ -1,0 +1,58 @@
+---
+id: SAEJ3072_202103
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Interconnection Requirements for Onboard, Grid Support Inverter Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3072_202103
+- type: src
+  content: https://saemobilus.sae.org/standards/j3072_202103-interconnection-requirements-onboard-grid-support-inverter-systems
+docidentifier:
+- content: SAE J3072_202103
+  type: SAE
+  primary: true
+- content: 10.4271/j3072_202103
+  type: DOI
+date:
+- type: approved
+  at: '2021-03-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE J3072 Standard establishes requirements for a grid support inverter system function which is integrated into a plug-in electric vehicle (PEV) which connects in parallel with an electric power system (EPS) by way of conductively coupled, electric vehicle supply equipment (EVSE). This standard also defines the communication between the PEV and the EVSE required for the PEV onboard inverter function to be configured and authorized by the EVSE for discharging at a site. The requirements herein are intended to be used in conjunction with IEEE 1547 and IEEE 1547.1. This standard shall also support interactive inverters which conform to the requirements of IEEE 1547-2003 and IEEE 1547.1-2005, recognizing that many utility jurisdictions may not authorize interconnection.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

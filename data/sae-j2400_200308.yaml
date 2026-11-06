@@ -1,0 +1,58 @@
+---
+id: SAEJ2400_200308
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Human Factors in Forward Collision Warning Systems: Operating Characteristics
+    and User Interface Requirements'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2400_200308
+- type: src
+  content: https://saemobilus.sae.org/standards/j2400_200308-human-factors-forward-collision-warning-systems-operating-characteristics-user-interface-requirements
+docidentifier:
+- content: SAE J2400_200308
+  type: SAE
+  primary: true
+- content: 10.4271/j2400_200308
+  type: DOI
+date:
+- type: approved
+  at: '2003-08-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Advanced Driver Assistance Systems (ADAS) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Forward Collision Warning (FCW) systems are onboard systems intended to provide alerts to assist drivers in avoiding striking the rear end of another moving or stationary motorized vehicle. This SAE Information Report describes elements for a FCW operator interface, as well as requirements and test methods for systems capable of warning drivers of rear-end collisions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This information report applies to original equipment and aftermarket FCW systems for passenger vehicles including cars, light trucks, and vans. This report does not apply to heavy trucks. Furthermore, this document does not address integration issues associated with adaptive cruise control (ACC), and consequently, aspects of the document could be inappropriate for an ACC system integrated with a FCW system.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

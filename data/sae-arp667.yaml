@@ -1,0 +1,56 @@
+---
+id: SAEARP667
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PRECISION MOTOR TACHOMETER GENERATOR
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp667
+- type: src
+  content: https://saemobilus.sae.org/standards/arp667-precision-motor-tachometer-generator
+docidentifier:
+- content: SAE ARP667
+  type: SAE
+  primary: true
+- content: 10.4271/arp667
+  type: DOI
+date:
+- type: approved
+  at: '2008-02-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4 Aircraft Instruments Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice establishes objectives for high performance control motor tachometer generators to be used with aeronautical and associated equipment in protective enclosures or completely within the shell of the aircraft so that they are subjected only to the internal climatic conditions of heat, cold, shock, vibration, and humidity. Control motor tachometer generators larger than size 23 are not covered in this document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

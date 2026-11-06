@@ -1,0 +1,73 @@
+---
+id: SAEAS1130
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Air and Air/Surface (Platform) Cargo Pallets
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1130
+- type: src
+  content: https://saemobilus.sae.org/standards/as1130-air-air-surface-platform-cargo-pallets
+docidentifier:
+- content: SAE AS1130
+  type: SAE
+  primary: true
+- content: 10.4271/as1130
+  type: DOI
+date:
+- type: approved
+  at: '1970-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This SAE Aerospace Standard (AS) establishes three classes of pallets:
+
+    a. Type A, Air only Pallet
+    b. Type B, Platform Pallet (Air/Surface Intermodal)
+    c. Type C, Adapter Pallet
+
+    Pallets will have nominal dimension of:
+
+    a. Size F pallet (10 ft) (NAS 3610-2F1P) - 2.44 m x 2.99 m (96 in x 117.75 in)
+    b. Size R pallet (16 ft) (NAS 3610-2R1P) - 2.44 m x 4.98 m (96 in x 196 in)
+    c. Size G pallet (20 ft) (NAS 3610-2G1P) - 2.44 m x 6.06 m (96 in x 238.5 in)
+    d. Size H pallet (30 ft) (NAS 3610-2H1P) - 2.44 m x 9.12 m (96 in x 359.25 in)
+    e. Size J pallet (40 ft) (NAS 3610-2J1P) - 2.44 m x 12.19 m (96 in x 480 in)
+
+    Type A, Air only pallets, will normally be on aircraft equivalent roller conveying systems and/or on similarly equipped ancillary ground handling devices.
+
+    Type B, Platform pallets, are suitable for air/surface handling and transport systems.  Supplementary requirements for Type B version are found in Section 4.
+
+    Type C, Adapter pallets, are used to adapt 2.44 m x 2.44 m (8 ft x 8 ft) surface mode only containers for transport.  Supplementary requirements for Type C version are found in Section 5.
+
+    NOTE:  Use of the adapter pallet with surface mode only 2.44 m x 2.44 m (8 ft x 8 ft) containers may require uniform load distribution on the base cross members of these containers for carriage on certain aircraft.  The aircraft approved Weight and Balance Manual should be referred to for loadability procedures or limitations, or both.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEARP4169
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: NIGHT VISION GOGGLE (NVG) FILTERS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4169
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4169-night-vision-goggle-nvg-filters
+docidentifier:
+- content: SAE ARP4169
+  type: SAE
+  primary: true
+- content: 10.4271/arp4169
+  type: DOI
+date:
+- type: approved
+  at: '1993-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20AC Crew Station and Interior Lighting Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This ARP discusses the desired characteristics of night vision goggle (NVG) filters that can be used with incandescent, electroluminescent (EL) and light emitting diode (LED) light sources to achieve NVG compatible lighting of aerospace crew stations. This ARP also discusses the parameters that need to be considered when selecting a night vision goggle/daylight viewing (NVG/DV) filter for proper contrast enhancement to achieve readability in daylight.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,64 @@
+---
+id: SAEJ2004_200806
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Internal Combustion Engines--Piston Rings--Expander/Segment Oil Control
+    Rings
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2004_200806
+- type: src
+  content: https://saemobilus.sae.org/standards/j2004_200806-internal-combustion-engines-piston-rings-expander-segment-oil-control-rings
+docidentifier:
+- content: SAE J2004_200806
+  type: SAE
+  primary: true
+- content: 10.4271/j2004_200806
+  type: DOI
+date:
+- type: approved
+  at: '2008-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Piston and Ring Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This SAE Standard is equivalent to ISO Standard 6627 TR.
+
+    Differences, where they exist, are shown in Appendix A with associated rationale.
+
+    This SAE Standard specifies the dimensional features of commonly used oil control rings having two steel segments (rails) separated and expanded by one steel expander/spacer.
+
+    The segments vary in width from 0.4 to 0.6 mm. The assembly width ranges from 2.5 to 4.75 mm. The 4.75 mm width is equivalent to existing 3/16 in applications. Expander design will vary considerably with piston ring manufacturer.
+
+    The total circumferential deflection and the piston groove depth should be considered when designing these oil rings to optimize the fit of the ring assembly into the piston groove.
+
+    This document applies to oil control rings up through 125 mm for reciprocating internal combustion engines. It may also be used for piston rings of compressors working under similar conditions.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEARP6290
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guidelines for the Development of Architectures for Integrated Vehicle
+    Health Management Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6290
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6290-guidelines-development-architectures-integrated-vehicle-health-management-systems
+docidentifier:
+- content: SAE ARP6290
+  type: SAE
+  primary: true
+- content: 10.4271/arp6290
+  type: DOI
+date:
+- type: approved
+  at: '2023-05-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: HM-1 Integrated Vehicle Health Management Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides guidance when creating integrated vehicle health management (IVHM) system architecture. IVHM covers a vehicle’s monitoring and data processing functions inherent within its sub-systems, and the tools and processes used to manage and restore the vehicle health.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These guidelines are drawn from experience within both defense and commercial IVHM initiatives and implementations. The document identifies a step-by-step methodology to expose functional and non-functional requirements, mature the architecture and support organizational business goals and objectives.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

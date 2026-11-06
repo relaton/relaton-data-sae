@@ -1,0 +1,57 @@
+---
+id: SAEAMS7037
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Corrosion and Heat-Resistant, Powder for Additive Manufacturing,
+    17Cr - 13Ni - 2.5Mo (316L)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7037
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7037-steel-corrosion-heat-resistant-powder-additive-manufacturing-17cr-13ni-25mo-316l
+docidentifier:
+- content: SAE AMS7037
+  type: SAE
+  primary: true
+- content: 10.4271/ams7037
+  type: DOI
+date:
+- type: approved
+  at: '2021-11-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS AM Additive Manufacturing Metals
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The intended upper bound of this specification is that the particle size distribution (PSD) of powders supplied shall be &amp;lt;60 mesh (250 microns) and that no powder (0.0 wt.%) greater than 40 mesh (425 microns) is allowed.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

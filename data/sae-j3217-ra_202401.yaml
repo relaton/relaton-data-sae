@@ -1,0 +1,56 @@
+---
+id: SAEJ3217RA_202401
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Road User Charging™ ASN File
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3217/ra_202401
+- type: src
+  content: https://saemobilus.sae.org/standards/j3217ra_202401-road-user-charging-asn-file
+docidentifier:
+- content: SAE J3217/RA_202401
+  type: SAE
+  primary: true
+- content: 10.4271/j3217/ra_202401
+  type: DOI
+date:
+- type: approved
+  at: '2024-01-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Tolling Applications Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This Abstract Syntax Notation (ASN.1) file precisely specifies the structure of the data used to support implementation of SAE International Standard J3217/R. Using the ASN.1 specification, a compiler tool can be used to produce encodings as required by the encoding rules identified in the standard (SAE J3217/R messages are encoded with UPER encoding). Both this file and the SAE J2735 ASN.1 files are necessary to collectively implement the data exchanges described in SAE J3217/R. The combined library can be used by any application (along with the additional logic of that application) to exchange the data using interfaces conformant to J3217/R.&lt;/p&gt;
+
+
+    &lt;p&gt;SAE J3217/R specifies interface requirements and message exchanges for configuration and reporting in road use charging systems.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAS5675
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Characterization and Requirements for New Aerospace Fiber Optic Cable Assemblies
+    - Jumpers, End Face Geometry, Link Loss Measurement, and Inspection
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5675
+- type: src
+  content: https://saemobilus.sae.org/standards/as5675-characterization-requirements-new-aerospace-fiber-optic-cable-assemblies-jumpers-end-face-geometry-link-loss-measurement-inspection
+docidentifier:
+- content: SAE AS5675
+  type: SAE
+  primary: true
+- content: 10.4271/as5675
+  type: DOI
+date:
+- type: approved
+  at: '2012-05-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;To create a standard that instructs both supplier and user in the testing and characterization of initial build fiber optic cable assemblies for avionics/aerospace applications. This can be in the plant or in the avionics “box.” It includes specification of jumpers (aerospace measurement quality jumpers), end faces, link loss requirements and inspection.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

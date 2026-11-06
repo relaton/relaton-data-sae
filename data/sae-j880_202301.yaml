@@ -1,0 +1,58 @@
+---
+id: SAEJ880_202301
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Brake System Rating Test Code - Commercial Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j880_202301
+- type: src
+  content: https://saemobilus.sae.org/standards/j880_202301-brake-system-rating-test-code-commercial-vehicles
+docidentifier:
+- content: SAE J880_202301
+  type: SAE
+  primary: true
+- content: 10.4271/j880_202301
+  type: DOI
+date:
+- type: approved
+  at: '2023-01-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Brake Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This code is intended for commercial vehicles over 4500 kg (10 000 lb) with brake systems having typical service pressure ranges 0 to 14.1 mPa (0 to 2050 psi) hydraulic or 0 to 830 kPa (0 to 130 psi) air and is not directly applicable to vehicles with other systems. Air over hydraulic systems are to be tested as air systems.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

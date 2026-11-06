@@ -1,0 +1,57 @@
+---
+id: SAEJ2970_201207
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Minimum Performance Requirements for Non-Refrigerant Tracer Gasses and
+    Electronic Tracer Gas Leak Detectors
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2970_201207
+- type: src
+  content: https://saemobilus.sae.org/standards/j2970_201207-minimum-performance-requirements-non-refrigerant-tracer-gasses-electronic-tracer-gas-leak-detectors
+docidentifier:
+- content: SAE J2970_201207
+  type: SAE
+  primary: true
+- content: 10.4271/j2970_201207
+  type: DOI
+date:
+- type: approved
+  at: '2012-07-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Interior Climate Control Service Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard provides the testing and functional requirements guidance necessary for a leak detection device that uses any non-A/C refrigerant tracer gas, such as helium or a nitrogen-hydrogen blend, to provide functional performance equivalent to a refrigerant electronic leak detector. It explains how a non- refrigerant leak detector’s calibration can be established to provide levels of detection equal to electronic leak detectors that meet SAE J2791 for R-134a and SAE J2913 for R-1234yf.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

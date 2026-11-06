@@ -1,0 +1,59 @@
+---
+id: SAEJ1451_200001
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: A Dictionary of Terms for the Dynamics and Handling of Single Track Vehicles
+    (Motorcycles, Mopeds, and Bicycles)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1451_200001
+- type: src
+  content: https://saemobilus.sae.org/standards/j1451_200001-a-dictionary-terms-dynamics-handling-single-track-vehicles-motorcycles-mopeds-bicycles
+docidentifier:
+- content: SAE J1451_200001
+  type: SAE
+  primary: true
+- content: 10.4271/j1451_200001
+  type: DOI
+date:
+- type: approved
+  at: '2000-01-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Motorcycle Technical Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This dictionary of terms was prepared for use by those with a need to describe and understand the dynamics and handling of two-wheeled, single track vehicles. It is intended to span the gap between vehicle dynamics specialists and those with a more general interest.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This report is pertinent to such areas as vehicle design and development, the description of two-wheeler properties, rider training and education, and the preparation of standards and regulations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This report was prepared by the SAE Motorcycle Committee, which solicits suggestions for improvements and additions to be considered in future revisions. Comments should be directed to SAE Headquarters.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

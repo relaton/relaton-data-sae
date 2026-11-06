@@ -1,0 +1,59 @@
+---
+id: SAEJ943_200006
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Slow-Moving Vehicle Identification Emblem
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j943_200006
+- type: src
+  content: https://saemobilus.sae.org/standards/j943_200006-slow-moving-vehicle-identification-emblem
+docidentifier:
+- content: SAE J943_200006
+  type: SAE
+  primary: true
+- content: 10.4271/j943_200006
+  type: DOI
+date:
+- type: approved
+  at: '2000-06-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Agricultural Tractor Standards Committee (ATSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This SAE Standard establishes emblem dimensional specifications, performance requirements, related test procedures, and mounting requirements.
+
+    This unique idenification emblem shall be used only on machines which are designed for and travel at rates of speed less than 40 km/h (25 mph).
+
+    The identifcation emblem shall supplement but not replace warning devices such as tail lamp regulators or flashing lights and shall not be used to identify stationary objects or stopped vehicles and/or machines.
+
+    The dimensions and color patterns of the emblem have been established as a unique identification and shall not be altered to permit advertising or other markings on the face of the emblem, except as permitted in 4.2</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

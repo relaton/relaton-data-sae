@@ -1,0 +1,57 @@
+---
+id: SAEARP1279
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STANDARD INDOOR METHOD OF COLLECTION AND PRESENTATION OF THE BARE TURBOSHAFT
+    ENGINE NOISE DATA FOR USE IN HELICOPTER INSTALLATIONS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1279
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1279-standard-indoor-method-collection-presentation-bare-turboshaft-engine-noise-data-use-helicopter-installations
+docidentifier:
+- content: SAE ARP1279
+  type: SAE
+  primary: true
+- content: 10.4271/arp1279
+  type: DOI
+date:
+- type: approved
+  at: '1985-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-21 Aircraft Noise Measurement Aviation Emission Modeling
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice (ARP) outlines a recommended test procedure, data collection and preparation method for indoor noise tests of a bare turboshaft engine suitable for helicopter installations. It should be recognized that free field measurements are preferable.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,69 @@
+---
+id: SAEARP6252
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Integrated Rudder and Brake Pedal Unit, General Requirements for Fly-By
+    Wire Transport and Business Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6252
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6252-integrated-rudder-brake-pedal-unit-general-requirements-fly-wire-transport-business-aircraft
+docidentifier:
+- content: SAE ARP6252
+  type: SAE
+  primary: true
+- content: 10.4271/arp6252
+  type: DOI
+date:
+- type: approved
+  at: '2018-10-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A3 Flight Control and Vehicle Management Systems Cmt
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice (ARP) provides general requirements for a generic, integrated rudder and brake pedal unit, incorporating a passive force-feel system that could be used for fixed-wing fly-by wire transport and business aircraft.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This ARP addresses the following:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;The functions to be implemented&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;The mechanical interconnection between captain and F/O station&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;The geometric and mechanical characteristics&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;The mechanical, electrical, and electronic interfaces&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;The safety and certification requirements&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

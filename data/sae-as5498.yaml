@@ -1,0 +1,63 @@
+---
+id: SAEAS5498
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Minimum Operational Performance Specification for Inflight Icing Detection
+    Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5498
+- type: src
+  content: https://saemobilus.sae.org/standards/as5498-minimum-operational-performance-specification-inflight-icing-detection-systems
+docidentifier:
+- content: SAE AS5498
+  type: SAE
+  primary: true
+- content: 10.4271/as5498
+  type: DOI
+date:
+- type: approved
+  at: '2009-12-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9C Aircraft Icing Technology Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The objective of this Minimum Operational Performance Specification is to specify the minimum performance of onboard inflight icing detection systems. Throughout the document, these devices are referred to as Flight Icing Detection Systems (FIDS). These systems are intended to either provide information which indicates the presence of ice accreted in flight on monitored surfaces or indicate the presence of icing conditions in the atmosphere. They may operate the airplane anti-ice/ deice systems. Detection of ice accreted on the ground is not considered in this document but can be found in ED-104. This MOPS was written for the use of FIDS on airplanes only, as defined in paragraph &lt;span class="xref"&gt;1.5&lt;/span&gt;. Use on other aircraft may require additional considerations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Chapter 1&lt;/span&gt; of this document provides information required to understand the need for the equipment characteristics and tests defined in the remaining chapters. It describes typical equipment applications and operational objectives and is the basis for the performance criteria stated in &lt;span class="xref"&gt;Chapter 2&lt;/span&gt; to &lt;span class="xref"&gt;Chapter 4&lt;/span&gt;. Definitions essential to proper understanding of this document are also provided in &lt;span class="xref"&gt;Chapter 1&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Chapter 2&lt;/span&gt; contains general design requirements for an onboard FIDS.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Chapter 3&lt;/span&gt; contains the Minimum Operational Performance Specification for the equipment, defining performance under icing conditions likely to be encountered in flight.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Chapter 4&lt;/span&gt; describes the environmental test conditions which provide a laboratory means of determining the overall performance characteristics of the equipment under conditions representative of those which may be encountered in actual operations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Chapter 5&lt;/span&gt; describes recommended test procedures for demonstrating compliance with &lt;span class="xref"&gt;Chapter 3&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Chapter 6&lt;/span&gt; specifies the performance required of the installed equipment. Ground and flight tests for the installed equipment are included when performance cannot be adequately determined through testing under standard test conditions.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

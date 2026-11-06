@@ -1,0 +1,48 @@
+---
+id: SAEAIR825
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: OXYGEN EQUIPMENT FOR AIRCRAFT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air825
+- type: src
+  content: https://saemobilus.sae.org/standards/air825-oxygen-equipment-aircraft
+docidentifier:
+- content: SAE AIR825
+  type: SAE
+  primary: true
+- content: 10.4271/air825
+  type: DOI
+date:
+- type: approved
+  at: '1965-03-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

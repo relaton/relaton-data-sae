@@ -1,0 +1,58 @@
+---
+id: SAEJ2064_202104
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Coupled Automotive Refrigerant Air-Conditioning Hose Assemblies
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2064_202104
+- type: src
+  content: https://saemobilus.sae.org/standards/j2064_202104-coupled-automotive-refrigerant-air-conditioning-hose-assemblies
+docidentifier:
+- content: SAE J2064_202104
+  type: SAE
+  primary: true
+- content: 10.4271/j2064_202104
+  type: DOI
+date:
+- type: approved
+  at: '2021-04-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Interior Climate Control MAC Supplier Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of SAE J2064 covers coupled hose assemblies intended for containing and circulating lubricant, liquid, and gaseous R-134a, R-152a, and/or R-1234yf refrigerant in automotive air-conditioning systems. Historically, requirements for the hose used in coupled automotive refrigerant air conditioning assemblies was included in SAE J2064. SAE J2064 has been changed to establish the requirements for factory and field coupled hose assemblies. SAE J3062 has been issued to define requirements for the hose used in these assemblies into its own standard. SAE J2064 also provides the necessary values used in SAE J2727. The certified coupling of MAC hose assemblies is required in meeting certain regulatory requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A hose which has met the requirements of SAE J3062 and certified in SAE J2911 shall be used as part of the coupled assembly. A hose which meets the requirements of SAE J3062 does not ensure the assembly will meet the requirements of SAE J2064. It is the hose assembly manufacturer’s responsibility to confirm that the assemblies meet the specified acceptance criteria for this specification. The hose assembly shall be designed to minimize permeation of the refrigerant, contamination of the system, and to be functional over a temperature range of -30 to 125 °C. Specific construction details are to be agreed upon between user and supplier.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Bulk hose produced prior to the release of this standard in 2015 could be labeled “SAE J2064” and may not meet the requirements of SAE J3062.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

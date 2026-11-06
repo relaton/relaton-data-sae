@@ -1,0 +1,59 @@
+---
+id: SAEJ5481_201303
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Spark Plugs
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j548/1_201303
+- type: src
+  content: https://saemobilus.sae.org/standards/j5481_201303-spark-plugs
+docidentifier:
+- content: SAE J548/1_201303
+  type: SAE
+  primary: true
+- content: 10.4271/j548/1_201303
+  type: DOI
+date:
+- type: approved
+  at: '2013-03-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Ignition Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard applies only to spark plugs used for ground vehicles and stationary engines.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is intended to serve as a guide to dimensions common to the majority of current production spark plugs and future applications. It is not the intent of this document to prohibit the manufacture of spark plugs having dimensions differing from those presented. Many applications exist which require specialized or nonstandard spark plugs. It is recommended that this document be used in spark plug design and engine applications wherever possible. Whenever design situations arise that prevent the use of one of these standard spark plugs, a spark plug manufacturer should be contacted for guidance.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Figures 1&lt;/span&gt; to &lt;span class="xref"&gt;13&lt;/span&gt; and &lt;span class="xref"&gt;Tables 1A&lt;/span&gt; to &lt;span class="xref"&gt;6&lt;/span&gt; show typical configurations of unshielded and shielded spark plug designs, their dimensional characteristics, installation, threaded hole, and spark plug thread sizes.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

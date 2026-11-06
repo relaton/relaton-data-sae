@@ -1,0 +1,59 @@
+---
+id: SAEEIASTD4899B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Requirements for an Electronic Components Management Plan
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/eiastd4899b
+- type: src
+  content: https://saemobilus.sae.org/standards/eiastd4899b-requirements-electronic-components-management-plan
+docidentifier:
+- content: SAE EIA-STD-4899B
+  type: SAE
+  primary: true
+- content: 10.4271/eiastd4899b
+  type: DOI
+date:
+- type: approved
+  at: '2015-02-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: APMC Avionics Process Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document applies to the development of Plans for integrating and managing electronic components in equipment for the military and commercial aerospace markets; as well as other ADHP markets that wish to use this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Examples of electronic components, as described in this document, include resistors, capacitors, diodes, integrated circuits, hybrids, application specific integrated circuits, wound components, and relays.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is critical for the Plan owner to review and understand the design, materials, configuration control, and qualification methods of all “as-received” electronic components, and their capabilities with respect to the application; identify risks, and where necessary, take additional action to mitigate the risks.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The technical requirements are in &lt;span class="xref"&gt;Clause 3&lt;/span&gt; of this standard, and the administrative requirements are in &lt;span class="xref"&gt;Clause 4&lt;/span&gt;.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

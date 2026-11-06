@@ -1,0 +1,92 @@
+---
+id: SAEAIR6276
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Use of Models and Tools for Aircraft Systems Development - A Strategy for
+    Development Assurance Aspects with Examples
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6276
+- type: src
+  content: https://saemobilus.sae.org/standards/air6276-use-models-tools-aircraft-systems-development-a-strategy-development-assurance-aspects-examples
+docidentifier:
+- content: SAE AIR6276
+  type: SAE
+  primary: true
+- content: 10.4271/air6276
+  type: DOI
+date:
+- type: approved
+  at: '2026-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-18 Aircraft and Sys Dev and Safety Assessment Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The increased use of models in the development of complex aircraft and systems provides great opportunities and benefits, but also introduces some additional risks. The purpose of this document is to clarify ways to identify, prioritize, and mitigate risks associated with the use of models and tools in aircraft and system development. This document introduces considerations for the usage of &lt;u&gt;models&lt;/u&gt; and &lt;u&gt;tools&lt;/u&gt; in aircraft and &lt;u&gt;system&lt;/u&gt; development activities that are defined in ARP4754/ED-79 (at latest revision). Throughout this document, a model refers to an abstract representation of a given set of aspects of a system/function/item, and a tool refers to an application or commercial product that is used for aircraft or system development activities such as developing, managing, and executing models, managing requirements &lt;u&gt;validation&lt;/u&gt; and implementation &lt;u&gt;verification&lt;/u&gt; activities and associated data, and automation of complex development tasks. The characteristics of models and tools and how they are applied differently for system-level development compared to item-level development are discussed. A discussion of several types of potential &lt;u&gt;errors&lt;/u&gt; that can arise during the application of models and tools to system development is included as well. This is followed by proposed activities for managing the risks associated with the application of models and tools to system development. These suggestions start by identifying the contribution of models and tools to the decision-making process, and then understanding the impact of potential model and tool errors, leading to a discussion of potential process mitigations and methods for increasing the confidence in the application of models and tools to system development.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: Unless otherwise stated, in the context of this document, the term “risk” is used to mean risks associated with potential errors that can be introduced in model and tool development and usage.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;System development activities that may employ models and tools include but are not limited to:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Developing the system functions, architecture, and design&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Validating system functions and their requirements under normal and unusual conditions (extreme cases, tolerance stack-ups, &lt;u&gt;failure&lt;/u&gt; insertion, etc.), which can help define additional requirements for features to constrain adverse operation&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Developing test procedures to be used in verifying the implemented system when it becomes available&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Analyzing the performance of a system against requirements over a range of inputs and conditions or combinations thereof to supplement the system verification&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Confirming the intended behavior of a system design using a validated model&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;This document applies to models that are used for requirements analysis, design analysis, or to better understand and define requirements. Models that are used as the requirements are not discussed in this document, as in this case the ARP4754/ED-79 (at latest revision) Requirements Capture section and other associated sections provide the pertinent objectives and guidelines.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not describe the software or &lt;u&gt;hardware&lt;/u&gt; development process or the direct verification of such &lt;u&gt;items&lt;/u&gt;. It is assumed that these software or hardware processes, which may involve use of models, are handled by their respective guidance (e.g., DO-178C/ED-12C or DO-254/ED-80). This use of models is not described in this document, despite that it might involve system development processes in combination with software or hardware development processes.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;There is already a large and growing list of models and tools being applied in the development of complex systems, including computer aided design (CAD) tools for installation analysis, models and tools supporting system safety analysis, architectural models supporting various analyses, and tools used to simulate and analyze system performance or behavior.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Two examples are presented to illustrate where models and tools are used to facilitate a set of typical system design decisions. The examples also identify model and tool errors, describe possible mitigation methods used to increase confidence in the use of models and tools in system development, and minimize the effect of errors that may be introduced by using the models and tools. The two examples are:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;An aircraft-level control law design targeted for software implementation on a digital computer, where a model is used for analysis of the control gains (referred to as the Roll Control System and described in &lt;span class="xref"&gt;Appendix A&lt;/span&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;An avionics network architecture where the tool analyzes the interfaces between the elements and identifies issues in the architecture (referred to as the Network Analysis Tool and described in &lt;span class="xref"&gt;Appendix B&lt;/span&gt;)&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;The examples herein are not intended to be an exhaustive treatment of all considerations, but rather to demonstrate a set of principles and techniques that are generally applicable to the use of models and tools in system design. The Roll Control System and the Network Analysis Tool examples show how confidence in the models and tools can be established.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,61 @@
+---
+id: SAEARP4049A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Cargo Restraint on Aircraft Passenger Seats – Main Passenger Cabin
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4049a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4049a-cargo-restraint-aircraft-passenger-seats-main-passenger-cabin
+docidentifier:
+- content: SAE ARP4049A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4049a
+  type: DOI
+date:
+- type: approved
+  at: '2011-12-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) establishes the basic recommendations for the following two types of configuration for securing cargo to aircraft passenger seats on transport category aircraft:&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;It is emphasized that the two types of restraint shown are merely examples of methods currently used and does not imply that alternative methods are not acceptable.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For the purposes of this document, the minimum essential criteria are identified by the use of the key word "shall," Recommended criteria are identified by the use of the key word "should," and while not mandatory are considered to be of significant importance in providing safe, economical, and practical means of cargo restraint. Deviation from recommended criteria should occur only after careful consideration, extensive testing, and thorough service evaluation have shown alternative methods to be satisfactory.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

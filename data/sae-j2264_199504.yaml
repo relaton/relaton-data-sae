@@ -1,0 +1,57 @@
+---
+id: SAEJ2264_199504
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CHASSIS DYNAMOMETER SIMULATION OF ROAD LOAD USING COASTDOWN TECHNIQUES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2264_199504
+- type: src
+  content: https://saemobilus.sae.org/standards/j2264_199504-chassis-dynamometer-simulation-road-load-using-coastdown-techniques
+docidentifier:
+- content: SAE J2264_199504
+  type: SAE
+  primary: true
+- content: 10.4271/j2264_199504
+  type: DOI
+date:
+- type: approved
+  at: '1995-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Light Duty Vehicle Performance and Economy Measure Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This procedure covers two-wheel drive vehicle operation and single-axle electric dynamometer load coefficient adjustment to simulate track road load within the speed range of track testing and the dynamometer inertia and road load simulation capabilities.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,63 @@
+---
+id: SAEJ2600_200210
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Compressed Hydrogen Surface Vehicle Refuelling Connection Devices
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2600_200210
+- type: src
+  content: https://saemobilus.sae.org/standards/j2600_200210-compressed-hydrogen-surface-vehicle-refuelling-connection-devices
+docidentifier:
+- content: SAE J2600_200210
+  type: SAE
+  primary: true
+- content: 10.4271/j2600_200210
+  type: DOI
+date:
+- type: approved
+  at: '2002-10-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Cell Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE J2600 applies to design, safety and operation verification of Compressed Hydrogen Surface Vehicle (CHSV) refuelling connection devices hereinafter referred to as nozzle and receptacle. CHSV Refuelling nozzles and receptacles shall consist of the following components, as applicable. Alternatives may be used as long as the alternative geometries shall not be interchangeable with the standard geometry specified in this SAE Standard and the standard geometry in &lt;span class="xref"&gt;Section 6&lt;/span&gt; provides insufficient flow rates:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Receptacle and protective cap (mounted on vehicle) (see &lt;span class="xref"&gt;Section 6&lt;/span&gt; and &lt;span class="xref"&gt;7&lt;/span&gt;);&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Nozzle (see &lt;span class="xref"&gt;Section 5&lt;/span&gt;).&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

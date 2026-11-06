@@ -1,0 +1,57 @@
+---
+id: SAEJ247_201304
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Procedure and Instrumentation for Measuring Acoustic Impulses from Deployment
+    of Automotive Inflatable Devices
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j247_201304
+- type: src
+  content: https://saemobilus.sae.org/standards/j247_201304-procedure-instrumentation-measuring-acoustic-impulses-deployment-automotive-inflatable-devices
+docidentifier:
+- content: SAE J247_201304
+  type: SAE
+  primary: true
+- content: 10.4271/j247_201304
+  type: DOI
+date:
+- type: approved
+  at: '2013-04-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Inflatable Restraints Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Recommended Practice is to provide guidelines for selection of transducers, data acquisition systems, and other instrumentation as well as analysis methods to help ensure proper measurement and evaluation of acoustic impulses in automobiles. While this Recommended Practice focuses on automotive inflatable devices, such as, frontal airbag systems, pretensioners, inflatable curtains, side airbags, etc., it can be used for measurement of other impulsive sounds in a vehicle if needed. The objective is to achieve uniformity in instrumentation practice and reporting of test measurements. Use of this recommended practice should provide a basis for meaningful comparisons of test results from different sources. This recommended practice specifies procedures for static measurement of acoustic impulses, but due to the much more complicated nature of crash testing, does not specify procedures for measuring impulses in vehicles during crash tests.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

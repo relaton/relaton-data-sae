@@ -1,0 +1,58 @@
+---
+id: SAEAIR7358
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Calculations and Background Information Used to Specify the Dimensions
+    in AS6235
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air7358
+- type: src
+  content: https://saemobilus.sae.org/standards/air7358-calculations-background-information-used-specify-dimensions-as6235
+docidentifier:
+- content: SAE AIR7358
+  type: SAE
+  primary: true
+- content: 10.4271/air7358
+  type: DOI
+date:
+- type: approved
+  at: '2021-11-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C2 Seals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) contains a description of the design approach, the calculations, some comparisons to alternate SAE Aerospace Recommended Practice (ARP) documents, and the background information used to generate the standard face seal gland dimensions specified in AS6235.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: This AIR should be read in conjunction with AS6235. In some instances, the information contained within AS6235 is repeated for clarity.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

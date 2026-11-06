@@ -1,0 +1,59 @@
+---
+id: SAEARP6379
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Processes for Application-Specific Qualification of Electrical, Electronic,
+    and Electromechanical Parts and Sub-Assemblies for Use in Aerospace, Defense,
+    and High Performance Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6379
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6379-processes-application-specific-qualification-electrical-electronic-electromechanical-parts-sub-assemblies-use-aerospace-defense-high-performance-systems
+docidentifier:
+- content: SAE ARP6379
+  type: SAE
+  primary: true
+- content: 10.4271/arp6379
+  type: DOI
+date:
+- type: approved
+  at: '2016-11-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: APMC Avionics Process Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes a process for use by ADHP integrators of EEE parts and sub-assemblies (items) that have been targeted for other applications&lt;span class="xref"&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not describe specific tests to be conducted, sample sizes to be used, nor results to be obtained; instead, it describes a process to define and accomplish application-specific qualification; that provides confidence to both the ADHP integrators, and the integrators’ customers, that the item will performs its function(s) reliably in the ADHP application.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

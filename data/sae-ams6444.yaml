@@ -1,0 +1,49 @@
+---
+id: SAEAMS6444
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL, PREMIUM BEARING QUALITY 1.45Cr (0.95 - 1.10C) (SAE 52100) Consumable
+    Electrode Vacuum Melted
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6444
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6444-steel-premium-bearing-quality-145cr-095-110c-sae-52100-consumable-electrode-vacuum-melted
+docidentifier:
+- content: SAE AMS6444
+  type: SAE
+  primary: true
+- content: 10.4271/ams6444
+  type: DOI
+date:
+- type: approved
+  at: '1960-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

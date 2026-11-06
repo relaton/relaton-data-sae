@@ -1,0 +1,56 @@
+---
+id: SAEAMS2825
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MATERIAL SAFETY DATA SHEETS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2825
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2825-material-safety-data-sheets
+docidentifier:
+- content: SAE AMS2825
+  type: SAE
+  primary: true
+- content: 10.4271/ams2825
+  type: DOI
+date:
+- type: approved
+  at: '1979-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes requirements for the preparation of Material Safety Data Sheets which will provide information concerning the harmful or hazardous nature of materials to facilitate purchasers' compliance with regulations of the U.S. Department of Labor, Occupational Safety and Health Administration. Requirements for submission of such data sheets will be specified in individual material and process specifications.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

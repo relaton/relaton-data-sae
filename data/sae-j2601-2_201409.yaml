@@ -1,0 +1,61 @@
+---
+id: SAEJ26012_201409
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fueling Protocol for Gaseous Hydrogen Powered Heavy Duty Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2601/2_201409
+- type: src
+  content: https://saemobilus.sae.org/standards/j26012_201409-fueling-protocol-gaseous-hydrogen-powered-heavy-duty-vehicles
+docidentifier:
+- content: SAE J2601/2_201409
+  type: SAE
+  primary: true
+- content: 10.4271/j2601/2_201409
+  type: DOI
+date:
+- type: approved
+  at: '2014-09-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Cell Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this document is to provide performance requirements for hydrogen dispensing systems used for fueling 35 MPa heavy duty hydrogen transit buses and vehicles (other pressures are optional).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document establishes the boundary conditions for safe heavy duty hydrogen surface vehicle fueling, such as safety limits and performance requirements for gaseous hydrogen fuel dispensers used to fuel hydrogen transit buses. For fueling light-duty vehicles SAE J2601 should be used.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J2601-2 is a performance based protocol document that also provides guidance to fueling system builders, manufacturers of gaseous hydrogen powered heavy duty transit buses, and operators of the hydrogen powered vehicle fleet(s).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This fueling protocol is suitable for heavy duty vehicles with a combined vehicle CHSS capacity larger than 10 kilograms aiming to support all practical capacities of transit buses. It is non-prescriptive in how to achieve a full fill or 100% state of charge (SOC) in the vehicle tank storage system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is an independent document from SAE J2601 “Fueling Protocols for Light Duty Gaseous Hydrogen Surface Vehicles” and should be used separately.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The fueling limits shown in this document are harmonized with the fueling assumptions used for on-board fuel systems, as provided by gaseous hydrogen transit bus manufacturers.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

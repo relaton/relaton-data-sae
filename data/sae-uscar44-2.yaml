@@ -1,0 +1,58 @@
+---
+id: SAEUSCAR442
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PERFORMANCE SPECIFICATION FOR AUTOMOTIVE WIRE HARNESS RETAINER CLIPS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar44-2
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar44-2-performance-specification-automotive-wire-harness-retainer-clips
+docidentifier:
+- content: SAE USCAR-44-2
+  type: SAE
+  primary: true
+- content: 10.4271/uscar44-2
+  type: DOI
+date:
+- type: approved
+  at: '2023-03-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification describes a method and acceptance criteria for testing automotive wire harness retainer clips. Retainer clips are plastic parts that hold a wire harness or electrical connector in a specific position. Typical plastic retainers work by having a set of “branches” that can be inserted into a hole sized to be easy to install but provide acceptable retention. This specification tests retainer clips for mechanical retention when exposed to the mechanical and environmental stresses typically found in automotive applications over a 15-year service life. This specification has several test options to allow the test to match to the expected service conditions. The variability of applications typically arises from different ambient temperatures near the clip, different proximity to automotive fluids, different exposure to standing water or water spray, and different thicknesses of the holes that the clip is inserted into. Clips are typically inserted into sheet or rolled metal from 0.6 to 8 mm thick, so this specification focuses on that range. Outside of this range requires a custom test.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The procedures described in this document have been evaluated for the design types shown in &lt;span class="xref"&gt;Table 2&lt;/span&gt;. Use of USCAR-44 for other than a design shown in &lt;span class="xref"&gt;Table 2&lt;/span&gt; may or may not produce acceptable test correlation to actual experience, but USCAR has not reviewed any data. USCAR-44 can be used at all phases of development, production, and field analysis since it is a performance test and not a process validation or quality assessment.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;No retainer may be represented as having met USCAR/EWCAP specifications unless conformance to all applicable requirements of this specification have been verified and documented. All required verification and documentation must be provided by the supplier of the part. If testing is performed by another source, it does not relieve the primary supplier of responsibility for documentation (DVP&amp;amp;R) of all test results and for verification that all samples tested met all applicable acceptance criteria.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

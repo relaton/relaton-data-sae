@@ -1,0 +1,49 @@
+---
+id: SAEAS14154B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CIRCUIT BREAKER - AIRCRAFT, TRIP-FREE, PUSH-PULL, 3 PHASE, 1 THRU 20 AMP,
+    TYPE 1
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as14154b
+- type: src
+  content: https://saemobilus.sae.org/standards/as14154b-circuit-breaker-aircraft-trip-free-push-pull-3-phase-1-thru-20-amp-type-1
+docidentifier:
+- content: SAE AS14154B
+  type: SAE
+  primary: true
+- content: 10.4271/as14154b
+  type: DOI
+date:
+- type: approved
+  at: '2007-02-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7P Protective and Control Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

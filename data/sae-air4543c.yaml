@@ -1,0 +1,58 @@
+---
+id: SAEAIR4543C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Hydraulics and Actuation Lessons Learned
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4543c
+- type: src
+  content: https://saemobilus.sae.org/standards/air4543c-aerospace-hydraulics-actuation-lessons-learned
+docidentifier:
+- content: SAE AIR4543C
+  type: SAE
+  primary: true
+- content: 10.4271/air4543c
+  type: DOI
+date:
+- type: approved
+  at: '2017-02-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6 Aerospace Actuation, Control and Fluid Power Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) contains Lessons Learned from aerospace actuation, control and fluid power systems technologies. The lessons were prepared by engineers from the aerospace industry and government services as part of SAE Committee A-6, Aerospace Fluid Power, Actuation, and Control Technologies, and were presented to the A-6 during meetings held from 1989 through 1999. The document is organized into five sections covering systems, actuation, hydromechanical components, electrical components and miscellaneous, each further divided into subsections. The lessons are presented in a concise format of Problem, Issue, Solution and Lesson Learned, often with accompanying descriptive diagrams and illustrations for clarity and understanding.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Because of the potential growth in the size of the document as new lessons are published, those presented to the A-6 Committee in 2000 and later years are planned to be released in separate slash number documents, AIR4543/1, AIR4543/2 and so on.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

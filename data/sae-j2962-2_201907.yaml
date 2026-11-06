@@ -1,0 +1,58 @@
+---
+id: SAEJ29622_201907
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Communication Transceivers Qualification Requirements - CAN
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2962/2_201907
+- type: src
+  content: https://saemobilus.sae.org/standards/j29622_201907-communication-transceivers-qualification-requirements
+docidentifier:
+- content: SAE J2962/2_201907
+  type: SAE
+  primary: true
+- content: 10.4271/j2962/2_201907
+  type: DOI
+date:
+- type: approved
+  at: '2019-07-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Architecture For Data Communications Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document covers the requirements for transceiver qualification. Requirements stated in this document will provide a minimum standard level of performance for the CAN transceiver in the IC to which all compatible transceivers shall be designed. No other features in the IC are tested or qualified as part of this recommended practice. This will assure robust serial data communication among all connected devices, regardless of supplier.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The goal of SAE J2962-2 is to commonize approval processes of CAN transceivers across OEMs.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The intended audience includes, but is not limited to, CAN transceiver suppliers, component release engineers, and vehicle system engineers.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

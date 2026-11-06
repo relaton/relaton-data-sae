@@ -1,0 +1,57 @@
+---
+id: SAEAMS2530
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Tungsten Disulfide Coating, Thin Lubricating Film, Binder-Less Impingement
+    Applied
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2530
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2530-tungsten-disulfide-coating-thin-lubricating-film-binder-less-impingement-applied
+docidentifier:
+- content: SAE AMS2530
+  type: SAE
+  primary: true
+- content: 10.4271/ams2530
+  type: DOI
+date:
+- type: approved
+  at: '2010-01-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a coating consisting of tungsten disulfide without binders and not requiring a curing process.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,55 @@
+---
+id: SAEJ2190_199306
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Enhanced E/E Diagnostic Test Modes
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2190_199306
+- type: src
+  content: https://saemobilus.sae.org/standards/j2190_199306-enhanced-e-e-diagnostic-test-modes
+docidentifier:
+- content: SAE J2190_199306
+  type: SAE
+  primary: true
+- content: 10.4271/j2190_199306
+  type: DOI
+date:
+- type: approved
+  at: '1993-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This SAE Recommended Practice describes the implementation of Enhanced Diagnostic Test Modes, which are intended to supplement the legislated Diagnostic Test Modes defined in SAE J1979. Modes are defined for access to emission related test data beyond what is included in SAE J1979, and for non-emission related data. This document describes the data byte values for diagnostic messages transmitted between diagnostic test equipment, either on-vehicle or off-vehicle, and vehicle electronic control modules. No distinction is made between test modes for emission related and non-emission related diagnostics. These messages can be used with a diagnostic serial data link such as described in SAE J1850 or ISO 9141-2.
+
+    For each test mode, this document includes a functional description  of the test mode, request and report message data byte content, and an example if useful for clarification.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

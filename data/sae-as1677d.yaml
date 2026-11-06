@@ -1,0 +1,59 @@
+---
+id: SAEAS1677D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: General Requirements for Noncertified Cargo/Baggage Containers
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1677d
+- type: src
+  content: https://saemobilus.sae.org/standards/as1677d-general-requirements-noncertified-cargo-baggage-containers
+docidentifier:
+- content: SAE AS1677D
+  type: SAE
+  primary: true
+- content: 10.4271/as1677d
+  type: DOI
+date:
+- type: approved
+  at: '2018-10-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) covers the design, fabrication, performance and operational testing requirements for lower deck containers for use in main line aircraft which do not require airworthiness certification when loaded under the conditions of compartment restraint and in accordance with the aircraft's Weight and Balance Manual and/or, where applicable according to the aircraft type's approved Weight and Balance Manual, AS36100A or NAS 3610 equivalent base plate restraint for these containers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Most sizes of containers covered by this document (base sizes K, L, P, and Q) cannot physically be loaded and latched on aircraft main deck cargo systems. Base size A and M containers can, but are not allowed on aircraft main decks, which do not accept non-certified units. Accordingly, all containers covered by this document are to be used/installed exclusively in aircraft lower deck compartments.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;IATA 50/0, “ULD General technical requirements”, should also be taken into account when designing and making equipment.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

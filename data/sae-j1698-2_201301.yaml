@@ -1,0 +1,64 @@
+---
+id: SAEJ16982_201301
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Event Data Recorder - Retrieval Tool Protocol
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1698/2_201301
+- type: src
+  content: https://saemobilus.sae.org/standards/j16982_201301-event-data-recorder-retrieval-tool-protocol
+docidentifier:
+- content: SAE J1698/2_201301
+  type: SAE
+  primary: true
+- content: 10.4271/j1698/2_201301
+  type: DOI
+date:
+- type: approved
+  at: '2013-01-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Event Data Recorder Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Recommended Practice utilizes existing industry standards to identify a common physical interface and define the protocols necessary to retrieve records stored by light duty vehicle Event Data Recorders (EDRs). To accomplish this, the SAE J1962 Diagnostic Connector is designated as the primary physical interface for EDR Retrieval Tools.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This Recommended Practice is intended to be used for the development of EDR Retrieval Tools. Retrieval tools are intended to interface with light duty vehicles and to produce EDR Record Reports with data element formats specified by SAE J1698-1.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Limitations:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;This Recommend Practice specifies how EDR records should be imaged, translated, and reported by EDR Retrieval Tools. It does not specify how EDR records are recorded and stored by individual vehicles.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;This Recommended Practice addresses EDR Record Retrieval (including imaging and translating) via the connection to the vehicle’s SAE J1962 connector or via direct connection to an Electronic Control Unit (ECU) containing an EDR record. Direct connection to an ECU may require the use of specialized interface adapters.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEJ1312_198006
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PROCEDURE FOR MEASURING BASIC HIGHWAY VEHICLE ENGINE PERFORMANCE AND FUEL
+    CONSUMPTION–SPARK IGNITION AND DIESEL
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1312_198006
+- type: src
+  content: https://saemobilus.sae.org/standards/j1312_198006-procedure-measuring-basic-highway-vehicle-engine-performance-fuel-consumption-spark-ignition-diesel
+docidentifier:
+- content: SAE J1312_198006
+  type: SAE
+  primary: true
+- content: 10.4271/j1312_198006
+  type: DOI
+date:
+- type: approved
+  at: '1980-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Engine Power Test Code Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+    &lt;div class="htmlview paragraph"&gt;This procedure is specifically designed to determine a fuel rate versus torque map for heavy-duty spark ignition and diesel engines as determined at the DOT/SAE Truck &amp;amp; Bus Fuel Economy Measurement Conference April 21–23, 1975. This engine performance map, when combined with accessory losses, transmission and driveline losses, vehicle aerodynamics, etc., can be used with vehicle operating profiles in a computer program to simulate vehicle fuel economy.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Use of this procedure results in torque and fuel rate being measured at 30 data points, minimum, and friction torque, either measured or calculated, at five data points, minimum. Testing is accomplished using a procedure very similar to SAE J816b, but actually is quite different since this is a specific test for a specific purpose rather than a general test code as specified in J816b. It is recommended that the test be run at inlet air temperatures as near as possible to the standard specified in J816b so as to minimize correction. If correction of full load torque is required, it is done according to J816b.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The results of a test conducted according to this procedure are plotted as a fuel rate versus torque map for as many speeds as required to define the operating characteristics of the engine tested.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

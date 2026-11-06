@@ -1,0 +1,59 @@
+---
+id: SAEARP1801A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Measurement of Exterior Sound Level of Specialized Aircraft Ground Support
+    Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1801a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1801a-measurement-exterior-sound-level-specialized-aircraft-ground-support-equipment
+docidentifier:
+- content: SAE ARP1801A
+  type: SAE
+  primary: true
+- content: 10.4271/arp1801a
+  type: DOI
+date:
+- type: approved
+  at: '2021-09-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this SAE Recommended Practice covers specialized internal combustion engine powered equipment used in support of aircraft operations. The equipment may be self-propelled, truck mounted, trailer mounted, skid mounted or stationary. It does not include construction equipment or equipment designed primarily for operation on highways or within factories or building areas.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: Equivalent methodology is provided in (CEN) EN 1915-4, Aircraft ground support equipment - General requirements - Part 4: Noise measurement methods and reduction, to be used for measurements conforming to the EU Machinery Directive&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

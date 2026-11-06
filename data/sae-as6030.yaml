@@ -1,0 +1,66 @@
+---
+id: SAEAS6030
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Interface Standard, Common Interface Control Plan
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6030
+- type: src
+  content: https://saemobilus.sae.org/standards/as6030-interface-standard-common-interface-control-plan
+docidentifier:
+- content: SAE AS6030
+  type: SAE
+  primary: true
+- content: 10.4271/as6030
+  type: DOI
+date:
+- type: approved
+  at: '2011-01-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1B Aircraft Store Integration Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Common Interface Control Plan (CICP) establishes the methodology for developing, controlling and managing the technical interfaces between and within systems. The document is not intended to directly control any other aspects of program management, such as matters of contractual, financial or those of an intellectual property rights nature. Members in the interface control process include: procurement authorities, design authorities and other related agencies as defined in the specific System Interface Control Plan (SICP). For the purposes of this plan only the terms Procuring Organization and Producing Organization will be used. This plan is predicated upon formal agreements between participating organizations that provide:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Authority to participate in Interface Control Working Group (ICWG) and decision making processes.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Primary integration control, interface problem resolution, and interface impact assessments through the ICWG.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Higher level interface management under the purview of the appellate process as defined by this document and in the SICP.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAMS6372J
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Tubing, Mechanical 0.95Cr - 0.20Mo (0.33 - 0.38C) (SAE 4135)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6372j
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6372j-steel-tubing-mechanical-095cr-020mo-033-038c-sae-4135
+docidentifier:
+- content: SAE AMS6372J
+  type: SAE
+  primary: true
+- content: 10.4271/ams6372j
+  type: DOI
+date:
+- type: approved
+  at: '1999-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aircraft-quality, low-alloy steel in the form of mechanical tubing.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

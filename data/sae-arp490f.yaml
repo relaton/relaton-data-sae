@@ -1,0 +1,59 @@
+---
+id: SAEARP490F
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electrohydraulic Servovalves
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp490f
+- type: src
+  content: https://saemobilus.sae.org/standards/arp490f-electrohydraulic-servovalves
+docidentifier:
+- content: SAE ARP490F
+  type: SAE
+  primary: true
+- content: 10.4271/arp490f
+  type: DOI
+date:
+- type: approved
+  at: '2008-02-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6B1 Hydraulic Servo Actuation Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides definitions and background information for understanding the physical performance, and test procedures of electrohydraulic flow control servovalves.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The recommendations are confined to interface definition and input/output characteristics. This ARP does not restrict or attempt to define the internal characteristics of servovalves. As such, the recommendations are equally applicable to valves having different internal functioning, different ratings, different physical size, and valves used with different fluids. In certain instances, standards for valve design are recommended for the purpose of interchangeability, as for example, valve polarity, mounting bolt and fluid port locations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The ARP provides extensive guidance for the preparation of Procurement Specifications and for functional testing. A sample Procurement Specification is provided in &lt;span class="xref"&gt;Appendix A&lt;/span&gt;. The primary focus of this ARP is on four-way valves. Three-way valves are discussed to a limited extent and terminology for pressure control valves is presented in &lt;span class="xref"&gt;Appendix B&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This ARP is applicable to fluid power systems in all types of flight vehicles, and it is applicable to Military, Civil and Space design/certification standards. Additional specifications or specialized test procedures may be necessary to define special requirements for specific control systems, and such considerations are beyond the scope of this ARP.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

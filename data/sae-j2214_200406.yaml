@@ -1,0 +1,65 @@
+---
+id: SAEJ2214_200406
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Vehicle Electronic Programming Stations (VEPS) System Specification for
+    Programming Components at OEM Assembly Plants
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2214_200406
+- type: src
+  content: https://saemobilus.sae.org/standards/j2214_200406-vehicle-electronic-programming-stations-veps-system-specification-programming-components-oem-assembly-plants
+docidentifier:
+- content: SAE J2214_200406
+  type: SAE
+  primary: true
+- content: 10.4271/j2214_200406
+  type: DOI
+date:
+- type: approved
+  at: '2004-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The SAE J2214 specification describes the application of the  MS-DOS(TM)
+    computer between the OEM and component vendors, defines the required elements
+    comprising a Vehicle Electronics Programming Station, and identifies software
+    interfaces needed between OEM-supplied elements and vendor-supplied elements.
+    The software interfaces are described in SAE J2286 and SAE J1683. By maintaining
+    common elements with J1924, the orderly transition from vendor Communication Programs
+    to Vendor  Component Programs will be assured. Beyond clarification of the J1924
+    \ document, the changes to VEPS and Vendor Communications Programs are focused
+    on the implementation of a common method for communicating with the vehicle's
+    network for all vendor communications. The SAE J2214 specification describes the
+    application of the MS-DOS(TM) computer between the OEM and component vendors,
+    defines the required elements comprising a Vehicle Electronics Programming Station,
+    and identifies software interfaces needed between O component vendors.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

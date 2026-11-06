@@ -1,0 +1,56 @@
+---
+id: SAEAMS79_017
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Compound, Cleaning, Foaming, for Aircraft Surfaces
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams79_017
+- type: src
+  content: https://saemobilus.sae.org/standards/ams79_017-compound-cleaning-foaming-aircraft-surfaces
+docidentifier:
+- content: SAE AMS79-017
+  type: SAE
+  primary: true
+- content: 10.4271/ams79_017
+  type: DOI
+date:
+- type: approved
+  at: '2017-12-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS J Aircraft Maintenance Chemicals and Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard specifies requirements for a foaming liquid cleaning compound which, when diluted with water 1:9 v/v, is suitable for cleaning the soiled exterior of Service aircraft. The cleaning compound may be applied by spraying, either as foam or liquid, by brushing or by swabbing. The surfaces to be cleaned may be unpainted metal or surfaces painted with glossy or matt schemes, including strippable acrylic paint complying with DTD 5599. This Standard includes tests to limit specific forms of corrosion that affect aircraft structural materials.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAS60491A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Sleeve, Protection, for Cable and Harness Protection
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as60491a
+- type: src
+  content: https://saemobilus.sae.org/standards/as60491a-sleeve-protection-cable-harness-protection
+docidentifier:
+- content: SAE AS60491A
+  type: SAE
+  primary: true
+- content: 10.4271/as60491a
+  type: DOI
+date:
+- type: approved
+  at: '2019-10-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8D Wire and Cable Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Procurement specification is principally for defining protection sleeves on a cable or group of electrical/fiber optic wires (wiring bundle). Single wire protection depends on the minimum diameter of the wire. Sleeve may be used to protect a wire bundle for a platform installation or for repair of installed damaged jacket or jacket/shielded wire bundles. Refer to AS50881 for aerospace wire bundle protection installations.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAS4156
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: COLOR-CODED INCANDESCENT FLANGE BASE T1 AND T1-3/4 LAMPS FOR VOLTAGE IDENTIFICATION
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4156
+- type: src
+  content: https://saemobilus.sae.org/standards/as4156-color-coded-incandescent-flange-base-t1-t1-3-4-lamps-voltage-identification
+docidentifier:
+- content: SAE AS4156
+  type: SAE
+  primary: true
+- content: 10.4271/as4156
+  type: DOI
+date:
+- type: approved
+  at: '1991-03-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20AC Crew Station and Interior Lighting Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document defines the method for voltage identification by use of color coded insulators at the base of the lamp. &lt;span class="xref"&gt;Table 1&lt;/span&gt; shows lamp part numbers and corresponding insulator colors. Insulator colors are to be easily distinguishable as red, yellow, and green. &lt;span class="xref"&gt;Tables 2&lt;/span&gt; and &lt;span class="xref"&gt;3&lt;/span&gt; show complete descriptions of the lamps involved for the T1-3/4 and T1 lamps respectively. New lamp part numbers may be added by a revision process as required.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

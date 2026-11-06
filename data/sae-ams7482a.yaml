@@ -1,0 +1,57 @@
+---
+id: SAEAMS7482A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STUDS, STEEL, CORROSION AND HEAT RESISTANT Roll Threaded after Heat Treatment
+    1800° F (980° C) Solution Heat Treatment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7482a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7482a-studs-steel-corrosion-heat-resistant-roll-threaded-heat-treatment-1800-f-980-c-solution-heat-treatment
+docidentifier:
+- content: SAE AMS7482A
+  type: SAE
+  primary: true
+- content: 10.4271/ams7482a
+  type: DOI
+date:
+- type: approved
+  at: '1979-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers high-quality studs made from a corrosion and heat resistant steel.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

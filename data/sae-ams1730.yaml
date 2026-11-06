@@ -1,0 +1,56 @@
+---
+id: SAEAMS1730
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: UREA COMPOUND, SHOTTED
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams1730
+- type: src
+  content: https://saemobilus.sae.org/standards/ams1730-urea-compound-shotted
+docidentifier:
+- content: SAE AMS1730
+  type: SAE
+  primary: true
+- content: 10.4271/ams1730
+  type: DOI
+date:
+- type: approved
+  at: '2002-07-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12 Aircraft Ground Deicing Steering Group
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a urea compound in the form of a solid.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

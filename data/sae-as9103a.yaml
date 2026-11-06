@@ -1,0 +1,62 @@
+---
+id: SAEAS9103A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Series - Quality Management Systems - Variation Management of
+    Key Characteristics
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9103a
+- type: src
+  content: https://saemobilus.sae.org/standards/as9103a-aerospace-series-quality-management-systems-variation-management-key-characteristics
+docidentifier:
+- content: SAE AS9103A
+  type: SAE
+  primary: true
+- content: 10.4271/as9103a
+  type: DOI
+date:
+- type: approved
+  at: '2012-08-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard is primarily intended to apply to new parts and products, but can also be applied to parts currently in production. The standard shall be applicable to all production processes, that influence the variation of KCs, as well as maintenance processes in which KCs are identified. It applies to assemblies and all levels of parts within an assembly, down to the basic materials including castings and forgings, and to organizations that are responsible for producing the design characteristics of the product.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It does not apply to lab-scale, pilot, or pre-production processes. However, particular management of some KCs might be required using other methods than those described in the standard, during these phases of a program, when required by the customer or deemed appropriate by the organization (e.g., Engineering department requirement).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The variation control process begins with product definition, typically an engineering drawing or specification which identifies KCs, and leads to a variation management program for those KCs. This process may also be used for producer-identified KCs.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Producers and their subcontractors shall be responsible for flow down of the requirements of the applicable revision of this standard to subcontractors, who produce design characteristics, and for ensuring that KCs conform to customer requirements.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

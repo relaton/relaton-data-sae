@@ -1,0 +1,59 @@
+---
+id: SAEJ111325_200507
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electromagnetic Compatibility Measurement Procedure for Vehicle Components--Immunity
+    to Radiated Electromagnetic Fields, 10 KHz to 1000 MHz--Tri-Plate Line Method
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1113/25_200507
+- type: src
+  content: https://saemobilus.sae.org/standards/j111325_200507-electromagnetic-compatibility-measurement-procedure-vehicle-components-immunity-radiated-electromagnetic-fields-10-khz-1000-mhz-tri-plate-line-method
+docidentifier:
+- content: SAE J1113/25_200507
+  type: SAE
+  primary: true
+- content: 10.4271/j1113/25_200507
+  type: DOI
+date:
+- type: approved
+  at: '2005-07-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This procedure covers the recommended testing techniques for the determination of radiated immunity of an automotive electronic device. This technique uses a Tri-Plate Line (TPL) operating over a frequency range from 10 KHz to 1000 MHz. This technique is limited to components which have a maximum height of equal to or less than 1/3 the height between the driven element and the outer, ground plates.&lt;/p&gt;
+    &lt;p&gt;A TPL, a variation of a TEM cell design, is constructed without sides to the cell. The primary advantage to the use of the TPL as opposed to a TEM cell is that its construction permits large devices to be placed within the cell with their associated cables attached without special feed through ports or adapters as required for a TEM cell. The lack of sides which would be found in a TEM cell permits easy routing of the cables to and from the Equipment Under Test (DUT).&lt;/p&gt;
+    &lt;p&gt;The TPL does not have a serious problem with fields reflected from the side walls as does with the TEM cell. This permits its use to frequencies above that of a TEM cell of the same physical size. Note that although the construction of the TPL limits generation of uniform electric and magnetic fields to frequencies below 500 MHz, experience has shown that the TPL may be used at frequencies up to 1 GHz and still provide reasonable and repeatable test results. This may only occur if the test setup requirements (i.e., DUT plus 1 meter of cable) and characterization procedures, delineated in this SAE Standard permits its use to frequencies above that of a TEM cell of the same physical size. Note that although the construction of the TPL limits generation of uniform electric and magnetic fields to frequencies below 500 MHz, experience has shown that the TPL may be used at frequencies up to 1 GHz and still provide reasonable and repeatable test results. This may only occur if the test setup requirements (i.e., DUT plus 1 meter of cable) and characterization procedures, delineated in this SAE Standard are followed.&lt;/p&gt;
+    &lt;p&gt;The lack of side walls also means that the TPL must be used within an RF shielded enclosure to prevent RF energy, radiated from the TPL from interfering with near-by electronic devices. To prevent potential resonances and reflected waves within the shielded enclosure from distorting the fields produced within the TPL, the test chamber walls and ceiling must be lined with RF absorbing material. These issues are discussed in greater detail in the body of this are followed.&lt;/p&gt;
+    &lt;p&gt;The lack of side walls also means that the TPL must be used within an RF shielded enclosure to prevent RF energy, radiated from the TPL from interfering with near-by electronic devices. To prevent potential resonances and reflected waves within the shielded enclosure from distorting the fields produced within the TPL, the test chamber walls and ceiling must be lined with RF absorbing material. These issues are discussed in greater detail in the body of this document.&lt;/p&gt;
+    &lt;p&gt;CAUTION--Hazardous voltages and fields exist on and near the TPL when the equipment is energized. Test personnel should ensure that no one is in the test chamber during a test. It is the intent of the EMI committee to withdraw this document in five years unless there is a demand to retain the document&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

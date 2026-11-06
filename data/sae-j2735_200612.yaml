@@ -1,0 +1,57 @@
+---
+id: SAEJ2735_200612
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Dedicated Short Range Communications (DSRC) Message Set Dictionary
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2735_200612
+- type: src
+  content: https://saemobilus.sae.org/standards/j2735_200612-dedicated-short-range-communications-dsrc-message-set-dictionary
+docidentifier:
+- content: SAE J2735_200612
+  type: SAE
+  primary: true
+- content: 10.4271/j2735_200612
+  type: DOI
+date:
+- type: approved
+  at: '2006-12-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Core Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice is intended as a guide toward standard practice and is subject to change to keep pace with experience and technical advances. This SAE Recommended Practice specifies standard message sets, data frames and data elements for use by applications intended to utilize the 5.9 GHz Dedicated Short Range Communications for Wireless Access in Vehicular Environments (DSRC/WAVE, referenced in this document simply as “DSRC”), communications systems. The scope is limited to specifying initial representative message structure and providing sufficient background information to allow readers to properly interpret the DSRC standards and message definitions from the point of view of an application developer.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

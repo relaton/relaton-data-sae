@@ -1,0 +1,60 @@
+---
+id: SAEJ2521_202210
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Inertia Dynamometer Brake Squeal Noise Test Procedure for Vehicles without
+    Regenerative Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2521_202210
+- type: src
+  content: https://saemobilus.sae.org/standards/j2521_202210-inertia-dynamometer-brake-squeal-noise-test-procedure-vehicles-without-regenerative-systems
+docidentifier:
+- content: SAE J2521_202210
+  type: SAE
+  primary: true
+- content: 10.4271/j2521_202210
+  type: DOI
+date:
+- type: approved
+  at: '2022-10-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Brake NVH Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The SAE J2521 procedure applies to high-frequency squeal noise occurrences for on-road passenger cars and light trucks below 4540 kg of GVWR. The procedure incorporates high-temperature and low-temperature test matrixes but does not fully account for the effects of the environment on brake squeal.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For this test procedure, squeal occurs when the peak noise level is at least 70 dB(A) between 1.25 kHz and 16 kHz for tests using full suspension corners or full axle assemblies or between 2 kHz and 16 kHz for brakes not using a full suspension corner.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Before using this recommended practice for chassis dynamometer testing, review in detail the specifics related to at least (a) instrumentation, including in-cabin microphones, (b) threshold levels for noise detection, (c) temperature control priority between the front and rear axles, (d) vehicle loading and load distribution, (e) cooling air and environmental conditioning, and (f) detailed nomenclature and labeling of channels and sensors.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

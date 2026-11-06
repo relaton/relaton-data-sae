@@ -1,0 +1,57 @@
+---
+id: SAEAIR1869
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Information Report AIR 1869 Wide-Body and Standard-Body Aircraft
+    Lower Lobe Cargo Compartment ULD Capacities
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1869
+- type: src
+  content: https://saemobilus.sae.org/standards/air1869-aerospace-information-report-air-1869-wide-body-standard-body-aircraft-lower-lobe-cargo-compartment-uld-capacities
+docidentifier:
+- content: SAE AIR1869
+  type: SAE
+  primary: true
+- content: 10.4271/air1869
+  type: DOI
+date:
+- type: approved
+  at: '1984-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AIR covers information relative to container and pallet configurations (ULDs), maximum usable container, pallet and bulk compartment volumes, tare weights and cargo door sizes for the lower lobe of various wide-body aircraft. Bulk compartment volumes are also included for standard-body aircraft.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEARP1862A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CLEANING EFFICIENCY OF TURBINE ENGINE GAS PATH CLEANERS Laboratory Test
+    Method
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1862a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1862a-cleaning-efficiency-turbine-engine-gas-path-cleaners-laboratory-test-method
+docidentifier:
+- content: SAE ARP1862A
+  type: SAE
+  primary: true
+- content: 10.4271/arp1862a
+  type: DOI
+date:
+- type: approved
+  at: '2018-08-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS J Aircraft Maintenance Chemicals and Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) covers a laboratory procedure for determining the cleaning efficiency of aircraft turbine engine gas path cleaners. Results are indicative of cleaning compound performance in the compressor sections of installed aircraft turbine engines, when used in a starter crank/soak/rinse application.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

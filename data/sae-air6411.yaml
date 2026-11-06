@@ -1,0 +1,56 @@
+---
+id: SAEAIR6411
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Effects of Extremely Cold Temperature on Landing Gear Operation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6411
+- type: src
+  content: https://saemobilus.sae.org/standards/air6411-effects-extremely-cold-temperature-landing-gear-operation
+docidentifier:
+- content: SAE AIR6411
+  type: SAE
+  primary: true
+- content: 10.4271/air6411
+  type: DOI
+date:
+- type: approved
+  at: '2022-03-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5 Aerospace Landing Gear Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides information on landing gear operation in cold temperature environments. It covers all operational aspects during ground handling, takeoff, and landing. It includes effects on tires, brakes, shock struts, seals, and actuators.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,55 @@
+---
+id: SAEAS9012A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace First Article Inspection Requirements
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9012a
+- type: src
+  content: https://saemobilus.sae.org/standards/as9012a-aerospace-first-article-inspection-requirements
+docidentifier:
+- content: SAE AS9012A
+  type: SAE
+  primary: true
+- content: 10.4271/as9012a
+  type: DOI
+date:
+- type: approved
+  at: '2003-04-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This SAE Aerospace Standard (AS) establishes documentation requirements for the First Article Inspection (FAI).&lt;/p&gt;
+    &lt;p&gt;The purpose of the First Article Inspection is to provide objective evidence the all engineering design and specification requirements are properly understood, accounted for, verified, and documented. The purpose of this document is to provide a consistent documentation requirement for aerospace components First Article Inspection.&lt;/p&gt;
+    &lt;p&gt;It is the intent that the documentation generated will be a quality record of the supplier and customer for review of accountability and planning, for performing periodic surveillance and audits to verify conformance, for evaluating root cause and corrective action for any non-conformance, and for problem ionvestigations.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

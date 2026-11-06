@@ -1,0 +1,56 @@
+---
+id: SAEAMS4751B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TIN - LEAD ALLOY EUTECTIC SOLDER 63Sn - 37Pb
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4751b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4751b-tin-lead-alloy-eutectic-solder-63sn-37pb
+docidentifier:
+- content: SAE AMS4751B
+  type: SAE
+  primary: true
+- content: 10.4271/ams4751b
+  type: DOI
+date:
+- type: approved
+  at: '1994-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a tin-lead alloy in the form of bars, ingots, pellets, ribbon, and round wire.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

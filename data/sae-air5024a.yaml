@@ -1,0 +1,56 @@
+---
+id: SAEAIR5024A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Landing Gear Switch Selection Criteria
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5024a
+- type: src
+  content: https://saemobilus.sae.org/standards/air5024a-landing-gear-switch-selection-criteria
+docidentifier:
+- content: SAE AIR5024A
+  type: SAE
+  primary: true
+- content: 10.4271/air5024a
+  type: DOI
+date:
+- type: approved
+  at: '2022-07-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this document is to discuss the differences between electromechanical and proximity position sensing devices (sensor or switch) when used on landing gear. It also contains information which may be helpful when applying either type of technology after the selection has been made. The purpose is to help the designer make better choices when selecting a position-sensing device. Once that choice has been made, this document includes information to improve the reliability of new or current designs. It is not intended to replace recommendations from sensor manufacturers or actual experience, but to provide a set of general guidelines based on historic infromation of what is being used.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

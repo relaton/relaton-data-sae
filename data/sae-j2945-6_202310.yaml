@@ -1,0 +1,64 @@
+---
+id: SAEJ29456_202310
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Performance Requirements for Cooperative Adaptive Cruise Control (CACC)
+    and Platooning
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2945/6_202310
+- type: src
+  content: https://saemobilus.sae.org/standards/j29456_202310-performance-requirements-cooperative-adaptive-cruise-control-cacc-platooning
+docidentifier:
+- content: SAE J2945/6_202310
+  type: SAE
+  primary: true
+- content: 10.4271/j2945/6_202310
+  type: DOI
+date:
+- type: approved
+  at: '2023-10-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Vehicular Applications Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard provides the guideline for enhancements to adaptive cruise control (ACC) by the addition of wireless communication from relevant vehicles (V2V) and/or the infrastructure (I2V) to augment the ACC active sensing capability. The CACC system operates under driver responsibility and supervision and is limited to the following:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Does only longitudinal control of the vehicle.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Uses time gap control strategy similar to ACC.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;Motor vehicles covered in the scope of this document include light and heavy vehicles. The message elements to realize CACC and platooning are part of the scope.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The initial release covers definitions for CACC and platooning and requirements for CACC, while a subsequent release will cover the platooning requirements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEJ398_198802
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FUEL TANK FILLER CONDITIONS - PASSENGER CAR, MULTI-PURPOSE PASSENGER VEHICLES,
+    AND LIGHT DUTY TRUCKS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j398_198802
+- type: src
+  content: https://saemobilus.sae.org/standards/j398_198802-fuel-tank-filler-conditions-passenger-car-multi-purpose-passenger-vehicles-light-duty-trucks
+docidentifier:
+- content: SAE J398_198802
+  type: SAE
+  primary: true
+- content: 10.4271/j398_198802
+  type: DOI
+date:
+- type: approved
+  at: '1988-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice defines conditions for evaluating the compatibility of vehicle fuel tanks and filler pipes with fuel dispensing facilities equipped with standard (non-vapor recovery) configuration as well as vapor recovery type nozzles. It applies to passenger cars, multi-purpose passenger vehicles, and light-duty trucks (10 000 lb (4536 kg) maximum gvw), (Ref. J1100, Motor Vehicle Dimensions). It includes a technique for filling a tank full that can be used to establish a reference condition for other tests which require starting with a full tank.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

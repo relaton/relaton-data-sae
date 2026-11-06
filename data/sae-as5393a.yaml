@@ -1,0 +1,58 @@
+---
+id: SAEAS5393A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Health and Usage Monitoring System, Blade Tracker Interface Specification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5393a
+- type: src
+  content: https://saemobilus.sae.org/standards/as5393a-health-usage-monitoring-system-blade-tracker-interface-specification
+docidentifier:
+- content: SAE AS5393A
+  type: SAE
+  primary: true
+- content: 10.4271/as5393a
+  type: DOI
+date:
+- type: approved
+  at: '2020-04-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: HM-1R Rotorcraft Integrated Vehicle Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Blade trackers measure: (a) rotor blade height and (b) lead-lag for use in a Rotor Track and Balance (RT&amp;amp;B) function in a Health and Usage Monitoring System (HUMS). HUMS is a generic term for a system used to measure, monitor, process, and store information relating to the functioning and usage of an aircraft's on-board primary systems, including the engine(s).&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

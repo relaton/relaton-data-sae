@@ -1,0 +1,56 @@
+---
+id: SAEAIR728
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ELECTRONIC EQUIPMENT COOLING DESIGN CONCEPTS FOR HIGH MACH NUMBER AIRCRAFT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air728
+- type: src
+  content: https://saemobilus.sae.org/standards/air728-electronic-equipment-cooling-design-concepts-high-mach-number-aircraft
+docidentifier:
+- content: SAE AIR728
+  type: SAE
+  primary: true
+- content: 10.4271/air728
+  type: DOI
+date:
+- type: approved
+  at: '1963-01-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This publication outlines general design concepts considered the minimum acceptable standards for use in electrical and electronic equipment. The objective is increased reliability of the equipment without penalizing the aircraft performance.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

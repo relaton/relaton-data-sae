@@ -1,0 +1,53 @@
+---
+id: SAEAMS7846A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Tantalum Alloy Bars and Rods, 90Ta - 10W, Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7846a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7846a-tantalum-alloy-bars-rods-90ta-10w-annealed
+docidentifier:
+- content: SAE AMS7846A
+  type: SAE
+  primary: true
+- content: 10.4271/ams7846a
+  type: DOI
+date:
+- type: approved
+  at: '2006-09-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G Titanium and Refractory Metals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers a tantalum alloy in the form of bars and
+    rods.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

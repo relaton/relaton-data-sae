@@ -1,0 +1,69 @@
+---
+id: SAEAMS4412C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Sheet, 3.2Cu - 0.52Mg - 0.30Ag - 0.95 Li - 0.12Zr (2198-T8),
+    Solution Heat Treated, Cold Worked, and Artificially Aged
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4412c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4412c-aluminum-alloy-sheet-32cu-052mg-030ag-095-li-012zr-2198-t8-solution-heat-treated-cold-worked-artificially-aged
+docidentifier:
+- content: SAE AMS4412C
+  type: SAE
+  primary: true
+- content: 10.4271/ams4412c
+  type: DOI
+date:
+- type: approved
+  at: '2026-04-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of sheet from 0.063 to 0.249 inch (1.60 to 6.30 mm) in nominal thickness (see &lt;span class="xref"&gt;8.6&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

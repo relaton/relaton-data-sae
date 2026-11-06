@@ -1,0 +1,57 @@
+---
+id: SAEARP4990B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Turbine Flowmeter Fuel Flow Calculations
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4990b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4990b-turbine-flowmeter-fuel-flow-calculations
+docidentifier:
+- content: SAE ARP4990B
+  type: SAE
+  primary: true
+- content: 10.4271/arp4990b
+  type: DOI
+date:
+- type: approved
+  at: '2020-10-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EG-1E Gas Turbine Test Facilities and Equipment
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides to the aerospace industry a procedure for the consistent and accurate calculation of fuel flow using turbine flowmeters during development, production, and post overhaul/repair gas turbine engine testing.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

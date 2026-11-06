@@ -1,0 +1,57 @@
+---
+id: SAEAS8044
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TAKEOFF PERFORMANCE MONITOR (TOPM) SYSTEM, AIRPLANE, MINIMUM PERFORMANCE
+    STANDARD FOR
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8044
+- type: src
+  content: https://saemobilus.sae.org/standards/as8044-takeoff-performance-monitor-topm-system-airplane-minimum-performance-standard
+docidentifier:
+- content: SAE AS8044
+  type: SAE
+  primary: true
+- content: 10.4271/as8044
+  type: DOI
+date:
+- type: approved
+  at: '2007-07-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-7 Flight Deck Handling Qualities Stds for Trans Aircraft
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Standard (AS), establishes minimum performance standards for those sensors, computers, transponders, and airplane flight deck controls/displays which together comprise a Takeoff Performance Monitor (TOPM) System. This standard also defines functional capabilities, design requirements, and test procedures. A TOPM system is intended to monitor the progress of the takeoff and to provide advisory information which the crew may use in conjunction with other available cues to decide to continue or abort the takeoff. See &lt;span class="xref"&gt;Appendix A&lt;/span&gt; for supplementary information relating to NTSB, CAA, and ad hoc committee concerns and background information.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

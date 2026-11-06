@@ -1,0 +1,57 @@
+---
+id: SAEJ111342_201012
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electromagnetic Compatibility—Component Test Procedure—Part 42—Conducted
+    Transient Emissions
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1113/42_201012
+- type: src
+  content: https://saemobilus.sae.org/standards/j111342_201012-electromagnetic-compatibility-component-test-procedure-part-42-conducted-transient-emissions
+docidentifier:
+- content: SAE J1113/42_201012
+  type: SAE
+  primary: true
+- content: 10.4271/j1113/42_201012
+  type: DOI
+date:
+- type: approved
+  at: '2010-12-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard defines a component-level test procedure to evaluate automotive electrical and electronic components for Conducted Emissions of transients, and for other electromagnetic disturbances, along battery feed (B+) or switched ignition inputs of a Device Under Test (DUT). Test apparatus specifications outlined in this procedure were developed for components installed in the 12-V passenger cars, light trucks, 12 V heavy-duty trucks, and vehicles with 24 V systems.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

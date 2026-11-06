@@ -1,0 +1,54 @@
+---
+id: SAEAMS3185A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hydraulic Fluid, Nonflammable Chlorotrifluoroethylene (Ctfe) Base
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3185a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3185a-hydraulic-fluid-nonflammable-chlorotrifluoroethylene-ctfe-base
+docidentifier:
+- content: SAE AMS3185A
+  type: SAE
+  primary: true
+- content: 10.4271/ams3185a
+  type: DOI
+date:
+- type: approved
+  at: '1999-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This specification covers a nonflammable hydraulic fluid, composed with a chlorotrifluoroethylene (CTFE) base, in the form of a liquid.&lt;/p&gt;
+    &lt;p&gt;This fluid has been used typically for hydraulic systems of aircraft and selected armored vehicles for usage in the temperature range -65 to +275 degrees F (-54 to +135 degrees C), but usage is not limited to such applications.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

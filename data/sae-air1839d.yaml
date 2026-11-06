@@ -1,0 +1,57 @@
+---
+id: SAEAIR1839D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: A Guide to Aircraft Turbine Engine Vibration Monitoring Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1839d
+- type: src
+  content: https://saemobilus.sae.org/standards/air1839d-a-guide-aircraft-turbine-engine-vibration-monitoring-systems
+docidentifier:
+- content: SAE AIR1839D
+  type: SAE
+  primary: true
+- content: 10.4271/air1839d
+  type: DOI
+date:
+- type: approved
+  at: '2017-01-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This Aerospace Information Report (AIR) is a general overview of typical
+    airborne engine vibration monitoring (EVM) systems applicable to fixed or rotary
+    wing aircraft applications, with an emphasis on system design considerations.
+    It describes EVM systems currently in use and future trends in EVM development.
+    The broader scope of Health and Usage Monitoring Systems, (HUMS ) is covered in
+    SAE documents AS5391, AS5392, AS5393, AS5394, AS5395, AIR4174.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,78 @@
+---
+id: SAEAS8034C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Minimum Performance Standard for Airborne Multipurpose Electronic Displays
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8034c
+- type: src
+  content: https://saemobilus.sae.org/standards/as8034c-minimum-performance-standard-airborne-multipurpose-electronic-displays
+docidentifier:
+- content: SAE AS8034C
+  type: SAE
+  primary: true
+- content: 10.4271/as8034c
+  type: DOI
+date:
+- type: approved
+  at: '2018-07-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4ED Electronics Display Subcommittee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) specifies minimum performance standards for all types of electronic displays and electronic display systems that are intended for use in the flight deck by the flight crew in all 14 CFR Part 23, 25, 27, and 29 aircraft. The requirements and recommendations in this document are intended to apply to all installed electronic displays and electronic display systems including those that have a touch screen interface within the flight deck, regardless of intended function, criticality, or location within the flight deck, but may also be used for non-installed electronic displays. This document provides baseline requirements and recommendations (see &lt;span class="xref"&gt;2.3&lt;/span&gt; for definitions of “shall” and “should”). This document primarily addresses hardware requirements, such as electrical, mechanical, optical, and environmental. It does not address system specific functions. It does not contain an exhaustive or comprehensive list of requirements for specific systems or functions, such as TCAS, ADS-B, GPS, weather, or shared display considerations (e.g., when should alerts be inhibited on a display system that simultaneously depicts navigation data integrated with terrain data or traffic alerting). This document is intended to be used in combination with other guidance material contained in current system specific, TSOs, Advisory Circulars (ACs), and other Federal Aviation Administration (FAA)-approved guidance material.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The requirements and recommendations in this document are intended to apply to, but are not limited to, the following types of display functions:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Primary flight and primary navigation which include vertical situation, horizontal situation, and moving map displays.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Systems display and displays that have alerting functions which may include engine instrument, aircraft systems information/control, pilot or flight crew alerting, and documentation displays.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Control displays including communication, navigation, and system control displays.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Information displays which may include navigation displays used for situation awareness only, supplemental data displays, and maintenance displays.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;Electronic displays can include one or more of the following interconnected components. Other configurations are possible.&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Symbol Generator/Processor Unit (SG) containing display processing and symbol generation processing and symbol generation capability, power supplies, interface logic/buffer circuits and display unit interface capability. The SG receives data from external sources, produces symbols as electronic signals, and transmits the symbols to the display units(s).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Control Panel (CP) is an optional component providing the means for manually selecting display symbology options/modes, selections, settings, brightness, etc.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Touch Screen (TS) is an optional component providing the means for manually selecting display symbology options/modes, selections, settings, brightness, etc.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Display Unit (DU) providing the visual display of SG symbology.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;Head up displays are out of scope for this document. The minimum performance standards for head up displays are provided in AS8055A.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: This document is expected to be used by the FAA as the basic requirement for a Technical Standard Order (TSO) for multipurpose electronic displays. While not required, ARP1874 and ARP4067 give recommended means, but not the only means, of compliance to this standard for CRT based displays. In addition, while not required, ARP4256 gives recommended means, but not the only means, of compliance to this standard for Part 25 LCD displays. That document is subject to change to keep pace with experience and technical advances. A similar document for Part 23 aircraft does not exist at this time, however these documents may be used as the basis for electronic displays intended to be installed in Part 23, 27, and 29 aircraft, realizing that additional requirements may also apply.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

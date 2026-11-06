@@ -1,0 +1,57 @@
+---
+id: SAEAMS6544
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL PLATE 2.0Cr - 10Ni - 8.0Co - 1.0Mo (0.10 - 0.14C) Premium Quality,
+    Vacuum Melted, Solution Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6544
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6544-steel-plate-20cr-10ni-80co-10mo-010-014c-premium-quality-vacuum-melted-solution-heat-treated
+docidentifier:
+- content: SAE AMS6544
+  type: SAE
+  primary: true
+- content: 10.4271/ams6544
+  type: DOI
+date:
+- type: approved
+  at: '1975-09-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a premium-quality, low-alloy steel in the form of rolled or forged plate.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

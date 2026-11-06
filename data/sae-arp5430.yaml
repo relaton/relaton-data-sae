@@ -1,0 +1,85 @@
+---
+id: SAEARP5430
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Human Interface Criteria for Vertical Situation Awareness Displays
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5430
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5430-human-interface-criteria-vertical-situation-awareness-displays
+docidentifier:
+- content: SAE ARP5430
+  type: SAE
+  primary: true
+- content: 10.4271/arp5430
+  type: DOI
+date:
+- type: approved
+  at: '2013-01-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10EAB Executive Advisory Group
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) sets forth design and operational recommendations concerning the human factors/crew interface considerations and criteria for vertical situation awareness displays. This is the first of two recommended practice documents that will address vertical situation awareness displays (VSAD). This document will focus on the performance/planning types of display (e.g., the map display) and will be limited to providing recommendations concerning human factored crew interfaces and will not address architecture issues. This document focuses on two types of VSAD displays: a coplanar implementation of a profile display (side projection) and a conventional horizontal map display; and a 3D map display (geometric projection). It is intended for head down display applications. However, other formats or presentation methods, such as HUDs, HMDs and 3D audio presentations may become more feasible in the future. Even though the relationship of the vertical information and the horizontal map display will be addressed, it is not within the scope of this document to cover Raster Aeronautical Charting displays, or the presentation of vertical status information in horizontal map displays (e.g., altitude errors; altitude range arcs). A second ARP document will be developed to provide recommended practices for the control types of display (e.g., primary flight display) one of which will be a perspective primary flight display.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In this document, the display and control characteristics are covered for displays that contain vertical situation components as well as the alerting depiction associated with the VSAD. It is assumed that the vertical situation awareness may be provided by one or more crew interface component(s). Although the system functionality assumed for this document exemplifies fixed-wing aircraft implementation, the recommendations do not preclude other aircraft types. The recommendations contained in this document address currently envisioned functionality for a vertical situation awareness display, namely: stabilization of flight path; aircraft energy management; vertical navigation, as well as external hazards such as weather, traffic, and terrain. Since this document provides recommendations, the guidance is provided in the form of “should” statements as opposed to the “shall” statements that appear in standards and regulations. When “shall” statements are used, the regulation or standard is referenced (where applicable).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The assumptions about the system that guided and bounded the recommendations contained in this document include:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;the system is an on-board (flight deck based) system displaying vertical situation information to the flight crew; multiple sources of vertical position data will be used and some of the data may be transmitted to the airplane from the ground or satellite&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;no changes to the existing airspace infrastructure should be required&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;there will be pilot-in-the-loop/manual or automatic involvement in all flight path adjustments&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;information provided should be accessible by all pilots&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;the system will address fixed wing airplane types&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;the system will be based on the English language, but other languages may have to be considered&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;the system may be operated during all phases of flight&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;the system may be operated under different metric conventions (e.g., QFE/QNH or feet/meters)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;the VSAD is not intended to replace any of the alerting system components (EICAS, TAWS, TCAS, GPWS, Altitude Alert, etc.). There will, however, be a close relationship between the VSAD and TAWS since both use some of the same sensors, data bases, and address some of the same issues&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;human centered design principles will be applied to the system design&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;“lessons learned” from past implementations will be applied to the design&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;the display function may be stand-alone or part of a multi-function display&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;the display will meet harmonized certification requirements and it will be designed with the understanding that if it is in the flight deck the flight crew will use it.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

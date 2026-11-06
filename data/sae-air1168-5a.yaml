@@ -1,0 +1,56 @@
+---
+id: SAEAIR11685A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerothermodynamic Test Instrumentation and Measurement
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1168/5a
+- type: src
+  content: https://saemobilus.sae.org/standards/air11685a-aerothermodynamic-test-instrumentation-measurement
+docidentifier:
+- content: SAE AIR1168/5A
+  type: SAE
+  primary: true
+- content: 10.4271/air1168/5a
+  type: DOI
+date:
+- type: approved
+  at: '2011-07-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Like the technologies to which it contributes, the science of instrumentation seems to be expanding to unlimited proportions. In considering instrumentation techniques, primary emphasis was given in this section to the fundamentals of pressure, temperature, and flow measurement. Accent was placed on common measurement methods, such as manometers, thermocouples, and head meters, rather than on difficult and specialized techniques. Icing, humidity, velocity, and other special measurements were touched on briefly. Many of the references cited were survey articles or texts containing excellent bibliographies to assist a more detailed study where required.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

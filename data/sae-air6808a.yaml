@@ -1,0 +1,58 @@
+---
+id: SAEAIR6808A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Vehicle Wiring, Lessons Learned
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6808a
+- type: src
+  content: https://saemobilus.sae.org/standards/air6808a-aerospace-vehicle-wiring-lessons-learned
+docidentifier:
+- content: SAE AIR6808A
+  type: SAE
+  primary: true
+- content: 10.4271/air6808a
+  type: DOI
+date:
+- type: approved
+  at: '2024-03-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8A Elec Wiring and Fiber Optic Interconnect Sys Install
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AIR is limited to the requirements of AS50881 and examines these requirements, providing rationale behind them. AS50881 is only applicable to the aircraft EWIS. Pods and other devices that can be attached to an aircraft are considered as part of the aircraft equipment design. Its scope does not include wiring inside of airborne electronic equipment but does apply to wiring externally attached to such equipment. The AS50881 scope does not include attached devices but does include the interface between the pod/equipment and aircraft wiring. Section &lt;span class="xref"&gt;3.3.5&lt;/span&gt; addresses components such as antennas and other similar equipment that were once supplied as Government Furnished Aeronautical/Aerospace Equipment (GFAE).&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

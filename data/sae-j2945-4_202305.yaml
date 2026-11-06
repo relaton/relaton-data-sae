@@ -1,0 +1,70 @@
+---
+id: SAEJ29454_202305
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Road Safety Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2945/4_202305
+- type: src
+  content: https://saemobilus.sae.org/standards/j29454_202305-road-safety-applications
+docidentifier:
+- content: SAE J2945/4_202305
+  type: SAE
+  primary: true
+- content: 10.4271/j2945/4_202305
+  type: DOI
+date:
+- type: approved
+  at: '2023-05-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Core Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard specifies message set requirements for roadside safety applications, including detailed systems engineering documentation (needs and requirements mapped to appropriate data exchanges). The applications include:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Curve speed warning (CSW)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Reduced speed zone warning (RSZW)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Lane closure warning (LCW)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Dynamic traveler information (DTI)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Incident information (INC)&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;This document defines a new road safety message (RSM) and the use of infrastructure-to-vehicle communications capabilities defined in other standards, including SAE Standards, and the National ITS Architecture. This does not define a single, generic, broadcast application for infrastructure systems, but a message set and structures to support the above listed applications.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The new message and its structure enable additional applications to add new material to the common framework that is defined herein. This allows further development and deployment of new applications with new message content in the future.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The purpose of this document is to enable roadside safety application interoperability using I2V communications, although its use with V2V and V2X is anticipated and not precluded.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

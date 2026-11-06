@@ -1,0 +1,57 @@
+---
+id: SAEAIR1839A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: A GUIDE TO AIRCRAFT TURBINE ENGINE VIBRATION MONITORING SYSTEMS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1839a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1839a-a-guide-aircraft-turbine-engine-vibration-monitoring-systems
+docidentifier:
+- content: SAE AIR1839A
+  type: SAE
+  primary: true
+- content: 10.4271/air1839a
+  type: DOI
+date:
+- type: approved
+  at: '1992-03-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Information Report (AIR) is a general overview of typical airborne vibration monitoring (AVM) systems with an emphasis on system hardware design considerations. It describes AVM systems currently in use.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The purpose of this AIR is to provide information and guidance for the selection, installation, and use of AVM systems and their elements. This AIR is not intended as a legal document but only as a technical guide.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,49 @@
+---
+id: SAEAS3902973C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CONTACTS, ELECTRICAL CONNECTORS, SOCKET, SOLDER, REMOVABLE, SHIELDED, SIZE
+    12 (FOR MIL-DTL-83723 SERIES III CONNECTORS)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as39029/73c
+- type: src
+  content: https://saemobilus.sae.org/standards/as3902973c-contacts-electrical-connectors-socket-solder-removable-shielded-size-12-mil-dtl-83723-series-iii-connectors
+docidentifier:
+- content: SAE AS39029/73C
+  type: SAE
+  primary: true
+- content: 10.4271/as39029/73c
+  type: DOI
+date:
+- type: approved
+  at: '2021-06-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C1 Connectors Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

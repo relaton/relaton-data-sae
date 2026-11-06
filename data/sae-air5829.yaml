@@ -1,0 +1,56 @@
+---
+id: SAEAIR5829
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Air in Aircraft Hydraulic Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5829
+- type: src
+  content: https://saemobilus.sae.org/standards/air5829-air-aircraft-hydraulic-systems
+docidentifier:
+- content: SAE AIR5829
+  type: SAE
+  primary: true
+- content: 10.4271/air5829
+  type: DOI
+date:
+- type: approved
+  at: '2025-01-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) discusses the forms that air may take in aircraft hydraulic systems. Further, the effects of the various air forms on system operation are addressed. Recommended system design to prevent air effects and maintenance procedures to prevent and remove air are provided. Nitrogen leakage from accumulators is also a source of gas in hydraulic systems and may compose a portion of the “air” in the hydraulic system. The term “air” in this report does not differentiate between a gas composed strictly of normal atmospheric air or one that includes a mixture of additional nitrogen as well. The discussions of the report apply equally with any proportions of atmospheric air and nitrogen in the system.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

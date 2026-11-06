@@ -1,0 +1,58 @@
+---
+id: SAEAS7107
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: NATIONAL AEROSPACE AND DEFENSE CONTRACTORS ACCREDITATION PROGRAM INSPECTION
+    SYSTEM REQUIREMENTS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as7107
+- type: src
+  content: https://saemobilus.sae.org/standards/as7107-national-aerospace-defense-contractors-accreditation-program-inspection-system-requirements
+docidentifier:
+- content: SAE AS7107
+  type: SAE
+  primary: true
+- content: 10.4271/as7107
+  type: DOI
+date:
+- type: approved
+  at: '1994-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Nadcap Management Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Standard establishes the minimum requirements necessary for NADCAP accreditation of an Inspection System that meets, at a minimum, MIL-I-45208. These requirements may be supplemented by additional requirements at the discretion of the NADCAP General Quality Systems Task Group.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is the intent of this standard to provide a harmonized quality standard that meets MIL-I-45208, MIL-STD- 45662, and the relevant portions of MIL-STD-1520. In addition to meeting these requirements as a minimum, an attempt has been made to harmonize the requirements of MIL-Q and the ISO9000 series of standards. Where similar requirements existed between these two standards, the more stringent requirement was imposed.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

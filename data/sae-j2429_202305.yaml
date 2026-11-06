@@ -1,0 +1,60 @@
+---
+id: SAEJ2429_202305
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Free-Rolling Cornering Test for Truck and Bus Tires
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2429_202305
+- type: src
+  content: https://saemobilus.sae.org/standards/j2429_202305-free-rolling-cornering-test-truck-bus-tires
+docidentifier:
+- content: SAE J2429_202305
+  type: SAE
+  primary: true
+- content: 10.4271/j2429_202305
+  type: DOI
+date:
+- type: approved
+  at: '2023-05-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Tire Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice describes a test method for determination of heavy truck (Class VI, VII, and VIII) tire force and moment properties under cornering conditions. The properties are acquired as functions of normal force and slip angle using a sequence specified in this practice. At each normal force increment, the slip angle is continually ramped or stepped. The data are suitable for use in vehicle dynamics modeling, comparative evaluations for research and development purposes, and manufacturing quality control.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is intended to be a general guideline for testing on an ideal machine. Users of this SAE Recommended Practice may modify the recommended protocols to satify the needs of specific use-cases, e.g., reducing the recommended number of test loads and/or pressures for benchmarking purposes. However, due care is necessary when modifying the protocols to maintain data integrity.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

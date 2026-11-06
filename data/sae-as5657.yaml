@@ -1,0 +1,60 @@
+---
+id: SAEAS5657
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Test Plan/Procedure for AS5643 IEEE-1394b Interface Requirements for Military
+    and Aerospace Vehicle Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5657
+- type: src
+  content: https://saemobilus.sae.org/standards/as5657-test-plan-procedure-as5643-ieee-1394b-interface-requirements-military-aerospace-vehicle-applications
+docidentifier:
+- content: SAE AS5657
+  type: SAE
+  primary: true
+- content: 10.4271/as5657
+  type: DOI
+date:
+- type: approved
+  at: '2025-04-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document establishes test plans/procedures for the AS5643 Standard that by itself defines guidelines for the use of IEEE-1394b as a data bus network in military and aerospace vehicles. This test specification defines procedures and criteria for testing device compliance with the AS5643 Standard.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

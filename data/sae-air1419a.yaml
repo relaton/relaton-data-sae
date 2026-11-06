@@ -1,0 +1,78 @@
+---
+id: SAEAIR1419A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Inlet Total-Pressure-Distortion Considerations for Gas-Turbine Engines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1419a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1419a-inlet-total-pressure-distortion-considerations-gas-turbine-engines
+docidentifier:
+- content: SAE AIR1419A
+  type: SAE
+  primary: true
+- content: 10.4271/air1419a
+  type: DOI
+date:
+- type: approved
+  at: '2011-07-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-16 Turbine Engine Inlet Flow Distortion  Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;AIR1419 “Inlet Total Pressure Distortion Considerations for Gas Turbine Engines” documents engineering information for use as reference material and for guidance. Inlet total-pressure distortion and other forms of flow distortion that can influence inlet/engine compatibility require examination to establish their effect on engine stability and performance. This report centers on inlet-generated total-pressure distortion measured at the Aerodynamic Interface Plane (AIP), not because this is necessarily the sole concern, but because it has been given sufficient attention in the aircraft and engine communities to produce generally accepted engineering practices for dealing with it. The report does not address procedures for dealing with performance destabilizing influences other than those due to total-pressure distortion, or with the effects of any distortion on aeroelastic stability. The propulsion system designer must be careful to assure that, throughout the development process, other forms of inlet flow distortion, which can have just as serious effects on system stability and performance, have been effectively addressed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The report deals with spatial total-pressure distortion, as defined by an array of high-response total-pressure probes. Time-variant total-pressure distortion, synthesized from statistical data, can provide useful information. However, the consensus of SAE S-16 is that such techniques are not developed sufficiently to permit general guidelines to be formulated.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;Concepts which are fundamental to this report are:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Inlet flow quality can be characterized, in a form relevant to engine distortion response, with numerical descriptors derived from an array of high-response total-pressure probes;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Propulsion system stability can be controlled by the aircraft and engine designers;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Engine stability can be demonstrated by tests using equivalent levels of steady state distortion.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The report is organized into seven sections, expanding upon the ideas and recommended practice set forth in ARP1420. The first two sections deal with surge margin, loss of surge pressure ratio, and procedures for correlating the loss of surge pressure ratio with total-pressure distortion. Through use of the terms and procedures discussed earlier, &lt;span class="xref"&gt;Sections 5&lt;/span&gt; and &lt;span class="xref"&gt;6&lt;/span&gt; develop engine stability and performance assessment techniques for handling total-pressure distortion by putting them into context with other destabilizing influences and performance detriments. &lt;span class="xref"&gt;Section 7&lt;/span&gt; describes various test procedures, equipment, and methods currently available for generating the information needed to apply distortion assessment techniques. &lt;span class="xref"&gt;Section 8&lt;/span&gt; discusses interface instrumentation, data-acquisition system accuracy, frequency response, record length, recording systems, and the data management procedures necessary to minimize communication errors among participating organizations. &lt;span class="xref"&gt;Section 9&lt;/span&gt; provides a short overview of “state-of-the-art”, a brief discussion of other forms of distortion at the inlet/engine Aerodynamic Interface Plane, a summary of other considerations involved in assessments of inlet/engine compatibility, and brief summaries of probable future activity in each of these areas.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The distortion descriptor is the vehicle by which engine reaction to inlet distortion is forecast and assessed, from program outset well into field use of the system. ARP1420 defines the distortion descriptor as a non-dimensional, numerical representation of the measured inlet pressure distribution, and provides a means for identifying critical inlet flow distortions and for communicating during propulsion system development. Central issues are the distortion descriptors, methods of correlating them with performance and stability changes and test and information acquisition techniques. Use and accuracy of the descriptors vary, depending upon the stage of the engine development, but their definitions and purpose remain constant - to assess status, forecast stability and identify required engineering activity.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The activities associated with distortion descriptor use can be categorized for convenience in phases (&lt;span class="xref"&gt;Table 2&lt;/span&gt;), recognizing that there is little consensus concerning the definitions of these phases and that no clear lines of demarcation exist between them.&lt;/div&gt;
+
+
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

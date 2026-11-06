@@ -1,0 +1,108 @@
+---
+id: SAEJ1442_202606
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: High-Strength, Hot-Rolled Steel Bars
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1442_202606
+- type: src
+  content: https://saemobilus.sae.org/standards/j1442_202606-high-strength-hot-rolled-steel-bars
+docidentifier:
+- content: SAE J1442_202606
+  type: SAE
+  primary: true
+- content: 10.4271/j1442_202606
+  type: DOI
+date:
+- type: approved
+  at: '2026-06-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Metals Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice covers two levels of high strength structural low-alloy steel bars having minimum Yield Points of 345 MPa (50 ksi) and 450 MPa (65 ksi).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The two strength levels are 345 and 450 MPa or 50 and 65 ksi minimum yield point. Different chemical compositions are used to achieve the specified mechanical properties. In some cases there are significant differences in chemical composition for the same strength level, depending on the fabricating requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It should be noted that although the mechanical properties for a steel grade sourced from different suppliers may be the same, the chemical composition may vary significantly. The fabricator should be aware that certain compositional differences may effect the forming, welding, and/or service requirements of the material. It is therefore recommended that the fabricator consult with the producer to understand the effect of chemical composition.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The products within the scope of this document include bars of the following types and sizes:&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Rounds, squares, and hexagons of all sizes (cut length only), flats 5.2 mm (0.203 in) and greater in thickness but not greater than 150 mm (6 in) wide, and flats greater than 5.8 mm (0.229 in) thick and over 150 mm (6 in) to 204 mm (8 in) wide.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document previously covered plates, structural shapes, and bar size shapes of Grades 290A, 345A, 415A, 450A, 345W, 345F, 415F, 485F, and 550F as well as bars of Grades 290A, 415A, and 345W. These products are no longer covered; requirements for these products and grades can be found in ASTM Specifications as follows in &lt;span class="xref"&gt;Table 1&lt;/span&gt;:
+    &lt;div class="table-wrap anchor " id="t1-J1442_202606"&gt;
+
+
+    &lt;div class="table-container"&gt;&lt;table class="br-groups tbr-hsides " data-dataset-id=""&gt;
+    &lt;thead&gt;
+    &lt;tr&gt;
+    &lt;th class="va-bottom ta-center "&gt;Product&lt;/th&gt;
+    &lt;th class="va-bottom ta-center "&gt;Previous SAE Grade&lt;/th&gt;
+    &lt;th class="va-bottom ta-center "&gt;ASTM Specification/Grade&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;
+    &lt;tbody&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Plates, Structural Shapes, Bar Size Shapes, Bars&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;290A&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;A 572/A 572M, Grade 42&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Plates, Structural Shapes, Bar Size Shapes&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;345A&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;A 572/A 572M, Grade 50&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Plates, Structural Shapes, Bar Size Shapes, Bars&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;415A&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;A 572/A 572M, Grade 60&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Plates, Structural Shapes, Bar Size Shapes&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;450A&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;A 57/A 572M, Grade 65&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Plates, Structural Shapes, Bar Size Shapes, Bars&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;345W&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;A 588/A 588M&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Plates&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;345F&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;A 656/A 656M, Grade 50&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Plates&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;415F&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;A 656/A 656M, Grade 60&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Plates&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;485F&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;A 656/A 656M, Grade 70&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Plates&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;550F&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;A 656/A 656M, Grade 80&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div&gt;&lt;span class="label"&gt;TABLE 1&lt;/span&gt;&lt;span class="caption"&gt;
+    &lt;span class="title"&gt;EQUIVALENT ASTM SPECIFICATIONS&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

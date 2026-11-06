@@ -1,0 +1,58 @@
+---
+id: SAEAIR5464
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Metal Clad Fibers for Electrical Shielding & Harness Overbraid
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5464
+- type: src
+  content: https://saemobilus.sae.org/standards/air5464-metal-clad-fibers-electrical-shielding-harness-overbraid
+docidentifier:
+- content: SAE AIR5464
+  type: SAE
+  primary: true
+- content: 10.4271/air5464
+  type: DOI
+date:
+- type: approved
+  at: '2008-03-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8D Wire and Cable Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Over the past decade several metal clad fibers and fabrics have been developed to provide aerospace vehicle designers with a conductive, lighter weight alternative to coated copper or steel for shielding and harness overbraids of electrical cables. Several of these candidates have been unable to provide the strength or thermal stability necessary for the aerospace environment. However, the aramid-based products have shown remarkable resistance to the rigorous environment of aerospace vehicles.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Concurrent with these fiber developments, there have been changes in the structures of aerospace vehicles involving greater use of nonmetallic outer surfaces. This has resulted in a need for increased shielding of electrical cables which adds substantial weight to the vehicle. Thus, a lighter weight shielding material has become more critical to meet the performance requirements of the vehicle.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This report covers the properties of metal clad aramid fibers (MCAF), test results when this product is used as a shield or harness overbraid and a listing of some of the known applications in the aerospace field. The use of these fibers as an electrical conductor is still being studied but has not yet resulted in a documented aerospace adoption.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

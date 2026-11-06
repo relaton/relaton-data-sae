@@ -1,0 +1,57 @@
+---
+id: SAEAIR4253
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: DESCRIPTION OF ACTUATION SYSTEMS FOR AIRCRAFT WITH FLY-BY-WIRE FLIGHT CONTROL
+    SYSTEMS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4253
+- type: src
+  content: https://saemobilus.sae.org/standards/air4253-description-actuation-systems-aircraft-fly-wire-flight-control-systems
+docidentifier:
+- content: SAE AIR4253
+  type: SAE
+  primary: true
+- content: 10.4271/air4253
+  type: DOI
+date:
+- type: approved
+  at: '1999-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A3 Flight Control and Vehicle Management Systems Cmt
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AIR provides a description of representative state-of-the-art, fly-by-wire (FBW) actuation systems used in flight control systems of manned aircraft. It presents the basic characteristics, hardware descriptions, redundancy concepts, functional schematics, and discussions of the servo controls, failure monitoring, and fault tolerance. All existing FBW actuation systems are not described herein; however, those most representing the latest designs are included. While this AIR is intended as a reference source of information for future aircraft actuation system designs, the exclusion or omission of any other appropriate actuation system or subsystem should not limit consideration of their use on future aircraft.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

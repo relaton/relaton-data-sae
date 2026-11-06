@@ -1,0 +1,49 @@
+---
+id: SAEAS4629
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HOSE ASSEMBLY, POLYTETRAFLUOROETHYLENE, ARAMID REINFORCED, HEAVY-DUTY,
+    275 °F, 3000 psi, FLARELESS, TITANIUM FITTINGS, 90° TO 90°
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4629
+- type: src
+  content: https://saemobilus.sae.org/standards/as4629-hose-assembly-polytetrafluoroethylene-aramid-reinforced-heavy-duty-275-f-3000-psi-flareless-titanium-fittings-90-90
+docidentifier:
+- content: SAE AS4629
+  type: SAE
+  primary: true
+- content: 10.4271/as4629
+  type: DOI
+date:
+- type: approved
+  at: '1992-06-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

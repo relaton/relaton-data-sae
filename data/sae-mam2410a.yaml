@@ -1,0 +1,54 @@
+---
+id: SAEMAM2410A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Plating, Silver, Nickel Strike, High Bake
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/mam2410a
+- type: src
+  content: https://saemobilus.sae.org/standards/mam2410a-plating-silver-nickel-strike-high-bake
+docidentifier:
+- content: SAE MAM2410A
+  type: SAE
+  primary: true
+- content: 10.4271/mam2410a
+  type: DOI
+date:
+- type: approved
+  at: '2000-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This specification covers the engineering requirements for electrodeposition of silver on other metals, usually with a nickel strike between the basis metal and the silver, and the properties of the deposit. AMS 2410 is the inch/pound version of this MAM.&lt;/p&gt;
+    &lt;p&gt;This processes has been used typically to provide a bearing surface and to prevent galling or seizing of surfaces of parts made of corrosion-resistant steels and alloys and of parts made of other metals not deleteriously affected by high-temperature baking, but usage is not limited to such applications.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

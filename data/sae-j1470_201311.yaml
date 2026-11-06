@@ -1,0 +1,69 @@
+---
+id: SAEJ1470_201311
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Measurement of Noise Emitted by Accelerating Highway Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1470_201311
+- type: src
+  content: https://saemobilus.sae.org/standards/j1470_201311-measurement-noise-emitted-accelerating-highway-vehicles
+docidentifier:
+- content: SAE J1470_201311
+  type: SAE
+  primary: true
+- content: 10.4271/j1470_201311
+  type: DOI
+date:
+- type: approved
+  at: '2013-11-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Light Vehicle Exterior Sound Level Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard is equivalent to ISO Standard 362 - 1997 except for the differences detailed in &lt;span class="xref"&gt;Appendix A&lt;/span&gt;, and includes the modifications adopted by WP 29 in ECE R51 Revision 1 and EEC 92/97 and EEC 96/20.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document specifies an engineering method for measuring the noise emitted by accelerating highway vehicles of all types (except motorcycles) in intermediate gears with full utilization of the available engine power.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The method is designed to meet the requirements of simplicity and reproducibility of results under realistic vehicle operating conditions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Measurements relate to operating conditions of the vehicle which give the highest noise level consistent with urban driving and which lead to reproducible noise emissions. Therefore, an acceleration test at full throttle from a stated engine or vehicle speed is specified.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The test method calls for an acoustical environment which can only be obtained in an extensive open space. Such conditions can usually be provided for:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Measurements at the manufacturing stage&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Measurements at official testing stations&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;Measurements must be carried out in an acoustical environment which fulfill the requirements stated in this document. It should be noted that spot checking of vehicles chosen at random can rarely be made in an ideal acoustical environment. If measurements have to be carried out on the road in an acoustical environment which does not fulfill the requirements stated in this document, it should be recognized that the results obtained may deviate appreciably from the results obtained using the specified conditions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The results obtained by this method give an objective measure of the noise emitted under prescribed conditions of test. However, it is necessary to consider the fact that the subjective appraisal of the annoyance of different classes of motor vehicles is not simply related to the indications of a sound level meter. The motorcycles are covered in other SAE documents that prescribe an operating mode that is more representative of actual use.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

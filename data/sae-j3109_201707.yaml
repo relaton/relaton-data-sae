@@ -1,0 +1,56 @@
+---
+id: SAEJ3109_201707
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PWM HVAC Blower Controller and BLDC Motor Controller Efficiency Assessment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3109_201707
+- type: src
+  content: https://saemobilus.sae.org/standards/j3109_201707-pwm-hvac-blower-controller-bldc-motor-controller-efficiency-assessment
+docidentifier:
+- content: SAE J3109_201707
+  type: SAE
+  primary: true
+- content: 10.4271/j3109_201707
+  type: DOI
+date:
+- type: approved
+  at: '2017-07-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Interior Climate Control MAC Supplier Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The intention of this standard is to establish a framework to measure the efficiency of PWM HVAC Blower Controllers and Brushless DC Motor Controllers and define a usage based overall efficiency. This result can then be used by vehicle OEMs to demonstrate compliance towards requirements or benchmarks established by regulatory agencies.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEARP5918A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standard Test Criteria for Aircraft Refuelers
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5918a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5918a-standard-test-criteria-aircraft-refuelers
+docidentifier:
+- content: SAE ARP5918A
+  type: SAE
+  primary: true
+- content: 10.4271/arp5918a
+  type: DOI
+date:
+- type: approved
+  at: '2022-07-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5C Aviation Ground Fueling Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) establishes the minimum recommended Test Stand Setup and Procedures for inspecting and testing Aircraft Refuelers. The inspection and test procedure shall be used to evaluate the operation and performance of an Aircraft Refueler to assure that it meets the minimum refueling performance criteria and is fit for aircraft fueling and/or defueling operations. These procedures shall be used to test new Aircraft Refuelers and may be used to perform routine tests to confirm that the Aircraft Refuelers comply with the minimum performance criteria as specified herein.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document covers all types of Aircraft Refuelers, stationary (e.g., cabinet type units) or mobile (e.g., hydrant service vehicles, tankers, etc.).&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,139 @@
+---
+id: SAEARP8467
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Exterior Camera Video System Lighting
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp8467
+- type: src
+  content: https://saemobilus.sae.org/standards/arp8467-aircraft-exterior-camera-video-system-lighting
+docidentifier:
+- content: SAE ARP8467
+  type: SAE
+  primary: true
+- content: 10.4271/arp8467
+  type: DOI
+date:
+- type: approved
+  at: '2025-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20B Exterior Lighting Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The video systems include a camera, display, and lights. Video is the recording, reproducing, or broadcasting of moving visual images as illustrated in &lt;span class="xref"&gt;Figure 1&lt;/span&gt;.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;A camera video imaging system is a system composed of a camera and a monitor, as well as other components, in which the monitor provides a real-time or near real-time visual image of the scene captured by the camera. Such systems are capable of providing remote views to the pilot and can therefore be used to provide improved visibility (for example, coverage of blind spots). In general, camera video systems may be used in the pilot’s work position for purposes of improving airplane and corresponding environmental visibility.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Examples of aircraft video system applications include:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Ground maneuver or taxi camera system&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Flight deck entry video surveillance system&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Cargo loading and unloading&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Cargo compartment livestock monitoring&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Monitoring systems that are used to track the external, internal, and security functions of an aircraft&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Environmental camera system&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Cabin surveillance system&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;In 2012, the National Transportation Safety Board suggested that large aircraft be equipped with external cameras to give pilots a better view of a plane’s wingtips as they travel along the taxiway and possibly cut down on ground crashes (refer to NTSB Safety Recommendations A-12-48 and -49).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Airplane camera system applications have experienced new usage scenarios and image quality issues (washout, color shift, bright spots, flickering, color rendering) due to:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Uncontrolled environment&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Wide range of ambient lighting environment&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Wide temperature range&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Harsh weather&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Complex hardware&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;High aircraft speed&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;The scope of this SAE Aerospace Recommended Practice (ARP) is recommendations about the lighting for the airplane exterior camera video system with a pilot in the loop.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This ARP does not address enhanced or synthetic vision systems that help pilot visibility during flight. This ARP does not cover so-called enhanced flight vision systems (EFVS). Refer to FAA AC 90-106. Enhanced vision is a technology that incorporates information from aircraft-based sensors (e.g., near-infrared [IR] cameras, millimeter wave radar) to provide vision in limited visibility environments. Enhanced vision systems (EVS) allow for increased pilot visibility and flight safety during flight operations in darkness, smoke, haze, rain, fog, and other low visibility conditions. EVS enhances a pilot’s ability to safely fly an aircraft by providing increased flight visibility for improved situation awareness.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The initial scope of this recommended practice is lighting for airplane exterior lighting for ground maneuver camera systems. &lt;span class="xref"&gt;Section 3&lt;/span&gt; gives general guidance for camera video systems, and &lt;span class="xref"&gt;Section 4&lt;/span&gt; provides specific design recommendations for airplane exterior ground camera video system lighting. The camera and display parts of the video system are not the focus of this ARP, but pertinent characteristics need to be described, understood, and defined for the lighting guidelines to be useful for the video system designer.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For flight deck display requirements, utilize:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;FAA Advisory Circular (AC) 25-11A&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;FAA Technical Standard Order (TSO) C113&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;AS8034&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ARP4256&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J3155 is an SAE camera recommended practice for automotive rear-view mirror cameras. In addition to SAE J3155, for camera recommendations, refer to:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;IEC 62676&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;IEEE 1858&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;IEEE P2020&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ISO 12232&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ISO 12233&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ISO 14524&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ISO 15739&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ISO 16505&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ISO 17850&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ISO 17957&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ISO 18844&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ISO 18844-2&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ISO 19084&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ISO 19093&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ISO 19567&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ISO/TC 22&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

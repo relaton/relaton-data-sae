@@ -1,0 +1,57 @@
+---
+id: SAEAMS5716K
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Iron-Nickel Alloy, Heat Resistant, Bars, Wire, Forgings, and Rings 44Fe
+    - 18.5Cr - 35.5Ni - 1.1Si Solution Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5716k
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5716k-iron-nickel-alloy-heat-resistant-bars-wire-forgings-rings-44fe-185cr-355ni-11si-solution-heat-treated
+docidentifier:
+- content: SAE AMS5716K
+  type: SAE
+  primary: true
+- content: 10.4271/ams5716k
+  type: DOI
+date:
+- type: approved
+  at: '2016-10-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a heat-resistant iron-nickel alloy in the form of bars, wire, forgings, flash welded rings 8.0 inches (203 mm) and under in nominal diameter or least distance between parallel sides, and stock of any size for forging or flash welded rings (see &lt;span class="xref"&gt;8.5&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,60 @@
+---
+id: SAEJ2012_202509
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Diagnostic Trouble Code Definitions
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2012_202509
+- type: src
+  content: https://saemobilus.sae.org/standards/j2012_202509-diagnostic-trouble-code-definitions
+docidentifier:
+- content: SAE J2012_202509
+  type: SAE
+  primary: true
+- content: 10.4271/j2012_202509
+  type: DOI
+date:
+- type: approved
+  at: '2025-09-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is intended to define the standardized Diagnostic Trouble Codes (DTCs) that On-Board Diagnostic (OBD) systems in vehicles are required to report when malfunctions are detected. SAE J2012 may also be used for decoding of enhanced diagnostic DTCs and specifies the ranges reserved for vehicle manufacturer specific usage.&lt;/div&gt;
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

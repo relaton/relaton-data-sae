@@ -1,0 +1,57 @@
+---
+id: SAEJ29314_201207
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Broadband PLC Communication for Plug-in Electric Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2931/4_201207
+- type: src
+  content: https://saemobilus.sae.org/standards/j29314_201207-broadband-plc-communication-plug-electric-vehicles
+docidentifier:
+- content: SAE J2931/4_201207
+  type: SAE
+  primary: true
+- content: 10.4271/j2931/4_201207
+  type: DOI
+date:
+- type: approved
+  at: '2012-07-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Technical Information Report SAE J2931/4 establishes the specifications for physical and data-link layer communications using broadband Power Line Communications (PLC) between the Plug-In Vehicle (PEV) and the Electric Vehicle Supply Equipment (EVSE) DC off-board-charger. This document deals with the specific modifications or selection of optional features in HomePlug Green PHY v1.1 necessary to support the automotive charging application over Control Pilot lines as described in SAE J1772™. PLC may also be used to connect directly to the Utility smart meter or Home Area Network (HAN), and may technically be applied to the AC mains, both of which are outside the scope of this document.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

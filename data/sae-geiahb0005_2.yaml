@@ -1,0 +1,60 @@
+---
+id: SAEGEIAHB0005_2
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Technical Guidelines for Aerospace and High Performance Electronic Systems
+    Containing Lead-free Solder and Finishes
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/geiahb0005_2
+- type: src
+  content: https://saemobilus.sae.org/standards/geiahb0005_2-technical-guidelines-aerospace-high-performance-electronic-systems-containing-lead-free-solder-finishes
+docidentifier:
+- content: SAE GEIA-HB-0005-2
+  type: SAE
+  primary: true
+- content: 10.4271/geiahb0005_2
+  type: DOI
+date:
+- type: approved
+  at: '2016-06-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-24 Pb-free Risk Management Committee for ADHP
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is intended for use as technical guidance by Aerospace system suppliers, e.g., Aerospace system Original Equipment Manufacturers (OEMs) and Aerospace system maintenance facilities, in developing and implementing designs and processes to assure the continued performance, quality, reliability, safety, airworthiness, configuration control, affordability, maintainability, and supportability of high performance aerospace systems (subsequently referred to as AHP) both during and after the transition to Pb-Free electronics.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is intended for application to aerospace products; however, it may also be applied, at the discretion of the user, to other products with similar characteristics, e.g., low-volume, rugged use environments, high reliability, long lifetime, and reparability. If other industries wish to use this document, they may substitute the name of their industry for the word “Aerospace” in this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The guidelines may be used by the OEMs and maintenance facilities to implement the methodologies they use to assure the performance, reliability, airworthiness, safety, and certifiability of their products, in accordance with Document GEIA-STD-0005-1, “Performance Standard for High Performance Electronic Systems Containing Pb-Free Solder.”&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document also contains lessons learned from previous experience with Pb-Free aerospace electronic systems. The lessons learned give specific references to solder alloys and other materials, and their expected applicability to various operating environmental conditions. The lessons learned are intended for guidance only; they are not guarantees of success in any given application.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

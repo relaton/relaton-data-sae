@@ -1,0 +1,48 @@
+---
+id: SAEAMS3610B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BARRIER MATERIAL, WATER VAPOR RESISTANT, FLEXIBLE, TRANSPARENT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3610b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3610b-barrier-material-water-vapor-resistant-flexible-transparent
+docidentifier:
+- content: SAE AMS3610B
+  type: SAE
+  primary: true
+- content: 10.4271/ams3610b
+  type: DOI
+date:
+- type: approved
+  at: '1949-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P Polymeric Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

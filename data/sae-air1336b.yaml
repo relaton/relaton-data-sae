@@ -1,0 +1,70 @@
+---
+id: SAEAIR1336B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Ground Support Equipment Electrical Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1336b
+- type: src
+  content: https://saemobilus.sae.org/standards/air1336b-ground-support-equipment-electrical-systems
+docidentifier:
+- content: SAE AIR1336B
+  type: SAE
+  primary: true
+- content: 10.4271/air1336b
+  type: DOI
+date:
+- type: approved
+  at: '2018-09-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) considers the following major areas:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;major components and their ratings;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;selection criteria for optimum design balance for electrical systems;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;effects of operating conditions and environment on both maintenance and life of components;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;4&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;trouble signals - their diagnosis and cure.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

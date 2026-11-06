@@ -1,0 +1,59 @@
+---
+id: SAEEIARS431
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electrical Interface Between Numerical Control and Machine Tools
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/eiars431
+- type: src
+  content: https://saemobilus.sae.org/standards/eiars431-electrical-interface-numerical-control-machine-tools
+docidentifier:
+- content: SAE EIARS431
+  type: SAE
+  primary: true
+- content: 10.4271/eiars431
+  type: DOI
+date:
+- type: approved
+  at: '2015-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Systems Management Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard covers both active and passive aspects of the electrical interface between the Numerical Control (NC) and the machine power and logic control, motor drive equipment, and other electrical apparatus on or associated with the machine tool. It covers:&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAMS6378A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS 0.95Cr - 0.20Mo - 0.05Te (0.38 - 0.45C) SAE 4140 Modified Die-Drawn
+    and Tempered, 130,000 psi (896 MPa) Yield Strength
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6378a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6378a-steel-bars-095cr-020mo-005te-038-045c-sae-4140-modified-die-drawn-tempered-130000-psi-896-mpa-yield-strength
+docidentifier:
+- content: SAE AMS6378A
+  type: SAE
+  primary: true
+- content: 10.4271/ams6378a
+  type: DOI
+date:
+- type: approved
+  at: '1973-05-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a low-alloy steel in the form of round bars not over 3.50 in. (88.9 mm) in diameter.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAMS5047F
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Sheet and Strip 0.08 - 0.13C, Aluminum Killed (SAE 1010) Deep Forming
+    Grade
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5047f
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5047f-steel-sheet-strip-008-013c-aluminum-killed-sae-1010-deep-forming-grade
+docidentifier:
+- content: SAE AMS5047F
+  type: SAE
+  primary: true
+- content: 10.4271/ams5047f
+  type: DOI
+date:
+- type: approved
+  at: '2012-04-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum-killed carbon steel in the form of sheet and strip.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

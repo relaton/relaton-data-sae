@@ -1,0 +1,58 @@
+---
+id: SAEAIR64
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: EQUIPMENT COOLING IN PRESENT AND IMMEDIATE FUTURE CIVIL TRANSPORT AIRCRAFT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air64
+- type: src
+  content: https://saemobilus.sae.org/standards/air64-equipment-cooling-present-immediate-future-civil-transport-aircraft
+docidentifier:
+- content: SAE AIR64
+  type: SAE
+  primary: true
+- content: 10.4271/air64
+  type: DOI
+date:
+- type: approved
+  at: '1956-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AIR is intended as a status report on the work of E.C.S. to date in dealing with the problem of equipment cooling in present and immediate future civil transport aircraft. Subsequent revisions to this AIR will follow as more information is gathered on this subject.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

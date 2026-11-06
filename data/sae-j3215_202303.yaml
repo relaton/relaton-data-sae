@@ -1,0 +1,62 @@
+---
+id: SAEJ3215_202303
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hydrogen Embrittlement Testing of Ultra High Strength Steels and Stampings
+    by Acid Immersion
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3215_202303
+- type: src
+  content: https://saemobilus.sae.org/standards/j3215_202303-hydrogen-embrittlement-testing-ultra-high-strength-steels-stampings-acid-immersion
+docidentifier:
+- content: SAE J3215_202303
+  type: SAE
+  primary: true
+- content: 10.4271/j3215_202303
+  type: DOI
+date:
+- type: approved
+  at: '2023-03-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Metals Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard describes a test method for evaluating the susceptibility of uncoated cold rolled and hot rolled Ultra High Strength Steels (UHSS) to hydrogen embrittlement. The thickness range of materials that can be evaluated is limited by the ability to bend and strain the material to the specified stress level in this specification.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Hydrogen embrittlement can occur with any steel with a tensile strength greater than or equal to 980 MPa. Some steel microstructures, especially those with retained austenite, may be susceptible at lower tensile strengths under certain conditions. The presence of available hydrogen, combined with high stress levels in a part manufactured from high strength steel, are necessary precursors for hydrogen embrittlement.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Due to the specific conditions that need to be present for hydrogen embrittlement to occur, cracking in this test does not indicate that parts made from that material would crack in an automotive environment. Results from this test should be considered in conjunction with the strain state of the material and the operating environment of the part when selecting any UHSS. Since this test method is comparative, the most information can be gained if a control sample of known performance is evaluated along with the material being studied.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

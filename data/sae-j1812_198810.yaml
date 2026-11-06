@@ -1,0 +1,57 @@
+---
+id: SAEJ1812_198810
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FUNCTION PERFORMANCE STATUS CLASSIFICATION FOR EMC SUSCEPTIBILITY TESTING
+    OF AUTOMOTIVE ELECTRONIC AND ELECTRICAL DEVICES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1812_198810
+- type: src
+  content: https://saemobilus.sae.org/standards/j1812_198810-function-performance-status-classification-emc-susceptibility-testing-automotive-electronic-electrical-devices
+docidentifier:
+- content: SAE J1812_198810
+  type: SAE
+  primary: true
+- content: 10.4271/j1812_198810
+  type: DOI
+date:
+- type: approved
+  at: '1988-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The process described in this document is generally applicable to provide a means to classify the function performance status of automotive electronic devices. Testing of devices could be performed either on or off vehicles. Appropriate test pulse and methods, functional status classification, region of performance, and test pulse severity level would have to be specified in the individual cases.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

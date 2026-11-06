@@ -1,0 +1,58 @@
+---
+id: SAEARP41028A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Flight Deck Head-Up Displays
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4102/8a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp41028a-flight-deck-head-displays
+docidentifier:
+- content: SAE ARP4102/8A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4102/8a
+  type: DOI
+date:
+- type: approved
+  at: '2007-07-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-7 Flight Deck Handling Qualities Stds for Trans Aircraft
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) recommends criteria for the design and installation of Head-Up Display (HUD) systems. The recommendations are applicable to HUD systems for transport category aircraft, which display flight information (focused at infinity) in the forward field of view.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The HUD total system requirement recommendations shall primarily lead to certifiable fail-passive CAT III characteristics and performance. This document forms a part of these recommendations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not address devices for peripheral vision of displays worn by the pilot, nor the presentation of Enhanced Vision System (EVS) information.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

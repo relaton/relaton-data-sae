@@ -1,0 +1,67 @@
+---
+id: SAEAS417
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AIR DATA COMPUTER
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as417
+- type: src
+  content: https://saemobilus.sae.org/standards/as417-air-data-computer
+docidentifier:
+- content: SAE AS417
+  type: SAE
+  primary: true
+- content: 10.4271/as417
+  type: DOI
+date:
+- type: approved
+  at: '1965-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4 Aircraft Instruments Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Standard covers an air data computer characterized by the concept of transducing and computing the majority of air data requirements for an aircraft. The display instruments and other using subsystems are not considered in this scope except where they perform computing operations for output parameters as covered by this specification. The computer may accept the inputs and provide the outputs listed in paragraphs &lt;span class="xref"&gt;2.1&lt;/span&gt; and &lt;span class="xref"&gt;2.2&lt;/span&gt; respectively. The computer may also provide an altitude encoder output for IFF Mark &lt;span class="formula inline"&gt;
+    &lt;math display="inline"&gt;
+    &lt;mrow&gt;
+    &lt;mover accent="true"&gt;
+    &lt;munder accentunder="true"&gt;
+    &lt;mi mathvariant="normal"&gt;X&lt;/mi&gt;
+    &lt;mo&gt;¯&lt;/mo&gt;&lt;/munder&gt;
+    &lt;mo stretchy="true"&gt;¯&lt;/mo&gt;&lt;/mover&gt;&lt;/mrow&gt;&lt;/math&gt;&lt;/span&gt; (SIF)/Air Traffic Control Radar Beacon System SIF/ATCRBS; in which case AS 855&lt;span class="xref"&gt;*&lt;/span&gt; "Altitude Device Providing Outputs for Automatic Pressure Altitude Reporting" shall be referred to for applicable minimum standards. (Note - Reference to air data computer in subsequent paragraphs will be designated as "instrument".)&lt;/div&gt;
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEJ2372_199912
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Field Test Analysis Information Report
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2372_199912
+- type: src
+  content: https://saemobilus.sae.org/standards/j2372_199912-field-test-analysis-information-report
+docidentifier:
+- content: SAE J2372_199912
+  type: SAE
+  primary: true
+- content: 10.4271/j2372_199912
+  type: DOI
+date:
+- type: approved
+  at: '1999-12-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ITS Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report describes results of testing of the SAE J1746 ISP-Vehicle Standard for the communication of spatial data references between central sites and mobile vehicles on roads. Testing was performed by the Oak Ridge National Laboratory and its contractors, resulting in a document from which this Information Report has been extracted. Tests were performed by computer analysis and corroborated by field tests with a mobile vehicle.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

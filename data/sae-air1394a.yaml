@@ -1,0 +1,56 @@
+---
+id: SAEAIR1394A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Cabling Guidelines for Electromagnetic Compatibility
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1394a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1394a-cabling-guidelines-electromagnetic-compatibility
+docidentifier:
+- content: SAE AIR1394A
+  type: SAE
+  primary: true
+- content: 10.4271/air1394a
+  type: DOI
+date:
+- type: approved
+  at: '2009-11-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-4 Electromagnetic Compatibility (EMC) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;These cable practice recommendations tend toward design guidance rather than standardization. EMC achievement tests can be standardized, but the means for achievement should not be constrained. The material can best be described as an essay on cabling, and the theme is that a cable is just a part of a complete circuit, the interconnect circuit. Cable EMC performance is thus determined largely by circuit design; it is unrealistic to expect cabling techniques to compensate for improper impedance, symmetry or waveform in the circuit.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

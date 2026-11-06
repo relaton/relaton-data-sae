@@ -1,0 +1,56 @@
+---
+id: SAEAIR5704
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Field Viscosity Test for Thickened Aircraft Anti-Icing Fluids
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5704
+- type: src
+  content: https://saemobilus.sae.org/standards/air5704-field-viscosity-test-thickened-aircraft-anti-icing-fluids
+docidentifier:
+- content: SAE AIR5704
+  type: SAE
+  primary: true
+- content: 10.4271/air5704
+  type: DOI
+date:
+- type: approved
+  at: '2016-06-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12ADF Aircraft Deicing Fluids
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides a description of a screening method for use in the field for verifying an AMS 1428 anti-icing fluid is above its minimum low shear viscosity as published with holdover time guidelines. The test will determine if the fluid is (a) satisfactory, (b) unsatisfactory, or (c) borderline needing more advanced viscometry testing. Other field tests may be required to determine if an anti-icing fluid is useable, such as refractive index, appearance or other tests as may be recommended by the fluid manufacturer.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

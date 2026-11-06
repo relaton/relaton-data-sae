@@ -1,0 +1,58 @@
+---
+id: SAEJ2830_201606
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Process for Comprehension Testing of In-Vehicle Symbols
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2830_201606
+- type: src
+  content: https://saemobilus.sae.org/standards/j2830_201606-process-comprehension-testing-vehicle-symbols
+docidentifier:
+- content: SAE J2830_201606
+  type: SAE
+  primary: true
+- content: 10.4271/j2830_201606
+  type: DOI
+date:
+- type: approved
+  at: '2016-06-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Driver Vehicle Interface (DVI) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice describes a process for testing the comprehension of static (i.e., fixed or non-dynamic) symbols for all ground vehicles, for both OEM and aftermarket products. With advancing display technology, it is now possible to display dynamic symbols (e.g., a spinning beach ball to show that a process is ongoing, or a diagram showing energy distribution in hybrid vehicles). Such graphics are outside of the scope of this recommended practice, though extensions of this process may be useful for testing them. However, several symbols which occupy the same space on a display may change state without movement (e.g. play/pause button); these are within the scope of this recommended practice.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The process described in this recommended practice includes criteria that are used to identify how well the perceived meaning matches the intended meaning for a representative sample of drivers. The data from this process are analyzed to determine the drivers’ comprehension of the symbol. These data provide guidance as to the symbols that can be improved and used. Although the process described in this recommended practice emphasizes a paper-and-pencil approach to administer the test, a computer could be used instead.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: This process was initially developed specifically for testing active safety symbols (e.g., collision avoidance functions), or other symbols that reflect some in-vehicle message (e.g., navigation, vehicle status, or infotainment functions). For that reason, many of the examples provided concern those systems.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

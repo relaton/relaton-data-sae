@@ -1,0 +1,56 @@
+---
+id: SAEARP426
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: COMPASS SYSTEM INSTALLATIONS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp426
+- type: src
+  content: https://saemobilus.sae.org/standards/arp426-compass-system-installations
+docidentifier:
+- content: SAE ARP426
+  type: SAE
+  primary: true
+- content: 10.4271/arp426
+  type: DOI
+date:
+- type: approved
+  at: '1991-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4 Aircraft Instruments Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;These recommendations cover the mechanical and electrical installation and installation test procedures for Compass Systems of the type normally used in transport type aircraft. The recommendations in the ARP do not supersede any airworthiness requirements in Civil Air Regulations.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

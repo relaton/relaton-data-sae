@@ -1,0 +1,60 @@
+---
+id: SAEAIR7367
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Considerations for Requirements, Specifications, and Framework of a Digital
+    Thread in Aircraft Data Life Cycle Management
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air7367
+- type: src
+  content: https://saemobilus.sae.org/standards/air7367-considerations-requirements-specifications-framework-a-digital-thread-aircraft-data-life-cycle-management
+docidentifier:
+- content: SAE AIR7367
+  type: SAE
+  primary: true
+- content: 10.4271/air7367
+  type: DOI
+date:
+- type: approved
+  at: '2023-12-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-31 Digital Transactions for Aerospace
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this SAE Aerospace Information Report (AIR) is to describe the considerations for requirements, specifications, and framework of digital thread in the aircraft product life cycle management. This document is not intended to define an overarching rendition of implementation-dependent features around software or architecture.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

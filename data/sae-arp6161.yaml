@@ -1,0 +1,58 @@
+---
+id: SAEARP6161
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Flight Compartment Glare
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6161
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6161-flight-compartment-glare
+docidentifier:
+- content: SAE ARP6161
+  type: SAE
+  primary: true
+- content: 10.4271/arp6161
+  type: DOI
+date:
+- type: approved
+  at: '2017-10-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20A Crew Station Lighting
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is a tool for the certifying authority, cockpit designers, instrument suppliers, lighting suppliers, and component suppliers. It is an aid to understanding and meeting relavant regulatory requirements, particularly those relating to pilot compartment view {CFR 25.773(a)(2)} and instrument lights {25.1381(a)(2)} for glare arising from visible eletromagnetic radiation.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEARP598
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PROCEDURE FOR THE DETERMINATION OF PARTICULATE CONTAMINATION OF HYDRAULIC
+    FLUIDS BY THE PARTICLE COUNT METHOD
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp598
+- type: src
+  content: https://saemobilus.sae.org/standards/arp598-procedure-determination-particulate-contamination-hydraulic-fluids-particle-count-method
+docidentifier:
+- content: SAE ARP598
+  type: SAE
+  primary: true
+- content: 10.4271/arp598
+  type: DOI
+date:
+- type: approved
+  at: '1991-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This test describes a self-checking procedure for the determination of particulate contaminant five microns or greater in size in hydraulic fluids by the particle count method. A maximum variation of two to one (±33% of the average of two runs) in results should be expected for replicate counts on the same sample, providing that the procedure is followed closely and the precautions presented on pages 10 and 11 of the procedure, regarding manipulation, check samples and self-checking aspects, are observed.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

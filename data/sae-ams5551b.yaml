@@ -1,0 +1,53 @@
+---
+id: SAEAMS5551B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Sheet and Strip, Corrosion and Heat Resistant 55ni 19cr 10co 10mo 2.5ti
+    1.0a1 0.006b Consumable Electrode Or Vacuum Induction Melted, Solution Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5551b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5551b-sheet-strip-corrosion-heat-resistant-55ni-19cr-10co-10mo-25ti-10a1-0006b-consumable-electrode-vacuum-induction-melted-solution-heat-treated
+docidentifier:
+- content: SAE AMS5551B
+  type: SAE
+  primary: true
+- content: 10.4271/ams5551b
+  type: DOI
+date:
+- type: approved
+  at: '1991-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This document has been cancelled.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

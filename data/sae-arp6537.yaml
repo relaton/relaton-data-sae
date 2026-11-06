@@ -1,0 +1,58 @@
+---
+id: SAEARP6537
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Risk Mitigation for Pb-Free Solders Used Internally to Parts
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6537
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6537-risk-mitigation-pb-free-solders-used-internally-parts
+docidentifier:
+- content: SAE ARP6537
+  type: SAE
+  primary: true
+- content: 10.4271/arp6537
+  type: DOI
+date:
+- type: approved
+  at: '2020-10-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-24 Pb-free Risk Management Committee for ADHP
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides risk mitigation for Pb-free solders used internal to parts used in Aerospace and Defense applications. It will include mitigations applicable to encapsulated and cavity devices as the needs arise in industry. Currently this revision only addresses devices with encapsulation or underfill. Mitigations for open cavity devices are still being discussed, and will be addressed in future revisions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Microbumps with Thermal Compression Bonding (TCB) are not addressed by the mitigations in this document. The use of Pb-free microbumps with TCB are considered out of scope at this time.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is expected that this document will be primarily used by Control Levels 3 and 2C (as defined in GEIA-STD-0005-2 for programs that do not allow use of Pb-free tin or only allow its use on an exception basis). It may be used by other levels, or by applications not using GEIA-STD-0005-2.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEARP5758
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Trend Analysis for Maintaining Correlation of Gas Turbine Engine Test Cells
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5758
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5758-trend-analysis-maintaining-correlation-gas-turbine-engine-test-cells
+docidentifier:
+- content: SAE ARP5758
+  type: SAE
+  primary: true
+- content: 10.4271/arp5758
+  type: DOI
+date:
+- type: approved
+  at: '2011-03-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EG-1E Gas Turbine Test Facilities and Equipment
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes a recommended practice and procedure for the trending of parameters to maintain the test cell correlation status. Trending is performed to monitor test cells for changes that can affect engine performance or the data acquired from engine tests.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

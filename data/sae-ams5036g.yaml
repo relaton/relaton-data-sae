@@ -1,0 +1,56 @@
+---
+id: SAEAMS5036G
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL SHEET AND STRIP, ALUMINUM COATED Low Carbon
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5036g
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5036g-steel-sheet-strip-aluminum-coated-low-carbon
+docidentifier:
+- content: SAE AMS5036G
+  type: SAE
+  primary: true
+- content: 10.4271/ams5036g
+  type: DOI
+date:
+- type: approved
+  at: '1994-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a low-carbon steel in the form of sheet and strip coated on both faces with aluminum-silicon alloy by the hot-dip process.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

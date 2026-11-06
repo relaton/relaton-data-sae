@@ -1,0 +1,58 @@
+---
+id: SAEAIR7130
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Assessment of Electric Engine Failures Leading to LOPC
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air7130
+- type: src
+  content: https://saemobilus.sae.org/standards/air7130-assessment-electric-engine-failures-leading-lopc
+docidentifier:
+- content: SAE AIR7130
+  type: SAE
+  primary: true
+- content: 10.4271/air7130
+  type: DOI
+date:
+- type: approved
+  at: '2024-10-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-40 Electrified Propulsion Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document proposes a method to demonstrate compliance to engine certification rules requiring tolerance of the control system to single failures leading to Loss of Power Control (LOPC) or Loss of Thrust Control (LOTC) for electric or hybrid engines. At issue 1, the document was developed to address only fully electric engine configurations targeting single engine CS/part 23 level 1 and 2 aircraft applications.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The methodology proposed herein is based on an alternative definition of Loss of Power Control (LOPC) proposed by EASA, the FAA, TCCA, and ANAC in a joint Decision Document. It is therefore only applicable to projects which elect to implement this authority-proposed alternative definition. Other approaches for the demonstration of compliance of electric engines to control system single fault tolerance requirements, including approaches based on legacy practices applicable to piston engines, remain possible. They are, however, outside of the scope of this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Future issues of this report are expected to provide additional guidance for the application of the proposed method to other engine and aircraft applications.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

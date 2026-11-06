@@ -1,0 +1,56 @@
+---
+id: SAEAS8952A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Bearings, Roller, Rod End, Antifriction Self-Aligning
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8952a
+- type: src
+  content: https://saemobilus.sae.org/standards/as8952a-bearings-roller-rod-end-antifriction-self-aligning
+docidentifier:
+- content: SAE AS8952A
+  type: SAE
+  primary: true
+- content: 10.4271/as8952a
+  type: DOI
+date:
+- type: approved
+  at: '2005-02-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ACBG Rolling Element Bearing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers sealed, self-aligning, anti-friction, rod end roller bearings operating in the temperature range of −65 to +300 °F (−54 to +149 °C) and intermittent spikes to 350 °F (177 °C).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

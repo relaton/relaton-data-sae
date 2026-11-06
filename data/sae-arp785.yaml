@@ -1,0 +1,57 @@
+---
+id: SAEARP785
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PROCEDURE FOR THE DETERMINATION OF PARTICULATE CONTAMINATION IN HYDRAULIC
+    FLUIDS BY THE CONTROL FILTER GRAVIMETRIC PROCEDURE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp785
+- type: src
+  content: https://saemobilus.sae.org/standards/arp785-procedure-determination-particulate-contamination-hydraulic-fluids-control-filter-gravimetric-procedure
+docidentifier:
+- content: SAE ARP785
+  type: SAE
+  primary: true
+- content: 10.4271/arp785
+  type: DOI
+date:
+- type: approved
+  at: '1963-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This procedure describes a gravimetric method for the determination of particulate contaminant in hydraulic fluids by the control filter technique. With this method detectable contamination levels down to 0.2 mg per sample can be obtained with a standard deviation of ± 0.1 mg.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

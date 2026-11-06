@@ -1,0 +1,58 @@
+---
+id: SAEJ3067_202010
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Candidate Improvements to Dedicated Short Range Communications (DSRC) Message
+    Set Dictionary [SAE J2735] Using Systems Engineering Methods
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3067_202010
+- type: src
+  content: https://saemobilus.sae.org/standards/j3067_202010-candidate-improvements-dedicated-short-range-communications-dsrc-message-set-dictionary-sae-j2735-using-systems-engineering-methods
+docidentifier:
+- content: SAE J3067_202010
+  type: SAE
+  primary: true
+- content: 10.4271/j3067_202010
+  type: DOI
+date:
+- type: approved
+  at: '2020-10-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Communications Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is not a standard, it is a candidate for a standard being submitted to SAE for their consideration as a comment to SAE J2735. The term SAE J2735 SE candidate is used within this document to refer to this submission.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document specifies dialogs, messages, and the data frames and data elements that make up the messages specifically for use by applications intended to utilize the 5.9 GHz Dedicated Short Range Communications for Wireless Access in Vehicular Environments (DSRC/WAVE, referenced in this document simply as “DSRC"), communications systems. Although the scope of this Standard is focused on DSRC, these dialogs, messages, data frames and data elements have been designed, to the extent possible, to be of use for applications that may be deployed in conjunction with other wireless communications technologies. This standard therefore specifies the definitive message structure and provides sufficient background information to allow readers to properly interpret the message definitions from the point of view of an application developer implementing the messages according to the DSRC Standards.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

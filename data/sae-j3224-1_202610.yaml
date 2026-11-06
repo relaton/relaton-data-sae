@@ -1,0 +1,56 @@
+---
+id: SAEJ32241_202610
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Profile for Infrastructure Sensor Sharing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3224/1_202610
+- type: src
+  content: https://saemobilus.sae.org/standards/j32241_202610-profile-infrastructure-sensor-sharing
+docidentifier:
+- content: SAE J3224/1_202610
+  type: SAE
+  primary: true
+- content: 10.4271/j3224/1_202610
+  type: DOI
+date:
+- type: approved
+  at: '2026-10-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Core Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard provides the concept of operation and requirements for Infrastructure Sensor Sharing at the roadside. The concept of operation consists of the applicable use cases, functional flow, and related system descriptions. The requirements include a specific profile of SAE J3224 hosted by RSUs, the lower layers configurations and RF performance based on LTE-V2X PC5 Mode 4. It specifies how Infrastructure Sensor Sharing shall operate over a common channel, along with the requisite safety services/messages. Other standards such as the SAE J3224 and SAE J3161 family are referenced in the profile specified in this standard.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

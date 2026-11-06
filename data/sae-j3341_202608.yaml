@@ -1,0 +1,87 @@
+---
+id: SAEJ3341_202608
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Carbon Footprint Methodologies for Light-Duty Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3341_202608
+- type: src
+  content: https://saemobilus.sae.org/standards/j3341_202608-carbon-footprint-methodologies-light-duty-vehicles
+docidentifier:
+- content: SAE J3341_202608
+  type: SAE
+  primary: true
+- content: 10.4271/j3341_202608
+  type: DOI
+date:
+- type: approved
+  at: '2026-08-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Disclosure Addendum will provide recommended disclosures and a standardized scenario for life cycle assessment (LCA) studies which:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Include the midpoint impact category, climate change, via the impact indicator, global warming potential over a 100-year time frame (GWP&lt;sub&gt;100&lt;/sub&gt;), hereby referred to as greenhouse gas (GHG) emissions&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Adhere to ISO 14040 and ISO14044 standards&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Follow the cut-off approach for allocation per ISO14067:2018&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Are conducted for &lt;u&gt;light-duty vehicles (LDVs)&lt;/u&gt; with the following powertrains:
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Internal Combustion Engine&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Hybrid Electric&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Plug-in Hybrid Electric and Extended-Range Electric&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Battery Electric&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;These types of studies may also be referred to as a carbon footprint study or automotive LCA (A-LCA).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

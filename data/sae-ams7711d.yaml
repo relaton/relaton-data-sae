@@ -1,0 +1,54 @@
+---
+id: SAEAMS7711D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Sheet and Strip, Flat-Rolled, Electrical, Non-Oriented, 2.65(Si+Al), Type
+    47S188 or Type 64S213, Semi-Processed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7711d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7711d-sheet-strip-flat-rolled-electrical-non-oriented-265-si-al-type-47s188-type-64s213-semi-processed
+docidentifier:
+- content: SAE AMS7711D
+  type: SAE
+  primary: true
+- content: 10.4271/ams7711d
+  type: DOI
+date:
+- type: approved
+  at: '2000-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers two types of semi-processed silicon steel
+    in the form of sheet and strip supplied in coils or cut lengths.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

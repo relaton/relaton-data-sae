@@ -1,0 +1,57 @@
+---
+id: SAEAMS5802A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: IRON-NICKEL ALLOY, CORROSION AND HEAT RESISTANT, WELDING WIRE 41Fe - 37.5Ni
+    - 14Co - 4.8(Cb + Ta) - 1.5Ti Vacuum Melted, Low Expansion
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5802a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5802a-iron-nickel-alloy-corrosion-heat-resistant-welding-wire-41fe-375ni-14co-48-cb-ta-15ti-vacuum-melted-low-expansion
+docidentifier:
+- content: SAE AMS5802A
+  type: SAE
+  primary: true
+- content: 10.4271/ams5802a
+  type: DOI
+date:
+- type: approved
+  at: '1993-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat resistant iron-nickel alloy in the form of welding wire.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

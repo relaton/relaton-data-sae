@@ -1,0 +1,57 @@
+---
+id: SAEAS13003A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Measurement Systems Analysis Requirements for the Aero Engine Supply Chain
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as13003a
+- type: src
+  content: https://saemobilus.sae.org/standards/as13003a-measurement-systems-analysis-requirements-aero-engine-supply-chain
+docidentifier:
+- content: SAE AS13003A
+  type: SAE
+  primary: true
+- content: 10.4271/as13003a
+  type: DOI
+date:
+- type: approved
+  at: '2024-09-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-22 Aerospace Engine Supplier Quality (AESQ) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard defines the minimum requirements for conducting Measurement Systems Analysis (MSA) for variable and attribute assessment on characteristics as defined on the drawing or specification. It does not define the detailed analytical methods for each type of study as these can be found in existing published texts (see &lt;span class="xref"&gt;Section 2&lt;/span&gt; for guidance).&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

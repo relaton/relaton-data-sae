@@ -1,0 +1,68 @@
+---
+id: SAEJ3267_202606
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Automotive Air-Conditioning Service Ports Task Force Field Survey Results
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3267_202606
+- type: src
+  content: https://saemobilus.sae.org/standards/j3267_202606-automotive-air-conditioning-service-ports-task-force-field-survey-results
+docidentifier:
+- content: SAE J3267_202606
+  type: SAE
+  primary: true
+- content: 10.4271/j3267_202606
+  type: DOI
+date:
+- type: approved
+  at: '2026-06-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Interior Climate Control MAC Supplier Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The automotive air-conditioning service ports task force conducted a field survey with MACS (Mobile Air Climate Systems Association) in June 2021. The scope of this survey was to determine the types of failures reported primarily at member service shops related to automotive air-conditioning service ports.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

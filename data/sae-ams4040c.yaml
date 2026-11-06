@@ -1,0 +1,49 @@
+---
+id: SAEAMS4040C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY SHEET AND PLATE ALUMINUM COVERED 4.5Cu - 1.5Mg - 0.6Mn (Alc
+    24S-0)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4040c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4040c-aluminum-alloy-sheet-plate-aluminum-covered-45cu-15mg-06mn-alc-24s-0
+docidentifier:
+- content: SAE AMS4040C
+  type: SAE
+  primary: true
+- content: 10.4271/ams4040c
+  type: DOI
+date:
+- type: approved
+  at: '1952-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEARP5089
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: COMPOSITE REPAIR NDT/NDI HANDBOOK
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5089
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5089-composite-repair-ndt-ndi-handbook
+docidentifier:
+- content: SAE ARP5089
+  type: SAE
+  primary: true
+- content: 10.4271/arp5089
+  type: DOI
+date:
+- type: approved
+  at: '2011-11-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CACRC Commercial Aircraft Composite Repair Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides background information on the design, application, repair and inspection of composite structures, including metal bonding, used on civil transport aircraft. The objective of this document is to assist inspectors to know where to expect composite and metal bonded parts on the aircraft, to understand the capabilities of current NDT methods and to aid interpretation of inspection results.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not contain inspection procedures. It is intended to be informative and should not be used singularly, that is, it does not override any instructions that may be issued within a manufacturer's or operator's published documentation.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

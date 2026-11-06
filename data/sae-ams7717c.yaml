@@ -1,0 +1,57 @@
+---
+id: SAEAMS7717C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: NICKEL-IRON ALLOY, MAGNETIC, SHEET AND STRIP 50Ni - 50Fe Annealed, Forming
+    Grade
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7717c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7717c-nickel-iron-alloy-magnetic-sheet-strip-50ni-50fe-annealed-forming-grade
+docidentifier:
+- content: SAE AMS7717C
+  type: SAE
+  primary: true
+- content: 10.4271/ams7717c
+  type: DOI
+date:
+- type: approved
+  at: '1996-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a magnetically soft nickel-iron alloy in the form of sheet and strip.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

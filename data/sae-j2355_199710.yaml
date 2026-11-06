@@ -1,0 +1,56 @@
+---
+id: SAEJ2355_199710
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ITS DATA BUS ARCHITECTURE REFERENCE MODEL INFORMATION REPORT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2355_199710
+- type: src
+  content: https://saemobilus.sae.org/standards/j2355_199710-data-bus-architecture-reference-model-information-report
+docidentifier:
+- content: SAE J2355_199710
+  type: SAE
+  primary: true
+- content: 10.4271/j2355_199710
+  type: DOI
+date:
+- type: approved
+  at: '1997-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ITS Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report describes a reference model for an in-vehicle data bus for Intelligent Transportation Systems (ITS). It introduces the ITS Data Bus (IDB) reference model and describes overall IDB concepts.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

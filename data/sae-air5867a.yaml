@@ -1,0 +1,71 @@
+---
+id: SAEAIR5867A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Assessment of the Inlet/Engine Total Temperature Distortion Problem
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5867a
+- type: src
+  content: https://saemobilus.sae.org/standards/air5867a-assessment-inlet-engine-total-temperature-distortion-problem
+docidentifier:
+- content: SAE AIR5867A
+  type: SAE
+  primary: true
+- content: 10.4271/air5867a
+  type: DOI
+date:
+- type: approved
+  at: '2026-03-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-16 Turbine Engine Inlet Flow Distortion  Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report revises ARD50015 document to the AIR format. This report, as was the original, is intended to complement ARP1420C and AIR1419C documents issued by the SAE S-16 Committee on spatial total-pressure distortion. These previous documents addressed only total-pressure distortion and excluded total temperature distortion.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The subject of inlet total temperature distortion is addressed in this report with some background and identification of the problem area. The status of past efforts is reviewed, and an attempt is made to define where we are today. Deficiencies, voids, and limitations in knowledge and test techniques for total temperature distortion are identified.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

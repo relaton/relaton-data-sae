@@ -1,0 +1,57 @@
+---
+id: SAEAIR5026
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TEST CELL INSTRUMENTATION
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5026
+- type: src
+  content: https://saemobilus.sae.org/standards/air5026-test-cell-instrumentation
+docidentifier:
+- content: SAE AIR5026
+  type: SAE
+  primary: true
+- content: 10.4271/air5026
+  type: DOI
+date:
+- type: approved
+  at: '1996-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EG-1E Gas Turbine Test Facilities and Equipment
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document discusses, in broad general terms, typical present instrumentation practice for post-overhaul gas turbine engine testing. Production engine testing and engine development work are outside the scope of this document; they will use many more channels of instrumentation, and in most cases will have requirements for measurements that are never made in post-overhaul testing, such as fan airflow measurements, or strain measurements on compressor blades.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The specifications for each parameter to be measured, in terms of measurement range and measurement accuracy, are established by the engine manufacturers. Each test cell instrument system should meet or exceed those requirements. Furthermore, each instrument system should be recalibrated regularly, to ensure that it is still performing correctly.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEARP876E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Gas Turbine Jet Exhaust Noise Prediction
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp876e
+- type: src
+  content: https://saemobilus.sae.org/standards/arp876e-gas-turbine-jet-exhaust-noise-prediction
+docidentifier:
+- content: SAE ARP876E
+  type: SAE
+  primary: true
+- content: 10.4271/arp876e
+  type: DOI
+date:
+- type: approved
+  at: '2012-07-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-21 Aircraft Noise Measurement Aviation Emission Modeling
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;ARP876 is intended to provide specific recommended procedures for the prediction of gas turbine jet exhaust system noise sources. Procedures are issued as separate Sections, to allow for future updating as additional methods, consistent with state-of-the-art, become available.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

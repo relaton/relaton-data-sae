@@ -1,0 +1,57 @@
+---
+id: SAEAMS4125L
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy Die Forgings, and Rolled or Forged Rings 0.9Si - 0.62Mg
+    - 0.25Cr (6151-T6) Solution and Precipitation Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4125l
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4125l-aluminum-alloy-die-forgings-rolled-forged-rings-09si-062mg-025cr-6151-t6-solution-precipitation-heat-treated
+docidentifier:
+- content: SAE AMS4125L
+  type: SAE
+  primary: true
+- content: 10.4271/ams4125l
+  type: DOI
+date:
+- type: approved
+  at: '2014-11-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of die forgings, rolled or forged rings, and stock for forgings and rings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

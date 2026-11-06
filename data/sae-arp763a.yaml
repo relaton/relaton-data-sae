@@ -1,0 +1,56 @@
+---
+id: SAEARP763A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Accumulators, Ground, Hydropneumatic Pressure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp763a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp763a-accumulators-ground-hydropneumatic-pressure
+docidentifier:
+- content: SAE ARP763A
+  type: SAE
+  primary: true
+- content: 10.4271/arp763a
+  type: DOI
+date:
+- type: approved
+  at: '2012-07-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C4 Power Sources Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers ground type hydropneumatic pressure accumulators for use in ground support hydraulic systems at rated pressures ranging up to 5,000 psi including details pertinent to the design, fabrication, and performance of the accumulators.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

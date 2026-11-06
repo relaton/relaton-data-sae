@@ -1,0 +1,50 @@
+---
+id: SAEB92196
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Involute Splines and Inspection
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/b-92.1/96
+- type: src
+  content: https://saemobilus.sae.org/standards/b-92.196-involute-splines-inspection
+docidentifier:
+- content: SAE B-92.1/96
+  type: SAE
+  primary: true
+- content: 10.4271/b-92.1/96
+  type: DOI
+date:
+- type: approved
+  at: '1996-07-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This document is an extension of the current B92.1 standard. It does not supersede the B92.1 standard. All splines currently meeting the requirements of the B92.1 standard are still in compliance with that standard. A table of the variables and the formula that calculates its value is included. Splines conforming to B92.1 will mate with splines conforming to B92.1b. Splines conforming to B92.1 shall be used unless B92.1b is specified or otherwise agreed to by the purchaser and the supplier. This addendum does not apply to major diameter fit splines.&lt;/p&gt;
+    &lt;p&gt;Units of Measurement&lt;/p&gt;
+    &lt;p&gt;Linear dimensions are expressed in inches, and angular dimensions are expressed in degrees.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

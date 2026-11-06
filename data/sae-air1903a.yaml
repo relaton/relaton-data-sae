@@ -1,0 +1,60 @@
+---
+id: SAEAIR1903A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Overview and History of Aircraft Inerting Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1903a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1903a-overview-history-aircraft-inerting-systems
+docidentifier:
+- content: SAE AIR1903A
+  type: SAE
+  primary: true
+- content: 10.4271/air1903a
+  type: DOI
+date:
+- type: approved
+  at: '2021-10-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5D Fuel Tank Flammability Reduction Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;An airplane fuel tank inerting system provides an inert atmosphere in a fuel tank to minimize explosive ignition of fuel vapor.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) deals with the three methods of fuel tank inerting systems currently used in operational aircraft: (1) on-board inert gas generation systems (OBIGGS), (2) liquid/gaseous nitrogen systems, and (3) halon systems. The OBIGGS and nitrogen systems generally are designed to provide full-time fuel tank fire protection; the halon systems generally are designed to provide only on-demand or combat-specific protection.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document also addresses other design considerations that affect fuel tank flammability such as fuel tank pressure and other methods for reducing fuel tank flammability.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This AIR does not treat the subject of explosion suppression foam (ESF) that has been used for fuel tank explosion protection on some military aircraft. ESF is also available for retrofit for commercial airplanes. The primary disadvantages of foam are weight, reduction of usable fuel, and the added maintenance complexity when the foam must be removed for tank maintenance or inspection. AIR4170 is an excellent reference for the use of ESF for fuel tank explosion protection.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Note that across the military and commercial aviation industry, different terminology has been used regarding fuel tank inerting. In military applications, the system is referred to as on-board inert gas generation system (OBIGGS). Regulatory agencies use the term flammability reduction means (FRM). OEMs in commercial applications use several terms: fuel tank inerting system (FTIS), flammability reduction system (FRS), inert gas system (IGS) and nitrogen generation system (NGS).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

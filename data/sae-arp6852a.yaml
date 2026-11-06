@@ -1,0 +1,79 @@
+---
+id: SAEARP6852A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Methods and Processes for Evaluation of Aerodynamic Effects of SAE-Qualified
+    Aircraft Ground Deicing/Anti-icing Fluids
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6852a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6852a-methods-processes-evaluation-aerodynamic-effects-sae-qualified-aircraft-ground-deicing-anti-icing-fluids
+docidentifier:
+- content: SAE ARP6852A
+  type: SAE
+  primary: true
+- content: 10.4271/arp6852a
+  type: DOI
+date:
+- type: approved
+  at: '2016-04-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12ADF Aircraft Deicing Fluids
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes methods that are known to have been used by aircraft manufacturers to evaluate aircraft aerodynamic performance and handling effects following application of aircraft ground deicing/anti-icing fluids (“fluids”), as well as methods under development. Guidance and insight based upon those experiences are provided, including:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Similarity Analyses&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Icing Wind Tunnel Tests&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Flight Tests&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Computational Fluid Dynamics and other Numerical Analyses&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;This document also describes:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;The history of evaluation of the aerodynamic effects of fluids&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;The effects of fluids on aircraft aerodynamics&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;The testing for aerodynamic acceptability of fluids for SAE and regulatory qualification performed in accordance with AS5900&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Additionally, &lt;span class="xref"&gt;Appendices A&lt;/span&gt; to &lt;span class="xref"&gt;E&lt;/span&gt; present individual aircraft manufacturers’ histories and methodologies which substantially contributed to the improvement of knowledge and processes for the evaluation of fluid aerodynamic effects.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: This document is applicable for fluids that are “qualified” to (i.e., have passed) the tests and other standards prescribed in AMS1424 or AMS1428 and are properly used in accordance with ARP4737.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: There are topics of potential interest not discussed in this document, such as re-hydrated gel residues - (see &lt;span class="xref"&gt;2.2&lt;/span&gt;).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;CAUTION: The results and conclusions of the various test programs described herein should not be assumed to be universally applicable.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

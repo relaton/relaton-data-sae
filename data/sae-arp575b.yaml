@@ -1,0 +1,59 @@
+---
+id: SAEARP575B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Filter Patch Testing Procedures for Aerospace Hydraulic Pumps and Motors
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp575b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp575b-filter-patch-testing-procedures-aerospace-hydraulic-pumps-motors
+docidentifier:
+- content: SAE ARP575B
+  type: SAE
+  primary: true
+- content: 10.4271/arp575b
+  type: DOI
+date:
+- type: approved
+  at: '1999-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This Aerospace Recommended Practice (ARP) sets forth recommendations
+    of SAE Subcommittee A-6C (Fluid Power Distribution Elements) relative to the procedure
+    and methods to be used in the obtaining and evaluation of filter patch tests for
+    aerospace hydraulic pumps and motors. These patches are to be used in a quality
+    control program to insure that units are operating properly prior to delivery
+    to the customer.  This is to promote an optimum in cleanliness standards in aerospace
+    hydraulic circuits.  It is expected that this will promote a longer service life
+    of the pump or motor.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

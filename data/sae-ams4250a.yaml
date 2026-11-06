@@ -1,0 +1,57 @@
+---
+id: SAEAMS4250A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Plate 8.1Zn - 2.3Mg - 1.0Cu - Zr (7449-T7651) Solution
+    Heat Treated, Stress Relieved, and Overaged
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4250a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4250a-aluminum-alloy-plate-81zn-23mg-10cu-zr-7449-t7651-solution-heat-treated-stress-relieved-overaged
+docidentifier:
+- content: SAE AMS4250A
+  type: SAE
+  primary: true
+- content: 10.4271/ams4250a
+  type: DOI
+date:
+- type: approved
+  at: '2012-04-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of plate.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

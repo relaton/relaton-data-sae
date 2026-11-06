@@ -1,0 +1,56 @@
+---
+id: SAEARP5015
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GROUND EQUIPMENT - 400 HERTZ GROUND POWER PERFORMANCE REQUIREMENTS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5015
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5015-ground-equipment-400-hertz-ground-power-performance-requirements
+docidentifier:
+- content: SAE ARP5015
+  type: SAE
+  primary: true
+- content: 10.4271/arp5015
+  type: DOI
+date:
+- type: approved
+  at: '1996-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) covers the requirements for ground power equipment that supplies 115/200 V, 3-phase, 400 Hz output capable of powering aircraft type loads requiring MIL-STD-704E/DFS-400 quality power. All forms of ground power including mobile and fixed systems are addressed by this document. High voltage (270 V DC) systems are not included in this specification.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

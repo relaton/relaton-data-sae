@@ -1,0 +1,71 @@
+---
+id: SAEJ3311_202603
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Vehicle Platform Power Management
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3311_202603
+- type: src
+  content: https://saemobilus.sae.org/standards/j3311_202603-vehicle-platform-power-management
+docidentifier:
+- content: SAE J3311_202603
+  type: SAE
+  primary: true
+- content: 10.4271/j3311_202603
+  type: DOI
+date:
+- type: approved
+  at: '2026-03-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Platform Power Management Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report is applicable to all types of automotive Electrical/Electronic (E/E) system architectures. It is important to develop a standard approach to commanding differentiable vehicle power policies from a centralized host Electronic Control Unit (ECU) location to applicable and capable ECUs and devices for maximum energy and thermal efficiency while creating and maintaining reuse across the ecosystem. Thus, adoption at a global level will enable efficiencies in product development and validation between all Original Equipment Manufacturers (OEMs) and the supply chain while maximizing reuse of ECUs and devices including respective power policies and capabilities between OEM vehicle systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The definition of the Central System Power Manager (CSPM), VPPM Agent, Element Descriptor Tables, Element Descriptor Files, reference diagrams, and feature definitions are considered applicable and in scope for definition and standardization under SAE J3311.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Software libraries and deployment, power state transition definition, vehicle network, protocol, component E/E topology/structure, electrical implementation schematics, and cybersecurity of transmission and storage of data are considered out of scope for definition and standardization under SAE J3311.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

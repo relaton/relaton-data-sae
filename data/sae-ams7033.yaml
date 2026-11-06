@@ -1,0 +1,56 @@
+---
+id: SAEAMS7033
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy Powder 4.6Cu - 3.4Ti - 1.4B - 0.75Ag - 0.27Mg
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7033
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7033-aluminum-alloy-powder-46cu-34ti-14b-075ag-027mg
+docidentifier:
+- content: SAE AMS7033
+  type: SAE
+  primary: true
+- content: 10.4271/ams7033
+  type: DOI
+date:
+- type: approved
+  at: '2021-06-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS AM Additive Manufacturing Metals
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of pre-alloyed powder.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

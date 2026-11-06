@@ -1,0 +1,69 @@
+---
+id: SAEAMS4156M
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Extrusions, 0.68Mg - 0.40Si (6063-T6), Solution and Precipitation
+    Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4156m
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4156m-aluminum-alloy-extrusions-068mg-040si-6063-t6-solution-precipitation-heat-treated
+docidentifier:
+- content: SAE AMS4156M
+  type: SAE
+  primary: true
+- content: 10.4271/ams4156m
+  type: DOI
+date:
+- type: approved
+  at: '2026-04-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of extruded bars, rods, wire, profiles, and tubing up to and including 1.000 inch (25.4 mm) in diameter, least thickness, or tube wall thickness (see &lt;span class="xref"&gt;8.6&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

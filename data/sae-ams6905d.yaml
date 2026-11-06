@@ -1,0 +1,56 @@
+---
+id: SAEAMS6905D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Titanium Alloy Bars and Forging Stock, 6.0Al - 2.0Sn - 4.0Zr - 2.0Mo, Duplex
+    Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6905d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6905d-titanium-alloy-bars-forging-stock-60al-20sn-40zr-20mo-duplex-annealed
+docidentifier:
+- content: SAE AMS6905D
+  type: SAE
+  primary: true
+- content: 10.4271/ams6905d
+  type: DOI
+date:
+- type: approved
+  at: '2026-02-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G Titanium and Refractory Metals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>&lt;p&gt;This specification covers a titanium alloy in the form of
+    bars up through 3.000 inches (76.20 mm), inclusive, in diameter or least distance
+    between parallel sides with a maximum cross-sectional area of 10 square inches
+    (64.5 cm&lt;sup&gt;2&lt;/sup&gt;) and forging stock of any size (see 8.7).&lt;/p&gt;</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,66 @@
+---
+id: SAEAIR6987
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Artificial Intelligence in Aeronautical Systems: Taxonomy'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6987
+- type: src
+  content: https://saemobilus.sae.org/standards/air6987-artificial-intelligence-aeronautical-systems-taxonomy
+docidentifier:
+- content: SAE AIR6987
+  type: SAE
+  primary: true
+- content: 10.4271/air6987
+  type: DOI
+date:
+- type: approved
+  at: '2024-12-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-34 Artificial Intelligence in Aviation
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The objective of this document is to provide a classification of AI techniques that may be used in AI-based systems for aeronautical products. Aeronautical products include products in Airborne and Air Traffic Management (ATM) and Air Navigation Systems (ANS) domains for crewed and uncrewed aircraft.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Intended to provide an understanding of the AI space, which will improve over time&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Not intended to provide guidance, objectives, or safety considerations&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;A scenario builder for AI technologies, in particular supervised learning&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;The publication of a taxonomy document for the aviation domain is an opportunity to support other AI standardization initiatives that will also publish taxonomy documents.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Disclaimer: This document provides content to support other products of the SAE G-34/EUROCAE WG-114 Committee.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

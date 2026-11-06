@@ -1,0 +1,57 @@
+---
+id: SAEAMS5395D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Alloy Iron Castings, Ductile, Sand, Corrosion Resistant 22Ni (2.5 - 3.0C)
+    As Cast
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5395d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5395d-alloy-iron-castings-ductile-sand-corrosion-resistant-22ni-25-30c-cast
+docidentifier:
+- content: SAE AMS5395D
+  type: SAE
+  primary: true
+- content: 10.4271/ams5395d
+  type: DOI
+date:
+- type: approved
+  at: '2018-03-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion-resistant alloy ductile iron in the form of sand castings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

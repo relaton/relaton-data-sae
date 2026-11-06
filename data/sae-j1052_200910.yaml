@@ -1,0 +1,57 @@
+---
+id: SAEJ1052_200910
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Motor Vehicle Driver and Passenger Head Position
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1052_200910
+- type: src
+  content: https://saemobilus.sae.org/standards/j1052_200910-motor-vehicle-driver-passenger-head-position
+docidentifier:
+- content: SAE J1052_200910
+  type: SAE
+  primary: true
+- content: 10.4271/j1052_200910
+  type: DOI
+date:
+- type: approved
+  at: '2009-10-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Human Accom and Design Devices Stds Comm
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard describes head position contours and procedures for locating the contours in a vehicle. Head position contours are useful in establishing accommodation requirements for head space and are required for several measures defined in SAE J1100. Separate contours are defined depending on occupant seat location and the desired percentage (95 and 99) of occupant accommodation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is primarily focused on application to Class A vehicles (see SAE J1100), which include most personal-use vehicles (passenger cars, sport utility vehicles, pick-up trucks). A procedure for use in Class B vehicles can be found in &lt;span class="xref"&gt;Appendix B&lt;/span&gt;.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

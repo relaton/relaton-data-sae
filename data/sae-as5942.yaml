@@ -1,0 +1,56 @@
+---
+id: SAEAS5942
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Marking of Electrical Insulating Materials
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5942
+- type: src
+  content: https://saemobilus.sae.org/standards/as5942-marking-electrical-insulating-materials
+docidentifier:
+- content: SAE AS5942
+  type: SAE
+  primary: true
+- content: 10.4271/as5942
+  type: DOI
+date:
+- type: approved
+  at: '2019-12-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8A Elec Wiring and Fiber Optic Interconnect Sys Install
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes the performance requirements for the identification of wire and cable by indirect markings that have been applied to electrical insulating materials including heat shrink sleeving, wrap around labels and “tie-on” tags as well as any other types of materials used for indirect marking. This specification covers the processes used to mark these materials, including impact ink marking, thermal transfer, hot stamp, and lasers, etc. This specification does not cover the direct marking on insulated electrical wires and cables.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

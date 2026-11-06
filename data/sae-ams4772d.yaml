@@ -1,0 +1,57 @@
+---
+id: SAEAMS4772D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BRAZING FILLER METAL, SILVER 54Ag - 40Cu - 5.0Zn - 1.0Ni 1325° - 1575°F
+    (718° - 857°C) Melting Range
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4772d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4772d-brazing-filler-metal-silver-54ag-40cu-50zn-10ni-1325-1575f-718-857c-melting-range
+docidentifier:
+- content: SAE AMS4772D
+  type: SAE
+  primary: true
+- content: 10.4271/ams4772d
+  type: DOI
+date:
+- type: approved
+  at: '1974-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a silver-base alloy in the form of wire, rod, strip, sheet, pig, powder, shot, and chips.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

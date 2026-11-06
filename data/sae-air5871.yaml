@@ -1,0 +1,56 @@
+---
+id: SAEAIR5871
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Prognostics for Gas Turbine Engines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5871
+- type: src
+  content: https://saemobilus.sae.org/standards/air5871-prognostics-gas-turbine-engines
+docidentifier:
+- content: SAE AIR5871
+  type: SAE
+  primary: true
+- content: 10.4271/air5871
+  type: DOI
+date:
+- type: approved
+  at: '2013-09-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document applies to prognostics of gas turbine engines and its related auxiliary and subsystems. Its purpose is to define the meaning of prognostics with regard to gas turbine engines and related subsystems, explain its potential and limitations, and to provide guidelines for potential approaches for use in existing condition monitoring environments. It also includes some examples.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

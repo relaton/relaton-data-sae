@@ -1,0 +1,56 @@
+---
+id: SAEJ8171_200912
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Engineering Design Serviceability Guidelines--Construction and Industrial
+    Machinery--Serviceability Definitions--Off-Road Work Machines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j817/1_200912
+- type: src
+  content: https://saemobilus.sae.org/standards/j8171_200912-engineering-design-serviceability-guidelines-construction-industrial-machinery-serviceability-definitions-off-road-work-machines
+docidentifier:
+- content: SAE J817/1_200912
+  type: SAE
+  primary: true
+- content: 10.4271/j817/1_200912
+  type: DOI
+date:
+- type: approved
+  at: '2009-12-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Machine Technical Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This SAE Information Report establishes a hierarchy of Product Effectiveness, defines Serviceability, Maintainability, Repairability, and Diagnostics, and relates them to Product Effectiveness. Effectiveness of this procedure depends on its use during early stages of design.
+
+    This document applies to machines defined in J1057 and categorized in J1116.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

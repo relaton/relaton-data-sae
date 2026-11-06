@@ -1,0 +1,58 @@
+---
+id: SAEJ3321_202603
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Verification and Validation of AI/ML-Based Systems in Ground Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3321_202603
+- type: src
+  content: https://saemobilus.sae.org/standards/j3321_202603-verification-validation-ai-ml-based-systems-ground-vehicles
+docidentifier:
+- content: SAE J3321_202603
+  type: SAE
+  primary: true
+- content: 10.4271/j3321_202603
+  type: DOI
+date:
+- type: approved
+  at: '2026-03-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Artificial Intelligence
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This document intends to focus on AI/ML systems deployed on board and/or off board the vehicles, including the methods and tools used anywhere in the life cycle of automotive system development. This includes, for instance, AI/ML systems used in the identification of parameters, calibration of classical or neural network-based control algorithms, system level modeling and validation, data process automation pipeline such as automated labeling and annotation, data quality checks, etc. Furthermore, with the continued success of Generative AI (GenAI) capabilities, it is becoming a common practice to leverage these capabilities beyond just generating synthetic data. Multiple artifacts such as code, testing scenarios, and benchmarks could be developed using GenAI tools, necessitating the additional verification of these “generative” development steps. The fundamental challenge with generative methods is grounding, especially if data, scenes, and tests are used for the development of AI-enabled products and features.&lt;/p&gt;
+    &lt;p&gt;AI and ML systems have been the subject of several national and international standards and guideline documents. A brief selection of these are given in Section 2. One, ISO PAS 8800:2024, focuses on safety over the entire life cycle of AI development and deployment.&lt;/p&gt;
+    &lt;p&gt;This document is intended to serve the following purpose:&lt;/p&gt;
+    &lt;p&gt;a. The document is an information report with no mandatory requirements.&lt;/p&gt;
+    &lt;p&gt;b. The focus of the document is only on V&amp;V of the development life cycle of AI-based components or systems.&lt;/p&gt;
+    &lt;p&gt;c. The V&amp;V methods are general in nature. The methods discussed include, but are not restricted to, safety requirements or properties.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

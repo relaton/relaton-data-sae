@@ -1,0 +1,56 @@
+---
+id: SAEAS28431A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Hand Torque Wrenches (Mechanical, Impulse)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as28431a
+- type: src
+  content: https://saemobilus.sae.org/standards/as28431a-aerospace-hand-torque-wrenches-mechanical-impulse
+docidentifier:
+- content: SAE AS28431A
+  type: SAE
+  primary: true
+- content: 10.4271/as28431a
+  type: DOI
+date:
+- type: approved
+  at: '2021-01-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EG-1B Hand Tools Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE International Aerospace Standard covers requirements for micrometer adjustable, feel impulse, torque wrenches. The torque wrench is used to apply a pre-set torque to threaded fasteners and other torque requirements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

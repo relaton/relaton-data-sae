@@ -1,0 +1,59 @@
+---
+id: SAEAS5652A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 10 Megabit/sec Network Configuration Digital Time Division Command/Response
+    Multiplex Data Bus
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5652a
+- type: src
+  content: https://saemobilus.sae.org/standards/as5652a-10-megabit-sec-network-configuration-digital-time-division-command-response-multiplex-data-bus
+docidentifier:
+- content: SAE AS5652A
+  type: SAE
+  primary: true
+- content: 10.4271/as5652a
+  type: DOI
+date:
+- type: approved
+  at: '2025-04-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) contains requirements for a digital time division command/response multiplex data bus, for use in systems integration that is functionally similar to MIL-STD-1553B with Notice 2 but with a star topology and some deleted functionality. Even with the use of this document, differences may exist between multiplex data buses in different system applications due to particular application requirements and the options allowed in this document. The system designer must recognize this fact and design the multiplex bus controller (BC) hardware and software to accommodate such differences. These designer selected options must exist to allow the necessary flexibility in the design of specific multiplex systems in order to provide for the control mechanism, architectural redundancy, degradation concept, and traffic patterns peculiar to the specific application requirements.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

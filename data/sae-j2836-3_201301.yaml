@@ -1,0 +1,57 @@
+---
+id: SAEJ28363_201301
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Use Cases for Plug-in Vehicle Communication as a Distributed Energy Resource
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2836/3_201301
+- type: src
+  content: https://saemobilus.sae.org/standards/j28363_201301-use-cases-plug-vehicle-communication-a-distributed-energy-resource
+docidentifier:
+- content: SAE J2836/3_201301
+  type: SAE
+  primary: true
+- content: 10.4271/j2836/3_201301
+  type: DOI
+date:
+- type: approved
+  at: '2013-01-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report establishes use cases for a Plug-in Electric Vehicle (PEV) communicating with an Energy Management System (EMS) as a Distributed Energy Resource (DER). The primary purpose of SAE J2836/3™ is to define use cases which must be supported by SAE J2847/3. This document also provides guidance for updates to SAE J2847/2 to allow an inverter in an EVSE to use the PEV battery when operating together as a distributed energy resource (DER).&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

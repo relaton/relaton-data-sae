@@ -1,0 +1,55 @@
+---
+id: SAEJ607_198808
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Small Spark Ignition Engine Test Code
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j607_198808
+- type: src
+  content: https://saemobilus.sae.org/standards/j607_198808-small-spark-ignition-engine-test-code
+docidentifier:
+- content: SAE J607_198808
+  type: SAE
+  primary: true
+- content: 10.4271/j607_198808
+  type: DOI
+date:
+- type: approved
+  at: '1988-08-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Small Engine and Powered Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>The purpose of this code is to prove a uniform means of comparing small gasoline engines of 0.82 L (50 in3) or less in displacement and 15.1 kW (20 hp) or less in power output. It is not intended as a laboratory manual. Governor characteristics are considered part of the end item specification.
+
+    Replaced with J1349</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

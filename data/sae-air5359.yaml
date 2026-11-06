@@ -1,0 +1,58 @@
+---
+id: SAEAIR5359
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Requirements for Registration of Quality Systems to AS9000 or AS9100
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5359
+- type: src
+  content: https://saemobilus.sae.org/standards/air5359-requirements-registration-quality-systems-as9000-as9100
+docidentifier:
+- content: SAE AIR5359
+  type: SAE
+  primary: true
+- content: 10.4271/air5359
+  type: DOI
+date:
+- type: approved
+  at: '2000-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This procedure shall be applied by ANSI-RAB or other Accreditation Bodies to registrars that meet the criteria of &lt;span class="xref"&gt;5.2&lt;/span&gt; of this document, when specified by an aerospace company requiring assessment and/or registration of their quality system to the requirements of this procedure.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The quality system standard shall be AS9000 or AS9100 and shall be applied to the supplier's complete Quality System that covers aerospace products.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

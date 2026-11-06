@@ -1,0 +1,49 @@
+---
+id: SAEAMS5718
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS, FORGINGS, TUBING, AND RINGS, CORROSION RESISTANT 11.8Cr - 2.5Ni
+    - 1.8Mo - 0.33V (0.08 - 0.15 C)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5718
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5718-steel-bars-forgings-tubing-rings-corrosion-resistant-118cr-25ni-18mo-033v-008-015-c
+docidentifier:
+- content: SAE AMS5718
+  type: SAE
+  primary: true
+- content: 10.4271/ams5718
+  type: DOI
+date:
+- type: approved
+  at: '1970-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

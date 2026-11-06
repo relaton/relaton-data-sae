@@ -1,0 +1,101 @@
+---
+id: SAEJ3292_202604
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Automated Vehicle Marshalling System
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3292_202604
+- type: src
+  content: https://saemobilus.sae.org/standards/j3292_202604-automated-vehicle-marshalling-system
+docidentifier:
+- content: SAE J3292_202604
+  type: SAE
+  primary: true
+- content: 10.4271/j3292_202604
+  type: DOI
+date:
+- type: approved
+  at: '2026-04-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Core Technical Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this standard is Automated Vehicle Marshalling (AVM) of vehicles to enable remote control functionality for achieving SAE Level 4 (High Driving Automation according to the Surface Vehicle Recommended Practice SAE J3016) driving capabilities at controlled speeds within geofenced private controlled environments utilizing infrastructure-assisted sensing. It specifies a concept of operations which includes a reference-system architecture and use cases, system functional and performance requirements, multiple wireless communications protocols, and associated wireless messages to support AVM. AVM use cases such as plant marshalling, depot marshalling, valet parking, electric vehicle charging, etc.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The Automated Vehicle Marshalling Central Server (AVM CS) infrastructure does detect objects, vehicles, vulnerable road users, and any obstructions that help guide the Automated Vehicle (AV) starting from uninitiated, activation, identification, automated control, unavailable and deactivation states of the respective feature lifecycle of AVM use cases by using only two wireless messages named Infrastructure Marshalling Message (IMM) and Vehicle Marshalling Message (VMM).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard specifies the minimum requirements for the Vehicle-to-Everything (V2X) messages, such as IMM and VMM, and the corresponding data frames and elements which are defined to support Infrastructure guided AVM use cases over Direct (LTE-V2X) and Network-based wireless communications technologies. These messages are utilized to achieve desired interoperability, safety, and data integrity.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard focuses on an infrastructure-led implementation of an AVM system analogue to a Type 2 Automated Vehicle Parking (AVP) system implementation as described in International Organization for Standardization (ISO) 23374-1; the functional allocations listed below are part of the Type 2 AVP System where AVM CS of infrastructure carries out most of the operation functions including AV Identification and Emergency Stopping:&lt;/div&gt;
+
+    &lt;ul class="list disc"&gt;
+
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Destination Assignment&lt;/div&gt;&lt;/li&gt;
+
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Route Planning&lt;/div&gt;&lt;/li&gt;
+
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Object and Event Detection and Response (OEDR)&lt;/div&gt;&lt;/li&gt;
+
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;AV Localization&lt;/div&gt;&lt;/li&gt;
+
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Path Determination&lt;/div&gt;&lt;/li&gt;
+
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Trajectory Calculation&lt;/div&gt;&lt;/li&gt;
+
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Vehicle Motion Control (VMC)&lt;/div&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;div class="htmlview paragraph"&gt;NOTE 1: Functional Safety rating Automotive Safety Integrity Level (ASIL) related requirements are outside the scope of this standard.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;NOTE 2: This standard could be utilized as a base for human operator assisted AVM. The implementation details from human operator assistance without Infrastructure assistance is outside the scope of this standard.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;NOTE 3: Unless otherwise marked as Informative, all material in this standard is to be considered normative.&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

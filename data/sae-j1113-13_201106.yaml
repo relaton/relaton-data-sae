@@ -1,0 +1,61 @@
+---
+id: SAEJ111313_201106
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Electromagnetic Compatibility Measurement Procedure for Vehicle Components
+    - Part 13: Immunity to Electrostatic Discharge'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1113/13_201106
+- type: src
+  content: https://saemobilus.sae.org/standards/j111313_201106-electromagnetic-compatibility-measurement-procedure-vehicle-components-part-13-immunity-electrostatic-discharge
+docidentifier:
+- content: SAE J1113/13_201106
+  type: SAE
+  primary: true
+- content: 10.4271/j1113/13_201106
+  type: DOI
+date:
+- type: approved
+  at: '2011-06-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard specifies the test methods and procedures necessary to evaluate electrical components intended for automotive use to the threat of Electrostatic Discharges (ESDs). It describes test procedures for evaluating electrical components on the bench in the powered mode and for the packaging and handling non-powered mode.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A procedure for calibrating the simulator that is used for electrostatic discharges is given in &lt;span class="xref"&gt;Appendix A&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;An example of how to calculate the RC Time Constant is given in &lt;span class="xref"&gt;Appendix B&lt;/span&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Functional Performance Status Classifications for immunity to ESD and Sensitivity classifications for ESD sensitive devices are given in &lt;span class="xref"&gt;Appendix C&lt;/span&gt;.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

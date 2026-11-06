@@ -1,0 +1,56 @@
+---
+id: SAEAMS03_11A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Phosphate Treatment of Iron and Steel
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams03_11a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams03_11a-phosphate-treatment-iron-steel
+docidentifier:
+- content: SAE AMS03-11A
+  type: SAE
+  primary: true
+- content: 10.4271/ams03_11a
+  type: DOI
+date:
+- type: approved
+  at: '2017-10-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard specifies requirements for the processing of iron and steel (excluding corrosion resisting steels) to produce coatings consisting essentially of inorganic phosphates, which are intended to be used in conjunction with supplementary finishes for the protection of the basis metal against corrosion (and in certain cases to give, additionally, anti-wear properties to sliding surfaces).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

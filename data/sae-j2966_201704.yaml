@@ -1,0 +1,60 @@
+---
+id: SAEJ2966_201704
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guidelines for Aerodynamic Assessment of Medium and Heavy Commercial Ground
+    Vehicles Using Computational Fluid Dynamics
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2966_201704
+- type: src
+  content: https://saemobilus.sae.org/standards/j2966_201704-guidelines-aerodynamic-assessment-medium-heavy-commercial-ground-vehicles-using-computational-fluid-dynamics
+docidentifier:
+- content: SAE J2966_201704
+  type: SAE
+  primary: true
+- content: 10.4271/j2966_201704
+  type: DOI
+date:
+- type: approved
+  at: '2017-04-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Aerodynamics and Fuel Economy Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document outlines general requirements for the use of CFD methods for aerodynamic simulation of medium and heavy commercial ground vehicles weighing more than 10 000lbs. The document provides guidance for aerodynamic simulation with CFD methods to support current vehicle characterization, vehicle development, vehicle concept development and vehicle component development. The guidelines presented in the document are related to Navier-Stokes and Lattice-Boltzmann based solvers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is only valid for the classes of CFD methods and applications mentioned. Other classes of methods and applications may or may not be appropriate to simulate the aerodynamics of medium and heavy commercial ground vehicle weighing more than 10 000lbs.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

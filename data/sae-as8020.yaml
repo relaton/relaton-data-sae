@@ -1,0 +1,57 @@
+---
+id: SAEAS8020
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Minimum Performance Standards for Engine Driven D.C. Generators/Starter-Generators
+    and Associated Voltage Regulators
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8020
+- type: src
+  content: https://saemobilus.sae.org/standards/as8020-minimum-performance-standards-engine-driven-dc-generators-starter-generators-associated-voltage-regulators
+docidentifier:
+- content: SAE AS8020
+  type: SAE
+  primary: true
+- content: 10.4271/as8020
+  type: DOI
+date:
+- type: approved
+  at: '2017-10-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7A Generators and Controls Motors and Magnetic Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Standard (AS) covers the general minimum performance standards for generators/starter-generators and associated voltage regulators for use in direct current (DC) electric systems for civil aircraft.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

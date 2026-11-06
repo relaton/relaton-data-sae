@@ -1,0 +1,64 @@
+---
+id: SAEAS8034A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Minimum Performance Standard for Airborne Multipurpose Electronic Displays
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8034a
+- type: src
+  content: https://saemobilus.sae.org/standards/as8034a-minimum-performance-standard-airborne-multipurpose-electronic-displays
+docidentifier:
+- content: SAE AS8034A
+  type: SAE
+  primary: true
+- content: 10.4271/as8034a
+  type: DOI
+date:
+- type: approved
+  at: '2005-07-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4ED Electronics Display Subcommittee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) specifies minimum performance standards for Electronic Displays which are intended for use in the cockpit by the pilot or other flight personnel under standard and other environmental conditions. The four basic types of displays based on function and criticality are covered as follows:&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;Airborne Electronic Displays can include one or more of the following interconnected components. Other configurations are possible.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Symbol Generator/Processor Unit (SG) containing display processing and symbol generation processing and symbol generation capability, power supplies, interface logic/buffer circuits and Display Unit interface capability. The SG receives data from external sources, produces symbols as electronic signals, and transmits the symbols to the Display Units(s).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Control Panel (CP) is an optional component providing the means for manually selecting display symbology options/modes, selections, settings, brightness, etc.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Display Unit (DU) providing the visual display of SG symbology. In the case of Head Up Displays, this information is combined with a view of the real world. The minimum performance standards for Head Up Displays given in AS8055 are applicable.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Electronic display systems covered by this document are displays whose failure may lead to loss of critical displayed information. System design or installation must recognize this characteristic and include appropriate redundancy criteria where applicable.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;ARP4256 gives recommended means, but not the only means, of compliance to this standard for Part 25 LCD displays. That document is subject to change to keep pace with experience and technical advances. A similar document for Part 23 aircraft does not exist.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

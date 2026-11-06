@@ -1,0 +1,49 @@
+---
+id: SAEAS126275A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STUD - STRAIGHT, CADMIUM PLATED, STEEL, UNS G87400, 125 KSI MIN, .3125
+    - 18 NS X .3125 - 24 UNF-3A
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as126275a
+- type: src
+  content: https://saemobilus.sae.org/standards/as126275a-stud-straight-cadmium-plated-steel-uns-g87400-125-ksi-min-3125-18-ns-x-3125-24-unf-3a
+docidentifier:
+- content: SAE AS126275A
+  type: SAE
+  primary: true
+- content: 10.4271/as126275a
+  type: DOI
+date:
+- type: approved
+  at: '2003-06-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

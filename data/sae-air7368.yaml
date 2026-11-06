@@ -1,0 +1,57 @@
+---
+id: SAEAIR7368
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Cybersecurity for Propulsion Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air7368
+- type: src
+  content: https://saemobilus.sae.org/standards/air7368-cybersecurity-propulsion-systems
+docidentifier:
+- content: SAE AIR7368
+  type: SAE
+  primary: true
+- content: 10.4271/air7368
+  type: DOI
+date:
+- type: approved
+  at: '2023-09-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-36 Electronic Engine Controls Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Aerospace Information Report (AIR) is to provide guidance for aircraft engine and propeller systems (hereafter referred to as propulsion systems) certification for cybersecurity. Compliance for cybersecurity requires that the engine control, propeller control, monitoring system, and all auxiliary equipment systems and networks associated with the propulsion system (such as nacelle systems, overspeed governors, and thrust reversers) be protected from intentional unauthorized electronic interactions (IUEI) that may result in an adverse effect on the safety of the propulsion system or the airplane. This involves identification of security risks, their mitigation, verification of protections, and their maintenance in service.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is intended to serve as suitable guidance for propulsion system manufacturers and applicants for propulsion system type certification. It is also intended to provide guidance for subsequent propulsion system integration into aircraft systems for aircraft certification and operational use.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

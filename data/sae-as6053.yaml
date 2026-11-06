@@ -1,0 +1,56 @@
+---
+id: SAEAS6053
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Tests, Impact, Shock Absorber Landing Gear, Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6053
+- type: src
+  content: https://saemobilus.sae.org/standards/as6053-tests-impact-shock-absorber-landing-gear-aircraft
+docidentifier:
+- content: SAE AS6053
+  type: SAE
+  primary: true
+- content: 10.4271/as6053
+  type: DOI
+date:
+- type: approved
+  at: '2007-12-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers definition of landing impact tests which are to be conducted on landing gear assemblies including shock absorbers, suggested instrumentation for the tests and required data of the resulting test report. It is intended to standardize impact test procedures on landing gear shock absorbers and to provide sufficient data to allow evaluation of the design with respect to requirements of MIL-L-8552 and MIL-S-8959 as applicable.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

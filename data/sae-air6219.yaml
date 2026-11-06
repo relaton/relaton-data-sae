@@ -1,0 +1,64 @@
+---
+id: SAEAIR6219
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Development of Atmospheric Neutron Single Event Effects Analysis for Use
+    in Safety Assessments
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6219
+- type: src
+  content: https://saemobilus.sae.org/standards/air6219-development-atmospheric-neutron-single-event-effects-analysis-use-safety-assessments
+docidentifier:
+- content: SAE AIR6219
+  type: SAE
+  primary: true
+- content: 10.4271/air6219
+  type: DOI
+date:
+- type: approved
+  at: '2023-07-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-18 Aircraft and Sys Dev and Safety Assessment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides an example process for analyzing neutron Single Event Effects (SEE) for an electronic based airborne system for use in system safety assessments. This example has been used when the safety assessment process was in need of a SEE analysis.&lt;/div&gt;
+
+
+
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

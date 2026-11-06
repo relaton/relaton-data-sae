@@ -1,0 +1,57 @@
+---
+id: SAEAMS7252B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: NUTS, SELF-LOCKING, STEEL High Strength, All Metal 450° F (230° C) Use,
+    Unified "J" (MIL-S-8879) Thread Form
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7252b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7252b-nuts-self-locking-steel-high-strength-metal-450-f-230-c-use-unified-j-mil-s-8879-thread-form
+docidentifier:
+- content: SAE AMS7252B
+  type: SAE
+  primary: true
+- content: 10.4271/ams7252b
+  type: DOI
+date:
+- type: approved
+  at: '1980-01-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers all-metal, self-locking nuts, plate nuts, and gang channel nuts made of a carbon or low-alloy steel.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

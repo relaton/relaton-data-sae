@@ -1,0 +1,60 @@
+---
+id: SAEAIR1408B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Fuel System Specifications and Standards
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1408b
+- type: src
+  content: https://saemobilus.sae.org/standards/air1408b-aerospace-fuel-system-specifications-standards
+docidentifier:
+- content: SAE AIR1408B
+  type: SAE
+  primary: true
+- content: 10.4271/air1408b
+  type: DOI
+date:
+- type: approved
+  at: '2025-07-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5A Aerospace Fuel, Inerting and Lubrication Sys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report lists documents that aid and govern the design of aircraft and missile fuel systems. The report lists the military and industry specifications and standards and the most notable design handbooks that are commonly used in fuel system design. Note that only the principle fuel specifications for the U.S. and Europe (Military Specifications, ASTM, and Def Stan) have been included within this report.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The specifications and standards section has been divided into two parts: a master list arranged numerically of all industry and military specifications and standards, and a component list that provides a functional breakdown and a cross-reference of these documents. It is intended that this report be a supplement to specifications ARP8615, MIL-F-17874, and JSSG 2009.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Revisions and amendments which are correct for the specifications and standards are not listed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The fuel system design handbooks are listed for fuels and for system and component design.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

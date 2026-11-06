@@ -1,0 +1,58 @@
+---
+id: SAEAMS4610P
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: |-
+    Brass, Free-Cutting Bars and Rods 61.5Cu - 35Zn - 3.1Pb or 2.8Pb Half
+                        Hard (H02)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4610p
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4610p-brass-free-cutting-bars-rods-615cu-35zn-31pb-28pb-half-hard-h02
+docidentifier:
+- content: SAE AMS4610P
+  type: SAE
+  primary: true
+- content: 10.4271/ams4610p
+  type: DOI
+date:
+- type: approved
+  at: '2024-05-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers one type of copper alloy (brass) in the form of bars and rods up to 4.000 inches (101.60 mm) in nominal diameter, thickness between parallel sides, or width as defined in &lt;span class="xref"&gt;Tables 3&lt;/span&gt; through &lt;span class="xref"&gt;6&lt;/span&gt; (see &lt;span class="xref"&gt;8.6&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

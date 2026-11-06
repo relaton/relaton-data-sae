@@ -1,0 +1,82 @@
+---
+id: SAEJ900_198508
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CRANKCASE EMISSION CONTROL TEST CODE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j900_198508
+- type: src
+  content: https://saemobilus.sae.org/standards/j900_198508-crankcase-emission-control-test-code
+docidentifier:
+- content: SAE J900_198508
+  type: SAE
+  primary: true
+- content: 10.4271/j900_198508
+  type: DOI
+date:
+- type: approved
+  at: '1985-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: SAE IC Powertrain Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this code is to provide standard test procedures for crankcase emission control systems and/or devices. The procedures included are for determining:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The flow rate of the blowby of an engine.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The flow rates through the crankcase emission control system inlet and outlet.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;This code is written to cover crankcase emission control systems which are designed to reduce the emission of engine blowby gases to the atmosphere. The code includes the following sections:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Definitions and Terminology&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Test Equipment&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Test Procedures&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;4&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Information and Data to be Recorded&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;5&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Data Analysis&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;6&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Presentation of Information and Data&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

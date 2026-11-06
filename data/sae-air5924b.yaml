@@ -1,0 +1,62 @@
+---
+id: SAEAIR5924B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guidelines for the Integration of Electronic Engine Control Systems for
+    Transport Category (Part 25) and General Aviation (Part 23) Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5924b
+- type: src
+  content: https://saemobilus.sae.org/standards/air5924b-guidelines-integration-electronic-engine-control-systems-transport-category-part-25-general-aviation-part-23-aircraft
+docidentifier:
+- content: SAE AIR5924B
+  type: SAE
+  primary: true
+- content: 10.4271/air5924b
+  type: DOI
+date:
+- type: approved
+  at: '2024-01-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-36 Electronic Engine Controls Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides methodologies and approaches that have been used to install and integrate full-authority-digital-engine-control (FADEC) systems on transport category aircraft. Although most of the information provided is based on turbofan/turboprop engines installed on large commercial transports, many of the issues raised are equally applicable to corporate, general aviation, regional, and commuter aircraft, and to military installations, particularly when commercial aircraft are employed by military users. The word “engine” is used to designate the aircraft propulsion system. The engine station designations used in this report are shown in &lt;span class="xref"&gt;Figures 1&lt;/span&gt; to &lt;span class="xref"&gt;3&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Most of the material concerns an electronic engine control (EEC) with its associated software and its functional integration with the aircraft. However, the report also addresses the physical environment associated with the EEC and its associated wiring and sensors.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Since most current transport category engines use dual-channel FADEC systems, this is the configuration addressed by this report. A typical FADEC system configuration is shown in &lt;span class="xref"&gt;Figure 4&lt;/span&gt;.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

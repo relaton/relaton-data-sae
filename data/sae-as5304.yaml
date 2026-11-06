@@ -1,0 +1,56 @@
+---
+id: SAEAS5304
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standard Specification for Turbine Flowmeters
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5304
+- type: src
+  content: https://saemobilus.sae.org/standards/as5304-standard-specification-turbine-flowmeters
+docidentifier:
+- content: SAE AS5304
+  type: SAE
+  primary: true
+- content: 10.4271/as5304
+  type: DOI
+date:
+- type: approved
+  at: '2017-02-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EG-1E Gas Turbine Test Facilities and Equipment
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This is a SAE Standard specification with minimum performance characteristics for Turbine Flowmeter (TFM) that pertains only to sizes from ½ to 2 inches. The utilization of TFM is for hydrocarbon liquid fuel volumetric flow measurements. This Standard specifically excludes smart electronics in accomplishing the defined performance objectives. Users of this Standard should specify other TFM characteristics required to satisfy their application and utilization in operational environment. A User should understand fit and function of the TFM and define end user specific fit and function requirements. The TFM should be calibrated by the manufacturer should be based upon end user requirements and presented as Roshko versus Strouhal at a reference temperature. The Supplier shall be prepared to show evidence to User that the device demonstrates compliance with all requirements identified in this Standard.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

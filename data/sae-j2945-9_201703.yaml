@@ -1,0 +1,58 @@
+---
+id: SAEJ29459_201703
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Vulnerable Road User Safety Message Minimum Performance Requirements
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2945/9_201703
+- type: src
+  content: https://saemobilus.sae.org/standards/j29459_201703-vulnerable-road-user-safety-message-minimum-performance-requirements
+docidentifier:
+- content: SAE J2945/9_201703
+  type: SAE
+  primary: true
+- content: 10.4271/j2945/9_201703
+  type: DOI
+date:
+- type: approved
+  at: '2017-03-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Vehicular Applications Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides recommendations of safety message minimum performance requirements between a Vulnerable Road User (VRU) and a vehicle. It addresses the transmission of Personal Safety Messages (PSM) from road user devices carried by pedestrians, bicycle riders and public safety personnel, to provide driver and vehicle system awareness and potentially offer safety alerts to VRUs.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document includes the recommendation of standards profiles, function descriptions and minimum performance requirements for transmitting the SAE J2735-defined PSM [1] over a Dedicated Short Range Communications (DSRC) Wireless communication link as defined in the Institute of Electrical and Electronics Engineers (IEEE) 1609 and the IEEE 802.11 Standards [[1]]-[5]]. While other wireless media may be used to deliver the PSM, DSRC is explicitly assumed in this document, because of anticipated regulatory ruling in the United States and other countries requiring vehicles to be equipped with a DSRC-based safety system using V2V communication.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This recommended practice is limited at this time to communications between the VRU device carried by walking pedestrians and DSRC equipped vehicles. Later versions may incorporate improvements based on field experience with this recommended practice and may include other provisions for communicating with other DSRC equipped devices, and with other VRUs.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

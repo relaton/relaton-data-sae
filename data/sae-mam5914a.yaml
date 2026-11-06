@@ -1,0 +1,57 @@
+---
+id: SAEMAM5914A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nickel Alloy, Corrosion and Heat Resistant, Sheet, Strip, and Foil 52.5ni
+    19cr 3.0mo 5.0cb 0.90ti 0.50al 18fe Consumable Electrode Or Vacuum Induction Melted
+    Precision Cold Rolled, Solution Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/mam5914a
+- type: src
+  content: https://saemobilus.sae.org/standards/mam5914a-nickel-alloy-corrosion-heat-resistant-sheet-strip-foil-525ni-19cr-30mo-50cb-090ti-050al-18fe-consumable-electrode-vacuum-induction-melted-precision-cold-rolled-solution-heat-treated
+docidentifier:
+- content: SAE MAM5914A
+  type: SAE
+  primary: true
+- content: 10.4271/mam5914a
+  type: DOI
+date:
+- type: approved
+  at: '2003-03-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This specification covers a corrosion and heat resistant nickel alloy in the form of sheet, strip, and foil up to 0.38 millimeters in nominal thickness procured in SI (Metric) units.&lt;/p&gt;
+    &lt;p&gt;AMS 5914 is the inch/pound version of this MAM.&lt;/p&gt;
+    &lt;p&gt;These products have been used typically for the fabrication of bellows, diaphragms, and other components requiring a combination of high strength, resistance to heat and corrosion, leak tightness, and maximum fatigue life, but usage is not limited to such applications.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

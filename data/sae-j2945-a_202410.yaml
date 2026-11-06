@@ -1,0 +1,59 @@
+---
+id: SAEJ2945A_202410
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Minimum Requirements for Road Geometry and Attributes Definition
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2945/a_202410
+- type: src
+  content: https://saemobilus.sae.org/standards/j2945a_202410-minimum-requirements-road-geometry-attributes-definition
+docidentifier:
+- content: SAE J2945/A_202410
+  type: SAE
+  primary: true
+- content: 10.4271/j2945/a_202410
+  type: DOI
+date:
+- type: approved
+  at: '2024-10-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Core Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This report specifies the minimum requirements for the Road Geometry and Attributes (RGA) data set (DS) to support road geometry related motor vehicle safety applications. Contained in this report are a concept of operations, requirements, and design, developed using a detailed systems engineering process. Utilizing the requirements, the RGA DS is defined, which includes the DS Abstract Syntax Notation One (ASN.1) format, data frames, and data element definitions.&lt;/p&gt;
+
+
+    &lt;p&gt;The requirements are intended to enable the exchange of the messages and their DS information to provide the desired interoperability and data integrity to support the applications considered within this report, as well as other applications which may be able to utilize the DS information. System requirements beyond this are outside the scope of this report.&lt;/p&gt;
+
+
+    &lt;p&gt;NOTE: Unless otherwise marked as Informative, all material in this report is to be considered normative.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

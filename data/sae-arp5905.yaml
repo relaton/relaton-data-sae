@@ -1,0 +1,59 @@
+---
+id: SAEARP5905
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Calibration and Acceptance of Icing Wind Tunnels
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5905
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5905-calibration-acceptance-icing-wind-tunnels
+docidentifier:
+- content: SAE ARP5905
+  type: SAE
+  primary: true
+- content: 10.4271/arp5905
+  type: DOI
+date:
+- type: approved
+  at: '2015-09-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9C Aircraft Icing Technology Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) document provides recommended practices for the calibration and acceptance of icing wind tunnels to be used in testing of aircraft components and systems and for the development of simulated ice shapes. This document is not applicable to air-breathing propulsion test facilities configured for the purposes of engine icing tests. Use of facilities as part of an aircraft’s ice protection Certification Plan should be reviewed and accepted by the applicable regulatory agency prior to testing. Following acceptance of a test plan, data generated in these facilities may be submitted to regulatory agencies for use in the certification of aircraft ice protection systems and components. Certain types of tests may be appropriate in facilities with capabilities that are not as rigorously characterized as by the practices defined herein, and the acceptability of these tests should be coordinated with the applicable regulatory agency.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

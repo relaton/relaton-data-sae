@@ -1,0 +1,69 @@
+---
+id: SAESTD0016A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standard for Preparing a DMSMS Management Plan
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/std0016a
+- type: src
+  content: https://saemobilus.sae.org/standards/std0016a-standard-preparing-a-dmsms-management-plan
+docidentifier:
+- content: SAE STD0016A
+  type: SAE
+  primary: true
+- content: 10.4271/std0016a
+  type: DOI
+date:
+- type: approved
+  at: '2023-12-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: APMC Avionics Process Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard defines the requirements used by the Plan owner to develop a DMSMS Management Plan, hereinafter referred to as the Plan. The requirement to develop a DMSMS Management Plan could come from a number of different sources, such as a contractual or customer requirement or a desire by the Plan owner to document their standard process. The process described in the Plan is intended to mitigate DMSMS risks and resolve DMSMS issues on ADHP equipment provided by the Plan owner.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Development of a plan that conforms to the technical requirements detailed in &lt;span class="xref"&gt;Section 3&lt;/span&gt; ensures that the Plan owner meets the requirement of a DMSMS, or obsolescence management plan, required by industry standards, government regulations, and/or other contractual flow-down requirements, such as:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;EIA-STD-4899, Standard for Preparing an Electronic Components Management Plan&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;AS5553, Counterfeit Electronic Parts; Avoidance, Detection, Mitigation, and Disposition&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;DFARS 252.246-7007, Contractor Counterfeit Electronic Part Detection and Avoidance System&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;The terms DMSMS and obsolescence are both used in industry and are very similar, though not identical (see &lt;span class="xref"&gt;2.3&lt;/span&gt;). However, from a process management perspective, obsolescence and DMSMS both contain the same basic elements, as shown in &lt;span class="xref"&gt;Figure 1&lt;/span&gt;, and since this standard focuses on process requirements, in this document the terms are considered interchangeable.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

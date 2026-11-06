@@ -1,0 +1,57 @@
+---
+id: SAEAS614C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hose Assembly, Polytetrafluoroethylene, Metallic Reinforced, 4000 psi,
+    400 °F, Heavy Duty, Hydraulic and Pneumatic
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as614c
+- type: src
+  content: https://saemobilus.sae.org/standards/as614c-hose-assembly-polytetrafluoroethylene-metallic-reinforced-4000-psi-400-f-heavy-duty-hydraulic-pneumatic
+docidentifier:
+- content: SAE AS614C
+  type: SAE
+  primary: true
+- content: 10.4271/as614c
+  type: DOI
+date:
+- type: approved
+  at: '2012-11-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Standard (AS) defines the requirements for a heavy duty polytetrafluoroethylene (PTFE) lined, metallic reinforced, hose assembly suitable for use in high temperature, high pressure, 4000 psi, aircraft and missle hydraulic fluid systems.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAIR11682A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Heat and Mass Transfer and Air-Water Mixtures
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1168/2a
+- type: src
+  content: https://saemobilus.sae.org/standards/air11682a-heat-mass-transfer-air-water-mixtures
+docidentifier:
+- content: SAE AIR1168/2A
+  type: SAE
+  primary: true
+- content: 10.4271/air1168/2a
+  type: DOI
+date:
+- type: approved
+  at: '2011-07-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Heat transfer is the transport of thermal energy from one point to another. Heat is transferred only under the influence of a temperature gradient or temperature difference. The direction of heat transfer is always from the point at the higher temperature to the point at the lower temperature, in accordance with the second law of thermodynamics. The fundamental modes of heat transfer are conduction, convection, and radiation. Conduction is the net transfer of energy within a fluid or solid occurring by the collisions of molecules, atoms, or electrons. Convection is the transfer of energy resulting from fluid motion. Convection involves the processes of conduction, fluid motion, and mass transfer. Radiation is the transfer of energy from one point to another in the absence of a transporting medium. In practical applications several modes of heat transfer occur simultaneously. For example, aerodynamic heating of a vehicle surface includes convection to the surface, radiation away from the surface, and conduction through the surface structure. Since the three modes of heat transfer obey different laws, a real insight into such a problem can be gained only after they have been studied separately.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

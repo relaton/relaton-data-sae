@@ -1,0 +1,66 @@
+---
+id: SAEAS9117A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Delegated Product Release Verification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9117a
+- type: src
+  content: https://saemobilus.sae.org/standards/as9117a-delegated-product-release-verification
+docidentifier:
+- content: SAE AS9117A
+  type: SAE
+  primary: true
+- content: 10.4271/as9117a
+  type: DOI
+date:
+- type: approved
+  at: '2026-06-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aerospace Quality Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This standard specifies requirements for DPRV to establish common product/service requirements for use at all levels of the supply chain. This standard shall apply when an organization elects to delegate product release verification by contractual flow down to their supplier (reference 9100 and 9110 standards) to perform product acceptance on their behalf.
+    The delegating organization shall use this standard as the baseline for establishing a DPRV process, although they may include additional contract requirements to meet their specific needs.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

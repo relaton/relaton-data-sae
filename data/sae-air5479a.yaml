@@ -1,0 +1,59 @@
+---
+id: SAEAIR5479A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Environmentally Compliant Processes for Landing Gear
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5479a
+- type: src
+  content: https://saemobilus.sae.org/standards/air5479a-environmentally-compliant-processes-landing-gear
+docidentifier:
+- content: SAE AIR5479A
+  type: SAE
+  primary: true
+- content: 10.4271/air5479a
+  type: DOI
+date:
+- type: approved
+  at: '2013-10-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5 Aerospace Landing Gear Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) describes the performance of platings and coatings for landing gear that potentially provide environmental compliance benefits versus the current baseline processes. The hazardous systems addressed in this version of the document include cadmium plating, chromated primers, and high VOC (volatile organic compounds) topcoats.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Available data are presented for various standard tests in order to compare the replacement candidates. Conclusions are made as to the best performer(s) for each test section presented. These conclusions are not to be regarded as recommendations for or against any of the candidates.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The AIR applies to landing gear structures and mechanisms for all types of civil and military aircraft. The potential replacements apply to both original equipment manufacturer (OEM) hardware and overhaul of in-service landing gears.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

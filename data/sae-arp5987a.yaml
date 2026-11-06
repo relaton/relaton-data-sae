@@ -1,0 +1,60 @@
+---
+id: SAEARP5987A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: A Process for Utilizing Aerospace Propulsion Health Management Systems
+    for Airworthiness Credit
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5987a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5987a-a-process-utilizing-aerospace-propulsion-health-management-systems-airworthiness-credit
+docidentifier:
+- content: SAE ARP5987A
+  type: SAE
+  primary: true
+- content: 10.4271/arp5987a
+  type: DOI
+date:
+- type: approved
+  at: '2024-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The process detailed within this document is generic and applies to the entire end-to-end health management capability, covering both on-board and on-ground elements, in both commercial and military applications throughout their lifecycle. This ARP addresses a gap in guidance related to usage of ground-based health management equipment for airworthiness credit, ensuring a level of integrity commensurate with the potential aircraft-level consequences of the relevant failure conditions. The practical application of this standardized process is detailed in the form of a checklist.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The on-board elements described here are typically the source of the data acquisition used for off-board analysis. The on-board aspects relating to airworthiness and/or safety of flight, e.g., pilot notification, are addressed by existing guidance and policy documents. If a proposed health management capability for airworthiness credit involves modification of the on-board systems, the substantiation of those changes should be based on the applicable type certification guidance. This document does not prescribe hardware or software assurance levels, nor does it answer the question “how much mitigation and evidence are enough?” The criticality level and mitigation methods will be determined between the applicant and the regulator.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;There are cases where this process is applicable but may not be appropriate due to historical precedents. For example, there is a historical precedent for using an off-board health management solution to achieve compliance with Extended-Range Twin-Engine Operations Performance Standards (ETOPS) (refer to FAA AC 120-42A).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In order to provide some detailed guidance utilizing the process and checklist, some high-level examples of previous successful cases of maintenance credit applications for airworthiness credit are included. Refer to ARP5120 for additional examples of practical mitigating measures applicable to health management systems. At this point, it is incumbent on the applicant to explain any differences in terminology between the health management system they are seeking credit for and the appropriate regulatory references. For example, the system name often uses interchangeable terms such as “Engine Health Monitoring,” “Equipment Health Management,” “Prognostic Health Management,” “Powerplant Health Management,” etc.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

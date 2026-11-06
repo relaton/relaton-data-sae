@@ -1,0 +1,75 @@
+---
+id: SAEAS5116A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Minimum Operational Performance Specification for Ground Ice Detection
+    Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5116a
+- type: src
+  content: https://saemobilus.sae.org/standards/as5116a-minimum-operational-performance-specification-ground-ice-detection-systems
+docidentifier:
+- content: SAE AS5116A
+  type: SAE
+  primary: true
+- content: 10.4271/as5116a
+  type: DOI
+date:
+- type: approved
+  at: '2002-02-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12HOT Holdover Time Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS)/Minimum Operational Performance Specification (MOPS) specifies the minimum performance requirements of Ground Ice Detection Systems (GIDS). These systems may be mounted onboard the airplane, or be ground-based. They may provide information for indication and/or control.&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Chapter 1&lt;/span&gt; provides information required to understand the need for the GIDS characteristics and tests defined in the remaining chapters. It describes typical GIDS applications and operational objectives and is the basis for the performance criteria stated in &lt;span class="xref"&gt;Chapter 2&lt;/span&gt; through &lt;span class="xref"&gt;Chapter 4&lt;/span&gt;. Definitions essential to the proper understanding of this document are provided in &lt;span class="xref"&gt;Chapter 1&lt;/span&gt;.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Chapter 2&lt;/span&gt; contains general design requirements for an ice detection system used during ground operations.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Chapter 3&lt;/span&gt; contains the Minimum Operational Performance Requirements for the GIDS, defining performance under icing conditions likely to be encountered during ground operations.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Chapter 4&lt;/span&gt; describes environmental test conditions providing laboratory means of testing the overall performance characteristics of the GIDS under conditions which may be encountered in actual operations.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Chapter 5&lt;/span&gt; describes recommended test procedures for demonstrating compliance with &lt;span class="xref"&gt;Chapters 2&lt;/span&gt; and &lt;span class="xref"&gt;3&lt;/span&gt;.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Chapter 6&lt;/span&gt; contains the Minimum Operational Performance Requirements for installed GIDS. Ground and flight tests are included when performance cannot be adequately determined through testing under standard test conditions.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

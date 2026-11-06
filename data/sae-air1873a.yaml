@@ -1,0 +1,59 @@
+---
+id: SAEAIR1873A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guide to Limited Engine Monitoring Systems for Aircraft Gas Turbine Engines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1873a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1873a-guide-limited-engine-monitoring-systems-aircraft-gas-turbine-engines
+docidentifier:
+- content: SAE AIR1873A
+  type: SAE
+  primary: true
+- content: 10.4271/air1873a
+  type: DOI
+date:
+- type: approved
+  at: '2016-11-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This Aerospace Information Report (AIR) describes a Limited Engine
+    Monitoring System that can be used by the flight crew or the maintenance staff,
+    or both, to monitor the health of gas turbine engines in aircraft. This AIR considers
+    monitoring of gas path performance and mechanical parameters, and systems such
+    as low cycle fatigue counters and engine history recorders. It also considers
+    typical measurement system accuracies and their impact. This AIR is intended as
+    a technical guide. It is not intended to be used as a legal document or standard.
+    AIR 1873 supplements ARP 1587, Aircraft Gas Turbine Engine Monitoring System Guide.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

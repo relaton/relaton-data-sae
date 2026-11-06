@@ -1,0 +1,58 @@
+---
+id: SAEJA1003_200401
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Software Reliability Program Implementation Guide
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ja1003_200401
+- type: src
+  content: https://saemobilus.sae.org/standards/ja1003_200401-software-reliability-program-implementation-guide
+docidentifier:
+- content: SAE JA1003_200401
+  type: SAE
+  primary: true
+- content: 10.4271/ja1003_200401
+  type: DOI
+date:
+- type: approved
+  at: '2004-01-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-11R,  Reliability Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides methods and techniques for implementing a reliability program throughout the full life cycle of a software product, whether the product is considered as standalone or part of a system. This document is the companion to the Software Reliability Program Standard [JA1002]. The Standard describes the requirements of a software reliability program to define, meet, and demonstrate assurance of software product reliability using a Plan-Case framework and implemented within the context of a system application.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document has general applicability to all sectors of industry and commerce and to all types of equipment whose functionality is to some degree implemented by software components. It is intended to be guidance for business purposes and should be applied when it provides a value-added basis for the business aspects of development, use, and sustainment of software whose reliability is an important performance parameter. Applicability of specific practices will depend on the reliability-significance of the software, application domain, and life cycle stage of the software.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Following guidelines in this document does not guarantee required reliability will be achieved, or that any certification authority will accept the results as sufficient evidence that requisite reliability has been achieved. Following guidelines in this document will provide insight into what level of reliability has been achieved. With proper customer, certification authority, and supplier negotiation and interaction in accordance with these guidelines, it is more likely that the achieved reliability will be acceptable.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

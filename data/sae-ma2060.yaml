@@ -1,0 +1,57 @@
+---
+id: SAEMA2060
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FITTINGS, WELDED, HYDRAULIC, TITANIUM AND CORROSION RESISTANT STEEL, 20000
+    kPa, METRIC
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma2060
+- type: src
+  content: https://saemobilus.sae.org/standards/ma2060-fittings-welded-hydraulic-titanium-corrosion-resistant-steel-20000-kpa-metric
+docidentifier:
+- content: SAE MA2060
+  type: SAE
+  primary: true
+- content: 10.4271/ma2060
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification defines the requirements for metric weld fittings and machine weldments using an orbiting welding head suitable for use on cold worked 3Al-2.5V titanium and 21Cr-6Ni-9Mn CRES tubing and associated fittings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

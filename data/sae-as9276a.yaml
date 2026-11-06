@@ -1,0 +1,48 @@
+---
+id: SAEAS9276A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: WASHER, KEY - 180 DEG. LOCKING, CRES, UNS S32100
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9276a
+- type: src
+  content: https://saemobilus.sae.org/standards/as9276a-washer-key-180-deg-locking-cres-uns-s32100
+docidentifier:
+- content: SAE AS9276A
+  type: SAE
+  primary: true
+- content: 10.4271/as9276a
+  type: DOI
+date:
+- type: approved
+  at: '2007-06-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,54 @@
+---
+id: SAEAMS3072E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Compound, Corrosion Preventive Aircraft Engine
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3072e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3072e-compound-corrosion-preventive-aircraft-engine
+docidentifier:
+- content: SAE AMS3072E
+  type: SAE
+  primary: true
+- content: 10.4271/ams3072e
+  type: DOI
+date:
+- type: approved
+  at: '2007-04-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers a blend of corrosion-preventive compound
+    concentrate and petroleum-base aircraft-engine lubricating oil in the form of
+    a ready-to-use liquid.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

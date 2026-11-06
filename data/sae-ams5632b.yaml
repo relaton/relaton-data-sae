@@ -1,0 +1,48 @@
+---
+id: SAEAMS5632B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL, CORROSION RESISTANT 17Cr - 0.5Mo (0.95 - 1.20C) (SAE 51440F) Free-Machining
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5632b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5632b-steel-corrosion-resistant-17cr-05mo-095-120c-sae-51440f-free-machining
+docidentifier:
+- content: SAE AMS5632B
+  type: SAE
+  primary: true
+- content: 10.4271/ams5632b
+  type: DOI
+date:
+- type: approved
+  at: '1957-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

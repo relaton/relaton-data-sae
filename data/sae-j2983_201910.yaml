@@ -1,0 +1,69 @@
+---
+id: SAEJ2983_201910
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Recommended Practice for Determining Material Properties of Li-Battery
+    Separator
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2983_201910
+- type: src
+  content: https://saemobilus.sae.org/standards/j2983_201910-recommended-practice-determining-material-properties-li-battery-separator
+docidentifier:
+- content: SAE J2983_201910
+  type: SAE
+  primary: true
+- content: 10.4271/j2983_201910
+  type: DOI
+date:
+- type: approved
+  at: '2019-10-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Battery Materials Testing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE RP provides a set of test methods and practices for the characterization of the properties of Li-battery separator.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The test methods in this RP have been grouped into one of three categories:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Separator material parameters: Minimum set of separator properties to be measured.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Chemistry/customer-specific parameters: Properties that are dependent on the application, customer needs and/or requirements, manufacturing process, etc. This RP will include the current best practice methodologies for these tests, with an understanding that the best practice methodologies are evolving as more information is learned.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;R&amp;amp;D parameters: Properties that are dependent on the application, customer needs and/or requirements, manufacturing process, etc. The methodologies in this third section are under development and have not yet achieved broad application.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;It is not within the scope of this document to establish criteria for the test results, as this is usually established between the materials supplier and seperator manufacturer and the user. This is especially true where this document specifies a range of target values, or an open testing parameter. In these cases, the sample supplier and recipient must agree to specific numbers for the test parameters.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

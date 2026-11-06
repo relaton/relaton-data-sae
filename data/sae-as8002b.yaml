@@ -1,0 +1,74 @@
+---
+id: SAEAS8002B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Air Data Computer – Minimum Performance Standard
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8002b
+- type: src
+  content: https://saemobilus.sae.org/standards/as8002b-air-data-computer-minimum-performance-standard
+docidentifier:
+- content: SAE AS8002B
+  type: SAE
+  primary: true
+- content: 10.4271/as8002b
+  type: DOI
+date:
+- type: approved
+  at: '2020-04-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4ADWG Air Data Subcommittee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) covers air data computer equipment (hereinafter designated the computer) which when connected to sources of aircraft electrical power, static pressure, total pressure, outside air temperature, and others specified by the manufacturer (singly or in combination) provides some or all of the following computed air data output signals (in analog and/or digital form) which may supply primary and/or standby flight instruments:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Pressure Altitude&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Pressure Altitude, Baro-Corrected&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Vertical Speed&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Calibrated Airspeed&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Mach Number&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Maximum Allowable Airspeed&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Over-speed Warning&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Total Air Temperature&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

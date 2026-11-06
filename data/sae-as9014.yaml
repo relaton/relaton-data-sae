@@ -1,0 +1,62 @@
+---
+id: SAEAS9014
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Americas Aerospace Quality Group (AAQG) Requirements for Aerospace Quality
+    Management System Certification/Registrations Programs
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9014
+- type: src
+  content: https://saemobilus.sae.org/standards/as9014-americas-aerospace-quality-group-aaqg-requirements-aerospace-quality-management-system-certification-registrations-programs
+docidentifier:
+- content: SAE AS9014
+  type: SAE
+  primary: true
+- content: 10.4271/as9014
+  type: DOI
+date:
+- type: approved
+  at: '2013-11-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;These requirements are applicable to IAQG sector schemes when making use of ABs, CRBs and their auditors, for the assessment and certification/registration of supplier quality systems in accordance with the requirements of this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The quality management system standard used by the CRB shall be 9100/9110/9120, as appropriate to the supplier’s activities. It shall be applied to the supplier’s complete Quality System that covers aerospace products. Sectors may use these requirements for other standards.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;IAQG members have committed to recognize the equivalence of certification/registration of a suppliers quality management system to either of the AS, EN or JISQ/SJAC standards.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;&lt;i&gt;This AS provides the approval process for Auditor Authentication Bodies (AAB), training course providers, trainers and auditors who meet the requirements of AIR5493 and outlines the America’s sector specific process to implement AS9104. This document is created to be in conformance with AS9104.&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;&lt;i&gt;NOTE: The requirements defined in this AS are applicable to ABs, CRBs, and Original Equipment Manufacturers (OEMs), during audit and/or certification/registration to the applicable quality management system standard to meet industry accepted practices.&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

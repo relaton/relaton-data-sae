@@ -1,0 +1,56 @@
+---
+id: SAEAS45909
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Stud, Locked In, Ring Locked, Serrated, General Specification For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as45909
+- type: src
+  content: https://saemobilus.sae.org/standards/as45909-stud-locked-in-ring-locked-serrated-general-specification
+docidentifier:
+- content: SAE AS45909
+  type: SAE
+  primary: true
+- content: 10.4271/as45909
+  type: DOI
+date:
+- type: approved
+  at: '2007-07-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The specification covers the requirements for locked-in studs. The method of locking in the stud is by means of a serrated collar and an accessory lockring with matching serrations installed within the parent material to prevent rotation.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

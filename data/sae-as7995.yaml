@@ -1,0 +1,58 @@
+---
+id: SAEAS7995
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Passenger Access Means Docking Indicator for Cabin Crew
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as7995
+- type: src
+  content: https://saemobilus.sae.org/standards/as7995-passenger-access-means-docking-indicator-cabin-crew
+docidentifier:
+- content: SAE AS7995
+  type: SAE
+  primary: true
+- content: 10.4271/as7995
+  type: DOI
+date:
+- type: approved
+  at: '2022-05-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard describes the system used by passenger boarding stairs (PBS) mobile passenger boarding ramps (PBS) and boarding bridges (PBB) to inform on-board cabin crew about the docking status of the PBS/PBR/PBB and whether it is positioned such that it is safe to open the aircraft door.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Current practice calls for the PBS/PBR/PBB operator to knock on the aircraft door to inform the cabin crew that it is safe to open the aircraft door.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;New technologies being incorporated into PBS/PBR/PBB such as remote control systems and autonomous driving vehicles are entering the market. As such, new/updated controls and/or procedures are necessary to ensure continuing safe operations.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

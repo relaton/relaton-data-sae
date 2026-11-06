@@ -1,0 +1,58 @@
+---
+id: SAEAIR6232
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Surface Coating Interaction with Aircraft Deicing/Anti-Icing Fluids
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6232
+- type: src
+  content: https://saemobilus.sae.org/standards/air6232-aircraft-surface-coating-interaction-aircraft-deicing-anti-icing-fluids
+docidentifier:
+- content: SAE AIR6232
+  type: SAE
+  primary: true
+- content: 10.4271/air6232
+  type: DOI
+date:
+- type: approved
+  at: '2019-04-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12ADF Aircraft Deicing Fluids
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides descriptions of test methods for determining if an aircraft surface coating of any thickness has adverse effects on aircraft deicing/anti-icing fluids with respect to fluid holdover time performance and aerodynamic performance.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Although not the primary mandate of the G-12 Aircraft Ground Deicing Committee, this document also provides descriptions of suggested test methods for evaluating aircraft surface coatings with respect to durability, hardness, weathering, aerodynamic drag, ice adhesion, ice accumulation, contact angle, and thermal conductivity. These additional tests can provide informational data for characterizing the coatings and may be useful to operators when evaluating the coatings.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

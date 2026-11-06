@@ -1,0 +1,56 @@
+---
+id: SAEARP6307A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: New and Newly Retreaded Tire Appearance
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6307a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6307a-new-newly-retreaded-tire-appearance
+docidentifier:
+- content: SAE ARP6307A
+  type: SAE
+  primary: true
+- content: 10.4271/arp6307a
+  type: DOI
+date:
+- type: approved
+  at: '2023-10-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5C Aircraft Tires Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is for establishing and addressing anomalies on appearance of new and newly retreaded tires prior to installation on aircraft. It is intended to use cosmetics as well as functionality to make a determination of acceptability. However, if cosmetic appearance is not a requirement, use the inspection criteria from ARP6225. This ARP does not supersede (E)TSO-C62 minimum requirements, including marking requirements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

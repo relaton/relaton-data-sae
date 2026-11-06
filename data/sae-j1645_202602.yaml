@@ -1,0 +1,83 @@
+---
+id: SAEJ1645_202602
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fuel Systems and Components - Electrostatic Charge Mitigation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1645_202602
+- type: src
+  content: https://saemobilus.sae.org/standards/j1645_202602-fuel-systems-components-electrostatic-charge-mitigation
+docidentifier:
+- content: SAE J1645_202602
+  type: SAE
+  primary: true
+- content: 10.4271/j1645_202602
+  type: DOI
+date:
+- type: approved
+  at: '2026-03-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Systems Standards Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Surface Vehicle Recommended Practice deals with electrostatic charge phenomena that may occur in automotive fuel systems and applies to the following:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Fuels that are in a liquid state at ambient temperatures and atmospheric pressures and are contained in vehicle fuel tanks that operate at or near atmospheric pressure. This includes gasoline and diesel fuels, as well as their blends with additives such as alcohols, esters, and ethers, whether the additives are petroleum based or bio-fuel based.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;The group of components that comprise the fuel system (in contact and not in contact with fuels).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Other components in proximity to the fuel system that may be affected by electrostatic fields caused by the fuel system.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Electrostatic phenomena that arise from, or are affected by, the following aspects of vehicle or fuel system operation:
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Flowing fuel in the fuel delivery system.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Flowing fuel being dispensed to the vehicle while it is being fueled.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

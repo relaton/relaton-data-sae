@@ -1,0 +1,57 @@
+---
+id: SAEJ2623_200204
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standard Rainflow File Format
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2623_200204
+- type: src
+  content: https://saemobilus.sae.org/standards/j2623_200204-standard-rainflow-file-format
+docidentifier:
+- content: SAE J2623_200204
+  type: SAE
+  primary: true
+- content: 10.4271/j2623_200204
+  type: DOI
+date:
+- type: approved
+  at: '2002-04-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Materials, Processes and Parts Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard provides a definition of a rainflow file format. This type of simple text file would contain all relevant information about the rainflow cycle content of a time history. Included information are Comments, Signal Range, Signal Mean, Number of Cycles, Signal Maximum, Signal Minimum.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Rainflow cycle counting has become the most accepted procedure for identifying material fatigue relevant cycles in complex variable amplitude load time histories. The cycle counting methods account for the effects of material plasticity and material memory of prior deformation, and the resulting compressed history information is used by durability analysts to estimate the effects of a given service or test history. Standardization of the rainflow counting methods output files, which is the format addressed by the present standard, is important for reliable information transfer between test and design groups, or different calculation software packages, and thus forms a critical step in the evaluation of components and vehicles. Further background information can be found in the SAE publication AE-10 cited in &lt;span class="xref"&gt;2.1.1&lt;/span&gt;.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

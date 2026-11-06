@@ -1,0 +1,56 @@
+---
+id: SAEUSCAR111
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TORQUE-TENSION TESTING AND EVALUATION OF FASTENER FINISHES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar11-1
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar11-1-torque-tension-testing-evaluation-fastener-finishes
+docidentifier:
+- content: SAE USCAR-11-1
+  type: SAE
+  primary: true
+- content: 10.4271/uscar11-1
+  type: DOI
+date:
+- type: approved
+  at: '2007-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard provides a test method for determining the torque-tension relationship of a fastener finish as applied to a surrogate screw for the purpose of measuring the frictional characteristic of the fastener finish. The results obtained by this test shall be used as a process control attribute of the fastener finish and shall not be utilized for specific applications.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,49 @@
+---
+id: SAEAS3419A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BOLT, MACHINE, DOUBLE HEX, EXT WASHER HEAD, CLOSE TOLERANCE SHANK, UNS
+    N07718 .3125-24 UNJF-3A (STRESS RUPTURE RESISTANT)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as3419a
+- type: src
+  content: https://saemobilus.sae.org/standards/as3419a-bolt-machine-double-hex-ext-washer-head-close-tolerance-shank-uns-n07718-3125-24-unjf-3a-stress-rupture-resistant
+docidentifier:
+- content: SAE AS3419A
+  type: SAE
+  primary: true
+- content: 10.4271/as3419a
+  type: DOI
+date:
+- type: approved
+  at: '2011-10-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

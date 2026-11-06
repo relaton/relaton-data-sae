@@ -1,0 +1,62 @@
+---
+id: SAEJ1718_200811
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Measurement of Hydrogen Gas Emission from Battery-Powered Passenger Cars
+    and Light Trucks During Battery Charging
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1718_200811
+- type: src
+  content: https://saemobilus.sae.org/standards/j1718_200811-measurement-hydrogen-gas-emission-battery-powered-passenger-cars-light-trucks-battery-charging
+docidentifier:
+- content: SAE J1718_200811
+  type: SAE
+  primary: true
+- content: 10.4271/j1718_200811
+  type: DOI
+date:
+- type: approved
+  at: '2008-11-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Recommended Practice describes a procedure for measuring gaseous
+    hydrogen emissions from the aqueous battery system of a  battery-powered passenger
+    car or light truck. The purpose of this procedure is to determine what concentrations
+    of hydrogen gas an electric vehicle together with its charger will generate while
+    being charged in a residential garage. Gaseous emissions are measured during a
+    sequence of vehicle tests and laboratory tests that simulate normal and abnormal
+    conditions during operational use. The results of this test may be used to determine
+    whether or not forced air ventilation is required when a  particular electric
+    vehicle and its associated battery and charging system are used in a residential
+    garage.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

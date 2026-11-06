@@ -1,0 +1,56 @@
+---
+id: SAEAMS7202
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Temporary Protective Coating and Remover
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7202
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7202-temporary-protective-coating-remover
+docidentifier:
+- content: SAE AMS7202
+  type: SAE
+  primary: true
+- content: 10.4271/ams7202
+  type: DOI
+date:
+- type: approved
+  at: '2021-05-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G8 Aerospace Organic Coatings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes requirements for a temporary protective coating (TPC) intended to protect aluminum surfaces from damage and corrosion. This specification also establishes requirements for an alkaline remover used to strip the specified TPCs.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

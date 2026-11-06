@@ -1,0 +1,57 @@
+---
+id: SAEAMS1370A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Compound, Rust Remover, Liquid Aircraft and Aerospace Components, Immersion
+    Tank Method
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams1370a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams1370a-compound-rust-remover-liquid-aircraft-aerospace-components-immersion-tank-method
+docidentifier:
+- content: SAE AMS1370A
+  type: SAE
+  primary: true
+- content: 10.4271/ams1370a
+  type: DOI
+date:
+- type: approved
+  at: '2008-03-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS J Aircraft Maintenance Chemicals and Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a concentrated rust removing compound in the form of a liquid to be diluted with water for use either at ambient or elevated temperature.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

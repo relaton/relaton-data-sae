@@ -1,0 +1,49 @@
+---
+id: SAEMA2178A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HOSE ASSEMBLY, POLYTETRAFLUOROETHYLENE, PTFE CRES REINFORCED, 232 °C, 10
+    500 kPa, BEAM SEAL, STRAIGHT TO 90°, METRIC
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma2178a
+- type: src
+  content: https://saemobilus.sae.org/standards/ma2178a-hose-assembly-polytetrafluoroethylene-ptfe-cres-reinforced-232-c-10-500-kpa-beam-seal-straight-90-metric
+docidentifier:
+- content: SAE MA2178A
+  type: SAE
+  primary: true
+- content: 10.4271/ma2178a
+  type: DOI
+date:
+- type: approved
+  at: '2002-03-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

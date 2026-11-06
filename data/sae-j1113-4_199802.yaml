@@ -1,0 +1,58 @@
+---
+id: SAEJ11134_199802
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: IMMUNITY TO RADIATED ELECTROMAGNETIC FIELDS—BULK CURRENT INJECTION (BCI)
+    METHOD
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1113/4_199802
+- type: src
+  content: https://saemobilus.sae.org/standards/j11134_199802-immunity-radiated-electromagnetic-fields-bulk-current-injection-bci-method
+docidentifier:
+- content: SAE J1113/4_199802
+  type: SAE
+  primary: true
+- content: 10.4271/j1113/4_199802
+  type: DOI
+date:
+- type: approved
+  at: '1998-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard defines a method for evaluating the immunity of automotive electrical/electronic devices to radiated electromagnetic fields coupled to the vehicle wiring harness. The method, called Bulk Current Injection (BCI), uses a current probe to inject RF current from 1 to 400 MHz into the wiring harness of automotive devices. BCI is one of a number of test methods that can be used to simulate the electromagnetic field. For a list of others, see SAE J1113/1.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

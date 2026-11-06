@@ -1,0 +1,59 @@
+---
+id: SAEAIR4276A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Survey Results: Computerization or Reliability, Maintainability & Supportability
+    (RM&S) in Design'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4276a
+- type: src
+  content: https://saemobilus.sae.org/standards/air4276a-survey-results-computerization-reliability-maintainability-supportability-rms-design
+docidentifier:
+- content: SAE AIR4276A
+  type: SAE
+  primary: true
+- content: 10.4271/air4276a
+  type: DOI
+date:
+- type: approved
+  at: '2011-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-11M, Maintainability, Supportability and Logistics
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Information Report (AIR) is the primary vehicle for providing the survey results to industry and government.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The Institute of Defense Analysis (IDA), has performed a study which concludes that computerized techniques must be developed to integrate RM&amp;amp;S into product design in order to permit design influence from inception throughout the product life cycle. This AIR addresses the DoD initiative for developing Computer Aided Acquisition and Logistic Support (CALS) and industry's role in its evolution.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;AIR 4276 provides the detailed results of an industry/government survey inquiring into the extent of computerization of RM&amp;amp;S into the design process. Background information describes the evolution of the survey and why it was developed. The results provide demographic information about the respondents, the existence and extent of their CALS policy and plans, the priority placed on each RM&amp;amp;S task, and the extent to which these tasks have been computerized into the design process. Recommendations based on the survey results are included.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAS50571A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Lights, Instrument, Individual, General Specification For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as50571a
+- type: src
+  content: https://saemobilus.sae.org/standards/as50571a-lights-instrument-individual-general-specification
+docidentifier:
+- content: SAE AS50571A
+  type: SAE
+  primary: true
+- content: 10.4271/as50571a
+  type: DOI
+date:
+- type: approved
+  at: '2010-01-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20A Crew Station Lighting
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the general requirements for red and white individual instrument lights. This document has been streamlined. Appendix A to MIL-L-5057F lists those documents required for MIL-L-5057F acquisition and is a mandatory part of MIL-L-5057F. Those documents listed in Appendix A have the same status as those referenced directly in MIL-L-5057F (first tier documents). All other documents, referenced through tiering, may be used as guidance and information to supplement MIL-L-5057F. This document’s scope is limited to lamp source designs solely. Furthermore, the use of red lighting should not be considered for new design and included within this document to support requirements for existing military aircraft that still operate with this system of lighting.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

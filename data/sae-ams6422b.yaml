@@ -1,0 +1,49 @@
+---
+id: SAEAMS6422B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS, FORGINGS, AND TUBING 0.80Cr - 0.85Ni - 0.20Mo - B (0.38 - 0.43C)
+    (Modified 98B40)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6422b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6422b-steel-bars-forgings-tubing-080cr-085ni-020mo-b-038-043c-modified-98b40
+docidentifier:
+- content: SAE AMS6422B
+  type: SAE
+  primary: true
+- content: 10.4271/ams6422b
+  type: DOI
+date:
+- type: approved
+  at: '1964-01-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

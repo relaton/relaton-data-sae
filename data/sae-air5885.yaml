@@ -1,0 +1,59 @@
+---
+id: SAEAIR5885
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Landing Gear Common Repair
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5885
+- type: src
+  content: https://saemobilus.sae.org/standards/air5885-landing-gear-common-repair
+docidentifier:
+- content: SAE AIR5885
+  type: SAE
+  primary: true
+- content: 10.4271/air5885
+  type: DOI
+date:
+- type: approved
+  at: '2015-04-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document outlines the most common repairs used on landing gear components. It is not the intention of this AIR to replace Overhaul/Component Maintenance or Technical Order Manuals, but it can serve as a guide into their preparation. This document may also be used as a template to develop an MRB (Material Review Board) plan.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The recommendations in this document apply to components made of metallic alloys. These recommendations are intended for new manufactured components as well as for overhauled components. The extent of repair allowed for new components as opposed to in-service components is left to the cognizant engineering authorities.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Reference could be made to this document when justifying repairs on landing gears. For repairs outside the scope of this document, a detailed justification is necessary.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It must be understood that all the repairs listed in this document are not to be applied without the involvement of the cognizant engineer.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

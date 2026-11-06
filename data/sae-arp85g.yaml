@@ -1,0 +1,83 @@
+---
+id: SAEARP85G
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Air Conditioning Systems for Subsonic Airplanes
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp85g
+- type: src
+  content: https://saemobilus.sae.org/standards/arp85g-air-conditioning-systems-subsonic-airplanes
+docidentifier:
+- content: SAE ARP85G
+  type: SAE
+  primary: true
+- content: 10.4271/arp85g
+  type: DOI
+date:
+- type: approved
+  at: '2024-10-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) contains guidelines and recommendations for subsonic airplane air conditioning systems and components, including requirements, design philosophy, testing, and ambient conditions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The airplane air conditioning system comprises that arrangement of equipment, controls, and indicators that supply and distribute air to the occupied compartments for ventilation, pressurization, and temperature and moisture control. The principal features of the system are:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A supply of outside air with independent control valve(s).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A means for heating.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A means for cooling (air or vapor cycle units and heat exchangers).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A means for removing excess moisture from the air supply.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A ventilation subsystem.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;f&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A temperature control subsystem.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;g&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A pressure control subsystem.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;Other system components for treating cabin air, such as filtration and humidification, are included, as are the ancillary functions of equipment cooling and cargo compartment conditioning.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The interface with the major associated system, the pneumatic system (Chapter 36 of ATA 100) is at the inlet of the air conditioning shutoff valves. This boundary definition aligns with that in the ATA 100 Specification.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

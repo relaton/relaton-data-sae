@@ -1,0 +1,56 @@
+---
+id: SAEAIR11687
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Pressurization System Design
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1168/7
+- type: src
+  content: https://saemobilus.sae.org/standards/air11687-aerospace-pressurization-system-design
+docidentifier:
+- content: SAE AIR1168/7
+  type: SAE
+  primary: true
+- content: 10.4271/air1168/7
+  type: DOI
+date:
+- type: approved
+  at: '2004-06-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The pressurization system design considerations presented in this AIR deal with human physiological requirements, characteristics of pressurization air sources, methods of controlling cabin pressure, cabin leakage control, leakage calculation methods, and methods of emergency cabin pressure release.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEUSCAR291
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AUTOMOTIVE GRADE COAXIAL CABLE PERFORMANCE SPECIFICATION
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar29-1
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar29-1-automotive-grade-coaxial-cable-performance-specification
+docidentifier:
+- content: SAE USCAR-29-1
+  type: SAE
+  primary: true
+- content: 10.4271/uscar29-1
+  type: DOI
+date:
+- type: approved
+  at: '2022-03-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document specifies dimensional, functional and visual requirements for Automotive grade coaxial cable. This material will be designated AG for general-purpose automotive applications or AG LL for low loss applications. It is the responsibility of the user of this cable to verify the suitability of the selected product (based on dimensional, mechanical, electrical and environmental requirements) for its intended application. It is the responsibility of the supplier to retain and maintain records as evidence of compliance to the requirements detailed in this standard.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

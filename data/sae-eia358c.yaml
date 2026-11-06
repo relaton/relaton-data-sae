@@ -1,0 +1,57 @@
+---
+id: SAEEIA358C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: American National Standard Code for Information Interchange for Numerical
+    Machine Control
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/eia358c
+- type: src
+  content: https://saemobilus.sae.org/standards/eia358c-american-national-standard-code-information-interchange-numerical-machine-control
+docidentifier:
+- content: SAE EIA-358C
+  type: SAE
+  primary: true
+- content: 10.4271/eia358c
+  type: DOI
+date:
+- type: approved
+  at: '2016-05-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Systems Management Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Standard describes the use of ANSI X3.4 for numerically controlled machines, attached communication equipment, and associated perforated tape preparation equipment.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

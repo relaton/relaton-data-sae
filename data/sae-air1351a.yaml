@@ -1,0 +1,57 @@
+---
+id: SAEAIR1351A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MANUFACTURERS' IDENTIFICATION OF ELECTRICAL CONNECTOR CONTACTS, TERMINALS
+    & SPLICES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1351a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1351a-manufacturers-identification-electrical-connector-contacts-terminals-splices
+docidentifier:
+- content: SAE AIR1351A
+  type: SAE
+  primary: true
+- content: 10.4271/air1351a
+  type: DOI
+date:
+- type: approved
+  at: '1982-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C2 Terminating Devices and Tooling Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This publication serves to define, through pictorial representation, those identification symbols, which are in current use by manufacturers of contacts for use in electrical connectors as well as terminals and splices used with electrical wiring.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

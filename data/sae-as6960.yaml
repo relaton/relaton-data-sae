@@ -1,0 +1,60 @@
+---
+id: SAEAS6960
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Performance Standard for Seat Furnishings in Transport Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6960
+- type: src
+  content: https://saemobilus.sae.org/standards/as6960-performance-standard-seat-furnishings-transport-aircraft
+docidentifier:
+- content: SAE AS6960
+  type: SAE
+  primary: true
+- content: 10.4271/as6960
+  type: DOI
+date:
+- type: approved
+  at: '2021-03-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aircraft Seat Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Seat furnishings are installed around seats and are intended to enhance passenger privacy and comfort. They may have provisions for additional occupants to be seated when the aircraft is in-flight, but would not be occupied during taxi, take-off, and landing (TTL).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Standard (AS) establishes the minimum design, performance and qualification requirements for seat furnishings with and without upper attachments (see &lt;span class="xref"&gt;Figures 1&lt;/span&gt; and &lt;span class="xref"&gt;2&lt;/span&gt;) to be installed in large transport category airplanes. This standard excludes seat furnishing designs that are directly attached to the seat assembly, for which AS8049 is the applicable standard.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Integrated items (desk tops, cabinets, shelves, stowage areas, closeouts, dividers, etc.) connected to seat furnishings shall comply with the requirements of this AS as part of the seat furnishings.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

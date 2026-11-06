@@ -1,0 +1,56 @@
+---
+id: SAEAS6302A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Transmitter, Pressure, Fuel, 0-600 psi
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6302a
+- type: src
+  content: https://saemobilus.sae.org/standards/as6302a-transmitter-pressure-fuel-0-600-psi
+docidentifier:
+- content: SAE AS6302A
+  type: SAE
+  primary: true
+- content: 10.4271/as6302a
+  type: DOI
+date:
+- type: approved
+  at: '2016-10-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5B Aircraft and Engine Fuel and Lubricant Sys Components
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers one type of fuel pressure transmitter designated MS28005-7.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEJ29455_202002
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Service Specific Permissions and Security Guidelines for Connected Vehicle
+    Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2945/5_202002
+- type: src
+  content: https://saemobilus.sae.org/standards/j29455_202002-service-specific-permissions-security-guidelines-connected-vehicle-applications
+docidentifier:
+- content: SAE J2945/5_202002
+  type: SAE
+  primary: true
+- content: 10.4271/j2945/5_202002
+  type: DOI
+date:
+- type: approved
+  at: '2020-02-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Security Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE is developing a number of standards, including the SAE J2945/x and SAE J3161/x series, that specify a set of applications using message sets from the SAE J2735 data dictionary. (“Application” is used here to mean “a collection of activities including interactions between different entities in the service of a collection of related goals and associated with a given IEEE Provider Service Identifier (PSID)”). Authenticity and integrity of the communications for these applications are ensured using digital signatures and IEEE 1609.2 digital certificates, which also indicate the permissions of the senders using Provider Service Identifiers (PSIDs) and Service Specific Permissions (SSPs). The PSID is a globally unique identifier associated with an application specification that unambiguously describes how to build interoperable instances of that application. If the application features multiple activities such that different activities have different security impacts, correspond to different roles, or require different capabilities, then the application specifier should define an SSP data structure such that the contents of the SSP in a given certificate indicate which activities the certificate holder is entitled to carry out.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document establishes a security systems engineering process that can be used by future application specifiers to (1) determine which fields and activities should be subject to SSP constraints, and (2) specify a syntax and semantics for the SSPs for that application. It also addresses the development of SSPs for scenarios not addressed in the original application specification; for example, arising from regional extensions, changes in application functionality, or future expansions of the base SAE J2735 standard.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

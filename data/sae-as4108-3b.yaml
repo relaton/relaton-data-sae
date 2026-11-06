@@ -1,0 +1,48 @@
+---
+id: SAEAS41083B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: EYE BOLT, A-286 CRES, 1000 °F
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4108/3b
+- type: src
+  content: https://saemobilus.sae.org/standards/as41083b-eye-bolt-a-286-cres-1000-f
+docidentifier:
+- content: SAE AS4108/3B
+  type: SAE
+  primary: true
+- content: 10.4271/as4108/3b
+  type: DOI
+date:
+- type: approved
+  at: '2025-11-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

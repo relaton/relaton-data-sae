@@ -1,0 +1,57 @@
+---
+id: SAEMA3374
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BOLTS & SCREWS, UNS S66286 650°C, 900 MPa, MJ Thread, Procurement Specification
+    for, Metric
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma3374
+- type: src
+  content: https://saemobilus.sae.org/standards/ma3374-bolts-screws-uns-s66286-650c-900-mpa-mj-thread-procurement-specification-for-metric
+docidentifier:
+- content: SAE MA3374
+  type: SAE
+  primary: true
+- content: 10.4271/ma3374
+  type: DOI
+date:
+- type: approved
+  at: '1995-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This procurement specification covers aircraft quality metric bolts and screws made of a corrosion and heat resistant age hardenable iron base alloy of the type identified under the Unified Numbering System as UNS S66286.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

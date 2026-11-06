@@ -1,0 +1,69 @@
+---
+id: SAEAIR1490C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Environmental Degradation of Textiles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1490c
+- type: src
+  content: https://saemobilus.sae.org/standards/air1490c-environmental-degradation-textiles
+docidentifier:
+- content: SAE AIR1490C
+  type: SAE
+  primary: true
+- content: 10.4271/air1490c
+  type: DOI
+date:
+- type: approved
+  at: '2019-04-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Since cargo restraint devices made with textiles should have a predictable service life, there should be data available so that predictions can be made. This document compiles available information on textiles of the types used in air cargo restraint devices and reviews the degradation characteristics of each.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Textiles are used primarily in cargo restraint nets on air cargo pallets and nonstructural containers, restraint nets installed in cargo aircraft, and similar applications.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAMS5403
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALLOY CASTINGS, INVESTMENT, CORROSION AND HEAT RESISTANT 60Ni - 14Cr -
+    9.5Co - 4.0Mo - 4.0W - 5.0Ti - 3.0Al - 0.015B - 0.06Zr Vacuum Melted, Vacuum Cast
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5403
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5403-alloy-castings-investment-corrosion-heat-resistant-60ni-14cr-95co-40mo-40w-50ti-30al-0015b-006zr-vacuum-melted-vacuum-cast
+docidentifier:
+- content: SAE AMS5403
+  type: SAE
+  primary: true
+- content: 10.4271/ams5403
+  type: DOI
+date:
+- type: approved
+  at: '1995-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat resistant nickel alloy in the form of investment castings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

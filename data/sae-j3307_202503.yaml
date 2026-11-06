@@ -1,0 +1,58 @@
+---
+id: SAEJ3307_202503
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: System Theoretic Process Analysis (STPA) Standard for All Industries
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3307_202503
+- type: src
+  content: https://saemobilus.sae.org/standards/j3307_202503-system-theoretic-process-analysis-stpa-standard-industries
+docidentifier:
+- content: SAE J3307_202503
+  type: SAE
+  primary: true
+- content: 10.4271/j3307_202503
+  type: DOI
+date:
+- type: approved
+  at: '2025-03-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Functional Safety Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard documents what is required to execute a System Theoretic Process Analysis (STPA) of safety-critical products or systems in all industries. This standard defines the terminology, the steps in using STPA, the activities flow, and the expected deliverables. This standard may be used when addressing compliance with contractual or regulatory requirements regarding risk assessments, safety assessments, development assurance, system security engineering, or other similar requirements as appropriate. In addition, this standard can be used to demonstrate that an effective STPA evaluation has been conducted when compliance is not of paramount concern.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard is applicable to a broad set of uses including, but not limited to, corporate product development processes, organizational processes, regulatory groups, supplier processes, defense programs (e.g., government awards a contract to a company and the contract mandates STPA), defense program office (e.g., government safety group applies STPA during a safety review on a project), healthcare safety researchers (not engineers), and site reliability engineering (e.g., Google Maps, where the “controlled process” is a virtual map - pure data rather than a physical process) to name a few.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

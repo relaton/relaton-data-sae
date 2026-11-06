@@ -1,0 +1,55 @@
+---
+id: SAEAS178
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Two-Speed Propeller Reduction Gear Control
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as178
+- type: src
+  content: https://saemobilus.sae.org/standards/as178-two-speed-propeller-reduction-gear-control
+docidentifier:
+- content: SAE AS178
+  type: SAE
+  primary: true
+- content: 10.4271/as178
+  type: DOI
+date:
+- type: approved
+  at: '1995-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This standard is supplementary to AS 41 'Propeller Shaft Ends, Single
+    Rotation', and AS 91 'Propeller Shaft Ends, Dual Rotation (Propeller Supplied
+    Bearing)'. It is applicable to all engines that incorporate  two-speed propeller
+    reduction gears.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

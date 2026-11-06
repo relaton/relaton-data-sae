@@ -1,0 +1,57 @@
+---
+id: SAEJ905_196411
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fuel Filter Test Method
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j905_196411
+- type: src
+  content: https://saemobilus.sae.org/standards/j905_196411-fuel-filter-test-method
+docidentifier:
+- content: SAE J905_196411
+  type: SAE
+  primary: true
+- content: 10.4271/j905_196411
+  type: DOI
+date:
+- type: approved
+  at: '1964-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Filter Test Methods Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This test method describes laboratory testing of final stage fuel filters used to protect engines from abrasive contaminant. It has been developed to provide a standardized method of rating fuel filter performance in terms of flow, pore size, contaminant holding capacity, efficiency, and media migration. Although development of this test method was based on diesel fuel filters, it is applicable to all types of liquid fuel filters used on automotive type internal combustion engines. Typical filter systems, service and space problems, environmental and other special factors which influenced the development of this test method are covered in more detail in “Fuel Filter Test Methods” (SAE Technical Progress Series, Vol. 1).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Since the contaminant used in this test is a hard, dry, and abrasive material, the ratings for efficiency and contaminant holding capacity are not necessarily applicable under conditions where a soft, gummy, sludge type contaminant is present. Efforts are being directed toward the development of methods for evaluating the effects of a filter under such conditions, which are sometimes encountered in actual engine operation.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

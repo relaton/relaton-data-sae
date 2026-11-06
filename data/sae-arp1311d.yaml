@@ -1,0 +1,57 @@
+---
+id: SAEARP1311D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Landing Gear Structures and Mechanisms
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1311d
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1311d-landing-gear-structures-mechanisms
+docidentifier:
+- content: SAE ARP1311D
+  type: SAE
+  primary: true
+- content: 10.4271/arp1311d
+  type: DOI
+date:
+- type: approved
+  at: '2023-11-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) applies to landing gear structures and mechanisms (excluding wheels, tires, and brakes and other landing gear systems) for all types and models of civil and military aircraft. All axles, wheel forks, links, arms, mechanical and gas/oil shock struts, downlock and uplock assemblies, braces, trunnion beams, and truck beams, etc., that sustain loads originating at the ground, and that are not integral parts of the airframe structure, should be designed and validated in accordance with this document. Hydraulic actuators (retraction, main and nose gear steering, positioning, damping, etc.) should also be included in this coverage. System level, non-structural components such as retraction/extension valves, controllers, secondary structure and mechanisms in the airframe (e.g., manual release mechanisms, slaved doors) as well as equipment that is located in the cockpit are not addressed in this ARP.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

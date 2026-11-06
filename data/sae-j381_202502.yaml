@@ -1,0 +1,60 @@
+---
+id: SAEJ381_202502
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Windshield Defrosting Systems Test Procedure and Performance Requirements
+    - Trucks, Buses, and Multipurpose Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j381_202502
+- type: src
+  content: https://saemobilus.sae.org/standards/j381_202502-windshield-defrosting-systems-test-procedure-performance-requirements-trucks-buses-multipurpose-vehicles
+docidentifier:
+- content: SAE J381_202502
+  type: SAE
+  primary: true
+- content: 10.4271/j381_202502
+  type: DOI
+date:
+- type: approved
+  at: '2025-02-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Windshield Wipers and Climate Control Comm
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes uniform test procedures and performance requirements for the defrosting system of enclosed cab trucks, buses, and multipurpose vehicles. It is limited to a test that can be conducted on uniform test equipment in commercially available laboratory facilities. For laboratory evaluation of defroster systems, current engineering practice prescribes that an ice coating of known thickness be applied to the windshield and left- and right-hand side windows to provide more uniform and repeatable test results, even though - under actual conditions - such a coating would necessarily be scraped off before driving.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The test condition, therefore, represents a more severe condition than the actual condition, where the defroster system must merely be capable of maintaining a cleared viewing area. Because of the special nature of the operation of most of these vehicles (where vehicles are generally kept in a garage or warmed up before driving), and since defrosting under steady-state over-the-road operations is the main concern, test conditions have been adopted that assume that the engine is warm before the vehicle is driven.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;There are two options for producing hot coolant in this recommended practice. Testing using these two approaches on the same vehicle will not necessarily provide identical results. Many vehicle models are offered with optional engines, and each engine has varying coolant temperatures and flow rates. If the test is being conducted to compare the performance of one defroster design to another defroster design, then the external coolant source approach (Test A) will yield the most comparable results. If the test is being conducted to validate the defroster installation on a specific vehicle model with a specific engine, then using the engine to heat the coolant (Test B) will be more appropriate.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document will be reviewed and revised as technological progress in vehicle defroster test procedure requires.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

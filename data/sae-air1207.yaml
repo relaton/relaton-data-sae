@@ -1,0 +1,62 @@
+---
+id: SAEAIR1207
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: A Primer of Aircraft Multiplexing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1207
+- type: src
+  content: https://saemobilus.sae.org/standards/air1207-a-primer-aircraft-multiplexing
+docidentifier:
+- content: SAE AIR1207
+  type: SAE
+  primary: true
+- content: 10.4271/air1207
+  type: DOI
+date:
+- type: approved
+  at: '1991-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>Today's sophisticated aircraft are required to effectively perform
+    a variety of missions. With the advent of micro-miniaturization in electronics
+    and advanced digital computers, a new generation of avionics equipment and systems
+    can be utilized to increase the capabilities of the aircraft. As the quantity
+    and variety of equipment and functions increases, the problems of inter-connecting
+    these equipments with wires presents a constraint on size, weight, signal conditioning,
+    reliability, maintainability and electromagnetic control. Conventional wiring
+    has  resulted in large bundles of wires and many connectors which adds excessive
+    weight and reduces the space available for the pilot and other vital elements.
+    This limitation can be relieved significantly by the  application of well proven
+    multiplexing techniques.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

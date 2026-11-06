@@ -1,0 +1,57 @@
+---
+id: SAEJ1938_199805
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Design/process Checklist for Vehicle Electronic Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1938_199805
+- type: src
+  content: https://saemobilus.sae.org/standards/j1938_199805-design-process-checklist-vehicle-electronic-systems
+docidentifier:
+- content: SAE J1938_199805
+  type: SAE
+  primary: true
+- content: 10.4271/j1938_199805
+  type: DOI
+date:
+- type: approved
+  at: '1998-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Automotive Electronic Systems Reliability Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The following subjects reflect the automotive environment and are based on good engineering practices and past ("lessons learned") experiences. Since it is impossible to be all inclusive and cover every aspect of quality and reliability, this document should be used as a basis for preparation of a more comprehensive and detailed checklist that reflects the accumulated "lessons learned" at a particular Company.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is not the intent of this document to give a lot of detail, only to point out the type of subjects that need to be investigated and acted upon.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEARP926
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: DESIGN ANALYSIS PROCEDURE FOR FAILURE MODE, EFFECTS AND CRITICALITY ANALYSIS
+    (FMECA)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp926
+- type: src
+  content: https://saemobilus.sae.org/standards/arp926-design-analysis-procedure-failure-mode-effects-criticality-analysis-fmeca
+docidentifier:
+- content: SAE ARP926
+  type: SAE
+  primary: true
+- content: 10.4271/arp926
+  type: DOI
+date:
+- type: approved
+  at: '1967-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-18 Aircraft and Sys Dev and Safety Assessment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;FMECA is normally accomplished before, and provides basic information to, a reliability prediction. FMECA should be initiated as an integral part of the early design process of system functional assemblies and should be periodically updated to reflect design changes. An updated FMECA should be a major consideration in the design reviews, inspections and certifications.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

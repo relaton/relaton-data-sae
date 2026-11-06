@@ -1,0 +1,69 @@
+---
+id: SAEJ1492_200810
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Measurement of Light Vehicle Stationary Exhaust System Sound Level Engine
+    Speed Sweep Method
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1492_200810
+- type: src
+  content: https://saemobilus.sae.org/standards/j1492_200810-measurement-light-vehicle-stationary-exhaust-system-sound-level-engine-speed-sweep-method
+docidentifier:
+- content: SAE J1492_200810
+  type: SAE
+  primary: true
+- content: 10.4271/j1492_200810
+  type: DOI
+date:
+- type: approved
+  at: '2008-10-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Light Vehicle Exterior Sound Level Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes the test procedure, environment, and instrumentation to be used for measuring the exterior exhaust sound level for passenger cars, multipurpose vehicles, and light trucks under stationary conditions providing a continuous measure of exhaust system sound level over a range of engine speeds.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document applies only to road vehicles equipped with an internal combustion engine.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The method is designed to meet the requirements of simplicity as far as they are consistent with reproducibility of results under the operating conditions of the vehicle.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is within the scope of this document to measure the stationary A-weighted sound pressure level during:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;measurements at the manufacturing stage&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;measurements at official testing stations&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;measurements at roadside testing&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;It does neither specify a method to check the exhaust sound pressure level when the engine is operated at realistic load nor a method to check the exhaust sound pressure levels against a general noise limit for categories of road vehicles. It provides the means for detecting exhaust system resonances with the potential to affect both exterior and interior sound quality.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document incorporates certain provisions of ISO 5130:2007 for measuring the sound level of exhaust systems. (See &lt;span class="xref"&gt;Appendix A&lt;/span&gt;.)&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

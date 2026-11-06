@@ -1,0 +1,48 @@
+---
+id: SAEAMS4227
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY CASTINGS, SAND 8Cu - 6Mg - 0.5Mn - 0.5Ni (XA-140F)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4227
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4227-aluminum-alloy-castings-sand-8cu-6mg-05mn-05ni-xa-140f
+docidentifier:
+- content: SAE AMS4227
+  type: SAE
+  primary: true
+- content: 10.4271/ams4227
+  type: DOI
+date:
+- type: approved
+  at: '1957-09-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

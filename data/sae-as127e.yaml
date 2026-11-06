@@ -1,0 +1,48 @@
+---
+id: SAEAS127E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PROPELLER SHAFT END, FLANGED TYPE - NO. 1, 2, 3, 4, 5, & 6
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as127e
+- type: src
+  content: https://saemobilus.sae.org/standards/as127e-propeller-shaft-end-flanged-type-no-1-2-3-4-5-6
+docidentifier:
+- content: SAE AS127E
+  type: SAE
+  primary: true
+- content: 10.4271/as127e
+  type: DOI
+date:
+- type: approved
+  at: '2018-05-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

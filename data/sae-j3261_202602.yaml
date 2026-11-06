@@ -1,0 +1,69 @@
+---
+id: SAEJ3261_202602
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Recommendations for ADS-DVs to Accommodate the Needs of People with Disabilities
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3261_202602
+- type: src
+  content: https://saemobilus.sae.org/standards/j3261_202602-recommendations-ads-dvs-accommodate-needs-people-disabilities
+docidentifier:
+- content: SAE J3261_202602
+  type: SAE
+  primary: true
+- content: 10.4271/j3261_202602
+  type: DOI
+date:
+- type: approved
+  at: '2026-02-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: On-Road Automated Driving (ORAD) Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;ADS-DVs promise to expand transportation options for individuals who have been historically underserved in personal transportation. However, for this to be truly realized, the unique needs of persons with disabilities (PWDs; including those who are deaf and hard of hearing, blind, have low vision, have upper body limitations, have lower body limitations, are wheelchair users, and have cognitive disabilities) should be understood at the design stage of vehicle development.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document presents a list of recommendations for use in the design and development of ADS-DVs based on the identified needs of PWDs. It considers the accessibility of services used to interact with the ADS-DV before the trip and the complete trip (including planning the trip and requesting the vehicle, determining a pickup location, finding the vehicle, authenticating the user, entering the vehicle, interacting with the vehicle while inside, determining a drop-off location, exiting the vehicle, and finding the destination). The presented recommendations attempt to address most disabilities and enable independent travel. However, it is understood that certain populations may not be included due to technical or other limitations. The focus is on those who are willing and able to travel independently. Additionally, while some accessibility recommendations can benefit everyone, it is worth acknowledging that some may involve trade-offs among individuals or groups. Although this document does not explicitly address such trade-offs, they should be considered when applying any of the presented recommendations.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

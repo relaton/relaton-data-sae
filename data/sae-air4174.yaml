@@ -1,0 +1,78 @@
+---
+id: SAEAIR4174
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: A Guide to Aircraft Power Train Monitoring
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4174
+- type: src
+  content: https://saemobilus.sae.org/standards/air4174-a-guide-aircraft-power-train-monitoring
+docidentifier:
+- content: SAE AIR4174
+  type: SAE
+  primary: true
+- content: 10.4271/air4174
+  type: DOI
+date:
+- type: approved
+  at: '2008-06-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Aerospace Information Report (AIR) is to provide management, designers, and operators with information to assist them to decide what type of power train monitoring they desire. This document is to provide assistance in optimizing system complexity, performance and cost effectiveness.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document covers all power train elements from the point at which the gas generator energy is transferred to mechanical energy for propulsion purposes. The document covers engine power train components, their interfaces, transmissions, gearboxes, hanger bearings, shafting and associated rotating accessories, propellers and rotor systems as shown in &lt;span class="xref"&gt;Figure 1&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document addresses application for rotorcraft, turboprop, and propfan drive trains for both commercial and military aircraft.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Information is provided to assist in;&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Defining technology maturity and application risk&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Cost benefit analysis (Value analysis)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Selection of system components&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Selection of technology&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Managing interface requirements&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;f&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Defining information flow requirements&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,61 @@
+---
+id: SAEAS47641
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Validation Methods for MIL-STD-1760B Aircraft Station Interfaces
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as47641
+- type: src
+  content: https://saemobilus.sae.org/standards/as47641-validation-methods-mil-std-1760b-aircraft-station-interfaces
+docidentifier:
+- content: SAE AS47641
+  type: SAE
+  primary: true
+- content: 10.4271/as47641
+  type: DOI
+date:
+- type: approved
+  at: '2012-07-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1B Aircraft Store Integration Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document establishes techniques for validating that an Aircraft Station Interface (ASI) complies with the interface requirements delineated in MIL-STD-1760B Notice 3. For validation of aircraft designed to MIL-STD-1760A Notice 2 AS4764 Issued 1995-04 applies.&lt;/div&gt;
+
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

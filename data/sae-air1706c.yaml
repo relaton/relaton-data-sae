@@ -1,0 +1,55 @@
+---
+id: SAEAIR1706C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: The Advanced Environmental Control System (AECS) Computer Program for Steady
+    State Analysis and Preliminary System Sizing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1706c
+- type: src
+  content: https://saemobilus.sae.org/standards/air1706c-advanced-environmental-control-system-aecs-computer-program-steady-state-analysis-preliminary-system-sizing
+docidentifier:
+- content: SAE AIR1706C
+  type: SAE
+  primary: true
+- content: 10.4271/air1706c
+  type: DOI
+date:
+- type: approved
+  at: '2010-01-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This document has been declared “CANCELLED” as of January 2010.  By
+    this action, this document will remain listed in the Numerical Section of the
+    Aerospace Standards Index.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

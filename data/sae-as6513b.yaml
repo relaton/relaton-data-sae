@@ -1,0 +1,62 @@
+---
+id: SAEAS6513B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Unmanned Systems (UxS) Control Segment (UCS) Architecture: Conformance
+    Specification'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6513b
+- type: src
+  content: https://saemobilus.sae.org/standards/as6513b-unmanned-systems-uxs-control-segment-ucs-architecture-conformance-specification
+docidentifier:
+- content: SAE AS6513B
+  type: SAE
+  primary: true
+- content: 10.4271/as6513b
+  type: DOI
+date:
+- type: approved
+  at: '2022-03-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-4UCS Unmanned Systems Control Segment Architecture
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This revision of AS6513 concerns conformance to the SAE Unmanned Systems (UxS) Control Segment (UCS) Architecture Revision B, designated AS6512B (or later). The superseded AS6513A concerned conformance to the previous UCS Architecture, designated AS6512A.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is the authoritative specification within the UCS Architecture for establishing conformance requirements for UCS products.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The conformance of UCS products is determined by assessing the conformance of the UCS Product Description to the UCS Architecture. The UCS Product Description includes test artifacts.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

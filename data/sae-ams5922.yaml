@@ -1,0 +1,57 @@
+---
+id: SAEAMS5922
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Corrosion-Resistant, Bars, and Forgings 10Cr - 5.5Ni - 14Co - 2Mo
+    - 1W (0.19-0.23C) Vacuum Induction Melted, Vacuum Arc Remelted, Normalized, Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5922
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5922-steel-corrosion-resistant-bars-forgings-10cr-55ni-14co-2mo-1w-019-023c-vacuum-induction-melted-vacuum-arc-remelted-normalized-annealed
+docidentifier:
+- content: SAE AMS5922
+  type: SAE
+  primary: true
+- content: 10.4271/ams5922
+  type: DOI
+date:
+- type: approved
+  at: '2008-01-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion-resistant, premium aircraft-quality alloy steel in the form of bars, forgings, and stock for forging.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEARP1755
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: EFFECT OF CLEANING AGENTS ON AIRCRAFT ENGINE MATERIALS Stock Loss Test
+    Method
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1755
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1755-effect-cleaning-agents-aircraft-engine-materials-stock-loss-test-method
+docidentifier:
+- content: SAE ARP1755
+  type: SAE
+  primary: true
+- content: 10.4271/arp1755
+  type: DOI
+date:
+- type: approved
+  at: '1984-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS J Aircraft Maintenance Chemicals and Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice covers the determination of the amount of stock loss caused by use of chemical cleaning agents on aircraft turbine engine materials.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

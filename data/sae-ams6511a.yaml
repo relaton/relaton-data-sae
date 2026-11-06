@@ -1,0 +1,57 @@
+---
+id: SAEAMS6511A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Maraging, Bars, Forgings, Tubing, and Rings 18Ni - 8.5Co - 3.2Mo
+    - 0.20Ti - 0.10Al Double Vacuum Melted, Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6511a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6511a-steel-maraging-bars-forgings-tubing-rings-18ni-85co-32mo-020ti-010al-double-vacuum-melted-annealed
+docidentifier:
+- content: SAE AMS6511A
+  type: SAE
+  primary: true
+- content: 10.4271/ams6511a
+  type: DOI
+date:
+- type: approved
+  at: '2012-07-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a premium aircraft-quality steel in the form of bars, forgings, mechanical tubing, flash welded rings, and stock for forging or flash welded rings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

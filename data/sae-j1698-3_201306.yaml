@@ -1,0 +1,57 @@
+---
+id: SAEJ16983_201306
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Event Data Recorder - Compliance Assessment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1698/3_201306
+- type: src
+  content: https://saemobilus.sae.org/standards/j16983_201306-event-data-recorder-compliance-assessment
+docidentifier:
+- content: SAE J1698/3_201306
+  type: SAE
+  primary: true
+- content: 10.4271/j1698/3_201306
+  type: DOI
+date:
+- type: approved
+  at: '2013-06-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Event Data Recorder Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice defines procedures that may be used to validate that relevant EDR output records conform with the reporting requirements specified in Part 563, Table 1 during the course of FMVSS-208, FMVSS-214 and other applicable vehicle level crash testing.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,69 @@
+---
+id: SAEAMS03_27
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electro-Deposition of Nickel for Engineering Purposes
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams03_27
+- type: src
+  content: https://saemobilus.sae.org/standards/ams03_27-electro-deposition-nickel-engineering-purposes
+docidentifier:
+- content: SAE AMS03-27
+  type: SAE
+  primary: true
+- content: 10.4271/ams03_27
+  type: DOI
+date:
+- type: approved
+  at: '2015-05-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard specifies the requirements for the nickel-plating of ferrous metals, copper alloys, aluminum alloys and zinc alloys for one or more of the following purposes:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;the production of wear-resistant surfaces;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;the building up of worn or over-machined surfaces;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;corrosion resistance;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;to provide an undercoat for subsequent deposits, e.g., chromium.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

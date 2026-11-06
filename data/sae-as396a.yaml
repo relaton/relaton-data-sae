@@ -1,0 +1,67 @@
+---
+id: SAEAS396A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BANK AND PITCH INDICATOR (STABILIZED TYPE) (Gyro Horizon, Attitude Gyro)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as396a
+- type: src
+  content: https://saemobilus.sae.org/standards/as396a-bank-pitch-indicator-stabilized-type-gyro-horizon-attitude-gyro
+docidentifier:
+- content: SAE AS396A
+  type: SAE
+  primary: true
+- content: 10.4271/as396a
+  type: DOI
+date:
+- type: approved
+  at: '1951-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4 Aircraft Instruments Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers two basic types as follows:
+    &lt;div class="table-wrap anchor "&gt;
+    &lt;div class="table-container"&gt;&lt;table class="br-none tbr-void " data-dataset-id=""&gt;
+    &lt;tbody&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Type I&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;-&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;Having limited freedom of operation.&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Type II&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;-&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;Having unlimited freedom of operation.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div/&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

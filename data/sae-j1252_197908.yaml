@@ -1,0 +1,56 @@
+---
+id: SAEJ1252_197908
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SAE WIND TUNNEL TEST PROCEDURE FOR TRUCKS AND BUSES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1252_197908
+- type: src
+  content: https://saemobilus.sae.org/standards/j1252_197908-sae-wind-tunnel-test-procedure-trucks-buses
+docidentifier:
+- content: SAE J1252_197908
+  type: SAE
+  primary: true
+- content: 10.4271/j1252_197908
+  type: DOI
+date:
+- type: approved
+  at: '1979-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Aerodynamics and Fuel Economy Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this recommended practice is sufficiently broad that it can encompass the full range of current heavy duty vehicles, vehicle modifications, and prototype configurations. The test procedure describes methods for examination of the vehicle’s flow field using surface pressures and flow visualization.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

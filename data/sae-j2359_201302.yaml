@@ -1,0 +1,56 @@
+---
+id: SAEJ2359_201302
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Lubricating Oil, Internal Combustion Engine, Military Combat/Tactical Service
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2359_201302
+- type: src
+  content: https://saemobilus.sae.org/standards/j2359_201302-lubricating-oil-internal-combustion-engine-military-combat-tactical-service
+docidentifier:
+- content: SAE J2359_201302
+  type: SAE
+  primary: true
+- content: 10.4271/j2359_201302
+  type: DOI
+date:
+- type: approved
+  at: '2013-02-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuels and Lubricants TC 1 Engine Lubrication
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Standard covers engine military oils suitable for lubrication
+    of reciprocating internal combustion engines of both spark-ignition and compression-ignition
+    types, and for power transmission fluid applications in combat/tactical service
+    equipment (see 7.1). This document is equivalent to MIL-PRF-2104G when all requirements
+    are met.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

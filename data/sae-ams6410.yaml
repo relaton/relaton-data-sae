@@ -1,0 +1,56 @@
+---
+id: SAEAMS6410
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel,  Nickel Chromium Molybdenum
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6410
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6410-steel-nickel-chromium-molybdenum
+docidentifier:
+- content: SAE AMS6410
+  type: SAE
+  primary: true
+- content: 10.4271/ams6410
+  type: DOI
+date:
+- type: approved
+  at: '1943-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>l. ACKNOWLEDGMENT: A vendor must mention this specification number and its last
+    revision in all quotations and when acknowledging purchase orders.
+
+    2. FORM: Bars, billets, forgings, tubing, or as ordered.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

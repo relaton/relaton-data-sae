@@ -1,0 +1,54 @@
+---
+id: SAEARP5374
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Method of Testing Pre-Conditioned Air Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5374
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5374-method-testing-pre-conditioned-air-equipment
+docidentifier:
+- content: SAE ARP5374
+  type: SAE
+  primary: true
+- content: 10.4271/arp5374
+  type: DOI
+date:
+- type: approved
+  at: '2001-12-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Aerospace Recommended Practice (ARP) applies to Point-Of-Use,
+    Central and Mobile Pre-Conditioned Air Equipment.  It does not apply to aircraft
+    mounted equipment.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

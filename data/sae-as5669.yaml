@@ -1,0 +1,59 @@
+---
+id: SAEAS5669
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: JAUS Transport Specification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5669
+- type: src
+  content: https://saemobilus.sae.org/standards/as5669-jaus-transport-specification
+docidentifier:
+- content: SAE AS5669
+  type: SAE
+  primary: true
+- content: 10.4271/as5669
+  type: DOI
+date:
+- type: approved
+  at: '2007-12-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-4JAUS Joint Architecture for Unmanned Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) defines a data communications Transport Layer for the Joint Architecture for Unmanned Systems (JAUS). This Transport Specification defines the formats and protocols employed for the transport of JAUS messages between compliant entities for all supported link-layer protocols and media.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

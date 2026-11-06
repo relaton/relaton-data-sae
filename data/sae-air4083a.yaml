@@ -1,0 +1,57 @@
+---
+id: SAEAIR4083A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Helicopter Power Assurance
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4083a
+- type: src
+  content: https://saemobilus.sae.org/standards/air4083a-helicopter-power-assurance
+docidentifier:
+- content: SAE AIR4083A
+  type: SAE
+  primary: true
+- content: 10.4271/air4083a
+  type: DOI
+date:
+- type: approved
+  at: '2023-01-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-12 Powered Lift Propulsion Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) defines helicopter turboshaft engine power assurance theory and methods. Several inflight power assurance example procedures are presented. These procedures vary from a very simple method used on some normal category civil helicopters, to the more complex methods involving trend monitoring and rolling average techniques. The latter method can be used by small operators but is generally better suited to the larger operator with computerized maintenance record capability.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,49 @@
+---
+id: SAEAS90347
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CABLE ASSEMBLY, EXTERNAL ELECTRIC POWER, AIRCRAFT 28 VOLT DC, OPERATING
+    POWER
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as90347
+- type: src
+  content: https://saemobilus.sae.org/standards/as90347-cable-assembly-external-electric-power-aircraft-28-volt-dc-operating-power
+docidentifier:
+- content: SAE AS90347
+  type: SAE
+  primary: true
+- content: 10.4271/as90347
+  type: DOI
+date:
+- type: approved
+  at: '2009-09-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8A Elec Wiring and Fiber Optic Interconnect Sys Install
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

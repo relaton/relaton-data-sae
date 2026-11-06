@@ -1,0 +1,49 @@
+---
+id: SAEAMS5723A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Bars, Forgings and Rings, Corrosion and Heat Resistant 20cr 9ni 1.6mo
+    1.4w 0.6ti
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5723a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5723a-steel-bars-forgings-rings-corrosion-heat-resistant-20cr-9ni-16mo-14w-06ti
+docidentifier:
+- content: SAE AMS5723A
+  type: SAE
+  primary: true
+- content: 10.4271/ams5723a
+  type: DOI
+date:
+- type: approved
+  at: '1984-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAMS7014
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Titanium Alloy, High Temperature Applications, Powder for Additive Manufacturing,
+    Ti - 6.0Al - 2.0Sn - 4.0Zr - 2.0Mo
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7014
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7014-titanium-alloy-high-temperature-applications-powder-additive-manufacturing-ti-60al-20sn-40zr-20mo
+docidentifier:
+- content: SAE AMS7014
+  type: SAE
+  primary: true
+- content: 10.4271/ams7014
+  type: DOI
+date:
+- type: approved
+  at: '2019-03-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS AM Additive Manufacturing Metals
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a heat-resistant titanium alloy in the form of pre-alloyed powder.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

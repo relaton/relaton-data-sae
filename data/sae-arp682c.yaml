@@ -1,0 +1,55 @@
+---
+id: SAEARP682C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Safety Lap Belts (For Civil Transport Aircraft)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp682c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp682c-safety-lap-belts-civil-transport-aircraft
+docidentifier:
+- content: SAE ARP682C
+  type: SAE
+  primary: true
+- content: 10.4271/arp682c
+  type: DOI
+date:
+- type: approved
+  at: '2000-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aircraft Seat Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This Aerospace Recommended Practice (ARP) provides recommendations
+    intended for standardization of safety lap belts without hindering the development
+    of new, improved design. The purpose is not to specify the design methods or specific
+    mechanism to accomplish the objectives.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

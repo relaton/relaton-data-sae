@@ -1,0 +1,64 @@
+---
+id: SAEAS5716A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standard Electrical and Logical Interface for Airborne Fuzing Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5716a
+- type: src
+  content: https://saemobilus.sae.org/standards/as5716a-standard-electrical-logical-interface-airborne-fuzing-systems
+docidentifier:
+- content: SAE AS5716A
+  type: SAE
+  primary: true
+- content: 10.4271/as5716a
+  type: DOI
+date:
+- type: approved
+  at: '2012-12-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1B Aircraft Store Integration Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This interface standard applies to fuzes/fuzing systems (referred to as fuzing system hereafter) in airborne weapons that use a MIL-STD-1760 type interface. It defines the powers, the discrete signals and the serial data interface for the communications at the interface between the fuzing system and the remainder of the weapon, including the weapon control unit.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The Class 1 interface is an electrical only interface that facilitates use of MIL-STD-1760 type platform store interfaces for the fuze to monitor intentional release and defines the fuze interface bus communications protocol to allow sending and receiving data from fuzing systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Class 2 interfaces add a defined connector and additional interfaces to facilitate the exchange of compatible fuzing systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Class 3 interfaces add further interface definitions to facilitate the exchange of AS5680A compatible fuzing systems components.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The bus communications protocol provides a means by which the weapon may set mission parameters within the fuzing system main housing and in other devices external to the fuzing system main housing. The standard also defines the target detection signal to be provided by a target detection device external to the fuzing system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard does not address the mechanical interfaces to target detection devices or to other sensors that are external to the fuzing system main housing.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

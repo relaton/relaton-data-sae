@@ -1,0 +1,58 @@
+---
+id: SAEARP265A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Airfoil Shapes - Dimensioning of Turbine Engine
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp265a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp265a-airfoil-shapes-dimensioning-turbine-engine
+docidentifier:
+- content: SAE ARP265A
+  type: SAE
+  primary: true
+- content: 10.4271/arp265a
+  type: DOI
+date:
+- type: approved
+  at: '1996-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This Aeronautical Recommended Practice provides a standard method for
+    locating and dimensioning the airfoil portions of parts such as blades, and vanes.
+    \ This method will apply to blades, or vanes with or without a base.  The forms
+    of attachment are varied; therefore, the blade bases shown in the following figures
+    are for illustration only. All dimensions and notes shown pertaining to the common
+    functional point, line or plane are considered to be applied to a datum, on or
+    off the part, irrespective of the form of attachment.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

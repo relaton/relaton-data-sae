@@ -1,0 +1,70 @@
+---
+id: SAEJ2816_200912
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guide for Reliability Analysis Using the Physics-of-Failure Process
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2816_200912
+- type: src
+  content: https://saemobilus.sae.org/standards/j2816_200912-guide-reliability-analysis-using-physics-failure-process
+docidentifier:
+- content: SAE J2816_200912
+  type: SAE
+  primary: true
+- content: 10.4271/j2816_200912
+  type: DOI
+date:
+- type: approved
+  at: '2009-12-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Ground Vehicle Reliability Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The Physics-of-Failure (PoF) is a science-based approach to reliability that uses modeling and simulation to design-in reliability. This approach models the root causes of failures such as fatigue, fracture, wear, and corrosion. Computer-Aided Design (CAD) tools have been developed to address various loads, stresses, failure mechanisms and sites. PoF uses knowledge of basic failure processes to prevent failures through robust design and manufacturing practices, and aims to:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Design-in reliability up front;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Eliminate failures prior to testing;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Increase fielded reliability;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Promote rapid, cost effective deployment of Health and Usage Monitoring Systems (HUMS);&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Improve diagnostic and prognostic techniques and processes; and,&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Decrease operational and support costs.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;This guide provides a high level overview of the methodology, process and advantages to performing a PoF assessment.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

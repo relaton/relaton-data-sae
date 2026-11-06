@@ -1,0 +1,56 @@
+---
+id: SAEARP493B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Knobs, Control Aircraft, Recommended Design
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp493b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp493b-knobs-control-aircraft-recommended-design
+docidentifier:
+- content: SAE ARP493B
+  type: SAE
+  primary: true
+- content: 10.4271/arp493b
+  type: DOI
+date:
+- type: approved
+  at: '2017-03-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20A Crew Station Lighting
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice is intended to recommend the basic shapes and dimensions for knobs used in aircraft. Two basic types of knobs, the bar shape and the round shape, are described, as well as several widely used variations of these two basic shapes.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

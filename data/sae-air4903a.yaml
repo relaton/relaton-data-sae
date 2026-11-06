@@ -1,0 +1,78 @@
+---
+id: SAEAIR4903A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Pi-Bus Handbook
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4903a
+- type: src
+  content: https://saemobilus.sae.org/standards/air4903a-pi-bus-handbook
+docidentifier:
+- content: SAE AIR4903A
+  type: SAE
+  primary: true
+- content: 10.4271/air4903a
+  type: DOI
+date:
+- type: approved
+  at: '2012-05-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This section defines the scope of the document, provides a brief history of the Pi-Bus, discusses key features of the Pi-Bus, and provides an overview of the operation of the Pi-Bus.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is a handbook intended to accompany AS4710 Pi-Bus standard. The purpose of this document is to provide information to aid users of the Pi-Bus, whether they be implementors of Pi-Bus controllers, architects of systems considering using the Pi-Bus, or programmers who must develop applications in a system which uses the Pi-Bus as the backplane communications bus. This document also provides rationale for many of the Pi-Bus requirements as defined in AS4710 and a discussion of potential enhancements that are being considered for the Pi-Bus.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The following is a mapping of major sections in this document for particular audiences:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Overview of Pi-Bus and its capabilities: &lt;span class="xref"&gt;Section 1&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Pi-Bus rationale: &lt;span class="xref"&gt;Sections 3&lt;/span&gt;, &lt;span class="xref"&gt;4&lt;/span&gt;, and &lt;span class="xref"&gt;5&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;information for IC designers: &lt;span class="xref"&gt;Sections 3&lt;/span&gt;, &lt;span class="xref"&gt;4&lt;/span&gt;, &lt;span class="xref"&gt;5&lt;/span&gt;, &lt;span class="xref"&gt;8&lt;/span&gt;, and &lt;span class="xref"&gt;9&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Information for system designers/architects: &lt;span class="xref"&gt;Sections 1&lt;/span&gt;, &lt;span class="xref"&gt;6&lt;/span&gt;, &lt;span class="xref"&gt;7&lt;/span&gt;, and &lt;span class="xref"&gt;9&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Information for software designer: &lt;span class="xref"&gt;Sections 1&lt;/span&gt;, &lt;span class="xref"&gt;6&lt;/span&gt;, and &lt;span class="xref"&gt;7&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;The following is a synopsis of the history of the Pi-Bus.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

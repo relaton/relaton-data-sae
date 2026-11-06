@@ -1,0 +1,57 @@
+---
+id: SAEAMS4945
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TITANIUM ALLOY TUBING, SEAMLESS, HYDRAULIC, 3Al - 2.5V, Texture Controlled,
+    105,000 psi (724 MPa) Yield Strength
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4945
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4945-titanium-alloy-tubing-seamless-hydraulic-3al-25v-texture-controlled-105000-psi-724-mpa-yield-strength
+docidentifier:
+- content: SAE AMS4945
+  type: SAE
+  primary: true
+- content: 10.4271/ams4945
+  type: DOI
+date:
+- type: approved
+  at: '1989-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G Titanium and Refractory Metals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a titanium alloy in the form of seamless, cold worked, stress relieved, and texture controlled (See &lt;span class="xref"&gt;8.1&lt;/span&gt;) tubing.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

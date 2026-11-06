@@ -1,0 +1,61 @@
+---
+id: SAEARP4386
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TERMINOLOGY AND DEFINITIONS FOR AEROSPACE FLUID POWER, ACTUATION, AND CONTROL
+    TECHNOLOGIES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4386
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4386-terminology-definitions-aerospace-fluid-power-actuation-control-technologies
+docidentifier:
+- content: SAE ARP4386
+  type: SAE
+  primary: true
+- content: 10.4271/arp4386
+  type: DOI
+date:
+- type: approved
+  at: '1992-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6 Aerospace Actuation, Control and Fluid Power Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document comprises the technical terms and nomenclature together with their definitions and abbreviations used in the field of aerospace fluid power, actuation, and control technologies. The terms listed herein, both general and specific, are believed to be most useful as a reference in the design of future aerospace vehicle fluid power, actuation, and control systems.&lt;/div&gt;
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEAMS4120L
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY BARS, RODS, AND WIRE, ROLLED OR COLD FINISHED 4.4Cu - 1.5Mg
+    - 0.60Mn (2024) Solution Heat Treated and Naturally Aged (T4) Solution Heat Treated,
+    Cold Worked, and Naturally Aged (T351)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4120l
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4120l-aluminum-alloy-bars-rods-wire-rolled-cold-finished-44cu-15mg-060mn-2024-solution-heat-treated-naturally-aged-t4-solution-heat-treated-cold-worked-naturally-aged-t351
+docidentifier:
+- content: SAE AMS4120L
+  type: SAE
+  primary: true
+- content: 10.4271/ams4120l
+  type: DOI
+date:
+- type: approved
+  at: '1989-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers two tempers of aluminum alloy in the form of bars, rods, and wire.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,74 @@
+---
+id: SAEJ193990_202603
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: OBD Traceability Matrix
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939-90_202603
+- type: src
+  content: https://saemobilus.sae.org/standards/j1939-90_202603-obd-traceability-matrix
+docidentifier:
+- content: SAE J1939-90_202603
+  type: SAE
+  primary: true
+- content: 10.4271/j1939-90_202603
+  type: DOI
+date:
+- type: approved
+  at: '2026-03-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>&lt;p&gt;This Information Report is intended to supplement the J1939
+    documents by offering the application of SAE RP J1939 to OBD data communications
+    in a form that can be sorted and searched for easier use. It is NOT intended as
+    a substitute for the actual regulations and standards documents, and any discrepancies
+    between this document and the published  documents must be resolved in favor of
+    the published documents.  Regulatory Version(s):  CARB 1971.1 OCTOBER 3, 2019
+    ; CARB 1968.2 OCTOBER 3, 2019; “CALIFORNIA GREENHOUSE GAS EXHAUST EMISSION STANDARDS
+    AND TEST PROCEDURES FOR 2014 AND SUBSEQUENT MODEL HEAVY-DUTY VEHICLES” As Amended:
+    September 9, 2021; “CALIFORNIA STANDARDS AND TEST PROCEDURES FOR NEW 2021 AND
+    SUBSEQUENT MODEL HEAVY-DUTY ZERO-EMISSION POWERTRAINS.”  As Adopted: June 27,
+    2019; EPA 40 CFR Part 1036 Subpart B (up to date as of 10/10/2024)&lt;/p&gt;</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

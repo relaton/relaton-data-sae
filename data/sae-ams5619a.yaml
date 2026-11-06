@@ -1,0 +1,53 @@
+---
+id: SAEAMS5619A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Bars and Forgings, 14cr 4.0mo (1.00-1.10c)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5619a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5619a-bars-forgings-14cr-40mo-100-110c
+docidentifier:
+- content: SAE AMS5619A
+  type: SAE
+  primary: true
+- content: 10.4271/ams5619a
+  type: DOI
+date:
+- type: approved
+  at: '2000-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>Primarily for parts requiring resistance to both corrosion and wear
+    with hardness retained during exposure to temperatures up to 600 F (316 C).</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

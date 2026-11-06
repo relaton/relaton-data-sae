@@ -1,0 +1,56 @@
+---
+id: SAEAIR5913A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Landing Gear Component Heat Damage
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5913a
+- type: src
+  content: https://saemobilus.sae.org/standards/air5913a-landing-gear-component-heat-damage
+docidentifier:
+- content: SAE AIR5913A
+  type: SAE
+  primary: true
+- content: 10.4271/air5913a
+  type: DOI
+date:
+- type: approved
+  at: '2023-11-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this report is to outline types of in-service heat damage that have been observed in high strength steel landing gear components, with an emphasis on a particular type that is referred to as “Ladder Cracking” which can develop in landing gear shock struts. The report discusses how ladder cracking can be detected visually and evaluated by non-destructive inspection methods, and how it can be repaired at overhaul with the prior approval of the Original Equipment Manufacturer. This report also describes the use of a bearing material that has resolved this problem without introducing other problems. Examples of other types of service induced heat damage are also discussed.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAIR5120
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Engine Monitoring System Reliability and Validity
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5120
+- type: src
+  content: https://saemobilus.sae.org/standards/air5120-engine-monitoring-system-reliability-validity
+docidentifier:
+- content: SAE AIR5120
+  type: SAE
+  primary: true
+- content: 10.4271/air5120
+  type: DOI
+date:
+- type: approved
+  at: '2014-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;For Engine Monitoring Systems to meet their potential for improved safety and reduced operation and support costs, significant attention must be focused on their reliability and validity throughout the life cycle. This AIR will provide program managers, designers, developers and customers a concise reference of the activities, approaches and considerations for the development and verification of a highly reliable engine monitoring system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;When applying the guidelines of this AIR it should be noted that engine monitoring systems physically or functionally integrated with the engine control system and/or performing functions that affect engine safety or are used to effect continued operation or return to service decisions shall be subject to the Type Investigation of the product in which they'll be incorporated and have to show compliance with the applicable airworthiness requirements as defined by the responsible Aviation Authority. This is not limited to but includes the application of software levels consistent with the criticality of the performed functions. For instance, low cycle fatigue (LCF) cycle counters for Engine Critical Parts would be included in the Type Investigation but most trend monitors and devices providing information for maintenance would not.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

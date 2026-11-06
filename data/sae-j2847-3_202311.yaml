@@ -1,0 +1,58 @@
+---
+id: SAEJ28473_202311
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Communication for Plug-in Vehicles as a Distributed Energy Source
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2847/3_202311
+- type: src
+  content: https://saemobilus.sae.org/standards/j28473_202311-communication-plug-vehicles-a-distributed-energy-source
+docidentifier:
+- content: SAE J2847/3_202311
+  type: SAE
+  primary: true
+- content: 10.4271/j2847/3_202311
+  type: DOI
+date:
+- type: approved
+  at: '2023-11-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice applies to a plug-in electric vehicle (PEV) which is equipped with an onboard inverter and communicates using IEEE 2030.5-2018. It is a supplement to the SEP2 standard, which supports the use cases defined by SAE J2836/3. It provides guidance for the use of the SEP2 distributed energy resource function set with a PEV. It also provides guidance for the use of the SEP2 flow reservation function set, when used for discharging. It is not intended to be a comprehensive guide to the use of SEP2 in a PEV.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Note that in this document, SEP2 is used interchangeably with IEEE 2030.5-2018.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

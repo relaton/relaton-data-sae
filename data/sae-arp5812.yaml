@@ -1,0 +1,58 @@
+---
+id: SAEARP5812
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Actuators, Linear Mechanical, General Specification Guide
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5812
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5812-actuators-linear-mechanical-general-specification-guide
+docidentifier:
+- content: SAE ARP5812
+  type: SAE
+  primary: true
+- content: 10.4271/arp5812
+  type: DOI
+date:
+- type: approved
+  at: '2025-01-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6B3 Electro-Mechanical Actuation Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) establishes design, manufacturing performance and test requirements for linear mechanical actuators intended to be used for linear motion applications in response to manual or automatic power control system inputs.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is applicable, but not confined to, ball screws, sliding contact screws, roller screws, helical splines, rack and pinion assemblies, and skewed roller actuators.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is a reference for preparing detail specifications for mechanical actuators compatible and applicable to military or commercial aircraft systems.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

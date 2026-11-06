@@ -1,0 +1,57 @@
+---
+id: SAEJ2574_201109
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fuel Cell Vehicle Terminology
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2574_201109
+- type: src
+  content: https://saemobilus.sae.org/standards/j2574_201109-fuel-cell-vehicle-terminology
+docidentifier:
+- content: SAE J2574_201109
+  type: SAE
+  primary: true
+- content: 10.4271/j2574_201109
+  type: DOI
+date:
+- type: approved
+  at: '2011-09-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Cell Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report contains definitions for hydrogen fuel cell powered vehicle terminology. It is intended that this document be a resource for those writing other hydrogen fuel cell vehicle documents, specifically, Standards or Recommended Practices.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEJ29317_201802
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Security for Plug-In Electric Vehicle Communications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2931/7_201802
+- type: src
+  content: https://saemobilus.sae.org/standards/j29317_201802-security-plug-electric-vehicle-communications
+docidentifier:
+- content: SAE J2931/7_201802
+  type: SAE
+  primary: true
+- content: 10.4271/j2931/7_201802
+  type: DOI
+date:
+- type: approved
+  at: '2018-02-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report J2931/7 establishes the security requirements for digital communication between Plug-In Electric Vehicles (PEV), the Electric Vehicle Supply Equipment (EVSE) and the utility, ESI, Advanced Metering Infrastructure (AMI) and/or Home Area Network (HAN).&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

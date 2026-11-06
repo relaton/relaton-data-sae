@@ -1,0 +1,56 @@
+---
+id: SAEAS916C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Oxygen Flow Indication
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as916c
+- type: src
+  content: https://saemobilus.sae.org/standards/as916c-oxygen-flow-indication
+docidentifier:
+- content: SAE AS916C
+  type: SAE
+  primary: true
+- content: 10.4271/as916c
+  type: DOI
+date:
+- type: approved
+  at: '2024-09-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) defines the overall requirements applicable to oxygen flow indication as required by Airworthiness Requirements of CS/FAR 25.1449 to show that oxygen is being delivered to the dispensing equipment. Requirements of this document shall be applicable to any type of oxygen system technology and encompass “traditional” pneumatic devices, as well electric/electronic indication.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

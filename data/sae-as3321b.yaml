@@ -1,0 +1,48 @@
+---
+id: SAEAS3321B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STUD - STRAIGHT, RING LOCKED, CRES AMS 5731 .3125-18UNJC X .3125-24UNJF
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as3321b
+- type: src
+  content: https://saemobilus.sae.org/standards/as3321b-stud-straight-ring-locked-cres-ams-5731-3125-18unjc-x-3125-24unjf
+docidentifier:
+- content: SAE AS3321B
+  type: SAE
+  primary: true
+- content: 10.4271/as3321b
+  type: DOI
+date:
+- type: approved
+  at: '2005-07-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

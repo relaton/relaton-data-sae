@@ -1,0 +1,56 @@
+---
+id: SAEAIR1854
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BATTERY POWERED AIRCRAFT TOW/PUSHOUT TRACTORS - FACTORS FOR DESIGN CONSIDERATION
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1854
+- type: src
+  content: https://saemobilus.sae.org/standards/air1854-battery-powered-aircraft-tow-pushout-tractors-factors-design-consideration
+docidentifier:
+- content: SAE AIR1854
+  type: SAE
+  primary: true
+- content: 10.4271/air1854
+  type: DOI
+date:
+- type: approved
+  at: '1985-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The AIR is presented in two parts. The first part is simply a summarization of design factors that must be considered in establishing performance requirements. The second part consists of various tabulated design data and explanatory examples.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAMS7004
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Titanium Alloy Preforms from Plasma Arc Directed Energy Deposition Additive
+    Manufacturing on Substrate Ti-6Al-4V Stress Relieved
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7004
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7004-titanium-alloy-preforms-plasma-arc-directed-energy-deposition-additive-manufacturing-substrate-ti-6al-4v-stress-relieved
+docidentifier:
+- content: SAE AMS7004
+  type: SAE
+  primary: true
+- content: 10.4271/ams7004
+  type: DOI
+date:
+- type: approved
+  at: '2019-01-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS AM Additive Manufacturing Metals
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers preforms fabricated up through 5.5 inches (140 mm) inclusive in deposition width thickness (see &lt;span class="xref"&gt;8.2.5&lt;/span&gt;) using a Plasma Arc Directed Energy Deposition (PA-DED) additive manufacturing process on a Ti-6Al-4V substrate that are subjected to post-deposition stress relief heat treatment. This is a wire fed additive manufacturing process. If required by the CEO, preforms may require subsequent machining to meet requirements for their intended final part application.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

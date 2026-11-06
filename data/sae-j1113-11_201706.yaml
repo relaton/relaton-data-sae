@@ -1,0 +1,57 @@
+---
+id: SAEJ111311_201706
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Immunity to Conducted Transients on Power Leads
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1113/11_201706
+- type: src
+  content: https://saemobilus.sae.org/standards/j111311_201706-immunity-conducted-transients-power-leads
+docidentifier:
+- content: SAE J1113/11_201706
+  type: SAE
+  primary: true
+- content: 10.4271/j1113/11_201706
+  type: DOI
+date:
+- type: approved
+  at: '2017-06-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard defines methods and apparatus to evaluate electronic devices for immunity to potential interference from conducted transients along battery feed or switched ignition inputs. Test apparatus specifications outlined in this procedure were developed for components installed in vehicles with 12-V systems (passenger cars and light trucks, 12-V heavy-duty trucks, and vehicles with 24-V systems). Presently, it is not intended for use on other input/output (I/O) lines of the device under test (DUT).&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,49 @@
+---
+id: SAEAS3177A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BOLT, MACHINE - DOUBLE HEX EXTENDED WASHER HEAD, DRILLED, CLOSE TOL SHANK,
+    AMS5643 (UNS S17400), 140 KSI, .3750-24 UNJF-3A
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as3177a
+- type: src
+  content: https://saemobilus.sae.org/standards/as3177a-bolt-machine-double-hex-extended-washer-head-drilled-close-tol-shank-ams5643-uns-s17400-140-ksi-3750-24-unjf-3a
+docidentifier:
+- content: SAE AS3177A
+  type: SAE
+  primary: true
+- content: 10.4271/as3177a
+  type: DOI
+date:
+- type: approved
+  at: '2014-02-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

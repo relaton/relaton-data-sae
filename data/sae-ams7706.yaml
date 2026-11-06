@@ -1,0 +1,48 @@
+---
+id: SAEAMS7706
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: IRON, COMMERCIALLY PURE Hot Rolled, Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7706
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7706-iron-commercially-pure-hot-rolled-annealed
+docidentifier:
+- content: SAE AMS7706
+  type: SAE
+  primary: true
+- content: 10.4271/ams7706
+  type: DOI
+date:
+- type: approved
+  at: '1957-09-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

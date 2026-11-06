@@ -1,0 +1,57 @@
+---
+id: SAEJ20573_200108
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Class A Multiplexing Sensors
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2057/3_200108
+- type: src
+  content: https://saemobilus.sae.org/standards/j20573_200108-class-a-multiplexing-sensors
+docidentifier:
+- content: SAE J2057/3_200108
+  type: SAE
+  primary: true
+- content: 10.4271/j2057/3_200108
+  type: DOI
+date:
+- type: approved
+  at: '2001-08-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Architecture For Data Communications Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The Class A Task Force of the Vehicle Network for Multiplexing and Data Communications Subcommittee is providing information on sensors that could be applicable for a Class A Bus application. Sensors are generally defined as any device that inputs information onto the bus. Sensors can be an input controlled by the operator or an input that provides the feedback or status of a monitored vehicle function. Although there is a list of sensors provided, this list is not all-inclusive. This SAE Information Report is intended to help the network system engineer and is meant to stimulate the design thought process.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

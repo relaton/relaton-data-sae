@@ -1,0 +1,49 @@
+---
+id: SAEAS14153A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CIRCUIT BREAKER - AIRCRAFT, TRIP-FREE, PUSH-PULL 3 PHASE, 1 THRU 35 AMP,
+    TYPE 1
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as14153a
+- type: src
+  content: https://saemobilus.sae.org/standards/as14153a-circuit-breaker-aircraft-trip-free-push-pull-3-phase-1-thru-35-amp-type-1
+docidentifier:
+- content: SAE AS14153A
+  type: SAE
+  primary: true
+- content: 10.4271/as14153a
+  type: DOI
+date:
+- type: approved
+  at: '1998-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8B1 Protective Devices Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

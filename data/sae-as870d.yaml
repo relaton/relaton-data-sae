@@ -1,0 +1,49 @@
+---
+id: SAEAS870D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: WRENCHING CONFIGURATION, BI-HEXAGONAL (12 POINT) DRIVE, DESIGN STANDARD
+    FOR
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as870d
+- type: src
+  content: https://saemobilus.sae.org/standards/as870d-wrenching-configuration-bi-hexagonal-12-point-drive-design-standard
+docidentifier:
+- content: SAE AS870D
+  type: SAE
+  primary: true
+- content: 10.4271/as870d
+  type: DOI
+date:
+- type: approved
+  at: '2006-05-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

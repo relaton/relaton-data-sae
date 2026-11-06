@@ -1,0 +1,59 @@
+---
+id: SAEJ417_201801
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hardness Tests and Hardness Number Conversions
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j417_201801
+- type: src
+  content: https://saemobilus.sae.org/standards/j417_201801-hardness-tests-hardness-number-conversions
+docidentifier:
+- content: SAE J417_201801
+  type: SAE
+  primary: true
+- content: 10.4271/j417_201801
+  type: DOI
+date:
+- type: approved
+  at: '2018-01-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Metals Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report lists approximate hardness conversion values; test methods for Vickers Hardness, Brinell Hardness, Rockwell Hardness Rockwell Superficial Hardness, Shore Hardness; and information regarding surface preparation, specimen thickness, effect of curved surfaces, and recommendations for Rockwell surface hardness testing for case hardened parts.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The tables in this report give the approximate relationship of Vickers Brinell, Rockwell, and Scleroscope hardness values and corresponding approximate tensile strengths of steels. It is impossible to give exact relationships because of the inevitable influence of size, mass, composition, and method of heat treatment. Where more precise conversions are required, they should be developed specially for each steel composition, heat treatment, and part.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The accompanying conversion tables for steel hardness numbers are based on extensive tests on carbon and alloy steels, mostly in the heat treated condition, but have been found to be reliable on practically all constructional alloy steels and tool steels in the as-forged, annealed, normalized, and quenched and tempered conditions, provided they are homogeneous. Such special cases as high manganese steel, 18% chromium— 8% nickel steel and other austenitic steels, and nickel base alloys, as well as constructional alloy steels and tool steels in the cold worked condition, may not conform to the relationships given with the same degree of accuracy as the steels for which the tables are intended.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;All numbers in these tables given in bold face type were prepared jointly by the American Society for Testing and Materials, the American Society for Metals, and SAE from carefully checked data. The values given in regular face type were taken from the Army-Navy Approximate Hardness Tensile Strength Relationship of Carbon and Low Alloy Steels (ANQQ-H-201) published in the 1943 SAE Handbook, with only minor adjustments.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

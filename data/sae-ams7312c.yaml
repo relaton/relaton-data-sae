@@ -1,0 +1,48 @@
+---
+id: SAEAMS7312C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PISTON RINGS, CENTRIFUGALLY CAST IRON
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7312c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7312c-piston-rings-centrifugally-cast-iron
+docidentifier:
+- content: SAE AMS7312C
+  type: SAE
+  primary: true
+- content: 10.4271/ams7312c
+  type: DOI
+date:
+- type: approved
+  at: '1969-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

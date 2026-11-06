@@ -1,0 +1,62 @@
+---
+id: SAEAIR1823B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Engineering Analysis System (EASY) Computer Program for Dynamic Analysis
+    of Aircraft ECS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1823b
+- type: src
+  content: https://saemobilus.sae.org/standards/air1823b-engineering-analysis-system-easy-computer-program-dynamic-analysis-aircraft-ecs
+docidentifier:
+- content: SAE AIR1823B
+  type: SAE
+  primary: true
+- content: 10.4271/air1823b
+  type: DOI
+date:
+- type: approved
+  at: '2011-05-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The Engineering Analysis System (EASY) computer program is summarized
+    in this report. It provides techniques for analysis of steady-state and dynamic
+    (transient) environmental control system (ECS) performance, control system stability,
+    and for synthesis of optimal ECS.  General uses of a transient analysis computer
+    program for ECS design and development, and general features of EASY relative
+    to these uses, are presented. This report summarizes the nine analysis options
+    of EASY,  EASY program organization for analyzing ECS, data input to the program
+    and resulting data output, and a discussion of EASY limitations. A generalized
+    computer program for determining transient thermodynamic performance of aircraft
+    ECS, and methods for dynamic analysis of aircraft ECS are discussed in this report.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

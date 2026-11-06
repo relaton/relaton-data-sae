@@ -1,0 +1,56 @@
+---
+id: SAEUSCAR8
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GRAIN FLOW PATTERN FOR BOLTS AND SCREWS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar8
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar8-grain-flow-pattern-bolts-screws
+docidentifier:
+- content: SAE USCAR-8
+  type: SAE
+  primary: true
+- content: 10.4271/uscar8
+  type: DOI
+date:
+- type: approved
+  at: '1998-12-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the grain flow pattern requirements in headed bolts and screws. The heading practice in the manufacture of the bolt or screw sets the grain flow pattern, but it is also greatly influenced by the fastener design.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

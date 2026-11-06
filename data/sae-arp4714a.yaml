@@ -1,0 +1,74 @@
+---
+id: SAEARP4714A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: External Software Loading of Electronic Engine Controls
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4714a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4714a-external-software-loading-electronic-engine-controls
+docidentifier:
+- content: SAE ARP4714A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4714a
+  type: DOI
+date:
+- type: approved
+  at: '2012-09-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-36 Electronic Engine Controls Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This paper presents guidelines for development of a procedure for external software loading of an electronic engine control (EEC) for a commercial application, on-wing or in a qualified service shop. This paper makes the following assumptions:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The EEC is designed to accept external software loading.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The EEC is certified as part of an engine.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The support equipment is qualified in accordance with procedures set forth by the engine (and aircraft, if necessary) certifying authority if the EEC cannot detect an integrity violation of the loaded program.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The software to be loaded has been approved by the engine and aircraft certifying authorities.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;One or more configurations of EEC hardware has been identified for each version of software which is to be loaded in the EEC.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;It is appropriate to use these guidelines in the initial development phase, although the certification issues would not be applicable.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Approval as used herein means approval by the engine (and aircraft, if necessary) certifying authority. There are cases where the engine may commence certification activities and no specific aircraft application has been identified. In these cases, the aircraft certification authority should be notified of the EEC’s external software loading capability when the engine’s application is identified. The appropriate documentation can be delivered to the aircraft certifying authority at that time.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

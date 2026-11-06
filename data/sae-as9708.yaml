@@ -1,0 +1,49 @@
+---
+id: SAEAS9708
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SCREW, MACHINE – DOUBLE HEXAGON EXTENDED WASHER HEAD, DRILLED, NICKEL ALLOY
+    (UNS N07001), .3750-24 UNJF-3A
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9708
+- type: src
+  content: https://saemobilus.sae.org/standards/as9708-screw-machine-double-hexagon-extended-washer-head-drilled-nickel-alloy-uns-n07001-3750-24-unjf-3a
+docidentifier:
+- content: SAE AS9708
+  type: SAE
+  primary: true
+- content: 10.4271/as9708
+  type: DOI
+date:
+- type: approved
+  at: '2021-12-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

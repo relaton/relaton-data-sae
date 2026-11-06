@@ -1,0 +1,64 @@
+---
+id: SAEARP1874
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: DESIGN OBJECTIVES FOR CRT DISPLAYS FOR PART 25 (TRANSPORT) AIRCRAFT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1874
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1874-design-objectives-crt-displays-part-25-transport-aircraft
+docidentifier:
+- content: SAE ARP1874
+  type: SAE
+  primary: true
+- content: 10.4271/arp1874
+  type: DOI
+date:
+- type: approved
+  at: '2008-01-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4ED Electronics Display Subcommittee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This ARP covers CRT electronic display devices, both single color and multicolor, and is applicable to the following types of displays:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Type I: Flight and Navigation Displays&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Type II: Engine, Systems and Warning Displays&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Type III: Control Displays&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

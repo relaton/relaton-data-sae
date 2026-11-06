@@ -1,0 +1,57 @@
+---
+id: SAEARP583J
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Cabin Crew Stations
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp583j
+- type: src
+  content: https://saemobilus.sae.org/standards/arp583j-cabin-crew-stations
+docidentifier:
+- content: SAE ARP583J
+  type: SAE
+  primary: true
+- content: 10.4271/arp583j
+  type: DOI
+date:
+- type: approved
+  at: '2017-01-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-9B Cabin Interiors and Furnishings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides guidance for the design and location of cabin crew stations, including emergency equipment installations at or near such stations, so as to enable the cabin crew to function effectively in emergency situations, including emergency evacuations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Recommendations regarding design of cabin crew stations apply to all such stations; recommendations regarding location apply to those stations located near or adjacent to floor level exits.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

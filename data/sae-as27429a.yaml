@@ -1,0 +1,53 @@
+---
+id: SAEAS27429A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Splice, Conductor, Disconnect, Crimp Style, Copper, Insulated  Barrel,
+    Type II, Class 1 for 105°C Total Conductor Temperature
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as27429a
+- type: src
+  content: https://saemobilus.sae.org/standards/as27429a-splice-conductor-disconnect-crimp-style-copper-insulated-barrel-type-ii-class-1-105c-total-conductor-temperature
+docidentifier:
+- content: SAE AS27429A
+  type: SAE
+  primary: true
+- content: 10.4271/as27429a
+  type: DOI
+date:
+- type: approved
+  at: '2006-10-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C2 Terminating Devices and Tooling Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>Scope unavailable.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

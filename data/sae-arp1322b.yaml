@@ -1,0 +1,58 @@
+---
+id: SAEARP1322B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Overpressurization Release Devices
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1322b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1322b-overpressurization-release-devices
+docidentifier:
+- content: SAE ARP1322B
+  type: SAE
+  primary: true
+- content: 10.4271/arp1322b
+  type: DOI
+date:
+- type: approved
+  at: '2014-08-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5A Wheels, Brakes and Skid Controls Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) specifies the minimum design and test recommendations for aircraft wheel overpressurization release devices used with tubeless aircraft tires to protect from possible explosive failure of the contained air chamber due to overinflation. Devices of this type provide a means, but not the only means, for showing compliance to Subsection 25.731(d) of Part 25 of Title 14 of the Code of Federal Regulations. Devices of this type will not protect against flash fire explosive conditions within the air chamber which may occur due to extremely overheated brakes. To help protect against this condition, nitrogen or other inert gas should be used for inflation.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEARP4252
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: INSTRUMENTAL METHODS OF DETERMINING SURFACE CLEANLINESS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4252
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4252-instrumental-methods-determining-surface-cleanliness
+docidentifier:
+- content: SAE ARP4252
+  type: SAE
+  primary: true
+- content: 10.4271/arp4252
+  type: DOI
+date:
+- type: approved
+  at: '1995-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice is intended as a guide toward standard practices for the determination of surface cleanliness that are applicable to field operation. Some of these methods can also be used to determine quality assurance that a surface has been properly prepared and maintained.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The instrumental methods are: Wettability, Surface Potential Difference (SPD), Ellipsometry, and Optically Stimulated Electron Emission (OSEE). Each instrument is described with respect to measurement techniques, limitations, and advantages and types of available instruments. Elementary theoretical principles and examples of the use of each instrument are also given.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEJ3059_202401
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Ambulance Patient Compartment Seated Occupant Excursion Zone Evaluation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3059_202401
+- type: src
+  content: https://saemobilus.sae.org/standards/j3059_202401-ambulance-patient-compartment-seated-occupant-excursion-zone-evaluation
+docidentifier:
+- content: SAE J3059_202401
+  type: SAE
+  primary: true
+- content: 10.4271/j3059_202401
+  type: DOI
+date:
+- type: approved
+  at: '2024-01-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck Crashworthiness Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report describes the testing and reporting procedures that may be used to evaluate and document the excursion of a worker or civilian when transported in a seated and restrained position in the patient compartment of a ground ambulance when exposed to a front, side, or rear impact. Its purpose is to provide seating and occupant restraint manufacturers, ambulance builders, and end-users with testing procedures and documentation methods needed to identify head travel paths in crash loading events. This is a component level test. The seating system is tested in free space to measure maximum head travel paths. The purpose is not to identify stay out zones. Rather, the goal is to provide ambulance manufacturers with the data needed to design safer and functionally sound workstations for Emergency Medical Service workers so that workers are better able to safely perform patient care tasks in a moving ambulance. Descriptions of the test set-up, test instrumentation, photographic/video coverage, text fixture, and reporting requirements are included.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

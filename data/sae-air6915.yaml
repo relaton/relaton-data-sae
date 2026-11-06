@@ -1,0 +1,57 @@
+---
+id: SAEAIR6915
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Human Factor Considerations in the Implementation of IVHM
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6915
+- type: src
+  content: https://saemobilus.sae.org/standards/air6915-human-factor-considerations-implementation-ivhm
+docidentifier:
+- content: SAE AIR6915
+  type: SAE
+  primary: true
+- content: 10.4271/air6915
+  type: DOI
+date:
+- type: approved
+  at: '2020-03-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: HM-1 Integrated Vehicle Health Management Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) offers information on how human factors should be considered when developing and implementing IVHM capabilities for both military and civil fixed wing aircraft. These considerations will cover the perception, analysis, and action taken by the flight crew and the maintenance personnel in response to outputs from the IVHM system. These outputs would be onboard realtime for the flight crew and post flight for maintenance. This document is not intended to be a guideline; it is intended to provide information that should be considered when designing and implementing future IVHM systems.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

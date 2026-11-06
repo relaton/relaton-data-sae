@@ -1,0 +1,50 @@
+---
+id: SAEAS225205
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CRIMPING TOOLS, TYPE 2, TERMINAL, HAND, WIRE TERMINATION, FOR COAXIAL,
+    TWINAXIAL, TRIAXIAL, SHIELDED CONTACTS AND FERRULES, TERMINAL LUGS, SPLICES AND
+    END CAPS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as22520/5
+- type: src
+  content: https://saemobilus.sae.org/standards/as225205-crimping-tools-type-2-terminal-hand-wire-termination-coaxial-twinaxial-triaxial-shielded-contacts-ferrules-terminal-lugs-splices-end-caps
+docidentifier:
+- content: SAE AS22520/5
+  type: SAE
+  primary: true
+- content: 10.4271/as22520/5
+  type: DOI
+date:
+- type: approved
+  at: '2016-02-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C2 Terminating Devices and Tooling Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

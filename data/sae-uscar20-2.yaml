@@ -1,0 +1,56 @@
+---
+id: SAEUSCAR202
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FIELD CORRELATED LIFE TEST SUPPLEMENT TO SAE/USCAR-2
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar20-2
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar20-2-field-correlated-life-test-supplement-sae-uscar-2
+docidentifier:
+- content: SAE USCAR-20-2
+  type: SAE
+  primary: true
+- content: 10.4271/uscar20-2
+  type: DOI
+date:
+- type: approved
+  at: '2022-03-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This life test for underhood/passenger/trunk connector systems may be used in place of Section 5.9.6, Connection System Electrical Table of SAE/USCAR-2. All other requirements of SAE/USCAR-2 remain applicable even when this test is used. Refer to SAE/USCAR-2 and Connector/Terminal Supplier for appropriate power rating and current cycle Testing.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

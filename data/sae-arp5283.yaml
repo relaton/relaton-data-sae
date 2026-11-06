@@ -1,0 +1,67 @@
+---
+id: SAEARP5283
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nose Gear Towbarless Tow Vehicle Basic Test Requirements
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5283
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5283-nose-gear-towbarless-tow-vehicle-basic-test-requirements
+docidentifier:
+- content: SAE ARP5283
+  type: SAE
+  primary: true
+- content: 10.4271/arp5283
+  type: DOI
+date:
+- type: approved
+  at: '2005-02-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this specification is to provide airplane operators and tow vehicle manufacturers with:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;General design and operating requirements pertinent to test and evaluation of towbarless tow vehicles. Specific design requirements are provided in ARP4852A and ARP4853A.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Test and evaluation requirements. The results of these test evaluations will determine if the loads induced by the tow vehicle will exceed the design loads of the nose gear, reduce the certified safe life limit of the nose gear, or induce a stability problem during pushback and/or maintenance towing operations.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document specifies general test requirements and a test evaluation procedure for towbarless tow vehicles (TLTV) intended for pushback and maintenance towing only. It is not meant for dispatch (operational) towing (see definitions in &lt;span class="xref"&gt;Section 3&lt;/span&gt;). Dispatch towing imposes greater loads on nose gears and structure due to additional passenger, cargo, and fuel loads. Airframe manufacturers may require submittal of test results for evaluation or may provide information which allows TLTV manufacturers or airlines to self-test or evaluate the towbarless tow vehicles themselves. Refer to the airframe manufacturer's documentation for evaluation requirements and detailed testing procedures that may be different than contained in this specification.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;TLTV manufacturers may elect to prepare and provide customers or regulatory agencies with a “Certificate of Compliance” or equivalent documentation as evidence that successful testing and evaluation of a specific tow vehicle/airplane type combination has been completed in accordance with this ARP and/or the applicable detailed airframe manufacturer’s documentation. This certification will allow usage of the vehicle on specifically designated airplane model types. The certificate should be established under an appropriate quality control program meeting the requirements of ISO 9000 Series or equivalent.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This specification requires that the TLTVs under consideration be maintained and operated in a serviceable condition. In addition, the vehicle to airplane interface protection system shall be calibrated periodically. This information is defined in ARP5284 and ARP5285.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document was prepared with the assistance of Airbus, Boeing, and McDonnell Douglas.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

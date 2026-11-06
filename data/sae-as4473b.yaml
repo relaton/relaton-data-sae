@@ -1,0 +1,49 @@
+---
+id: SAEAS4473B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HOSE ASSEMBLY, LINED SILICONE, 125 PSI, FLARELESS, POTABLE WATER, 45° TO
+    90°
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4473b
+- type: src
+  content: https://saemobilus.sae.org/standards/as4473b-hose-assembly-lined-silicone-125-psi-flareless-potable-water-45-90
+docidentifier:
+- content: SAE AS4473B
+  type: SAE
+  primary: true
+- content: 10.4271/as4473b
+  type: DOI
+date:
+- type: approved
+  at: '2013-01-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

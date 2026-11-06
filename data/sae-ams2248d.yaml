@@ -1,0 +1,57 @@
+---
+id: SAEAMS2248D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CHEMICAL CHECK ANALYSIS LIMITS Wrought Corrosion and Heat Resistant Steels
+    and Alloys, Maraging and Other Highly-Alloyed Steels, and Iron Alloys
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2248d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2248d-chemical-check-analysis-limits-wrought-corrosion-heat-resistant-steels-alloys-maraging-highly-alloyed-steels-iron-alloys
+docidentifier:
+- content: SAE AMS2248D
+  type: SAE
+  primary: true
+- content: 10.4271/ams2248d
+  type: DOI
+date:
+- type: approved
+  at: '1988-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers chemical check (product or verification) analysis limits for corrosion and heat resistant steels and alloys, maraging and other highly-alloyed steels, and iron alloys as established by AMS or AISI usage. The chemical check analysis limits shown herein shall apply when this specification is referenced in the material specification. Check analysis limits for elements or ranges of elements not listed herein shall be as specified in the material specification or as agreed upon by purchaser and vendor.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

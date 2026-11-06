@@ -1,0 +1,93 @@
+---
+id: SAEAIR5771A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: The Measurement of Engine Thrust in an Altitude Test Facility
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5771a
+- type: src
+  content: https://saemobilus.sae.org/standards/air5771a-measurement-engine-thrust-altitude-test-facility
+docidentifier:
+- content: SAE AIR5771A
+  type: SAE
+  primary: true
+- content: 10.4271/air5771a
+  type: DOI
+date:
+- type: approved
+  at: '2018-02-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-33 In Flight Propulsion Measurement Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report covers engine tests performed in Altitude Test Facilities (ATFs) with the primary purpose of determining steady state thrust at simulated altitude flight conditions as part of the in-flight thrust determination process. As such it is complementary to AIR1703 and AIR5450, published by the SAE E-33 Technical Committee. The gross thrust determined using such tests may be used to generate other thrust-related parameters that are frequently applied in the assessment of propulsion system performance. For example: net thrust, specific thrust, and exhaust nozzle coefficients.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The report provides a general description of ATFs including all the major features. These are:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Test cell air supply system. This controls the inlet pressure and includes flow straightening, humidity and temperature conditioning.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Air inlet duct and slip joint. Note that the report only covers the case where the inlet duct is connected to the engine, not free jet testing.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Thrust stand force measurement system&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Test cell&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Cell exhaust system&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Measurement system&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;The report provides detailed technical information on how the facilities are operated, including:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Program planning guidelines&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Optimization of the tests&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Setting and control of flight conditions&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Assessment of the data&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;A technical discussion provides the underlying physics for:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Air mass flow determination&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Determination of the conditions in the inlet duct and slip joint&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Derivation of thrust and related parameters&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Correction of data to nominal flight conditions&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Measurement uncertainty&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;The initial issue of this report primarily address ATF testing of engines intended for use on subsonic, transport aircraft. Future revisions to the report will include greater content relevant to the testing of engines for supersonic aircraft, including the wider and higher flight envelopes associated with such aircraft and the technical issues raised by these flight conditions.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAMS7875E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Powder, Chromium Carbide Plus Nickel-Chromium Alloy 75Cr2C3 + 25 (80Ni
+    - 20Cr Alloy)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7875e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7875e-powder-chromium-carbide-plus-nickel-chromium-alloy-75cr2c3-25-80ni-20cr-alloy
+docidentifier:
+- content: SAE AMS7875E
+  type: SAE
+  primary: true
+- content: 10.4271/ams7875e
+  type: DOI
+date:
+- type: approved
+  at: '2012-11-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a blend of chromium carbide and a nickel-chromium alloy in the form of powder.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

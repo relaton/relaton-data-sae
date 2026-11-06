@@ -1,0 +1,56 @@
+---
+id: SAEAIR6282
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fiber Optic Harsh Environment Test Methods Cross Reference Document
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6282
+- type: src
+  content: https://saemobilus.sae.org/standards/air6282-fiber-optic-harsh-environment-test-methods-cross-reference-document
+docidentifier:
+- content: SAE AIR6282
+  type: SAE
+  primary: true
+- content: 10.4271/air6282
+  type: DOI
+date:
+- type: approved
+  at: '2015-06-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard provides a cross reference detailing current test methods used in the qualification processes of fiber optic connectors, termini and cables for aerospace, telecommunications and naval applications. The cross-reference allows the end user to select the test methods most suitable for qualifying a component, or to identify alternative test methods where a specific test is not defined in a referenced document. The standard also provides information on what area each type of referenced document has been developed for.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,54 @@
+---
+id: SAEAMS2641
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Vehicle, Magnetic Particle Inspection, Petroleum Base
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2641
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2641-vehicle-magnetic-particle-inspection-petroleum-base
+docidentifier:
+- content: SAE AMS2641
+  type: SAE
+  primary: true
+- content: 10.4271/ams2641
+  type: DOI
+date:
+- type: approved
+  at: '1988-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS K Non Destructive Methods and Processes Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This specification covers two types of refined hydrocarbon compounds in the form of liquids.&lt;/p&gt;
+    &lt;p&gt;This product has been used typically as a vehicle for the suspension of magnetic particles used in magnetic particle inspection procedures, but usage is not limited to such applications.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

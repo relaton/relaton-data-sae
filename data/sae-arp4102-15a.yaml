@@ -1,0 +1,56 @@
+---
+id: SAEARP410215A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electronic Data Management System (EDMS)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4102/15a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp410215a-electronic-data-management-system-edms
+docidentifier:
+- content: SAE ARP4102/15A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4102/15a
+  type: DOI
+date:
+- type: approved
+  at: '2007-07-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-7 Flight Deck Handling Qualities Stds for Trans Aircraft
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) recommends criteria for an Electronic Data Management System (EDMS) for use on the flight deck of transport aircraft. The EDMS may be the primary, and in some cases sole, on board source of documentation and information for flight operations, engineering, aircraft maintenance, cabin services, and training. This document addresses flight operations applications only. It addresses the requirements for the flight deck characteristics of airborne equipment elements for an Electronic Data Management System (EDMS), but not the ground support system requirements. Development of ground support systems for EDMS will be a significant task, which must take account of the end-user information handing requirements specified here. An Electronic Library System (ELS) is a partial implementation of EDMS, which incorporates only the data storage, retrieval and display functions. The appropriate aspects of this document are applicable to Electronic Library Systems.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

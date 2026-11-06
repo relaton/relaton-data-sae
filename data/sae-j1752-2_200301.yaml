@@ -1,0 +1,58 @@
+---
+id: SAEJ17522_200301
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Measurement of Radiated Emissions from Integrated Circuits—Surface Scan
+    Method (Loop Probe Method) 10 MHz to 3 GHz
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1752/2_200301
+- type: src
+  content: https://saemobilus.sae.org/standards/j17522_200301-measurement-radiated-emissions-integrated-circuits-surface-scan-method-loop-probe-method-10-mhz-3-ghz
+docidentifier:
+- content: SAE J1752/2_200301
+  type: SAE
+  primary: true
+- content: 10.4271/j1752/2_200301
+  type: DOI
+date:
+- type: approved
+  at: '2003-01-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice defines a method for evaluating the near field electric or magnetic component of the electromagnetic field at the surface of an integrated circuit (IC). This technique is capable of providing a detailed pattern of the RF sources internal to the IC. The resolution of the pattern is determined by the characteristics of the probes used and the precision of the mechanical probe positioner. The method is usable over the 10 MHz to 3 GHz frequency range with existing probe technology. The probe is mechanically scanned according to a programmed pattern in a plane parallel or perpendicular to the IC surface and the data is computer processed to provide a color-enhanced representation of field strength at the scan frequency. This procedure is applicable to measurements from an IC mounted on any circuit board that is accessible to the scan probe. For comparisons, the standardized test board shall be used. This diagnostic procedure is intended for IC architectural analysis including functional floor plan and power distribution.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

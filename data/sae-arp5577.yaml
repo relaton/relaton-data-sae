@@ -1,0 +1,57 @@
+---
+id: SAEARP5577
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Lightning Direct Effects Certification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5577
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5577-aircraft-lightning-direct-effects-certification
+docidentifier:
+- content: SAE ARP5577
+  type: SAE
+  primary: true
+- content: 10.4271/arp5577
+  type: DOI
+date:
+- type: approved
+  at: '2008-03-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-2 Lightning Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides guidance for a means of showing compliance with regulations for protection against lightning direct effects for aircraft of conventional design, as well as for those involving advanced composite structures or other new technologies. This guidance also applies to those aspects of aircraft systems and components not addressed in the regulations covering the protection of electrical/electronic systems (for example, FAR/JAR xx.1316) or fuel systems (for example, xx.954). The guidance provided in this document applies to initial designs as well as modifications.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

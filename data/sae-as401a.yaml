@@ -1,0 +1,57 @@
+---
+id: SAEAS401A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FIRE AND HEAT DETECTORS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as401a
+- type: src
+  content: https://saemobilus.sae.org/standards/as401a-fire-heat-detectors
+docidentifier:
+- content: SAE AS401A
+  type: SAE
+  primary: true
+- content: 10.4271/as401a
+  type: DOI
+date:
+- type: approved
+  at: '1949-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4 Aircraft Instruments Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the following basic types of instruments, or combinations thereof, intended for use in protecting aircraft power plant installations, auxiliary power plants, combustion heaters and other installation where fuel, oil or similar fires may occur.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

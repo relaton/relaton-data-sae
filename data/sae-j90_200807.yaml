@@ -1,0 +1,56 @@
+---
+id: SAEJ90_200807
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standard Classification System for Nonmetallic Automotive Gasket Materials
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j90_200807
+- type: src
+  content: https://saemobilus.sae.org/standards/j90_200807-standard-classification-system-nonmetallic-automotive-gasket-materials
+docidentifier:
+- content: SAE J90_200807
+  type: SAE
+  primary: true
+- content: 10.4271/j90_200807
+  type: DOI
+date:
+- type: approved
+  at: '2008-07-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: SAE IC Powertrain Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;The classification system provides a means for specifying or describing pertinent properties of commercial nonmetallic gasket materials. Materials composed of asbestos, cork, cellulose, and other organic or inorganic materials in combination with various binders or impregnants are included. Materials normally classified as rubber compounds are not included, since they are covered in SAE J200 - ASTM D 2000. Gasket coatings are not covered, since details thereof are intended to be given on engineering drawings or in separate specifications.&lt;/p&gt;
+    &lt;p&gt;Since all of the properties that contribute to gasket performance are not included, use of the classification system as a basis for selecting materials is limited.&lt;/p&gt;
+    &lt;p&gt;The values stated in SI units are to be regarded as the standard. The values given in parentheses are for information only.&lt;/p&gt;
+    &lt;p&gt;This SAE Recommended Practice may involve hazardous materials, operations, and equipment. This document does not purport to address all of the safety problems associated with its use. It is the responsibility of the user of this document to establish appropriate safety and health practices and determine the applicability of regulatory limitations prior to use.lems associated with its use.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

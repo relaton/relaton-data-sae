@@ -1,0 +1,57 @@
+---
+id: SAEARP4255A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electrical Actuation Systems for Aerospace and Other Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4255a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4255a-electrical-actuation-systems-aerospace-applications
+docidentifier:
+- content: SAE ARP4255A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4255a
+  type: DOI
+date:
+- type: approved
+  at: '2012-03-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7A Generators and Controls Motors and Magnetic Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice (ARP) is intended as a guide in the preparation of Procurement Specifications for electrical actuator systems to be used in aerospace and other applications. Detail requirements, as necessary to completely define a specific actuator, are the responsibility of the procuring agency.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

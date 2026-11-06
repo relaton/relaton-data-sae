@@ -1,0 +1,57 @@
+---
+id: SAEAS4098A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hose Assembly, Polytetrafluoroethylene, Heavy Duty, Metallic Reinforced,
+    400 °F, 5000 psi Hydraulic and Pneumatic
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4098a
+- type: src
+  content: https://saemobilus.sae.org/standards/as4098a-hose-assembly-polytetrafluoroethylene-heavy-duty-metallic-reinforced-400-f-5000-psi-hydraulic-pneumatic
+docidentifier:
+- content: SAE AS4098A
+  type: SAE
+  primary: true
+- content: 10.4271/as4098a
+  type: DOI
+date:
+- type: approved
+  at: '2013-01-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Standard (AS) defines the requirements for a heavy duty polytetrafluoroethylene (PTFE) lined, metallic reinforced, hose assembly suitable for use in 400 °F 5000 psi, aircraft and missile hydraulic fluid systems.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

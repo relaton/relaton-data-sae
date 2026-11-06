@@ -1,0 +1,60 @@
+---
+id: SAEARP998A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CREW RESTRAINT SYSTEM
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp998a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp998a-crew-restraint-system
+docidentifier:
+- content: SAE ARP998A
+  type: SAE
+  primary: true
+- content: 10.4271/arp998a
+  type: DOI
+date:
+- type: approved
+  at: '1988-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aircraft Seat Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Part I of this document relates to the restraint systems for the flight deck crew.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Part II considers restraint systems for flight attendants and other crew members.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;As applicable, the same criteria should be incorporated in both Part I and Part II installations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The recommendations herein include coverage of such items as harness reels, shoulder harnesses, and safety belts. However, the intention is not to limit the design of restraint devices to these particular system components only.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These recommendations apply primarily to forward-facing and aft-facing seats. However, the design should take into account the fact that loads may be applied from any direction and be of a magnitude at least as great as those specified in current FAR's.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

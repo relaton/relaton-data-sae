@@ -1,0 +1,56 @@
+---
+id: SAEARP881C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: LAMPS FOR AIRCRAFT LIGHTING
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp881c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp881c-lamps-aircraft-lighting
+docidentifier:
+- content: SAE ARP881C
+  type: SAE
+  primary: true
+- content: 10.4271/arp881c
+  type: DOI
+date:
+- type: approved
+  at: '1991-05-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20AC Crew Station and Interior Lighting Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice (ARP) lists the lamps in &lt;span class="xref"&gt;Table 1&lt;/span&gt; that are recommended for the type of service indicated. This list is not intended as a catalog and does not include many types that are now in use. It does, however, reflect current practice.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

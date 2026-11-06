@@ -1,0 +1,69 @@
+---
+id: SAEAMS1428M
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fluid, Aircraft Deicing/Anti-Icing, Non-Newtonian (Pseudoplastic), SAE
+    Types II, III, and IV
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams1428m
+- type: src
+  content: https://saemobilus.sae.org/standards/ams1428m-fluid-aircraft-deicing-anti-icing-non-newtonian-pseudoplastic-sae-types-ii-iii-iv
+docidentifier:
+- content: SAE AMS1428M
+  type: SAE
+  primary: true
+- content: 10.4271/ams1428m
+  type: DOI
+date:
+- type: approved
+  at: '2025-06-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12ADF Aircraft Deicing Fluids
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;The AMS1428 specification defines the technical requirements for Type II, III, and IV aircraft deicing/anti-icing fluids. These non-Newtonian thickened fluids are formulated to effectively remove frost, ice, and snow from aircraft surfaces while offering protection times longer than Type I fluids against refreezing or frozen contamination. The document outlines key performance criteria, such as freezing point, aerodynamic acceptance, and anti-icing performance, alongside environmental properties like biodegradability, aquatic toxicity, biochemical oxygen demand (BOD), and chemical oxygen demand (COD). Operational considerations, including storage stability, materials compatibility, exposure to dry air, dry-out exposure to cold dry air, successive dry-out and rehydration, and physical properties like pH, refraction, and rheological properties (viscosity) are also specified. Additionally, the specification details the required testing methods to evaluate these properties and sets forth guidelines for the initial qualification, site or unit qualification, periodic requalification, and lot acceptance of Type II, III, and IV fluids.&lt;/p&gt;
+
+
+    &lt;p&gt;This foundation specification (AMS1428) and its associated category specifications (refer to AMS1428/1 and AMS1428/2) cover a deicing/anti-icing material in the form of a fluid.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

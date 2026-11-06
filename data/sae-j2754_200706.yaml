@@ -1,0 +1,58 @@
+---
+id: SAEJ2754_200706
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Volumetric Rating of Excavator Mounted, Bucket Linkage Operated Grapples
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2754_200706
+- type: src
+  content: https://saemobilus.sae.org/standards/j2754_200706-volumetric-rating-excavator-mounted-bucket-linkage-operated-grapples
+docidentifier:
+- content: SAE J2754_200706
+  type: SAE
+  primary: true
+- content: 10.4271/j2754_200706
+  type: DOI
+date:
+- type: approved
+  at: '2007-06-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: MTC C5, Excavators
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard specifies a procedure for approximating the volume of materials contained in the grapple of bucket linkage operated grapples mounted to excavators. The volume ratings are based on the inside dimensions of the grapple and representative volumes extending beyond the grapple.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The method employs the technique of dividing the complex shape of the material in the grapple into simple geometric forms to allow volume calculations of different grapple configurations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The rating method is intended to provide a consistent means of comparing grapple capacities. It is not intended to define actual capacities that might be observed in any specific application.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

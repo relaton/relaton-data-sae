@@ -1,0 +1,68 @@
+---
+id: SAEAS5681C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Minimum Operational Performance Specification for Remote On-Ground Ice
+    Detection Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5681c
+- type: src
+  content: https://saemobilus.sae.org/standards/as5681c-minimum-operational-performance-specification-remote-ground-ice-detection-systems
+docidentifier:
+- content: SAE AS5681C
+  type: SAE
+  primary: true
+- content: 10.4271/as5681c
+  type: DOI
+date:
+- type: approved
+  at: '2024-08-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12HOT Holdover Time Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS)/Minimum Operational Performance Specification (MOPS) specifies the minimum performance requirements of remote on-ground ice detection systems (ROGIDS). These systems are ground based. They provide information that indicates whether frozen contamination is present on aircraft surfaces.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Section 1&lt;/span&gt; provides information required to understand the need for the ROGIDS, ROGIDS characteristics, and tests that are defined in subsequent sections. It describes typical ROGIDS applications and operational objectives and is the basis for the performance criteria stated in &lt;span class="xref"&gt;Sections 3&lt;/span&gt; through &lt;span class="xref"&gt;5&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Section 2&lt;/span&gt; provides reference information, including related documents, definitions, and abbreviations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Section 3&lt;/span&gt; contains general design requirements for the ROGIDS.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Section 4&lt;/span&gt; contains the Minimum Operational Performance Requirements for the ROGIDS, which define performance in icing conditions likely to be encountered during ground operations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Section 5&lt;/span&gt; describes environmental test conditions that provide laboratory means of testing the overall performance characteristics of the ROGIDS in conditions that may be encountered in actual operations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Section 6&lt;/span&gt; describes recommended test procedures for demonstrating compliance with &lt;span class="xref"&gt;Sections 3&lt;/span&gt; and &lt;span class="xref"&gt;4&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Section 7&lt;/span&gt; contains the operational evaluation requirements for verifying the performance of the ROGIDS when installed for in-service use.&lt;/div&gt;
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEARP739
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GAS POWER SERVOS AND REACTION CONTROL SYSTEMS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp739
+- type: src
+  content: https://saemobilus.sae.org/standards/arp739-gas-power-servos-reaction-control-systems
+docidentifier:
+- content: SAE ARP739
+  type: SAE
+  primary: true
+- content: 10.4271/arp739
+  type: DOI
+date:
+- type: approved
+  at: '2008-07-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6B1 Hydraulic Servo Actuation Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Various gas systems are classified in a broad sense, component operation is described in moderate detail, pertinent design parameters are discussed, and possible modes for system operation are listed.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAS1225
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HIGH PRESSURE OXYGEN SYSTEM FILLER VALVE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1225
+- type: src
+  content: https://saemobilus.sae.org/standards/as1225-high-pressure-oxygen-system-filler-valve
+docidentifier:
+- content: SAE AS1225
+  type: SAE
+  primary: true
+- content: 10.4271/as1225
+  type: DOI
+date:
+- type: approved
+  at: '1971-07-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AS covers oxygen filler valves for use in aircraft to ensure safe servicing of high pressure oxygen system cylinders. The intent is that the valve shall automatically control the rate of fill such that the temperature rise in the oxygen system caused by compression heating of the gas will be within acceptable limits. In addition, the valve shall have a pressure sensitive closing valve to automatically control the final pressure for a correct amount of oxygen in the system cylinder. The pressure closing level may be manually selected by means of adjustment dials on the valve.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

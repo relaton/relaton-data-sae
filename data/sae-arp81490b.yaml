@@ -1,0 +1,58 @@
+---
+id: SAEARP81490B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Transmission Lines, Transverse Electromagnetic Mode
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp81490b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp81490b-transmission-lines-transverse-electromagnetic-mode
+docidentifier:
+- content: SAE ARP81490B
+  type: SAE
+  primary: true
+- content: 10.4271/arp81490b
+  type: DOI
+date:
+- type: approved
+  at: '2020-10-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8A Elec Wiring and Fiber Optic Interconnect Sys Install
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document covers the general recommendations for Transverse Electromagnetic Mode (TEM) Transmission Lines intended for use in airborne systems (see &lt;span class="xref"&gt;6.2.14&lt;/span&gt;). For U.S military applications, TEM Transmission Lines shall meet the requirements in accordance with MIL-T-81490. The follow index lists the recommended requirements and methods covered by the Aerospace Recommended Practice (ARP):&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

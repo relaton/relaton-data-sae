@@ -1,0 +1,57 @@
+---
+id: SAEJ35_197301
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: DIESEL SMOKE MEASUREMENT PROCEDURE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j35_197301
+- type: src
+  content: https://saemobilus.sae.org/standards/j35_197301-diesel-smoke-measurement-procedure
+docidentifier:
+- content: SAE J35_197301
+  type: SAE
+  primary: true
+- content: 10.4271/j35_197301
+  type: DOI
+date:
+- type: approved
+  at: '1973-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: SAE IC Powertrain Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+    &lt;div class="htmlview paragraph"&gt;The recommended practice applies to the dynamometer test procedure which can be used to assess the smoke emission characteristics of vehicular diesel engines. In particular, these procedures describe the smoke emissions test, smoke test cycle, equipment and instrumentation, instrument checks, and chart reading and calculation, for evaluation of an engine’s steady-state and transient smoke emission characteristics.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A full-flow smoke opacimeter as opposed to other types of smokemeters is required because the test is designed to monitor transient smoke. Sampling type instruments have an excessive and variable delay and do not provide an accurate measurement of the engine’s transient smoke output. An &lt;span class="xref"&gt;Appendix&lt;/span&gt; shows that the Beer-Lambert law can be used to correlate opacity measurements with different meter path lengths.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Additional or modified test conditions may be requested when this recommended practice is cited in a request for a smoke assessment. These modified test conditions should be clearly stated whenever the results of the smoke assessments are reported. Similarly if the fuel is specified in the test request, this should be stated when the results are reported.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

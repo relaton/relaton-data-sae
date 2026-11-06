@@ -1,0 +1,56 @@
+---
+id: SAEAIR8259
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Demand Oxygen Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air825/9
+- type: src
+  content: https://saemobilus.sae.org/standards/air8259-demand-oxygen-systems
+docidentifier:
+- content: SAE AIR825/9
+  type: SAE
+  primary: true
+- content: 10.4271/air825/9
+  type: DOI
+date:
+- type: approved
+  at: '2023-01-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) describes the general operating principles of demand oxygen equipment, including variant types such as diluter-demand and pressure breathing equipment. The sources of oxygen supply that can be used in connection with a demand oxygen mask are in principle the same as those used for other oxygen dispensing devices. Except for mention of a few features specifically related to demand equipment, this document does not discuss oxygen sources in detail and the reader is advised to consult other applicable documents that describe the operation of oxygen sources for additional information.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

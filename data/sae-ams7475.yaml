@@ -1,0 +1,57 @@
+---
+id: SAEAMS7475
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BOLTS AND SCREWS, WORK-STRENGTHENED ALLOY, CORROSION AND HEAT RESISTANT
+    Forged Head, Roll Threaded After Aging
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7475
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7475-bolts-screws-work-strengthened-alloy-corrosion-heat-resistant-forged-head-roll-threaded-aging
+docidentifier:
+- content: SAE AMS7475
+  type: SAE
+  primary: true
+- content: 10.4271/ams7475
+  type: DOI
+date:
+- type: approved
+  at: '1977-03-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers aircraft-quality bolts and screws made from a corrosion and heat resistant, work-strengthened cobalt-chromium-nickel alloy and aged to develop the specified properties.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

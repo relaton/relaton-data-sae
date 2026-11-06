@@ -1,0 +1,56 @@
+---
+id: SAEARP1210A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GAS TURBINE ENGINE INTERFACE TEST DATA REDUCTION COMPUTER PROGRAMS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1210a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1210a-gas-turbine-engine-interface-test-data-reduction-computer-programs
+docidentifier:
+- content: SAE ARP1210A
+  type: SAE
+  primary: true
+- content: 10.4271/arp1210a
+  type: DOI
+date:
+- type: approved
+  at: '1974-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-15 Gas Turbine Perf Simulation Nomenclature and Interfaces
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Engine test data reduction programs may range from programs which are limited to calculation of external performance, e.g. thrust, fuel flow, and airflow, to those which include an analysis of component performance for consistency checks.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

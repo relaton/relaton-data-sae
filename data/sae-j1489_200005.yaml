@@ -1,0 +1,68 @@
+---
+id: SAEJ1489_200005
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Heavy Truck and Bus Retarder Downhill Performance Mapping Procedure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1489_200005
+- type: src
+  content: https://saemobilus.sae.org/standards/j1489_200005-heavy-truck-bus-retarder-downhill-performance-mapping-procedure
+docidentifier:
+- content: SAE J1489_200005
+  type: SAE
+  primary: true
+- content: 10.4271/j1489_200005
+  type: DOI
+date:
+- type: approved
+  at: '2000-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Powertrain Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The procedure covers the estimation of the total retardation capability available to a specific vehicle from:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Natural retardation (rolling resistance, aerodynamic drag, etc).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Engine drag&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Engine, integral automatic transmission, driveline or trailer-axle retarders&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It assumes that foundation brakes are &lt;u&gt;not&lt;/u&gt; &lt;u&gt;used&lt;/u&gt; for maintaining speed on long mountain descents. Retardation is rated in terms of the maximum grades on which stable control speeds can be maintained for each gear over the range of highway speeds appropriate to that gear. For &lt;u&gt;each&lt;/u&gt; &lt;u&gt;gear&lt;/u&gt;, the calculation procedure determines maximum grades for at least four values of control speed ranging from the vehicle velocity corresponding to full load governed engine rpm, to the vehicle velocity corresponding to the engine rpm at minimum (idle) speed. In addition, the calculation procedure provides information on the total retarding power available for each gear.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

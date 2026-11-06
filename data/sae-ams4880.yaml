@@ -1,0 +1,49 @@
+---
+id: SAEAMS4880
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM BRONZE CASTINGS, CENTRIFUGAL 81.5Cu - 10.3Al - 5Ni - 2.8Fe Heat
+    Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4880
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4880-aluminum-bronze-castings-centrifugal-815cu-103al-5ni-28fe-heat-treated
+docidentifier:
+- content: SAE AMS4880
+  type: SAE
+  primary: true
+- content: 10.4271/ams4880
+  type: DOI
+date:
+- type: approved
+  at: '1952-06-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

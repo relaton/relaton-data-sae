@@ -1,0 +1,84 @@
+---
+id: SAEEIA649C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Configuration Management Standard
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/eia649c
+- type: src
+  content: https://saemobilus.sae.org/standards/eia649c-configuration-management-standard
+docidentifier:
+- content: SAE EIA-649C
+  type: SAE
+  primary: true
+- content: 10.4271/eia649c
+  type: DOI
+date:
+- type: approved
+  at: '2019-02-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-33 Configuration Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard defines five CM functions and their underlying principles. The functions are detailed in &lt;span class="xref"&gt;Section 5&lt;/span&gt;. The principles, highlighted in text boxes, are designed to individually identify the essence of the related CM function and can be used to collectively create a checklist of “best practice” criteria to evaluate a CM program.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The CM principles defined in this standard apply equally to internally focused enterprise information, processes, and supporting systems (i.e., Enterprise CM - policy driven, supporting the internal goals needed to achieve an efficient, effective and lean enterprise), as well as to the working relationships supported by the enterprise (i.e., Acquirer/Supplier CM - contracted relationship to support external trusted interaction with suppliers).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In an Enterprise CM context there are several methodologies for principle use by the enterprise:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;The principles of this standard provide direction for developing enterprise or functional CM plans focused on identifying, defining, authorizing, and managing CM activities.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;These plans identify the participants involved in activities, their responsibilities, their authority, and how accountability is administered to serve enterprise/activity objectives.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;The Enterprise uses CM’s integrity-based traceability and management capabilities as a foundation to support the “best practice” initiatives of data/information management, quality assurance, program/project management, systems engineering and life cycle logistics, by providing principle-guided functions to achieve a more efficient, effective and lean enterprise.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;In the Acquirer/Supplier CM context there are several methodologies for conformance by a supplier:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Acquirer requires a CM plan consistent with the principles of this standard from the supplier.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Acquirer uses this standard to develop a checklist with which to evaluate supplier CM plans.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Acquirer reviews and approves the supplier CM plan and makes it a requirement of the contract. This method requires both parties to the acquisition to understand both the concepts and the tailoring.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Acquirer uses the principles of this standard as the basis for developing either or both an enterprise CM requirements document or a specific project CM requirements document to impose on suppliers. The requirements documents may state this standard’s principles as requirements and reference this standard’s paragraphs. Compliance with the contractual requirements constitutes conformance with this standard.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;In describing each CM function and its principles, this standard utilizes neutral Configuration Management terminology, while also providing equivalent terms, that have historically been used in various product environments (see &lt;span class="xref"&gt;Table 2&lt;/span&gt;). There is no intent to express a preference for any particular set of terminology.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Similarly, this standard uses a neutral set of names for the phases of a product’s life cycle, which are generic enough to be easily mapped to the myriad of different life cycle models in use. &lt;span class="xref"&gt;Table 1&lt;/span&gt; illustrates some of the aliases for each phase name and identifies characteristics that apply to each one.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Regardless of the titles chosen for these phases, or what the product is (i.e., a facility, software, an airplane or a machine screw), at some point in its history a product will go through all or most of these phases. The phases can have considerable overlap, or the sequence of the phases might change or be repeated, e.g., for product improvements and enhancements. Approved configurations of a product can be in the build, distribution, operation, and disposal phases simultaneously, and changes to those configurations may occur during all life cycle phases.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Appropriate application of CM functions enables a user of this standard to plan and implement a CM program for a product, project, or enterprise. All functions apply during every phase of the product’s life cycle but the degree to which each of the CM principles applies may vary. A scalable CM process should be defined, measured, continuously improved, and adhered to, that is commensurate with the product’s complexity, its intended use, and its value over the product life cycle.&lt;/div&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;An organization that has the responsibility for performing Configuration Management for a product during any period of its life cycle could be a commercial enterprise, e.g., contractor, subcontractor, supplier, or government agency. References in this standard to the acquirer (i.e., customer) should be interpreted as the entity that specifies requirements (functional and performance attributes) for the product or that acquires and uses the product. An acquirer may be external to the developing and producing organization or may be internal such as marketing, management, or the using department.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Configuration Management functions related to a product may be the responsibility of several organizations during its life cycle. For example, an organization with the responsibility to design and build a product will perform Configuration Management during the definition and build phases; other organizations or government activities with responsibility for upgrading the product and servicing units will perform Configuration Management during the operation phase.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;GEIA-HB-649 “Configuration Management Standard Implementation Guide,” provides additional “how to” guidance for planning, managing, and implementing CM functions and principles.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

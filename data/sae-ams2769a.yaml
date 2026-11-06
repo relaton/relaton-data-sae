@@ -1,0 +1,56 @@
+---
+id: SAEAMS2769A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Heat Treatment of Parts in a Vacuum
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2769a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2769a-heat-treatment-parts-a-vacuum
+docidentifier:
+- content: SAE AMS2769A
+  type: SAE
+  primary: true
+- content: 10.4271/ams2769a
+  type: DOI
+date:
+- type: approved
+  at: '2008-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes the requirements and procedures for heat treating parts (See &lt;span class="xref"&gt;8.4&lt;/span&gt;) in a vacuum/partial pressure.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

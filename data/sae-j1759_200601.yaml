@@ -1,0 +1,57 @@
+---
+id: SAEJ1759_200601
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SAE Hose Measurement Study
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1759_200601
+- type: src
+  content: https://saemobilus.sae.org/standards/j1759_200601-sae-hose-measurement-study
+docidentifier:
+- content: SAE J1759_200601
+  type: SAE
+  primary: true
+- content: 10.4271/j1759_200601
+  type: DOI
+date:
+- type: approved
+  at: '2006-01-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Non-Hydraulic Hose Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The Measurement of Coolant Hose task group conducted a round-robin study to determine the measuring capability of automotive suppliers and users to measure Inside Diameter (ID), Outside Diameter (OD), Wall Thickness (Wall) and wall thickness variation of hose using traditional measuring devices and techniques. Seven companies (five suppliers and two end users) participated in this testing. Based upon the round-robin study this information report will detail procedures, test measuring devices, results and recommendations.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

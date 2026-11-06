@@ -1,0 +1,49 @@
+---
+id: SAEMA3280B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: INSERT, SCREW THREAD, HELICAL COIL, METRIC SERIES, FREE RUNNING, CRES,
+    DRY FILM LUBRICATED
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma3280b
+- type: src
+  content: https://saemobilus.sae.org/standards/ma3280b-insert-screw-thread-helical-coil-metric-series-free-running-cres-dry-film-lubricated
+docidentifier:
+- content: SAE MA3280B
+  type: SAE
+  primary: true
+- content: 10.4271/ma3280b
+  type: DOI
+date:
+- type: approved
+  at: '2012-12-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

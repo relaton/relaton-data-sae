@@ -1,0 +1,67 @@
+---
+id: SAEARP6078
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Fuel Tank Inerting Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6078
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6078-aircraft-fuel-tank-inerting-systems
+docidentifier:
+- content: SAE ARP6078
+  type: SAE
+  primary: true
+- content: 10.4271/arp6078
+  type: DOI
+date:
+- type: approved
+  at: '2012-10-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5D Fuel Tank Flammability Reduction Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The Aerospace Recommended Practices of this document are intended for nitrogen-based Flammability Reduction Means (FRM) implemented on transport category, turbine powered airplanes. The recommended practices herein, therefore, relate only to the transport category aircraft, and focus specifically on contemporary inerting systems equipment. Such systems are referred to a Fuel Tank Inerting Systems (FTIS) in this document. This document does not cover the following:
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Military aircraft applications&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Air separation technologies other than hollow fiber membrane (HFM) and pressure swing adsorption (PSA)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Inerting of conventional unheated wing tanks or aircraft dry bays&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Expected future technology solutions for the generation of inert gas.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The advice contained in this document is aimed towards providing aircraft manufacturers with guidance on the key issues associated with contemporary aircraft fuel tank inerting systems to supplement the guidance in FAA Advisory Circular AC 25.981-2. This document also provides system and component designers and manufacturers with advice on what aspects must be evaluated and addressed when designing a safe, low risk solution for transport aircraft fuel tank Flammability Reduction Means. As such, the information herein is intended as a guide for some system design aspects, but primarily identifies the issues which must be addressed in designing an inerting system for fuel tank flammability reduction.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

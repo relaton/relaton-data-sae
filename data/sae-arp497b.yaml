@@ -1,0 +1,56 @@
+---
+id: SAEARP497B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Precision Control Motors – 400 Cycles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp497b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp497b-precision-control-motors-400-cycles
+docidentifier:
+- content: SAE ARP497B
+  type: SAE
+  primary: true
+- content: 10.4271/arp497b
+  type: DOI
+date:
+- type: approved
+  at: '2017-11-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7A Generators and Controls Motors and Magnetic Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommendation establishes objectives for high performance control motors to be used with aeronautical and associated equipment in protective enclosures or completely within the shell of the aircraft so that they are subjected only to the internal climatic conditions of heat, cold, shock, vibration, altitude, and humidity. Control motors larger than size #23 are not covered in this document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

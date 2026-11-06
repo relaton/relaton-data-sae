@@ -1,0 +1,57 @@
+---
+id: SAEAMS2762B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Carburizing Carbon and Low-Alloy Steel Parts
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2762b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2762b-carburizing-carbon-low-alloy-steel-parts
+docidentifier:
+- content: SAE AMS2762B
+  type: SAE
+  primary: true
+- content: 10.4271/ams2762b
+  type: DOI
+date:
+- type: approved
+  at: '2013-07-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the procedure for carburizing and related heat treatments of carbon and low-alloy steel parts to produce case hardening and specified mechanical properties within the capability of each respective steel.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

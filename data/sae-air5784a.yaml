@@ -1,0 +1,58 @@
+---
+id: SAEAIR5784A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Literature on Gas Turbine Engine Lubricant Composition and Degradation
+    Relevant to Cabin Air Quality
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5784a
+- type: src
+  content: https://saemobilus.sae.org/standards/air5784a-literature-gas-turbine-engine-lubricant-composition-degradation-relevant-cabin-air-quality
+docidentifier:
+- content: SAE AIR5784A
+  type: SAE
+  primary: true
+- content: 10.4271/air5784a
+  type: DOI
+date:
+- type: approved
+  at: '2025-10-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-34 Propulsion Lubricants Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The previous revision of AIR5784 summarizes some of the available literature on cabin air study, engine oil composition, decomposition, and toxicity testing. This revision of AIR5784 includes literature and information on stakeholder involvement, selected air sampling studies, oil composition, and oil degradation, published from 2000 to 2023. The entire contents of the reviewed literature are not necessarily endorsed by either SAE or the members of the study group who produced it.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This is not a comprehensive review but is intended to enable E-34 and other technical organizations to participate in informed discussions on the topic. Also, the review is intended to indicate where additional work may be necessary to properly gauge the potential role that turbine lubricants (and OPs) play in cabin air quality. The toxicology of oil fumes and their individual constituents is beyond the scope of this document and outside the remit of this committee.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

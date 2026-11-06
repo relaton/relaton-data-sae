@@ -1,0 +1,56 @@
+---
+id: SAEAMS2252B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TOLERANCES Low-Alloy Steel Sheet, Strip, and Plate
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2252b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2252b-tolerances-low-alloy-steel-sheet-strip-plate
+docidentifier:
+- content: SAE AMS2252B
+  type: SAE
+  primary: true
+- content: 10.4271/ams2252b
+  type: DOI
+date:
+- type: approved
+  at: '1978-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers established manufacturing tolerances for low-alloy steel sheet, strip, and plate. These tolerances apply to all conditions and are based on individual measurements, unless otherwise noted. The term "excl" is used to apply only to the higher figure of the specified range. Tolerances for product sizes not listed herein shall be as agreed upon by purchaser and vendor.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

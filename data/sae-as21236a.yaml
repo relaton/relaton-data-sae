@@ -1,0 +1,48 @@
+---
+id: SAEAS21236A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: RING, CARGO TIEDOWN (10 000 LB), TYPE III
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as21236a
+- type: src
+  content: https://saemobilus.sae.org/standards/as21236a-ring-cargo-tiedown-10-000-lb-type-iii
+docidentifier:
+- content: SAE AS21236A
+  type: SAE
+  primary: true
+- content: 10.4271/as21236a
+  type: DOI
+date:
+- type: approved
+  at: '2011-11-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

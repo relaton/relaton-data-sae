@@ -1,0 +1,61 @@
+---
+id: SAEARP1307B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Measurement of Exterior Noise Produced by Aircraft Auxiliary Power Units
+    (APUs) and Associated Aircraft Systems During Ground Operation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1307b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1307b-measurement-exterior-noise-produced-aircraft-auxiliary-power-units-apus-associated-aircraft-systems-ground-operation
+docidentifier:
+- content: SAE ARP1307B
+  type: SAE
+  primary: true
+- content: 10.4271/arp1307b
+  type: DOI
+date:
+- type: approved
+  at: '2013-04-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-21 Aircraft Noise Measurement Aviation Emission Modeling
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Test procedures are described for measuring noise at specific receiver locations (passenger and cargo doors, and servicing positions) and for conducting general noise surveys around aircraft. Procedures are also described for measuring noise level and directivity at noise source locations to facilitate the understanding and interpretation of the data.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Requirements are identified with respect to instrumentation; acoustic and atmospheric environment; data acquisition, reduction and presentation, and such other information as is needed for reporting the results.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document makes no provision for predicting APU or component noise from basic engine characteristics or design parameters, nor for measuring noise of more than one aircraft operating at the same time.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;No attempt is made to suggest acceptable levels of noise or suitable subjective criteria for judging acceptability. ICAO Annex 16 Volume I Attachment C provides guidance on recommended maximum noise levels.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

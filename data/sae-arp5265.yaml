@@ -1,0 +1,58 @@
+---
+id: SAEARP5265
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Minimum Operational and Maintenance Responsibilities for Aircraft Tire
+    Usage
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5265
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5265-minimum-operational-maintenance-responsibilities-aircraft-tire-usage
+docidentifier:
+- content: SAE ARP5265
+  type: SAE
+  primary: true
+- content: 10.4271/arp5265
+  type: DOI
+date:
+- type: approved
+  at: '2007-08-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5C Aircraft Tires Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) sets forth criteria for the installation, inflation, inspection, maintenance and removal of aircraft tires as well as criteria for the maintenance of the operating environment so as to achieve the purpose stated in &lt;span class="xref"&gt;1.1&lt;/span&gt;. (Definitions of terms related to aircraft tires is found in &lt;span class="xref"&gt;2.2&lt;/span&gt;.)&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,60 @@
+---
+id: SAEEIAIS114
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CDIF - Integrated Meta-model Data Modeling Subject Area
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/eiais114
+- type: src
+  content: https://saemobilus.sae.org/standards/eiais114-cdif-integrated-meta-model-data-modeling-subject-area
+docidentifier:
+- content: SAE EIA-IS-114
+  type: SAE
+  primary: true
+- content: 10.4271/eiais114
+  type: DOI
+date:
+- type: approved
+  at: '2016-06-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Systems Management Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The CDIF Family of Standards is primarily designed to be used as a description of a mechanism for transferring information between CASE tools. It facilitates a successful transfer when the authors of the importing and exporting tools have nothing in common except an agreement to conform to CDIF. The language that is defined for the Transfer Format also has applicability as a general language for Import/Export from repositories. The CDIF Integrated Meta-model defined for CASE also has applicability as the basis of standard definitions for use in repositories.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The standards that form the complete family of CDIF Standards are documented in &lt;i&gt;EIA/IS-106 CDIF - CASE Data Interchange Format - Overview.&lt;/i&gt; These standards cover the overall framework, the transfer format and the CDIF Integrated Meta-model.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;The diagram in &lt;span class="xref"&gt;Figure 1&lt;/span&gt; depicts the various standards that comprise the CDIF Family of Standards. The shaded box depicts this Standard and its position in the CDIF Family of Standards.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard, &lt;i&gt;EIA/IS-114 CDIF - Integrated Meta-model - Data Modeling Subject Area,&lt;/i&gt; defines the portion of the CDIF Integrated Meta-model that supports general Data Modeling. This includes Entity-Relationship-Attribute Modeling as well as Logical Database Design.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

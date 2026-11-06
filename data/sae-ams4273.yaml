@@ -1,0 +1,57 @@
+---
+id: SAEAMS4273
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY, SHEET 4.1Cu -1.4Mg - 0.45Mn (2424-T3 Flat Sheet) Solution
+    Heat Treated and Cold Worked
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4273
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4273-aluminum-alloy-sheet-41cu-14mg-045mn-2424-t3-flat-sheet-solution-heat-treated-cold-worked
+docidentifier:
+- content: SAE AMS4273
+  type: SAE
+  primary: true
+- content: 10.4271/ams4273
+  type: DOI
+date:
+- type: approved
+  at: '1997-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of sheet.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEJ670_200801
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Vehicle Dynamics Terminology
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j670_200801
+- type: src
+  content: https://saemobilus.sae.org/standards/j670_200801-vehicle-dynamics-terminology
+docidentifier:
+- content: SAE J670_200801
+  type: SAE
+  primary: true
+- content: 10.4271/j670_200801
+  type: DOI
+date:
+- type: approved
+  at: '2008-01-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Dynamics Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The vehicle dynamics terminology presented herein pertains to passenger cars and light trucks with two axles and to those vehicles pulling single-axle trailers. The terminology presents symbols and definitions covering the following subjects: axis systems, vehicle bodies, suspension and steering systems, brakes, tires and wheels, operating states and modes, control and disturbance inputs, vehicle responses, and vehicle characterizing descriptors. The scope does not include terms relating to the human perception of vehicle response.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

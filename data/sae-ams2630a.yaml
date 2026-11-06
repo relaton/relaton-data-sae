@@ -1,0 +1,56 @@
+---
+id: SAEAMS2630A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ULTRASONIC INSPECTION Product Over 0.5 In. (12.5 mm) Thick
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2630a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2630a-ultrasonic-inspection-product-05-in-125-mm-thick
+docidentifier:
+- content: SAE AMS2630A
+  type: SAE
+  primary: true
+- content: 10.4271/ams2630a
+  type: DOI
+date:
+- type: approved
+  at: '1980-04-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS K Non Destructive Methods and Processes Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers procedures for ultrasonic inspection of flat, rectangular, round, cylindrical, and contoured products having a thickness or cross-sectional dimension greater than 0.5 in. (12.5 mm) by pulse-echo procedure, using either contact or immersion methods, and using the longitudinal-wave or shear-wave modes or combinations of the two, as necessary. This specification may apply to testing finished machined parts provided the parts can meet the basic testability requirements, such as size, contour, metallurgical structure, and thickness.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

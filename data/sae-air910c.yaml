@@ -1,0 +1,56 @@
+---
+id: SAEAIR910C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Ozone in High Altitude Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air910c
+- type: src
+  content: https://saemobilus.sae.org/standards/air910c-ozone-high-altitude-aircraft
+docidentifier:
+- content: SAE AIR910C
+  type: SAE
+  primary: true
+- content: 10.4271/air910c
+  type: DOI
+date:
+- type: approved
+  at: '2011-10-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this report is to provide information on ozone, its effects, generally accepted ozone exposure limits (aviation and non-aviation), and methods of its control in high altitude aircraft. Sources of information are listed and referenced in the text.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

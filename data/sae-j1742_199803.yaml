@@ -1,0 +1,62 @@
+---
+id: SAEJ1742_199803
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Connections for High Voltage On-Board Road Vehicle Electrical Wiring Harnesses—Test
+    Methods and General Performance Requirements
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1742_199803
+- type: src
+  content: https://saemobilus.sae.org/standards/j1742_199803-connections-high-voltage-board-road-vehicle-electrical-wiring-harnesses-test-methods-general-performance-requirements
+docidentifier:
+- content: SAE J1742_199803
+  type: SAE
+  primary: true
+- content: 10.4271/j1742_199803
+  type: DOI
+date:
+- type: approved
+  at: '1998-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electrical Distribution Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice defines recommended test methods and general performance requirements of single-pole and multi-pole connectors for on-board electrical wiring harnesses of electric or hybrid powered road vehicles operating at voltages between 50 and 600 V AC or DC rms and those circuits using copper wire only.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These requirements are not intended for connections internal to electrical/electronic modules or complete subassemblies.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document applies to connectors designed to be disconnected in the case of repair and/or maintenance after mounting in the vehicle.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document excludes one-part connections, i.e., where one part of the connection has direct contact to the pattern of the circuit board.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Duty cycles are considered to be application specific and are not specified in this document; however, these effects must be considered during design.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The Recommended Practice for High Voltage Wiring Assembly is contained in SAE J1673. The Recommended Practice for Low Voltage Connector Performance is contained in SAE J2223 (Parts 1, 2, 3, and 4).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

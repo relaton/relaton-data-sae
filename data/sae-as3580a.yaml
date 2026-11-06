@@ -1,0 +1,49 @@
+---
+id: SAEAS3580A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BOLT, MACHINE - DOUBLE HEX EXTENDED WASHER HEAD, PD SHANK, UNS N07718 -
+    185 KSI
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as3580a
+- type: src
+  content: https://saemobilus.sae.org/standards/as3580a-bolt-machine-double-hex-extended-washer-head-pd-shank-uns-n07718-185-ksi
+docidentifier:
+- content: SAE AS3580A
+  type: SAE
+  primary: true
+- content: 10.4271/as3580a
+  type: DOI
+date:
+- type: approved
+  at: '2019-12-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

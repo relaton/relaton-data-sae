@@ -1,0 +1,57 @@
+---
+id: SAEAS8617
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Balancing Machines - Verification Test Requirements
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8617
+- type: src
+  content: https://saemobilus.sae.org/standards/as8617-balancing-machines-verification-test-requirements
+docidentifier:
+- content: SAE AS8617
+  type: SAE
+  primary: true
+- content: 10.4271/as8617
+  type: DOI
+date:
+- type: approved
+  at: '2020-08-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EG-1A Balancing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document specifies instructions to verify proper calibration of all balancing machines used for processing gas turbine rotors. Detailed test procedures and test log samples are provided to evaluate the condition of the machine under test. These performance and test requirements may be used for new installations, periodic surveillance, or following repairs that may have affected machine performance.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Calibration of the balancing machine is an activity done prior to verification testing and is outside the scope of this document. Troubleshooting of difficulties during the verification tests is also outside the scope of this document; this document is purely an instructive procedure.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

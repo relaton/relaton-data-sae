@@ -1,0 +1,49 @@
+---
+id: SAEAMS5736B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL, CORROSION AND HEAT RESISTANT 15Cr - 26Ni - 1.3Mo - 2.1Ti - 0.3V
+    Solution Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5736b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5736b-steel-corrosion-heat-resistant-15cr-26ni-13mo-21ti-03v-solution-treated
+docidentifier:
+- content: SAE AMS5736B
+  type: SAE
+  primary: true
+- content: 10.4271/ams5736b
+  type: DOI
+date:
+- type: approved
+  at: '1960-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

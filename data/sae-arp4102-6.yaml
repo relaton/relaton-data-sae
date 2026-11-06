@@ -1,0 +1,69 @@
+---
+id: SAEARP41026
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: COMMUNICATIONS AND NAVIGATION EQUIPMENT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4102/6
+- type: src
+  content: https://saemobilus.sae.org/standards/arp41026-communications-navigation-equipment
+docidentifier:
+- content: SAE ARP4102/6
+  type: SAE
+  primary: true
+- content: 10.4271/arp4102/6
+  type: DOI
+date:
+- type: approved
+  at: '2007-07-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-7 Flight Deck Handling Qualities Stds for Trans Aircraft
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document recommends criteria for the control and display of communications and navigation equipment on the flight deck. The equipment includes:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;u&gt;Communications&lt;/u&gt;: Ultra High Frequency (UHF), Very High Frequency (VHF), and High Frequency (HF) Radios, Cabin/Service Interphones, Public Address (PA), Select Call (SELCAL), Call Select (CALSEL), Satellite Communications (SATCOM).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;u&gt;Navigation&lt;/u&gt;: Very High Frequency Omnidirectional Range (VOR), Tactical Air Navigation (TACAN), Automatic Direction Finder (ADF), Distance Measuring Equipment (DME), Instrument Landing System (ILS), Markers (MKR), Omega, Very Low Frequency (VLF), Inertial Navigation Systems (INS), Inertial Reference Systems (IRS), Satellite Navigation (SATNAV), Low Range Radio Altimeter (LRRA).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;u&gt;Weather Radar&lt;/u&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;u&gt;Data Link&lt;/u&gt;: Company, Air Traffic Control (ATC) Transponders (Mode-S) and others.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

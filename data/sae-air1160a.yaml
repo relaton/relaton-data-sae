@@ -1,0 +1,48 @@
+---
+id: SAEAIR1160A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AIRCRAFT ENGINE AND ACCESSORY DRIVES AND FLANGE STANDARDS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1160a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1160a-aircraft-engine-accessory-drives-flange-standards
+docidentifier:
+- content: SAE AIR1160A
+  type: SAE
+  primary: true
+- content: 10.4271/air1160a
+  type: DOI
+date:
+- type: approved
+  at: '1973-11-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-1 Engine Accessory Installations Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,60 @@
+---
+id: SAEARP5987
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: A Process for Utilizing Aerospace Propulsion Health Management Systems
+    for Maintenance Credit
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5987
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5987-a-process-utilizing-aerospace-propulsion-health-management-systems-maintenance-credit
+docidentifier:
+- content: SAE ARP5987
+  type: SAE
+  primary: true
+- content: 10.4271/arp5987
+  type: DOI
+date:
+- type: approved
+  at: '2018-12-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The process detailed within this document is generic and can be applied to commercial and military applications. It applies to the entire end-to-end health management system throughout its lifecycle, covering on-board and on-ground elements. The practical application of this standardized process is detailed in the form of a checklist.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The on-board element described here are the source of the data acquisition used for off-board analysis. The on-board aspects relating to safety of flight, pilot notification, etc., are addressed by the other SAE Committees standards and documents.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not prescribe hardware or software assurance levels, nor does it answer the question “how much mitigation and evidence are enough”. The criticality level and mitigation method will be determined between the ‘Applicant’ and the regulator.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In order to provide some detailed guidance utilizing the process and checklist, some high-level examples of previous successful cases of Maintenance Credit applications are included. At this point, it is incumbent on the ‘Applicant’ to explain any differences in terminology between the health management system they are seeking a credit for and the appropriate regulatory references. For example, the system name often uses interchangeable terms such as Engine Health Monitoring, Equipment Health Management, Prognostic Health Management, Powerplant Health Management, etc.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

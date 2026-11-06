@@ -1,0 +1,57 @@
+---
+id: SAEJ2362_200508
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Lubricating Oil, Automotive Engine, API Service SM for Military Administrative
+    Service
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2362_200508
+- type: src
+  content: https://saemobilus.sae.org/standards/j2362_200508-lubricating-oil-automotive-engine-api-service-sm-military-administrative-service
+docidentifier:
+- content: SAE J2362_200508
+  type: SAE
+  primary: true
+- content: 10.4271/j2362_200508
+  type: DOI
+date:
+- type: approved
+  at: '2005-08-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuels and Lubricants TC 1 Engine Lubrication
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard describes lubricating oils meeting the physical, chemical, and performance requirements of the American Petroluem Institute (API) SM category and the International Lubricant Standardization and Approval Committee (ILSAC) GF-4 standard. These oils are suitable for the lubrication of spark-ignition engines (gasoline engines). This document supersedes the military’s Commercial Item Description (CID) A-A-52039.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

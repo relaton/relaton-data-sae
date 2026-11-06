@@ -1,0 +1,56 @@
+---
+id: SAEARP1961
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GEARBOX - AIRFRAME MOUNTED ACCESSORY
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1961
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1961-gearbox-airframe-mounted-accessory
+docidentifier:
+- content: SAE ARP1961
+  type: SAE
+  primary: true
+- content: 10.4271/arp1961
+  type: DOI
+date:
+- type: approved
+  at: '1991-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5B Aircraft and Engine Fuel and Lubricant Sys Components
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) addresses the characteristics required for the definition, development, and acquisition of a satisfactory airframe mounted accessory gearbox (AMAG).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

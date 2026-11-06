@@ -1,0 +1,66 @@
+---
+id: SAEJ1938_202211
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Product Development Process and Checklist for Vehicle Electronic Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1938_202211
+- type: src
+  content: https://saemobilus.sae.org/standards/j1938_202211-product-development-process-checklist-vehicle-electronic-systems
+docidentifier:
+- content: SAE J1938_202211
+  type: SAE
+  primary: true
+- content: 10.4271/j1938_202211
+  type: DOI
+date:
+- type: approved
+  at: '2022-11-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Automotive Electronic Systems Reliability Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Since it is impossible to be all inclusive and cover every aspect of the design/validation process, this document can be used as a basis for preparation of a more comprehensive and detailed plan that reflects the accumulated “lessons learned” at a particular company. The following areas are addressed in this document:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Contemporary perspective including common validation issues and flaws.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A Robustness validation (RV) process based on SAE J1211 handbook and SAE J2628.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Design checklists to aid in such a RV process.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

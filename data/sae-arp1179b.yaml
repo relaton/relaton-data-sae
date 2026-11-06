@@ -1,0 +1,56 @@
+---
+id: SAEARP1179B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AIRCRAFT GAS TURBINE ENGINE EXHAUST SMOKE MEASUREMENT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1179b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1179b-aircraft-gas-turbine-engine-exhaust-smoke-measurement
+docidentifier:
+- content: SAE ARP1179B
+  type: SAE
+  primary: true
+- content: 10.4271/arp1179b
+  type: DOI
+date:
+- type: approved
+  at: '1991-04-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-31 Aircraft Eng Gas and Particulate Emissions Measurement
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice (ARP) standardizes test equipment and procedures for the measurement of smoke emission from aircraft gas turbine engines. The procedures included are for determining and reporting the amount of smoke emission. Tests have indicated that the practically achieveable precision of the smoke number is within ±3 when the system is properly used as outlined herein. This procedure is not intended for in-flight testing, nor does it apply to engines operating in the afterburning mode.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

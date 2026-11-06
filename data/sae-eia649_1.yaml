@@ -1,0 +1,74 @@
+---
+id: SAEEIA649_1
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Configuration Management Requirements For Defense Contracts
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/eia649_1
+- type: src
+  content: https://saemobilus.sae.org/standards/eia649_1-configuration-management-requirements-defense-contracts
+docidentifier:
+- content: SAE EIA-649-1
+  type: SAE
+  primary: true
+- content: 10.4271/eia649_1
+  type: DOI
+date:
+- type: approved
+  at: '2014-11-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-33 Configuration Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document applies to hardware and software and provides CM requirements to be placed on contracts after being tailored by the Acquirer. The requirements have been organized by the following five CM functions:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Configuration Planning and Management&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Configuration Identification&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Configuration Change Management&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Configuration Status Accounting&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Configuration Verification and Audit&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

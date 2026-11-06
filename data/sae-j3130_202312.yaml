@@ -1,0 +1,59 @@
+---
+id: SAEJ3130_202312
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Laboratory Measurement of Vibration Damping Properties Using Mechanical
+    Impedance Method at the Center of a Bar
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3130_202312
+- type: src
+  content: https://saemobilus.sae.org/standards/j3130_202312-laboratory-measurement-vibration-damping-properties-using-mechanical-impedance-method-center-a-bar
+docidentifier:
+- content: SAE J3130_202312
+  type: SAE
+  primary: true
+- content: 10.4271/j3130_202312
+  type: DOI
+date:
+- type: approved
+  at: '2023-12-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Acoustical Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice describes a laboratory test procedure for measuring the composite loss factor and bending stiffness properties of a system consisting of a damping material bonded to a vibrating bar which is excited at the center. The bar could be a steel, aluminum, glass, or other metal or composite bar that would be used in ground vehicles, marine products, and aircraft. The damping materials could be homogeneous, nonhomogeneous, a combination of homogeneous and nonhomogeneous, used in conjunction without or with an inelastic material (such as aluminum foil) in an extensional layer or a constrained layer configuration. The damping material could be a heat bondable material, adhesive backed sheet material, sprayable coating material, or other kinds of viscoelastic materials.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The damping procedure discussed here provides means to measure damping over a range of frequencies and temperatures found applicable and useable for different transportation systems. The term composite refers to the combination of the vibrating bar and damping material. The composite loss factor is dependent upon the thickness, damping, and modulus of both the vibrating bar and the damping material layer. In many applications the vibrating bar is made of steel. However, in many other applications, the vibrating bar could be different than steel and the frequency range of vibration could also be different. This test methodology does recommend three specific bar sizes based on the vibrating bar material and the general frequency range of interest. However, it also explains and provides the equation that is to be used to size the bar and provides suggestions on the bar size depending on the type of bar material and thickness.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document provides a means of rank ordering damping materials according to their composite loss factor values from test samples that represent typical applications for a given vibrating bar. However, the method can also be used to determine the damping performance of the bar by itself, such as steel, aluminum, glass, composites, etc.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

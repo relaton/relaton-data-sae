@@ -1,0 +1,135 @@
+---
+id: SAEJ19792_202604
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'E/E Diagnostic Test Modes: OBDonUDS'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1979-2_202604
+- type: src
+  content: https://saemobilus.sae.org/standards/j1979-2_202604-e-e-diagnostic-test-modes-obdonuds
+docidentifier:
+- content: SAE J1979-2_202604
+  type: SAE
+  primary: true
+- content: 10.4271/j1979-2_202604
+  type: DOI
+date:
+- type: approved
+  at: '2026-05-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE J1979-2 describes the communication between the vehicle’s OBD systems and test equipment required by OBD regulations. OBD regulations require passenger cars and light-, medium-, and heavy-duty trucks to support a minimum set of diagnostic information to external (off-board) “generic” test equipment.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;To achieve this, SAE J1979-2 is based on the Open Systems Interconnection (OSI) Basic Reference Model in accordance with ISO/IEC 7498-1 and ISO/IEC 10731, which structures communication systems into seven layers. When mapped on this model, the services specified are broken into:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Diagnostic services (layer 7), specified in:
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ISO 14229-1&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J1979-2 OBDonUDS&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Presentation layer (layer 6), specified in:
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J1930, SAE J1930DA&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J1979DA&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J2012, SAE J2012DA&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J1939DA, SAE J1939-73&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Session layer services (layer 5), specified in:
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ISO 14229-2&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Transport layer services (layer 4), specified in:
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;DoCAN: ISO 15765-2 Transport protocol and network layer services&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ISO 15765-4 Requirements for emissions related systems&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;DoIP: ISO 13400-2 Road vehicles - Diagnostic communication over Internet Protocol (DoIP) - Part 2: Transport protocol and network layer services&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Network layer services (layer 3), specified in:
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;DoCAN: ISO 15765-2 Transport protocol and network layer services&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ISO 15765-4 Requirements for emissions related systems&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;DoIP: ISO 13400-2 Road vehicles - Diagnostic communication over Internet Protocol (DoIP) - Part 2: Transport protocol and network layer services&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Data link layer (layer 2), specified in:
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;DoCAN: ISO 15765-4, ISO 11898-1, ISO 11898-2&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;DoIP: ISO 13400-3 Road vehicles - Diagnostic communication over Internet Protocol (DoIP) - Part 3: Wired vehicle interface based on IEEE 802.3&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Physical layer (layer 1), specified in:
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;DoCAN: ISO 15765-4, ISO 11898-1, ISO 11898-2, in accordance with &lt;span class="xref"&gt;Table 1&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;DoIP: ISO 13400-3 Road vehicles - Diagnostic communication over Internet Protocol (DoIP) - Part 3: Wired vehicle interface based on IEEE 802.3
+    &lt;div class="table-wrap anchor "&gt;
+    &lt;div class="table-container"&gt;&lt;table class="br-none tbr-void "&gt;
+    &lt;tbody&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;NOTE:&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;SAE J1979-2 provides a STANDARD to satisfy known country-specific OBD regulations. SAE J1979-2 is not considered a final authority for interpretation of the OBD regulations, so users of this document should determine the applicability of capabilities defined in this document for their specific OBD regulatory requirements.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div/&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

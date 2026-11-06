@@ -1,0 +1,61 @@
+---
+id: SAEAS9016
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Series – Notice of Change (NOC) Requirements
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9016
+- type: src
+  content: https://saemobilus.sae.org/standards/as9016-aerospace-series-notice-change-noc-requirements
+docidentifier:
+- content: SAE AS9016
+  type: SAE
+  primary: true
+- content: 10.4271/as9016
+  type: DOI
+date:
+- type: approved
+  at: '2009-06-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The aviation, space, and defense industries rely on the development and manufacture of complex products comprised of multiple systems, subsystems, and components each designed by individual designers (design activities) at various levels within the supply chain. Each design activity controls various aspects of the configuration and specifications related to the product. When a change to design information is requested or required, the change has to be evaluated against the impacts to the higher-level system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Proposed changes to design information that the design activity identifies to be minor and have no effect on their product requirements or specifications have the potential to be concurrently implemented and approved, where authorized to do so. Changes that affect customer mandated requirements or specifications must be approved prior to implementation. In many cases, the design activity is not the design approver or authority; ultimate approval may be several layers above the design activity.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;Submitting NOC data either electronically or conventionally on paper is subject to the terms and conditions of the customer’s contract. This also includes, where applicable, data access under the regulations of export control.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The process of exchanging, coordinating, and approving NOC data varies with the multiple relationships and agreements among all parties concerned. The information provided by this standard forms the architecture for submitting and managing data that allows for concise and accurate communication using various methods. One objective of this standard is to provide the definition of a data set that can be integrated into any form of communication (e.g., electronic data interchange, submission of conventional paper forms).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;If this standard is invoked in the contract, design activities and Technical Standard Order Approval (TSOA) holders that have responsibility for change management of products used on other higher-level designs shall use the information and processes defined in this standard for submitting change notifications to customers.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

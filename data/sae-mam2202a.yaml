@@ -1,0 +1,58 @@
+---
+id: SAEMAM2202A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TOLERANCES, METRIC Aluminum Alloy and Magnesium Alloy Sheet and Plate
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/mam2202a
+- type: src
+  content: https://saemobilus.sae.org/standards/mam2202a-tolerances-metric-aluminum-alloy-magnesium-alloy-sheet-plate
+docidentifier:
+- content: SAE MAM2202A
+  type: SAE
+  primary: true
+- content: 10.4271/mam2202a
+  type: DOI
+date:
+- type: approved
+  at: '1985-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers established manufacturing tolerances applicable to aluminum alloy and magnesium alloy sheet and plate ordered to metric dimensions. These tolerances apply to all conditions, unless otherwise noted.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

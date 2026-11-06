@@ -1,0 +1,59 @@
+---
+id: SAEJ2710_200510
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Modal Testing and Identification of Lower Order Tire Natural Frequencies
+    of Radial Tires
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2710_200510
+- type: src
+  content: https://saemobilus.sae.org/standards/j2710_200510-modal-testing-identification-lower-order-tire-natural-frequencies-radial-tires
+docidentifier:
+- content: SAE J2710_200510
+  type: SAE
+  primary: true
+- content: 10.4271/j2710_200510
+  type: DOI
+date:
+- type: approved
+  at: '2005-10-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Dynamics Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice describes test methods for measuring and identifying the natural frequencies for the &lt;b&gt;lower order modes&lt;/b&gt; of an inflated radial tire with a fixed spindle while expending modest effort and employing a minimum of test equipment. The methods apply to any size of radial tire so long as the test equipment is properly scaled to conduct the measurements for the intended test tire. Two types of boundary conditions are considered for the tire: &lt;b&gt;unloaded&lt;/b&gt; and &lt;b&gt;loaded&lt;/b&gt; against a flat surface. The test involves the performance and measurement of an input vibratory force (excitation) to the tire and the corresponding vibratory output (response). The data are suitable for use in determining parameters for road load models and for comparative evaluations of the measured properties in research and development.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

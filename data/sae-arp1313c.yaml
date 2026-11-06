@@ -1,0 +1,57 @@
+---
+id: SAEARP1313C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Determination of Trace Elements in High Temperature Alloys
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1313c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1313c-determination-trace-elements-high-temperature-alloys
+docidentifier:
+- content: SAE ARP1313C
+  type: SAE
+  primary: true
+- content: 10.4271/arp1313c
+  type: DOI
+date:
+- type: approved
+  at: '2009-07-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) describes procedures for the determination of trace elements listed in AMS2280 for Nickel, Cobalt, and Iron-based high temperature alloys.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

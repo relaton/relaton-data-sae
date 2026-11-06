@@ -1,0 +1,67 @@
+---
+id: SAEJ111324_200005
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Immunity to Radiated Electromagnetic Fields; 10 kHz to 200 MHz—Crawford
+    TEM Cell and 10 kHz to 5 GHz—Wideband TEM Cell
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1113/24_200005
+- type: src
+  content: https://saemobilus.sae.org/standards/j111324_200005-immunity-radiated-electromagnetic-fields-10-khz-200-mhz-crawford-tem-cell-10-khz-5-ghz-wideband-tem-cell
+docidentifier:
+- content: SAE J1113/24_200005
+  type: SAE
+  primary: true
+- content: 10.4271/j1113/24_200005
+  type: DOI
+date:
+- type: approved
+  at: '2000-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This part of SAE J1113 specifies TEM cell test methods and procedures for testing the electromagnetic immunity of electronic components (DUTs) for passenger cars, commercial vehicles and similar applications. Methods using the constant cross-section TEM cell (Crawford TEM) and the flared cross-section TEM cell (wideband TEM) are discussed in the document. The electromagnetic disturbance considered in this part of SAE J1113 will be limited to continuous narrowband electromagnetic fields. TEM cells produce both electric and magnetic fields simultaneously. The test is directly applicable to DUTs whose height is less than 1/3 the septum height; somewhat larger modules can be tested with conditions applied. The Crawford TEM and wideband TEM cell may be used for testing within the 1/3 height condition without demonstrating field uniformity within the cell, if the test set-up complies with the other provisions of this standard.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This test can be used for two purposes:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Testing the immunity of DUTs with major field coupling to the DUT and wiring harness;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Testing the immunity of DUTs with major field coupling to the DUT.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;The methods defined in this document have some significant differences from ISO 11452-3. Careful deliberation has been given to the need to diverge from the international standard. The primary differences are the method of bringing leads from the DUT out of the TEM cell and the inclusion of the wideband TEM cell.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Immunity measurements of complete vehicles are generally only possible by the vehicle manufacturer. The reasons, for example, are the high costs of a vehicle sized absorber lined chamber, preserving the secrecy of prototypes or the large number of different vehicle models. Therefore, for research, development and quality control a laboratory measuring method shall be applied by the component manufacturer.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

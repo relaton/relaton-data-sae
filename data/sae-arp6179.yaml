@@ -1,0 +1,57 @@
+---
+id: SAEARP6179
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Evaluation of Gas Turbine Engine Lubricant Compatibility with Elastomer
+    O-Rings
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6179
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6179-evaluation-gas-turbine-engine-lubricant-compatibility-elastomer-o-rings
+docidentifier:
+- content: SAE ARP6179
+  type: SAE
+  primary: true
+- content: 10.4271/arp6179
+  type: DOI
+date:
+- type: approved
+  at: '2022-08-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-34 Propulsion Lubricants Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This test method provides procedures for exposing specimens of elastomer materials (AS 568-214 size O-rings) representative of those used in gas turbine engines to lubricants or reference fluids under defined time and temperature conditions. This test includes both suspended and compressed O-rings. Resultant changes in the O-ring’s physical properties (tensile strength, elongation, hardness, mass, volume, and compression set) are measured to determine the amount of deterioration of the elastomer.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

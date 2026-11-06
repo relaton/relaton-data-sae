@@ -1,0 +1,58 @@
+---
+id: SAEAMS5769H
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Alloy, Corrosion- and Heat-Resistant, Bars, Forgings, Rings, and Stock
+    for Forgings and Rings, 21Cr - 20Ni - 20Co - 3.0Mo - 2.5W - 1.0(Cb+Ta) - 0.15N
+    - 32Fe (N-155), Solution Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5769h
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5769h-alloy-corrosion-heat-resistant-bars-forgings-rings-stock-forgings-rings-21cr-20ni-20co-30mo-25w-10-cb-ta-015n-32fe-n-155-solution-heat-treated
+docidentifier:
+- content: SAE AMS5769H
+  type: SAE
+  primary: true
+- content: 10.4271/ams5769h
+  type: DOI
+date:
+- type: approved
+  at: '2025-11-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion- and heat-resistant alloy in the form of bars, forgings, flash-welded rings, and stock for forging, flash-welded rings, or heading.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

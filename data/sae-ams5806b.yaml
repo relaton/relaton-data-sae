@@ -1,0 +1,49 @@
+---
+id: SAEAMS5806B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALLOY WELDING WIRE CORROSION AND HEAT RESISTANT, LOW EXPANSION 42Fe - 38Ni
+    - 15Co - 3.0 (Cb + Ta) - 1.4Ti - 0.92Al Vacuum Melted
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5806b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5806b-alloy-welding-wire-corrosion-heat-resistant-low-expansion-42fe-38ni-15co-30-cb-ta-14ti-092al-vacuum-melted
+docidentifier:
+- content: SAE AMS5806B
+  type: SAE
+  primary: true
+- content: 10.4271/ams5806b
+  type: DOI
+date:
+- type: approved
+  at: '1995-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

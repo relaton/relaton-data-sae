@@ -1,0 +1,48 @@
+---
+id: SAEAMS5787A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALLOY WELDING ELECTRODES, COVERED, CORROSION AND HEAT RESISTANT 63Ni-5.0Cr-24.5Mo-5.5Fe
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5787a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5787a-alloy-welding-electrodes-covered-corrosion-heat-resistant-63ni-50cr-245mo-55fe
+docidentifier:
+- content: SAE AMS5787A
+  type: SAE
+  primary: true
+- content: 10.4271/ams5787a
+  type: DOI
+date:
+- type: approved
+  at: '1987-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

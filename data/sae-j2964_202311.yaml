@@ -1,0 +1,74 @@
+---
+id: SAEJ2964_202311
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Low-Speed Continuous Slip SAE No. 2 μPVT Procedure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2964_202311
+- type: src
+  content: https://saemobilus.sae.org/standards/j2964_202311-low-speed-continuous-slip-sae-no-2-pvt-procedure
+docidentifier:
+- content: SAE J2964_202311
+  type: SAE
+  primary: true
+- content: 10.4271/j2964_202311
+  type: DOI
+date:
+- type: approved
+  at: '2023-11-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Automatic Transmission and Transaxle Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice is intended as the definition of a standard test, which may be subject to frequent change to keep pace with experience and technical advances. This should be kept in mind when considering its use.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The SAE No. 2 friction test is used to evaluate the friction characteristics of automatic transmission plate clutches with automotive transmission fluid combinations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The specific purpose of this document is to define a µPVT test for the evaluation of the variation of wet friction system low speed slip characteristics as a function of speed, temperature, and pressure. This procedure is intended as a suggested method for both suppliers and end users.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The only variables selected by the supplier or user of the friction system are:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Friction material&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Fluid&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Reaction plates&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Oil flow (optional)&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;These four variables must be clearly identified when reporting the results of this test. If any of the test parameters or system hardware as described in this document are changed—other than the friction material, test fluid, or reaction plates—the data may not be reported as being obtained using this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This procedure is intended to evaluate ramped speed friction characteristics, also called sweeps, and can be used to demonstrate capacity changes that occur between the different levels of slip speed, applied pressure, and fluid temperature. The level of coefficient of friction, as well as the trends in torque capacity with speed, can be used to compare candidate materials or fluids.&lt;/div&gt;
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

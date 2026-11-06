@@ -1,0 +1,57 @@
+---
+id: SAEAIR1539B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Environmental Control System Contamination
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1539b
+- type: src
+  content: https://saemobilus.sae.org/standards/air1539b-environmental-control-system-contamination
+docidentifier:
+- content: SAE AIR1539B
+  type: SAE
+  primary: true
+- content: 10.4271/air1539b
+  type: DOI
+date:
+- type: approved
+  at: '2017-06-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This publication will be limited to a discussion of liquid and particulate contaminants which enter the aircraft through the environmental control system (ECS). Gaseous contaminants such as ozone, fuel vapors, sulphates, etc., are not covered in this AIR. It will cover all contamination sources which interface with ECS, and the effects of this contamination on equipment. Methods of control will be limited to the equipment and interfacing ducting which normally falls within the responsibility of the ECS designer.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

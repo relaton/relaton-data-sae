@@ -1,0 +1,57 @@
+---
+id: SAEARP5911
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Regional Aircraft Towbarless Tow Vehicle - Test Requirements
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5911
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5911-regional-aircraft-towbarless-tow-vehicle-test-requirements
+docidentifier:
+- content: SAE ARP5911
+  type: SAE
+  primary: true
+- content: 10.4271/arp5911
+  type: DOI
+date:
+- type: approved
+  at: '2002-12-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The present Aerospace Recommended Practice specifies for airplane operator and tow vehicle manufacturers the basic testing requirements for towbarless tow vehicles to be used on the nose gear of conventional tricycle type landing gears of commercial civil transport aircraft with maximum ramp weight between 8,600 kg (19,000 lb) and 50,000 kg (110,000 lb), commonly designated as “regional aircraft”.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Its purpose is to achieve testing results, or equivalent computer modeling, demonstrating that the loads induced by the tow vehicle will not exceed the design loads of the airplane's nose landing gear and associated structure, reduce the certified safe life limit of the nose landing gear, or otherwise compromise the airplane's structural integrity and airworthiness certification.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

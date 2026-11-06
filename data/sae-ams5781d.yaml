@@ -1,0 +1,54 @@
+---
+id: SAEAMS5781D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Welding Electrodes, Covered, Corrosion and Moderate Heat Resistant
+    15.5cr 4.5ni 2.9mo 0.10n
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5781d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5781d-steel-welding-electrodes-covered-corrosion-moderate-heat-resistant-155cr-45ni-29mo-010n
+docidentifier:
+- content: SAE AMS5781D
+  type: SAE
+  primary: true
+- content: 10.4271/ams5781d
+  type: DOI
+date:
+- type: approved
+  at: '2001-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers a corrosion and moderate heat resistant steel
+    in the form of covered welding electrodes.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

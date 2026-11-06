@@ -1,0 +1,58 @@
+---
+id: SAEAS40751A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Optical Implementation Relating to the High Speed Ring Bus (HSRB) Standard
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4075/1a
+- type: src
+  content: https://saemobilus.sae.org/standards/as40751a-optical-implementation-relating-high-speed-ring-bus-hsrb-standard
+docidentifier:
+- content: SAE AS4075/1A
+  type: SAE
+  primary: true
+- content: 10.4271/as4075/1a
+  type: DOI
+date:
+- type: approved
+  at: '2012-05-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) has been prepared by the Ring Implementation Task Group of the SAE AS-2 Committee. It is intended as a companion document to the SAE AS4075 High Speed Ring Bus Standard. While the Standard is intended to provide as complete a description as possible of an HSRB implementation, certain parameters are system-dependent and evolutionary. This document contains those parameters. The text through &lt;span class="xref"&gt;Table 1&lt;/span&gt; is intended to provide definitions and descriptions applicable to all applications. &lt;span class="xref"&gt;Table 2&lt;/span&gt; contains specific parameter values for one or more implementations. This table will change as new systems are implemented or new HSRB speed options are defined.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

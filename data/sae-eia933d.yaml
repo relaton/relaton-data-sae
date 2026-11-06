@@ -1,0 +1,74 @@
+---
+id: SAEEIA933D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Requirements for a COTS Assembly Management Plan
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/eia933d
+- type: src
+  content: https://saemobilus.sae.org/standards/eia933d-requirements-a-cots-assembly-management-plan
+docidentifier:
+- content: SAE EIA-933D
+  type: SAE
+  primary: true
+- content: 10.4271/eia933d
+  type: DOI
+date:
+- type: approved
+  at: '2026-04-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: APMC Avionics Process Management
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document applies to the development of Plans for integrating and managing COTS assemblies in electronic equipment and Systems for the commercial, military, and space markets, as well as other ADHP markets that wish to use this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For purposes of this document, COTS assemblies are viewed as electronic assemblies such as printed wiring assemblies, disk drives, servers, printers, laptop computers, etc. There are many ways to categorize COTS assemblies&lt;span class="xref"&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/span&gt;, including the following spectrum:&lt;/div&gt;
+    &lt;ul class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;At one end of the spectrum are COTS assemblies whose design, internal parts&lt;span class="xref"&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/span&gt;, materials, configuration control, traceability, reliability, and qualification methods are at least partially controlled, or influenced, by ADHP customers (either individually or collectively) or by industry standards. An example at this end of the spectrum is a VME circuit card assembly.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;At the other end of the spectrum are COTS assemblies whose design, internal parts, materials, configuration control, and qualification methods are not controlled, or controllable, in any way by ADHP customers (either individually or collectively) or by industry standards. An example is a disk drive targeted for an industry other than ADHP use. It is critical for the Plan owner to: (1) review and understand the design, internal parts, materials, configuration control, reliability, and qualification methods of all “as-received” COTS assemblies and their capabilities with respect to their application in the intended System and environment; (2) identify risks; and where necessary (3) take additional action to mitigate the risks associated with the performance and reliability of the COTS assembly in the ADHP system.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

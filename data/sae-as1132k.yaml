@@ -1,0 +1,63 @@
+---
+id: SAEAS1132K
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Bolts, Screws, and Nuts - External Wrenching UNJ Thread, Inch - Design
+    Standard
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1132k
+- type: src
+  content: https://saemobilus.sae.org/standards/as1132k-bolts-screws-nuts-external-wrenching-unj-thread-inch-design-standard
+docidentifier:
+- content: SAE AS1132K
+  type: SAE
+  primary: true
+- content: 10.4271/as1132k
+  type: DOI
+date:
+- type: approved
+  at: '2021-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this SAE Aerospace Standard (AS) is to define the following dimensional requirements for double hexagon, hexagon head and tee headed bolts, and nuts with AS8879 UNJ inch series threads primarily for use in propulsion systems. Design requirements are based on UNJC threads for sizes 0.1640 and smaller and UNJF threads for sizes 0.1900 and larger.&lt;/div&gt;
+
+
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

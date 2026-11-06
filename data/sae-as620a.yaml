@@ -1,0 +1,57 @@
+---
+id: SAEAS620A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HIGH TEMPERATURE HOSE ASSEMBLY, CONVOLUTED TETRAFLUOROETHYLENE-, FOR AIRCRAFT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as620a
+- type: src
+  content: https://saemobilus.sae.org/standards/as620a-high-temperature-hose-assembly-convoluted-tetrafluoroethylene-aircraft
+docidentifier:
+- content: SAE AS620A
+  type: SAE
+  primary: true
+- content: 10.4271/as620a
+  type: DOI
+date:
+- type: approved
+  at: '1984-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Standard covers hose assemblies intended for use in aircraft high temperature fluid systems. The specified temperature range is -65°F (-54°C) to +400°F (204°C). Operating pressures are listed in &lt;span class="xref"&gt;Table I&lt;/span&gt;.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,64 @@
+---
+id: SAEJ2657_201912
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Tire Pressure Monitoring Systems for Light Duty Highway Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2657_201912
+- type: src
+  content: https://saemobilus.sae.org/standards/j2657_201912-tire-pressure-monitoring-systems-light-duty-highway-vehicles
+docidentifier:
+- content: SAE J2657_201912
+  type: SAE
+  primary: true
+- content: 10.4271/j2657_201912
+  type: DOI
+date:
+- type: approved
+  at: '2019-12-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Highway Tire Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;To establish overall performance guidelines, test methods, and minimum performance levels for a TPMS. The system shall visually indicate the tire inflation pressure status. These guidelines include, but are not limited to:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A test methodology for a device which monitors tire inflation, that is located in/on the tire/wheel environment.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Recommended performance guidelines for a TPMS.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

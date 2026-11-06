@@ -1,0 +1,56 @@
+---
+id: SAEAIR8255
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Liquid Oxygen Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air825/5
+- type: src
+  content: https://saemobilus.sae.org/standards/air8255-liquid-oxygen-systems
+docidentifier:
+- content: SAE AIR825/5
+  type: SAE
+  primary: true
+- content: 10.4271/air825/5
+  type: DOI
+date:
+- type: approved
+  at: '2002-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Information Report provides general information to aircraft designers and engineers, regarding LOX, its properties, its storage and its conversion to gas. Much useful information is included herein for aircraft designers regarding important design considerations for a safe and effective installation to an aircraft. The associated ground support equipment needed to support operations of LOX equipped aircraft is also discussed. It is important to realize that LOX equipped aircraft cannot be supported unless this support infrastructure is also available. A significant part of this document will address the specific advantages, disadvantages and precautions relating to LOX systems. These are important issues that must be considered in deciding which oxygen system to install to the aircraft. Also, many commercial and military aircraft use aeromedical LOX equipment that is mostly portable equipment. Aeromedical LOX equipment is not addressed herein as it is beyond the scope of this document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

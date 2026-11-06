@@ -1,0 +1,66 @@
+---
+id: SAEAMS2650A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fluoroscopic X-Ray Inspection
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2650a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2650a-fluoroscopic-x-ray-inspection
+docidentifier:
+- content: SAE AMS2650A
+  type: SAE
+  primary: true
+- content: 10.4271/ams2650a
+  type: DOI
+date:
+- type: approved
+  at: '1991-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This specification has been declared "NONCURRENT" by the Aerospace Materials
+    Division, SAE, as of 1-1-84. It is recommended that this specification not be
+    specified for new designs.
+    This cover sheet should be attached to the initial issue of the sUbject
+    specification.
+    Noncurrent refers to those procedures which have previously been widely used and
+    which may be required on some existing designs in the future. The Aerospace
+    Materials Division does not recommend these as standard procedures for future use
+    in new designs. Each of these "Noncurrent" specifications is available from SAE
+    upon request.
+    This specification has been CANCELLED by the Aerospace Materials Division, SAE,
+    as of August, 1989. By this action, subject specification number and its title
+    will be deleted from the active specification index of Aerospace Material
+    Specifications.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

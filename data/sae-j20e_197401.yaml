@@ -1,0 +1,56 @@
+---
+id: SAEJ20E_197401
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: COOLANT SYSTEM HOSES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j20e_197401
+- type: src
+  content: https://saemobilus.sae.org/standards/j20e_197401-coolant-system-hoses
+docidentifier:
+- content: SAE J20E_197401
+  type: SAE
+  primary: true
+- content: 10.4271/j20e_197401
+  type: DOI
+date:
+- type: approved
+  at: '1974-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Non-Hydraulic Hose Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+    &lt;div class="htmlview paragraph"&gt;This type of hose is primarily for severe, critical, and heavy-duty service of which the diesel-locomotive application is a typical example. The hose is intended to withstand the effects of pressure systems, various present types of coolants, cold temperatures down to −40°F (−40°C), and unskilled application to connections not particularly designed for ease of assembly with the hose.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;When desired, hose with one class of material in the tube and another in the cover may be obtained. In such cases, the physical properties specified for respective parts shall apply. Adhesion requirements shall be based on the class of material for which the lower value is specified.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

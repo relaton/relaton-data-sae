@@ -1,0 +1,56 @@
+---
+id: SAEAS483
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SKID CONTROL EQUIPMENT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as483
+- type: src
+  content: https://saemobilus.sae.org/standards/as483-skid-control-equipment
+docidentifier:
+- content: SAE AS483
+  type: SAE
+  primary: true
+- content: 10.4271/as483
+  type: DOI
+date:
+- type: approved
+  at: '1962-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5A Wheels, Brakes and Skid Controls Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers minimum requirements for skid control equipment for use on all types and models of civil aircraft. It shall be the responsibility of the applicant (See Paragraph &lt;span class="xref"&gt;5.1&lt;/span&gt;) to determine the compatibility of these requirements with the applicable aircraft and to specify requirements in excess of these minimums as necessary.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

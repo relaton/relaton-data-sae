@@ -1,0 +1,49 @@
+---
+id: SAEMAP749A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AIRCRAFT TURBINE ENGINE FUEL SYSTEM COMPONENT ENDURANCE TEST (CONTAMINATED
+    FUEL)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/map749a
+- type: src
+  content: https://saemobilus.sae.org/standards/map749a-aircraft-turbine-engine-fuel-system-component-endurance-test-contaminated-fuel
+docidentifier:
+- content: SAE MAP749A
+  type: SAE
+  primary: true
+- content: 10.4271/map749a
+  type: DOI
+date:
+- type: approved
+  at: '1981-09-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5B Aircraft and Engine Fuel and Lubricant Sys Components
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

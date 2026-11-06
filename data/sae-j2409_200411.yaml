@@ -1,0 +1,56 @@
+---
+id: SAEJ2409_200411
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Strain-Life Fatigue Data File Format
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2409_200411
+- type: src
+  content: https://saemobilus.sae.org/standards/j2409_200411-strain-life-fatigue-data-file-format
+docidentifier:
+- content: SAE J2409_200411
+  type: SAE
+  primary: true
+- content: 10.4271/j2409_200411
+  type: DOI
+date:
+- type: approved
+  at: '2004-11-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Materials, Processes and Parts Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE format for a SIMPLE Strain-Life Fatigue Data Exchange File Format. The object of this SAE Standard is to provide a simple common way to exchange strain-life fatigue data collected from ASTM E 606 axial fatigue test data.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

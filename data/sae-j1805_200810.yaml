@@ -1,0 +1,58 @@
+---
+id: SAEJ1805_200810
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Sound Power Level Measurements of Work Machines—Static and In-Place Dynamic
+    Methods
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1805_200810
+- type: src
+  content: https://saemobilus.sae.org/standards/j1805_200810-sound-power-level-measurements-work-machines-static-place-dynamic-methods
+docidentifier:
+- content: SAE J1805_200810
+  type: SAE
+  primary: true
+- content: 10.4271/j1805_200810
+  type: DOI
+date:
+- type: approved
+  at: '2008-10-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: OPTC3, Lighting and Sound Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard is used to determine the exterior A-weighted equivalent sound power level of static and in-place dynamic machines (dozer, loader, excavator, and backhoe) similar to the sound power obtained in ISO 6393 static and ISO 6395 dynamic sound power test procedures. Additional machine types, specifically sweepers and scrubbers, covered by SAE J2130 have been added, and other work machine types covered by SAE J1116 may be added with appropriate cycle descriptions and machine preparation. The recommended test procedures include conventional integrating sound pressure level methods or the sound intensity method using paired microphones. The sound intensity methodology provides a practical indoor alternative and permits measurement in the factory environment. The procedures in this document assume that the dominant sources are not highly sensitive to load (i.e., cooling fan, engine, track system). This test can be used as a substitute for the ISO 6393 static and ISO 6395 dynamic sound power tests for many machine types.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The requirements for the machine setup and operation, and the microphone array and hemispherical measurement surface are given in this document. This document shall be used in conjunction with instrumentation manufacturer's recommendations and ISO 9614-1. The accompanying sound intensity procedure clarification is provided pending more widespread understanding of sound intensity.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

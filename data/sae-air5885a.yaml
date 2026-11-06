@@ -1,0 +1,59 @@
+---
+id: SAEAIR5885A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Landing Gear Common Repair
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5885a
+- type: src
+  content: https://saemobilus.sae.org/standards/air5885a-landing-gear-common-repair
+docidentifier:
+- content: SAE AIR5885A
+  type: SAE
+  primary: true
+- content: 10.4271/air5885a
+  type: DOI
+date:
+- type: approved
+  at: '2024-06-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document outlines the most common repairs used on landing gear components. It is not the intention of this AIR to replace overhaul/component maintenance or technical order manuals, but it can serve as a guide into their preparation. Refer to the applicable component drawings and specifications for surface finish, thickness, and repair processing requirements. This document may also be used as a guide to develop an MRB (Material Review Board) plan.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The repairs in this document apply to components made of metallic alloys. These repairs are intended for new manufactured components and overhauled components, including original equipment manufacturer (OEM)/depot and in-service repairs. The extent of repair allowed for new components as opposed to in-service components is left to the cognizant engineering authorities.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Reference could be made to this document when justifying repairs on landing gears. For repairs outside the scope of this document, a detailed justification is necessary. Landing gear repair is often a combination of several repair types defined herein.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It must be understood that all the repairs listed in this document are not to be applied without the involvement of the cognizant engineer.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

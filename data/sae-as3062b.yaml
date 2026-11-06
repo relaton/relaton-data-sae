@@ -1,0 +1,56 @@
+---
+id: SAEAS3062B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BOLTS, SCREWS AND STUDS, SCREW THREAD REQUIREMENTS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as3062b
+- type: src
+  content: https://saemobilus.sae.org/standards/as3062b-bolts-screws-studs-screw-thread-requirements
+docidentifier:
+- content: SAE AS3062B
+  type: SAE
+  primary: true
+- content: 10.4271/as3062b
+  type: DOI
+date:
+- type: approved
+  at: '1977-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard establishes the rolled thread element tolerances for lead, half-angle, taper, and out-of-roundness for studs used in aerospace construction; it also establishes the requirements for lead threads and runout threads for these studs.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

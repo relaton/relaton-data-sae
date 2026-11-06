@@ -1,0 +1,71 @@
+---
+id: SAEAIR5565
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Historical Design Information of Aircraft Landing Gear and Control Actuation
+    Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5565
+- type: src
+  content: https://saemobilus.sae.org/standards/air5565-historical-design-information-aircraft-landing-gear-control-actuation-systems
+docidentifier:
+- content: SAE AIR5565
+  type: SAE
+  primary: true
+- content: 10.4271/air5565
+  type: DOI
+date:
+- type: approved
+  at: '2022-09-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This aerospace information report (AIR) provides historical design information for various aircraft landing gear and actuation/control systems that may be useful in the design of future systems for similar applications. It presents the basic characteristics, hardware descriptions, functional schematics, and discussions of the actuation mechanisms, controls, and alternate release systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The report is divided into two basic sections:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Landing gear actuation system history from 1876 to the present. This section provides an overview and the defining examples that demonstrate the evolution of landing gear actuation systems to the present day.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;This section of the report provides an in depth review of various aircraft. A summary table of aircraft detail contained within this section is provided in paragraph &lt;span class="xref"&gt;4.1&lt;/span&gt;.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The intent is to add new and old aircraft retraction/extension systems to this AIR as the data becomes available.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTES
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;For some aircraft, the description is incomplete, due to difficulties in obtaining the data.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

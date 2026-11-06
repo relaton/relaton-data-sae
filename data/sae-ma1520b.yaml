@@ -1,0 +1,74 @@
+---
+id: SAEMA1520B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Areas for Calculating Stress or Load Values for Metric MJ Externally Threaded
+    Fasteners
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma1520b
+- type: src
+  content: https://saemobilus.sae.org/standards/ma1520b-areas-calculating-stress-load-values-metric-mj-externally-threaded-fasteners
+docidentifier:
+- content: SAE MA1520B
+  type: SAE
+  primary: true
+- content: 10.4271/ma1520b
+  type: DOI
+date:
+- type: approved
+  at: '2019-05-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Areas for the standard metric series of thread diameter-pitch combinations for aerospace externally threaded fasteners are established for the following conditions:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Area for ultimate shear stress or load in unthreaded shank.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Area for ultimate tensile stress or load in thread.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Area for stress durability test load in thread.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Area for stress-rupture test load at elevated temperature.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Area for tension-tension fatigue test load.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

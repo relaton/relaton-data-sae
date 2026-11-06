@@ -1,0 +1,57 @@
+---
+id: SAEAIR6064
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Reverse Thrust
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6064
+- type: src
+  content: https://saemobilus.sae.org/standards/air6064-reverse-thrust
+docidentifier:
+- content: SAE AIR6064
+  type: SAE
+  primary: true
+- content: 10.4271/air6064
+  type: DOI
+date:
+- type: approved
+  at: '2018-05-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-33 In Flight Propulsion Measurement Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Propulsion measurements and thrust methods presented in the current published versions of AIR1703 and AIR5450 place a primary focus on the engine reactionary force (thrust) acting to propel an aircraft in the forward direction. In contrast, this document addresses the use of the engine reactionary force in the opposite direction (reverse thrust) to supplement aircraft deceleration.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document’s application spans commercial and military transport turbofan engine applications for various engine and reverse thrust configurations. The discussion and examples primarily focus on separate flow exhaust turbofan engines. Piston and turboprop variable-pitch propeller blade applications are not covered. Although reverse thrust has been utilized for in-flight deceleration, primarily for short takeoff and landing aircraft and military fighter applications, this application of reverse thrust is only covered in a cursory manner.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

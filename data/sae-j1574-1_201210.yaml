@@ -1,0 +1,64 @@
+---
+id: SAEJ15741_201210
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Measurement of Vehicle and Suspension Parameters for Directional Control
+    Studies
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1574/1_201210
+- type: src
+  content: https://saemobilus.sae.org/standards/j15741_201210-measurement-vehicle-suspension-parameters-directional-control-studies
+docidentifier:
+- content: SAE J1574/1_201210
+  type: SAE
+  primary: true
+- content: 10.4271/j1574/1_201210
+  type: DOI
+date:
+- type: approved
+  at: '2012-10-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Dynamics Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The parameters measured according to this SAE Recommended Practice will generally be used in simulating directional control performance in the linear range. (The “linear range” is the steady-state lateral acceleration below which steering wheel angle can generally be considered to be linearly related to lateral acceleration.) But they may be used for certain other simulations (such as primary ride motions), vehicle and suspension characterization and comparison, suspension development and optimization, and processing of road test data.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is intended to apply to passenger cars, light trucks, and on-highway recreational and commercial vehicles, both non-articulated and articulated. Measurement techniques are intended to apply to these vehicles, with alterations primarily in the scale of facilities required. But some differences do exist between passenger cars and trucks, especially heavy trucks, such as differences in body/frame flexibility, suspension stiffness, and suspension friction. These will be addressed in this document or SAE J1574-2, where appropriate.&lt;/div&gt;
+
+
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

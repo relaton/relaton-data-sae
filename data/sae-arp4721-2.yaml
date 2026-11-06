@@ -1,0 +1,64 @@
+---
+id: SAEARP47212
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Monitoring Aircraft Noise and Operations in the Vicinity of Airports:
+    System Validation'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4721/2
+- type: src
+  content: https://saemobilus.sae.org/standards/arp47212-monitoring-aircraft-noise-operations-vicinity-airports-system-validation
+docidentifier:
+- content: SAE ARP4721/2
+  type: SAE
+  primary: true
+- content: 10.4271/arp4721/2
+  type: DOI
+date:
+- type: approved
+  at: '2012-07-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-21 Aircraft Noise Measurement Aviation Emission Modeling
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides engineering methods that can be applied to monitoring aircraft noise and operations in the vicinity of airports using either attended or unattended monitoring systems, as well as methods for validation of measurement results from permanent systems. Part 1 provides guidance on the components, installation and administration of permanent systems and guidance on analysis of data collected from temporary monitoring of aircraft noise. Part 2, this part, describes both system screening tests and detailed test methods for validating the data reported by permanently installed systems. This document is intended as a guide toward standard practice and is subject to change with experience and technical advances.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Potential users include: airport proprietors, airport neighbors, federal, state and local government agencies, equipment vendors and other public bodies and officials. Potential applications include: Part 1 - development of a basis for communication among concerned parties for acquisition, installation and operation of a permanent monitoring system, and reduction of sound level data collected through temporary monitoring; Part 2 - initial system testing and detailed system validation and improvement.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The recommended practices included here are intended to apply to commercial air carrier airports and general-aviation airports.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The guidance in Part 1 of this document is intended for application to airport noise-monitoring systems that are designed and installed (or refurbished) after the publication date of the document. Part 1 also provides methods for analyzing data from temporary noise monitoring. The methods and information in Part 2 may be used for any permanent monitoring system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The primary topics addressed in this Part 2 are identified in six subsections. &lt;span class="xref"&gt;Sections 2&lt;/span&gt; and &lt;span class="xref"&gt;3&lt;/span&gt; give References and Definitions. &lt;span class="xref"&gt;Section 4&lt;/span&gt;, Post-Installation Screening Tests, identifies tests that may be conducted immediately after a system has been installed and is operational. These tests use only data directly from the system and should efficiently identify any major short-comings, such as missing significant numbers of operations, missing or erroneous aircraft noise event data. These tests may also be run at any time that some major portion or type of system reported data is in question.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Section 5&lt;/span&gt;, System Validation for Special Studies, provides more rigorous and time consuming methods for quantifying a permanent system’s capabilities when special needs require detailed, quantitative analysis of system data. It describes metrics, tests and calculations that can be used to determine how well the system is: (1) capturing all aircraft flight tracking information, (2) matching captured tracks to runways, aircraft types and flights, (3) capturing aircraft noise events, (4) matching those events with correct tracks, runways and aircraft, (5) measuring aircraft sound levels, and (6) properly locating aircraft flight tracks.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Section 6&lt;/span&gt; - Data Analysis and Reporting - Suggests what general steps can be taken to improve system operation and how measured data should be reported to provide sufficient information so that reviewers can easily judge data quality.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Appendices provide related and additional information.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

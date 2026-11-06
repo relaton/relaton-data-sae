@@ -1,0 +1,56 @@
+---
+id: SAEAMSG4343
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Grease, Pneumatic System
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/amsg4343
+- type: src
+  content: https://saemobilus.sae.org/standards/amsg4343-grease-pneumatic-system
+docidentifier:
+- content: SAE AMS-G-4343
+  type: SAE
+  primary: true
+- content: 10.4271/amsg4343
+  type: DOI
+date:
+- type: approved
+  at: '1999-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS M Aerospace Greases Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a pneumatic system grease. This grease is identified by NATO Code Number G 392 (see &lt;span class="xref"&gt;6.5&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,72 @@
+---
+id: SAEJ1723_199508
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SUPERCHARGER TESTING STANDARD
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1723_199508
+- type: src
+  content: https://saemobilus.sae.org/standards/j1723_199508-supercharger-testing-standard
+docidentifier:
+- content: SAE J1723_199508
+  type: SAE
+  primary: true
+- content: 10.4271/j1723_199508
+  type: DOI
+date:
+- type: approved
+  at: '1995-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Engine Power Test Code Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This test document is applicable to all superchargers not requiring fuel to be added to the inlet air prior to the supercharger. This SAE Standard only applies to bench testing. Any maximum speed, temperature, and pressure ratios supplied by the manufacturer should be for this use only and may not apply to applications of firing engines. This document has been adopted by SAE to specify:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A standard basis for supercharger efficiency rating&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Reference inlet air supply test conditions&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A method for correcting observed efficiency to reference conditions&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A method for presenting these results in an accurate and usable way&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A method to compare superchargers without the affects of engine dynamics and intercooling&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

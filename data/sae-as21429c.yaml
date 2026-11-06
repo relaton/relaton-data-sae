@@ -1,0 +1,49 @@
+---
+id: SAEAS21429C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BEARING, ROLLER, ANTIFRICTION, ROD END, EXTERNAL THREAD, SELF-ALIGNING,
+    AIR FRAME, -67 °F TO 350 °F TYPE 1, HEAVY DUTY, SEALED
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as21429c
+- type: src
+  content: https://saemobilus.sae.org/standards/as21429c-bearing-roller-antifriction-rod-end-external-thread-self-aligning-air-frame-67-f-350-f-type-1-heavy-duty-sealed
+docidentifier:
+- content: SAE AS21429C
+  type: SAE
+  primary: true
+- content: 10.4271/as21429c
+  type: DOI
+date:
+- type: approved
+  at: '2021-12-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ACBG Rolling Element Bearing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

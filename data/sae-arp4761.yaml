@@ -1,0 +1,61 @@
+---
+id: SAEARP4761
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GUIDELINES AND METHODS FOR CONDUCTING THE SAFETY ASSESSMENT PROCESS ON
+    CIVIL AIRBORNE SYSTEMS AND EQUIPMENT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4761
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4761-guidelines-methods-conducting-safety-assessment-process-civil-airborne-systems-equipment
+docidentifier:
+- content: SAE ARP4761
+  type: SAE
+  primary: true
+- content: 10.4271/arp4761
+  type: DOI
+date:
+- type: approved
+  at: '1996-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-18 Aircraft and Sys Dev and Safety Assessment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes guidelines and methods of performing the safety assessment for certification of civil aircraft. It is primarily associated with showing compliance with FAR/JAR 25.1309. The methods outlined here identify a systematic means, but not the only means, to show compliance. A subset of this material may be applicable to non-25.1309 equipment. The concept of Aircraft Level Safety Assessment is introduced and the tools to accomplish this task are outlined. The overall aircraft operating environment is considered.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;When aircraft derivatives or system changes are certified, the processes described herein are usually applicable only to the new designs or to existing designs that are affected by the changes. In the case of the implementation of existing designs in a new derivation, alternate means such as service experience may be used to show compliance.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,60 @@
+---
+id: SAEJ3237_202508
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Dynamic Driving Task Assessment (DA) Metrics for Automated Driving Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3237_202508
+- type: src
+  content: https://saemobilus.sae.org/standards/j3237_202508-dynamic-driving-task-assessment-da-metrics-automated-driving-systems
+docidentifier:
+- content: SAE J3237_202508
+  type: SAE
+  primary: true
+- content: 10.4271/j3237_202508
+  type: DOI
+date:
+- type: approved
+  at: '2025-08-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: On-Road Automated Driving (ORAD) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice provides DA metrics used to quantify the DDT performance of ADS-operated vehicles.&lt;span class="xref"&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/span&gt; Here, the primary focus is on the safety-related DDT performance and includes definitions, taxonomy, characteristics, and usage (along with alternatives) for each metric. DDT performance is a subset of overall operational performance of ADS-operated vehicles. Thus, assessments of DDT Fallback [1], cybersecurity, maintenance, interactions with passengers, etc., while important and could have an indirect impact on the DDT, are out of scope for this document. Note that the DA metrics do not specify the actions and/or maneuvers to be executed by the (ADS-operated) subject vehicle (SV).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;While this document presents a set of individual DA metrics, it is important to note that it is out of the scope of this document to describe how these metrics should be applied in practice. This is because the overall context of the scenario or deployment must be considered during DA metrics implementation and different DA metrics could be applicable for different ADS applications. Implementation of the DA metrics recommended in this document may inform a safety assessment of an ADS’s performance of the DDT, and this assessment in turn may inform a broader safety assessment of an ADS-operated vehicle. However, these metrics could be supplemented by additional input for both types of assessments.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A literature review of DA metrics that have been proposed and, in some cases, used in previous studies was conducted. From this literature review, a set of DA metrics has been created with example usage. Evidence of prior research indicating that a metric has a meaningful relationship with safety outcome(s) is included where applicable.&lt;span class="xref"&gt;&lt;sup&gt;4&lt;/sup&gt;&lt;/span&gt; The set of DA metrics is not necessarily comprehensive, and there may be additional metrics that can be used to assess DDT performance, particularly metrics that measure ADS subsystem performance.&lt;span class="xref"&gt;&lt;sup&gt;5&lt;/sup&gt;&lt;/span&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;DA metrics might use parameterized variables, assumptions, and thresholds&lt;span class="xref"&gt;&lt;sup&gt;6&lt;/sup&gt;&lt;/span&gt; in their formulation. Defining or recommending values for these quantities used in the metrics formulation is outside the scope of this document. It is expected that the methodologies for collecting and assigning such values for these metrics will be developed based on implementation of the metrics in this document in field and other learned experiences with production and prototype vehicles and systems. Values could also be established by regulation, industry best practices, improved technology development, and academic research, among others, and may change based on the operating conditions within the operational design domain (ODD). In the interim, it will be the responsibility of the implementer of these metrics to choose values for these quantities.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The DA metrics can be implemented in both testing and commercialization phases and for various purposes, including for ADS-equipped vehicle development, third-party evaluation, and event reconstruction and analysis. For example, the metrics can be used as part of an ADS-equipped vehicle verification and validation (V&amp;amp;V) scenario-based testing process wherein individual scenarios are tested. A third-party evaluator could also aggregate measurements of the metrics measurements over a period of time or number of scenarios (i.e., a period of time could be considered to be a sequence of scenarios) in on-road operation (which could be during testing or commercialization) in order to monitor driving performance of an ADS-operated vehicle.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

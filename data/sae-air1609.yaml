@@ -1,0 +1,56 @@
+---
+id: SAEAIR1609
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AIRCRAFT HUMIDIFICATION
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1609
+- type: src
+  content: https://saemobilus.sae.org/standards/air1609-aircraft-humidification
+docidentifier:
+- content: SAE AIR1609
+  type: SAE
+  primary: true
+- content: 10.4271/air1609
+  type: DOI
+date:
+- type: approved
+  at: '2010-05-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report covers the design parameters for various methods of humidification applicable to aircraft, the physiological aspects of low humidities, the possible benefits of controlling cabin humidity, the penalties associated with humidification, and the problems which must be solved for practical aircraft humidification systems. The design information is applicable to commercial and military aircraft. The physiological aspects cover all aircraft environmental control applications.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

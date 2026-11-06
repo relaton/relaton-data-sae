@@ -1,0 +1,59 @@
+---
+id: SAEJ1400_199005
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: LABORATORY MEASUREMENT OF THE AIRBORNE SOUND BARRIER PERFORMANCE OF AUTOMOTIVE
+    MATERIALS AND ASSEMBLIES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1400_199005
+- type: src
+  content: https://saemobilus.sae.org/standards/j1400_199005-laboratory-measurement-airborne-sound-barrier-performance-automotive-materials-assemblies
+docidentifier:
+- content: SAE J1400_199005
+  type: SAE
+  primary: true
+- content: 10.4271/j1400_199005
+  type: DOI
+date:
+- type: approved
+  at: '1990-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Acoustical Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice presents a test procedure for determining the airborne sound barrier performance of materials and composite assemblies commonly installed in surface vehicles and marine products.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is intended to provide a means of rank ordering barrier materials according to their sound transmission loss. At each test frequency the transmission loss (TL) is projected from the measured noise reduction of the test specimen using a correlation factor (CF). The respective CF for the test condition is determined as the differences between the measured noise reduction (MNR) of a homogeneous limp panel, such as lead, and its calculated field-incidence transmission loss.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Latitude is permitted in certain test conditions that do not necessarily conform to all of the acoustical requirements of ASTM E 90. This method facilitates the evaluation of automotive materials and assemblies under conditions of representative size, edge constraint, and sound incidence so as to allow better correlation with in-use barrier performance.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

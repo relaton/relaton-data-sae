@@ -1,0 +1,49 @@
+---
+id: SAEMA2081
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HOSE ASSEMBLY, POLYTETRAFLUOROETHYLENE, CRES REINFORCED, 204 °C, 21,000
+    KPA, 60-DEG CONE, STRAIGHT TO 45-DEG, LIGHTWEIGHT, METRIC
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma2081
+- type: src
+  content: https://saemobilus.sae.org/standards/ma2081-hose-assembly-polytetrafluoroethylene-cres-reinforced-204-c-21000-kpa-60-deg-cone-straight-45-deg-lightweight-metric
+docidentifier:
+- content: SAE MA2081
+  type: SAE
+  primary: true
+- content: 10.4271/ma2081
+  type: DOI
+date:
+- type: approved
+  at: '2015-04-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

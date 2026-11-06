@@ -1,0 +1,58 @@
+---
+id: SAEAIR5917
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Procedure for Measurement of Gaseous Emissions from Aircraft Gas Turbine
+    Engines Using Fourier Transform Infrared Analysis
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5917
+- type: src
+  content: https://saemobilus.sae.org/standards/air5917-procedure-measurement-gaseous-emissions-aircraft-gas-turbine-engines-using-fourier-transform-infrared-analysis
+docidentifier:
+- content: SAE AIR5917
+  type: SAE
+  primary: true
+- content: 10.4271/air5917
+  type: DOI
+date:
+- type: approved
+  at: '2020-10-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-31G Gaseous Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Information Report (AIR) describes the use of FTIR analyzers for measurements of gaseous emissions from aircraft gas turbine engines and combustion rigs. The use of FTIR analyzers can be demonstrated as a suitable and cost-effective equivalent to NDIR and chemiluminescence analyzers as prescribed in ARP1256 for the measurement of CO, CO&lt;sub&gt;2&lt;/sub&gt;, NO, and NO&lt;sub&gt;2&lt;/sub&gt;, where NO&lt;sub&gt;x&lt;/sub&gt; is closely approximated by the sum of NO and NO&lt;sub&gt;2&lt;/sub&gt; concentrations. FTIR analyzers may be proven suitable for equivalency of analyzers used in current emission testing. Additionally, FTIR analyzers have potential for equivalent measurements of “total” hydrocarbon (THC) as currently defined in ARP1256.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,52 @@
+---
+id: SAEARP268C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: LOCATION AND ACTUATION OF FLIGHT DECK CONTROLS FOR COMMERCIAL TRANSPORT
+    TYPE AIRCRAFT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp268c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp268c-location-actuation-flight-deck-controls-commercial-transport-type-aircraft
+docidentifier:
+- content: SAE ARP268C
+  type: SAE
+  primary: true
+- content: 10.4271/arp268c
+  type: DOI
+date:
+- type: approved
+  at: '1962-11-15'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The recommendations of this bulletin apply to commercial type, multi-engine transport aircraft utilizing reciprocating or turbine type powerplants.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,85 @@
+---
+id: SAEGEIAHB0005_1
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Program Management/Systems Engineering Guidelines for Managing the Transition
+    to Lead-Free Electronics
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/geiahb0005_1
+- type: src
+  content: https://saemobilus.sae.org/standards/geiahb0005_1-program-management-systems-engineering-guidelines-managing-transition-lead-free-electronics
+docidentifier:
+- content: SAE GEIA-HB-0005-1
+  type: SAE
+  primary: true
+- content: 10.4271/geiahb0005_1
+  type: DOI
+date:
+- type: approved
+  at: '2006-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-24 Pb-free Risk Management Committee for ADHP
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This handbook is designed to assist program management and/or systems engineering management in managing the transition to lead-free (Pb-free) electronics to assure product reliability and performance.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Programs may inadvertently introduce Pb-free elements (including piece part finish, printed wiring board finish, or assembly solder) if careful coordination between buyer and supplier is not exercised. For example, piece part manufacturers may not always change part numbers to identify Pb-free finishes, especially if the previous tin-lead (Sn/Pb)-finished piece part has been discontinued. Detailed examination of piece parts and documents at receiving inspection while crucial, may not be sufficient to identify Pb-free piece parts.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;Note: Pb-free technology can impact any program regardless of whether the program itself is exempt or bound by environmental regulations. The industry conversion to Pb-free solder technology may affect an aerospace program in one or both of the following ways:
+    &lt;ol&gt;
+    &lt;li&gt;
+
+    &lt;div class="htmlview paragraph"&gt;If the program is required to implement Pb-free technology (contract requirement, environmental regulation, etc), then the program manager/lead systems engineer will need to assess the impact of in-house transition with respect to design (performance of products using Pb-free) and process (processes to build Pb-free products).&lt;/div&gt;&lt;/li&gt;
+    &lt;li&gt;
+
+    &lt;div class="htmlview paragraph"&gt;If the program purchases COTS (Commercial-off-the-Shelf) items for its products/systems, then there is a very good chance that these items will contain Pb-free solder or Pb-free finishes on parts, printed wiring boards (PWBs), or CCAs.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The basic principles delineated in this handbook can be used for program management and/or systems engineering management of any aerospace and/or high performance program. The appendices in the document describe tools that can be used in conjunction with this handbook.&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(1)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Appendix A&lt;/span&gt; describes a matrix of product tier level versus associated risks with respect to a Pb-free transition.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(2)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Appendix B&lt;/span&gt; contains links to the European Union Directives and Executive Order 13148.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(3)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Appendix C&lt;/span&gt; contains a General Program Manager Checklist for Dealing with Pb-free Issues that summarizes the content of the GEIA-HB-0005-1 (this handbook).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(4)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Appendix D&lt;/span&gt; contains a General Manufacturing Process Assessment Checklist to assess supplier compliance to GEIA-STD-0005-1.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(5)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Appendix E&lt;/span&gt; describes recommended program language to assure performance, reliability, airworthiness, safety, and certifiability of Pb-free product(s).&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;This handbook is designed to assist a program in assuring the performance, reliability, airworthiness, safety, and certifiability of product(s), in accordance with GEIA-STD-0005-1, “Performance Standard for Aerospace Electronic Systems Containing Lead-free Solder”. Please note that the program manager and systems engineer (along with their respective organizations), and the appropriate enterprise authority work together in ensuring that all impacts of Pb-free technology insertion are understood and risks mitigated accordingly. Herein “program management (or manager) and/or systems engineering management (or manager) and/or the appropriate enterprise authority” shall be defined as “program manager” throughout the remaining document (see &lt;span class="xref"&gt;Section 3&lt;/span&gt;, Terms and Definitions).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

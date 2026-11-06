@@ -1,0 +1,56 @@
+---
+id: SAEAS5135
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Desiccant Port and Desiccant Holder
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5135
+- type: src
+  content: https://saemobilus.sae.org/standards/as5135-desiccant-port-desiccant-holder
+docidentifier:
+- content: SAE AS5135
+  type: SAE
+  primary: true
+- content: 10.4271/as5135
+  type: DOI
+date:
+- type: approved
+  at: '2005-10-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-4 Packaging, Handling and Transportability Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) describes the characteristics of a desiccant port installed through the flat wall of a shipping and storage container. With the cover removed, the desiccant port shall provide access to the interior of the container for installation and removal of desiccant.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

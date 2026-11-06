@@ -1,0 +1,71 @@
+---
+id: SAEJ404_200006
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Chemical Compositions of SAE Alloy Steels
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j404_200006
+- type: src
+  content: https://saemobilus.sae.org/standards/j404_200006-chemical-compositions-sae-alloy-steels
+docidentifier:
+- content: SAE J404_200006
+  type: SAE
+  primary: true
+- content: 10.4271/j404_200006
+  type: DOI
+date:
+- type: approved
+  at: '2000-06-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Carbon and Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;In 1941, the SAE Iron and Steel Division in collaboration with the American Iron and Steel Institute (AISI) made a major change in the method of expressing composition ranges for the SAE steels. The plan, as now applied, is based in general on narrower ladle analysis ranges plus certain product (check) analysis allowances on individual samples, in place of the fixed ranges and limits without tolerances formerly provided for carbon and other elements in SAE steels (reference SAE J408).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;ISTC Divison 1 has developed a procedure which allows for the maintenance of the grade list in this SAE Standard. This will involve conducting an industry-wide survey to solicit input. This survey will be conducted at a frequency deemed necessary by the technical committee. Criteria have been established for the addition to or deletion of grades from the grade table. A new grade will be considered if it meets standard SAE grade ranges, has a minimum usage or production of 225 tonnes/year (250 tons/year), and has the endorsement of at least two users or producers. New steel compositions will still be considered as Potential Standard (PS) steels, based on the guidelines provided in SAE J1081, until such time as production of the new steel achieves a level of production or usage qualifying it for consideration as a standard steel.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The deletion of a grade from the grade table will be by consensus based on the grade survey results. Deleted grades will be archived in SAE J1249 for future reference.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The compositions in this document may apply to open hearth and basic oxygen, or electric furnace steels. Grades shown in &lt;span class="xref"&gt;Table 1&lt;/span&gt; with prefix letter E are normally made by the electric furnace process with maximum limits of 0.025% phosphorus and 0.025% sulfur. The nominal chemical limits or ranges in the compositions given in &lt;span class="xref"&gt;Table 1&lt;/span&gt; are subject to standard variations in check analysis given in SAE J409. Since AISI is no longer issuing steel grade designations, all grades listed in this document are SAE grades.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Table 1&lt;/span&gt; is applicable to billets, blooms, slabs, plates, wire rods, and hot-rolled and cold-finished bars.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J404 is not applicable to the following product forms:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Structural shapes—Not normally furnished to alloy chemistries&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Sheet and strip, hot-rolled and cold-rolled—Refer to ASTM A 506 and A 507&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Seamless and welded mechanical tubing—Refer to ASTM A 513 and A 519&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

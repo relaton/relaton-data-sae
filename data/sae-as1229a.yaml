@@ -1,0 +1,58 @@
+---
+id: SAEAS1229A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: INSERT, SCREW THREAD, HELICAL COIL, STUD LOCKING, PERFORMANCE STANDARD
+    FOR
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1229a
+- type: src
+  content: https://saemobilus.sae.org/standards/as1229a-insert-screw-thread-helical-coil-stud-locking-performance-standard
+docidentifier:
+- content: SAE AS1229A
+  type: SAE
+  primary: true
+- content: 10.4271/as1229a
+  type: DOI
+date:
+- type: approved
+  at: '1974-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard covers helical coil stud locking screw thread inserts made from formed wire in which the inner surface of the coil, after assembly provides threads of standard Unified 60° form as specified on the assembly drawing. This standard also covers the performance requirements of the locking feature of the insert which will retain Unified (UN) or MIL-S-8879 (UNJ) external threaded parts.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

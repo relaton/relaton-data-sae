@@ -1,0 +1,56 @@
+---
+id: SAEJ2186_199109
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: E/E DATA LINK SECURITY
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2186_199109
+- type: src
+  content: https://saemobilus.sae.org/standards/j2186_199109-e-e-data-link-security
+docidentifier:
+- content: SAE J2186_199109
+  type: SAE
+  primary: true
+- content: 10.4271/j2186_199109
+  type: DOI
+date:
+- type: approved
+  at: '1991-09-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes a uniform practice for protecting vehicle modules from "unauthorized" intrusion through a vehicle diagnostic data communication link. The security system represents a recommendation for motor vehicle manufacturers and provides flexibility for them to tailor their system to their specific needs. The vehicle modules addressed are those that are capable of having solid-state memory contents altered external to the electronic module through a diagnostic data communication link. Improper memory content alteration could potentially damage the electronics or other vehicle modules; risk the vehicle compliance to government legislated requirements; or risk the vehicle manufacturer's security interests. This document is intended to meet the "tampering protection" provisions of California Air Resources Board OBD II regulations and does not imply that other security measures are not required nor possible.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAIR1936A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Study of Wrenching Engagement on AS870C Double Hexagon (12 Point) Fasteners
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1936a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1936a-study-wrenching-engagement-as870c-double-hexagon-12-point-fasteners
+docidentifier:
+- content: SAE AIR1936A
+  type: SAE
+  primary: true
+- content: 10.4271/air1936a
+  type: DOI
+date:
+- type: approved
+  at: '2019-05-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EG-1B Hand Tools Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This study addresses the adequacy of sockets, wrenches, and torque adapters conforming to AS954 to wrench 12 point fasteners with wrenching configurations conforming to AS870C. Reported wrenching problems with smaller sizes are investigated through examining the combined tolerances on the fasteners and wrenches, conducting torque testing on typical high strength lock nuts. Possible solutions to correct these wrenching problems are presented.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

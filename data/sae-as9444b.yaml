@@ -1,0 +1,49 @@
+---
+id: SAEAS9444B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BOLT, MACHINE - HEXAGON, DRILLED, 6 HOLES, PD SHANK, NICKEL CADMIUM PLATED,
+    STEEL UNS K14675, 195 KSI MIN, .4375-20 UNJF-3A
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9444b
+- type: src
+  content: https://saemobilus.sae.org/standards/as9444b-bolt-machine-hexagon-drilled-6-holes-pd-shank-nickel-cadmium-plated-steel-uns-k14675-195-ksi-min-4375-20-unjf-3a
+docidentifier:
+- content: SAE AS9444B
+  type: SAE
+  primary: true
+- content: 10.4271/as9444b
+  type: DOI
+date:
+- type: approved
+  at: '2014-01-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEARP6337
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Design, Manufacturing, and Performance Standard for Composite Materials
+    Used on Aircraft Seat Structures
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6337
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6337-design-manufacturing-performance-standard-composite-materials-used-aircraft-seat-structures
+docidentifier:
+- content: SAE ARP6337
+  type: SAE
+  primary: true
+- content: 10.4271/arp6337
+  type: DOI
+date:
+- type: approved
+  at: '2020-11-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aircraft Seat Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) defines additional documentation, environmental considerations, in-service damage limits, test and evaluation criteria necessary to support certification of aircraft seats manufactured using composite materials, in addition to requirements in AS8049 and ARP5526. This document is limited to aircraft seat composite parts in the seat primary load path from the occupant to the attachments of the seat to the aircraft.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The term “composite” is inclusive of any fiber-reinforced polymer matrix materials such as carbon fiber-reinforced plastics, sandwich panels and bonded structure.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

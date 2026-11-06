@@ -1,0 +1,64 @@
+---
+id: SAEAS9115A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Quality Management Systems - Requirements for Aviation, Space, and Defense
+    Organizations - Deliverable Software (Supplement to 9100:2016)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9115a
+- type: src
+  content: https://saemobilus.sae.org/standards/as9115a-quality-management-systems-requirements-aviation-space-defense-organizations-deliverable-software-supplement-91002016
+docidentifier:
+- content: SAE AS9115A
+  type: SAE
+  primary: true
+- content: 10.4271/as9115a
+  type: DOI
+date:
+- type: approved
+  at: '2017-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The requirements of 9100 apply with the following clarification for software.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard supplements the 9100 standard requirements for deliverable software and contains quality management system requirements for organizations that design, develop, and/or produce deliverable software and services for the aviation, space, and defense industry. This includes, as required, support software that is used in the development and maintenance of deliverable software and services. The deliverable software may be stand-alone, embedded, mobile application, or loadable into a target computer.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This deliverable software may also be part of services (e.g., cloud environment, web hosted solutions or platforms).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Where the use of Hardware Description Language (HDL) or high order language is utilized as the design source of electronic hardware [e.g., Application Specific Integrated Circuit (ASIC), Programmable Logic Device (PLD)]; the organization and customer, and/or supplier shall agree on the extent of applicability of this supplement.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;Where Commercial-off-the-Shelf (COTS) or non-developmental software is integrated into a deliverable product, the organization and customer shall agree on the extent of applicability of this supplement.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For the purposes of this document, the terms “product” and “software product” are considered synonymous.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For the purposes of this document, the term “services” may be considered a product.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

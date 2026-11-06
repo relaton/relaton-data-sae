@@ -1,0 +1,53 @@
+---
+id: SAEAMS7701F
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nickel-Iron Alloy, Magnetic, Sheet and Strip, Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7701f
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7701f-nickel-iron-alloy-magnetic-sheet-strip-annealed
+docidentifier:
+- content: SAE AMS7701F
+  type: SAE
+  primary: true
+- content: 10.4271/ams7701f
+  type: DOI
+date:
+- type: approved
+  at: '2010-10-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers two types of magnetic nickel-iron alloy in
+    the form of sheet and strip.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

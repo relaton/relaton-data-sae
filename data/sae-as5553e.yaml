@@ -1,0 +1,59 @@
+---
+id: SAEAS5553E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Counterfeit Electrical, Electronic, and Electromechanical (EEE) Parts;
+    Avoidance, Detection, Mitigation, and Disposition
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5553e
+- type: src
+  content: https://saemobilus.sae.org/standards/as5553e-counterfeit-electrical-electronic-electromechanical-eee-parts-avoidance-detection-mitigation-disposition
+docidentifier:
+- content: SAE AS5553E
+  type: SAE
+  primary: true
+- content: 10.4271/as5553e
+  type: DOI
+date:
+- type: approved
+  at: '2025-11-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-19 Counterfeit Electronic Parts Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard is for use by organizations that procure and integrate EEE Parts. These organizations may provide EEE Parts that are not integrated into assemblies (e.g., spares and/or repair EEE Parts). Examples of such organizations include, but are not limited to, the following: Original Equipment Manufacturers; contract assembly manufacturers; maintenance, repair, and overhaul (MRO) organizations; and suppliers that provide EEE Parts or assemblies as part of a service. These requirements are intended to be applied (or flowed down as applicable) through the supply chain to all organizations that procure and integrate EEE Parts and/or systems, subsystems, or assemblies. The mitigation of Counterfeit EEE Parts in this standard is risk based. These mitigation steps will vary depending on the criticality of the application and desired performance and reliability of the equipment/hardware.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The requirements of this document are used in conjunction with the organization’s higher-level quality standard(s) (e.g., AS 9100, ISO 9001, ASQ/ANSI E4, ASME NQA-1, AS9120, or equivalent) and other quality management system documents (e.g., AS9110 used by MRO organizations). They are not intended to stand alone, supersede, or cancel requirements found in other quality management system documents, requirements imposed by contracting authorities, or applicable laws and regulations unless an authorized exemption/variance has been obtained. This document is not intended to make a legal determination of fraud, for which appropriate legal counsel should be consulted for further action.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For the purposes of this document, the term “risk” is synonymous with Counterfeit Risk.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

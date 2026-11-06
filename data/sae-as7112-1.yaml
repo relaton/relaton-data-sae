@@ -1,0 +1,58 @@
+---
+id: SAEAS71121
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: NATIONAL AEROSPACE AND DEFENSE CONTRACTORS ACCREDITATION PROGRAM HOSE MANUFACTURING
+    REQUIREMENTS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as7112/1
+- type: src
+  content: https://saemobilus.sae.org/standards/as71121-national-aerospace-defense-contractors-accreditation-program-hose-manufacturing-requirements
+docidentifier:
+- content: SAE AS7112/1
+  type: SAE
+  primary: true
+- content: 10.4271/as7112/1
+  type: DOI
+date:
+- type: approved
+  at: '1997-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Nadcap Management Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Standard (AS) is to be used as a supplement to SAE AS7112. In addition to the requirements contained in AS7112, the requirements contained herein shall apply to suppliers seeking NADCAP Fluid System Components Accreditation for Hose Manufacturer.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Hose may be manufactured as a "Qualified" end item (bulk) or to be qualified as part of an assembly. The corresponding PRI Audit Criteria (AC) is to be applied to ensure the hose is manufactured to the applicable specification(s) and standard(s).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

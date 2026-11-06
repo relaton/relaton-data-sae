@@ -1,0 +1,59 @@
+---
+id: SAEARP5120
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Gas Turbine Engine Health Management System Development and Integration
+    Guide
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5120
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5120-aircraft-gas-turbine-engine-health-management-system-development-integration-guide
+docidentifier:
+- content: SAE ARP5120
+  type: SAE
+  primary: true
+- content: 10.4271/arp5120
+  type: DOI
+date:
+- type: approved
+  at: '2016-03-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;ARP5120 provides recommended best practices, procedures, and technology to guide the physical and functional design, development, integration, verification, and validation of highly reliable Engine Health Management (EHM) systems for aircraft engines and Auxiliary Power Units (APUs). This SAE Aerospace Recommended Practice (ARP) also serves as a concise reference of considerations, approaches, activities, and requirements for producing the end-to-end engine health management system comprised of both on and off-board subsystems for the sensing, acquisition, analysis, detection, and data handling functions for EHM. These functions may also be used to effect continued operation or return to service decisions when demonstrated as compliant with the applicable airworthiness requirements defined by the responsible Aviation Authority. Where practical, this document delineates between military and commercial practices.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

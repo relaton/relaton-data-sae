@@ -1,0 +1,57 @@
+---
+id: SAEAS1730D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Coupling, Fuel, Rigid, Threaded Type
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1730d
+- type: src
+  content: https://saemobilus.sae.org/standards/as1730d-coupling-fuel-rigid-threaded-type
+docidentifier:
+- content: SAE AS1730D
+  type: SAE
+  primary: true
+- content: 10.4271/as1730d
+  type: DOI
+date:
+- type: approved
+  at: '2011-07-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification defines the requirements for a threaded rigid coupling assembly, which utilizes ferrule type machined tube end fittings, to join tubing and components in aircraft fuel, vent, and other systems. This coupling assembly is designed for use from −65 to 200 °F and at 125 psig operating pressure.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

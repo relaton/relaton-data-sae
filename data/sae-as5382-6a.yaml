@@ -1,0 +1,48 @@
+---
+id: SAEAS53826A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CABLE, FIBER OPTIC, MULTI-MODE, 200/230/500 μm, STEP INDEX, TIGHT BUFFER
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5382/6a
+- type: src
+  content: https://saemobilus.sae.org/standards/as53826a-cable-fiber-optic-multi-mode-200-230-500-m-step-index-tight-buffer
+docidentifier:
+- content: SAE AS5382/6A
+  type: SAE
+  primary: true
+- content: 10.4271/as5382/6a
+  type: DOI
+date:
+- type: approved
+  at: '2011-10-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

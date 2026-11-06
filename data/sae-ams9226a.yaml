@@ -1,0 +1,52 @@
+---
+id: SAEAMS9226A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Wire - Steel, Corrosion and Heat Resistant, Safety, 1800°F
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams9226a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams9226a-wire-steel-corrosion-heat-resistant-safety-1800f
+docidentifier:
+- content: SAE AMS9226A
+  type: SAE
+  primary: true
+- content: 10.4271/ams9226a
+  type: DOI
+date:
+- type: approved
+  at: '2006-01-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>No Scope available.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

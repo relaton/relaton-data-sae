@@ -1,0 +1,77 @@
+---
+id: SAEJ2546_200202
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Model Specification Process Standard
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2546_200202
+- type: src
+  content: https://saemobilus.sae.org/standards/j2546_200202-model-specification-process-standard
+docidentifier:
+- content: SAE J2546_200202
+  type: SAE
+  primary: true
+- content: 10.4271/j2546_200202
+  type: DOI
+date:
+- type: approved
+  at: '2002-02-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electronic Design Automation Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The modeling requirements listed in this document provide guidelines for specifying:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;i&gt;Analysis&lt;/i&gt; requirements&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Computer-Aided Engineering (CAE) simulator&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;i&gt;Model fidelity&lt;/i&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;i&gt;System&lt;/i&gt; assumptions&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;i&gt;Model&lt;/i&gt; architecture&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;i&gt;Validation&lt;/i&gt; requirements&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Deliverables&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;for electrical/electronic components and the integral interfacing &lt;i&gt;systems&lt;/i&gt; (mechanical, thermal, hydraulic) associated with these components.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The &lt;i&gt;simulation models&lt;/i&gt; are primarily intended to facilitate &lt;i&gt;functional&lt;/i&gt; specification and operational evaluation between component and &lt;i&gt;system&lt;/i&gt; manufacturers, and are not intended to otherwise constrain or restrict the use of CAE &lt;i&gt;simulation&lt;/i&gt; tools for automotive design, &lt;i&gt;analysis&lt;/i&gt; and &lt;i&gt;validation&lt;/i&gt;.&lt;/div&gt;
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

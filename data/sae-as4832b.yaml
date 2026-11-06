@@ -1,0 +1,59 @@
+---
+id: SAEAS4832B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Gland Design: Nominal 3/8 Inch Cross Section for Compression-Type Seals'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4832b
+- type: src
+  content: https://saemobilus.sae.org/standards/as4832b-gland-design-nominal-3-8-inch-cross-section-compression-type-seals
+docidentifier:
+- content: SAE AS4832B
+  type: SAE
+  primary: true
+- content: 10.4271/as4832b
+  type: DOI
+date:
+- type: approved
+  at: '2023-06-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) offers gland details for a 0.364 inch (9.246 mm) cross-section gland (nominal 3/8 inch) with proposed gland lengths for compression-type seals with two backup rings over a range of 7 to 21 inches (178 to 533 mm) in diameter.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The dash number system used is similar to AS568A. A 600 series has been chosen as a logical extension of AS568A, and the 625 number has been selected for the initial number, since 300 and 400 series in MIL-G-5514 and AS4716 begin with 325 and 425 sizes.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Seal configurations and design are not a part of this document. This gland is for use with compression-type seals including, but not limited to, O-rings, T-rings, D-rings, cap seals, etc.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,75 @@
+---
+id: SAEAS7062
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Pilot Training and Certification for VTOL-Capable Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as7062
+- type: src
+  content: https://saemobilus.sae.org/standards/as7062-pilot-training-certification-vtol-capable-aircraft
+docidentifier:
+- content: SAE AS7062
+  type: SAE
+  primary: true
+- content: 10.4271/as7062
+  type: DOI
+date:
+- type: approved
+  at: '2025-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-35A Pilot Training and Certification Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard is intended for use by original equipment manufacturers (OEMs), regulators, operators, training organizations, and any others who wish to develop curricula for pilot, instructor, and evaluator training courses for new aircraft - VCA. Continuous updates to this standard will be necessary to incorporate advancements in VTOL technologies and training methods. This standard describes the knowledge, skills, and attitudes required to safely operate VCA for commercial purposes. A Civil Aviation Authority (CAA) may, at their discretion, use this standard to aid the development of existing or future regulations. OEMs and operators may use this standard to develop a curriculum for acceptance or approval by civil regulators.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard includes a Pilot Training Program developed to address the theoretical and practical training and assessment for VTOL-capable pilot licensing/certification. Additionally, this standard contains the requirements for pilot training and licensing for the operation of VCA with pilots on board or remotely operated (also called off board). The Pilot Training Program will define on-board pilot training requirements and off-board (or remote pilot) training requirements in a parallel effort to ensure OEMs planning to operate without pilots on board the aircraft have a pathway toward pilot certification and licensing. Future standards will address fully autonomous operations of VCA.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Compliance with this document is recommended as one means of assuring the safe operation of VCA under conditions normally encountered in routine aeronautical operations. This standard does not conflict with any regulatory conformity and is not intended to diverge from regulatory policy or guidance.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The scope of this document includes standards for the use of flight simulation training devices (FSTD) in support of pilot training and licensing. This standard is intended to facilitate the development of and define the constraints for the effective use of flight simulation to support, augment, or replace in-aircraft flight training and testing in the demonstration of regulatory compliance while ensuring safe operations. These highly automated aircraft operations support a mission-based and performance-based approach to training and testing because current prescriptive training methodology inadequately addresses the needs of these aircraft and pilots. Pilot skills will differ from traditional airplanes and helicopters and need consideration in training program design. Because these aircraft may not have common characteristics, the need for a comprehensive approach to training and testing will initially support the broad scope of these designs. This training is intended to apply to VCA; however, the approach to training for emerging and advanced technologies can be broadly applied to conventional aircraft that incorporate new technologies. In the future, training programs will incorporate AI and machine learning to analyze pilot performance data, personalize training programs, and predict training needs. These technologies support the enhancement and effectiveness of training by providing real-time feedback and adaptive learning environments.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The existing regulatory framework does not address specific criteria to meet the needs of pilot training for VCA operations. New and amended regulations must be implemented to safely enable future operations of new transportation modalities with pilots on board, off board, and autonomous operations. Initial licensing of pilots will depend on the availability of previously trained, appropriately qualified, and experienced (commercial airplane and/or helicopter licensed) pilots with additional type-specific training to address the unique distinctions of each VCA. These are highly automated, mostly single pilot operations, leading to remotely operated and future autonomous operations. This standard addresses the criteria necessary for existing commercial pilots, ab initio pilots,&lt;span class="xref"&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/span&gt; instructors, examiners, and both on-board and remote pilots who will need to be qualified through training and testing to achieve a type rating in a VCA.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The introduction of new aircraft and new pilot licensing and certification supports a departure from traditional training toward a performance-based, competence-based training methodology. Traditional training is designed to ensure pilot candidates demonstrate the necessary minimum skill, knowledge, and experience to meet the qualification requirements for the license, rating, or privilege. The training methodology described in this standard is designed to ensure pilot candidates possess the required competencies to perform their assigned duties and responsibilities while operating the aircraft safely, efficiently, and effectively. This standard measures competence by evaluating total performance rather than singular tasks.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard describes performance- and competence-based training that:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Enables individuals to reach a level of safe operational capability while ensuring a fundamental level of competence as a minimum standard&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Enables individuals to cope with predictable and unforeseen situations&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Is relevant to the job and the context in which the job will be performed&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Is geared toward retaining and applying learning rather than passing a test&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Makes full use of available training tools and methodologies&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Supports continuous learning and performance improvement&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

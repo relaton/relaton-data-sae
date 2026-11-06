@@ -1,0 +1,56 @@
+---
+id: SAEJ170_199001
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Measurement of Fuel Evaporative Emissions From Gasoline Powered Passenger
+    Cars and Light Trucks By the Trap Method
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j170_199001
+- type: src
+  content: https://saemobilus.sae.org/standards/j170_199001-measurement-fuel-evaporative-emissions-gasoline-powered-passenger-cars-light-trucks-trap-method
+docidentifier:
+- content: SAE J170_199001
+  type: SAE
+  primary: true
+- content: 10.4271/j170_199001
+  type: DOI
+date:
+- type: approved
+  at: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The highly preferred SAE Recommended Practice for measuring evaporative
+    emissions from fuel systems of passenger cars and light trucks is the enclosure
+    technique detailed in SAE J171.  The sensitivity and accuracy of the enclosure
+    technique is superior to that of the trap method.  This recommended practice is
+    retained for historical reference and for use with older vehicles imported into
+    the United States of America.  In addition, this trap method is referenced in
+    SAE J171a for making running loss measurements which cannot practically be made
+    in an enclosure.  Emissions are measured during a sequence of laboratory tests
+    that simulate typical vehicle usage in a metropolitan area during summer months.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEJ193917_202012
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CAN FD Physical Layer, 500 kbps/2 Mbps
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939-17_202012
+- type: src
+  content: https://saemobilus.sae.org/standards/j1939-17_202012-fd-physical-layer-500-kbps-2-mbps
+docidentifier:
+- content: SAE J1939-17_202012
+  type: SAE
+  primary: true
+- content: 10.4271/j1939-17_202012
+  type: DOI
+date:
+- type: approved
+  at: '2020-12-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document defines a physical layer having a high bandwidth capacity utilizing the Flexible Data Rate Frame Format as defined in ISO 11898-1:2015. CAN controllers which support this format and compatible high speed transceivers are required for use on SAE J1939-17 networks.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice is intended for light- and heavy-duty vehicles on- or off-road as well as appropriate stationary applications which use vehicle derived components (e.g., generator sets). Vehicles of interest include but are not limited to: on- and off-highway trucks and their trailers; construction equipment; and agricultural equipment and implements.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

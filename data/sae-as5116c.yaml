@@ -1,0 +1,56 @@
+---
+id: SAEAS5116C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Minimum Operational Performance Specification for Ground Ice Detection
+    Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5116c
+- type: src
+  content: https://saemobilus.sae.org/standards/as5116c-minimum-operational-performance-specification-ground-ice-detection-systems
+docidentifier:
+- content: SAE AS5116C
+  type: SAE
+  primary: true
+- content: 10.4271/as5116c
+  type: DOI
+date:
+- type: approved
+  at: '2007-08-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12HOT Holdover Time Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Aerospace Standard (AS)/Minimum Operational Performance Specification
+    (MOPS) specifies the minimum performance requirements of Ground Ice Detection
+    Systems (GIDS). These systems may be mounted onboard the airplane, or be ground-based.
+    They may provide information for indication and/or control.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

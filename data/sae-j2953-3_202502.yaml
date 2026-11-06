@@ -1,0 +1,59 @@
+---
+id: SAEJ29533_202502
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Plug-in Electric Vehicle Communication Interoperability with Electric Vehicle
+    Supply Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2953/3_202502
+- type: src
+  content: https://saemobilus.sae.org/standards/j29533_202502-plug-electric-vehicle-communication-interoperability-electric-vehicle-supply-equipment
+docidentifier:
+- content: SAE J2953/3_202502
+  type: SAE
+  primary: true
+- content: 10.4271/j2953/3_202502
+  type: DOI
+date:
+- type: approved
+  at: '2025-02-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice summarizes the conformance requirements for digital communication between the PEV and EVSE and establishes the interoperability requirements for successful charging sessions. This first version includes charging conformance summary for both the vehicle and EVSE and updates from CharIN with modifications, additions, and deletions to improve successful charging sessions. The summary of all existing charging/discharging standards, conformance, and functional categories will be updated in subsequent updates, and message/signal/values that would cause an interoperability issue will be clarified as this leads to diagnostic codes the vehicle/EVSE/Charge Point Operator and others can view to let the customer know what specific issue led to a failure to charge or discharge. This additional effort is ongoing and will be expanded in the next version update as this becomes more mature.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

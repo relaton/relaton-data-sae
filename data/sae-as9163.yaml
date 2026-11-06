@@ -1,0 +1,59 @@
+---
+id: SAEAS9163
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Series - Certificate of Conformity Requirements
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9163
+- type: src
+  content: https://saemobilus.sae.org/standards/as9163-aerospace-series-certificate-conformity-requirements
+docidentifier:
+- content: SAE AS9163
+  type: SAE
+  primary: true
+- content: 10.4271/as9163
+  type: DOI
+date:
+- type: approved
+  at: '2022-12-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) provides a harmonized process and documentation requirements for the establishment of CoCs used to attest the conformity of aviation, space, and defense products (e.g., assemblies, sub-assemblies, equipment and systems, parts, material, software) or services. It includes a CoC template and supporting instructions on how to complete it.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;When quoted by the customer in a contractual requirement, application of this document is mandatory. In other cases, its use is recommended, but if there is a conflict between the requirements of this standard and customer or applicable statutory/regulatory requirements, the latter shall take precedence.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;Requirements for the establishment of Authorized Release Certificates (ARCs)—e.g., European Union Aviation Safety Agency (EASA) Form 1, Federal Aviation Administration (FAA) 8130-3 tag, Civil Aviation Administration of China (CAAC) Form 038—by an external provider holding a production approval (for new aviation products, production, or spares) or maintenance approval (i.e., for in service repairs, modifications, after sales maintenance, overhaul activities, inspections) are not covered by this standard, as applicable rules are defined by the aviation authorities having granted these approvals.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

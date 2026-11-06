@@ -1,0 +1,57 @@
+---
+id: SAEARP4056
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ENGINE EXHAUST SYSTEM DESIGN CONSIDERATIONS FOR ROTORCRAFT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4056
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4056-engine-exhaust-system-design-considerations-rotorcraft
+docidentifier:
+- content: SAE ARP4056
+  type: SAE
+  primary: true
+- content: 10.4271/arp4056
+  type: DOI
+date:
+- type: approved
+  at: '2021-03-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-12 Powered Lift Propulsion Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Turbine engines installed in rotorcraft have an exhaust system that is designed and produced by the aircraft manufacturer. The primary function of the exhaust system is to direct hot exhaust gases away from the airframe. The exhaust system may consist of a tailpipe, which is attached to the engine, and an exhaust fairing, which is part of the rotorcraft. The engine manufacturer specifies a baseline "referee" tailpipe design, and guaranteed engine performance is based upon the use of the referee tailpipe and tailpipe exit diameter. The configuration used on the rotocraft may differ from the referee tailpipe, but it is intended to minimize additional losses attributed to the installation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice (ARP) describes the physical, functional, and performance interfaces to be considered in the design of the aircraft exhaust system.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,68 @@
+---
+id: SAEAIR8469
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Skin Pressures and Temperatures
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air8469
+- type: src
+  content: https://saemobilus.sae.org/standards/air8469-aircraft-skin-pressures-temperatures
+docidentifier:
+- content: SAE AIR8469
+  type: SAE
+  primary: true
+- content: 10.4271/air8469
+  type: DOI
+date:
+- type: approved
+  at: '2025-12-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12M Methods Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This information report covers all known aircraft with respect to deicing operations, especially with regard to OEM pressure and temperature limitations on the airframe. It provides data for airlines/operators on compliance with OEM limits and confirms that OEM limits are not exceeded during deicing operations.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

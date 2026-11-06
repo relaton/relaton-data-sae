@@ -1,0 +1,57 @@
+---
+id: SAEARP6833
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Optical Simulation and Analysis for Aircraft Lighting
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6833
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6833-optical-simulation-analysis-aircraft-lighting
+docidentifier:
+- content: SAE ARP6833
+  type: SAE
+  primary: true
+- content: 10.4271/arp6833
+  type: DOI
+date:
+- type: approved
+  at: '2022-06-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20B Exterior Lighting Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document contains guidance for designers, specifiers, regulatory personnel, purchasers, managers, and others who specify or use optical simulations of aircraft lights. All aircraft lighting will be considered interior, flight deck, and exterior lighting. Guidance on standard methods of analysis and presentation of data will be provided. Although this document concentrates on lighting, many of the principles covered will be helpful in other types of optical simulation, such as for displays, non-visible radiation, etc.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

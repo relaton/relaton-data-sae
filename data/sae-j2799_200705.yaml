@@ -1,0 +1,61 @@
+---
+id: SAEJ2799_200705
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 70 MPa Compressed Hydrogen Surface Vehicle Fueling Connection Device and
+    Optional Vehicle to Station Communications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2799_200705
+- type: src
+  content: https://saemobilus.sae.org/standards/j2799_200705-70-mpa-compressed-hydrogen-surface-vehicle-fueling-connection-device-optional-vehicle-station-communications
+docidentifier:
+- content: SAE J2799_200705
+  type: SAE
+  primary: true
+- content: 10.4271/j2799_200705
+  type: DOI
+date:
+- type: approved
+  at: '2007-05-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Cell Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This technical information report specifies a guideline for the hardware requirements for fueling a Hydrogen Surface Vehicle (HSV) with compressed hydrogen storage rated at a Nominal Working Pressure of 70 MPa. It contains a description of the receptacle geometry and optional communication hardware and communications protocol to refuel the HSV. The intent of this document is to enable harmonized development and implementation of the hydrogen fueling interfaces.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is intended to be utilized for hydrogen vehicle field evaluations until enough information is collected to enable standardization. The receptacle portion of this document is to be reevaluated utilizing international field data in approximately two (2) years and subsequently superseded by SAE J2600 in the 2009 timeframe. At that time, input would be gathered from international locations through representation in the SAE Fuel Cell Standards Committee in order to arrive at a final decision regarding the direction of the receptacle and communications standard.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The communications portion of this document is also to be reevaluated utilizing international field data and subsequently superseded by SAE J2601. It is anticipated that the communications protocol and hardware could be standardized before the above mentioned timeframe.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is not the intent of this document to imply a position regarding the commercial fueling protocol, communication, or non-communication strategy, but simply serves as a reference for the receptacle hardware and IRDA communications if this strategy is selected. In addition, it is not intended be referenced by other Standard and/or Code organizations.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,48 @@
+---
+id: SAEARIC7582
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: COMMUNICATIONS MANAGEMENT UNIT (CMU) MARK 2
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/aric758-2
+- type: src
+  content: http://www.sae.org/content/aric758-2
+docidentifier:
+- content: SAE ARIC758-2
+  type: SAE
+  primary: true
+- content: 10.4271/aric758-2
+  type: DOI
+date:
+- type: approved
+  at: 2005-07
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ARINC IA
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

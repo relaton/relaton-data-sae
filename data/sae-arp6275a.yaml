@@ -1,0 +1,59 @@
+---
+id: SAEARP6275A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Determination of Costs and Benefits from Implementing an Integrated Vehicle
+    Health Management System
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6275a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6275a-determination-costs-benefits-implementing-integrated-vehicle-health-management-system
+docidentifier:
+- content: SAE ARP6275A
+  type: SAE
+  primary: true
+- content: 10.4271/arp6275a
+  type: DOI
+date:
+- type: approved
+  at: '2021-02-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: HM-1 Integrated Vehicle Health Management Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice (ARP) provides insights on how to perform a cost versus benefit (C/B) analysis (CBA) to determine the return on investment that would result from implementing an integrated health management (HM) system on an air vehicle. The word “integrated” refers to the combination or “roll up” of sub-systems health management tools to create a platform-centric system. This document describes the complexity of features that can be considered in the analysis and the different tools and approaches for conducting a CBA, and it differentiates between military and commercial applications. This document is intended to help those who might not have a deep technical understanding or familiarity with HM systems but want to either quantify or understand the economic benefits (i.e., the value proposition) that an HM system could provide. Prognostics is a capability within some HM systems that provides an estimation of remaining useful life (RUL) or time to failure and so prognostic health management (PHM) is used where this predictive element exists. IVHM refers to an integrated vehicle level system deployed on a fleet of platforms and might, but not necessarily, include predictive elements.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,74 @@
+---
+id: SAEARP1384E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Passenger Safety Information System
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1384e
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1384e-passenger-safety-information-system
+docidentifier:
+- content: SAE ARP1384E
+  type: SAE
+  primary: true
+- content: 10.4271/arp1384e
+  type: DOI
+date:
+- type: approved
+  at: '2023-06-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-9B Cabin Interiors and Furnishings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;These recommendations are to aid the international air transport industry by identifying a standard, minimum amount of safety instructions and procedures that should be provided in the PSIS. Aircraft operators are encouraged to customize the PSIS to their own operations. This document also provides recommendations for:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Passenger safety information briefings and associated materials,&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Demonstration emergency equipment,&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Ensuring passenger suitability for those seated in exit seats,&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The standardization of safety briefings for passengers seated at exits who may be responsible for opening exits on transport aircraft during an emergency, and&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A standardized protective brace position to reduce the severity of injury during severe turbulence, rapid deceleration, or a sudden impact.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;In addition, these recommendations pertain to briefings on aircraft on which the cabin crew would conduct the exit seat briefing, and to briefings on aircraft without cabin crew, on which pilots would conduct the briefing.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

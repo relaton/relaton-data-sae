@@ -1,0 +1,73 @@
+---
+id: SAEAS8054
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AIRBORNE ENGINE VIBRATION MONITORING (EVM) SYSTEM, GUIDELINES FOR PERFORMANCE
+    STANDARD FOR
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8054
+- type: src
+  content: https://saemobilus.sae.org/standards/as8054-airborne-engine-vibration-monitoring-evm-system-guidelines-performance-standard
+docidentifier:
+- content: SAE AS8054
+  type: SAE
+  primary: true
+- content: 10.4271/as8054
+  type: DOI
+date:
+- type: approved
+  at: '2005-10-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) provides guidelines for the functional, performance, qualification and acceptance testing, and documentation requirements for the components of an airborne engine vibration monitoring (EVM) system which is intended for use as a turbojet engine rotor unbalance indicating system, per FAR 25.1305 (D)(3) on transport category airplanes.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For the purpose of this document, this means a system which can provide real-time flight deck displays of engine vibration caused by rotor unbalance, throughout the flight envelope, which are suitable for:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Relating to engine vibration limits (where such limits are specified)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Use in ice shedding procedures&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Helping the flight crew to determine which engine has the higher level of vibration, following an engine damage event.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;As a minimum, the functional capability for such a system shall include the ability to compute and display vibration levels specifically related to the rotational speed(s) of the engine rotor(s). Systems which can produce only broadband vibration outputs have been used in the past but they are not considered suitable for the above purposes. Some EVM systems may also generate other outputs, suitable for such functions as engine vibration trend monitoring or trim balance calculation, but these are considered to be outside the scope of the requirements for a minimum system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document also defines some recommended, optional, functions and features which, while they are outside the scope of minimum requirements, are nevertheless considered to be highly desirable for a practical system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It should be noted that systems incorporating capabilities such as described above are also sometimes referred to by the abbreviation AVM. However, there are, or can be, airborne measurements taken of vibrations from sources other than the engines.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For the purpose of this document the more descriptive term, engine vibration monitor (EVM), will be used.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

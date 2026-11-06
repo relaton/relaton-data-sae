@@ -1,0 +1,48 @@
+---
+id: SAEAS623C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HOSE ASSEMBLY, 3000 psi, PTFE, FLARELESS, STRAIGHT TO 90°, HEAVYWEIGHT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as623c
+- type: src
+  content: https://saemobilus.sae.org/standards/as623c-hose-assembly-3000-psi-ptfe-flareless-straight-90-heavyweight
+docidentifier:
+- content: SAE AS623C
+  type: SAE
+  primary: true
+- content: 10.4271/as623c
+  type: DOI
+date:
+- type: approved
+  at: '2013-01-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

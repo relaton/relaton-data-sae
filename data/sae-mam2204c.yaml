@@ -1,0 +1,59 @@
+---
+id: SAEMAM2204C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Tolerances, Metric, Aluminum Alloy Standard Structural Shapes
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/mam2204c
+- type: src
+  content: https://saemobilus.sae.org/standards/mam2204c-tolerances-metric-aluminum-alloy-standard-structural-shapes
+docidentifier:
+- content: SAE MAM2204C
+  type: SAE
+  primary: true
+- content: 10.4271/mam2204c
+  type: DOI
+date:
+- type: approved
+  at: '1996-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers established metric manufacturing tolerances
+    applicable to aluminum alloy standard structural shapes ordered to metric  dimensions.
+    \ Standard structural shapes are shapes in certain standard alloys, tempers, sizes,
+    and sections such as angles, channels, Tees,  Zees, I-Beams, and H-Beams commonly
+    used for structural purposes. These  tolerances apply to all conditions, unless
+    otherwise noted. This specification has been declared 'NONCURRENT' by the Aerospace
+    \ Materials Division, SAE, as of September 1994.  It is recommended,  therefore,
+    that this specification not be specified for new designs.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

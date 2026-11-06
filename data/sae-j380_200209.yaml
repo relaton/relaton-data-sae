@@ -1,0 +1,58 @@
+---
+id: SAEJ380_200209
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Specific Gravity of Friction Material
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j380_200209
+- type: src
+  content: https://saemobilus.sae.org/standards/j380_200209-specific-gravity-friction-material
+docidentifier:
+- content: SAE J380_200209
+  type: SAE
+  primary: true
+- content: 10.4271/j380_200209
+  type: DOI
+date:
+- type: approved
+  at: '2002-09-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Brake Linings Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Specific gravity is a nondestructive test used as a quality control check of the consistency of formulation and processing of brake lining. The specific gravity and the range of specific gravity are peculiar to each formulation and, therefore, the acceptable values or range must be established for each formulation by the manufacturer. Specific gravity alone shows nothing about a materials in use performance.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The specific gravity of sintered metal powder friction materials, particularly those which have steel backing members, is usually determined somewhat differently. Reference ASTM B 376.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

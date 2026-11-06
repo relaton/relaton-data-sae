@@ -1,0 +1,73 @@
+---
+id: SAEJ2044_200209
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Quick Connect Coupling Specification for Liquid Fuel and Vapor/Emissions
+    Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2044_200209
+- type: src
+  content: https://saemobilus.sae.org/standards/j2044_200209-quick-connect-coupling-specification-liquid-fuel-vapor-emissions-systems
+docidentifier:
+- content: SAE J2044_200209
+  type: SAE
+  primary: true
+- content: 10.4271/j2044_200209
+  type: DOI
+date:
+- type: approved
+  at: '2002-09-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice defines standard tube end form dimensions so as to guarantee interchangeability between all connector designs of the same size and the standard end form. This document also defines the minimum functional requirements for quick connect couplings between flexible tubing or hose and rigid tubing or tubular fittings used in supply, return, and vapor/emissions in fuel systems. This document applies to automotive and light truck applications under the following conditions:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Gasoline and diesel fuel delivery systems or their vapor venting or evaporative emission control systems.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Operating pressure up to 500 kPa, 5 bar, (72 psig).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Operating vacuum down to –50 kPa, –0.5 bar (–7.2 psi).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Operating temperatures from –40 °C (–40 °F) to 115 °C (239 °F).&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;Quick connect couplings function by joining the connector to a mating tube end form then pulling back to assure a complete connection. The requirements stated in this document apply to new connectors in assembly operations unless otherwise indicated. For service operations, the mating tube should be lubricated with SAE 30-weight oil before re-connecting.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;Vehicle OEM fuel system specifications may impose additional requirements beyond the scope of this general SAE document. In those cases, the OEM specification takes precedence over this document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

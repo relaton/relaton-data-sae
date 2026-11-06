@@ -1,0 +1,67 @@
+---
+id: SAEJ245_197104
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ENGINE RATING CODE — SPARK IGNITION
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j245_197104
+- type: src
+  content: https://saemobilus.sae.org/standards/j245_197104-engine-rating-code-spark-ignition
+docidentifier:
+- content: SAE J245_197104
+  type: SAE
+  primary: true
+- content: 10.4271/j245_197104
+  type: DOI
+date:
+- type: approved
+  at: '1971-04-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+    &lt;div class="htmlview paragraph"&gt;This code specifies the conditions of testing and engine configuration which must be satisfied in order to qualify for the designation “SAE net” horsepower or “SAE gross” horsepower or in any way to indicate power capability conforming to SAE standards or requirements. It is applicable to all types of spark ignition engines except turbo-charged spark ignition engines for which definitive power correction data are lacking. This code is not intended as a complete laboratory test manual or for derating engines for altitude.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This code is composed of the following sections:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Definitions of Terminology&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Test Equipment Requirements&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Test Procedures&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;4&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Computation&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;5&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Presentation of Results&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

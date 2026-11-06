@@ -1,0 +1,58 @@
+---
+id: SAEJ2313_199909
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: On-Board Land Vehicle Mayday Reporting Interface
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2313_199909
+- type: src
+  content: https://saemobilus.sae.org/standards/j2313_199909-board-land-vehicle-mayday-reporting-interface
+docidentifier:
+- content: SAE J2313_199909
+  type: SAE
+  primary: true
+- content: 10.4271/j2313_199909
+  type: DOI
+date:
+- type: approved
+  at: '1999-09-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ITS Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard describes the interface between an on-vehicle Mayday detection, reporting system and the off-vehicle response center that will manage the response to the vehicle's call for assistance. The automatic detection and reporting by either the intelligent vehicle itself or by the intelligent roadway of a vehicle that is disabled or involved in an accident, [referred to as Automatic Mayday], is one of the key services identified by the ITS America program plan road map. This effort has been identified, as STD SAE J2313 in recent DOT-FHWA efforts to advance needed National standards.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document primarily addresses the responsibilities of a vehicle in detecting and reporting such an event. Equipment suites on each vehicle will vary widely, as will the communications channel employed to report the incident. This document proscribes a basic methodology to uniformly incorporate whatever level of data reporting the vehicle supports (containing information about both the vehicle condition and any occupant data), and transmits this data to the response management agency in a Nationally standardized format, regardless of the transmission media used to effect the communications.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document has been developed by the SAE ITS In-Vehicle Systems Interfaces Committee (IVSIC) in conjunction with its members, private industry, and various public safety and response agencies at both the State and Federal level. The messages developed here will form a portion of the ITS message list which is being compiled by the SAE ITS ATIS under the SAE J2354 effort and which will be used as the US submission to the ISO TC-204 effort to develop worldwide standards in this area.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

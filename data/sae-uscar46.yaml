@@ -1,0 +1,68 @@
+---
+id: SAEUSCAR46
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ENGINE OIL PUMP PERFORMANCE AND DURABILITY TEST PROCEDURES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar46
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar46-engine-oil-pump-performance-durability-test-procedures
+docidentifier:
+- content: SAE USCAR-46
+  type: SAE
+  primary: true
+- content: 10.4271/uscar46
+  type: DOI
+date:
+- type: approved
+  at: '2023-03-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE/USCAR-46 defines test methods and outputs for engine oil pump bench testing. Performance and durability testing are the primary focus of this standard. This is written to specifically address testing of electronically controlled variable displacement pumps but can be adapted to mechanically controlled pumps and other pump technologies as needed. This standard outlines critical inputs and outputs in order to perform the testing and report results, but does not specifically set the acceptance standards or pass/fail criteria. Acceptance criteria must be set by the customer.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

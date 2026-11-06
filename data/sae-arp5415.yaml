@@ -1,0 +1,58 @@
+---
+id: SAEARP5415
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: User’s Manual for Certification of Aircraft Electrical/Electronic Systems
+    for the Indirect Effects of Lightning
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5415
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5415-users-manual-certification-aircraft-electrical-electronic-systems-indirect-effects-lightning
+docidentifier:
+- content: SAE ARP5415
+  type: SAE
+  primary: true
+- content: 10.4271/arp5415
+  type: DOI
+date:
+- type: approved
+  at: '2001-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-2 Lightning Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This user's manual provides additional information and references relevant to identifying: (1) acceptance criteria for the indirect effects of lightning compliance approaches, (2) verification (analysis and test) methods including those associated with multiple stroke and multiple burst and (3) recommended design options to optimize needed system immunity to lightning indirect effects. Equipment hazards addressed include those due to the indirect effects on equipment mounted on the aircraft exterior and equipment located within the aircraft interior as well as all associated interconnecting wiring. This document has specific application toward those topics and subsystems addressed in ARP5413 but also provides additional guidelines in the application of those tests identified in DO-160/ED-14, Section 22.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

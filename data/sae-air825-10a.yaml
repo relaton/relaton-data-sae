@@ -1,0 +1,58 @@
+---
+id: SAEAIR82510A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Protective Breathing Equipment for Flight Deck and Cabin Crew Members
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air825/10a
+- type: src
+  content: https://saemobilus.sae.org/standards/air82510a-protective-breathing-equipment-flight-deck-cabin-crew-members
+docidentifier:
+- content: SAE AIR825/10A
+  type: SAE
+  primary: true
+- content: 10.4271/air825/10a
+  type: DOI
+date:
+- type: approved
+  at: '2023-01-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides general information to aircraft engineers, regarding the types of Protective Breathing Equipment (PBE) configurations which are available, the intended functions of such equipment, and the technical approaches which may be used in accomplishing these functions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The term "PBE" or "Protective Breathing Equipment" has been used to refer to various types of equipment, which are used in a variety of applications. This way of using the terminology has been a source of confusion in the aviation industry. One objective of this AIR is to assist the reader in distinguishing between the types of PBE applications. A further objective is to assist in understanding the technical approaches which can be used in each of the major applications.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Principles of PBE design are reviewed briefly. However, discussion of specific performance specifications and information regarding the details of manufacture and testing of such equipment is beyond the scope of this document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

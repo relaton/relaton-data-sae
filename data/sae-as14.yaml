@@ -1,0 +1,54 @@
+---
+id: SAEAS14
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Magnetos, Aircraft, Installation Of
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as14
+- type: src
+  content: https://saemobilus.sae.org/standards/as14-magnetos-aircraft-installation
+docidentifier:
+- content: SAE AS14
+  type: SAE
+  primary: true
+- content: 10.4271/as14
+  type: DOI
+date:
+- type: approved
+  at: '1991-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-30 Propulsion Ignition Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This Aerospace Standard establishes the diameter - pitch combinations
+    of ISO metric 60 screw threads recommended for use in the aerospace industry for
+    metric module shaft of bearing retaining screw threads.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

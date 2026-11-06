@@ -1,0 +1,74 @@
+---
+id: SAEGEIASTD0002_1A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Qualified Electronic Component (AQEC) Requirements, Volume 1
+    - Integrated Circuits and Semiconductors
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/geiastd0002_1a
+- type: src
+  content: https://saemobilus.sae.org/standards/geiastd0002_1a-aerospace-qualified-electronic-component-aqec-requirements-volume-1-integrated-circuits-semiconductors
+docidentifier:
+- content: SAE GEIA-STD-0002-1A
+  type: SAE
+  primary: true
+- content: 10.4271/geiastd0002_1a
+  type: DOI
+date:
+- type: approved
+  at: '2015-03-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: APMC Avionics Process Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Standard applies to integrated circuits and semiconductors exhibiting the following attributes:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A minimum set of requirements, or information provided by the part manufacturer, which will allow a standard COTS component to be designated AQEC by the manufacturer.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;As a minimum, each COTS component (designated AQEC) will have been designed, fabricated, assembled, and tested in accordance with the component manufacturer’s requirements for standard data book components.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Qualification of, and quality systems for, the COTS components to be designated as AQEC shall include the manufacturer’s standards, operating procedures, and technical specifications.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Components manufactured before the manufacturer has addressed AQEC requirements, but utilizing the same processes, are also considered AQEC compliant.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Additional desired attributes of a device designated AQEC (that will support AQEC users) are found in &lt;span class="xref"&gt;Appendix B&lt;/span&gt; of this standard.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: Parts qualified to military specifications (except those identified as being for “logistic support purposes only” and/or having expressed limitations on their airborne use) are considered AQEC; the remainder of this standard only addresses non-military specification parts.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

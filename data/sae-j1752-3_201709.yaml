@@ -1,0 +1,59 @@
+---
+id: SAEJ17523_201709
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Measurement of Radiated Emissions from Integrated Circuits—TEM/Wideband
+    TEM (GTEM) Cell Method; TEM Cell (150 kHz to 1 GHz), Wideband TEM Cell (150 kHz
+    to 8 GHz)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1752/3_201709
+- type: src
+  content: https://saemobilus.sae.org/standards/j17523_201709-measurement-radiated-emissions-integrated-circuits-tem-wideband-tem-gtem-cell-method-tem-cell-150-khz-1-ghz-wideband-tem-cell-150-khz-8-ghz
+docidentifier:
+- content: SAE J1752/3_201709
+  type: SAE
+  primary: true
+- content: 10.4271/j1752/3_201709
+  type: DOI
+date:
+- type: approved
+  at: '2017-09-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This measurement procedure defines a method for measuring the electromagnetic radiation from an integrated circuit (IC). The IC being evaluated is mounted on an IC test printed circuit board (PCB) that is clamped to a mating port (referred to as a wall port) cut in the top or bottom of a TEM or wideband TEM (GTEM) cell. &lt;b&gt;The test board is not in the cell as in the conventional usage but becomes a part of the cell wall.&lt;/b&gt; This method is applicable to any TEM or GTEM cell modified to incorporate the wall port; however, the measured RF voltage is affected by the septum to test board (wall) spacing. This procedure was developed using a 1 GHz TEM cell with a septum to wall spacing of 45 mm and a GTEM cell with average septum to wall spacing of 45 mm over the port area. Other cells may not produce identical spectral output but may be used for comparative measurements, subject to their frequency and sensitivity limitations. A conversion factor may allow comparisons between data measured on TEM or GTEM cells with different septum to wall spacing. The IC test board controls the geometry and orientation of the operating IC relative to the cell and eliminates any connecting leads within the cell (these are on the backside of the board, which is outside the cell). For the TEM cell, one of the 50 Ω ports is terminated with a 50 Ω load. The other 50 Ω port for a TEM cell, or the single 50 Ω port for a GTEM cell, is connected to the input of a spectrum analyzer or receiver that measures the RF emissions emanating from the IC and coupled onto the septum of the TEM cell.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

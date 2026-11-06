@@ -1,0 +1,79 @@
+---
+id: SAEARP6137A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Functional, Performance, and Safety Guidelines for Tire Pressure Monitoring
+    Systems (TPMS) for Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6137a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6137a-functional-performance-safety-guidelines-tire-pressure-monitoring-systems-tpms-aircraft
+docidentifier:
+- content: SAE ARP6137A
+  type: SAE
+  primary: true
+- content: 10.4271/arp6137a
+  type: DOI
+date:
+- type: approved
+  at: '2026-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5 Aerospace Landing Gear Systems Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) establishes the overall component and system function guidelines and minimum performance levels for a TPMS. These guidelines include, but are not limited to:&lt;/div&gt;
+    &lt;ul class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Design recommendations for system components, which:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Monitor tire inflation&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Are located in/on the tire/wheel assembly, landing gear axle, and/or aircraft avionics compartment&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Recommended performance and safety guidelines for a TPMS.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

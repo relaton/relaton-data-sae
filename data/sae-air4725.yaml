@@ -1,0 +1,57 @@
+---
+id: SAEAIR4725
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: LONG-TERM STORAGE RELIABILITY OF HIGH PRESSURE GAS CONTAINERS FOR PNEUMATIC
+    ACTUATION SYSTEMS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4725
+- type: src
+  content: https://saemobilus.sae.org/standards/air4725-long-term-storage-reliability-high-pressure-gas-containers-pneumatic-actuation-systems
+docidentifier:
+- content: SAE AIR4725
+  type: SAE
+  primary: true
+- content: 10.4271/air4725
+  type: DOI
+date:
+- type: approved
+  at: '1994-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A2 Military Aircraft Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides design data reliability information relative to the long-term storage of gas containers or pressure vessels charged with nitrogen or helium at pressures ranging from 6000 to 12 000 psi. The gas containers are cylindrical, spherical, or toroidal in shape. Internal volumes range up to 1385 in&lt;sup&gt;3&lt;/sup&gt;. Applications for this type cold gas actuation system include tactical missiles, guided projectiles, and smart bombs. A typical system is described.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEAS5751
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Design and Operating Requirements of the Onboard Aircraft Refueling System
+    and Associated Ground Refueling Equipment Interface
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5751
+- type: src
+  content: https://saemobilus.sae.org/standards/as5751-design-operating-requirements-onboard-aircraft-refueling-system-associated-ground-refueling-equipment-interface
+docidentifier:
+- content: SAE AS5751
+  type: SAE
+  primary: true
+- content: 10.4271/as5751
+  type: DOI
+date:
+- type: approved
+  at: '2023-10-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5A Aerospace Fuel, Inerting and Lubrication Sys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Specification (AS) is applicable to all aircraft.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This AS defines the minimum design and operating requirements for the aircraft refueling interface. These requirements establish the minimum criteria for the aircraft design that provides practical standardized refueling system requirements, provides minimum standardized criteria for the operation and performance of any aircraft refueling equipment, and establishes an integrated minimum performance for aircraft refueling operations. This standardization provides the minimum design criteria to assure full compatibility between the aircraft refueling system connection point(s), aircraft operating characteristics, and the design and operation of ground based aircraft refueling equipment in all steady state and dynamic refueling and defueling conditions. The criteria that shall be used to test the operation and performance of the aircraft refueling system and equipment are also specified. Compliance to this AS shall be deemed to mean that the aircraft or aircraft refueling equipment are in compliance with this standard when the refueling system is tested as per the test requirements specified in ARP5918 (mobile systems).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document covers all types of ground aircraft refueling operations using stationary refueling equipment (e.g., cabinet type units) and mobile refueling vehicles (e.g., hydrant service vehicles, tankers, towable carts, etc.), to fuel aircraft with jet fuel that meets ASTM D1655, ASTM D6615, or DEF-STD-91-91 (including those fuels with synthetic blending components conforming to ASTM D7566). This document also covers fueling with other commercially available and approved fuels such as Gost TS-1 and Chinese jet fuel No. 3. Fuel quality control as detailed in A4A (Airlines for America) Specification 103 and/or EI 1530 is expected to be applied. In addition, the following military standards are also pertinent and referenced: MIL-DTL-5624 or MIL-DTL-83133 listed herein.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

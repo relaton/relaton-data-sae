@@ -1,0 +1,70 @@
+---
+id: SAEJ16995_202607
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Vehicle OBD II Compliance Test Cases for SAE J1979-2/J1979-3
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1699/5_202607
+- type: src
+  content: https://saemobilus.sae.org/standards/j16995_202607-vehicle-obd-ii-compliance-test-cases-sae-j1979-2-j1979-3
+docidentifier:
+- content: SAE J1699/5_202607
+  type: SAE
+  primary: true
+- content: 10.4271/j1699/5_202607
+  type: DOI
+date:
+- type: approved
+  at: '2026-07-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The primary objective of this recommended practice is to confirm that vehicles can communicate a minimum set of information in accordance with diagnostic test services specified in SAE J1979-2, or the equivalent ISO 14229-1:2013 (Ed. 2) and SAE J1979-3 documents. A successful result using the SAE J1699-5 Automotive Alliance for Innovation (AAI) software for OBD-II testing indicates that the main aspects of UDS communication have been examined, but it does not provide assurance of complete compliance with all aspects of SAE J1979-2 or SAE J1979-3.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J1699-5 tests run with a SAE J2534 device hardware and API that is not fully compliant will result in a test failure.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This specification takes precedence over all conflicts in the documents cited in this section.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

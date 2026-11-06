@@ -1,0 +1,58 @@
+---
+id: SAEJ2044_199712
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Quick Connector Specification for Liquid Fuel and Vapor/Emissions Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2044_199712
+- type: src
+  content: https://saemobilus.sae.org/standards/j2044_199712-quick-connector-specification-liquid-fuel-vapor-emissions-systems
+docidentifier:
+- content: SAE J2044_199712
+  type: SAE
+  primary: true
+- content: 10.4271/j2044_199712
+  type: DOI
+date:
+- type: approved
+  at: '1997-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice defines the minimum functional requirements for quick connectors used in supply, return, and vapor/emissions lines for flexible-tubing systems. This document applies to automotive and light truck gasoline and diesel fuel systems with operating pressure or vacuum up to 500 kPa, 5 bar, (72 psig) and operating temperatures up to 115 °C (239 °F). These tests apply to new connectors in assembly operations. Connectors must be pushed onto a mating tube end then pulled back to assure complete connection. For service operations, the mating tube should be lubricated with SAE 30 weight oil before re-connecting.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;Vehicle OEM fuel system specifications may impose additional requirements beyond the scope of this general SAE document. In those cases, the OEM specification takes precedence over this document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

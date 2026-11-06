@@ -1,0 +1,59 @@
+---
+id: SAEAS4111
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Validation Test Plan for the Digital Time Division Command/Response Multiplex
+    Data Bus Remote Terminals
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4111
+- type: src
+  content: https://saemobilus.sae.org/standards/as4111-validation-test-plan-digital-time-division-command-response-multiplex-data-bus-remote-terminals
+docidentifier:
+- content: SAE AS4111
+  type: SAE
+  primary: true
+- content: 10.4271/as4111
+  type: DOI
+date:
+- type: approved
+  at: '2011-11-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) contains a sample test plan for AS15531 or MIL-STD-1553B Remote Terminals (RT) that may serve several different purposes. This document is intended to be contractually binding when specifically called out in a specification, Statement of Work (SOW), or when required by a Data Item Description (DID). Any and all contractor changes, alterations, or testing deviations to this section shall be separately listed for easy review.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

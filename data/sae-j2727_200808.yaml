@@ -1,0 +1,57 @@
+---
+id: SAEJ2727_200808
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HFC-134a Mobile Air Conditioning System Refrigerant Emission Chart
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2727_200808
+- type: src
+  content: https://saemobilus.sae.org/standards/j2727_200808-hfc-134a-mobile-air-conditioning-system-refrigerant-emission-chart
+docidentifier:
+- content: SAE J2727_200808
+  type: SAE
+  primary: true
+- content: 10.4271/j2727_200808
+  type: DOI
+date:
+- type: approved
+  at: '2008-08-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Interior Climate Control Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The original SAE J2727 “Emission Chart” provided a rating system for comparing mobile A/C systems and was not intended to define mobile A/C system refrigerant emission. It had been developed from industry experience of expected system refrigerant emission based upon currently available technologies.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The “System Emissions Chart” contained in this revision is intended to serve as a means of estimating the annual refrigerant emissions rate (grams per year) from new production A/C systems equipped with specified component technologies. It provides emission values for various component technologies that are currently available, and can be expanded as new technologies are commercialized. This document provides the information to develop an Excel file template “System Emissions Chart” for system emission analysis. The chart includes automotive compressor technologies for conventional mobile air conditioning systems as well as those using semi-hermetic compressors. This standard can be considered a companion document to SAE J2763 Test Procedure for Determining Refrigerant Emissions from Mobile Air Conditioning Systems. SAE J2727 estimates system emissions, taking into account production assembly variation. SAE J2763 may be used to quantify emissions from properly assembled systems.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

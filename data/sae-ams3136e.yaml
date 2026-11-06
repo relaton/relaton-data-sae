@@ -1,0 +1,57 @@
+---
+id: SAEAMS3136E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Coating Material, Phenolic Resin, PTFE Filled Pigmented, 150 °C (302 °F)
+    Cure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3136e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3136e-coating-material-phenolic-resin-ptfe-filled-pigmented-150-c-302-f-cure
+docidentifier:
+- content: SAE AMS3136E
+  type: SAE
+  primary: true
+- content: 10.4271/ams3136e
+  type: DOI
+date:
+- type: approved
+  at: '2005-05-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P Polymeric Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a pigmented phenolic-resin-base coating material, filled with polytetrafluoroethylene (PTFE), supplied in kit form.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

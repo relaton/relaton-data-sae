@@ -1,0 +1,48 @@
+---
+id: SAEAMS5686
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL WIRE, CORROSION RESISTANT Rivet Wire 18 Chromium, 10 Nickel (Annealed)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5686
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5686-steel-wire-corrosion-resistant-rivet-wire-18-chromium-10-nickel-annealed
+docidentifier:
+- content: SAE AMS5686
+  type: SAE
+  primary: true
+- content: 10.4271/ams5686
+  type: DOI
+date:
+- type: approved
+  at: '1945-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

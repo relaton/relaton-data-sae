@@ -1,0 +1,58 @@
+---
+id: SAEAS5726
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Interface Standard, Interface for Micro Munitions
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5726
+- type: src
+  content: https://saemobilus.sae.org/standards/as5726-interface-standard-interface-micro-munitions
+docidentifier:
+- content: SAE AS5726
+  type: SAE
+  primary: true
+- content: 10.4271/as5726
+  type: DOI
+date:
+- type: approved
+  at: '2009-12-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1B Aircraft Store Integration Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard only defines interconnect, electrical and logical (functional) requirements for the interface between a Micro Munition and the Host. The physical and mechanical interface between the Micro Munition and Host is undefined. Individual programs will define the relevant requirements for physical and mechanical interfaces in the Interface Control Document (ICD) or system specifications. It is acknowledged that this does not guarantee full interoperability of Interface for Micro Munitions (IMM) interfaces until further standardization is achieved.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

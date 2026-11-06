@@ -1,0 +1,57 @@
+---
+id: SAEAMS4229H
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy Castings, High Strength, 4.5Cu - 0.70Ag - 0.30Mn - 0.25Mg
+    - 0.25Ti (A201.0-T7), Solution Heat Treated and Overaged
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4229h
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4229h-aluminum-alloy-castings-high-strength-45cu-070ag-030mn-025mg-025ti-a2010-t7-solution-heat-treated-overaged
+docidentifier:
+- content: SAE AMS4229H
+  type: SAE
+  primary: true
+- content: 10.4271/ams4229h
+  type: DOI
+date:
+- type: approved
+  at: '2025-09-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of sand, permanent mold, and composite mold castings with nominal wall thickness up to 1.0 inch (25 mm) or nominal weight up to 50 pounds (23 kg) (see &lt;span class="xref"&gt;8.2&lt;/span&gt; and &lt;span class="xref"&gt;8.8&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

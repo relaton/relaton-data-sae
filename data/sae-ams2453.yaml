@@ -1,0 +1,58 @@
+---
+id: SAEAMS2453
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Low Stress Grinding of Steel Parts Heat Treated to 180 ksi or Over, and
+    Low Stress Grinding of Chrome Plating Applied to Steel Parts Heat Treated to 180
+    ksi or Over
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2453
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2453-low-stress-grinding-steel-parts-heat-treated-180-ksi-over-low-stress-grinding-chrome-plating-applied-steel-parts-heat-treated-180-ksi
+docidentifier:
+- content: SAE AMS2453
+  type: SAE
+  primary: true
+- content: 10.4271/ams2453
+  type: DOI
+date:
+- type: approved
+  at: '2020-09-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this specification is to establish requirements of a grinding method and to provide grinding parameters that will eliminate or minimize overheating, cracking, high residual tensile stresses, and/or other metallurgical changes that decrease structural integrity of steel parts or chrome plated steel parts (See &lt;span class="xref"&gt;8.2&lt;/span&gt;). This standard establishes requirements for low stress grinding of martensitic high strength steel heat-treated to 180 ksi (1241 MPa) minimum ultimate tensile strength (UTS) and above, and requirements for low stress grinding of chromium plating applied to such high strength steel.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

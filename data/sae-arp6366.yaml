@@ -1,0 +1,56 @@
+---
+id: SAEARP6366
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fiber Optic Sensor Specification Guidelines for Aerospace Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6366
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6366-fiber-optic-sensor-specification-guidelines-aerospace-applications
+docidentifier:
+- content: SAE ARP6366
+  type: SAE
+  primary: true
+- content: 10.4271/arp6366
+  type: DOI
+date:
+- type: approved
+  at: '2024-10-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;ARP6366 defines a comprehensive and widely-accepted set of specification guidelines to be considered by those seeking to use or design fiber optic sensors for aerospace applications. Some of the most common applications for fiber optic sensing within aerospace include inertial guidance and navigation (gyros) and structural monitoring (temperature, strain, and vibration sensing). Common sensor infrastructure elements include: transmitting and receiving opto-electronics (e.g., sources and receivers); multiplexing and demultiplexing optics; optical cabling; and signal processing (both hardware and firmware/software).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

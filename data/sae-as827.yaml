@@ -1,0 +1,54 @@
+---
+id: SAEAS827
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Anti-Collision Lights
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as827
+- type: src
+  content: https://saemobilus.sae.org/standards/as827-aircraft-anti-collision-lights
+docidentifier:
+- content: SAE AS827
+  type: SAE
+  primary: true
+- content: 10.4271/as827
+  type: DOI
+date:
+- type: approved
+  at: '1998-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20B Exterior Lighting Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The purpose of this standard is to specify minimum requirements for
+    aircraft anti-collision lights. This standard covers two types of aircraft anti-collision
+    lights.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,48 @@
+---
+id: SAEAS4137C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FITTING ASSY, ELBOW, REDUCER, 45°, SWIVEL, REDUCED BODY, FLARELESS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4137c
+- type: src
+  content: https://saemobilus.sae.org/standards/as4137c-fitting-assy-elbow-reducer-45-swivel-reduced-body-flareless
+docidentifier:
+- content: SAE AS4137C
+  type: SAE
+  primary: true
+- content: 10.4271/as4137c
+  type: DOI
+date:
+- type: approved
+  at: '2014-07-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEJ2590_200112
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PMODE for In-Vehicle Networks
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2590_200112
+- type: src
+  content: https://saemobilus.sae.org/standards/j2590_200112-pmode-vehicle-networks
+docidentifier:
+- content: SAE J2590_200112
+  type: SAE
+  primary: true
+- content: 10.4271/j2590_200112
+  type: DOI
+date:
+- type: approved
+  at: '2001-12-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ITS Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice describes the power mode requirements for in-vehicle networks that conform to the Automotive Multimedia Interface Collaboration (AMI-C) specifications. These networks include, but are not limited to, the IDB-C (SAE J2366), IDB-1394, and MOST.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This version of the document covers primarily IDB-C and may be revised when the PMODE requirements for the other networks are more fully developed by AMI-C.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

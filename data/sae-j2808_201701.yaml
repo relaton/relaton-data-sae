@@ -1,0 +1,58 @@
+---
+id: SAEJ2808_201701
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Lane Departure Warning Systems: Information for the Human Interface'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2808_201701
+- type: src
+  content: https://saemobilus.sae.org/standards/j2808_201701-lane-departure-warning-systems-information-human-interface
+docidentifier:
+- content: SAE J2808_201701
+  type: SAE
+  primary: true
+- content: 10.4271/j2808_201701
+  type: DOI
+date:
+- type: approved
+  at: '2017-01-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Advanced Driver Assistance Systems (ADAS) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The Lane Departure Warning (LDW) system is a crash-avoidance technology which warns drivers if they are drifting (or have drifted) out of their lane or from the roadway. This warning system is designed to reduce the possibility of a run-off-road crash. This system will not take control of the vehicle; it will only let the driver know that he/she needs to steer back into the lane. An LDW is not a lane-change monitor, which addresses intentional lane changes, or a blind spot monitoring system which warns of other vehicles in adjacent lanes.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This informational report applies to OEM and after-market Lane Departure Warning systems for light-duty vehicles (gross vehicle weight rating of no more than 8500 pounds) on relatively straight roads with a radius of curvature of 500 m or more, and under good weather conditions.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

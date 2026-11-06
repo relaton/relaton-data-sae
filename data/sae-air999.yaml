@@ -1,0 +1,55 @@
+---
+id: SAEAIR999
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CRYOGENICALLY FUELED DYNAMIC POWER SYSTEMS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air999
+- type: src
+  content: https://saemobilus.sae.org/standards/air999-cryogenically-fueled-dynamic-power-systems
+docidentifier:
+- content: SAE AIR999
+  type: SAE
+  primary: true
+- content: 10.4271/air999
+  type: DOI
+date:
+- type: approved
+  at: '1968-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7C Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+    &lt;div class="htmlview paragraph"&gt;In this report, "Cryogenically Fueled Dynamic Power Systems" include all open cycle, chemically fueled, dynamic engine power systems which utilize cryogenic fuels and oxidizers. For nearly all practical present day systems, this category is limited to cryogenic hydrogen or hydrogen-oxygen fueled cycles with potential in future, more advanced systems for replacement of oxygen by fluorine. Excluded from the category are static cryogenic systems (e.g., fuel cells) and chemical dynamic power systems which utilize earth storable propellants.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

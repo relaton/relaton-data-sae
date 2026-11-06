@@ -1,0 +1,73 @@
+---
+id: SAEARP5150B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Safety Assessment of Transport Airplanes in Commercial Service
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5150b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5150b-safety-assessment-transport-airplanes-commercial-service
+docidentifier:
+- content: SAE ARP5150B
+  type: SAE
+  primary: true
+- content: 10.4271/arp5150b
+  type: DOI
+date:
+- type: approved
+  at: '2026-08-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-18C Ongoing Safety Assessment Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes guidelines, methods, and tools used to perform the ongoing &lt;u&gt;safety assessment&lt;/u&gt; process for transport airplanes in commercial service (hereafter termed “airplane”). The process described herein is intended to support an overall management of safety. It is associated with showing compliance to regulations and also establishing and meeting internal company safety standards. The methods identify a systematic means, but not the only means, to assess ongoing safety.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;While economic decision-making is an integral part of the safety management process, this document addresses only the ongoing safety assessment process. To put it succinctly, this document addresses the “Is it safe?” part of safety management; it does not address the “How much does it cost?” part of safety management.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document also does not address any specific organizational structures for accomplishing the safety assessment process. While the nature of the organizational structure is significant to the quality of a safety program, this document focuses on the functions to be accomplished and does not attempt to define what the structure should be. The intent is to leave the greatest amount of flexibility to the organizations that use this document.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

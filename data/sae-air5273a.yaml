@@ -1,0 +1,58 @@
+---
+id: SAEAIR5273A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Flight Control Actuation System Failure-Detection Methods
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5273a
+- type: src
+  content: https://saemobilus.sae.org/standards/air5273a-aircraft-flight-control-actuation-system-failure-detection-methods
+docidentifier:
+- content: SAE AIR5273A
+  type: SAE
+  primary: true
+- content: 10.4271/air5273a
+  type: DOI
+date:
+- type: approved
+  at: '2022-12-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A3 Flight Control and Vehicle Management Systems Cmt
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides descriptions of aircraft flight control actuation system failure-detection methods. The fault-detection methods are those used for ground and in-flight detection of failures in electrohydraulic actuation systems for primary flight controls.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

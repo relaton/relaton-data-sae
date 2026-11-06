@@ -1,0 +1,56 @@
+---
+id: SAEARP6262A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Basic Composite Repair Technician Certification Standard
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6262a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6262a-basic-composite-repair-technician-certification-standard
+docidentifier:
+- content: SAE ARP6262A
+  type: SAE
+  primary: true
+- content: 10.4271/arp6262a
+  type: DOI
+date:
+- type: approved
+  at: '2019-09-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CACRC Commercial Aircraft Composite Repair Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;It is recognized that the structural integrity of repaired composite structures depends upon the capabilities of the individuals who are responsible for performing the repairs. This document is intended to address repairs of composite structure regardless of the type of structure such as marine, wind turbine, automotive, aircraft, or other applications.&lt;/p&gt;
+    &lt;p&gt;This certification standard establishes the minimum requirements for training, examining, and certifying composite structure repair personnel. It establishes criteria for the certification of personnel requiring appropriate knowledge of the technical principles underlying the composite structural repairs they perform. Persons certified under this document may be eligible for licensing or certification/ qualification by an appropriate authority, in addition to this industry accepted basic composite repair technician certification.&lt;/p&gt;
+    &lt;p&gt;Persons who successfully complete the requirements of this certification standard are considered to be able to perform basic composite repairs to composite structures in compliance with the manufacturers’ repair documentation or other acceptable repair methods.&lt;/p&gt;
+    &lt;p&gt;This document is not intended to include structure specific repairs that are in manufacturer’s maintenance or repair manuals. Additional specific training may be required by the maintenance organization.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

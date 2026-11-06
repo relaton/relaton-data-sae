@@ -1,0 +1,60 @@
+---
+id: SAEJ1637_202202
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Laboratory Measurement of the Composite Vibration Damping Properties of
+    Materials on a Supporting Steel Bar
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1637_202202
+- type: src
+  content: https://saemobilus.sae.org/standards/j1637_202202-laboratory-measurement-composite-vibration-damping-properties-materials-a-supporting-steel-bar
+docidentifier:
+- content: SAE J1637_202202
+  type: SAE
+  primary: true
+- content: 10.4271/j1637_202202
+  type: DOI
+date:
+- type: approved
+  at: '2022-02-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Acoustical Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard describes a laboratory test procedure for measuring the vibration damping performance of a system consisting of a damping material bonded to a vibrating cantilevered steel bar. The bar is often called the Oberst bar (named after Dr. H. Oberst) and the test method is often called the Oberst bar test method. Materials for damping treatments may include homogeneous materials, nonhomogeneous materials, or a combination of homogeneous, nonhomogeneous, and/or inelastic (such as aluminum foil) materials. These materials are commonly installed in transportation systems such as ground vehicles, marine products, and aircraft to reduce vibration at resonance, and thus reduce the noise radiation from the vibrating surface. The test method described herein was developed to rank order materials for application on panels using general automotive steel but also may be applicable to other situations or conditions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Damping performance for most materials and systems varies as a function of both frequency and temperature. Accordingly, this test procedure includes provisions for measuring damping over a range of frequencies and temperatures found applicable to many transportation systems. The measured damping performance will be expressed in terms of composite loss factor, η&lt;sub&gt;c&lt;/sub&gt;, within the frequency range of approximately 100 to 1000 Hz, and over the useful temperature range for the given application. The term composite refers to the steel and damping material combination. The composite loss factor is, therefore, dependent upon the thickness, damping, and modulus of both the steel and damping material layer.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The test procedure described here is based on the method described in ASTM E756. However, this SAE document differs from the ASTM E756 method in that the SAE practice specifies the bar material, three bar sizes, the mounting conditions of the test samples, and suggested standard interpolation frequencies. This document provides a means of rank ordering damping materials according to their composite loss factor values from test samples that represent typical sheet metal applications.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The material properties of the damping material alone, including Young’s modulus E, and the material loss factor η, may be computed from the test samples specified in this document if additional conditions are met. ASTM E756 defines these additional conditions as well as the equations to be used to compute the damping material properties for the single layer (Oberst beam) configuration.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

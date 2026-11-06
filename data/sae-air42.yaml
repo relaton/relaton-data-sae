@@ -1,0 +1,55 @@
+---
+id: SAEAIR42
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Contamination Studies of Aircraft Greases
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air42
+- type: src
+  content: https://saemobilus.sae.org/standards/air42-contamination-studies-aircraft-greases
+docidentifier:
+- content: SAE AIR42
+  type: SAE
+  primary: true
+- content: 10.4271/air42
+  type: DOI
+date:
+- type: approved
+  at: '1995-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>Certain techniques involved in determining the dirt or abrasive content
+    of aircraft greases are considered inadequate. It is desirable to develop a method
+    of analysis which will definitely identify the quantity, size, and degree of abrasiveness
+    of foreign substances in lubricating greases.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

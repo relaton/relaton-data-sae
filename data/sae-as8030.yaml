@@ -1,0 +1,59 @@
+---
+id: SAEAS8030
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Requirements for an Electronic Materials and Processes Management Plan
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8030
+- type: src
+  content: https://saemobilus.sae.org/standards/as8030-requirements-electronic-materials-processes-management-plan
+docidentifier:
+- content: SAE AS8030
+  type: SAE
+  primary: true
+- content: 10.4271/as8030
+  type: DOI
+date:
+- type: approved
+  at: '2018-08-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: APMC Avionics Process Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document applies to the development of Plans for integrating and managing electronic materials and processes for equipment in the military and commercial aerospace markets; as well as other ADHP markets that wish to use this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Examples of electronic materials and processes, as described in this document, include soldering alloys, plating finishes, bulk metals, chassis materials and finishes, materials used for mechanical parts, etc.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is critical for the Plan owner to review and understand the properties and configuration control of all “as-received” or “off-the-shelf” electronic materials with respect to the application capabilities in order to identify risks, and where necessary, take additional action to mitigate the risks.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The technical requirements are in &lt;span class="xref"&gt;Section 3&lt;/span&gt; of this standard, and the administrative requirements are in &lt;span class="xref"&gt;Section 4&lt;/span&gt;.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

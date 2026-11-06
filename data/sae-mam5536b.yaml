@@ -1,0 +1,57 @@
+---
+id: SAEMAM5536B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nickel Alloy, Corrosion and Heat Resistant, Sheet, Strip, and Plate 47.5ni
+    22cr 1.5co 9.0mo 0.60w 18.5fe, Solution Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/mam5536b
+- type: src
+  content: https://saemobilus.sae.org/standards/mam5536b-nickel-alloy-corrosion-heat-resistant-sheet-strip-plate-475ni-22cr-15co-90mo-060w-185fe-solution-heat-treated
+docidentifier:
+- content: SAE MAM5536B
+  type: SAE
+  primary: true
+- content: 10.4271/mam5536b
+  type: DOI
+date:
+- type: approved
+  at: '2003-03-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers a corrosion and heat resistant nickel alloy
+    in the form of sheet, strip, and plate procured in SI (metric) units. AMS 5536
+    is the inch/pound version of this MAM.  These products have been used typically
+    for parts requiring oxidation resistance up to 1205 degrees C and relatively high
+    strength up to 815 degrees C, but usage is not limited to such applications.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

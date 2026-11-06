@@ -1,0 +1,54 @@
+---
+id: SAEAIR40
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Corrosion Preventative Characteristics of Aircraft Greases
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air40
+- type: src
+  content: https://saemobilus.sae.org/standards/air40-corrosion-preventative-characteristics-aircraft-greases
+docidentifier:
+- content: SAE AIR40
+  type: SAE
+  primary: true
+- content: 10.4271/air40
+  type: DOI
+date:
+- type: approved
+  at: '1995-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The objective of this work was to develop a relatively simple screening
+    or bench test, or a combination of such tests, which would evaluate aircraft greases
+    in respect to corrosion protection under the operating conditions described above.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

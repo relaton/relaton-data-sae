@@ -1,0 +1,57 @@
+---
+id: SAEARP5783
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Health and Usage Monitoring Metrics Monitoring the Monitor
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5783
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5783-health-usage-monitoring-metrics-monitoring-monitor
+docidentifier:
+- content: SAE ARP5783
+  type: SAE
+  primary: true
+- content: 10.4271/arp5783
+  type: DOI
+date:
+- type: approved
+  at: '2018-05-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: HM-1 Integrated Vehicle Health Management Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice applies to vibration monitoring systems for rotorcraft and fixed-wing drive trains, airframes, propulsion systems, electric power generators, and flight control systems. It addresses all aspects of metrics, including what to measure, how to measure, and how to evaluate the results.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

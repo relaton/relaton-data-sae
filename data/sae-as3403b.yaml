@@ -1,0 +1,49 @@
+---
+id: SAEAS3403B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BOLT, MACHINE - HEXAGON HEAD, DRILLED 1 HOLE, PD SHANK, NICKEL ALLOY (UNS
+    N07001), .3750-24 UNJF-3A
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as3403b
+- type: src
+  content: https://saemobilus.sae.org/standards/as3403b-bolt-machine-hexagon-head-drilled-1-hole-pd-shank-nickel-alloy-uns-n07001-3750-24-unjf-3a
+docidentifier:
+- content: SAE AS3403B
+  type: SAE
+  primary: true
+- content: 10.4271/as3403b
+  type: DOI
+date:
+- type: approved
+  at: '2020-11-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

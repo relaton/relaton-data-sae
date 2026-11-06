@@ -1,0 +1,57 @@
+---
+id: SAEAMS6411D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS, FORGINGS, AND TUBING 0.88Cr - 1.8Ni - 0.42Mo - 0.08V (0.28
+    - 0.33C) Consumable Electrode Remelted
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6411d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6411d-steel-bars-forgings-tubing-088cr-18ni-042mo-008v-028-033c-consumable-electrode-remelted
+docidentifier:
+- content: SAE AMS6411D
+  type: SAE
+  primary: true
+- content: 10.4271/ams6411d
+  type: DOI
+date:
+- type: approved
+  at: '1994-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a premium aircraft-quality, low-alloy steel in the form of bars, forgings, mechanical tubing, and forging stock.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

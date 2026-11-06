@@ -1,0 +1,57 @@
+---
+id: SAESAE1002
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: U.S. National Grid Standard
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/sae1002
+- type: src
+  content: https://saemobilus.sae.org/standards/sae1002-us-national-grid-standard
+docidentifier:
+- content: SAE SAE1002
+  type: SAE
+  primary: true
+- content: 10.4271/sae1002
+  type: DOI
+date:
+- type: approved
+  at: '2018-08-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: PNT Position, Navigation, and Timing
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard, SAE1002, is a republication of FGDC-STD-011-2001, and defines a preferred USNG for mapping applications at scales of approximately 1:1000000 and larger. It defines how to present Universal Transverse Mercator (UTM) coordinates at various levels of precision. It specifies the use of those coordinates with the grid system defined by the Military Grid Reference System (MGRS). Additionally, it addresses specific presentation issues such as grid spacing. Together, the UTM coordinate representation, the MGRS grid, and the specific grid presentation requirements define the USNG.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Use of USNG grid coordinates may be useful, and even desirable, within some systems or enterprises. The decision to use USNG grid coordinates or some other coordinate system internal to geographic information systems or location service appliances is left to the discretion of the system developer as long as the human interface provides for USNG grid coordinate readout as one option.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEARP690
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standard Exposed Junction Thermocouple for Controlled Conduction Errors
+    in Measurement of Air or Exhaust Gas Temperature
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp690
+- type: src
+  content: https://saemobilus.sae.org/standards/arp690-standard-exposed-junction-thermocouple-controlled-conduction-errors-measurement-air-exhaust-gas-temperature
+docidentifier:
+- content: SAE ARP690
+  type: SAE
+  primary: true
+- content: 10.4271/arp690
+  type: DOI
+date:
+- type: approved
+  at: '2018-05-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The thermocouple design recommended herein is presented as one for which the correction to the observed emf, because of thermal conduction along the stem and wires, is within the limits presented in the accompanying figure. On referring to the figure, it is seen that no restriction is placed upon the diameter of the thermocouple or stem, and the longitudinal dimensions are expressed in terms of wire and stem diameters. The type of stem, such as packed ceramic stock, refractory insulating tubing, etc., also is left open to choice. Thus the sizes of wires and supporting stems may be varied over wide ranges to match particular requirements where conduction errors are to be limited or controlled.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

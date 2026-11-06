@@ -1,0 +1,49 @@
+---
+id: SAEAMS5672
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL WIRE, CORROSION RESISTANT 12Cr - 8.5Ni - 0.30 (Cb+Ta) - 1.1 Ti -
+    2.0Cu Spring Temper
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5672
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5672-steel-wire-corrosion-resistant-12cr-85ni-030-cb-ta-11-ti-20cu-spring-temper
+docidentifier:
+- content: SAE AMS5672
+  type: SAE
+  primary: true
+- content: 10.4271/ams5672
+  type: DOI
+date:
+- type: approved
+  at: '1970-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,48 @@
+---
+id: SAEAMS4171B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY EXTRUSIONS 4.3Zn - 3.3Mg - 0.60Cu - 0.20Mn - 0.18Cr (7079-T6)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4171b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4171b-aluminum-alloy-extrusions-43zn-33mg-060cu-020mn-018cr-7079-t6
+docidentifier:
+- content: SAE AMS4171B
+  type: SAE
+  primary: true
+- content: 10.4271/ams4171b
+  type: DOI
+date:
+- type: approved
+  at: '1981-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

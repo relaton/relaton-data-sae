@@ -1,0 +1,91 @@
+---
+id: SAEAS791
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Remote Servoed Air Data Instruments for Subsonic Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as791
+- type: src
+  content: https://saemobilus.sae.org/standards/as791-remote-servoed-air-data-instruments-subsonic-aircraft
+docidentifier:
+- content: SAE AS791
+  type: SAE
+  primary: true
+- content: 10.4271/as791
+  type: DOI
+date:
+- type: approved
+  at: '2008-02-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4 Aircraft Instruments Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard provides minimum performance criteria for air data instruments intended to provide cockpit indication of:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Indicated airspeed (V&lt;sub&gt;i&lt;/sub&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Computer airspeed (V&lt;sub&gt;c&lt;/sub&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;True airspeed (V&lt;sub&gt;t&lt;/sub&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Equivalent airspeed (V&lt;sub&gt;e&lt;/sub&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Mach number (M)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;f&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Altitude (H)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;g&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Vertical speed (H&lt;sub&gt;pr&lt;/sub&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;h&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Maximum operating limit speed (V&lt;sub&gt;mo&lt;/sub&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;i&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;True angle of attack (α&lt;sub&gt;t&lt;/sub&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;j&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Free air temperature (T&lt;sub&gt;fat&lt;/sub&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;k&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Total temperature (T&lt;sub&gt;t&lt;/sub&gt;)&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;These functions shall be derived from a central air data computer (AS 417) and through system wiring applied to the respective indicator.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

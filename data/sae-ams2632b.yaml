@@ -1,0 +1,57 @@
+---
+id: SAEAMS2632B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Inspection, Ultrasonic, of Thin Materials 0.50 Inch (12.7 mm) and Under
+    in Cross-Sectional Thickness
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2632b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2632b-inspection-ultrasonic-thin-materials-050-inch-127-mm-cross-sectional-thickness
+docidentifier:
+- content: SAE AMS2632B
+  type: SAE
+  primary: true
+- content: 10.4271/ams2632b
+  type: DOI
+date:
+- type: approved
+  at: '2018-08-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS K Non Destructive Methods and Processes Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the procedure for ultrasonic inspection of flat, contoured, round and hollow cylindrical products having a cross-sectional thickness of 0.02 to 0.50 inches (0.5 to 12.7 mm). This specification does not apply to inspection of composite materials.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

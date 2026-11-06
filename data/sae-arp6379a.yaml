@@ -1,0 +1,72 @@
+---
+id: SAEARP6379A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Processes for Application-Specific Qualification of Electrical, Electronic,
+    and Electromechanical Parts and Sub-Assemblies for Use in Aerospace, Defense,
+    and High Performance Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6379a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6379a-processes-application-specific-qualification-electrical-electronic-electromechanical-parts-sub-assemblies-use-aerospace-defense-high-performance-systems
+docidentifier:
+- content: SAE ARP6379A
+  type: SAE
+  primary: true
+- content: 10.4271/arp6379a
+  type: DOI
+date:
+- type: approved
+  at: '2026-10-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: APMC Avionics Process Management
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes a process for use by ADHP integrators of EEE parts and subassemblies (items) that may have been targeted by part manufacturers for other applications.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This methodology allows for existing data, such as manufacturer qualification test results, in-service use, and system qualification test data, to meet the application requirement and to identify gaps in data that require additional testing or analysis.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document describes a process to define and accomplish application-specific qualifications that provide confidence to both the ADHP integrators and the integrators’ customers that the item will perform its function(s) reliably in the ADHP application. It does not describe specific tests to be conducted, sample sizes to be used, or results to be obtained.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

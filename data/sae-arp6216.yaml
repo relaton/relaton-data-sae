@@ -1,0 +1,57 @@
+---
+id: SAEARP6216
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: EWIS Wiring Insulation Breakdown Testing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6216
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6216-ewis-wiring-insulation-breakdown-testing
+docidentifier:
+- content: SAE ARP6216
+  type: SAE
+  primary: true
+- content: 10.4271/arp6216
+  type: DOI
+date:
+- type: approved
+  at: '2022-09-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8A Elec Wiring and Fiber Optic Interconnect Sys Install
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) identifies the minimum requirements for the testing of insulated electrical wiring for on-aircraft, aeronautical and aerospace applications. The testing requirements defined herein, ensure that a wire fault can be found safely when using a high potential voltage tester (hipot). This test is intended to aid in finding a breach in the wire insulation, and not for the identification of the resistance of the insulation. The test method defined herein is limited to equipment which ia able to control and limit the DC output to 1500 VDC maximum. This type of wire dielectric tester is typically designed to trip on current leakage and not necessarily on arc detection. This test method is solely designed to identify gross/large wire insulation damage or degradation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For additional related information on this topic and related test methods, refer to the documents cited in &lt;span class="xref"&gt;Section 2&lt;/span&gt;. They are intended to aid the reader in the direction of this ARP and to provide more indepth information on wire and component insulation testing.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

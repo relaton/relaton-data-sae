@@ -1,0 +1,72 @@
+---
+id: SAEARP7505
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Risk Assessment after Tin Whisker Observation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp7505
+- type: src
+  content: https://saemobilus.sae.org/standards/arp7505-risk-assessment-tin-whisker-observation
+docidentifier:
+- content: SAE ARP7505
+  type: SAE
+  primary: true
+- content: 10.4271/arp7505
+  type: DOI
+date:
+- type: approved
+  at: '2026-07-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-24 Pb-free Risk Management Committee for ADHP
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document contains information and guidance on assessment of the risk posed by observed tin whiskers for aerospace, defense, and high-performance (ADHP) products or other products that demand high reliability.&lt;/div&gt;
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

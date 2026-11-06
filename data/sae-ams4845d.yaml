@@ -1,0 +1,48 @@
+---
+id: SAEAMS4845D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BRONZE CASTINGS 88Cu - 10Sn - 2Zn
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4845d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4845d-bronze-castings-88cu-10sn-2zn
+docidentifier:
+- content: SAE AMS4845D
+  type: SAE
+  primary: true
+- content: 10.4271/ams4845d
+  type: DOI
+date:
+- type: approved
+  at: '1951-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

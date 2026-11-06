@@ -1,0 +1,49 @@
+---
+id: SAEAS9947C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BOLT, MACHINE - DOUBLE HEXAGON EXTENDED WASHER HEAD, FULL SHANK, STEEL
+    UNS G87400 CADMIUM PLATED, .5625-18 UNJF-3A
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9947c
+- type: src
+  content: https://saemobilus.sae.org/standards/as9947c-bolt-machine-double-hexagon-extended-washer-head-full-shank-steel-uns-g87400-cadmium-plated-5625-18-unjf-3a
+docidentifier:
+- content: SAE AS9947C
+  type: SAE
+  primary: true
+- content: 10.4271/as9947c
+  type: DOI
+date:
+- type: approved
+  at: '2021-04-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

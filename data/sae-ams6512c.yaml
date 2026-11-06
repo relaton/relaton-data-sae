@@ -1,0 +1,57 @@
+---
+id: SAEAMS6512C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS, FORGINGS, TUBING, AND RINGS 18Ni - 7.8Co - 4.9Mo - 0.40Ti -
+    0.10Al Consumable Electrode Vacuum Melted, Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6512c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6512c-steel-bars-forgings-tubing-rings-18ni-78co-49mo-040ti-010al-consumable-electrode-vacuum-melted-annealed
+docidentifier:
+- content: SAE AMS6512C
+  type: SAE
+  primary: true
+- content: 10.4271/ams6512c
+  type: DOI
+date:
+- type: approved
+  at: '1995-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a premium aircraft-quality, maraging alloy steel in the form of bars, forgings, mechanical tubing, flash welded rings, and stock for forging or flash welded rings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

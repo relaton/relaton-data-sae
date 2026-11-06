@@ -1,0 +1,48 @@
+---
+id: SAEARP1254
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 1990 Fluidics Test Methods and Instrumentation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1254
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1254-1990-fluidics-test-methods-instrumentation
+docidentifier:
+- content: SAE ARP1254
+  type: SAE
+  primary: true
+- content: 10.4271/arp1254
+  type: DOI
+date:
+- type: approved
+  at: '2002-12-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A3 Flight Control and Vehicle Management Systems Cmt
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

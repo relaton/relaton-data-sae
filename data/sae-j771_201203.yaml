@@ -1,0 +1,56 @@
+---
+id: SAEJ771_201203
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Automotive Printed Circuits
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j771_201203
+- type: src
+  content: https://saemobilus.sae.org/standards/j771_201203-automotive-printed-circuits
+docidentifier:
+- content: SAE J771_201203
+  type: SAE
+  primary: true
+- content: 10.4271/j771_201203
+  type: DOI
+date:
+- type: approved
+  at: '2012-03-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electrical Distribution Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report relates to recommendations and specifications governing the classification, composition, test procedures, and properties of printed circuits commonly used to replace cable in automotive low voltage systems. It is not applicable to miniature circuits for solid state devices, high impedance or high voltage functions.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

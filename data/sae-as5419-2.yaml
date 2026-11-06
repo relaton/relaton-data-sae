@@ -1,0 +1,50 @@
+---
+id: SAEAS54192
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: WIRE, THERMOCOUPLE, FLUOROPOLYMER INSULATED, ABRASION RESISTANT, EXTRUDED
+    PTFE NICKEL/CHROMIUM (KP); NICKEL/ALUMINUM/MANGANESE (KN) THERMOCOUPLE EXTENSION
+    MEDIUM WEIGHT, 260 °C
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5419/2
+- type: src
+  content: https://saemobilus.sae.org/standards/as54192-wire-thermocouple-fluoropolymer-insulated-abrasion-resistant-extruded-ptfe-nickel-chromium-kp-nickel-aluminum-manganese-kn-thermocouple-extension-medium-weight-260-c
+docidentifier:
+- content: SAE AS5419/2
+  type: SAE
+  primary: true
+- content: 10.4271/as5419/2
+  type: DOI
+date:
+- type: approved
+  at: '2014-01-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8D Wire and Cable Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

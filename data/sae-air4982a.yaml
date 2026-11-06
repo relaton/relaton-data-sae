@@ -1,0 +1,58 @@
+---
+id: SAEAIR4982A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Fly-by-Light Actuation Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4982a
+- type: src
+  content: https://saemobilus.sae.org/standards/air4982a-aerospace-fly-light-actuation-systems
+docidentifier:
+- content: SAE AIR4982A
+  type: SAE
+  primary: true
+- content: 10.4271/air4982a
+  type: DOI
+date:
+- type: approved
+  at: '2014-12-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A3 Flight Control and Vehicle Management Systems Cmt
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) has been prepared to provide information regarding options for optical control of fluid power actuation devices. It is not intended to establish standards for optical fluid power control, but rather is intended to provide a baseline or foundation from which standards can be developed. It presents and discusses approaches for command and communication with the actuation device via electro-optic means.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The development of standards will require industry wide participation and cooperation to ensure interface commonality, reliability, and early reduction to practice. To facilitate such participation, this document provides potential users of the technology a balanced consensus on its present state of development, the prospects for demonstration of production readiness, and a discussion of problem areas within this technology. The intent is to inform the user/designer of the options available for interfacing photonics (optics) to hydraulic power control actuators used in aerospace applications. Specifically, power and signal interfaces such as control, status and BIT (built in test) are considered. Mechanical interfaces such as optical connectors and fibers are also discussed. Other issues covered include the benefits of optics, reliability of components, and system architectures.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The document draws on the expertise of numerous investigators who develop demonstration hardware, are familiar with photonics and specialize in hydraulic actuation, or are cognizant of aerospace fluid control systems. Contributions and suggestions have been supplied by members and attendees of the A-6D Committee.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

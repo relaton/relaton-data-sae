@@ -1,0 +1,58 @@
+---
+id: SAEJ1249_200006
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Former SAE Standard and Former SAE Ex-Steels
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1249_200006
+- type: src
+  content: https://saemobilus.sae.org/standards/j1249_200006-former-sae-standard-former-sae-ex-steels
+docidentifier:
+- content: SAE J1249_200006
+  type: SAE
+  primary: true
+- content: 10.4271/j1249_200006
+  type: DOI
+date:
+- type: approved
+  at: '2000-06-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Carbon and Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report provides a list of those SAE steels which, because of decreased usage, have been deleted from the standard SAE Handbook listings. Included are alloy steels from SAE J778 deleted since 1936, carbon steels from SAE J118 deleted since 1952, and all EX-steels deleted from SAE J1081. Information concerning SAE steels prior to these dates may be obtained from the SAE office on request. With the issuance of this report, SAE J778, Formerly Standard SAE Alloy Steels, and SAE J118, Formerly Standard SAE Carbon Steels, will be retired since they are now combined in SAE J1249. In the future, new assignments to SAE J1081, Chemical Compositions of SAE Experimental Steels, will be given “PS” (Potential Standard) numbers rather than “EX” numbers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The steels listed in &lt;span class="xref"&gt;Tables 1&lt;/span&gt; and &lt;span class="xref"&gt;2&lt;/span&gt; are no longer considered as standard steels. Producers should be contacted concerning availability. Steel grades can be reinstated based on usage according to the critieria indicated in SAE J403 and J404.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The last column lists the date a steel was last listed as standard in the SAE Handbook. Where applicable, the corresponding AISI and UNS numbers are given.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

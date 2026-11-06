@@ -1,0 +1,60 @@
+---
+id: SAEJ1211_197811
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: RECOMMENDED ENVIRONMENTAL PRACTICES FOR ELECTRONIC EQUIPMENT DESIGN
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1211_197811
+- type: src
+  content: https://saemobilus.sae.org/standards/j1211_197811-recommended-environmental-practices-electronic-equipment-design
+docidentifier:
+- content: SAE J1211_197811
+  type: SAE
+  primary: true
+- content: 10.4271/j1211_197811
+  type: DOI
+date:
+- type: approved
+  at: '1978-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Automotive Electronic Systems Reliability Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The climatic, dynamic, and electrical environments from natural and vehicle-induced sources that influence the performance and reliability of automotive electronic equipment are included. Test methods that can be used to simulate these environmental conditions are also included in this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The information is applicable to vehicles that meet all the following conditions and are operated on roadways:&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

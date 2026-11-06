@@ -1,0 +1,59 @@
+---
+id: SAEAIR116812
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Spacecraft Thermal Balance
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1168/12
+- type: src
+  content: https://saemobilus.sae.org/standards/air116812-spacecraft-thermal-balance
+docidentifier:
+- content: SAE AIR1168/12
+  type: SAE
+  primary: true
+- content: 10.4271/air1168/12
+  type: DOI
+date:
+- type: approved
+  at: '2004-09-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;In the design of spacecraft, heat transfer becomes a criterion of operation to maintain structural and equipment integrity over long periods of time.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The spacecraft thermal balance between cold space and solar, planetary, and equipment heat sources is the means by which the desired range of equipment and structural temperatures are obtained. With the total spacecraft balance set, subsystem and component temperatures can be analyzed for their corresponding thermal requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This section provides the means by which first-cut approximations of spacecraft surface, structure, and equipment temperatures may be made, using the curves of planetary and solar heat flux in conjunction with the desired coating radiative properties. Once the coating properties have been determined, the material to provide these requirements may be selected from the extensive thermal radiative properties tables and curves.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These can then be cross checked to determine the degradation effects of space that may cause extensive temperature changes over long periods of time. The paragraphs reviewing previous spacecraft thermal designs, test facilities, and methods of testing should be used as a guide in the development of a design. This section assumes that the reader is familiar with the methods of thermal analyzer techniques and has available, through SHARE or other agencies, multinodal programs to solve the detailed temperature distributions required to complete a design.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

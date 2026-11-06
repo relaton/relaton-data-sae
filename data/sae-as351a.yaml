@@ -1,0 +1,48 @@
+---
+id: SAEAS351A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: WRENCH - PROPELLER SHAFT (Shaft Sizes No. 40-50-60)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as351a
+- type: src
+  content: https://saemobilus.sae.org/standards/as351a-wrench-propeller-shaft-shaft-sizes-no-40-50-60
+docidentifier:
+- content: SAE AS351A
+  type: SAE
+  primary: true
+- content: 10.4271/as351a
+  type: DOI
+date:
+- type: approved
+  at: '2005-10-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-4 Packaging, Handling and Transportability Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

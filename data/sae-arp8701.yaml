@@ -1,0 +1,56 @@
+---
+id: SAEARP8701
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Deicing Vehicle - Towable Unit
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp8701
+- type: src
+  content: https://saemobilus.sae.org/standards/arp8701-aircraft-deicing-vehicle-towable-unit
+docidentifier:
+- content: SAE ARP8701
+  type: SAE
+  primary: true
+- content: 10.4271/arp8701
+  type: DOI
+date:
+- type: approved
+  at: '2025-08-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12E Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) covers the general technical requirements and provides specification guidance for towable deicing vehicles/units equipped with a deicing/anti-icing fluid spraying system. The unit shall be highly maneuverable for applying deicing/anti-icing fluid onto all exterior surfaces of commercial/commuter aircraft to be treated. The unit shall also be suitable for day and night operations and shall be reliable and capable of performing deicing/anti-icing treatments satisfactorily under various precipitation (e.g., moderate snow) and icy weather conditions (e.g., outside air temperatures down to -40 °C/-40 °F) in accordance with the recommendations and instructions specified in aircraft manufacturers’ documents and the current version of AS6285.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEJ688_199702
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Truck Ability Prediction Procedure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j688_199702
+- type: src
+  content: https://saemobilus.sae.org/standards/j688_199702-truck-ability-prediction-procedure
+docidentifier:
+- content: SAE J688_199702
+  type: SAE
+  primary: true
+- content: 10.4271/j688_199702
+  type: DOI
+date:
+- type: approved
+  at: '1997-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Powertrain Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;The procedure has been developed to provide a practical method for the prediction of truck performance using accepted data. It Is designed to help anyone concerned with the problem of truck selection.&lt;/p&gt;
+    &lt;p&gt;By following directions, it is possible to determine the necessary information for intelligent truck selection without being concerned with the origin or derivation of the complex factors involved. With readily available specification of a truck, information provided in the tables, and minimum of calculation, it is possible to predict:&lt;/p&gt;
+    &lt;p&gt;(a) The performance obtainable from a truck of given characteristics under given operating conditions. (b) The characteristics required in a truck to meet different performance requirements under given operating conditions.&lt;/p&gt;
+    &lt;p&gt;This report comprises a procedure form and 10 tables of data. A complete explanation of the truck ability prediction procedure is contained in SAE Technical Report HS-82, Truck Ability Prediction Procedure.ty prediction procedure is contained in SAE Technical Report HS-82, Truck Ability Prediction Procedure. Part 1 of HS-82 contains, in addition to the procedure form and tables, work sheets ans an example. Part 2 demonstrates by practical examples how to obtain some of the answers other than grade ability, and presents a detailed procedure for computing instantaneous acceleration and the time or distance required to accelerate between specified limits of speed. Part 3 gives terminology, the fundamental relations, and the formulas which form the basis for the procedure, a discussion of th reliability of factors and methods, and presents a method for evaluating the effect of wind on air resistance.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

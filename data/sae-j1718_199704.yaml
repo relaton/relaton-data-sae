@@ -1,0 +1,69 @@
+---
+id: SAEJ1718_199704
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MEASUREMENT OF HYDROGEN GAS EMISSION FROM BATTERY-POWERED PASSENGER CARS
+    AND LIGHT TRUCKS DURING BATTERY CHARGING
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1718_199704
+- type: src
+  content: https://saemobilus.sae.org/standards/j1718_199704-measurement-hydrogen-gas-emission-battery-powered-passenger-cars-light-trucks-battery-charging
+docidentifier:
+- content: SAE J1718_199704
+  type: SAE
+  primary: true
+- content: 10.4271/j1718_199704
+  type: DOI
+date:
+- type: approved
+  at: '1997-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electric Vehicle Forum Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice describes a procedure for measuring gaseous hydrogen emissions from the aqueous battery system of a battery-powered passenger car or light truck. The purpose of this procedure is to determine what concentrations of hydrogen gas an electric vehicle together with its charger will generate while being charged in a residential garage. Gaseous emissions are measured during a sequence of vehicle tests and laboratory tests that simulate normal and abnormal conditions during operational use. The results of this test may be used to determine whether or not forced air ventilation is required when a particular electric vehicle and its associated battery and charging system are used in a residential garage.&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Gaseous emissions are measured in an enclosure during charging cycles at temperature extremes simulating garage charging at the manufacturer's recommended upper and lower operating limits of the battery under test.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;To prevent damage of the battery under normal operating conditions due to ignition of gases within the battery by an external spark or flame, battery systems that are vented shall be equipped with a suitable flame arresting system. A flame arrestor may be provided either for each individual cell or at the outlet of a battery venting system.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Because certain failures in the charging system could cause gassing to be many times the normal rate, the measurement of hydrogen during the test should include appropriate abnormal conditions such as single point failures in the charging control subsystem.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;These are tests of the charging system which may involve components both on and off the vehicle. It is also expected that there will be a wide variety of designs to accomplish battery charging. It is therefore required that great care be exercised in the detailed execution of these tests so that their intent is preserved.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The Scope of this document is intended to cover all battery conditions which may maximize gassing. However, it does not include the testing of batteries at their end of life. It is generally accepted that aged batteries will emit more gas while charging and the achievement of the aged condition by accelerated means would be difficult to control and the test results would not be reproducible.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

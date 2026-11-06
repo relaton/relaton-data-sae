@@ -1,0 +1,56 @@
+---
+id: SAEAMS7201
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standard Contaminant for Testing Aerospace Cleaners
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7201
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7201-standard-contaminant-testing-aerospace-cleaners
+docidentifier:
+- content: SAE AMS7201
+  type: SAE
+  primary: true
+- content: 10.4271/ams7201
+  type: DOI
+date:
+- type: approved
+  at: '2020-07-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G9 Aerospace Sealing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes requirements for a standard contaminant that can be used to represent typical soils encountered in aerospace cleaning. This standard contaminant consists of materials that are common contaminants found in aircraft maintenance depots and manufacturing facilities.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

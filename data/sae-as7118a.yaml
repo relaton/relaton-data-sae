@@ -1,0 +1,55 @@
+---
+id: SAEAS7118A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nadcap Requirements for Composites
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as7118a
+- type: src
+  content: https://saemobilus.sae.org/standards/as7118a-nadcap-requirements-composites
+docidentifier:
+- content: SAE AS7118A
+  type: SAE
+  primary: true
+- content: 10.4271/as7118a
+  type: DOI
+date:
+- type: approved
+  at: '2008-07-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P17 Polymer Matrix Composites Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This Aerospace Standard (AS) establishes the requirements for suppliers of Composites to be accredited by Nadcap. Nadcap accreditation is granted in accordance with SAE AS7003 after demonstration of compliance with the requirements herein. The requirements may be supplemented by additional requirements specified by the Nadcap Composites Task Group. Using the corresponding Audit Criteria (PRI AC7118) will ensure that accredited Composites suppliers meet all of the requirements in this standard and all applicable supplementary standards and applicable AS7118 slash sheets.
+
+    The purpose of this audit program is to assess a supplier's ability to consistently provide a product or service that conforms to the technical specifications and customer requirements. The corresponding audit criteria is also structured to obtain information relevant to management practices and processes that directly or indirectly affect the product or service. This information will be used in the determination of accreditation status and may be used by the supplier to guide improvements in the product or service and the associated processes.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

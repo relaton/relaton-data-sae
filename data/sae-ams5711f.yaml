@@ -1,0 +1,57 @@
+---
+id: SAEAMS5711F
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nickel Alloy, Corrosion and Heat-Resistant, Bars, Forgings, and Rings 65Ni
+    - 15.8Cr - 15.2Mo - 0.30Al - 0.05La Solution Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5711f
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5711f-nickel-alloy-corrosion-heat-resistant-bars-forgings-rings-65ni-158cr-152mo-030al-005la-solution-heat-treated
+docidentifier:
+- content: SAE AMS5711F
+  type: SAE
+  primary: true
+- content: 10.4271/ams5711f
+  type: DOI
+date:
+- type: approved
+  at: '2020-07-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat-resistant nickel alloy in the form of bars, forgings, flash welded rings, and stock for forging, flash welded rings, or heading.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

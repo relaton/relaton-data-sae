@@ -1,0 +1,69 @@
+---
+id: SAEARP1482C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Recommendations for Fuel and Oil System Schematics
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1482c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1482c-recommendations-fuel-oil-system-schematics
+docidentifier:
+- content: SAE ARP1482C
+  type: SAE
+  primary: true
+- content: 10.4271/arp1482c
+  type: DOI
+date:
+- type: approved
+  at: '2026-01-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5A Aerospace Fuel, Inerting and Lubrication Sys Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document recommends and sets forth a set of symbols representing the components making up aircraft fuel and oil systems. The intended result is uniformity in system schematics so that they may be easily understood throughout the aerospace industry.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

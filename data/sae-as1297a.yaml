@@ -1,0 +1,56 @@
+---
+id: SAEAS1297A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Reducers, Pneumatic Pressure, Missile
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1297a
+- type: src
+  content: https://saemobilus.sae.org/standards/as1297a-reducers-pneumatic-pressure-missile
+docidentifier:
+- content: SAE AS1297A
+  type: SAE
+  primary: true
+- content: 10.4271/as1297a
+  type: DOI
+date:
+- type: approved
+  at: '2008-07-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C5 Components Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The complete specification for a pneumatic pressure reducer for high pressure pneumatic systems used in missiles comprises: (1) this standard, which includes many of the general performance requirements, (2) a detailed procurement specification describing envelope and operating conditions, and (3) the "Pneumatic Components, Aeronautical - General Specification For - MIL-P-8564" which covers general requirements common to all components for use in high pressure pneumatic systems.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

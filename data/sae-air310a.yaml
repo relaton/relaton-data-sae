@@ -1,0 +1,58 @@
+---
+id: SAEAIR310A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fittings, Catalog of Flared, Flareless, Pipe Threaded, Port, Hose, and
+    Other Type Tube Standard Connectors
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air310a
+- type: src
+  content: https://saemobilus.sae.org/standards/air310a-fittings-catalog-flared-flareless-pipe-threaded-port-hose-type-tube-standard-connectors
+docidentifier:
+- content: SAE AIR310A
+  type: SAE
+  primary: true
+- content: 10.4271/air310a
+  type: DOI
+date:
+- type: approved
+  at: '2013-01-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Information Report (AIR) is written as an aid for locating and identifying various fitting designs and configurations that are designated as standard parts.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

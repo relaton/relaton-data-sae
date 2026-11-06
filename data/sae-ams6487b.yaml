@@ -1,0 +1,49 @@
+---
+id: SAEAMS6487B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS AND FORGINGS 5Cr - 1.3Mo - 0.5V (0.38 - 0.43C) Premium Quality,
+    Consumable Electrode Vacuum Melted
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6487b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6487b-steel-bars-forgings-5cr-13mo-05v-038-043c-premium-quality-consumable-electrode-vacuum-melted
+docidentifier:
+- content: SAE AMS6487B
+  type: SAE
+  primary: true
+- content: 10.4271/ams6487b
+  type: DOI
+date:
+- type: approved
+  at: '1964-01-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

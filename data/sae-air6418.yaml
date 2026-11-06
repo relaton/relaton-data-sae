@@ -1,0 +1,58 @@
+---
+id: SAEAIR6418
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Transient Measurement Method Development for Aircraft Propulsion Engine
+    and Auxiliary Power Unit Generated Contaminants in Bleed Air
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6418
+- type: src
+  content: https://saemobilus.sae.org/standards/air6418-transient-measurement-method-development-aircraft-propulsion-engine-auxiliary-power-unit-generated-contaminants-bleed-air
+docidentifier:
+- content: SAE AIR6418
+  type: SAE
+  primary: true
+- content: 10.4271/air6418
+  type: DOI
+date:
+- type: approved
+  at: '2022-03-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-31B Bleed Air Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) outlines transient measurement methods to determine engine-generated levels of relevant compressor bleed air contaminant marker compounds on a ground level test cell for aircraft propulsion engine or auxiliary power unit (APU) to be fitted on civil and military aircraft. This AIR focuses on lubrication oils that might enter the bleed air through leaking engine seals or other sources. Also considered are ingested engine combustion products, which must be differentiated from oil. The intent of this AIR is to identify key species that are markers typical of contaminants, not to characterize all possible contaminants. Real-time (transient) measurement methods to approximately quantify those markers are also discussed. Real-time methods developed for transient measurement could also be applied for real-time measurements in steady state operations in ground level test beds. Discussions of test setup and test procedures, techniques for sampling ambient air and compressor bleed air, and one or more specific analytical methodologies for each of the identified bleed air contaminant marker compounds are included. This AIR will not recommend levels of acceptability.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

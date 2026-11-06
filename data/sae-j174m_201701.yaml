@@ -1,0 +1,58 @@
+---
+id: SAEJ174M_201701
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Torque-Tension Test Procedure for Steel Threaded Fasteners - Metric Series
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j174m_201701
+- type: src
+  content: https://saemobilus.sae.org/standards/j174m_201701-torque-tension-test-procedure-steel-threaded-fasteners-metric-series
+docidentifier:
+- content: SAE J174M_201701
+  type: SAE
+  primary: true
+- content: 10.4271/j174m_201701
+  type: DOI
+date:
+- type: approved
+  at: '2017-01-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fasteners Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This test procedure is intended to provide a quality control method
+    for checking torque-tension characteristics of non-prevailing torque type threaded
+    steel fasteners 6 through 24 mm nominal diameters.  Realistically, torque-tension
+    relationships for specific individual fastener assembly joints will vary due to
+    the different joint parameters. Tests using actual joint components will be required
+    to determine accurate torque-tension values for those conditions.  For the inch
+    series version, see SAE J174.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

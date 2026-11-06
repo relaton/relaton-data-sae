@@ -1,0 +1,77 @@
+---
+id: SAEJ22931_201402
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Energy Transfer System for Electric Vehicles - Part 1: Functional Requirements
+    and System Architectures'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2293/1_201402
+- type: src
+  content: https://saemobilus.sae.org/standards/j22931_201402-energy-transfer-system-electric-vehicles-part-1-functional-requirements-system-architectures
+docidentifier:
+- content: SAE J2293/1_201402
+  type: SAE
+  primary: true
+- content: 10.4271/j2293/1_201402
+  type: DOI
+date:
+- type: approved
+  at: '2014-02-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE J2293 establishes requirements for Electric Vehicles (EV) and the off-board Electric Vehicle Supply Equipment (EVSE) used to transfer electrical energy to an EV from an Electric Utility Power System (Utility) in North America. This document defines, either directly or by reference, all characteristics of the total EV Energy Transfer System (EV-ETS) necessary to insure the functional interoperability of an EV and EVSE of the same physical system architecture. The ETS, regardless of architecture, is responsible for the conversion of AC electrical energy into DC electrical energy that can be used to charge the Storage Battery of an EV, as shown in &lt;span class="xref"&gt;Figure 1&lt;/span&gt;.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;The different physical ETS system architectures are identified by the form of the energy that is transferred between the EV and the EVSE, as shown in &lt;span class="xref"&gt;Figure 2&lt;/span&gt;. It is possible for an EV and EVSE to support more than one architecture.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not contain all requirements related to EV energy transfer, as there are many aspects of an EV and EVSE that do not affect their interoperability. Specifically, this document does not deal with the characteristics of the interface between the EVSE and the Utility, except to acknowledge the Utility as the source of energy to be transferred to the EV.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The functional requirements for the ETS are described using a functional decomposition method. This is where requirements are successively broken down into simpler requirements and the relationships between requirements are captured in a graphic form. The requirements are written as the transformation of inputs into outputs, resulting in a model of the total system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Each lowest level requirement is then allocated to one of four functional groups (FG) shown in &lt;span class="xref"&gt;Figure 2&lt;/span&gt;. These groups illustrate the variations of the three different system architectures, as the functions they represent will be accomplished either on an EV or within the EVSE, depending on the architecture. Physical requirements for the channels used to transfer the power and communicate information between the EV and the EVSE are then defined as a function of architecture. System architecture variations are referred to as follows:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Type A—Conductive AC System Architecture—&lt;span class="xref"&gt;Section 7.2.1&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Type B—Inductive System Architecture—&lt;span class="xref"&gt;Section 7.2.2&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Type C—Conductive DC System Architecture—&lt;span class="xref"&gt;Section 7.2.3&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+    &lt;div class="htmlview paragraph"&gt;The requirements model in &lt;span class="xref"&gt;Section 6&lt;/span&gt; is not intended to dictate a specific design or physical implementation, but rather to provide a functional description of the system’s expected operational results. These results can be compared against the operation of any specific design. Validation against this document is only appropriate at the physical boundary between the EVSE and EV. See &lt;span class="xref"&gt;Section 8&lt;/span&gt;.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

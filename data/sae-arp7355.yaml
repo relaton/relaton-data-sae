@@ -1,0 +1,58 @@
+---
+id: SAEARP7355
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Assessment of Elastomer Volume Swelling Behavior in Aero-Derived Gas Turbine
+    Engine Lubricants - Short Duration Test
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp7355
+- type: src
+  content: https://saemobilus.sae.org/standards/arp7355-assessment-elastomer-volume-swelling-behavior-aero-derived-gas-turbine-engine-lubricants-short-duration-test
+docidentifier:
+- content: SAE ARP7355
+  type: SAE
+  primary: true
+- content: 10.4271/arp7355
+  type: DOI
+date:
+- type: approved
+  at: '2020-02-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-34 Propulsion Lubricants Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This method is used for determining the volume swelling effect of aero-derived gas turbine engine lubricants on elastomeric materials. It provides insight into the expected performance of a candidate lubricants impact upon elastomer swell and provides data to determine if the candidate lubricant meets specification requirements. This ARP is based upon Federal Standard 791, Method 3604.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

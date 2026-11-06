@@ -1,0 +1,49 @@
+---
+id: SAEAMS5629A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS, FORGINGS, TUBING, AND RINGS, CORROSION RESISTANT 13Cr - 8Ni
+    - 2.3Mo - 1.1Al Vacuum Induction plus Consumable Electrode Melted
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5629a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5629a-steel-bars-forgings-tubing-rings-corrosion-resistant-13cr-8ni-23mo-11al-vacuum-induction-plus-consumable-electrode-melted
+docidentifier:
+- content: SAE AMS5629A
+  type: SAE
+  primary: true
+- content: 10.4271/ams5629a
+  type: DOI
+date:
+- type: approved
+  at: '1970-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

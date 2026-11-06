@@ -1,0 +1,61 @@
+---
+id: SAEJ28362_201109
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Use Cases for Communication between Plug-in Vehicles and Off-Board DC Charger
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2836/2_201109
+- type: src
+  content: https://saemobilus.sae.org/standards/j28362_201109-use-cases-communication-plug-vehicles-off-board-dc-charger
+docidentifier:
+- content: SAE J2836/2_201109
+  type: SAE
+  primary: true
+- content: 10.4271/j2836/2_201109
+  type: DOI
+date:
+- type: approved
+  at: '2011-09-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report SAE J2836/2™ establishes use cases and general information for communication between plug-in electric vehicles and the DC Off-board charger. Where relevant, this document notes, but does not formally specify, interactions between the vehicle and vehicle operator.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This applies to the off-board DC charger for conductive charging, which supplies DC current to the vehicle battery of the electric vehicle through a SAE J1772™ Hybrid coupler or SAE J1772™ AC Level 2 type coupler on DC power lines, using the AC power lines or the pilot line for PLC communication, or dedicated communication lines that is further described in SAE J2847/2.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The specification supports DC energy transfer via Forward Power Flow (FPF) from grid-to-vehicle.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The relationship of this document to the others that address PEV communications is further explained in section &lt;span class="xref"&gt;5&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This is the 1st version of this document and completes step 1 effort that captures the initial objectives of the SAE task force. The intent of step 1 was to record as much information on “what we think works” and publish. The effort continues however, to step 2 that allows public review for additional comments and viewpoints, while the task force also continues additional testing and early implementation. Results of step 2 effort will then be incorporated into updates of this document and lead to a republished version.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

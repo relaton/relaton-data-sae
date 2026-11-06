@@ -1,0 +1,57 @@
+---
+id: SAEAIR910A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: OZONE PROBLEMS IN HIGH ALTITUDE AIRCRAFT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air910a
+- type: src
+  content: https://saemobilus.sae.org/standards/air910a-ozone-problems-high-altitude-aircraft
+docidentifier:
+- content: SAE AIR910A
+  type: SAE
+  primary: true
+- content: 10.4271/air910a
+  type: DOI
+date:
+- type: approved
+  at: '1996-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this report is to provide information on ozone and its control in high altitude aircraft environmental systems. Sources of this information are listed in the selected bibliography appearing at the end of this report, to which references are made throughout.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

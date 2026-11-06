@@ -1,0 +1,49 @@
+---
+id: SAEARP4418
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Procedure for Sampling and Measurement of Engine Generated Contaminants
+    in Bleed Air Supplies From Aircraft Engines Under Normal Operating Conditions
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4418
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4418-procedure-sampling-measurement-engine-generated-contaminants-bleed-air-supplies-aircraft-engines-normal-operating-conditions
+docidentifier:
+- content: SAE ARP4418
+  type: SAE
+  primary: true
+- content: 10.4271/arp4418
+  type: DOI
+date:
+- type: approved
+  at: '1995-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-31 Aircraft Eng Gas and Particulate Emissions Measurement
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

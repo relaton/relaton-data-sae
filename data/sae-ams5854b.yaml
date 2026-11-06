@@ -1,0 +1,58 @@
+---
+id: SAEAMS5854B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nickel Alloy, Corrosion and Heat-Resistant, Bars, Wire, Forgings, and Rings
+    61Ni - 20.5Cr - 8.5Mo - 3.4Cb(Nb) - 1.3Ti - 5.0Fe Consumable Electrode or Vacuum
+    Induction Melted Solution Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5854b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5854b-nickel-alloy-corrosion-heat-resistant-bars-wire-forgings-rings-61ni-205cr-85mo-34cb-nb-13ti-50fe-consumable-electrode-vacuum-induction-melted-solution-heat-treated
+docidentifier:
+- content: SAE AMS5854B
+  type: SAE
+  primary: true
+- content: 10.4271/ams5854b
+  type: DOI
+date:
+- type: approved
+  at: '2010-05-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat-resistant nickel alloy in the form of bars, wire, forgings, flash welded rings, extrusions, and stock for forging or flash welded rings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

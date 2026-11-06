@@ -1,0 +1,56 @@
+---
+id: SAEJ421_201801
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Cleanliness Rating of Steels by the Magnetic Particle Method
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j421_201801
+- type: src
+  content: https://saemobilus.sae.org/standards/j421_201801-cleanliness-rating-steels-magnetic-particle-method
+docidentifier:
+- content: SAE J421_201801
+  type: SAE
+  primary: true
+- content: 10.4271/j421_201801
+  type: DOI
+date:
+- type: approved
+  at: '2018-01-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Metals Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice provides a rating procedure for the cleanliness rating of steels by the magnetic particle method. The procedure is based on counting the number of indications (frequency) and employs a weighted value to obtain a severity factor. The method outlined is similar to that described in SAE Aerospace Material Specification AMS 2301.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

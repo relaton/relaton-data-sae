@@ -1,0 +1,58 @@
+---
+id: SAEJ1460_201302
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Human Mechanical Response Characteristics
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1460_201302
+- type: src
+  content: https://saemobilus.sae.org/standards/j1460_201302-human-mechanical-response-characteristics
+docidentifier:
+- content: SAE J1460_201302
+  type: SAE
+  primary: true
+- content: 10.4271/j1460_201302
+  type: DOI
+date:
+- type: approved
+  at: '2013-02-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Human Biomechanics and Simulations Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;While this report does not include a discussion of all of the available data defining human response or address all body areas, for those areas addressed it does utilize references generally judged by those in the field to be practical and meaningful guidelines for the development of human surrogates. This report is intended to be a “living” document that will be updated periodically.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A number of problems need to be addressed in defining human impact response characteristics. There is the problem of human response variability from subject to subject in volunteer tests. There is the problem of extrapolating such volunteer data which are obtained at low impact severities to higher impact severities using human cadaver response data obtained at injurious levels of impacts. Live animal experiments have been conducted over the years in an attempt to define human impact response and tolerance. The problem with using animal response data is the lack of geometric scaling techniques needed to interpret the data relative to the human size and shape. The last problem area is that the human form is not of unique size and proportion. There are significant geometric differences between and among adults and children and between males and females. The available literature dictates that treatment of this topic be constrained essentially to guidelines for average adult male responses, with the exception that thoracic response has also been quantified for 5th precentile female and 95th percentile male adults.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The scope of this first-generation report will be limited to discussions of the response characteristics of the head, face, neck, and thorax. While there are many additional regions of the body for which mechanical response characteristics have been quantified to some degree, only these four categories are addressed in this first-generation document. This limitation facilitated the issuance of this document. Moreover, these areas are thought to be of primary interest to expected readers. It is intended that any new data enabling more comprehensive treatments of the above topics be utilized in future updates of the report. Furthermore, additional body areas such as the abdomen and knee-thigh-hip complex are to be addressed.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

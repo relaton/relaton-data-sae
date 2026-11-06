@@ -1,0 +1,56 @@
+---
+id: SAEARP843A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Chip Detector, Electrical Connection, Remote Indicating
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp843a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp843a-chip-detector-electrical-connection-remote-indicating
+docidentifier:
+- content: SAE ARP843A
+  type: SAE
+  primary: true
+- content: 10.4271/arp843a
+  type: DOI
+date:
+- type: approved
+  at: '2012-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice is applicable to the design of remote indicating magnetic chip detectors installed in the lube systems, hydraulic systems, controls systems, gearboxes, constant speed drives, etc. of Aerospace Power Plants. It is not applicable to the touch-to-test type terminal models.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

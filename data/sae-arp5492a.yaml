@@ -1,0 +1,56 @@
+---
+id: SAEARP5492A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Cargo Systems - Missing Restraint Limitations Layouts
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5492a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5492a-aircraft-cargo-systems-missing-restraint-limitations-layouts
+docidentifier:
+- content: SAE ARP5492A
+  type: SAE
+  primary: true
+- content: 10.4271/arp5492a
+  type: DOI
+date:
+- type: approved
+  at: '2014-12-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides recommendations for aircraft manufacturers and operating carriers about how to establish common information for the use of cargo systems with missing/inoperative restraints. Because of the fact that the certified restriction requirements due to missing/inoperative restraints are dependent of the specific aircraft structure and the system layout of the cargo loading system, this document shall only recommend common layout of information for the users based on the certified data provided to allow for common training, understanding and handling. This shall be used right from the beginning for future aircraft types for certified data.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

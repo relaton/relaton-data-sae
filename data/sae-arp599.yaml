@@ -1,0 +1,57 @@
+---
+id: SAEARP599
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: A DYNAMIC TEST METHOD FOR DETERMINING THE DEGREE OF CLEANLINESS OF THE
+    DOWNSTREAM SIDE OF FILTER ELEMENTS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp599
+- type: src
+  content: https://saemobilus.sae.org/standards/arp599-a-dynamic-test-method-determining-degree-cleanliness-downstream-side-filter-elements
+docidentifier:
+- content: SAE ARP599
+  type: SAE
+  primary: true
+- content: 10.4271/arp599
+  type: DOI
+date:
+- type: approved
+  at: '1996-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This test method describes a procedure for determining the insoluble contamination level of the downstream side of filter elements. Results of this procedure are intended to be used only for evaluation of the effectiveness of various cleaning treatments, or cleanliness of element as received from manufacturers. The data obtained by this procedure do not necessarily indicate, qualitatively or quantitatively, the contamination which may be released by a filter element into a fluid during service use. Because of the wide variety of conditions which may exist in service applications, it is recommended that the user design and conduct his own particular service performance test. (See paragraph &lt;span class="xref"&gt;10.1&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

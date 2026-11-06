@@ -1,0 +1,48 @@
+---
+id: SAEAS354A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PIN - PROPELLER SHAFT WRENCH
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as354a
+- type: src
+  content: https://saemobilus.sae.org/standards/as354a-pin-propeller-shaft-wrench
+docidentifier:
+- content: SAE AS354A
+  type: SAE
+  primary: true
+- content: 10.4271/as354a
+  type: DOI
+date:
+- type: approved
+  at: '2005-10-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-4 Packaging, Handling and Transportability Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

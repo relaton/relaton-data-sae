@@ -1,0 +1,60 @@
+---
+id: SAEJ2189_200112
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guidelines for Evaluating Child Restraint System Interactions with Deploying
+    Airbags
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2189_200112
+- type: src
+  content: https://saemobilus.sae.org/standards/j2189_200112-guidelines-evaluating-child-restraint-system-interactions-deploying-airbags
+docidentifier:
+- content: SAE J2189_200112
+  type: SAE
+  primary: true
+- content: 10.4271/j2189_200112
+  type: DOI
+date:
+- type: approved
+  at: '2001-12-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Human Biomechanics and Simulations Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report prescribes dummies, procedures, and configurations that can be used for investigating the interactions that might occur between a deploying airbag and a child restrained by a child restraint system (CRS). During the inflation process, airbags generate a considerable amount of kinetic energy which can result in substantial forces being applied to a child who is restrained in a CRS in the front seat of a vehicle. Field data collected by the special crash investigation team of the National Highway Traffic Safety Administration (NHTSA) indicate that fatal forces can be developed. In response to these field data, NHTSA added a series of airbag/child interaction tests and limits to the Code of Federal Regulations (CFR 571.208) that deal with occupant protection, commonly known as Federal Motor Vehicle Safety Standards (FMVSS 208). The bases for NHTSA tests are the various test procedures that were developed by the International Standards Organization (ISO) and the Society of Automotive Engineers (SAE). This document was one of those reports.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document describes static and dynamic tests that can be used to assess the injury potential of such interactions. The static tests can be used to sort these interactions on a comparative basis in either an actual or a simulated vehicle environment. Systems that appear to warrant further testing can be subjected to an appropriate dynamic test. Engineering judgment will be needed to identify the test conditions that produce the most severe interactions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Mild-severity and high-severity crash pulses are described in &lt;span class="xref"&gt;8.2&lt;/span&gt;. These pulses are not vehicle-specific but represent general acceleration-time histories for two crash conditions. The mild-severity pulse approximates a crash that would just deploy a typical airbag. This pulse would be used to evaluate the effect of the energy of the deploying airbag when the CRS and dummy are exerting the least amount of inertial force in the forward direction, but the dummy and/or CRS is moved forward by that inertial force. The high-severity pulse is similar to that specified in FMVSS 213 to evaluate CRS performance and would be used here to evaluate the airbag as an additional variable in a well-documented crash environment. These generic pulses or other vehicle-specific pulses may be used as appropriate. Differences in shape between the generic and the vehicle-specific pulses are expected to be greater for the high-severity than the mild-severity, with corresponding differences expected in dummy responses.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document encourages the use of a wide range of test configurations and conditions, while recognizing that the range of possible interactions is essentially limitless and beyond testing capability. Further, measurements of primary importance for the various configurations are given in &lt;span class="xref"&gt;Section 10&lt;/span&gt;, &lt;span class="xref"&gt;Table 1&lt;/span&gt;, but performance limits are not specified. FMVSS 208 does specify performance limits which are based on the injury risk curves given in References SAE 973318 and SAE 2000-01-SC005.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

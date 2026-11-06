@@ -1,0 +1,81 @@
+---
+id: SAEARP4754B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guidelines for Development of Civil Aircraft and Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4754b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4754b-guidelines-development-civil-aircraft-systems
+docidentifier:
+- content: SAE ARP4754B
+  type: SAE
+  primary: true
+- content: 10.4271/arp4754b
+  type: DOI
+date:
+- type: approved
+  at: '2023-12-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-18 Aircraft and Sys Dev and Safety Assessment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides recommendations for the development of aircraft and &lt;u&gt;systems&lt;/u&gt;, taking into account aircraft &lt;u&gt;functions&lt;/u&gt; and operating environment. It provides practices for ensuring the &lt;u&gt;safety&lt;/u&gt; of the overall aircraft design, showing compliance with regulations, and assisting a company in developing and meeting its own internal standards. These practices include &lt;u&gt;validation&lt;/u&gt; of &lt;u&gt;requirements&lt;/u&gt; and &lt;u&gt;verification&lt;/u&gt; of the design implementation for safety, &lt;u&gt;certification&lt;/u&gt;, and product &lt;u&gt;assurance&lt;/u&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The &lt;u&gt;guidelines&lt;/u&gt; in this document were developed in the context of U.S. Title 14 Code of Federal Regulations (14 CFR) Part 25 and European Union Aviation Safety Agency (EASA) Certification Specification (CS) CS-25. They may be applicable in the context of other regulations, such as 14 CFR Parts 23, 27, 29, 33, and 35, and CS-23, CS-27, CS-29, CS-E, and CS-P.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document addresses the development cycle for aircraft and systems that implement aircraft and system functions. It does not include detailed information on the following subjects and references:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;u&gt;Software&lt;/u&gt; development; refer to RTCA DO-178C/EUROCAE ED-12C.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Electronic &lt;u&gt;hardware&lt;/u&gt; development; refer to RTCA DO-254/EUROCAE ED-80.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Integrated modular avionics development; refer to RTCA DO-297/EUROCAE ED-124.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Airworthiness security &lt;u&gt;process&lt;/u&gt;; refer to RTCA DO-326A/EUROCAE ED-202A.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Safety &lt;u&gt;assessment&lt;/u&gt; processes; refer to ARP4761A/EUROCAE ED-135.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;A process for accomplishing in-service safety assessment is described in ARP5150A and ARP5151A or in other documents such as the &lt;u&gt;guidance&lt;/u&gt; material of EASA Part 21 (GM21) when required by applicable regulation. In this document, wherever references to ARP5150A/ARP5151A are made, the reader should understand this also implies EASA Part 21 (GM21).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Master Minimum Equipment List (MMEL) or Configuration Deviation List (CDL) development; refer to applicable regulatory guidance from the applicable &lt;u&gt;Certification Authority&lt;/u&gt;.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Aircraft structure and aerodynamics development.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Figure 1&lt;/span&gt; outlines the relationships between the various development documents, which provide guidelines for safety assessment, electronic hardware and software life cycle processes, and the system development process described herein.&lt;/div&gt;
+
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

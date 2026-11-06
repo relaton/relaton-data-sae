@@ -1,0 +1,57 @@
+---
+id: SAEAMS4251C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy Sheet, 2.7Cu - 2.2Li - 0.12Zr (2090-T83), Solution Heat
+    Treated, Cold Worked, and Precipitation Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4251c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4251c-aluminum-alloy-sheet-27cu-22li-012zr-2090-t83-solution-heat-treated-cold-worked-precipitation-heat-treated
+docidentifier:
+- content: SAE AMS4251C
+  type: SAE
+  primary: true
+- content: 10.4271/ams4251c
+  type: DOI
+date:
+- type: approved
+  at: '2022-09-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of sheet 0.040 to 0.249 inch (1.02 to 6.32 mm) in nominal thickness (see &lt;span class="xref"&gt;8.7&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

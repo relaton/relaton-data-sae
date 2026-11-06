@@ -1,0 +1,56 @@
+---
+id: SAEAIR6908
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Impact Characteristics of Seat Back Mounted IFE Monitors - Basis for ARP6330
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6908
+- type: src
+  content: https://saemobilus.sae.org/standards/air6908-impact-characteristics-seat-back-mounted-ife-monitors-basis-arp6330
+docidentifier:
+- content: SAE AIR6908
+  type: SAE
+  primary: true
+- content: 10.4271/air6908
+  type: DOI
+date:
+- type: approved
+  at: '2018-09-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aircraft Seat Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides background information, rationale, and data (both physical testing and computer simulations) used in defining the component test methods and similarity criteria described in SAE Aerospace Recommended Practice (ARP) 6330. ARP6330 defines multiple test methods uses to assess the effect of seat back mounted IFE monitor changes on blunt trauma to the head and post-impact sharp edge generation. The data generated is based on seat and IFE components installed on type A-T (transport airplane) certified aircraft. While not within the scope of ARP6330, generated test data for the possible future development of surrogate target evaluation methods is also included.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,55 @@
+---
+id: SAEAMS3259B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Sealing Compound, Polythioether Nonchromated, Corrosion Inhibiting for
+    Intermittent Use to 360°F (182°C)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3259b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3259b-sealing-compound-polythioether-nonchromated-corrosion-inhibiting-intermittent-use-360f-182c
+docidentifier:
+- content: SAE AMS3259B
+  type: SAE
+  primary: true
+- content: 10.4271/ams3259b
+  type: DOI
+date:
+- type: approved
+  at: '2005-07-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G9 Aerospace Sealing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This specification covers a polythioether sealing compound with nonchromated corrosion inhibitors supplied as a two-component system which cures at room temperature.&lt;/p&gt;
+    &lt;p&gt;The compound has been used typically for faying surface sealing and for wet-installation of fasteners in aircraft structural joints, but usage is not limited to such applications. This compound is also suitable for fillet sealing and overcoating fasteners in nonfuel areas. The sealing compounds are usable from -65 to +320 degrees F (-54 to +160 degrees C) with short term (six hour) exposures up to 36 degrees F (182 degrees C).&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

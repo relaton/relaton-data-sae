@@ -1,0 +1,56 @@
+---
+id: SAEAMS5635B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS AND FORGINGS, CORROSION RESISTANT 18Cr - 9Ni (303Pb) Free-Machining
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5635b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5635b-steel-bars-forgings-corrosion-resistant-18cr-9ni-303pb-free-machining
+docidentifier:
+- content: SAE AMS5635B
+  type: SAE
+  primary: true
+- content: 10.4271/ams5635b
+  type: DOI
+date:
+- type: approved
+  at: '1981-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a free-machining, corrosion-resistant steel in the form of bars, wire, forgings, and forging stock.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

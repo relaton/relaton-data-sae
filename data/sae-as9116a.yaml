@@ -1,0 +1,61 @@
+---
+id: SAEAS9116A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Series - Notice of Change (NOC)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9116a
+- type: src
+  content: https://saemobilus.sae.org/standards/as9116a-aerospace-series-notice-change-noc
+docidentifier:
+- content: SAE AS9116A
+  type: SAE
+  primary: true
+- content: 10.4271/as9116a
+  type: DOI
+date:
+- type: approved
+  at: '2024-05-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The aviation, space, and defense industries rely on the development and manufacture of complex products comprised of multiple systems, subsystems, and components each designed by individual designers (design activities) at various levels within the supply chain. Each design or manufacturing activity controls various aspects of the configuration and specifications related to the product. When a change to design or process is requested or required, the change is typically required to be evaluated against the impacts to the entire system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Proposed changes to design data/information that the design activity identifies to be minor and have no effect on the product requirements or specifications, have the potential to be implemented and approved, where authorized to do so, but requires notification. Changes that affect customer mandated requirements or specifications shall be approved prior to implementation. In many cases, the design activity is not conducted by the DAH or design authority. The design activity may be several layers below the design approval. Irrespective of where the design activity is conducted in the supply chain, notification is required. The typical change notification flow is presented in &lt;span class="xref"&gt;Figure 1&lt;/span&gt;.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;Submitting NOC data either electronically or conventionally on paper is subject to the terms and conditions of the customer’s contract. This also includes, where applicable, data access under the regulations of export control.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The process of exchanging, coordinating, and approving NOC data varies with the multiple relationships and agreements among all organizations concerned. An objective of this standard is to provide the definition of a data set that can be integrated into any form of communication (e.g., electronic data interchange, submission of conventional paper forms). A sample form can be found in the Supply Chain Management Handbook (SCMH).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;If all or part of this standard is contractually invoked, design organizations and design holders (i.e., the organization responsible for the product end item design) that have responsibility for change management of products used on other higher-level designs shall use the information and processes defined in this standard for submitting change notifications.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

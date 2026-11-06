@@ -1,0 +1,69 @@
+---
+id: SAEGEIAHB649
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Implementation Guide for Configuration Management
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/geiahb649
+- type: src
+  content: https://saemobilus.sae.org/standards/geiahb649-implementation-guide-configuration-management
+docidentifier:
+- content: SAE GEIA-HB-649
+  type: SAE
+  primary: true
+- content: 10.4271/geiahb649
+  type: DOI
+date:
+- type: approved
+  at: '2005-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-33 Configuration Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This handbook provides guidance about the use of CM and about CM's interface with other management systems and procedures. The paragraph numbers in this handbook map directly to the paragraph numbers in ANSI/EIA-649. It is applicable to the support of projects throughout all phases of a product's life cycle. Generic CM examples are included which may be tailored, taking into account the complexity and nature of the work and the product. It is applicable to the support of projects throughout all phases of a products life cycle. Generic CM examples are included and may be tailored to suit the complexity and nature of the work and the product.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This handbook establishes a common framework for generic product life cycle CM. It addresses tailored implementation based on differences that may exist in organization policies and procedures, in the phase of the product life cycle, in the acquisition method, in the project size and complexity, and in the system requirements and development. A characterization of these differences will aid in the determination of the extent of the required CM process. A CM process should be tailored to the context and environment to which it is applied.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Tailoring for a specific product may involve:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;−&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;more or less stringent criteria,&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;−&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;implementing only some of the functions and principles, or&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;−&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;implementing to a lesser or greater degree of complexity.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;The attributes of the context and environment will dictate which of these individual tailoring approaches will be used for each of the CM functions in the CM Plan; see &lt;span class="xref"&gt;Section 5&lt;/span&gt; for CM functions.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

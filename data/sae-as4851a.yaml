@@ -1,0 +1,56 @@
+---
+id: SAEAS4851A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Relative Thermal Life and Temperature Index for Insulated Electric Wire
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4851a
+- type: src
+  content: https://saemobilus.sae.org/standards/as4851a-relative-thermal-life-temperature-index-insulated-electric-wire
+docidentifier:
+- content: SAE AS4851A
+  type: SAE
+  primary: true
+- content: 10.4271/as4851a
+  type: DOI
+date:
+- type: approved
+  at: '2023-07-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8D Wire and Cable Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This test method provides performance data on candidate insulation systems as a function of time and temperature. These data give engineering information on the wire insulation candidate relative to the performance of materials already in use with a backlog of experience. These tests expose candidate insulation systems to a wide range of temperatures for short and long periods of time, while measuring the degradation of its physical properties. For aerospace use, end-point proof tests include mandrel bend, water soak, and dielectric integrity.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

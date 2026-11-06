@@ -1,0 +1,57 @@
+---
+id: SAEARP6420
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guidelines for Characterization of Gas Turbine Engine Total-Pressure, Planar-Wave,
+    and Total-Temperature Inlet-Flow Distortion
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6420
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6420-guidelines-characterization-gas-turbine-engine-total-pressure-planar-wave-total-temperature-inlet-flow-distortion
+docidentifier:
+- content: SAE ARP6420
+  type: SAE
+  primary: true
+- content: 10.4271/arp6420
+  type: DOI
+date:
+- type: approved
+  at: '2021-01-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-16 Turbine Engine Inlet Flow Distortion  Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The turbine-engine-inlet flow distortion descriptors summarized in this document apply to the effects of inlet total-pressure, planar-wave, and total-temperature distortions. Guidelines on stability margin, destabilizing influences, types and purposes of inlet data, AIP definition, and data acquisition and handling are summarized from AIR5866, AIR5867, ARP1420, and AIR1419. The degree to which these recommendations are applied to a specific program should be consistent with the complexity of the inlet/engine integration. Total-pressure distortion is often the predominant destabilizing element that is encountered and is often the only type of distortion to be considered, i.e, not all types of distortion need to be considered for all vehicles.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

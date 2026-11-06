@@ -1,0 +1,56 @@
+---
+id: SAEAS58091A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Circuit Breakers, Trip-Free, Aircraft General Specification For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as58091a
+- type: src
+  content: https://saemobilus.sae.org/standards/as58091a-circuit-breakers-trip-free-aircraft-general-specification
+docidentifier:
+- content: SAE AS58091A
+  type: SAE
+  primary: true
+- content: 10.4271/as58091a
+  type: DOI
+date:
+- type: approved
+  at: '2012-05-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7P Protective and Control Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The primary function of this specification is to cover the general requirements of one-, two-, and three-phase (often referred to as poles) trip-free circuit breakers for use in aircraft electric systems conforming to MIL-STD-704. As a secondary function, this specification may possibly cover the general requirements of one-, two- and three-phase circuit breakers for use in primary vehicles, other than aircraft, when mounted directly to the structure.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

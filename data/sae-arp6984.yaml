@@ -1,0 +1,60 @@
+---
+id: SAEARP6984
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Determination of Cost Benefits from Implementing a Blockchain Solution
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6984
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6984-determination-cost-benefits-implementing-a-blockchain-solution
+docidentifier:
+- content: SAE ARP6984
+  type: SAE
+  primary: true
+- content: 10.4271/arp6984
+  type: DOI
+date:
+- type: approved
+  at: '2021-08-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-31 Digital Transactions for Aerospace
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides insights on how to perform a Cost Benefit Analysis (CBA) to determine the Return on Investment (ROI) that would result from implementing a blockchain solution to a new or an existing business process. The word “blockchain” refers to a method of documenting when data transactions occur using a distributed ledger with desired immutable qualities. The scope of the current document is on enterprise blockchain which gives the benefit of standardized cryptography, legal enforceability and regulatory compliance. The document analyzes the complexity involved with this technology, lists some of the different approaches that can be used for conducting a CBA, and differentiates its analysis depending on whether the application uses a public or a private distributed network. This document is intended for people who do not have a deep technical understanding or familiarity with blockchain solutions to qualify and quantify its economic benefits (i.e., the value proposition).&lt;/div&gt;
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

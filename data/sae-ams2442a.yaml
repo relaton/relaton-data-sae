@@ -1,0 +1,56 @@
+---
+id: SAEAMS2442A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Magnetic Particle Acceptance Criteria for Parts
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2442a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2442a-magnetic-particle-acceptance-criteria-parts
+docidentifier:
+- content: SAE AMS2442A
+  type: SAE
+  primary: true
+- content: 10.4271/ams2442a
+  type: DOI
+date:
+- type: approved
+  at: '2022-10-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes acceptance criteria for discontinuities revealed by magnetic particle inspection of parts made from wrought, ferromagnetic materials.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

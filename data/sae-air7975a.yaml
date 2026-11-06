@@ -1,0 +1,70 @@
+---
+id: SAEAIR7975A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Fuel System Design Guidelines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air7975a
+- type: src
+  content: https://saemobilus.sae.org/standards/air7975a-aircraft-fuel-system-design-guidelines
+docidentifier:
+- content: SAE AIR7975A
+  type: SAE
+  primary: true
+- content: 10.4271/air7975a
+  type: DOI
+date:
+- type: approved
+  at: '2026-06-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5A Aerospace Fuel, Inerting and Lubrication Sys Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes the major design drivers and considerations when designing a fuel system for a large commercial aircraft. While not intended as a design manual for individual system components, it does refer out to other SAE specifications where more detail on specific components and subsystems is given. It does include examples of a number of calculations associated with sizing of fuel systems, based on those given in NAVAIR 06-5-504, as well as an appendix summarizing basic fluid mechanical equations that are key for fuel system design. It is acknowledged that most of these calculations would today be performed by modeling tools rather than by hand, but it is considered important for the designer to understand the principles.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Some details specific to military aircraft are included, but it is intended that later issues of this document will include appendices that give specific considerations for military aircraft, smaller commercial aircraft, and rotorcraft. Features unique to these types of vehicle are generally not included in this issue.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

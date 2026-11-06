@@ -1,0 +1,53 @@
+---
+id: SAEAMST8506B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Tubing, Steel, Corrosion-Resistant, (304), Annealed, Seamless and Welded
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/amst8506b
+- type: src
+  content: https://saemobilus.sae.org/standards/amst8506b-tubing-steel-corrosion-resistant-304-annealed-seamless-welded
+docidentifier:
+- content: SAE AMS-T-8506B
+  type: SAE
+  primary: true
+- content: 10.4271/amst8506b
+  type: DOI
+date:
+- type: approved
+  at: '2007-08-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers seamless and welded tubing of corrosion-resistant
+    steel in the annealed condition.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEJ2784_202101
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FMVSS Inertia Dynamometer Test Procedure for Vehicles Below 4540 kg GVWR
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2784_202101
+- type: src
+  content: https://saemobilus.sae.org/standards/j2784_202101-fmvss-inertia-dynamometer-test-procedure-vehicles-4540-kg-gvwr
+docidentifier:
+- content: SAE J2784_202101
+  type: SAE
+  primary: true
+- content: 10.4271/j2784_202101
+  type: DOI
+date:
+- type: approved
+  at: '2021-01-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Brake Dynamometer Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document derives from the Federal Motor Vehicle Safety Standards 105 and 135 vehicle test protocols as single-ended inertia-dynamometer test procedures. The test sequences enable brake output measurement, friction material effectiveness, and corner performance in a controlled and repeatable environment. This SAE Recommended Practice (RP) also includes optional sections for parking brake output performance for rear brakes. It applies to brake corners from vehicles covered by the FMVSS 105 and 135 when using the appropriate brake hardware and test parameters. The FMVSS 135 applies to all passenger cars and light trucks up to 3500 kg of GVWR. The FMVSS 105 applies to all passenger cars, multi-purpose vehicles, buses, and trucks above 3500 kg of GVWR. This document does not include testing for school bus applications or vehicles equipped with hydraulic brakes with a GVWR above 4540 kg.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

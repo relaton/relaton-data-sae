@@ -1,0 +1,57 @@
+---
+id: SAEAIR9968
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Field Viscosity Test of Thickened Aircraft Deicing/Anti-icing Fluids
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air9968
+- type: src
+  content: https://saemobilus.sae.org/standards/air9968-field-viscosity-test-thickened-aircraft-deicing-anti-icing-fluids
+docidentifier:
+- content: SAE AIR9968
+  type: SAE
+  primary: true
+- content: 10.4271/air9968
+  type: DOI
+date:
+- type: approved
+  at: '2003-02-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12F Fluids Subcommittee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides a description of a reference method for field viscosity tests of thickened (AMS 1428) anti-icing fluids.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

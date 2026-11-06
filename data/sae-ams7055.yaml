@@ -1,0 +1,57 @@
+---
+id: SAEAMS7055
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Carburizing Steel Alloy, Powder for Additive Manufacturing 3.5Cr - 7.5Ni
+    - 16.3Co - 1.75Mo - 0.2W - (0.10 - 0.15 C)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7055
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7055-carburizing-steel-alloy-powder-additive-manufacturing-35cr-75ni-163co-175mo-02w-010-015-c
+docidentifier:
+- content: SAE AMS7055
+  type: SAE
+  primary: true
+- content: 10.4271/ams7055
+  type: DOI
+date:
+- type: approved
+  at: '2025-01-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS AM Additive Manufacturing Metals
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The intended upper bound of this specification is that the particle size distribution (PSD) of powders supplied shall be &amp;lt;60 mesh (250 µm) and that no powder (0.0 wt.%) greater than 40 mesh (425 µm) is allowed.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

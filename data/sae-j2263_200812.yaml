@@ -1,0 +1,57 @@
+---
+id: SAEJ2263_200812
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Road Load Measurement Using Onboard Anemometry and Coastdown Techniques
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2263_200812
+- type: src
+  content: https://saemobilus.sae.org/standards/j2263_200812-road-load-measurement-using-onboard-anemometry-coastdown-techniques
+docidentifier:
+- content: SAE J2263_200812
+  type: SAE
+  primary: true
+- content: 10.4271/j2263_200812
+  type: DOI
+date:
+- type: approved
+  at: '2008-12-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Light Duty Vehicle Performance and Economy Measure Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes a procedure for determination of vehicle road load force for speeds between 115 and 15 km/h (71.5 and 9.3 mi/h). It employs the coastdown method and applies to vehicles designed for on-road operation. The final result is a model of road load force (as a function of speed) during operation on a dry, level road under reference conditions of 20 °C (68 °F), 98.21 kPa (29.00 in-Hg), no wind, no precipitation, and the transmission in neutral.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

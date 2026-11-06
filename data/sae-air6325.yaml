@@ -1,0 +1,58 @@
+---
+id: SAEAIR6325
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fuel Level Point Sensing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6325
+- type: src
+  content: https://saemobilus.sae.org/standards/air6325-fuel-level-point-sensing
+docidentifier:
+- content: SAE AIR6325
+  type: SAE
+  primary: true
+- content: 10.4271/air6325
+  type: DOI
+date:
+- type: approved
+  at: '2020-11-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5A Aerospace Fuel, Inerting and Lubrication Sys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report is intended to identify the various existing technologies used for a fuel level sensing system. In addition to sensing technologies, it describes the basic architecture of fuel level sensing systems and their association with fuel gauging system to increase integrity of fuel measurement and management.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;As the fuel level sensing system is generally based on electrical components within fuel tanks, a specific focus is made on fuel tank explosion safety protection.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;An overview of the capacitive fuel gauging operation can be found in AIR5691.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

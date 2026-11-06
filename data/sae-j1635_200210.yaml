@@ -1,0 +1,57 @@
+---
+id: SAEJ1635_200210
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SAE Cold Start and Driveability Procedure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1635_200210
+- type: src
+  content: https://saemobilus.sae.org/standards/j1635_200210-sae-cold-start-driveability-procedure
+docidentifier:
+- content: SAE J1635_200210
+  type: SAE
+  primary: true
+- content: 10.4271/j1635_200210
+  type: DOI
+date:
+- type: approved
+  at: '2002-10-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Light Duty Vehicle Performance and Economy Measure Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>To subjectively evaluate engine starting behavior and driveability characteristics of a motor vehicle which has been soaked at ambient temperature for a given time period after attaining a stabilized engine coolant temperature. This SAE Recommended Practice also defines driveability defects and the rating system.
+
+    This evaluation may be affected by ambient temperature, altitude, fuel, and the road system.
+
+    The vehicle should be evaluated with all fuels recommended by the manufacturer. A partial list comprises reformulated gasoline, ethanol/gasoline and methanol/gasoline blends of various proportions, diesel #1, and diesel #2.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

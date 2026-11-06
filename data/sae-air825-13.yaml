@@ -1,0 +1,58 @@
+---
+id: SAEAIR82513
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guide for Evaluating Combustion Hazards in Aircraft Oxygen Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air825/13
+- type: src
+  content: https://saemobilus.sae.org/standards/air82513-guide-evaluating-combustion-hazards-aircraft-oxygen-systems
+docidentifier:
+- content: SAE AIR825/13
+  type: SAE
+  primary: true
+- content: 10.4271/air825/13
+  type: DOI
+date:
+- type: approved
+  at: '2023-08-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This guide is intended to promote safe designs, operations and maintenance on aircraft and ground support oxygen systems. This is also a summary of some work by the ASTM G 4 Committee related to oxygen fire investigations and design concerns to reduce the risk of an oxygen fire. There have been many recent technological advances and additional test data is available for evaluating and controlling combustion hazards in oxygen equipment. Standards that use this new information are rapidly evolving. A guide is needed to assist organizations and persons not completely familiar with this process to provide oxygen systems with minimum risks of combustion. This guide does not necessarily address all the detailed issues and provide all data that will be needed. For a complete analysis, supplemental publications need to be consulted. This guide does discuss the basics of oxygen systems fire hazards. The hazard analysis process is discussed and a simple example to explain this process. Also, this guide does not address the overall system safety issues normally evaluated in aircraft programs. This guide does provide some important background and observations about combustion in oxygen systems. Information is given describing how to accomplish a hazard analysis. Furthermore, background is provided to explain critical locations in oxygen systems that need to be evaluated and other locations that do not require hazard analysis.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is important to note that any effort that requires a comprehensive and effective hazard analysis should use the complete information in the documents referenced herein. In general, the need for a hazard analysis applies primarily to gaseous oxygen equipment at 50 psi and higher pressures. LOX equipment does have hazards concerns as well and is usually treated similarly to GOX equipment at 500 psi. It should be noted that there are other phenomena associated with LOX equipment that must be considered. An example is that LOX can combine with hydrocarbons to form a gel, which explodes under impact. On the other hand, since LOX is a very cold liquid it tends to quench most possible ignition sources that could cause promoted ignition. When examining oxygen equipment at lower pressures the primary concern is the increased ignition and fire concern with combustible non-metals.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

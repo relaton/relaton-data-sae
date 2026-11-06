@@ -1,0 +1,56 @@
+---
+id: SAEJ2742_201304
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Combination 11 Conductors and 4 Pairs ECBS Cable
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2742_201304
+- type: src
+  content: https://saemobilus.sae.org/standards/j2742_201304-combination-11-conductors-4-pairs-ecbs-cable
+docidentifier:
+- content: SAE J2742_201304
+  type: SAE
+  primary: true
+- content: 10.4271/j2742_201304
+  type: DOI
+date:
+- type: approved
+  at: '2013-04-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Electrical Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE standard establishes the minimum construction and performance requirements for a combination cable consisting of 11 conductors and 4 twisted pairs for use on trucks, trailers, and dollies in conjunction with SAEJ2691. (15 pole connectors.) The cable includes both power and unjacketed SAE J1939-15 paired signal circuits along with dual ground wires to accommodate grounding requirements within the constraints of the SAE J2691 terminal capacity.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

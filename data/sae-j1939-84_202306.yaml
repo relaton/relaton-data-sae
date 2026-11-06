@@ -1,0 +1,59 @@
+---
+id: SAEJ193984_202306
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: OBD Communications Compliance Test Cases for Heavy-Duty Components and
+    Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939/84_202306
+- type: src
+  content: https://saemobilus.sae.org/standards/j193984_202306-obd-communications-compliance-test-cases-heavy-duty-components-vehicles
+docidentifier:
+- content: SAE J1939/84_202306
+  type: SAE
+  primary: true
+- content: 10.4271/j1939/84_202306
+  type: DOI
+date:
+- type: approved
+  at: '2023-06-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Recommended Practice is to verify that vehicles and/or components are capable of communicating a required set of information, which is described by the diagnostic messages specified in SAE J1939-73, that is in accordance with off-board diagnostic tool interface requirements contained in the government regulations cited below.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document describes the tests, methods, and results for verifying diagnostic communications from an off-board diagnostic tool (i.e., scan tool) to a vehicle and/or component. SAE members have generated this document to serve as a guide for testing vehicles for compliance with ARB and other requirements for emissions-related on-board diagnostic (OBD) functions for heavy-duty engines used in medium- and heavy-duty vehicles.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The development of HD OBD regulations by U.S. EPA and California’s Air Resources Board (ARB) require that diagnostic message services are exercised to evaluate diagnostic communication standardization requirements on production vehicles. The user should reference the summary provided by SAE J1939-73 &lt;span class="xref"&gt;Tables 1&lt;/span&gt; and &lt;span class="xref"&gt;2&lt;/span&gt; for OBD compliance support, and the discussion in SAE J1939-73 Appendix H for additional implementation concepts.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

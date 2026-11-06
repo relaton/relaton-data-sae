@@ -1,0 +1,53 @@
+---
+id: SAECRP006
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HFC-134a Lubricant Study & Addendum to HFC-134a Lubricant Study (CRP-007)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/crp-006
+- type: src
+  content: https://saemobilus.sae.org/standards/crp-006-hfc-134a-lubricant-study-addendum-hfc-134a-lubricant-study-crp-007
+docidentifier:
+- content: SAE CRP-006
+  type: SAE
+  primary: true
+- content: 10.4271/crp-006
+  type: DOI
+date:
+- type: approved
+  at: '1992-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This report, published as part of the SAE Cooperative Research Program,
+    provides in-depth information on the  properties of lubricants that are candidates
+    for mobile air  conditioning retrofits with HFC-134a. Numerous charts,  graphs
+    and tables are included.  Property information reported includes hygroscopicity,
+    miscibility, stability,  lubricity, desiccant compatibility and polymer  compatibility.
+    A thorough reference for all working with  HFC-134a! Addendum to HFC-134a Lubricant
+    Study is also  included.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

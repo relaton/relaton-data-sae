@@ -1,0 +1,60 @@
+---
+id: SAEGEIASTD0006B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Requirements for Using Robotic Hot Solder Dip to Replace the Finish on
+    Electronic Piece Parts
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/geiastd0006b
+- type: src
+  content: https://saemobilus.sae.org/standards/geiastd0006b-requirements-using-robotic-hot-solder-dip-replace-finish-electronic-piece-parts
+docidentifier:
+- content: SAE GEIA-STD-0006B
+  type: SAE
+  primary: true
+- content: 10.4271/geiastd0006b
+  type: DOI
+date:
+- type: approved
+  at: '2019-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-24 Pb-free Risk Management Committee for ADHP
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard defines the requirements for fully replacing undesirable surface finishes using robotic hot solder dip. Requirements for qualifying and testing the refinished piece parts are also included. This standard covers the replacement of pure tin and Pb-free tin alloy finishes with SnPb finishes with the intent of subsequent assembly with SnPb solder. This dipping is different from dipping to within some distance of the body for the purposes of solderability; solder dipping for purposes other than full replacement of pure tin and other Pb-free tin alloy finishes are beyond the scope of this document. It covers process and testing requirements for robotic dipping process and does not cover semi-automatic or purely manual dipping processes.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard does not apply to piece-part manufacturers who build piece parts with a hot solder dip finish. It applies to refinishing performed by a robotic hot solder dip service supplier or production facilities at the customer, whenever the intent of the dipping is to have full coverage and replacement of Pb-free tin. Replacement of BGA spheres or CGA columns is not included in the scope of this standard. IEC TS 62647-4 may be used for replacement of BGA spheres.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The intent of this standard is for suppliers and customers to incorporate these requirements into their operations to provide a consistent and well-controlled process for product applications that require significant control. Complete conversion of termination finishes from Pb-free to SnPb will allow use of piece parts for any of the Control Levels of GEIA-STD-0005-2 without mitigations. In addition to the elimination of tin whisker risks, piece parts processed to this standard will also exhibit enhanced solderability and solder joint reliability compared to most COTS finishes. Each customer shall determine the applicability of this standard and the need for full replacement of the existing termination finish. This standard does not guarantee a particular yield or reliability of piece parts going through solder dipping. Some applications may have unique requirements that exceed the scope of this standard and should be specified separately.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Pb-free tin piece parts which have been dipped in compliance with this standard are no longer considered to be Pb-free tin finished for the purposes of GEIA-STD-0005-2.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEJ273_200605
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Passenger Car Vehicle Identification Number System
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j273_200605
+- type: src
+  content: https://saemobilus.sae.org/standards/j273_200605-passenger-car-vehicle-identification-number-system
+docidentifier:
+- content: SAE J273_200605
+  type: SAE
+  primary: true
+- content: 10.4271/j273_200605
+  type: DOI
+date:
+- type: approved
+  at: '2006-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: VIN - WMI Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Recommended Practice provides direction for the design of
+    a passenger car Vehicle Identification Number (VIN). This practice supplements
+    SAE J272c. It applies to characteristics of passenger car descriptive and identifying
+    information which are to be set forth in a uniform manner in the vehicle identification
+    number.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEJ3295_202510
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Cooperative Perception Concept of Operations
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3295_202510
+- type: src
+  content: https://saemobilus.sae.org/standards/j3295_202510-cooperative-perception-concept-operations
+docidentifier:
+- content: SAE J3295_202510
+  type: SAE
+  primary: true
+- content: 10.4271/j3295_202510
+  type: DOI
+date:
+- type: approved
+  at: '2025-10-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Connected Transportation Interoperability Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This information report is a cooperative perception (CP) services concept of operations. Included is a description of CP systems and a description of the data potentially shared between its participants. The participants are the actors within the CP system, such as vehicles, bicycles, pedestrians and infrastructure. The types of data that can be shared among the actors are presented, and the types of features and applications that can be satisfied based on the types and accuracy of information shared are classified into categories. This report supports a wide variety of potential CP use cases ranging from connected-vehicle enabled driver-assistance applications (e.g., for collision avoidance) to connected automation.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAS1825
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: METHODOLOGY OF CALCULATING AIRCRAFT CARGO VOLUMES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1825
+- type: src
+  content: https://saemobilus.sae.org/standards/as1825-methodology-calculating-aircraft-cargo-volumes
+docidentifier:
+- content: SAE AS1825
+  type: SAE
+  primary: true
+- content: 10.4271/as1825
+  type: DOI
+date:
+- type: approved
+  at: '1983-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this Aerospace Standard shall cover the methodology of defining and determining the "Internal Volumes" of both the main deck and lower deck aircraft cargo compartments. The minimum required clearance between the compartment envelope and the unit load devices (ULD's) shall also be stated in order to provide the maximum OLD external contour and the methodology to define the OLD internal volumes. The methodology of defining and determining "maximum package sizes charts" for the cargo compartments shall also be included.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

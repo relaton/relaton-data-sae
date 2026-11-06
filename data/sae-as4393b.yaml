@@ -1,0 +1,64 @@
+---
+id: SAEAS4393B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nut, Self-Locking, UNS S66286, 1200 °F, 160 000 psi, UNJ Thread
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4393b
+- type: src
+  content: https://saemobilus.sae.org/standards/as4393b-nut-self-locking-uns-s66286-1200-f-160-000-psi-unj-thread
+docidentifier:
+- content: SAE AS4393B
+  type: SAE
+  primary: true
+- content: 10.4271/as4393b
+  type: DOI
+date:
+- type: approved
+  at: '2006-10-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes the requirements for the following types of self-locking nuts:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Wrenching Nuts: i.e., hexagon and double hexagon nuts.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Anchor Nuts: i.e., plate nuts, gang channel nuts, and shank nuts.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;The wrenching nuts, shank nuts, and nut elements of plate and gang channel nuts are made of corrosion and heat resistant precipitation hardenable iron base alloy of the type identified under the Unified Numbering System as UNS S66286 and of 160 000 psi axial tensile strength at room temperature, with maximum conditioning temperature of parts at 1200 °F prior to room temperature testing.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

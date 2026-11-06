@@ -1,0 +1,58 @@
+---
+id: SAEAIR6945
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Supplemental Information for Design of Measuring Devices for Measurement
+    of Aircraft Cabin Air Quality
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6945
+- type: src
+  content: https://saemobilus.sae.org/standards/air6945-supplemental-information-design-measuring-devices-measurement-aircraft-cabin-air-quality
+docidentifier:
+- content: SAE AIR6945
+  type: SAE
+  primary: true
+- content: 10.4271/air6945
+  type: DOI
+date:
+- type: approved
+  at: '2021-07-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9M Cabin Air Measurement Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides information applicable to the design and development of portable and aircraft mounted cabin air contaminant sensors. This AIR complements any future portable or aircraft-mounted cabin air sensor standards.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

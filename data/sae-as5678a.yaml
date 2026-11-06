@@ -1,0 +1,72 @@
+---
+id: SAEAS5678A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Passive RFID Tags Intended for Aircraft Use
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5678a
+- type: src
+  content: https://saemobilus.sae.org/standards/as5678a-passive-rfid-tags-intended-aircraft-use
+docidentifier:
+- content: SAE AS5678A
+  type: SAE
+  primary: true
+- content: 10.4271/as5678a
+  type: DOI
+date:
+- type: approved
+  at: '2015-12-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-18 Radio Frequency Identification (RFID) Aero Applications
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this document is to:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Provide a requirements document for RFID Tag Manufacturers to produce passive-only UHF RFID tags for the aerospace industry.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Identify the minimum performance requirements specific to the Passive UHF RFID Tag to be used on aircraft parts, to be accessed only during ground operations.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Specify the test requirements specific to Passive UHF RFID tags for airborne use, in addition to RTCA DO-160 compliance requirements separately called out in this document.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;4&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Identify existing standards applicable to Passive UHF RFID Tag.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;5&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Provide a certification standard for RFID tags which will use permanently-affixed installation on aircraft and aircraft parts.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

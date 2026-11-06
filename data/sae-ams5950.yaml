@@ -1,0 +1,58 @@
+---
+id: SAEAMS5950
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: NICKEL ALLOY, CORROSION AND HEAT RESISTANT, SHEET AND STRIP 52.5Ni - 19Cr
+    - 3.0Mo - 5.0Cb - 0.90Ti - 0.50Al - 18Fe Vacuum Induction and Consumable Electrode
+    Melted Solution Heat Treated, Precipitation Hardenable
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5950
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5950-nickel-alloy-corrosion-heat-resistant-sheet-strip-525ni-19cr-30mo-50cb-090ti-050al-18fe-vacuum-induction-consumable-electrode-melted-solution-heat-treated-precipitation-hardenable
+docidentifier:
+- content: SAE AMS5950
+  type: SAE
+  primary: true
+- content: 10.4271/ams5950
+  type: DOI
+date:
+- type: approved
+  at: '1996-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat resistant nickel alloy in the form of sheet and strip 0.080 inch (2.03 mm) and under in nominal thickness.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

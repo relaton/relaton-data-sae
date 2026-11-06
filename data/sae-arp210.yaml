@@ -1,0 +1,59 @@
+---
+id: SAEARP210
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Definition of Commonly Used Day Types (Atmospheric Ambient Temperature
+    Characteristics Versus Pressure Altitude)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp210
+- type: src
+  content: https://saemobilus.sae.org/standards/arp210-definition-commonly-used-day-types-atmospheric-ambient-temperature-characteristics-versus-pressure-altitude
+docidentifier:
+- content: SAE ARP210
+  type: SAE
+  primary: true
+- content: 10.4271/arp210
+  type: DOI
+date:
+- type: approved
+  at: '2011-10-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-15 Gas Turbine Perf Simulation Nomenclature and Interfaces
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;“Hot Day”, “Tropical Day”, “Standard Day”, “Polar Day” and “Cold Day” are part of the lexicon of the aircraft industry. These terms are generally understood to refer to specific, generally accepted characteristics of atmospheric temperature versus pressure altitude. There are also other, less well-known days, defined by their frequency of occurrence, such as “1% Hot Day”, “10% Cold Day”, or “Highest Recorded Day”. These temperature characteristics have their origins in multiple sources, including U.S. military specifications which are no longer in force.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

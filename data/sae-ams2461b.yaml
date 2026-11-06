@@ -1,0 +1,56 @@
+---
+id: SAEAMS2461B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Plating, Zinc-Nickel Alloy (12 to 16% Ni)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2461b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2461b-plating-zinc-nickel-alloy-12-16-ni
+docidentifier:
+- content: SAE AMS2461B
+  type: SAE
+  primary: true
+- content: 10.4271/ams2461b
+  type: DOI
+date:
+- type: approved
+  at: '2025-03-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the requirements for electrodeposited zinc-nickel on metal parts, including fasteners and other standard parts.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

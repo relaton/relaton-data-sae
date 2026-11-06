@@ -1,0 +1,56 @@
+---
+id: SAEJ1630_200112
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Driver or Passenger Airbag Module Deployment Test Procedure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1630_200112
+- type: src
+  content: https://saemobilus.sae.org/standards/j1630_200112-driver-passenger-airbag-module-deployment-test-procedure
+docidentifier:
+- content: SAE J1630_200112
+  type: SAE
+  primary: true
+- content: 10.4271/j1630_200112
+  type: DOI
+date:
+- type: approved
+  at: '2001-12-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Inflatable Restraints Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice describes a method to be used for the static deployment of airbag module assemblies. The results obtained from the deployment tests will be used to verify compliance with design requirements and/or specifications. The intent of this procedure is to describe recommended test methods to evaluate performance characteristics of driver airbag modules, passenger airbag modules, or other airbag modules (e.g., side airbags (door or seat mounted), roof rail airbags, knee bolster airbags, etc.). Performance limits or acceptance criteria are not established as they are typically defined based on specific vehicle design requirements. It is intended to be a general procedure for repetitive testing and suggests only general guidelines for the safe conduct of tests and reliable data correlation.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

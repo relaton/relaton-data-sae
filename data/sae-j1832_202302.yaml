@@ -1,0 +1,58 @@
+---
+id: SAEJ1832_202302
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Low-Pressure Gasoline Fuel Injector
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1832_202302
+- type: src
+  content: https://saemobilus.sae.org/standards/j1832_202302-low-pressure-gasoline-fuel-injector
+docidentifier:
+- content: SAE J1832_202302
+  type: SAE
+  primary: true
+- content: 10.4271/j1832_202302
+  type: DOI
+date:
+- type: approved
+  at: '2023-02-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Gasoline Fuel Injection Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice promotes uniformity in the evaluation tests and performance measurements that are conducted on fuel injectors used in low-pressure gasoline engine applications. The scope of this document is limited to electronically actuated fuel injection devices that are utilized in automotive gasoline port fuel injection systems where the fuel supply pressure is normally less than 1000 kPa. Detailed test procedures are provided for determining numerous PFI injector parameters, including, but not limited to, flow curves, leakage, electromechanical performance, fluid compatibility and corrosion susceptibility, durability, the effects of vibration and torsional deflection, thermal cycling effects, and noise. The standardized measurement procedures in this document are all bench tests. Characterization of the fuel spray from a low-pressure gasoline port fuel injector is quite important; however, these spray characterization tests are not addressed in this document, but are covered in a companion publication: SAE J2715.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Tests and references to types of low-pressure gasoline injectors that are no longer commonly used in modern production are not included in the main body of this document. Superseded systems such as throttle body injection (TBI), central port injection (CPI), pressure-drop ratio (PDR), bottom-feed injectors, and eight-ring patternation are examples of this older technology. Those fuel system components and diagnostic tests were extensively utilized in prior decades, but find little application in the industry today. The historical detailed measurement procedures that applied to the tests on these types of injectors have been removed from the main sections of the updated SAE J1832; however, the associated overall descriptions of these hardware items that were in previous versions of SAE J1832 have been retained in the appendix for archival purposes.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

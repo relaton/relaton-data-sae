@@ -1,0 +1,58 @@
+---
+id: SAEARP5776
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Flame Arrestor Installation Guidelines and Test Methods
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5776
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5776-aircraft-flame-arrestor-installation-guidelines-test-methods
+docidentifier:
+- content: SAE ARP5776
+  type: SAE
+  primary: true
+- content: 10.4271/arp5776
+  type: DOI
+date:
+- type: approved
+  at: '2021-08-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5A Aerospace Fuel, Inerting and Lubrication Sys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this document is to provide pertinent information on demonstrating the performance of Flame Arrestors, also known as Fuel Vent Protectors (FVPs), in preventing the propagation of a deflagration when the arrestors are subjected to aerospace-representative flames produced by the venting of flammable gas through the arrestor. Test procedures for two separate combustion-loading profiles are presented herein: The flame hold test condition, and the flame propagation test condition. For the flame hold test condition, the applicability of two separate critical flows is discussed in which one flow results in the greatest flame arrestor temperature and a second flow results in the greatest temperature of the surrounding structure. These guidelines are necessary for OEMs and fuel/vent system designers to validate the flame arresting-performance of the subassemblies comprising of the flame arrestors and relevant surrounding structures in an installation environment representative of the actual unique aircraft installation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Flame arrestors are components of the fuel system plumbing and, as such, are subject to the same requirements of other fuel system plumbing components. This document presupposes that the flame arrestor is properly installed; note that existing documentation (refer to ARP8615) provides detailed guidance for testing a flame arrestor as a component of a system, including standard requirements for testing the installation of a flame arrestor.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Flame arrestors are installed on other aircraft system installations besides fuel vent systems. These include: fuel tank inerting system (within the distribution system at the tank entrance), electrical pump inlets and external aircraft drain masts. Although only the fuel tank vent system installation is specifically addressed in this document, portions of the detailed flame test procedures may be useful to qualify flame arrestors in other applications, e.g., the flame propagation test which is applicable to flame arrestors installed in the inerting system.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,63 @@
+---
+id: SAEAIR4938D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Composite and Bonded Structure Technician/Specialist Training Document
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4938d
+- type: src
+  content: https://saemobilus.sae.org/standards/air4938d-composite-bonded-structure-technician-specialist-training-document
+docidentifier:
+- content: SAE AIR4938D
+  type: SAE
+  primary: true
+- content: 10.4271/air4938d
+  type: DOI
+date:
+- type: approved
+  at: '2025-07-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CACRC Commercial Aircraft Composite Repair Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document establishes the minimum curriculum requirements for training, practical assessments, and certifying composite structure repair personnel and metalbond repair personnel. It establishes criteria for the certification of personnel requiring appropriate knowledge of the technical principles underlying the composite structural repairs and/or metalbond they perform. Persons certified under this document may be eligible for licensing/certification/qualification by an appropriate authority, in addition to this industry-accepted technician certification.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Teaching levels have been assigned to the curriculum to define the knowledge, skills, and abilities graduates will need to make repairs to composite or metalbond structure. Minimum hours of instruction have been provided to ensure adequate coverage of all subject matter, including lecture and laboratory. These minimums may be exceeded and may include an increase in the total number of training hours and/or increase in the teaching levels.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;AIR6291 (for metalbond repair) and AIR6292 (for fiber composite repair) provide repair process flows, cautionary explanation of critical process steps, and industry best practices obtained through service experience and lessons learned. Training organizations should incorporate these into their training course syllabi, as appropriate, to conform with the training standards specified by this report.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Each curriculum is a subpart of this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Part 1 is the General Composite Structure Bonded Repair curriculum, independent of the application.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Part 2 is the Commercial Aircraft Composite Structure Bonded Repair curriculum.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Part 3 is the Commercial Aircraft Composite Structure Bolted Repair curriculum.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Part 4 is the Commercial Aircraft Structure Metalbond Repair curriculum.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

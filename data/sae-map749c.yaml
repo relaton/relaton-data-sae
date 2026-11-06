@@ -1,0 +1,57 @@
+---
+id: SAEMAP749C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Turbine Engine Fuel System Component Endurance Test Procedure
+    (Room Temperature Contaminated Fuel)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/map749c
+- type: src
+  content: https://saemobilus.sae.org/standards/map749c-aircraft-turbine-engine-fuel-system-component-endurance-test-procedure-room-temperature-contaminated-fuel
+docidentifier:
+- content: SAE MAP749C
+  type: SAE
+  primary: true
+- content: 10.4271/map749c
+  type: DOI
+date:
+- type: approved
+  at: '2022-05-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5B Aircraft and Engine Fuel and Lubricant Sys Components
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice describes a method for conducting room temperature, contaminated fuel, endurance testing when the applicable specification requires nonrecirculation of the contaminants. The objective of the test is to determine the resistance of engine fuel system components to wear or damage caused by contaminated fuel operation. It is not intended as a test for verification of the component's filter performance and service life. ARP1827 is recommended for filter performance evaluation.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

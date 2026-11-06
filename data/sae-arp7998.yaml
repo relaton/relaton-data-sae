@@ -1,0 +1,56 @@
+---
+id: SAEARP7998
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Shared Memory Interface for Gas Turbine Engine Performance Programs
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp7998
+- type: src
+  content: https://saemobilus.sae.org/standards/arp7998-shared-memory-interface-gas-turbine-engine-performance-programs
+docidentifier:
+- content: SAE ARP7998
+  type: SAE
+  primary: true
+- content: 10.4271/arp7998
+  type: DOI
+date:
+- type: approved
+  at: '2023-03-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-15 Gas Turbine Perf Simulation Nomenclature and Interfaces
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This is an initial release of a recommended practice for an interface to supplier simulations that utilize traditional inter-process communication (IPC) methods of shared memory and semaphore communications. These IPC methods are standard practice in the computer science world and allow for communication by separate processes running on a computer without any common runtime requirements. This allows things like 32-bit applications to talk with 64-bit applications, as well as any other compiler version or runtime library dependencies being required by the calling program to interface with the called model. This also allows the calling program and the called program to be run on separate CPUs to allow parallel execution of the called program as well as multiple instances of the called program to execute all on separate processors. Also, other third party applications would be able to interact with this common IPC interface allowing an interface where no compilation or integration of either parties libraries or code is required. This SAE Aerospace Recommended Practice (ARP) provides definition of the shared memory space and interactive IPC functions to enable the interaction between these separate applications.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

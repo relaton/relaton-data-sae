@@ -1,0 +1,57 @@
+---
+id: SAEARP5941
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Fluid Power - Contamination Sensitivity - Considerations for
+    Establishing Test Procedures for Flight Control Actuators
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5941
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5941-aerospace-fluid-power-contamination-sensitivity-considerations-establishing-test-procedures-flight-control-actuators
+docidentifier:
+- content: SAE ARP5941
+  type: SAE
+  primary: true
+- content: 10.4271/arp5941
+  type: DOI
+date:
+- type: approved
+  at: '2020-10-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6B1 Hydraulic Servo Actuation Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) describes the design conditions under which tests should be conducted to demonstrate satisfactory performance of a flight critical servo-actuator under the maximum allowable particulate contamination in the associated airplane hydraulic system. Additionally, this document also describes the recommended tests and the required acceptance criteria.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

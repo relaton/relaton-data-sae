@@ -1,0 +1,87 @@
+---
+id: SAEJ3061_202112
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Cybersecurity Guidebook for Cyber-Physical Vehicle Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3061_202112
+- type: src
+  content: https://saemobilus.sae.org/standards/j3061_202112-cybersecurity-guidebook-cyber-physical-vehicle-systems
+docidentifier:
+- content: SAE J3061_202112
+  type: SAE
+  primary: true
+- content: 10.4271/j3061_202112
+  type: DOI
+date:
+- type: approved
+  at: '2021-12-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Cybersecurity Systems Engineering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice provides guidance on vehicle Cybersecurity and was created based off of, and expanded on from, existing practices which are being implemented or reported in industry, government and conference papers. The best practices are intended to be flexible, pragmatic, and adaptable in their further application to the vehicle industry as well as to other cyber-physical vehicle systems (e.g., commercial and military vehicles, trucks, busses). Other proprietary Cybersecurity development processes and standards may have been established to support a specific manufacturer’s development processes, and may not be comprehensively represented in this document, however, information contained in this document may help refine existing in-house processes, methods, etc.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This recommended practice establishes a set of high-level guiding principles for &lt;b&gt;&lt;i&gt;Cybersecurity&lt;/i&gt;&lt;/b&gt; as it relates to &lt;b&gt;&lt;i&gt;cyber-physical vehicle systems&lt;/i&gt;&lt;/b&gt;. This includes:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Defining a complete lifecycle process framework that can be tailored and utilized within each organization’s development processes to incorporate Cybersecurity into cyber-physical vehicle systems from concept phase through production, operation, service, and decommissioning.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Providing information on some common existing tools and methods used when designing, verifying and validating &lt;b&gt;&lt;i&gt;cyber-physical vehicle systems.&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Providing basic guiding principles on Cybersecurity for vehicle systems.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Providing the foundation for further standards development activities in vehicle Cybersecurity.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;The appendices provide additional information to be aware of and may be used in helping improve Cybersecurity of feature designs. Much of the information identified in the appendices is available but some experts may not be aware of all of the available information. Therefore, the appendices provide an overview of some of this information to provide further guidance on building Cybersecurity into cyber-physical vehicle systems. The objective of the overviews is to encourage research to help improve designs and identify methods and tools for applying a company’s internal Cybersecurity process.&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Appendices A&lt;/span&gt;-&lt;span class="xref"&gt;C&lt;/span&gt; - Describe some techniques for Threat Analysis and Risk Assessment, Threat Modeling and Vulnerability Analysis (e.g., Attack Trees) and when to use them.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Appendices D&lt;/span&gt;-&lt;span class="xref"&gt;I&lt;/span&gt; - Provide awareness of information that is available to the Vehicle Industry.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Appendix D&lt;/span&gt; - Provides an overview of sample Cybersecurity and privacy controls derived from NIST SP 800-53 that may be considered in design phases.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Appendix E&lt;/span&gt; - Provides references to some available vulnerability databases and vulnerability classification schemes.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Appendix F&lt;/span&gt; - Describes vehicle-level considerations, including some good design practices for electrical architecture.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Appendix G&lt;/span&gt; -Lists current Cybersecurity standards and guidelines of potential interest to the vehicle industry.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Appendix H&lt;/span&gt; - Provides an overview of vehicle Cybersecurity-related research projects starting from 2004.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Appendix I&lt;/span&gt; - Describes some existing security test tools of potential interest to the vehicle industry.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;Refer to the definitions section to understand the terminology used throughout the document.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

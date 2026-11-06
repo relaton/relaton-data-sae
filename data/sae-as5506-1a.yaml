@@ -1,0 +1,49 @@
+---
+id: SAEAS55061A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'SAE Architecture Analysis and Design Language (AADL) Annex Volume 1: Annex
+    A: ARINC653 Annex, Annex C: Code Generation Annex, Annex E: Error Model Annex'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5506/1a
+- type: src
+  content: https://saemobilus.sae.org/standards/as55061a-sae-architecture-analysis-design-language-aadl-annex-volume-1-annex-a-arinc653-annex-annex-c-code-generation-annex-annex-e-error-model-annex
+docidentifier:
+- content: SAE AS5506/1A
+  type: SAE
+  primary: true
+- content: 10.4271/as5506/1a
+  type: DOI
+date:
+- type: approved
+  at: '2015-09-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-2C Architecture Analysis and Design Language
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

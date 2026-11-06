@@ -1,0 +1,73 @@
+---
+id: SAEARP5289A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electronic Aeronautical Symbols
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5289a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5289a-electronic-aeronautical-symbols
+docidentifier:
+- content: SAE ARP5289A
+  type: SAE
+  primary: true
+- content: 10.4271/arp5289a
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10J Charting Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice (ARP) provides design philosophies, guidelines, requirements, and a set of recommended symbols, lines, and linear patterns for aeronautical information presented on electronic flight deck display devices.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Specifically, this document addresses symbols, lines, and linear patterns historically seen on aeronautical charts. It provides recommended symbols for navigation aids, airspace boundaries, missed approach holding patterns, etc. The document does not address all aeronautical symbols, lines, or linear patterns, nor does it provide specific recommendations about color, text and fonts, line weight, or symbol size. Additionally, it does not provide recommendations for non-aeronautical symbols such as traffic or weather.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The general guidelines, recommendations and requirements are intended to apply regardless of whether the display application is intended for IFR or VFR operations and regardless of the type of aircraft (14 CFR Part 23, 25, 27, or 29). The recommendations are applicable to all electronic display applications within the flight deck, regardless of where they are located, such as on:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Electronic Map Displays (EMD)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Electronic Chart Displays&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Electronic Flight Bags (EFB)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Stand alone and Multi-Function Displays&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Navigation Displays (ND)&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;These recommendations also apply to symbols, lines, and linear patterns that are generated in real time from individual elements from an onboard database then overlaid onto a pre-composed image. They are not intended to apply to the electronic display of static pre-composed images in the form of a pre-existing graphic or file image. However, that does not preclude manufacturers of pre-composed images from using these recommendations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;There are permanent benefits to be gained from industry standardization of the symbols specified in this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For any aircraft, when new symbols are introduced to an existing function, they shall be compliant with this document. Upgrades to existing fleets or displays that do not introduce new aeronautical elements are encouraged but not required to comply with the symbology requirements in this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These recommendations apply to two-dimensional displays. While the recommendations in this document do not specifically address 3-D display symbology, the guidance and recommendations may also be appropriate for 3-D displays.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

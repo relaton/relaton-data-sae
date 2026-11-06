@@ -1,0 +1,78 @@
+---
+id: SAEJ19781_202604
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'OBD-II Scan Tool: First Generation Protocols'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1978-1_202604
+- type: src
+  content: https://saemobilus.sae.org/standards/j1978-1_202604-obd-ii-scan-tool-first-generation-protocols
+docidentifier:
+- content: SAE J1978-1_202604
+  type: SAE
+  primary: true
+- content: 10.4271/j1978-1_202604
+  type: DOI
+date:
+- type: approved
+  at: '2026-04-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE J1978-1 specifies a complementary set of functions to be provided by an OBD-II scan tool. These functions provide complete, efficient, and safe access to all regulated OBD (on-board diagnostic) services on any vehicle which complies to SAE J1979.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The content of this document is intended to satisfy the requirements of an OBD-II scan tool as required by current U.S. OBD regulations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document specifies:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;A means of establishing communications between an OBD-equipped vehicle and an OBD-II scan tool.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;A set of diagnostic services to be provided by an OBD-II scan tool in order to exercise the services defined in SAE J1979. In addition, SAE J1978-1 covers first generation protocol functionality defined in SAE J1979 plus automatic protocol determination for all SAE J1979/J1979-2/J1979-3 application content.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;The presentation of the SAE J1978 document family, where SAE J1978-1 covers first generation protocol functionality defined in SAE J1979 and protocol determination for SAE J1979, SAE J1979-2, and SAE J1979-3, and SAE J1978-2 covers second generation protocol functionality defined in SAE J1979-2.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;The SAE J1978 document family does not preclude the inclusion of additional capabilities or functions in an OBD-II scan tool. However, it is the responsibility of the OBD-II scan tool designer to ensure that no such capability or function can adversely affect either an OBD-equipped vehicle, which may be connected to the OBD-II scan tool, or to the OBD-II scan tool itself.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

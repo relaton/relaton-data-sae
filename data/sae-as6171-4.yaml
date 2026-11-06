@@ -1,0 +1,71 @@
+---
+id: SAEAS61714
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Techniques for Suspect/Counterfeit EEE Parts Detection by Delid/Decapsulation
+    Physical Analysis Test Methods
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6171/4
+- type: src
+  content: https://saemobilus.sae.org/standards/as61714-techniques-suspect-counterfeit-eee-parts-detection-delid-decapsulation-physical-analysis-test-methods
+docidentifier:
+- content: SAE AS6171/4
+  type: SAE
+  primary: true
+- content: 10.4271/as6171/4
+  type: DOI
+date:
+- type: approved
+  at: '2016-10-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-19A Test Laboratory Standards Development Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This method standardizes inspection, test procedures and minimum training and certification requirements to detect Suspect/Counterfeit (SC) Electrical, Electronic, and Electromechanical (EEE) components or parts utilizing Delid/Decapsulation Physical Analysis. The methods described in this document are employed to either delid or remove the cover from a hermetically sealed package or to remove the encapsulation or coating of an EEE part, in order to examine the internal structure and to determine if the part is suspect counterfeit. Information obtained from this inspection and analysis may be used to:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;prevent inclusion of counterfeit parts in the assembly&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;identify defective parts&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;aid in disposition of parts that exhibit anomalies&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;This test method should not be confused with Destructive Physical Analysis as defined in MIL-STD-1580. MIL-STD-1580 describes destructive physical analysis procedures for inspection and interpretation of quality issues.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Due to the destructive nature of the test method that allows access to materials, design and layout information, the method may also enable observation of trends in design and material or process changes undertaken by the device manufacturer.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;If AS6171/4 is invoked in the contract, the base document, AS6171 General Requirements shall also apply.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

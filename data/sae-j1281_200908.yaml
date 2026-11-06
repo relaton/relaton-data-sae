@@ -1,0 +1,59 @@
+---
+id: SAEJ1281_200908
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Operator Sound Pressure Level Exposure Measurement Procedure for Powered
+    Recreational Craft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1281_200908
+- type: src
+  content: https://saemobilus.sae.org/standards/j1281_200908-operator-sound-pressure-level-exposure-measurement-procedure-powered-recreational-craft
+docidentifier:
+- content: SAE J1281_200908
+  type: SAE
+  primary: true
+- content: 10.4271/j1281_200908
+  type: DOI
+date:
+- type: approved
+  at: '2009-08-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Marine Technical Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard establishes the procedure for determining the operator duty cycle sound pressure level L&lt;sub&gt;odc&lt;/sub&gt; to which operators of powered recreational craft up to 24 m in length are exposed during typical operation as determined by marine engine duty cycle studies. This document describes the instrumentation, the required calibration procedures, the test site, the specifications for “standard craft”, the craft operating conditions, microphone positioning, test procedure, engine speeds for each of the Duty Cycle modes and the formula and table for calculating the Duty Cycle operator ear sound pressure level.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is subject to change to keep pace with technical advances as well as other international standards and practices.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Changes in this Revision: The sound pressure level measurements performed while applying this document are based on the Five-Mode Marine Engine Duty Cycle instead of a single engine speed. A calculation is required to obtain the Duty Cycle operator ear sound pressure level (L&lt;sub&gt;odc&lt;/sub&gt;). Provisions for type testing are provided along with specifications for Standard Craft.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

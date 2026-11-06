@@ -1,0 +1,57 @@
+---
+id: SAEAMS4309A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy Extrusions 8.6Fe - 1.8Se - 1.3V (8009-H112) Powder Metallurgy
+    Product, Strain-Hardened
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4309a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4309a-aluminum-alloy-extrusions-86fe-18se-13v-8009-h112-powder-metallurgy-product-strain-hardened
+docidentifier:
+- content: SAE AMS4309A
+  type: SAE
+  primary: true
+- content: 10.4271/ams4309a
+  type: DOI
+date:
+- type: approved
+  at: '2013-12-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy powder metallurgy product in the form of round extrusions up to &lt;span class="xref"&gt;3.5&lt;/span&gt; inches (89 mm) in diameter and rectangular and other solid extrusions up to 10 square inches (64.5 cm&lt;sup&gt;2&lt;/sup&gt;) in cross-sectional area. The maximum extrusion length is 100 inches (2.5 m).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

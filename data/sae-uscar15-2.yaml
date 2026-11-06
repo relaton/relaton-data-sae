@@ -1,0 +1,64 @@
+---
+id: SAEUSCAR152
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Specification for Testing Automotive Light Bulb Sockets
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar15-2
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar15-2-specification-testing-automotive-light-bulb-sockets
+docidentifier:
+- content: SAE USCAR-15-2
+  type: SAE
+  primary: true
+- content: 10.4271/uscar15-2
+  type: DOI
+date:
+- type: approved
+  at: '2006-08-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes the requirements and test procedures for automotive miniature bulb retention devices, including wedge base sockets with integral connector, direct wire wedge base sockets, circuit plate assemblies, and associated interfaces.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Tests shall follow the sequence shown in the flow charts in &lt;span class="xref"&gt;Appendix E&lt;/span&gt; whenever the following occurs:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;New design&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Design, material or process change made to an existing device, which could affect the outcome of the test.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;The test sequence shown in &lt;span class="xref"&gt;Appendix F&lt;/span&gt; shall be run annually.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;i&gt;(Note: Production process control data collected at a shorter interval per an approved control plan, may be substituted if approved by customer’s responsible engineer and purchasing representative.)&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

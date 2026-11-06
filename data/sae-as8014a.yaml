@@ -1,0 +1,56 @@
+---
+id: SAEAS8014A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Minimum Performance Standard Stall Warning Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8014a
+- type: src
+  content: https://saemobilus.sae.org/standards/as8014a-minimum-performance-standard-stall-warning-equipment
+docidentifier:
+- content: SAE AS8014A
+  type: SAE
+  primary: true
+- content: 10.4271/as8014a
+  type: DOI
+date:
+- type: approved
+  at: '2020-12-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4 Aircraft Instruments Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Standard covers two basic Stall Warning Systems, one measures air flow and pressure distribution on the airfoil and the other measures the angle of airflow with respect to an arbitrary reference line. Each type of system includes, as a minimum, a sensor and the means for activating a device which warns the pilot of an impending stall.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

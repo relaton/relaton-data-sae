@@ -1,0 +1,77 @@
+---
+id: SAEJ358_201712
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nondestructive Tests
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j358_201712
+- type: src
+  content: https://saemobilus.sae.org/standards/j358_201712-nondestructive-tests
+docidentifier:
+- content: SAE J358_201712
+  type: SAE
+  primary: true
+- content: 10.4271/j358_201712
+  type: DOI
+date:
+- type: approved
+  at: '2017-12-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Metals Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Nondestructive tests are those tests which detect factors related to the serviceability or quality of a part or material without limiting its usefulness. Material defects such as surface cracks, laps, pits, internal inclusions, bursts, shrink, seam, hot tears, and composition analysis can be detected. Sometimes their dimensions and exact location can be determined. Such tests can usually be made rapidly. Processing results such as hardness, case depth, wall thickness, ductility, decarburization, cracks, apparent tensile strength, grain size, and lack of weld penetration or fusion may be detectable and measurable. Service results such as corrosion and fatigue cracking may be detected and measured by nondestructive test methods. In many cases, imperfections can be automatically detected so that parts or materials can be classified.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The SAE Handbook describes the following nondestructive test methods:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J359—Infrared&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J420—Magnetic Particle&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J425—Eddy Current&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J426—Liquid Penetrant&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J427—Penetrating Radiation&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J428—Ultrasonic&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J1242—Acoustic Emission&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J1267—Leakage Testing&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Table 1&lt;/span&gt; summarizes the principal features of most of these tests. In addition to the tests described, other nondestructive tests exist which are less well established, but whose use is expanding. Among these are microwave tests, holography, and sonic tests. Microwaves are used to locate defects in nonmetallic substances and to determine some physical characteristics of those materials. Optical holography uses coherent light from a laser beam to detect strains and defects in materials by means of three-dimensional imaging and interferometry techniques. Acoustical holography uses ultrasonic waves to image discontinuities in the interior of solids. Recent refinements in sonic testing permit more objective determination of the physical properties of cast iron. Complete information concerning each nondestructive test can be obtained from books listed in the bibliographies of the aforementioned reports.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Increasing consumer demand for product quality at reasonable cost has resulted in development of nondestructive tests which can be applied to materials and manufactured parts. Although a variety of complementary nondestructive methods is available, development time is generally required for application to specific materials or products. The effect of part contour, surface condition, heat treatment, composition variation, and other variables may limit the ability of certain tests to detect imperfections with desired accuracy.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Nondestructive tests properly applied to basic material can add greater assurance of performance to design strengths, thereby affecting material and manufacturing economy. In addition, parts can be tested after each basic operation which is critical to service performance of the finished part. In-process nondestructive tests can also serve as basic components of feedback process control systems since all tests are based upon measurements which do not damage the material or part being inspected.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

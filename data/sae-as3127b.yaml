@@ -1,0 +1,49 @@
+---
+id: SAEAS3127B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PLUG, EXPANSION - CRES, 416 OR 416SE, SHORT; STD AND .010 OVERSIZE DIAMETERS,
+    UNS S41600/UNS S41623
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as3127b
+- type: src
+  content: https://saemobilus.sae.org/standards/as3127b-plug-expansion-cres-416-416se-short-std-010-oversize-diameters-uns-s41600-uns-s41623
+docidentifier:
+- content: SAE AS3127B
+  type: SAE
+  primary: true
+- content: 10.4271/as3127b
+  type: DOI
+date:
+- type: approved
+  at: '2014-01-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

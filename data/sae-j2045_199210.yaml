@@ -1,0 +1,57 @@
+---
+id: SAEJ2045_199210
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TUBE/HOSE ASSEMBLIES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2045_199210
+- type: src
+  content: https://saemobilus.sae.org/standards/j2045_199210-tube-hose-assemblies
+docidentifier:
+- content: SAE J2045_199210
+  type: SAE
+  primary: true
+- content: 10.4271/j2045_199210
+  type: DOI
+date:
+- type: approved
+  at: '1992-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard encompasses the minimum functional requirements for fuel tubing and nonmetallic and nonrubber hose assemblies to be used in gasoline fuel injection systems. It utilizes information from the tubing standard SAE J2043, fittings and connectors SAE J2044, and protective covers SAE J2027. It is not intended to cover assemblies that operate below 30 °C (-22 °F) or above 115 °C (239 °F). In addition, this document is applicable for gasoline F.I. systems up to 5 bar (approximately 75 psig) operating pressure. It should be noted that temperatures can affect assemblies in various manners and every effort must be made to determine the operating temperature to which a specific assembly will be exposed, and design accordingly.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not make recommendations as to which assemblies are appropriate for different ranges of operating temperatures. The SAE specifications J2027, J2043, and J2044 for tubings, connectors, and protective covering should be referenced when designing any assembly.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

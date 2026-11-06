@@ -1,0 +1,56 @@
+---
+id: SAEAS7119
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nadcap Aerospace Standard for Electronics Printed Circuit Boards
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as7119
+- type: src
+  content: https://saemobilus.sae.org/standards/as7119-nadcap-aerospace-standard-electronics-printed-circuit-boards
+docidentifier:
+- content: SAE AS7119
+  type: SAE
+  primary: true
+- content: 10.4271/as7119
+  type: DOI
+date:
+- type: approved
+  at: '2005-07-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Nadcap Management Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Standard (AS) establishes the requirements for suppliers of Electronics Printed Circuit Boards to be accredited by Nadcap. Nadcap accreditation is granted in accordance with SAE AS7003 after demonstrating compliance with the requirements herein. These requirements may be supplemented by additional requirements specified by Nadcap Electronics Task Group. Using the audit checklist (AC7119) will ensure that accredited Electronics Printed Circuit Boards suppliers meet all of the requirements in this standard and all applicable supplementary standards.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

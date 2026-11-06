@@ -1,0 +1,57 @@
+---
+id: SAEARP6408
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: External Hydraulic Fluid Leakage Definition for Landing Gear Shock Absorbers
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6408
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6408-external-hydraulic-fluid-leakage-definition-landing-gear-shock-absorbers
+docidentifier:
+- content: SAE ARP6408
+  type: SAE
+  primary: true
+- content: 10.4271/arp6408
+  type: DOI
+date:
+- type: approved
+  at: '2023-11-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Aerospace Recommended Practice (ARP) is to provide a practical definition of external hydraulic fluid leakage exhibited by landing gear shock absorbers/struts. The definition will outline normal (acceptable weepage) and excessive leakage (unacceptable leakage) of shock absorbers/struts that is measurable. The definition of leakage is applicable to new gear assemblies, refurbished/remanufactured (overhauled) shock absorbers/struts, leakage of shock absorbers/struts encountered during acceptance flights, newly delivered and in-service aircraft. This ARP is intended to provide guidelines for acceptable leakage of landing gear shock absorbers/struts between the ambient temperatures of -65 °F (-54 °C) and 130 °F (54 °C) and to outline the procedure for measuring such leakage. The specific limits that are applied to any particular aircraft shall be adjusted by the aircraft manufacturer before inclusion in the applicable maintenance manual.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,108 @@
+---
+id: SAEARP4727B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Gland Design, Computation of Seal Squeeze and Gland Volume
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4727b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4727b-gland-design-computation-seal-squeeze-gland-volume
+docidentifier:
+- content: SAE ARP4727B
+  type: SAE
+  primary: true
+- content: 10.4271/arp4727b
+  type: DOI
+date:
+- type: approved
+  at: '2013-06-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C2 Seals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) presents two BASIC language computer programs to promote and standardize the computation of installed O-ring cross-section deflection hereafter referred to as "squeeze" and the computation of gland volume. The two programs were written with line numbers and without use of any system specific BASIC commands to allow usage with as many systems as possible with a minimum of editing. The programs support entry of customary U.S. or metric dimensions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The squeeze program, called SQ.BAS, has the following features:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;allows selection of either piston or rod gland&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;allows entry of cap strip seal thickness&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;computes minimum and maximum squeeze&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;allows checking and correction of entries before execution&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;allows viewing of output on screen before printing&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;f&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;gives advisory messages for excessive stretch or inadequate squeeze&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;g&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;allows on-line review of essential input and output variables prior to running program&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;h&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;computes clearance between minimum gland height and maximum backup radial height when the backup dimension is entered&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;i&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;program output is viewable on screen or may be printed out using either of two methods&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;The gland volume program called GV.BAS, has the following features:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;allows selection of either piston or rod gland&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;computes gland volume, O-ring volume and backup ring volume&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;computes minimum and maximum percent occupancy&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;allows viewing of output on screen before printing&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;allows on-line review of essential input and output variables prior to running program&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;f&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;allows entry of volume of a non-standard configuration or special seal such as a cap strip seal&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;g&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;program output is viewable on screen or may be printed out using either of two methods&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

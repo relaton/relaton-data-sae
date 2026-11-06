@@ -1,0 +1,56 @@
+---
+id: SAEAIR5648B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Fuel Versus Oxygen: Evaluations and Considerations'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5648b
+- type: src
+  content: https://saemobilus.sae.org/standards/air5648b-fuel-versus-oxygen-evaluations-considerations
+docidentifier:
+- content: SAE AIR5648B
+  type: SAE
+  primary: true
+- content: 10.4271/air5648b
+  type: DOI
+date:
+- type: approved
+  at: '2025-07-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Current regulations (e.g., Title 14 of the United States Code of Federal Regulations, or 14 CFR) define design requirements for oxygen system provisions for protection of crewmembers and passengers following emergency events such as in-flight decompression. This aerospace information report (AIR) addresses the operational oxygen system requirements for a decompression incident that may occur at any point during a long-range flight, with an emphasis for a decompression at the equal time point (ETP). This AIR identifies fuel and oxygen management contingencies and presents possible solutions for the efficient, safe, and optimum fuel/oxygen flight continuation. Oxygen management is a critical concern for all aircraft, ranging from single-engine types operating above 10000 feet to complex, high-performance aircraft equipped with supplemental oxygen systems. Proper planning ensures compliance with regulations and supports pilot and passenger safety at higher altitudes. This document provides a method which can help guide users in developing an oxygen solution for their aircraft. This document is not intended to change, modify, or alter any existing design or installation procedure and has been mostly developed for flight operations.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

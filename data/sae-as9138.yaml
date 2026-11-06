@@ -1,0 +1,58 @@
+---
+id: SAEAS9138
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Series - Quality Management Systems Statistical Product Acceptance
+    Requirements
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9138
+- type: src
+  content: https://saemobilus.sae.org/standards/as9138-aerospace-series-quality-management-systems-statistical-product-acceptance-requirements
+docidentifier:
+- content: SAE AS9138
+  type: SAE
+  primary: true
+- content: 10.4271/as9138
+  type: DOI
+date:
+- type: approved
+  at: '2018-01-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard establishes requirements when implementing statistical product acceptance methods to meet defined risk requirements. This standard also establishes the minimum content required to be covered in an organization’s documented procedures that govern their application of statistical product acceptance methods.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These general requirements and documented procedures apply the requirements of the 9100/9110/9120 quality management system standards, in addition to establishing requirements for retrievability, safety/critical characteristics, and quality parameters that protect the customer.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

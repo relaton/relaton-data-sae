@@ -1,0 +1,57 @@
+---
+id: SAEAMS5338H
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Investment Castings 0.95Cr - 0.20Mo (0.35 - 0.45C) (4140 Mod) Normalized
+    or Normalized and Tempered
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5338h
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5338h-steel-investment-castings-095cr-020mo-035-045c-4140-mod-normalized-normalized-tempered
+docidentifier:
+- content: SAE AMS5338H
+  type: SAE
+  primary: true
+- content: 10.4271/ams5338h
+  type: DOI
+date:
+- type: approved
+  at: '2022-06-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a low-alloy steel in the form of investment castings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

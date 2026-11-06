@@ -1,0 +1,56 @@
+---
+id: SAEAS27260
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Tie Down, Cargo, Aircraft, CGU-1/B
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as27260
+- type: src
+  content: https://saemobilus.sae.org/standards/as27260-tie-down-cargo-aircraft-cgu-1-b
+docidentifier:
+- content: SAE AS27260
+  type: SAE
+  primary: true
+- content: 10.4271/as27260
+  type: DOI
+date:
+- type: approved
+  at: '2000-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers one type of 5,000-pound capacity aircraft cargo tie down. The tie down is designated CGU-1/B and is furnished in a minimum length of 240 inches.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

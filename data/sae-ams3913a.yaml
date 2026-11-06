@@ -1,0 +1,56 @@
+---
+id: SAEAMS3913A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: RADOME, FOAM SANDWICH Hot-Melt, Addition-Type Polyimide
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3913a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3913a-radome-foam-sandwich-hot-melt-addition-type-polyimide
+docidentifier:
+- content: SAE AMS3913A
+  type: SAE
+  primary: true
+- content: 10.4271/ams3913a
+  type: DOI
+date:
+- type: approved
+  at: '1989-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P Polymeric Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the material and process requirements for fabricating sandwich radomes having hot-melt, addition-reaction polyimide-resin-impregnated quartz cloth shells and polyimide-resin syntactic foam cores.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

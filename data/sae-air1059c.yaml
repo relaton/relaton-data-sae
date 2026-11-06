@@ -1,0 +1,56 @@
+---
+id: SAEAIR1059C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Oxygen Cylinder Quality, Serviceability, Maintenance Transfilling and Marking
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1059c
+- type: src
+  content: https://saemobilus.sae.org/standards/air1059c-oxygen-cylinder-quality-serviceability-maintenance-transfilling-marking
+docidentifier:
+- content: SAE AIR1059C
+  type: SAE
+  primary: true
+- content: 10.4271/air1059c
+  type: DOI
+date:
+- type: approved
+  at: '2010-10-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides guidance concerning the maintenance and serviceability of oxygen cylinders beginning with the quality of oxygen that is required, supplemental oxygen information, handling and cleaning procedures, transfilling and marking of serviced oxygen assemblies. This document attempts to outline in a logical sequence oxygen quality, serviceability and maintenance of oxygen cylinders.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

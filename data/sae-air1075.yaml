@@ -1,0 +1,56 @@
+---
+id: SAEAIR1075
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BAROMETRY FOR ALTIMETER CALIBRATION
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1075
+- type: src
+  content: https://saemobilus.sae.org/standards/air1075-barometry-altimeter-calibration
+docidentifier:
+- content: SAE AIR1075
+  type: SAE
+  primary: true
+- content: 10.4271/air1075
+  type: DOI
+date:
+- type: approved
+  at: '1984-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4 Aircraft Instruments Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AIR is concerned only with aspects directly relating to available accuracy. While well-designed photoelectric, inductive or capacitive readers and pressure regulators, and other accessories are highly desirable for convenience and production rate, they are considered to be outside the scope of this AIR.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

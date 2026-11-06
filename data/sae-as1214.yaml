@@ -1,0 +1,57 @@
+---
+id: SAEAS1214
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MINIMUM STANDARDS FOR VALVE, HIGH PRESSURE OXYGEN, LINE SHUT OFF, MANUALLY
+    OPERATED
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1214
+- type: src
+  content: https://saemobilus.sae.org/standards/as1214-minimum-standards-valve-high-pressure-oxygen-line-shut-off-manually-operated
+docidentifier:
+- content: SAE AS1214
+  type: SAE
+  primary: true
+- content: 10.4271/as1214
+  type: DOI
+date:
+- type: approved
+  at: '1971-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard covers all types of manually operated high pressure oxygen line shut off valves utilizing either metallic or nonmetallic valve seats for use in general and commercial type aircraft. It is intended that the line valve should be installed in a position accessible in flight, when the cylinder mounted oxygen valves are not. The line shutoff valve may also be used optionally in large systems as a maintenance aid where only a portion of the system need be opened up and purged after repair or replacement of one or more parts.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

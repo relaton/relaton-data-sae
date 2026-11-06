@@ -1,0 +1,58 @@
+---
+id: SAEAS6837
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Required O-ring Sizes for Quality Conformance Testing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6837
+- type: src
+  content: https://saemobilus.sae.org/standards/as6837-required-o-ring-sizes-quality-conformance-testing
+docidentifier:
+- content: SAE AS6837
+  type: SAE
+  primary: true
+- content: 10.4271/as6837
+  type: DOI
+date:
+- type: approved
+  at: '2021-06-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CE Elastomers Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this document is to specify the O-ring sizes that are suitable for quality conformance testing (limited to hardness, tensile tests, compression set, specific gravity, and volume swell per ASTM D1414) required by AMS-7xxx series of specifications. In addition, suppliers and/or users, at their own discretion and/or according to their procurement documents, may choose to invoke this specification for procurement or other purposes for O-ring sizes that are not covered by AS568.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;If additional tests are specified as quality conformance tests in any AMS-7xxx specification, then that specification shall also specify the required test size for that additional test. This document does not address O-ring size for qualification testing required by AMS-7xxx series of specifications since that is already specified in the AMS-7xxx specification. This document only covers O-ring sizes required by test type. These O-ring sizes include, but are not limited to, AS568-xxx O-ring sizes. Other testing details such as ASTM or other test methods, etc. are covered elsewhere such as the specific AMS-7xxx specification, etc. and are beyond the scope of this specification and are not addressed in this specification.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;AS6837 supersedes ARP3050.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

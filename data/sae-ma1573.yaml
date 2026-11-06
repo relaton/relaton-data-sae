@@ -1,0 +1,65 @@
+---
+id: SAEMA1573
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nut, Self-Locking - Steel, Class 1100 MPa/235°C, MJ Thread Procurement
+    Specification For, Metric
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma1573
+- type: src
+  content: https://saemobilus.sae.org/standards/ma1573-nut-self-locking-steel-class-1100-mpa-235c-mj-thread-procurement-specification-for-metric
+docidentifier:
+- content: SAE MA1573
+  type: SAE
+  primary: true
+- content: 10.4271/ma1573
+  type: DOI
+date:
+- type: approved
+  at: '2004-07-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes the requirements for the following types of self-locking nuts:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Wrenching nuts: that is, hex, double hex, spline drive&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Anchor nuts: that is, plate nuts, gang channel nuts, shank nuts&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;The wrenching nuts and shank nuts are made of low alloy steels, and the nut elements of plate and gang channel nuts are made of carbon steels or low alloy steels and having MJ threads to ISO 5855/2. Nuts have 1100 MPa tensile strength class at room temperature. Maximum test temperature of parts at 235°C.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

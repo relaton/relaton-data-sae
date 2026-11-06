@@ -1,0 +1,48 @@
+---
+id: SAEAMS6470B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL, NITRIDING 1.6 Cr .35 Mo 1.15 Al
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6470b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6470b-steel-nitriding-16-cr-35-mo-115-al
+docidentifier:
+- content: SAE AMS6470B
+  type: SAE
+  primary: true
+- content: 10.4271/ams6470b
+  type: DOI
+date:
+- type: approved
+  at: '1945-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

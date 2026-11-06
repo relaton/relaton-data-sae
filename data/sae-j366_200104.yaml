@@ -1,0 +1,56 @@
+---
+id: SAEJ366_200104
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Exterior Sound Level for Heavy Trucks and Buses
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j366_200104
+- type: src
+  content: https://saemobilus.sae.org/standards/j366_200104-exterior-sound-level-heavy-trucks-buses
+docidentifier:
+- content: SAE J366_200104
+  type: SAE
+  primary: true
+- content: 10.4271/j366_200104
+  type: DOI
+date:
+- type: approved
+  at: '2001-04-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Total Vehicle Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard establishes the test procedure, environment, and instrumentation for determining the maximum exterior sound level for highway motor trucks, truck tractors, and buses. The test results obtained by this test procedure give an objective measure of the maximum noise level emitted by vehicles under a prescribed condition. A subjective rating of the annoyance caused by vehicles in use may not be directly related to this type of noise level measurement.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

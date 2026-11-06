@@ -1,0 +1,59 @@
+---
+id: SAEARP1185A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FLEXURE TESTING OF HYDRAULIC TUBING JOINTS AND FITTINGS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1185a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1185a-flexure-testing-hydraulic-tubing-joints-fittings
+docidentifier:
+- content: SAE ARP1185A
+  type: SAE
+  primary: true
+- content: 10.4271/arp1185a
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice establishes flexure test procedures to determine and classify the fatigue strengths of reconnectable or permanent hydraulic tube joints.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The procedure is intended for conducting flexure tests of fittings and joints for hydraulic tubing materials such as AM 350, AMS 5561 (21Cr-6Ni-9Mn) steel, or AMS 4944 (3Al-2.5V) titanium.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A mean stress is applied by holding system pressure in the specimens and flexing in a rotary or planar bending test machine.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Flexure testing of metric tubing joints and fittings is covered by MA 2003.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

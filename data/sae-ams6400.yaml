@@ -1,0 +1,56 @@
+---
+id: SAEAMS6400
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Forgings, Steel For Aircraft/Aerospace Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6400
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6400-forgings-steel-aircraft-aerospace-equipment
+docidentifier:
+- content: SAE AMS6400
+  type: SAE
+  primary: true
+- content: 10.4271/ams6400
+  type: DOI
+date:
+- type: approved
+  at: '2018-09-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes requirements for steel forgings of any shape or form from which finished parts are to be made (See &lt;span class="xref"&gt;8.2&lt;/span&gt;, &lt;span class="xref"&gt;8.3&lt;/span&gt;, &amp;amp; &lt;span class="xref"&gt;8.4&lt;/span&gt;). This specification covers steel forgings suitable for use in the construction of aircraft/aerospace equipment&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

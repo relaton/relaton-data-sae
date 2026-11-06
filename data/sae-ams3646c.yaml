@@ -1,0 +1,56 @@
+---
+id: SAEAMS3646C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Sheet, Polychlorotrifluoroethylene (PCTFE) Molded, Unplasticized
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3646c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3646c-sheet-polychlorotrifluoroethylene-pctfe-molded-unplasticized
+docidentifier:
+- content: SAE AMS3646C
+  type: SAE
+  primary: true
+- content: 10.4271/ams3646c
+  type: DOI
+date:
+- type: approved
+  at: '2003-03-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P Polymeric Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a 100% homopolymer of polychlorotrifluoroethylene (PCTFE) in the form of molded sheet 0.250 inch (6.35 mm) and under in nominal thickness.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

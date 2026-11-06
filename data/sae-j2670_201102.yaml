@@ -1,0 +1,62 @@
+---
+id: SAEJ2670_201102
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Stability and Compatibility Criteria for Additives and Flushing Materials
+    Intended for Aftermarket Use in R-134a (HFC-134a) and R-1234yf (HFO-1234yf) Vehicle
+    Air-Conditioning Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2670_201102
+- type: src
+  content: https://saemobilus.sae.org/standards/j2670_201102-stability-compatibility-criteria-additives-flushing-materials-intended-aftermarket-use-r-134a-hfc-134a-r-1234yf-hfo-1234yf-vehicle-air-conditioning-systems
+docidentifier:
+- content: SAE J2670_201102
+  type: SAE
+  primary: true
+- content: 10.4271/j2670_201102
+  type: DOI
+date:
+- type: approved
+  at: '2011-02-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Interior Climate Control Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE standard applies to any and all additives and chemical solutions intended for aftermarket use in the refrigerant circuit of vehicle air-conditioning systems with belt-driven compressors, except as noted below. This standard provides testing and acceptance criteria for determining the stability and compatibility of additives and flushing materials (solutions) with A/C system materials and components, that may be intended for use in servicing or operation of vehicle air conditioning systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard does not provide test criteria for additive, compressor lubricant, or flushing solution effectiveness; such testing is the responsibility of the additive and/or solution manufacturer/supplier. This standard does not cover additives or flushing materials for electrically driven compressors. The use of additives with electrically driven compressors might cause electrical shorting and compressor failure. It is not the intent of this document to identify the requirements for ultraviolet leak detection dyes. Such dyes must meet the requirements of SAE J2297 for the intended refrigerant.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Additives for mobile air conditioning systems are not tested under this standard for system enhancement or performance. This standard only indicates if the additive is chemically compatible with materials used in the system components.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Flushing solvents, when used, completely fill the component/system being flushed and, hence, should not harm system components at 100% concentration. They are not intended to remain in the system, either as a solvent or as an additive, but, because it is not possible to remove all of the flushing solvent, an indeterminate amount remains. The residual remaining in the system depends on many factors, including system/component configuration, component blind spots where liquid cannot be removed, the volatility of the solvent, the procedure(s) used to remove the solvent, and evacuation capability and procedure. No means exists to identify and/or specify the amount of residual solvent that either can, or will, remain in any given system after the procedure(s) have been followed. This standard does not address the flushing solvent procedure or its effectiveness at removing residual flushing agent.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

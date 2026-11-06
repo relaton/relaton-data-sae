@@ -1,0 +1,48 @@
+---
+id: SAEAS9360D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: NUT, PLAIN, HEXAGON - DRILLED, SILVER PLATED - UNS S66286, 130 KSI MIN
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9360d
+- type: src
+  content: https://saemobilus.sae.org/standards/as9360d-nut-plain-hexagon-drilled-silver-plated-uns-s66286-130-ksi-min
+docidentifier:
+- content: SAE AS9360D
+  type: SAE
+  primary: true
+- content: 10.4271/as9360d
+  type: DOI
+date:
+- type: approved
+  at: '2022-10-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAMS1631B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Cleaner, Carpet Water Extraction Type
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams1631b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams1631b-cleaner-carpet-water-extraction-type
+docidentifier:
+- content: SAE AMS1631B
+  type: SAE
+  primary: true
+- content: 10.4271/ams1631b
+  type: DOI
+date:
+- type: approved
+  at: '1998-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS J Aircraft Maintenance Chemicals and Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers one type of carpet cleaner in the form of a liquid.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

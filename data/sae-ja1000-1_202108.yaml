@@ -1,0 +1,61 @@
+---
+id: SAEJA10001_202108
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Reliability Program Standard Implementation Guide
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ja1000/1_202108
+- type: src
+  content: https://saemobilus.sae.org/standards/ja10001_202108-reliability-program-standard-implementation-guide
+docidentifier:
+- content: SAE JA1000/1_202108
+  type: SAE
+  primary: true
+- content: 10.4271/ja1000/1_202108
+  type: DOI
+date:
+- type: approved
+  at: '2021-08-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-41 Reliability
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The importance of reliability in design engineering has significantly grown since the early 1960’s. Competition has been a primary driver in this growth. The three realities of competition today are: world class quality and reliability, cost-effectiveness, and fast time-to-market. Formerly, companies could effectively compete if they could achieve at least two of these features in their products and product development processes, often at the expense of the third. However, customers today, whether military, aerospace, or commercial, have been sensitized to a higher level of expectation and demand products that are highly reliable, yet affordable.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Product development practices are shifting in response to this higher level of expectation. Today, there is seldom time, or necessary resources to extensively test, analyze, and fix to achieve high quality and reliability. It is also true that the rapid growth in technology prevents the accumulation of historical data on the field performance of their products. Unfortunately, some reliability methods have depended upon the availability of historical data, other experiential information, or learning through extensive and time consuming tests. The new realities require innovation and creativity in the selection and use of reliability methods, and teamwork and collaboration in the management of product development programs. There must be a shift from seeking to eliminate complaints in products, to eliciting praise for them.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;To enable this transition, reliability efforts must be directed toward anticipating problems and designing-in features that assure the achievement of quality and reliability, concurrent with the development process, instead of trying to assess quality and reliability downstream. The gains in time-to-market and cost savings from such an approach can be significant. More recent reliability programs tend not to prescribe reliability tasks or methods to be performed by suppliers. Rather, suppliers are considered equal partners in the effort to produce a reliable product and work with the companies in deciding which reliability methods provide most value in achieving objectives.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Nevertheless, developing reliable products and achieving reliability goals often requires different approaches for various product sectors. For example, in the defense/aerospace sector, the number of customers is relatively small. The product development cycle may span several years, while the product life cycle may last from mere minutes to as long as decades. Furthermore, it is not unusual for several design iterations of technologically different hardware and software to be developed before the final version is incorporated into the production product. Production volumes may range from rates of less than ten to hundreds per year. Also, the reliability discipline in this sector is generally a separate activity from the design discipline.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The commercial sector, in contrast to the defense/aerospace sector, usually has a higher number of different customers. Development cycles could range from months to a few years while life cycles are often measured in years. Production volumes may run up to thousands per day. The reliability discipline is treated usually as an integral part of the up-front design process rather than a separate activity.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Thus, developing a reliability implementation guide to meet the needs of all industry sectors is a formidable challenge. It recognized that this Guide will not strictly apply to all situations or industries. The suggestions made in this Guide must be interpreted in the context of the industry, its accepted practices, and unique company policies. The following statement will be repeated several times in this document to emphasize its importance: “&lt;b&gt;&lt;i&gt;The selection of methods is a highly individualized process. This point cannot be overemphasized and this document does not attempt to prescribe any given method or set of methods. There is no right answer that will apply across the board to every organization or every product development. Suppliers and customers need to determine which methods are most applicable to their specific product developments.&lt;/i&gt;&lt;/b&gt;”&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

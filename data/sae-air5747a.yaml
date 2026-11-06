@@ -1,0 +1,58 @@
+---
+id: SAEAIR5747A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: EMC Laboratory RF Radiated Emission Report for Passive Radio Frequency
+    Identification (RFID) Tags
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5747a
+- type: src
+  content: https://saemobilus.sae.org/standards/air5747a-emc-laboratory-rf-radiated-emission-report-passive-radio-frequency-identification-rfid-tags
+docidentifier:
+- content: SAE AIR5747A
+  type: SAE
+  primary: true
+- content: 10.4271/air5747a
+  type: DOI
+date:
+- type: approved
+  at: '2020-02-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-18 Radio Frequency Identification (RFID) Aero Applications
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This paper contains RF radiated emission and susceptibility data from passive Radio Frequency Identification (RFID) tags and readers operating at 13.56 MHz, 915 MHz, and 2.45 GHz. Laboratory test procedures incorporated the methods of RTCA DO-160D (test procedures for aviation electrical/electronic equipment) and DO-233 (test procedures for consumer portable electronic devices (PEDs)). Only one commercially available system was evaluated per established operating frequencies.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

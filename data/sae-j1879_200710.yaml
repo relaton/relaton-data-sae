@@ -1,0 +1,59 @@
+---
+id: SAEJ1879_200710
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Handbook for Robustness Validation of Semiconductor Devices in Automotive
+    Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1879_200710
+- type: src
+  content: https://saemobilus.sae.org/standards/j1879_200710-handbook-robustness-validation-semiconductor-devices-automotive-applications
+docidentifier:
+- content: SAE J1879_200710
+  type: SAE
+  primary: true
+- content: 10.4271/j1879_200710
+  type: DOI
+date:
+- type: approved
+  at: '2007-10-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Automotive Electronic Systems Reliability Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document will primarily address intrinsic reliability of electronic components for use in automotive electronics. Where practical, methods of extrinsic reliability detection and prevention will also be addressed. This document primarily deals with integrated circuit issues, but can easily be adapted for use in discrete or passive component qualification with the generation of a list of failure mechanisms relevant to those devices. Component qualification is the main scope of this document. Other procedures addressing extrinsic defects are specifically addressed in the monitoring chapter. This document is to be used within the context of achieving Zero Defect in component manufacturing and product use.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

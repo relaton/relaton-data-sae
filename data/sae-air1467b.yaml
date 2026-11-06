@@ -1,0 +1,56 @@
+---
+id: SAEAIR1467B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Gas Energy Limited Starting Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1467b
+- type: src
+  content: https://saemobilus.sae.org/standards/air1467b-gas-energy-limited-starting-systems
+docidentifier:
+- content: SAE AIR1467B
+  type: SAE
+  primary: true
+- content: 10.4271/air1467b
+  type: DOI
+date:
+- type: approved
+  at: '1999-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-6 Starting Systems and Auxiliary Power Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) presents information on gas energy limited propulsion engine starting systems employed in commercial and military applications and remote industrial sites. The types of systems discussed utilize solid propellant cartridge gas, monopropellant hydrazine gas, bipropellant gas, compressed stored gas, and cryogenic stored nitrogen. Presented information conveys design features, performance capabilities and system limitations with methods of computing results.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,60 @@
+---
+id: SAEJ29452_202511
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Dedicated Short Range Communications (DSRC) Performance Requirements for
+    V2V Safety Awareness
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2945/2_202511
+- type: src
+  content: https://saemobilus.sae.org/standards/j29452_202511-dedicated-short-range-communications-dsrc-performance-requirements-v2v-safety-awareness
+docidentifier:
+- content: SAE J2945/2_202511
+  type: SAE
+  primary: true
+- content: 10.4271/j2945/2_202511
+  type: DOI
+date:
+- type: approved
+  at: '2025-11-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Core Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Document specifies DSRC interface requirements for V2V Safety
+    Awareness applications, including detailed Systems Engineering documentation (needs
+    and requirements mapped to appropriate message exchanges). These applications
+    include: Emergency Vehicle Alert, Roadside Alert, and Safety Awareness Alerts
+    for Objects and Adverse Road Conditions. This document extends the V2V Communications
+    capabilities defined in J2945/1 to support these applications, and the National
+    ITS Architecture. The purpose of this SAE Document is to enable interoperability
+    for V2V Safety Awareness communications.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

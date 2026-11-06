@@ -1,0 +1,74 @@
+---
+id: SAEAS8994
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Emergency Evacuation Slides, Ramps, Ramp/Slides, and Slide/Rafts
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8994
+- type: src
+  content: https://saemobilus.sae.org/standards/as8994-emergency-evacuation-slides-ramps-ramp-slides-slide-rafts
+docidentifier:
+- content: SAE AS8994
+  type: SAE
+  primary: true
+- content: 10.4271/as8994
+  type: DOI
+date:
+- type: approved
+  at: '2024-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-9A Safety Equipment and Survival Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AS provides the minimum performance requirements for the following types of inflatable emergency evacuation devices (hereinafter referred to as device[s]):&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Type I - Inflatable Slide: A device suitable for assisting occupants in descending from a floor-level airplane exit or from an airplane wing to the ground. A Type I off-wing slide is a device that does not include a ramp.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Type II - Inflatable Slide/Raft: A device suitable for assisting occupants in descending from a floor-level airplane exit or an airplane wing to the ground that is also designed to be used as a life raft. A Type II off-wing slide/raft is a device that does not include a ramp.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Type III - Inflatable Exit Ramp: A device suitable for assisting occupants in descending from certain overwing exits to an airplane wing.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;4&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Type IV - Inflatable Ramp/Slide: A device suitable for assisting occupants from an overwing exit or airplane wing to the ground. It is a combination ramp and wing-to-ground device.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;5&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Type V - Inflatable Ramp/Slide/Raft: A device suitable for assisting occupants from an overwing exit or airplane wing to the ground. It is a combination ramp and wing-to-ground device that is also designed to be used as a life raft.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,60 @@
+---
+id: SAEJ5515_199712
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Performance Levels and Methods of Measurement of Magnetic and Electric
+    Field Strength from Electric Vehicles, Broadband, 9 kHz to 30 MHz
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j551/5_199712
+- type: src
+  content: https://saemobilus.sae.org/standards/j5515_199712-performance-levels-methods-measurement-magnetic-electric-field-strength-electric-vehicles-broadband-9-khz-30-mhz
+docidentifier:
+- content: SAE J551/5_199712
+  type: SAE
+  primary: true
+- content: 10.4271/j551/5_199712
+  type: DOI
+date:
+- type: approved
+  at: '1997-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The test procedures and performance levels in this SAE Recommended Practice cover the measurement of magnetic and electric field strengths over the frequency range 9 kHz to 30 MHz and conducted emissions over the frequency range of 450 kHz to 30 MHz&lt;span class="xref"&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Conducted emission measurements in this document are applicable only to battery-charging systems which utilize a switching frequency above 9 kHz, are mounted on the vehicle, and whose power is transferred by metallic conductors. Conducted emission requirements apply only during charging of the batteries from AC power lines.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Conducted and radiated emissions measurements of battery-charging systems that use an induction power coupling device are not covered by this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The measurement of electromagnetic disturbances for frequencies from 30 MHz to 1000 MHz and narrowband electromagnetic disturbances for frequencies from 150 kHz to 30 MHz are covered in SAE J551-2.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

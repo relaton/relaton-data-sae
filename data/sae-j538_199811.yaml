@@ -1,0 +1,54 @@
+---
+id: SAEJ538_199811
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Grounding of Storage Batteries
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j538_199811
+- type: src
+  content: https://saemobilus.sae.org/standards/j538_199811-grounding-storage-batteries
+docidentifier:
+- content: SAE J538_199811
+  type: SAE
+  primary: true
+- content: 10.4271/j538_199811
+  type: DOI
+date:
+- type: approved
+  at: '1998-11-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electrical Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The negative side of the storage battery shall be securely and adequately
+    grounded so that the voltage drop to the starting motor is held within the limits
+    specified in the current edition of SAE J541.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

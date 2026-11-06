@@ -1,0 +1,72 @@
+---
+id: SAEJ3337_202607
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: RESS Cell Package Integrity Requirements and Tests
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3337_202607
+- type: src
+  content: https://saemobilus.sae.org/standards/j3337_202607-ress-cell-package-integrity-requirements-tests
+docidentifier:
+- content: SAE J3337_202607
+  type: SAE
+  primary: true
+- content: 10.4271/j3337_202607
+  type: DOI
+date:
+- type: approved
+  at: '2026-07-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Battery Standards Testing Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice (RP) presents a methodology to evaluate RESS Cells Closure Integrity (Leak Tightness) requirement.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This RP applies to two types of RESS Cells, each containing liquid electrolyte: Lithium ion (Li-ion) Cells and Sodium ion (Na-ion) Cells.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The Equivalent Channel Method is used as a suggested cell closure integrity requirement for a given RESS Cell design during its production and product validation phases. The Closure Integrity requirements intended to assure no electrolyte leakage and no excessive moisture ingress during the usage of these cells as part of the RESS (Battery Pack), which is crucial to assure the safety and performance of these RESS.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This RP specifies non-destructive Integrity (leak) testing processes of the Cell Closure. It describes approved leak testing technologies, testing procedures, tooling requirements, and leak test systems validation/verification requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document may be applied to RESS Cell Closure Integrity testing during their initial product validation and their in-line 100% of production integrity/leak testing. This RP applies to RESS Cells with rigid packaging (cylindrical or prismatic) or flexible packaging (pouch).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

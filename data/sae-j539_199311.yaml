@@ -1,0 +1,58 @@
+---
+id: SAEJ539_199311
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: VOLTAGES FOR DIESEL ELECTRICAL SYSTEMS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j539_199311
+- type: src
+  content: https://saemobilus.sae.org/standards/j539_199311-voltages-diesel-electrical-systems
+docidentifier:
+- content: SAE J539_199311
+  type: SAE
+  primary: true
+- content: 10.4271/j539_199311
+  type: DOI
+date:
+- type: approved
+  at: '1993-11-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electrical Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice is intended to apply to lamps, batteries, heaters, radios, and similar equipment for operation with mobile or automotive diesel engines. Twenty-four V systems have long been used for heavy-duty services because 24 V permit operating 12 V systems in series-parallel. Thirty-two V systems have been used for marine, railroad-car lighting, and other uses.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Generators, storage batteries, starting motors, lighting, and auxiliary electrical equipment shall be for nominal system ratings of 12, 24, or 32 V as determined by the power requirements of the application. It is recommended that no intermediate voltages be considered.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The combination of a 24 V starting motor and two 12 V batteries connected in series for cranking is considered practical where it can be adapted to the installation. The batteries are reconnected in parallel for charging from a 12 V generator/alternator and for operating lights and other auxiliary equipment, or charged separately and used individually for lights and other electrical equipment.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

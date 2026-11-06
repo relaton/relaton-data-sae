@@ -1,0 +1,61 @@
+---
+id: SAEARP6887
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Validation and Verification of Integrated Vehicle Health Management Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6887
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6887-validation-verification-integrated-vehicle-health-management-systems
+docidentifier:
+- content: SAE ARP6887
+  type: SAE
+  primary: true
+- content: 10.4271/arp6887
+  type: DOI
+date:
+- type: approved
+  at: '2024-09-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: HM-1 Integrated Vehicle Health Management Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides guidance to plan and perform validation and verification of IVHM systems. The intent of this ARP is to help the reader appreciate and understand additional objectives and activities of validation and verification processes, beyond validation and verification of the vehicle, that arise due to the nature of an IVHM System. This includes an end-to-end evaluation of the entire IVHM system, noting that IVHM is a “system of systems.” In order to perform validation and verification, the user must determine what they are using IVHM for, including the criticality of the application. The process should then determine appropriateness of the data corresponding to the application criticality.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document provides validation and verification guidance for IVHM as: (1) a system of systems, (2) a system, and (3) elements within a system. While this document is not intended to be prescriptive, it is a reference guide that highlights and discusses some attributes of IVHM and its uses that typically necessitate special handling during validation and verification.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For more information about validation and verification processes required for onboard aerospace applications, please refer to ARP4754 (for development process), ARP4761 (for safety assessment process), RTCA DO-178 (for software), RTCA DO-254 (for hardware), and FAA guidance provided by AC 25.1309-1A. The validation and verification processes identified in the standards cited above must be considered where IVHM elements are part of an airborne system. See &lt;span class="xref"&gt;1.3&lt;/span&gt; for a more detailed overview.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

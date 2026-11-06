@@ -1,0 +1,57 @@
+---
+id: SAEAIR1266A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fault Isolation in Environmental Control Systems of Commercial Transports
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1266a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1266a-fault-isolation-environmental-control-systems-commercial-transports
+docidentifier:
+- content: SAE AIR1266A
+  type: SAE
+  primary: true
+- content: 10.4271/air1266a
+  type: DOI
+date:
+- type: approved
+  at: '2011-06-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) outlines concepts for the design and use of fault isolation equipment that have general application. The specific focus is on fault isolation of environmental control systems (ECS) in commercial transports. Presented are general fault isolation purposes, design principles, and demonstration of compliance criteria. These are followed by three design examples to aid in understanding the design principles. Future trends in built-in-test-equipment (BITE) design are discussed, some of which represent concepts already being implemented on new equipment.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

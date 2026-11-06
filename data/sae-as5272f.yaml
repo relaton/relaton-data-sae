@@ -1,0 +1,59 @@
+---
+id: SAEAS5272F
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Lubricant, Solid Film, Heat Cured, Corrosion Inhibiting, Procurement Specification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5272f
+- type: src
+  content: https://saemobilus.sae.org/standards/as5272f-lubricant-solid-film-heat-cured-corrosion-inhibiting-procurement-specification
+docidentifier:
+- content: SAE AS5272F
+  type: SAE
+  primary: true
+- content: 10.4271/as5272f
+  type: DOI
+date:
+- type: approved
+  at: '2021-04-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) establishes the requirements for heat cured solid film lubricants. For other general or high temperature applications, refer to AS1701. This document requires qualified products.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

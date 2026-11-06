@@ -1,0 +1,56 @@
+---
+id: SAETB0003A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Counterfeit Parts & Materials Risk Mitigation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/tb0003a
+- type: src
+  content: https://saemobilus.sae.org/standards/tb0003a-counterfeit-parts-materials-risk-mitigation
+docidentifier:
+- content: SAE TB0003A
+  type: SAE
+  primary: true
+- content: 10.4271/tb0003a
+  type: DOI
+date:
+- type: approved
+  at: '2016-11-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CE-12 Solid State Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This Technical Bulletin covers the following areas of concern.&lt;/p&gt;
+    &lt;p&gt;Prevention: Actions recommended for procuring parts and materials with a full warranty; Actions recommended for minimizing risks and protecting your Program from counterfeiting; Actions recommended when buying from a non-authorized supplier.&lt;/p&gt;
+    &lt;p&gt;Detection: Actions recommended when procuring parts from an unauthorized supplier or otherwise suspect that a part or material at risk of being counterfeit has been procured.&lt;/p&gt;
+    &lt;p&gt;Risk Mitigation: Actions recommended when no reasonable alternatives exist (e.g., a redesign is required, an unacceptable schedule delay will result, the program or customer cannot bear the additional cost) and the decision has been made to procure from a non-authorized supplier.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

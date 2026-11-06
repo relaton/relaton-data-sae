@@ -1,0 +1,58 @@
+---
+id: SAEJ2841_201009
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Utility Factor Definitions for Plug-In Hybrid Electric Vehicles Using Travel
+    Survey Data
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2841_201009
+- type: src
+  content: https://saemobilus.sae.org/standards/j2841_201009-utility-factor-definitions-plug-hybrid-electric-vehicles-using-travel-survey-data
+docidentifier:
+- content: SAE J2841_201009
+  type: SAE
+  primary: true
+- content: 10.4271/j2841_201009
+  type: DOI
+date:
+- type: approved
+  at: '2010-09-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report establishes a set of “Utility Factor” (UF) curves and the method for generating these curves. The UF is used when combining test results from battery charge-depleting and charge-sustaining modes of a Plug-in Hybrid Electric Vehicle (PHEV). Although any transportation survey data set can be used, this document will define the included UF curves by using the 2001 United States Department of Transportation (DOT) “National Household Travel Survey” and a supplementary dataset.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

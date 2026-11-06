@@ -1,0 +1,58 @@
+---
+id: SAEAIR1380A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: RECOMMENDED PRACTICE FOR MEASUREMENT OF STATIC MECHANICAL STIFFNESS PROPERTIES
+    OF AIRCRAFT TIRES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1380a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1380a-recommended-practice-measurement-static-mechanical-stiffness-properties-aircraft-tires
+docidentifier:
+- content: SAE AIR1380A
+  type: SAE
+  primary: true
+- content: 10.4271/air1380a
+  type: DOI
+date:
+- type: approved
+  at: '1997-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5 Aerospace Landing Gear Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The static mechanical stiffness properties of aircraft tires are fundamental to any computation of wheel and landing gear shimmy characteristics, and are important guides in anti-skid system and aircraft wheel design. While the mechanical stiffness properties of aircraft tires are frequency sensitive, the static or low frequency values are important because they are the ones most easily obtained by laboratory testing and are most commonly found in literature.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The following recommended methods for measurement of such properties are believed to represent practices which will give reliable and repeatable measurements, either at one facility or among different facilities, using equipment which is commonly available in most tire testing installations.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

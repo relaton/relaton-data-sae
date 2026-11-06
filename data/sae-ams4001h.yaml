@@ -1,0 +1,56 @@
+---
+id: SAEAMS4001H
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Sheet and Plate 0.12Cu (1100-0) Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4001h
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4001h-aluminum-sheet-plate-012cu-1100-0-annealed
+docidentifier:
+- content: SAE AMS4001H
+  type: SAE
+  primary: true
+- content: 10.4271/ams4001h
+  type: DOI
+date:
+- type: approved
+  at: '2002-08-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers aluminum in the form of sheet and plate.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

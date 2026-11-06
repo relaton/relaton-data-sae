@@ -1,0 +1,83 @@
+---
+id: SAEJ2615_201110
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Testing Performance of Fuel Cell Systems for Automotive Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2615_201110
+- type: src
+  content: https://saemobilus.sae.org/standards/j2615_201110-testing-performance-fuel-cell-systems-automotive-applications
+docidentifier:
+- content: SAE J2615_201110
+  type: SAE
+  primary: true
+- content: 10.4271/j2615_201110
+  type: DOI
+date:
+- type: approved
+  at: '2011-10-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Cell Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice is intended to provide a framework for performance testing of fuel cell systems (FCS’s) designed for automotive applications with direct current (DC) output. The procedures described allow for measurement of performance relative to claims by manufacturers of such systems with regard to the following performance criteria.&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;—&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Power&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;—&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Efficiency&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;—&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Transient Response&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;—&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Start and Stop Performance&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;—&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Physical Description&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;—&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Environmental Limits&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;—&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Operational Requirements&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;—&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Integration&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;Since this recommended practice is based on the principal of performance measurement relative to a claim, the testing parties should take care to include any qualifying or unique circumstances leading to the test results reported in order to achieve full disclosure. For example, efficiency as defined in section 3.1.9 allows for the inclusion of thermal output benefit. If a test result is reported which takes advantage of this allowance this stipulation should be noted with the efficiency figure and the useful purpose of the thermal output (e.g. cabin heating) should be made clear.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

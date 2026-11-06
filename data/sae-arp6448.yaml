@@ -1,0 +1,62 @@
+---
+id: SAEARP6448
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Gaining Approval for Seats with Integrated Electronics in Accordance with
+    AC21-49 Section 7.b
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6448
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6448-gaining-approval-seats-integrated-electronics-accordance-ac21-49-section-7b
+docidentifier:
+- content: SAE ARP6448
+  type: SAE
+  primary: true
+- content: 10.4271/arp6448
+  type: DOI
+date:
+- type: approved
+  at: '2012-06-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aircraft Seat Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides an industry-recommended framework for establishing agreements to ensure that seats with integrated electronic components (e.g., actuation system, reading light, inflatable restraint, IFE, etc.) meet the seat TSO Minimum Performance Standard. These agreements will allow Seat Suppliers to build and ship completed, integrated and approved seat assemblies under TSOA with electronics included. The document presents the roles, responsibilities and accontibilities of the Electronics Manufacturer, the Seat Supplier, and the Seat Installer/Electronics Activator in the context of AC 21-49 Section 7.b ‘ Type Certification using TSO-approved seat with electronic components defined in TSO design’. This document applies to all FAA seat TSOs (C39(), C127()…etc). Only the TSO attributes of integrated electronic components that affect the seat TSO compliance (e.g., component strength and attachment under static and dynamic loading conditions, delethalization, flammability, HIC, and lumbar loads) are addressed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The approval for the integration of the electronics will fall, in part or in full, under the type design authority of the Seat Installer rather than the Seat Supplier shipping the integrated seat. The defined responsibilities, areas of authority and accountability of each party, as well as necessary communication protocols, must ensure configuration management, design control and quality control. These definitions, controls and protocols are agreed (thru normal commercial agreements and binding contracts) and adhered to by all parties ensuring all parts in the supply chain remain approved (e.g. certified and conformed). This document primarily focuses on the relationship between the Seat Supplier and the Electronics Manufacturer.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Table A1&lt;/span&gt; of &lt;span class="xref"&gt;Appendix A&lt;/span&gt; of this document contains information which details the key characteristics of electronic components derived from the Change Impact Analysis characteristics identified in AS9016 (see Reference), tailored to the specific needs of AC 21-49, that require review to ensure proper compliance with the TSO requirements per Table 1 of AC21-49.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Additionally, &lt;span class="xref"&gt;Appendix B&lt;/span&gt; has been included to outline a typical data approval and change management process tailored specifically for ensuring proper communication links are established between all parties.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;There are many different ways to ensure design and quality control procedures are in place to meet AC21-49 Section 7.b requirements through the established process identified in this document. While the responsibility rests solely with the Seat Supplier to ensure all TSO attributes identified in Table 1 of AC21-49 are acceptable, &lt;span class="xref"&gt;Appendix C&lt;/span&gt; has been included to outline the process for authorization of Electronics Manufacturers to assess the impact of changes in their equipment on the TSO attributes. This authorization will allow the classification of the change and the appropriate handling of the implementation of the change.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

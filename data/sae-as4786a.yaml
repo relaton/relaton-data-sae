@@ -1,0 +1,58 @@
+---
+id: SAEAS4786A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Driver Drills, Battery Powered
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4786a
+- type: src
+  content: https://saemobilus.sae.org/standards/as4786a-driver-drills-battery-powered
+docidentifier:
+- content: SAE AS4786A
+  type: SAE
+  primary: true
+- content: 10.4271/as4786a
+  type: DOI
+date:
+- type: approved
+  at: '2011-03-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EG-1B Hand Tools Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) covers variable speed, reversible battery powered drills with removable, rechargeable battery pack and either 3/8 inch or ½ inch chuck used for general maintenance and construction where a battery powered tool is required. This document also satisfies EMI requirements for driver drills, where EMI suppression is required by the purchaser.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document may involve hazardous materials, operations, or equipment and does not purport to address all of the safety considerations associated. It is the responsibility of the user of a piece of equipment to establish appropriate safety and health practices and to determine the applicability of regulatory limitations prior to its use. Users are cautioned to read all manufacturer’s instructions prior to use.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

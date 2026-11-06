@@ -1,0 +1,56 @@
+---
+id: SAEAIR4779
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: USER’S GUIDE TO AMS SPECIFICATIONS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4779
+- type: src
+  content: https://saemobilus.sae.org/standards/air4779-users-guide-ams-specifications
+docidentifier:
+- content: SAE AIR4779
+  type: SAE
+  primary: true
+- content: 10.4271/air4779
+  type: DOI
+date:
+- type: approved
+  at: '1994-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aerospace Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The reader of specifications sometimes needs some help understanding the reasoning behind certain usage of terms. The scope of this AIR is to explain the functions of the various sections of the specifications, why some of the terms in AMS specifications are used, and how the specification system works. After the introduction, the topics are shown in the order they usually appear in specifications.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

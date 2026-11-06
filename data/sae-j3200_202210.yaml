@@ -1,0 +1,56 @@
+---
+id: SAEJ3200_202210
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fluid for Automotive Electrified Drivetrains
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3200_202210
+- type: src
+  content: https://saemobilus.sae.org/standards/j3200_202210-fluid-automotive-electrified-drivetrains
+docidentifier:
+- content: SAE J3200_202210
+  type: SAE
+  primary: true
+- content: 10.4271/j3200_202210
+  type: DOI
+date:
+- type: approved
+  at: '2022-10-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuels and Lubricants TC 3  Driveline and Chassis Lubrication
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report details the important new performance properties and suggested test methods for lubricants used in e-Mobility drivetrain components. The lubricants under discussion are those used in electrified drivetrains, mainly electric-transmissions and axles (e-transmissions and e-axles). The scope is limited to those geared systems in which an electric motor (e-motor) is immersed in the powertrain lubricant or comes in contact with the powertrain lubricant. Though the report focuses on new lubricant attributes, some information on conventional lubricant attributes is included. The information presented here will be helpful in understanding the similarities and differences between conventional (i.e., internal combustion engine (ICE)) and e-Mobility powertrain systems.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

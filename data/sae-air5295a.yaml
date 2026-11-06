@@ -1,0 +1,57 @@
+---
+id: SAEAIR5295A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Design Considerations for Enclosed Turboprop Engine Test Cells
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5295a
+- type: src
+  content: https://saemobilus.sae.org/standards/air5295a-design-considerations-enclosed-turboprop-engine-test-cells
+docidentifier:
+- content: SAE AIR5295A
+  type: SAE
+  primary: true
+- content: 10.4271/air5295a
+  type: DOI
+date:
+- type: approved
+  at: '2018-11-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EG-1E Gas Turbine Test Facilities and Equipment
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is offered to provide state-of-the-art information about design factors that must be considered in the design of new or significantly modified engine test cells used to test propeller equipped turboprop engines in either QEC or bare engine configurations. The report does not address design considerations for test cells designed to test turboprop engines with dynamometer type load absorption devices because they are essentially tested as turboshaft engines. Design considerations for those test cells are presented in AIR4989, Reference 2.1.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

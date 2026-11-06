@@ -1,0 +1,62 @@
+---
+id: SAEJ1711_202302
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Recommended Practice for Measuring the Exhaust Emissions and Fuel Economy
+    of Hybrid-Electric Vehicles, Including Plug-in Hybrid Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1711_202302
+- type: src
+  content: https://saemobilus.sae.org/standards/j1711_202302-recommended-practice-measuring-exhaust-emissions-fuel-economy-hybrid-electric-vehicles-including-plug-hybrid-vehicles
+docidentifier:
+- content: SAE J1711_202302
+  type: SAE
+  primary: true
+- content: 10.4271/j1711_202302
+  type: DOI
+date:
+- type: approved
+  at: '2023-02-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Light Duty Vehicle Performance and Economy Measure Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes uniform chassis dynamometer test procedures for hybrid-electric vehicles (HEVs) and plug-in hybrid-electric vehicles (PHEVs) designed for public roads. This recommended practice provides instructions for measuring and calculating the exhaust emissions and fuel economy of such vehicles over the following standard test cycles: the Urban Dynamometer Driving Schedule (UDDS), the Highway Fuel Economy Driving Schedule (HFEDS), the US06 Driving Schedule (US06), the SC03 Driving Schedule (SC03), and the cold-start Federal Test Procedure (cold FTP), which is based on the UDDS. However, the procedures are structured so that other driving schedules may be substituted, provided that the corresponding preparatory procedures, test lengths, and weighting factors are modified accordingly.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not specify which emissions constituents to measure (e.g., HC, CO, NO&lt;sub&gt;x&lt;/sub&gt;, CO&lt;sub&gt;2&lt;/sub&gt;); instead, that decision will depend on the objectives of the tester. The emissions calculations for PHEV operation are provided as inventory results, weighted in the same manner as fuel and electrical energy consumption. Decisions for on-board versus off-board emissions, relative benefits of emissions-free driving, and how best to weight a cold-start cycle in charge-depleting (CD) mode must first be made before a certification methodology can be determined. Thus, calculations or test methodology intended to certify a PHEV for compliance of emissions standards is beyond the scope of this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For purposes of this test procedure, an HEV is defined as a road vehicle that can draw propulsion energy from both of the following sources of stored energy: (1) a consumable fuel, and (2) a rechargeable energy storage system (RESS) that is recharged by the on-board hybrid propulsion system, an external electric energy source, or both. Consumable fuels covered by this document are limited to petroleum-based liquid fuels (e.g., gasoline and diesel fuel), alcohol-based liquid fuels (e.g., methanol and ethanol), and hydrocarbon-based gaseous fuels (e.g., compressed natural gas). The RESS is assumed to be an electrochemical battery pack because testing HEVs with capacitors or electromechanical flywheels requires a different approach to tracking energy in and out of the energy storage system. Procedures are included to test CD operating modes of PHEVs, which are designed to be routinely charged off-board, and calculations are provided that combine the CD and CS behavior according to in-use driving statistics.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not include test procedures for recharge-dependent (RD) operating modes or vehicles. See &lt;span class="xref"&gt;Section 3&lt;/span&gt; for the definition of recharge-dependent.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not address the methods or equations necessary for calculating the adjusted U.S. Environmental Protection Agency (EPA) miles per gallon (mpg) labels (sometimes referred to as “EPA Five-Cycle” calculations).&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

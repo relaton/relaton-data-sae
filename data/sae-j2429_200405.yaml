@@ -1,0 +1,59 @@
+---
+id: SAEJ2429_200405
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Free-Rolling Cornering Test for Truck and Bus Tires
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2429_200405
+- type: src
+  content: https://saemobilus.sae.org/standards/j2429_200405-free-rolling-cornering-test-truck-bus-tires
+docidentifier:
+- content: SAE J2429_200405
+  type: SAE
+  primary: true
+- content: 10.4271/j2429_200405
+  type: DOI
+date:
+- type: approved
+  at: '2004-05-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Tire Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice describes a test method for determination of steady-state heavy truck (Class VI, VII, and VIII) tire force and moment properties under free-rolling conditions. The properties are acquired as functions of incrementally changed slip angle and normal force using a sequence specified in this document. The data are suitable for use in vehicle dynamics modeling, comparative evaluations for research and development purposes, and manufacturing quality control.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

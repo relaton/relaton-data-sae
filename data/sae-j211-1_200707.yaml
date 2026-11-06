@@ -1,0 +1,59 @@
+---
+id: SAEJ2111_200707
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Instrumentation for Impact Test—Part 1—Electronic Instrumentation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j211/1_200707
+- type: src
+  content: https://saemobilus.sae.org/standards/j2111_200707-instrumentation-impact-test-part-1-electronic-instrumentation
+docidentifier:
+- content: SAE J211/1_200707
+  type: SAE
+  primary: true
+- content: 10.4271/j211/1_200707
+  type: DOI
+date:
+- type: approved
+  at: '2007-07-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Safety Test Instrumentation Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice outlines a series of performance recommendations, which concern the whole data channel. These recommendations are not subject to any variation and all of them shall be adhered to by any agency conducting tests to this practice. However, the method of demonstrating compliance with the recommendations is flexible and can be adapted to suit the needs of the particular equipment the agency is using.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is not intended that each recommendation be taken in a literal sense, as necessitating a single test to demonstrate that the recommendation is met. Rather, it is intended that any agency proposing to conduct tests to this practice shall be able to demonstrate that if such a single test could be and were carried out, then their equipment would meet the recommendations. This demonstration shall be undertaken on the basis of reasonable deductions from evidence in their possession, such as the results of partial tests.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In some systems it may be necessary to divide the whole channel into subsystems, for calibration and checking purposes. The recommendations have been written only for the whole channel, as this is the sole route by which subsystem performances affect the quality of the output. If it is difficult to measure the whole channel performance, which is usually the case, the test agency may treat the channel as two or more convenient subsystems. The whole channel performance could then be demonstrated on the basis of subsystem results, together with a rationale for combining the subsystem results together.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Part 1 of this recommended practice covers electronic instrumentation and Part 2 covers photographic instrumentation.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

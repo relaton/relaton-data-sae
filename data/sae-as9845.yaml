@@ -1,0 +1,48 @@
+---
+id: SAEAS9845
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PIN, STRAIGHT, HEADED, .2499 DIAMETER, AMS 5616
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9845
+- type: src
+  content: https://saemobilus.sae.org/standards/as9845-pin-straight-headed-2499-diameter-ams-5616
+docidentifier:
+- content: SAE AS9845
+  type: SAE
+  primary: true
+- content: 10.4271/as9845
+  type: DOI
+date:
+- type: approved
+  at: '2003-10-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEJ2908_202301
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Vehicle Power and Rated System Power Test for Electrified Powertrains
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2908_202301
+- type: src
+  content: https://saemobilus.sae.org/standards/j2908_202301-vehicle-power-rated-system-power-test-electrified-powertrains
+docidentifier:
+- content: SAE J2908_202301
+  type: SAE
+  primary: true
+- content: 10.4271/j2908_202301
+  type: DOI
+date:
+- type: approved
+  at: '2023-01-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report provides test methods and determination options for evaluating the maximum wheel power and rated system power of vehicles with electrified vehicle powertrains. The scope of this document encompasses passenger car and light- and medium-duty (GVW &amp;lt;10000 pounds) hybrid-electric vehicles (HEVs), plug-in hybrid electric vehicles (PHEVs), battery electric vehicles (BEVs), and fuel-cell electric vehicles (FCEVs). These testing methods can also be applied to conventional ICE vehicles, especially when measuring and comparing wheel power among a range of vehicle types.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document version includes a definition and determination methodology for a rated system power that is comparable to traditional internal combustion engine power ratings (e.g., SAE J1349 and UN ECE R85). The general public is most accustomed to “engine power” and/or “motor power” as the rating metric for conventional and electrified vehicles, respectively. Wheel power will always be a lower-power result, owing to losses in the drivetrain that take power away from the power-producing components as it flows to the wheel. The methods in this document for determining rated system power were developed recognizing that no single approach is suitable for all powertrains without some variations specific to the powertrain type (e.g., BEV versus HEV) and the limits of test practicality.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Additional power-related tests are included to address unique operational capabilities of electrified vehicles.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

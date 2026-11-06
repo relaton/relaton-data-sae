@@ -1,0 +1,56 @@
+---
+id: SAEJ193913_201110
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Off-Board Diagnostic Connector
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939/13_201110
+- type: src
+  content: https://saemobilus.sae.org/standards/j193913_201110-off-board-diagnostic-connector
+docidentifier:
+- content: SAE J1939/13_201110
+  type: SAE
+  primary: true
+- content: 10.4271/j1939/13_201110
+  type: DOI
+date:
+- type: approved
+  at: '2011-10-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE J1939-13 specifies the diagnostic connectors used for off-board connection to a vehicle’s SAE J1939 communication links. The defined diagnostic connectors support connection to the twisted shielded pair media (SAE J1939-11), the Reduced Physical Layer unshielded twisted pair (SAE J1939-15), the unshielded twisted pair of SAE J1939-14, as well as the twisted unshielded quad media (ISO 11783-2).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

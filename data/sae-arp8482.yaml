@@ -1,0 +1,69 @@
+---
+id: SAEARP8482
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guide for Conducting an HIRF and Lightning Safety Assessment (HLSA)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp8482
+- type: src
+  content: https://saemobilus.sae.org/standards/arp8482-guide-conducting-hirf-lightning-safety-assessment-hlsa
+docidentifier:
+- content: SAE ARP8482
+  type: SAE
+  primary: true
+- content: 10.4271/arp8482
+  type: DOI
+date:
+- type: approved
+  at: '2026-06-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-4 Electromagnetic Compatibility (EMC) Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Highly integrated electrical and electronic systems that perform functions within an aircraft may have potential failure conditions during and after exposure to the High-Intensity Radiated Fields (HIRF) or lightning environments. It is therefore necessary to conduct an HIRF and Lightning Safety Assessment (HLSA) that can identify potential failure conditions resulting from exposure to the aircraft HIRF and lightning environments. The failure conditions, failure conditions classifications, and independence principles identified by Aircraft Functional Hazard Assessment (AFHA), Preliminary Aircraft Safety Assessment (PASA), System Functional Hazard Assessment (SFHA), and Preliminary System Safety Assessment (PSSA), and lessons learned from previous experience, are used to identify proposed requirements during the development process. Ultimately, these requirements will result in a design capable of demonstrating that exposure to the HIRF and lightning environments will not result in adverse effects to the operation of the aircraft. This document provides guidance for conducting the HLSA process to classify the system and its equipment to the appropriate HIRF and Lightning Certification Levels (HLCLs).&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

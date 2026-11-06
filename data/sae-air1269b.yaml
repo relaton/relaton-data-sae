@@ -1,0 +1,56 @@
+---
+id: SAEAIR1269B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Molded Rigid Plastic Parts
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1269b
+- type: src
+  content: https://saemobilus.sae.org/standards/air1269b-molded-rigid-plastic-parts
+docidentifier:
+- content: SAE AIR1269B
+  type: SAE
+  primary: true
+- content: 10.4271/air1269b
+  type: DOI
+date:
+- type: approved
+  at: '2003-05-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P Polymeric Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides recommendations for the best practices to be followed in the molding of rigid thermoplastic and thermosetting molding compounds. The molding processes covered in this document are injection, transfer and compression molding. Recommendations are made on the design details of the part such as draft angles and processing considerations such as gate location in order to yield an easily producible, high quality, functional part.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

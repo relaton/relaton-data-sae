@@ -1,0 +1,74 @@
+---
+id: SAEJ2630_201907
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Converting ATIS Message Standards From ASN.1 to XML
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2630_201907
+- type: src
+  content: https://saemobilus.sae.org/standards/j2630_201907-converting-atis-message-standards-asn1-xml
+docidentifier:
+- content: SAE J2630_201907
+  type: SAE
+  primary: true
+- content: 10.4271/j2630_201907
+  type: DOI
+date:
+- type: approved
+  at: '2019-07-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Core Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This SAE Standard presents a set of rules for transforming an Abstract Syntax Notation (ASN.1) message set definition into an eXtensible Markup Language (XML) schema. The result is intended to be a stand-alone XML Schema that is fully consistent with an existing ASN.1 information model. This is a different goal from other related work by other standards bodies developing a set of XML encoding rules for ASN.1 or ASN.1 encodings for XML Schema. These rules were initially developed in order to produce an XML schema for the SAE ATIS standard. While other standards may also choose to use these rules, the rules may not be applicable for all environments.&lt;/p&gt;
+
+
+    &lt;p&gt;The goal for these transformation rules is twofold. The first goal is to provide a uniform set of such rules that all interested parties can use. The second goal is to use such rules to define an adopted schema for traveler information that reflects the preferred translation of ASN.1 message sets to XML for use by ITS system implementers. The first goal is met by this document. The second goal is met by employing this document to produce XML information as part of the periodic re-balloting of the SAE ATIS standard. This is a parallel standards effort with this document.&lt;/p&gt;
+
+
+    &lt;p&gt;These rules were developed as part of the process to draft an XML version of the ATIS data element and message set standards. The original effort focused upon the needs found in the currently adopted October 2000 SAE J2354 standard for ATIS message sets. SAE J2354 makes extensive use of elements from the ITETMDD work and from ITE-TCIP work. In addition, the draft "Event Report Message" (ERM) portion of the Message Sets for External Traffic Management Center Communication (MS/ETMCC) standard was also examined and translated. Message and data elements from the IEEE Incident Management standard (IEEE 1512-2000) were also examined. By this effort, every major message set of ITS was considered to some degree to ensure that the resulting translations could be successfully employed by others toward a common result. It is intended that the resulting ATIS schema will be voted on as an SAE ATIS standard. Other standards-developing organizations may also choose to use these rules; however, it is recognized that translations may not be necessary in some environments and that these rules may not be applicable to all environments within ITS. It is left to each standards-development organization to make such determinations for their specific environments.&lt;/p&gt;
+
+
+    &lt;p&gt;Section 4 is the complete set of conversion rules. An example of use for each rule is given, showing an original ASN.1 definition, the resulting XML schema definition, and a sample XML document element where applicable.&lt;/p&gt;
+
+
+    &lt;p&gt;Section 5 of this document discusses the background of some non-obvious conversion rules presented in Section 4. These include methods of handling the XML representation of enumerations, octet strings, and bit strings. Section 5 also describes how XML namespaces can be used to point to types defined in the Traffic Management Data Dictionary (TMDD), the Transit Communications Interface Profiles (TCIP) standard, the Location Reference Message Set (LRMS), or the International Traveler Information Systems (ITIS) phrase lists. It also discusses additional translation refinements proposed for the conversion of the ATIS message standard.&lt;/p&gt;
+
+
+    &lt;p&gt;Some omissions in the SAE standards required new types to be defined in order to have a valid XML schema. In addition, some new types must be defined to implement the representation of octet strings and bit strings. These changes are documented in Section 6. In the currently adopted revision of the standard the use of inline definitions rather than the more proper use of formal Type Definitions is also a challenge for conversion.&lt;/p&gt;
+
+
+    &lt;p&gt;Section 6 also documents a number of common types that were defined globally at the start of the schema rather than being redefined identically, in-line multiple times in the schema.&lt;/p&gt;
+
+
+    &lt;p&gt;Section 7 presents a sizable sample ASN.1 definition and the corresponding XML schema. The sample illustrates a large number of the conversion rules.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

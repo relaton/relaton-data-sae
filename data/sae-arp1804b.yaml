@@ -1,0 +1,56 @@
+---
+id: SAEARP1804B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electric Baggage/Cargo Tractor
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1804b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1804b-electric-baggage-cargo-tractor
+docidentifier:
+- content: SAE ARP1804B
+  type: SAE
+  primary: true
+- content: 10.4271/arp1804b
+  type: DOI
+date:
+- type: approved
+  at: '2022-03-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) outlines the design and performance requirements for a battery-powered electric tow tractor for the handling of baggage or cargo trailers in airline service. The use of “shall” in this document indicates a mandatory requirement. The use of “should” indicates a recommendation or that which is advised but not required.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

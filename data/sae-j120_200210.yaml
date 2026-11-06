@@ -1,0 +1,54 @@
+---
+id: SAEJ120_200210
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Rubber Rings for Automotive Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j120_200210
+- type: src
+  content: https://saemobilus.sae.org/standards/j120_200210-rubber-rings-automotive-applications
+docidentifier:
+- content: SAE J120_200210
+  type: SAE
+  primary: true
+- content: 10.4271/j120_200210
+  type: DOI
+date:
+- type: approved
+  at: '2002-10-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: SAE IC Powertrain Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Recommended Practice covers the dimensional and material requirements
+    of rubber O-rings for automotive application and rectangular section rubber seal
+    rings for automotive applications.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

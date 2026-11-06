@@ -1,0 +1,54 @@
+---
+id: SAEJ874_200305
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Earthmoving Machines--Method for Locating the Center of Gravity
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j874_200305
+- type: src
+  content: https://saemobilus.sae.org/standards/j874_200305-earthmoving-machines-method-locating-center-gravity
+docidentifier:
+- content: SAE J874_200305
+  type: SAE
+  primary: true
+- content: 10.4271/j874_200305
+  type: DOI
+date:
+- type: approved
+  at: '2003-05-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: MTC1, Earthmoving Machinery
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Standard specifies a method for determining the coordinates
+    of the center of gravity of earthmoving machinery such as tractors, loaders, dumpers,
+    and graders in any condition of loading or position of attachments.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAIR5471
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Limitations of Braille for Use on Passenger Safety Instruction Cards
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5471
+- type: src
+  content: https://saemobilus.sae.org/standards/air5471-limitations-braille-use-passenger-safety-instruction-cards
+docidentifier:
+- content: SAE AIR5471
+  type: SAE
+  primary: true
+- content: 10.4271/air5471
+  type: DOI
+date:
+- type: approved
+  at: '2007-02-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-9B Cabin Interiors and Furnishings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This information is to aid the international air transport industry when considering the communication of safety information to sight-impaired passengers.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEARP6318
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Verification of Discrete and Packaged Photonic Device Technology Readiness
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6318
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6318-verification-discrete-packaged-photonic-device-technology-readiness
+docidentifier:
+- content: SAE ARP6318
+  type: SAE
+  primary: true
+- content: 10.4271/arp6318
+  type: DOI
+date:
+- type: approved
+  at: '2024-10-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is intended for discrete and integrated digital, wavelength division multiplexing (WDM), and analog/radio frequency (RF) photonic components developed for eventual transition to aerospace platforms. The document provides the reasons for verification of photonic device life test and packaging durability. The document focuses on pre-qualification activity at the optical component level to achieve TRL 6. The recommended tests in this document are intended to excite typical failure mechanisms encountered with photonic devices in an aerospace operating environment, and to build confidence that a technology is qualifiable during a program’s engineering and manufacturing development phase.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This recommended practice is targeting components to support electrical-to-optical, optical-to-electrical, or optical-to-optical functionality. Passive optical waveguide, fiber optic cable, and connector components that are integral to a photonic package are included. Component and photonic package radiation tolerance requirements are not within the scope of this recommended practice.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

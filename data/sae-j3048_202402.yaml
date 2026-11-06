@@ -1,0 +1,60 @@
+---
+id: SAEJ3048_202402
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Driver-Vehicle Interface Considerations for Lane Keeping Assistance Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3048_202402
+- type: src
+  content: https://saemobilus.sae.org/standards/j3048_202402-driver-vehicle-interface-considerations-lane-keeping-assistance-systems
+docidentifier:
+- content: SAE J3048_202402
+  type: SAE
+  primary: true
+- content: 10.4271/j3048_202402
+  type: DOI
+date:
+- type: approved
+  at: '2024-02-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Advanced Driver Assistance Systems (ADAS) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this document is to provide guidance for the implementation of DVI for momentary intervention-type LKA systems, as defined by ISO 11270.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;LKA systems provide driver support for safe lane keeping operations via momentary interventions. LKA systems are SAE Level 0, according to SAE J3016.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;LKA systems do not automate any part of the dynamic driving task (DDT) on a sustained basis and are not classified as an integral component of a partial or conditional driving automation system per SAE J3016. The design intent (i.e., purpose) of an LKA system is to address crash scenarios resulting from inadvertent lane or road departures. Drivers can override an LKA system intervention at any time. LKA systems do not guarantee prevention of lane drifts or related crashes. Road and driving environment (e.g., lane line delineation, inclement weather, road curvature, road surface, etc.) as well as vehicle factors (e.g., speed, lateral acceleration, equipment condition, etc.) may affect the operation of the LKA system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;As used in this document, the term “LKA” refers to lateral control driver assistance that automatically intervenes to address a lane departure if the driver either does not signal intent to change lanes (e.g., via turn signal activation) and/or does not initiate corrective steering action to prevent the lane departure. LKA is temporary in nature and distinct from lane centering assistance, which performs sustained steering adjustments to maintain the vehicle’s lateral position within a given lane.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document addresses DVI parameters for original equipment LKA systems on light-duty vehicles (i.e., passenger cars and light trucks) with a Gross Vehicle Weight Rating of less than 10000 pounds. This document does not apply to the installation of aftermarket LKA systems or those on motorcycles or medium- and heavy-duty vehicles. This document does not address system or operational requirements for LKA systems, which are specified by ISO 11270. The responsibility for the safe operation of the vehicle always remains with the driver.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

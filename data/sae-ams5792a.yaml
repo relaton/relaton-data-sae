@@ -1,0 +1,57 @@
+---
+id: SAEAMS5792A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Powder, Plasma Spray 50 (88WC - 12Co) + 35 (70Ni - 16.5Cr - 4Fe - 4Si -
+    3.8B) + 15 (80Ni - 20A1) Three-Component Mixture
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5792a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5792a-powder-plasma-spray-50-88wc-12co-35-70ni-165cr-4fe-4si-38b-15-80ni-20a1-three-component-mixture
+docidentifier:
+- content: SAE AMS5792A
+  type: SAE
+  primary: true
+- content: 10.4271/ams5792a
+  type: DOI
+date:
+- type: approved
+  at: '1998-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a blend of tungsten carbide-cobalt aggregate, a nickel alloy, and a nickel aluminum aggregate in the form of powder.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

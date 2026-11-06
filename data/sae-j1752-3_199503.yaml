@@ -1,0 +1,58 @@
+---
+id: SAEJ17523_199503
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ELECTROMAGNETIC COMPATIBILITY MEASUREMENT PROCEDURES FOR INTEGRATED CIRCUITS—INTEGRATED
+    CIRCUIT RADIATED EMISSIONS MEASUREMENT PROCEDURE 150 KHZ TO 1000 MHZ, TEM CELL
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1752/3_199503
+- type: src
+  content: https://saemobilus.sae.org/standards/j17523_199503-electromagnetic-compatibility-measurement-procedures-integrated-circuits-integrated-circuit-radiated-emissions-measurement-procedure-150-khz-1000-mhz-tem-cell
+docidentifier:
+- content: SAE J1752/3_199503
+  type: SAE
+  primary: true
+- content: 10.4271/j1752/3_199503
+  type: DOI
+date:
+- type: approved
+  at: '1995-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Radiation (EMR) Task Force
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice defines a method for measuring the electromagnetic radiation from an integrated circuit. The method uses a standardized IC test board containing the IC being evaluated mounted to a mating port cut in the top or bottom of a 1 GHz TEM cell. The standardized test board controls the geometry and orientation of the operating IC relative to the TEM cell and eliminates any connecting leads within the cell (these are on the back side of the board which is outside the cell). One of the TEM cell feeds is terminated with a 50 Ω load and the other one is connected to the input of a spectrum analyzer which measures the RF emissions over the frequency range of 150 kHz to 1000 MHz emanating from the integrated circuit and impressed onto the septum of the TEM cell (see &lt;span class="xref"&gt;Figure 1&lt;/span&gt;).&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

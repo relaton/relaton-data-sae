@@ -1,0 +1,57 @@
+---
+id: SAEARP958C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ELECTROMAGNETIC INTERFERENCE MEASUREMENT ANTENNAS; STANDARD CALIBRATION
+    METHOD
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp958c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp958c-electromagnetic-interference-measurement-antennas-standard-calibration-method
+docidentifier:
+- content: SAE ARP958C
+  type: SAE
+  primary: true
+- content: 10.4271/arp958c
+  type: DOI
+date:
+- type: approved
+  at: '1997-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-4 Electromagnetic Compatibility (EMC) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) outlines a standard method for the checkout and calibration of electromagnetic interference measurement antennas. Its primary application is for use when measuring a source 1 m from the antenna in a shield room versus a source at a greater distance (far field). This is the typical distance used in performing military EMC testing. Thus, this is a method of calibration. Shield room characteristics are not considered. It does not address an unknown distributed source. Yet it is close to reality since it is based on another antenna that represents a distributed source. This document presents a technique to determine antenna factors for antennas used primarily in performing measurements in accordance with 2.1 and 2.2. The purpose of Revision B is to include the calibration of other antennas, such as small loop antennas that are also specified for use in these same references.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

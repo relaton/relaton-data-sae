@@ -1,0 +1,96 @@
+---
+id: SAEJ399_202305
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Anodized Aluminum Automotive Parts
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j399_202305
+- type: src
+  content: https://saemobilus.sae.org/standards/j399_202305-anodized-aluminum-automotive-parts
+docidentifier:
+- content: SAE J399_202305
+  type: SAE
+  primary: true
+- content: 10.4271/j399_202305
+  type: DOI
+date:
+- type: approved
+  at: '2023-05-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Metals Technical Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Automotive parts can be fabricated from either coiled sheet, flat sheet or extruded shapes. Alloy selection is governed by finish requirements, forming characteristics, and mechanical properties.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Bright anodizing alloys 5657 and 5252&lt;span class="xref"&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/span&gt; sheet provide a high luster and are preferred for trim which can be formed from an intermediate temper, such as H25. Bright anodizing alloy 5457 is used for parts which require high elongation and a fully annealed ("0") temper. Alloy 6463 is a medium strength bright anodizing extrusion alloy; Alloy X7016 is a high strength bright anodizing extrusion alloy primarily suited for bumper applications.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;To satisfy anti-glare requirements for certain trim applications, sheet alloy 5205 and extrusion alloy 6063 are capable of providing the desired low-gloss anodized finish.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Bright anodizing alloys require control of the chemical composition of the alloy to enhance response to chemical brightening and to result in the formation of anodic coatings that are essentially transparent. Additionally, aluminum producers employ fabricating practices to minimize other metallurgical factors that adversely affect response to bright anodizing procedures. For non-heat-treatable alloys, a highly fragmented grain structure is preferred. Fully annealed, recrystallized grain structures are not optimum for bright anodizing. Where high elongations are required with intermediate tempers, fabricating practices are selected to minimize grain recrystallization.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Another factor to be considered for trim application is the type of mill surface finish that is required. When the metal working treatments do not mar the mill produced surface appreciably, the smooth, bright rolled, "automotive trim" surface is desirable since it often eliminates the need for expensive mechanical buffing operations. Where trim fabricating procedures might be expected to damage a bright-rolled surface, duller mill finishes can be used and parts are buffed after forming. Bright rolled mill surfaces occasionally are protected with a removable tape or water soluble film.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Selection of anodic coating required to protect aluminum parts is influenced by the required corrosion performance and appearance characteristics. Generally, anodic coatings 0.0003–0.0005 in (0.0076–0.0127 mm) thick are used for exterior trim application. Thinner anodic coatings 0.0001–0.0003 in (0.0025–0.0076 mm) are sufficient for interior trim components. Anodic coatings can be dyed to impart color, painted, or inlaid with vinyl or other plastics for aesthetic and/or functional purposes.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The Aluminum Association's "Designation System for Finishes" is a recommended guide to assist in specifying anodic coatings for automotive trim.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The American Society for Testing and Materials (ASTM) offers several test methods which are commonly used as the basis for many user specifications. These are:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ASTM B110—Dielectric Strength of Anodically coated Aluminum&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ASTM B457—Measuring Impedance of Anodic Coatings of Aluminum&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ASTM B244—Measuring Thickness of Anodic Coatings on Aluminum with Eddy Current Instruments&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ASTM B136—Resistance of Anodically Coated Aluminum to Staining by Dyes&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ASTM B137—Weight of Coating on Anodically Coated Aluminum&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ASTM B368—Copper-Accelerated Acetic Acid Salt Spray (Fog) Testing (CASS Test)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ASTM B538—Fact (Ford Anodized Aluminum Corrosion Test) Testing&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ASTM B580—Guide to the Specification of Anodic Oxide Coatings on Aluminum&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ASTM 429—Measurement and Calculation of Reflecting Characteristics of Metallic Surfaces Using Integrating Sphere Instruments&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;ASTM E430—Measurement of Gloss of High Gloss Metal Surfaces Using Abridged Goniophotometer or Goniophotometer&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

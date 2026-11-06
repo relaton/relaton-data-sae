@@ -1,0 +1,58 @@
+---
+id: SAEMAM4778
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BRAZING FILLER METAL, NICKEL ALLOY 92Ni - 4.5Si - 3.1B 980° - 1040°C Solidus-Liquidus
+    Range
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/mam4778
+- type: src
+  content: https://saemobilus.sae.org/standards/mam4778-brazing-filler-metal-nickel-alloy-92ni-45si-31b-980-1040c-solidus-liquidus-range
+docidentifier:
+- content: SAE MAM4778
+  type: SAE
+  primary: true
+- content: 10.4271/mam4778
+  type: DOI
+date:
+- type: approved
+  at: '1989-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a nickel alloy in the form of wire, rod, strip, foil, and powder and a viscous mixture (paste) of the powder in a suitable binder and procured in metric units.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

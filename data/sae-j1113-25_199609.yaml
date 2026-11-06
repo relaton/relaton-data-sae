@@ -1,0 +1,62 @@
+---
+id: SAEJ111325_199609
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ELECTROMAGNETIC COMPATIBILITY MEASUREMENT PROCEDURE FOR VEHICLE COMPONENTS—IMMUNITY
+    TO RADIATED ELECTROMAGNETIC FIELDS, 10 kHz TO 500 MHz—TRI-PLATE LINE METHOD
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1113/25_199609
+- type: src
+  content: https://saemobilus.sae.org/standards/j111325_199609-electromagnetic-compatibility-measurement-procedure-vehicle-components-immunity-radiated-electromagnetic-fields-10-khz-500-mhz-tri-plate-line-method
+docidentifier:
+- content: SAE J1113/25_199609
+  type: SAE
+  primary: true
+- content: 10.4271/j1113/25_199609
+  type: DOI
+date:
+- type: approved
+  at: '1996-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This procedure covers the recommended testing techniques for the determination of electric field immunity of an automotive electronic device. This technique uses a Tri-Plate Line (TPL) from 10 kHz to 500 MHz and is limited to components which have a maximum height of equal to or less than 1/3 the height between the driven element and the outer, grounded plates.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A Tri-Plate Line is a variation of a TEM cell design which is constructed without sides to the cell. The TPL sets up a region of uniform electric and magnetic fields between the center septum and the top and bottom grounded plates.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;One advantage to the use of the TPL as opposed to a TEM cell is that the construction permits large devices to be placed within the cell with their associated cables attached without special feed through ports or adapters as required for a TEM cell. The lack of sides which would be found in a TEM cell permits easy routing of the cables to and from the Equipment under test (EUT).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The TPL does not have a serious problem with fields reflected from the side walls as does the TEM cell due to the lack of side walls. This permits its use to frequencies above twice the normal useful frequency for a TEM cell of the same physical size.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;However, the lack of side walls also means that the TPL must be used within a shielded room to prevent radiation from the TPL from interfering with nearby electronic devices. The possibility of room resonances and reflected waves distorting the measurements must not be ignored. This is discussed in greater detail in the body of this document.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

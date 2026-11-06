@@ -1,0 +1,60 @@
+---
+id: SAEJ25341_5_00
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Recommended Practice for Pass-Thru Vehicle Programming
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2534-1_5_00
+- type: src
+  content: https://saemobilus.sae.org/standards/j2534-1_5_00-recommended-practice-pass-thru-vehicle-programming
+docidentifier:
+- content: SAE J2534-1_5_00
+  type: SAE
+  primary: true
+- content: 10.4271/j2534-1_5_00
+  type: DOI
+date:
+- type: approved
+  at: '2022-01-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice describes a standardized interface that connects between a standard personal computer (PC) and vehicle.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The purpose of this interface is to enable the reprogramming of emission-related control modules, in 2004 and later model year vehicles. The interface shall consist of the necessary hardware and/or software to support the requirements defined in this document. It is expected that vehicle manufacturers will provide the software application that will control the pass-thru interface, to perform the actual reprogramming.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The goal of this document is to ensure that reprogramming software from any vehicle manufacturer is compatible with interface supplied by any tool manufacturer. A common interface for all vehicle manufacturers reduces the tool costs for aftermarket garages, while allowing each vehicle manufacturer to control the programming sequence for the electronic control units (ECUs) in their vehicles. Aftermarket garages will be able to obtain a standardized interface from a variety of tool suppliers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not limit the hardware possibilities for the connection between the PC and the interface (e.g., RS-232, RS-485, USB, ethernet, etc.). Tool suppliers are free to choose the connection that is most appropriate for their needs. Tools that are required to be SAE J2534-1 compliant must strictly adhere to the requirements defined in this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Applications that are required to be SAE J2534-1 compliant must strictly adhere to the requirements defined in this document. Applications that use features defined in the SAE J2534/2-xxxx document set are not considered to be SAE J2534-1 compliant.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

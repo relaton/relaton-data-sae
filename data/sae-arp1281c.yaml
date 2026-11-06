@@ -1,0 +1,61 @@
+---
+id: SAEARP1281C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Actuators: Aircraft Flight Controls, Power Operated, Hydraulic, General
+    Specification For'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1281c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1281c-actuators-aircraft-flight-controls-power-operated-hydraulic-general-specification
+docidentifier:
+- content: SAE ARP1281C
+  type: SAE
+  primary: true
+- content: 10.4271/arp1281c
+  type: DOI
+date:
+- type: approved
+  at: '2024-02-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6B1 Hydraulic Servo Actuation Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This aerospace recommended practice provides a framework and suggested procedures or values for requirements for the design, performance, and test of hydraulically powered servoactuators for use in aircraft flight control systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The original version of this document was intended for military usage: consequently, the requirements still often reflect such use. However, the basic requirements of this ARP may and should be applicable to commercial usage as well, provided that appropriate considerations are given for the applicable FAR/JAR 25 regulations, hydraulic fluids, and environmental conditions.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

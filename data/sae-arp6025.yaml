@@ -1,0 +1,63 @@
+---
+id: SAEARP6025
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Duty Cycle Considerations for Electrohydrostatic Actuators
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6025
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6025-duty-cycle-considerations-electrohydrostatic-actuators
+docidentifier:
+- content: SAE ARP6025
+  type: SAE
+  primary: true
+- content: 10.4271/arp6025
+  type: DOI
+date:
+- type: approved
+  at: '2018-05-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6B2 Electrohydrostatic Actuation Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice provides a method of characterizing Electrohydrostatic Actuator (EHA)/Electrohydrostatic Module (EHM) duty cycles for the following purposes:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;To enable the comparison of the severity of different EHA/EHM applications. This allows the use of previously qualified designs without the need for repeat testing.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;To define parameters for endurance-test design of EHAs; e.g., a way of executing a life-equivalent test in a shorter duration by increasing the speed of cycles and/or the level of applied loads.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

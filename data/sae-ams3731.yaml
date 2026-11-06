@@ -1,0 +1,56 @@
+---
+id: SAEAMS3731
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: POTTING COMPOUND, EPOXY Bisphenol A-Type
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3731
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3731-potting-compound-epoxy-bisphenol-a-type
+docidentifier:
+- content: SAE AMS3731
+  type: SAE
+  primary: true
+- content: 10.4271/ams3731
+  type: DOI
+date:
+- type: approved
+  at: '1981-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P Polymeric Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification and its supplementary detail specifications cover epoxy resin formulations based on diglycidyl ether of bisphenol A with an epoxide equivalent of 175 - 195. When property mixed and cured, these resins produce a rigid or flexible product.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

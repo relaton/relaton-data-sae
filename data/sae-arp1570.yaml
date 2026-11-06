@@ -1,0 +1,58 @@
+---
+id: SAEARP1570
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Flight Management Computer System
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1570
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1570-flight-management-computer-system
+docidentifier:
+- content: SAE ARP1570
+  type: SAE
+  primary: true
+- content: 10.4271/arp1570
+  type: DOI
+date:
+- type: approved
+  at: '2002-12-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-7 Flight Deck Handling Qualities Stds for Trans Aircraft
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The purpose of this document is to describe the recommendations of
+    SAE Committee S-7 for a Flight Management Computer System (FMCS) capable of providing
+    the functions and displays listed below to permit completion of a desired flight
+    plan in an energy efficient and/or cost effective manner while meeting the requirements
+    of Air Traffic Control. The recommendations of this document apply to transport
+    aircraft and describe the operational objectives of the FMCS and related controls
+    and displays.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

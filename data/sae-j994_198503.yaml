@@ -1,0 +1,69 @@
+---
+id: SAEJ994_198503
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALARM - BACKUP - ELECTRIC - PERFORMANCE, TEST, AND APPLICATION
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j994_198503
+- type: src
+  content: https://saemobilus.sae.org/standards/j994_198503-alarm-backup-electric-performance-test-application
+docidentifier:
+- content: SAE J994_198503
+  type: SAE
+  primary: true
+- content: 10.4271/j994_198503
+  type: DOI
+date:
+- type: approved
+  at: '1985-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: OPTC3, Lighting and Sound Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes the following criteria for electrically operated backup alarm devices on mobile construction and industrial machinery:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Backup alarm device performance requirements.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Measurement technique for alarm performance requirements.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Laboratory environmental tests.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Alarm activation on the vehicle.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

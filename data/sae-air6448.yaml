@@ -1,0 +1,60 @@
+---
+id: SAEAIR6448
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Gaining Approval for Seats with Integrated Electronics in Accordance with
+    AC21-49 Option 7b
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6448
+- type: src
+  content: https://saemobilus.sae.org/standards/air6448-gaining-approval-seats-integrated-electronics-accordance-ac21-49-option-7b
+docidentifier:
+- content: SAE AIR6448
+  type: SAE
+  primary: true
+- content: 10.4271/air6448
+  type: DOI
+date:
+- type: approved
+  at: '2011-06-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aircraft Seat Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides an industry recommended framework for establishing a multi-party agreement to support approval of electronic components (e.g., actuation system, reading light, inflatable restraint, IFE, etc.) integrated in aircraft seats and provide a framework that allows seat manufacturers to build and ship completed, integrated, and approved seat assemblies with electronics included. The primary purpose of this document is to provide roles, responsibilities and accountabilities to meet AC 21-49 Section 7.b ‘Type Certification using TSO-approved seat with electronic components defined in TSO design’. This document may be applied to all applicable seat TSOs (C39(), C127()…etc).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The approval for the integration of the electronics will fall, in part or in full, under the type design authority of the Seat Installer rather than the Seat Supplier shipping the integrated seat. The defined responsibilities, areas of authority and accountability of each party, as well as necessary communication protocols, must ensure configuration management, design control and quality control. These definitions, controls and protocols are agreed (thru normal commerical agreements and binding contracts) and adhered to by all parties ensuring all parts in the supply chain remain approved (e.g. certified and conformed).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Table A1&lt;/span&gt; of &lt;span class="xref"&gt;Appendix A&lt;/span&gt; of this document contains information which details the key characteristics of electronic equipment that require review to ensure proper compliance with the TSO requirements per Table 1 of AC 21-49.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

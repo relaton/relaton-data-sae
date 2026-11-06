@@ -1,0 +1,49 @@
+---
+id: SAEAS9216
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SCREW, MACHINE - STEEL AMS 6304, DIFFUSED NICKEL-CADMIUM PLATE, DOUBLE
+    HEXAGON EXTENDED WASHER HEAD, DRILLED, .164-36 UNJF-3A
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9216
+- type: src
+  content: https://saemobilus.sae.org/standards/as9216-screw-machine-steel-ams-6304-diffused-nickel-cadmium-plate-double-hexagon-extended-washer-head-drilled-164-36-unjf-3a
+docidentifier:
+- content: SAE AS9216
+  type: SAE
+  primary: true
+- content: 10.4271/as9216
+  type: DOI
+date:
+- type: approved
+  at: '1998-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,49 @@
+---
+id: SAEAS1182
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STANDARD MACHINING ALLOWANCE, Aircraft Quality and Premium Quality Steel
+    Products
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1182
+- type: src
+  content: https://saemobilus.sae.org/standards/as1182-standard-machining-allowance-aircraft-quality-premium-quality-steel-products
+docidentifier:
+- content: SAE AS1182
+  type: SAE
+  primary: true
+- content: 10.4271/as1182
+  type: DOI
+date:
+- type: approved
+  at: '1971-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

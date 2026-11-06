@@ -1,0 +1,66 @@
+---
+id: SAEARP86
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HEATER, AIRPLANE, EXHAUST HOT AIR TYPE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp86
+- type: src
+  content: https://saemobilus.sae.org/standards/arp86-heater-airplane-exhaust-hot-air-type
+docidentifier:
+- content: SAE ARP86
+  type: SAE
+  primary: true
+- content: 10.4271/arp86
+  type: DOI
+date:
+- type: approved
+  at: '1943-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;These specifications are written to cover the subject of exhaust hot air type heaters under three classifications, namely.&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;A&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;EXHAUST HOT AIR TYPE HEATERS - GENERAL - Dealing with features applicable to all makes and users.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;B&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;EXHAUST HOT AIR TYPE HEATERS - MILITARY AND COMMERCIAL -Covering features applicable to military and commercial aircraft.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;C&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;DESIRABLE DESIGN FEATURES - General information for use of those concerned with meeting requirements contained herein.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

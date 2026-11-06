@@ -1,0 +1,59 @@
+---
+id: SAEARP5475A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Abuse Load Testing for In-Seat Deployable Video Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5475a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5475a-abuse-load-testing-seat-deployable-video-systems
+docidentifier:
+- content: SAE ARP5475A
+  type: SAE
+  primary: true
+- content: 10.4271/arp5475a
+  type: DOI
+date:
+- type: approved
+  at: '2011-11-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aircraft Seat Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides guidelines for abuse load testing of a deployable Individual Video System (IVS).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The abuse load testing defined in this ARP is intended to only address the evaluation of the deployable IVS regarding stowage of the system and injurious projections/protrusions as a result of passenger interaction with the video system. Other aspects of the video system design or qualification may require additional testing or analysis and are outside the scope of this ARP.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This ARP is not intended to address customer satisfaction or reliability aspects of individual designs.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

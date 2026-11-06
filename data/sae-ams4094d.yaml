@@ -1,0 +1,59 @@
+---
+id: SAEAMS4094D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Sheet and Plate, Alclad 6.3Cu - 0.30Mn - 0.18Zr - 0.10V
+    - 0.06Ti Alclad 2219-T81 Sheet Solution Heat Treated, Cold Worked, and Precipitation
+    Heat Treated Alclad 2219-T851 Plate Solution Heat Treated, Stress Relieved, and
+    Precipitation Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4094d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4094d-aluminum-alloy-sheet-plate-alclad-63cu-030mn-018zr-010v-006ti-alclad-2219-t81-sheet-solution-heat-treated-cold-worked-precipitation-heat-treated-alclad-2219-t851-plate-solution-heat-treated-stress-relieved-precipitation-heat-treated
+docidentifier:
+- content: SAE AMS4094D
+  type: SAE
+  primary: true
+- content: 10.4271/ams4094d
+  type: DOI
+date:
+- type: approved
+  at: '2018-03-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of sheet and plate 0.020 to 0.499 inch (0.51 to 12.67 mm) inclusive, in nominal thickness, clad on two sides (see &lt;span class="xref"&gt;8.5&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

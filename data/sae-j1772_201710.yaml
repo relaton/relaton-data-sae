@@ -1,0 +1,57 @@
+---
+id: SAEJ1772_201710
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SAE Electric Vehicle and Plug in Hybrid Electric Vehicle Conductive Charge
+    Coupler
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1772_201710
+- type: src
+  content: https://saemobilus.sae.org/standards/j1772_201710-sae-electric-vehicle-plug-hybrid-electric-vehicle-conductive-charge-coupler
+docidentifier:
+- content: SAE J1772_201710
+  type: SAE
+  primary: true
+- content: 10.4271/j1772_201710
+  type: DOI
+date:
+- type: approved
+  at: '2017-10-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard covers the general physical, electrical, functional and performance requirements to facilitate conductive charging of EV/PHEV vehicles in North America. This document defines a common EV/PHEV and supply equipment vehicle conductive charging method including operational requirements and the functional and dimensional requirements for the vehicle inlet and mating connector.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEAS7474C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Bolts and Screws, Steel, Corrosion Resistant, UNS S17400 Tensile Strength
+    140 ksi Procurement Specification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as7474c
+- type: src
+  content: https://saemobilus.sae.org/standards/as7474c-bolts-screws-steel-corrosion-resistant-uns-s17400-tensile-strength-140-ksi-procurement-specification
+docidentifier:
+- content: SAE AS7474C
+  type: SAE
+  primary: true
+- content: 10.4271/as7474c
+  type: DOI
+date:
+- type: approved
+  at: '2011-10-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers bolts and screws made from a corrosion and heat resistant, martensitic iron base alloy of the type identified under the Unified Numbering System as UNS S17400. The following specification designations and their properties are covered:&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

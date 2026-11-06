@@ -1,0 +1,58 @@
+---
+id: SAEAS8049
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PERFORMANCE STANDARD FOR SEATS IN CIVIL ROTORCRAFT AND TRANSPORT AIRPLANES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8049
+- type: src
+  content: https://saemobilus.sae.org/standards/as8049-performance-standard-seats-civil-rotorcraft-transport-airplanes
+docidentifier:
+- content: SAE AS8049
+  type: SAE
+  primary: true
+- content: 10.4271/as8049
+  type: DOI
+date:
+- type: approved
+  at: '1990-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aircraft Seat Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Standard (AS) defines minimum performance standards, qualification requirements, and minimum documentation requirements for passenger and crew seats in civil rotorcraft and transport airplanes. The goal is to achieve comfort, durability, and occupant protection under normal operational loads and to define test and evaluation criteria to demonstrate occupant protection when a seat/occupant/restraint system is subjected to statically applied ultimate loads and to dynamic impact test conditions set forth in the applicable Federal Aviation Regulations (FAR) Part 25, 27, or 29.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This AS also provides guidance for design by enumerating certain design goals to enhance comfort, serviceability, and safety. Guidance for test procedures, measurements, equipment, and interpretation of results is presented to promote uniform techniques and to achieve acceptable data.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;While this AS addresses system performance, responsibility for the seating system is divided between the seat supplier and the installation applicant. The seat supplier's responsibility consists of meeting all the seat system performance requirements and obtaining and supplying to the installation applicant all the data prescribed by this AS. The installation applicant has the ultimate system responsibility in assuring that all requirements for safe seat installation have been met.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

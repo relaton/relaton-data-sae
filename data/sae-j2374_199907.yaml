@@ -1,0 +1,57 @@
+---
+id: SAEJ2374_199907
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Location Referencing Message Specification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2374_199907
+- type: src
+  content: https://saemobilus.sae.org/standards/j2374_199907-location-referencing-message-specification
+docidentifier:
+- content: SAE J2374_199907
+  type: SAE
+  primary: true
+- content: 10.4271/j2374_199907
+  type: DOI
+date:
+- type: approved
+  at: '1999-07-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ITS Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The LRMS is intended to provide a practical approach to standardization for location referencing within a mixed data set environment, i.e., where more than one kind of spatial data set exists, and where spatial references between these data sets must be made. Although some ITS applications in local areas may be satisfied by having one common data set— for which location references may be implemented in any number of ways— many ITS applications will have broad interoperability requirements within the nation or a region. For example, a vehicle driven from California to Florida in the U.S. should be able to receive and understand spatial references for traffic information or routing instructions throughout the trip. Similarly, information sent from a vehicle to a central site should be understood in any city regardless of the kinds of data sets in use, whether they are public or private, or how locations are referenced internally to particular data sets.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The LRMS can be applied to ITS systems involving mobile vehicles on roads, rails, and waterways. It can also be applied to location references to and from central sites to non-mobile sites such as kiosks, other central sites, or pedestrians. The broadest scope of the LRMS is therefore intermodal spatial data set interoperability at the national level and across all of ITS. Given the great variety of ITS systems, it is expected that individual LRMS profiles will generate location referencing standards for subsets of ITS applications, such as ISP→ Vehicle→ ISP, or center→ center.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

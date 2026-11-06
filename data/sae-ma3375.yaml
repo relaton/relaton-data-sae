@@ -1,0 +1,58 @@
+---
+id: SAEMA3375
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STUDS, A-286 CRES Roll Threaded After Heat Treatment, Procurement Specification
+    for, Metric
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma3375
+- type: src
+  content: https://saemobilus.sae.org/standards/ma3375-studs-a-286-cres-roll-threaded-heat-treatment-procurement-specification-for-metric
+docidentifier:
+- content: SAE MA3375
+  type: SAE
+  primary: true
+- content: 10.4271/ma3375
+  type: DOI
+date:
+- type: approved
+  at: '1981-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This procurement specification covers aircraft quality metric studs made of a corrosion and heat resistant age hardenable iron base alloy, A-286. Two types of studs are covered as follows:&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

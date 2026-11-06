@@ -1,0 +1,58 @@
+---
+id: SAEAS2094B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Test Methods for Tube-Fitting Assemblies
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as2094b
+- type: src
+  content: https://saemobilus.sae.org/standards/as2094b-test-methods-tube-fitting-assemblies
+docidentifier:
+- content: SAE AS2094B
+  type: SAE
+  primary: true
+- content: 10.4271/as2094b
+  type: DOI
+date:
+- type: approved
+  at: '2018-07-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) specifies test methods for tube-fitting assemblies used in aircraft fluid systems in the following pressure classes: B (1500 psi or 10500 kPa), D (3000 psi or 21000 kPa), E (4000 psi or 28000 kPa), and J (5000 psi or 35000 kPa) and in temperature types I (-65 to 160 °F or -55 to 70 °C), II (-65 to 275 °F or -55 to 135 °C), and III (-65 to 400 °F or -55 to 200 °C) of AS2001.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document applies each time that it is referred to in a procurement specification or other definition document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Fluids and materials used for the tests are listed in &lt;span class="xref"&gt;Section 2&lt;/span&gt;.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

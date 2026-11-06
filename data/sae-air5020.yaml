@@ -1,0 +1,75 @@
+---
+id: SAEAIR5020
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Time-Dependent In-Flight Thrust Determination
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5020
+- type: src
+  content: https://saemobilus.sae.org/standards/air5020-time-dependent-flight-thrust-determination
+docidentifier:
+- content: SAE AIR5020
+  type: SAE
+  primary: true
+- content: 10.4271/air5020
+  type: DOI
+date:
+- type: approved
+  at: '2004-11-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-33 In Flight Propulsion Measurement Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose and intent of Subcommittee E-33E’s effort, the reporting objectives, and the limitations inherent in the reported findings and recommendations are reviewed since these factors are the basis of the information contained in this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE E-33E Subcommittee was formed to assess the level of industry experience that exists in the area of thrust determination during aircraft time-variant operating conditions. A prime objective was to provide a center for gathering expertise and to be a forum for the exchange of ideas and viewpoints. The committee recognized that a practice for the rigorous treatment of time-dependent thrust did not exist and that several critical aspects of its accounting would need to be investigated.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The specific objectives of this document are:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;To examine aircraft and engine operating conditions under which the quasi-steady thrust assumption is valid.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;To determine the extent to which time-dependent (nonstationary) force accounting for engine net thrust and propulsion system throttle-dependent terms is required, consistent with existing and developing thrust-minus-drag techniques.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;To report time-dependent thrust methodologies and measurement techniques used for flight and ground testing.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;To present the results of a data review of state-of-the-art methodology appropriate to the determination of aircraft-installed thrust during quasi-steady and dynamic maneuvers.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;To provide guidelines for validating and improving time-dependent thrust determination as appropriate to a specific program.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

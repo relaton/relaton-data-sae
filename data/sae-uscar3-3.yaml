@@ -1,0 +1,152 @@
+---
+id: SAEUSCAR33
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SPECIFICATION FOR TESTING AUTOMOTIVE MINIATURE BULBS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar3-3
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar3-3-specification-testing-automotive-miniature-bulbs
+docidentifier:
+- content: SAE USCAR-3-3
+  type: SAE
+  primary: true
+- content: 10.4271/uscar3-3
+  type: DOI
+date:
+- type: approved
+  at: '2009-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The procedures contained in this specification cover the laboratory testing of miniature incandescent bulbs for use in automotive illumination and signaling applications. The following tests shall be run whenever the following occurs:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;New bulb design&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Design or process change made to an existing bulb, which could affect the outcome of the test.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;The completion of one calendar year as noted in the following Test Schedule Table. Process control data is acceptable.
+    &lt;div class="table-wrap anchor "&gt;
+
+    &lt;div class="table-container"&gt;&lt;table class="br-all tbr-box " data-dataset-id=""&gt;
+    &lt;thead&gt;
+    &lt;tr&gt;
+    &lt;th class="va-top ta-center "&gt;&lt;u&gt;Test Title&lt;/u&gt;&lt;/th&gt;
+    &lt;th class="va-top ta-center "&gt;&lt;u&gt;Yearly&lt;/u&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;
+    &lt;tbody&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Physical Dimensions&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Mean Spherical Candela&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;External Visual Examination&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Crush&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Thermal Shock&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Bayonet Base Retention&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Pin Removal&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Wedge Base Retention&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Lead Wire Bend&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Lead Wire Pull&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Natural Amber Color&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Coated Amber Color
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Integrated Color&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Visual Color&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Point Color&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Color Maintenance and Coating Durability&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Amber Coating Chemical Resistance&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;
+    &lt;td class="va-middle ta-center "&gt;X&lt;br/&gt;X&lt;br/&gt;X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Resonant Frequency&lt;/td&gt;
+    &lt;td class="va-top ta-center "/&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Aged Resonant Frequency&lt;/td&gt;
+    &lt;td class="va-top ta-center "/&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Salt Spray&lt;/td&gt;
+    &lt;td class="va-top ta-center "/&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Wire Loop Pull&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Outgassing/Heat&lt;/td&gt;
+    &lt;td class="va-top ta-center "/&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Laboratory Life&lt;/td&gt;
+    &lt;td class="va-top ta-center "/&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Accelerated Life&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Luminous Intensity Maintenance&lt;/td&gt;
+    &lt;td class="va-top ta-center "&gt;X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Vibration Durability&lt;/td&gt;
+    &lt;td class="va-top ta-center "/&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Shock&lt;/td&gt;
+    &lt;td class="va-top ta-center "/&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Aged Vibration Durability&lt;/td&gt;
+    &lt;td class="va-top ta-center "/&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div&gt;&lt;span class="caption"&gt;
+    &lt;span class="title"&gt;Test Schedule Table&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

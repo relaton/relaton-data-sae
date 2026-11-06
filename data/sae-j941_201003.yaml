@@ -1,0 +1,60 @@
+---
+id: SAEJ941_201003
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Motor Vehicle Drivers’ Eye Locations
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j941_201003
+- type: src
+  content: https://saemobilus.sae.org/standards/j941_201003-motor-vehicle-drivers-eye-locations
+docidentifier:
+- content: SAE J941_201003
+  type: SAE
+  primary: true
+- content: 10.4271/j941_201003
+  type: DOI
+date:
+- type: approved
+  at: '2010-03-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Driver Vision Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes the location of drivers’ eyes inside a vehicle. Elliptical (eyellipse) models in three dimensions are used to represent tangent cutoff percentiles of driver eye locations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Procedures are provided to construct 95th and 99th percentile tangent cutoff eyellipses for a 50/50 gender mix, adult user population.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Neck pivot (P) points are defined in Section 6 to establish specific left and right eye points for direct and indirect viewing tasks described in SAE J1050. These P points are defined only for the adjustable seat eyellipses defined in Section &lt;span class="xref"&gt;4&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document applies to Class A Vehicles (Passenger Cars, Multipurpose Passenger Vehicles, and Light Trucks) as defined in SAE J1100. It also applies to Class B vehicles (Heavy Trucks), although these eyellipses have not been updated from previous versions of SAE J941.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The appendices are provided for information only and are not a requirement of this document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

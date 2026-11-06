@@ -1,0 +1,57 @@
+---
+id: SAEAIR4066C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Fluid Power – Materials and Characteristics of Flight Control
+    Servoactuators of Various Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4066c
+- type: src
+  content: https://saemobilus.sae.org/standards/air4066c-aerospace-fluid-power-materials-characteristics-flight-control-servoactuators-various-aircraft
+docidentifier:
+- content: SAE AIR4066C
+  type: SAE
+  primary: true
+- content: 10.4271/air4066c
+  type: DOI
+date:
+- type: approved
+  at: '2017-02-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6B1 Hydraulic Servo Actuation Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) defines the materials, strength and finishes utilized in current linear hydraulic flight control actuators. To keep the information at a relevant minimum, only cylinders (barrels), glands and pistons are listed. Also identified are the reasons for the material selection and any pertinent comments. All data were collected from the respective suppliers.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

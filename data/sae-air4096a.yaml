@@ -1,0 +1,56 @@
+---
+id: SAEAIR4096A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Rotorcraft Engine Foreign Object Debris and Damage
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4096a
+- type: src
+  content: https://saemobilus.sae.org/standards/air4096a-rotorcraft-engine-foreign-object-debris-damage
+docidentifier:
+- content: SAE AIR4096A
+  type: SAE
+  primary: true
+- content: 10.4271/air4096a
+  type: DOI
+date:
+- type: approved
+  at: '2023-09-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-12 Powered Lift Propulsion Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Aerospace Information Report (AIR) is to disseminate qualitative information regarding foreign object debris (FOD) damage to the gas path of rotorcraft gas turbine engines and to discuss methods of FOD prevention. Although turbine-powered fixed-wing aircraft are also subject to FOD, the unique ability of the rotorcraft to hover above, takeoff from, and land on unprepared surfaces creates a special need for a separate treatment of this subject.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

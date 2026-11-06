@@ -1,0 +1,51 @@
+---
+id: SAEARP808A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Escape Provisions, Flight Deck
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp808a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp808a-escape-provisions-flight-deck
+docidentifier:
+- content: SAE ARP808A
+  type: SAE
+  primary: true
+- content: 10.4271/arp808a
+  type: DOI
+date:
+- type: approved
+  at: '1970-12-15'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The purpose of this Aerospace Recommended Practice is to establish
+    criteria for the provision of crew escape facilities from the flight deck area
+    of commercial transport aircraft.  This Aerospace Recommended Practice applies
+    to all transport category aircraft certificated under FAR 25, regardless of means
+    of propulsion, design speed regime, or kind of payload carried.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

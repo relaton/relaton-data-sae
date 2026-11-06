@@ -1,0 +1,57 @@
+---
+id: SAEJ1802_200812
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Brake Block Effectiveness Rating
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1802_200812
+- type: src
+  content: https://saemobilus.sae.org/standards/j1802_200812-brake-block-effectiveness-rating
+docidentifier:
+- content: SAE J1802_200812
+  type: SAE
+  primary: true
+- content: 10.4271/j1802_200812
+  type: DOI
+date:
+- type: approved
+  at: '2008-12-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Foundation Brake Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice provides the test procedure and methods to calculate the effectiveness of brake blocks, using an inertia dynamometer. To minimize testing variability, and to optimize standardization and correlation, a single, high volume size of brake block is specified (FMSI No. 4515E) and evaluated in a reference S-cam brake assembly of 419 mm x 178 mm (16.5 in x 7.0 in) size, using a specified brake drum.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

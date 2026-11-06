@@ -1,0 +1,58 @@
+---
+id: SAEAS5553C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Counterfeit Electrical, Electronic, and Electromechanical (EEE) Parts;
+    Avoidance, Detection, Mitigation, and Disposition
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5553c
+- type: src
+  content: https://saemobilus.sae.org/standards/as5553c-counterfeit-electrical-electronic-electromechanical-eee-parts-avoidance-detection-mitigation-disposition
+docidentifier:
+- content: SAE AS5553C
+  type: SAE
+  primary: true
+- content: 10.4271/as5553c
+  type: DOI
+date:
+- type: approved
+  at: '2019-03-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-19 Counterfeit Electronic Parts Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard is for use by organizations that procure and/or integrate and/or repair EEE parts and/or assemblies containing such items, including maintenance, repair, and overhaul (MRO) organizations. The requirements of this standard are generic and intended to be applied/flowed down, as applicable, through the supply chain, to all organizations that procure EEE parts and/or assemblies, regardless of type, size, and product provided. The mitigation of counterfeit EEE parts in this standard is risk-based, and these mitigation steps will vary depending on the criticality of the application, desired performance, and reliability of the equipment/hardware.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The requirements of this document are intended to be used in conjunction with a higher-level quality standard (e.g., AS/EN/JISQ9100, ISO-9001, ANSI/ASQC E4, ASME NQA-1, AS9120, AS9003, and ISO/TS 16949 or equivalent) and other quality management system documents. They are not intended to stand alone, supersede, or cancel requirements found in other quality management system documents, requirements imposed by contracting authorities, or applicable laws and regulations unless an authorized exemption/variance has been obtained. This document is not intended to make a legal determination of fraud, and appropriate legal counsel should be consulted for further action.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEJ193902_202311
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Agricultural Forestry Off-Road Machinery Control and Communication Network
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939-02_202311
+- type: src
+  content: https://saemobilus.sae.org/standards/j1939-02_202311-agricultural-forestry-off-road-machinery-control-communication-network
+docidentifier:
+- content: SAE J1939-02_202311
+  type: SAE
+  primary: true
+- content: 10.4271/j1939-02_202311
+  type: DOI
+date:
+- type: approved
+  at: '2023-11-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This SAE Recommended Practice specifies the requirements for application of SAE J1939 in agricultural and forestry equipment. This document specifies the series of documents within the set of SAE J1939 documents that are applicable to agricultural and forestry equipment and provides further requirements for this industry.&lt;/p&gt;
+
+
+    &lt;p&gt;The SAE and ISO groups have cooperated to define agricultural and forestry networks in a manner to allow compatibility of ECUs and messaging protocols between agricultural and forestry ISO 11783 networks and truck and bus SAE J1939 networks.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

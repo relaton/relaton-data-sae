@@ -1,0 +1,58 @@
+---
+id: SAEJ2809_201710
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Honda Diagnostic Serial Data Link Protocol - ABS/VSA System
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2809_201710
+- type: src
+  content: https://saemobilus.sae.org/standards/j2809_201710-honda-diagnostic-serial-data-link-protocol-abs-vsa-system
+docidentifier:
+- content: SAE J2809_201710
+  type: SAE
+  primary: true
+- content: 10.4271/j2809_201710
+  type: DOI
+date:
+- type: approved
+  at: '2017-10-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Technical Information Report defines the proprietary diagnostic communication protocol for ABS or VSA ECU (Electronic Control Unit) implemented on some Honda vehicles. This protocol does not apply to all Honda vehicles.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document should be used in conjunction with SAE J2534-2 in order to fully implement the communication protocol in an enhanced SAE J2534 interface.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The purpose of this document is to specify the requirements necessary to implement the communication protocol in an enhanced SAE J2534 interface.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

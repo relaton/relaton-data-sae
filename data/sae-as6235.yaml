@@ -1,0 +1,60 @@
+---
+id: SAEAS6235
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Face Seal Gland Design, Static, O-ring and Other Seals for Aerospace Hydraulic
+    and Pneumatic Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6235
+- type: src
+  content: https://saemobilus.sae.org/standards/as6235-face-seal-gland-design-static-o-ring-seals-aerospace-hydraulic-pneumatic-applications
+docidentifier:
+- content: SAE AS6235
+  type: SAE
+  primary: true
+- content: 10.4271/as6235
+  type: DOI
+date:
+- type: approved
+  at: '2014-09-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C2 Seals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) specifies standardized gland design criteria and dimensions for static face seals for internal pressure and external pressure applications for aerospace hydraulic and pneumatic applications using the same size range as AS4716 and AS5857 where applicable. Some small diameter sizes are excluded because they are not practical.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The glands have been specifically designed for applications using AS568 size elastomeric O-rings with related Class 2 tolerances at nominal system operating pressures up to 3000 psi (20 680 kPa) utilizing no anti-extrusion (backup) rings.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;While the gland dimensions herein have been designed for pressures up to 3000 psi (20 680 kPa) these glands may be used for higher pressures, but extra precautions need to be taken and testing should be performed to ensure to ensure integrity of performance.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This specification covers the basic design criteria and recommendations for use with standard size elastomeric O-rings, however, these glands are also suitable for use with other elastomeric and polytetrafluoroethylene (PTFE) based seal geometries.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

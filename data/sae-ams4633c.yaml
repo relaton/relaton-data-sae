@@ -1,0 +1,57 @@
+---
+id: SAEAMS4633C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Bronze, Aluminum Silicon, Rods, Bars, and Forgings 90Cu - 7.0Al - 1.8Si
+    Drawn and Stress Relieved (HR50)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4633c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4633c-bronze-aluminum-silicon-rods-bars-forgings-90cu-70al-18si-drawn-stress-relieved-hr50
+docidentifier:
+- content: SAE AMS4633C
+  type: SAE
+  primary: true
+- content: 10.4271/ams4633c
+  type: DOI
+date:
+- type: approved
+  at: '2023-03-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers one type of aluminum silicon bronze in the form of rods and bars up to 3.00 inches (76.2 mm), inclusive, in nominal diameter or distance between parallel sides, and forgings and forging stock of any size (see &lt;span class="xref"&gt;8.5&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,60 @@
+---
+id: SAEJ1342_198107
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TEST METHOD FOR MEASURING POWER CONSUMPTION OF FAN DRIVE SYSTEMS FOR TRUCKS
+    AND BUSES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1342_198107
+- type: src
+  content: https://saemobilus.sae.org/standards/j1342_198107-test-method-measuring-power-consumption-fan-drive-systems-trucks-buses
+docidentifier:
+- content: SAE J1342_198107
+  type: SAE
+  primary: true
+- content: 10.4271/j1342_198107
+  type: DOI
+date:
+- type: approved
+  at: '1981-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Cooling Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The testing technique outlined in this SAE Recommended Practice was developed as part of an overall program for testing and evaluating fuel consumption of heavy-duty trucks and buses. The technique outlined in this recommended practice provides a general description of the type of equipment and facility which is necessary to determine the power consumption of these engine-driven components.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is recommended that the specific operating conditions suggested be carefully reviewed on the basis of actual data obtained on the specific vehicle operation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Because of the variation in size, shape, configuration, and mountings available in cooling fans and fan drive systems, specific test devices have not been included.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Using known power/speed relationships for a given fan as developed by SAE J1339, Test Method for Measuring Power Consumption of Cooling Fans for Trucks and Buses, this procedure can be used to calculate the fan power requirements for truck and bus cooling systems using fixed-ratio, speed-modulating, and on-off fan drive control.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

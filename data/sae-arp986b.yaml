@@ -1,0 +1,56 @@
+---
+id: SAEARP986B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GUIDE FOR QUALIFICATION TESTING OF AIRCRAFT AIR VALVES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp986b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp986b-guide-qualification-testing-aircraft-air-valves
+docidentifier:
+- content: SAE ARP986B
+  type: SAE
+  primary: true
+- content: 10.4271/arp986b
+  type: DOI
+date:
+- type: approved
+  at: '1990-02-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice (ARP) defines tests to be performed on hydraulically, electrically, pneumatically, and mechanically actuated air valves. They may be further defined as those valves that function in response to externally applied forces or in response to variations in upstream and/or downstream duct air conditions in order to maintain a calibrated duct air condition (e.g., air flow, air pressure, air temperature, air pressure ratio, or air shutoff).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

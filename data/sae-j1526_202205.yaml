@@ -1,0 +1,57 @@
+---
+id: SAEJ1526_202205
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SAE Fuel Consumption Test Procedure (Engineering Method)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1526_202205
+- type: src
+  content: https://saemobilus.sae.org/standards/j1526_202205-sae-fuel-consumption-test-procedure-engineering-method
+docidentifier:
+- content: SAE J1526_202205
+  type: SAE
+  primary: true
+- content: 10.4271/j1526_202205
+  type: DOI
+date:
+- type: approved
+  at: '2022-05-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Aerodynamics and Fuel Economy Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes a fuel-consumption test procedure that utilizes industry accepted data collection and statistical analysis methods to determine the difference in fuel consumption between vehicles with a gross vehicle weight of more than 10000 pounds. This test procedure can be used for an evaluation of two or more different vehicles but is not to be used to evaluate a component change. Although on-road testing is allowed, track testing is the preferred method because it has the greatest opportunity to minimize weather and traffic influences on the variability of the results. All tests shall be conducted in accordance with the weather constraints described within this procedure and shall be supported by collected data and analysis. This document provides information that may be used in concert with SAE Recommended Practices SAE J1264, SAE J1252, SAE J1321, and SAE J2966, as well as additional current and future aerodynamic and vehicle performance SAE standards.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

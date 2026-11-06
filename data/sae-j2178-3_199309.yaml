@@ -1,0 +1,72 @@
+---
+id: SAEJ21783_199309
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CLASS B DATA COMMUNICATION NETWORK MESSAGES—PART 3 FRAME IDs FOR SINGLE
+    BYTE FORMS OF HEADERS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2178/3_199309
+- type: src
+  content: https://saemobilus.sae.org/standards/j21783_199309-class-b-data-communication-network-messages-part-3-frame-ids-single-byte-forms-headers
+docidentifier:
+- content: SAE J2178/3_199309
+  type: SAE
+  primary: true
+- content: 10.4271/j2178/3_199309
+  type: DOI
+date:
+- type: approved
+  at: '1993-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Architecture For Data Communications Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice defines the information contained in the header and data fields of non-diagnostic messages for automotive serial communications based on SAE J1850 Class B networks. This document describes and specifies the header fields, data fields, field sizes, scaling, representations, and data positions used within messages.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The general structure of a SAE J1850 message frame without in-frame response is shown in &lt;span class="xref"&gt;Figure 1&lt;/span&gt;. The structure of a SAE J1850 message with in-frame response is shown in &lt;span class="xref"&gt;Figure 2&lt;/span&gt;. &lt;span class="xref"&gt;Figures 1&lt;/span&gt; and &lt;span class="xref"&gt;2&lt;/span&gt; also show the scope of frame fields defined by this document for nondiagnostic messages. Refer to SAE J1979 for specifications of emissions-related diagnostic message header and data fields. Refer to SAE J2190 for the definition of other diagnostic message header and data fields. The description of the network interface hardware, basic protocol definition, the electrical specifications, and the CRC field are given in SAE J1850.&lt;/div&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE J1850 defines two and only two formats of message headers. They are the Single Byte header format and the Consolidated header format. The consolidated header format has two forms: a single byte form and a three byte form. This document covers all of these formats and forms to identify the contents of messages which could be sent on a SAE J1850 network.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document consists of four parts, each published separately.&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Part 1 of SAE J2178 (Titled: Detailed Header Formats and Physical Address Assignments) describes the two allowed forms of message header formats: single byte and consolidated. It also contains the physical node address range assignments for the typical subsystems of an automobile.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Part 2 of SAE J2178 (Titled: Data Parameter Definitions) defines the standard parametric data which may be exchanged on SAE J1850 (Class B) networks. The parameter scaling, ranges, and transfer functions are specified. Messages which refer to these parametric definitions shall always adhere to these parametric definitions. It is intended that at least one of the definitions for each parameter in this part match the SAE J1979 definition. The details of this part are fully described in &lt;span class="xref"&gt;3.1&lt;/span&gt;.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Part 3 of SAE J2178 (this part, Titled: Frame IDs for Single Byte Forms of Headers) defines the message assignments for the single byte header format and the one byte form of the consolidated header format.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Part 4 of SAE J2178 (Titled: Target Address (Second Byte) for Three Byte Headers) defines the message assignments for the second byte in the three byte form of the consolidated header format.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

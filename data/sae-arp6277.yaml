@@ -1,0 +1,56 @@
+---
+id: SAEARP6277
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Commercial Aircraft Hydraulic System Sizing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6277
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6277-commercial-aircraft-hydraulic-system-sizing
+docidentifier:
+- content: SAE ARP6277
+  type: SAE
+  primary: true
+- content: 10.4271/arp6277
+  type: DOI
+date:
+- type: approved
+  at: '2021-01-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A1 Commercial Aircraft Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Aerospace Recommended Practice (ARP) is to provide guidelines for determining the hydraulic flow demands for all phases of commercial flight including details of sizing of associated hydraulic components such as hydraulic pumps, hydraulic accumulators, hydraulic reservoirs, hydraulic filters, and hydraulic tubing.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

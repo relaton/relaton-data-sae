@@ -1,0 +1,56 @@
+---
+id: SAEARP1964
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MEASUREMENT OF ROTORCRAFT INTERIOR SOUND PRESSURE LEVELS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1964
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1964-measurement-rotorcraft-interior-sound-pressure-levels
+docidentifier:
+- content: SAE ARP1964
+  type: SAE
+  primary: true
+- content: 10.4271/arp1964
+  type: DOI
+date:
+- type: approved
+  at: '1993-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-21 Aircraft Noise Measurement Aviation Emission Modeling
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Satisfactory measurements of noise in personnel-occupied rotorcraft cabins may require test techniques different from those prescribed for other types of aircraft (ARP1323) because rotorcraft operate under significantly different flight conditions. Recommendations of this ARP apply to the recording of acoustical data on magnetic tape and the subsequent processing and analysis of the recorded data.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

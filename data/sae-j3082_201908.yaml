@@ -1,0 +1,57 @@
+---
+id: SAEJ3082_201908
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Auxiliary Two-Conductor Electrical Power Connector for Truck-Trailer High-Power
+    Jumper Cable
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3082_201908
+- type: src
+  content: https://saemobilus.sae.org/standards/j3082_201908-auxiliary-two-conductor-electrical-power-connector-truck-trailer-high-power-jumper-cable
+docidentifier:
+- content: SAE J3082_201908
+  type: SAE
+  primary: true
+- content: 10.4271/j3082_201908
+  type: DOI
+date:
+- type: approved
+  at: '2019-08-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Electrical Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard provides the minimum requirements for high-power, two-conductor jumper cable plug and receptacle for truck-trailer jumper cable systems. It includes the test procedures, design, and performance requirements. This document covers receptacles rated 12 VDC nominal and at more than 30 A (amperes) up to and including 150 A, and is intended for a single circuit with one power conductor and one common return conductor. Single-conductor high-current connectors are not recommended for future designs because of inadequate ground return through fifth wheel/king pin. Cable size selection is to be made by the vehicle OEM for specific applications and the specific voltage drop requirements of those applications. This SAE Standard covers two variants of high-power two-conductor connections: a heavy duty version, with horizontally aligned pins, typically for lift-gate battery charging; and a medium duty version, with vertically aligned pins, typically for loads such as power tarpaulins.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

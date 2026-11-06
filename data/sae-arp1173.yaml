@@ -1,0 +1,49 @@
+---
+id: SAEARP1173
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Test Procedure to Measure the R.F. Shielding Characteristics of E.M.I.
+    Gaskets
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1173
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1173-test-procedure-measure-rf-shielding-characteristics-emi-gaskets
+docidentifier:
+- content: SAE ARP1173
+  type: SAE
+  primary: true
+- content: 10.4271/arp1173
+  type: DOI
+date:
+- type: approved
+  at: '2004-08-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-4 Electromagnetic Compatibility (EMC) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEUSCAR35
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TEST PROCEDURES FOR EVALUATING BOLT-LOAD RETENTION OF MAGNESIUM ALLOYS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar35
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar35-test-procedures-evaluating-bolt-load-retention-magnesium-alloys
+docidentifier:
+- content: SAE USCAR-35
+  type: SAE
+  primary: true
+- content: 10.4271/uscar35
+  type: DOI
+date:
+- type: approved
+  at: '2007-10-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;A bolt-load retention (BLR) test is a practical test to determine the bolt load of a fastener joint with time and at given temperatures. There are three types of BLR tests described in this standard, namely general-purpose test, design-purpose test, and screening material test. A general-purpose BLR test may be used for screening materials, while a design-purpose BLR test is usually used to verify the BLR behavior of a specific joint. The screening material test is an example of the general-purpose test for typical automotive applications.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

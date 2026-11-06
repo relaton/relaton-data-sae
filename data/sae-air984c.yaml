@@ -1,0 +1,56 @@
+---
+id: SAEAIR984C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Air Bleed Objective for Helicopter Turbine Engines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air984c
+- type: src
+  content: https://saemobilus.sae.org/standards/air984c-air-bleed-objective-helicopter-turbine-engines
+docidentifier:
+- content: SAE AIR984C
+  type: SAE
+  primary: true
+- content: 10.4271/air984c
+  type: DOI
+date:
+- type: approved
+  at: '1997-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-12 Powered Lift Propulsion Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) defines the helicopter bleed air requirements which may be obtained through compressor extraction and is intended as a guide to engine designers.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

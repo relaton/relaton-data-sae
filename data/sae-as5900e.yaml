@@ -1,0 +1,59 @@
+---
+id: SAEAS5900E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standard Test Method for Aerodynamic Acceptance of AMS1424 and AMS1428
+    Aircraft Deicing/Anti-Icing Fluids
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5900e
+- type: src
+  content: https://saemobilus.sae.org/standards/as5900e-standard-test-method-aerodynamic-acceptance-ams1424-ams1428-aircraft-deicing-anti-icing-fluids
+docidentifier:
+- content: SAE AS5900E
+  type: SAE
+  primary: true
+- content: 10.4271/as5900e
+  type: DOI
+date:
+- type: approved
+  at: '2021-08-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12ADF Aircraft Deicing Fluids
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) establishes the aerodynamic flow-off requirements and test procedures for AMS1424 Type I and AMS1428 Type II, III, and IV fluids used to deice and/or anti-ice aircraft.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The objective of this standard is to ensure acceptable aerodynamic characteristics of the deicing/anti-icing fluids as they flow off of aircraft lifting and control surfaces during the takeoff ground acceleration and climb. Aerodynamic acceptance of an aircraft ground deicing/anti-icing fluid is based upon the fluid’s boundary layer displacement thickness (BLDT) on a flat plate, measured after experiencing the free stream velocity time history of a representative aircraft takeoff. Acceptability of the fluid is determined by comparing BLDT measurements of the candidate fluid with a datum established from the values of a reference fluid BLDT and the BLDT over the dry (clean) test plate. Testing is carried out in the temperature range at which the fluid, undiluted and diluted, is to be used in airline service.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

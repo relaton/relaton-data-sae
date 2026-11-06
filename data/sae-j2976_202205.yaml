@@ -1,0 +1,56 @@
+---
+id: SAEJ2976_202205
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Speedometer and Odometer Systems for On-Highway Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2976_202205
+- type: src
+  content: https://saemobilus.sae.org/standards/j2976_202205-speedometer-odometer-systems-highway-vehicles
+docidentifier:
+- content: SAE J2976_202205
+  type: SAE
+  primary: true
+- content: 10.4271/j2976_202205
+  type: DOI
+date:
+- type: approved
+  at: '2022-05-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Odometer and Speedometer Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice is intended to provide industry technical personnel with an overview of vehicle speedometer system accuracy and offset requirements and odometer system accuracy requirements. Speedometer and odometer systems covered by this document are integrated into a vehicle's electrical and electronics system, assembled directly into the vehicle by the OEM, and use rotational data from at least one vehicle wheel that is appropriately converted into longitudinal vehicle speed and distance traveled information. This standard is limited to radial ply tires on new (as manufactured) cars, light trucks, and medium duty trucks. Other methods for measuring vehicle speed and distance traveled may be used provided they meet the performance recommendations herein. Any local market regulatory requirements must be met and shall supersede this document. Service parts are beyond the scope of this recommended practice.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

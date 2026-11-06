@@ -1,0 +1,59 @@
+---
+id: SAEARP4822A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Night Vision Imaging System (NVIS) Compatible Illuminated Pushbutton Switches
+    and Indicators
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4822a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4822a-night-vision-imaging-system-nvis-compatible-illuminated-pushbutton-switches-indicators
+docidentifier:
+- content: SAE ARP4822A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4822a
+  type: DOI
+date:
+- type: approved
+  at: '2021-09-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20A Crew Station Lighting
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) reviews the basics of NVIS compatibility and discusses the specific illuminated pushbutton switch and indicator requirements for sunlight readability, color, luminance, and NVIS radiance when used in NVIS compatible cockpits.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The recommendations and special considerations set forth in this document are made to give the design engineer a better understanding of MIL-L-85762A and MIL-STD-3009 NVIS compatibility requirements and to provide information on the visual characteristics of NVIS compatible pushbutton switch and indicators. The recommendations are primarly for military aircraft since civilian aircraft FAR requirements typically do not cover NVIS applications with the exception of those covered by RTCA/DO-275.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

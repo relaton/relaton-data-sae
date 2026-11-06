@@ -1,0 +1,69 @@
+---
+id: SAEJ28482_201106
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Tire Pressure Systems - Maintenance (ATIS) Type For Medium and Heavy Duty
+    Highway Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2848/2_201106
+- type: src
+  content: https://saemobilus.sae.org/standards/j28482_201106-tire-pressure-systems-maintenance-atis-type-medium-heavy-duty-highway-vehicles
+docidentifier:
+- content: SAE J2848/2_201106
+  type: SAE
+  primary: true
+- content: 10.4271/j2848/2_201106
+  type: DOI
+date:
+- type: approved
+  at: '2011-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Tire Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice defines the system and component functions, measurement metrics, and testing methodologies for evaluating the functionality and performance of ground vehicle tire pressure maintenance (ATIS) systems (systems which automatically restore the inflation pressure to its specified level), and recommended maintenance practices for these systems within the known operating environments.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These systems are recommended to address all serviceable tires as originally installed on a vehicle by the OEM and/or specialty vehicle manufacturer, and for the aftermarket (including replacement or spare parts) are recommended (but optional) to address all tire/rim combinations installed after initial vehicle sale or in-use dates.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is applicable to all axle and all wheel combinations for the following vehicle types - single unit powered vehicles exceeding 7257 kg (16 000 lb) gross vehicle weight rating (GVWR), and multi-unit vehicle combinations, up to three towed units, which use an SAE J560 connector for power and/or communication, or equivalent successor connector technology. For combination vehicles including two or more trailers, the dolly axles are also included. The included vehicles can be newly manufactured vehicles or existing vehicles, fitted with air or hydraulic braking systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SPECIAL NOTE: Equipment known as ‘dual tire equalizers’ are commonly used with this category of vehicles. When employing an ATIS system, dual tire equalizers systems are not recommended as they run counter to the purpose of the maintenance system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: The following systems are not being addressed in this edition of the subject document.
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The management system types and more mature/complex versions of maintenance and management types, to include on-board reporting/storage/retrieval data/control capabilities, will be addressed separately by future changes/additions to this document series.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Tire pressure monitoring systems - These systems have been addressed under SAE J2848-1.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

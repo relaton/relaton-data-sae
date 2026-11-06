@@ -1,0 +1,53 @@
+---
+id: SAECRP013
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Heavy Truck Crashworthiness - Phase III
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/crp-013
+- type: src
+  content: https://saemobilus.sae.org/standards/crp-013-heavy-truck-crashworthiness-phase-iii
+docidentifier:
+- content: SAE CRP-013
+  type: SAE
+  primary: true
+- content: 10.4271/crp-013
+  type: DOI
+date:
+- type: approved
+  at: '1997-04-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This book details the recommended practices that resulted  from research
+    conducted in Phases I and II of the Heavy Truck Crashworthiness Cooperative Research
+    Project. It  covers the development, evaluation, and recommendation of  test procedures
+    that could be used to evaluate occupant protection in heavy trucks. Restraint
+    systems, cab structures and cab interior components are covered. Draft  SAE Recommended
+    Practices (RPs) were developed for tests  that evaluate each of these elements
+    in manners consistent with typical real-world accident sequences.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

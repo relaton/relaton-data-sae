@@ -1,0 +1,56 @@
+---
+id: SAEAS595A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CIVIL TYPE AIRCRAFT VARIABLE DELIVERY HYDRAULIC PUMP
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as595a
+- type: src
+  content: https://saemobilus.sae.org/standards/as595a-civil-type-aircraft-variable-delivery-hydraulic-pump
+docidentifier:
+- content: SAE AS595A
+  type: SAE
+  primary: true
+- content: 10.4271/as595a
+  type: DOI
+date:
+- type: approved
+  at: '1992-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C4 Power Sources Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes the common requirements and provides a guide for special requirements for variable delivery hydraulic pumps, suitable for use in civil aircraft. It also specifies the methods to be used for demonstrating compliance with these requirements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

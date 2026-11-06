@@ -1,0 +1,57 @@
+---
+id: SAEAIR4365B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 115/200 Volt, 400 Hz Aircraft External Electrical Power Connector Contact
+    Maintenance Procedures
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4365b
+- type: src
+  content: https://saemobilus.sae.org/standards/air4365b-115-200-volt-400-hz-aircraft-external-electrical-power-connector-contact-maintenance-procedures
+docidentifier:
+- content: SAE AIR4365B
+  type: SAE
+  primary: true
+- content: 10.4271/air4365b
+  type: DOI
+date:
+- type: approved
+  at: '2021-09-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) describes procedures for use in the field to determine if 115/200 Volt, 400 Hz aircraft external electrical power connectors are excessively worn, which may result in the inability of the external power plug to be retained, intermittent electrical performance and arcing.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

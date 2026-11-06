@@ -1,0 +1,68 @@
+---
+id: SAESAE1008A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standard Practice for Force Protection and Survivability
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/sae1008a
+- type: src
+  content: https://saemobilus.sae.org/standards/sae1008a-standard-practice-force-protection-survivability
+docidentifier:
+- content: SAE SAE1008A
+  type: SAE
+  primary: true
+- content: 10.4271/sae1008a
+  type: DOI
+date:
+- type: approved
+  at: '2026-05-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-45 Human Systems Integration
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;According to SAE6906, Force Protection and Survivability (FPS) is the Human Systems Integration (HSI) domain that facilitates system operation and personnel safety during and after exposure to hostile situations or environments. Force protection refers to all preventive measures taken to mitigate hostile actions against Department of Defense (DoD) and Department of Homeland Security (DHS) (e.g., U.S. Coast Guard, Customs and Border Patrol, Immigration and Customs Enforcement, etc.) personnel. Survivability denotes the capability of the system and/or personnel manning the system to avoid or withstand man-made hostile environments without suffering an abortive impairment of his/her ability to accomplish its designated mission. Damage due to enemy or fratricidal action, or even equipment failure, will endanger the warfighters' well-being and place them into a life-threatening situation.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

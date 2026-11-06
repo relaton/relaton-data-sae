@@ -1,0 +1,57 @@
+---
+id: SAEAIR4004
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guide for Installation of Electrical Wire and Cable on Aircraft Landing
+    Gear
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4004
+- type: src
+  content: https://saemobilus.sae.org/standards/air4004-guide-installation-electrical-wire-cable-aircraft-landing-gear
+docidentifier:
+- content: SAE AIR4004
+  type: SAE
+  primary: true
+- content: 10.4271/air4004
+  type: DOI
+date:
+- type: approved
+  at: '2010-12-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Recent field experience has indicated significant problems with some types of wire and cable as routed on aircraft landing gear. This Aerospace Information Report (AIR) is intended to identify environmental concerns the designer must consider, materials that appear to be most suitable for use in these areas, routing, clamping, and other protection techniques that are appropriate in these applications.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

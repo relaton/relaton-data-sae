@@ -1,0 +1,59 @@
+---
+id: SAEAIR7123
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Overview of Blockchain-Based Digital Authorized Release Certificate
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air7123
+- type: src
+  content: https://saemobilus.sae.org/standards/air7123-overview-blockchain-based-digital-authorized-release-certificate
+docidentifier:
+- content: SAE AIR7123
+  type: SAE
+  primary: true
+- content: 10.4271/air7123
+  type: DOI
+date:
+- type: approved
+  at: '2025-01-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-31 Digital Transactions for Aerospace
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this document is to provide an overview, process, and implementation guidance on use of blockchain technology for a secure, immutable, and traceable digital authorized release certificate. This document does not standardize the process nor is it meant for authorities to recognize the standard as an acceptable means of recording data collected through the required authorized release certificate (ARC) tags.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,49 @@
+---
+id: SAEAMS6328E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS, FORGINGS, AND TUBING 0.50Cr - 0.55Ni - 0.25Mo (0.48 - 0.53C)
+    (SAE 8750)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6328e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6328e-steel-bars-forgings-tubing-050cr-055ni-025mo-048-053c-sae-8750
+docidentifier:
+- content: SAE AMS6328E
+  type: SAE
+  primary: true
+- content: 10.4271/ams6328e
+  type: DOI
+date:
+- type: approved
+  at: '1967-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

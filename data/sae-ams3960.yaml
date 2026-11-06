@@ -1,0 +1,57 @@
+---
+id: SAEAMS3960
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Advanced Composites Prepreg - Nominal 250 °F Cure - Carbon Fiber and Epoxy
+    Resin, Unidirectional Tape
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3960
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3960-advanced-composites-prepreg-nominal-250-f-cure-carbon-fiber-epoxy-resin-unidirectional-tape
+docidentifier:
+- content: SAE AMS3960
+  type: SAE
+  primary: true
+- content: 10.4271/ams3960
+  type: DOI
+date:
+- type: approved
+  at: '2011-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P17 Polymer Matrix Composites Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this specification is to allow procurement of a defined material corresponding to the statistically derived material properties published in MIL-HDBK-17.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

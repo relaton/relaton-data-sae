@@ -1,0 +1,56 @@
+---
+id: SAEARP997A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PASSENGER CABIN EMERGENCY EQUIPMENT STOWAGE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp997a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp997a-passenger-cabin-emergency-equipment-stowage
+docidentifier:
+- content: SAE ARP997A
+  type: SAE
+  primary: true
+- content: 10.4271/arp997a
+  type: DOI
+date:
+- type: approved
+  at: '1981-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-9B Cabin Interiors and Furnishings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This ARP covers stowage of all portable cabin emergency equipment, such as oxygen bottles/masks, fire extinguishers, first aid kits, megaphones, flashlights, axes, life rafts, survival kits, life preservers, etc. The following criteria are recommended as general provisions in conjunction with the current applicable Federal Aviation Administration requirements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

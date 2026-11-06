@@ -1,0 +1,55 @@
+---
+id: SAEAIR1335B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Ramp De-Icing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1335b
+- type: src
+  content: https://saemobilus.sae.org/standards/air1335b-ramp-de-icing
+docidentifier:
+- content: SAE AIR1335B
+  type: SAE
+  primary: true
+- content: 10.4271/air1335b
+  type: DOI
+date:
+- type: approved
+  at: '2018-07-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12M Methods Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>&lt;p&gt;This Technical Report has been declared “CANCELLED” as of
+    June 2018 and has been superseded by AS6285, AS6286, and AS6332.  By this action,
+    this document will remain listed in the respective index, if applicable. Cancelled
+    Technical Reports are available from SAE.&lt;/p&gt;</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

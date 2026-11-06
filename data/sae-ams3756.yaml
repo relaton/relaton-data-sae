@@ -1,0 +1,57 @@
+---
+id: SAEAMS3756
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: POLYTETRAFLUOROETHYLENE MOLDINGS, GLASS FIBER FILLED 75 PTFE Resin, 25
+    Glass, As Sintered
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3756
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3756-polytetrafluoroethylene-moldings-glass-fiber-filled-75-ptfe-resin-25-glass-sintered
+docidentifier:
+- content: SAE AMS3756
+  type: SAE
+  primary: true
+- content: 10.4271/ams3756
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P Polymeric Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers one grade of glass-fiber-filled polytetrafluoroethylene in the form of molded billets.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEJ742_200002
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Capacity Rating--Loader Bucket
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j742_200002
+- type: src
+  content: https://saemobilus.sae.org/standards/j742_200002-capacity-rating-loader-bucket
+docidentifier:
+- content: SAE J742_200002
+  type: SAE
+  primary: true
+- content: 10.4271/j742_200002
+  type: DOI
+date:
+- type: approved
+  at: '2000-02-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: MTC1, Earthmoving Machinery
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This standard applies to buckets of loaders (as defined by SAE J1057a, Identification Terminology of Earthmoving Machines).
+
+    This method applies primarily to buckets having parallel sides and a cutting edge parallel to the top edge of the top edge of the back sheet.  Moderately clipped back sheet corners will introduce no appreciable errors.  Bucket teeth, tooth adapters, as well as other similar local discontinuities are ignored.
+
+    a.  Interpretation of irregular shaped cutting edges is identified in 4.4.
+    b.  Interpretation of irregular shaped side sheets is identified in 4.5.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

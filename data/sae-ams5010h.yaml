@@ -1,0 +1,56 @@
+---
+id: SAEAMS5010H
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS Free Machining (SAE 1212 or SAE 1215) Cold Drawn
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5010h
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5010h-steel-bars-free-machining-sae-1212-sae-1215-cold-drawn
+docidentifier:
+- content: SAE AMS5010H
+  type: SAE
+  primary: true
+- content: 10.4271/ams5010h
+  type: DOI
+date:
+- type: approved
+  at: '1994-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a free-machining carbon steel in the form of bars.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

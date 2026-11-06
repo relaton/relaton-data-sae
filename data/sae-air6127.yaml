@@ -1,0 +1,57 @@
+---
+id: SAEAIR6127
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Managing Higher Voltages in Aerospace Electrical Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6127
+- type: src
+  content: https://saemobilus.sae.org/standards/air6127-managing-higher-voltages-aerospace-electrical-systems
+docidentifier:
+- content: SAE AIR6127
+  type: SAE
+  primary: true
+- content: 10.4271/air6127
+  type: DOI
+date:
+- type: approved
+  at: '2023-03-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-10 High Voltage Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) considers the issue of proper design guidance for high voltage electrical systems used in aerospace applications. This document is focused on electrical discharge mechanisms including partial discharge and does not address personnel safety. Key areas of concern when using high voltage in aerospace applications are power conversion devices, electrical machines, connectors and cabling/wiring. The interaction between components and subsystems will be discussed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The AIR is intended for application to high voltage systems used in aerospace vehicles operating to a maximum altitude of 30000 m (approximately 100000 feet), and maximum operating voltages of below 1500 VRMS (AC)/1500 V peak (DC). These upper voltage limits have been incorporated because this report focuses on extending the operating voltage of non-propulsive electrical systems beyond that of existing aerospace systems. It is noted that electrical systems for electrical propulsion may consider operating voltages beyond 1500 VAC/DC.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

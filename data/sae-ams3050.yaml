@@ -1,0 +1,57 @@
+---
+id: SAEAMS3050
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Performance Specification Anti-Seize Thread Compound, High Temperature
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3050
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3050-performance-specification-anti-seize-thread-compound-high-temperature
+docidentifier:
+- content: SAE AMS3050
+  type: SAE
+  primary: true
+- content: 10.4271/ams3050
+  type: DOI
+date:
+- type: approved
+  at: '2017-12-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS M Aerospace Greases Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This foundation specification (AMS3050) and its associated category specifications (AMS3050/1 through AMS3050/9) cover anti-seize compounds for use on threads of nuts, studs, bolts, and other mating surfaces, including those of superheated steam installations, at temperatures up to 1050 °F (566 °C). Compounds containing PTFE are limited to 600 °F/315 °C maximum. Materials for nuts, studs, bolts and other mating surfaces include, but are not limited to Steel, Nickel alloys, Stainless Steel, Silver coated materials.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

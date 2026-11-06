@@ -1,0 +1,58 @@
+---
+id: SAEAMS2770L
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Heat Treatment of Wrought Aluminum Alloy Parts
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2770l
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2770l-heat-treatment-wrought-aluminum-alloy-parts
+docidentifier:
+- content: SAE AMS2770L
+  type: SAE
+  primary: true
+- content: 10.4271/ams2770l
+  type: DOI
+date:
+- type: approved
+  at: '2014-05-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification specifies the engineering requirements for heat treatment, by part fabricators (users) or their vendors or subcontractors, of parts (See &lt;span class="xref"&gt;8.8.1&lt;/span&gt;). It also covers heat treatment by warehouses or distributors converting raw material from one temper to another temper (See &lt;span class="xref"&gt;1.3&lt;/span&gt; and &lt;span class="xref"&gt;8.5&lt;/span&gt;). It covers the following aluminum alloys:&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;1100, 2004, 2014, 2017, 2024, 2098, 2117, 2124, 2219, 2224, 3003, 5052, 6013, 6061, 6063, 6066, 6951, 7049, 7050, 7075, 7149, 7178, 7249, 7475&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

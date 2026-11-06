@@ -1,0 +1,56 @@
+---
+id: SAEAMS2402J
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Plating, Zinc
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2402j
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2402j-plating-zinc
+docidentifier:
+- content: SAE AMS2402J
+  type: SAE
+  primary: true
+- content: 10.4271/ams2402j
+  type: DOI
+date:
+- type: approved
+  at: '2007-04-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the requirements for electrodeposited zinc plating. Unless otherwise stated on the engineering drawing, high strength steel parts having a hardness of 45 HRC or greater shall not be electroplated.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

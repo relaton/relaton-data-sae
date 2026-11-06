@@ -1,0 +1,56 @@
+---
+id: SAEJ1330_200712
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Photometry Laboratory Accuracy Guidelines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1330_200712
+- type: src
+  content: https://saemobilus.sae.org/standards/j1330_200712-photometry-laboratory-accuracy-guidelines
+docidentifier:
+- content: SAE J1330_200712
+  type: SAE
+  primary: true
+- content: 10.4271/j1330_200712
+  type: DOI
+date:
+- type: approved
+  at: '2007-12-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Test Methods and Equipment Stds Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Information Report is to list and explain major equipment, instrumentation, and procedure variables which can affect inter-laboratory differences and repeatability of photometric measurements of various lighting devices listed in SAE Technical Reports. The accuracy guidelines listed in the report are for the purpose of controlling variables that are not a direct function of the lighting device being measured. The control of these individual variables is necessary to control the overall accuracy of photometric measurements. These accuracy guidelines apply to the measurement of the luminous intensities and reflected intensities of devices at the specified geometrically distributed test points and areas. These guidelines do not apply to photometric equipment used to measure license plate lamps.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

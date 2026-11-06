@@ -1,0 +1,56 @@
+---
+id: SAEJ551A_196808
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MEASUREMENT OF ELECTROMAGNETIC RADIATION FROM MOTOR VEHICLES (20-1000 MHz)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j551a_196808
+- type: src
+  content: https://saemobilus.sae.org/standards/j551a_196808-measurement-electromagnetic-radiation-motor-vehicles-20-1000-mhz
+docidentifier:
+- content: SAE J551A_196808
+  type: SAE
+  primary: true
+- content: 10.4271/j551a_196808
+  type: DOI
+date:
+- type: approved
+  at: '1968-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard covers the measurement of radiation from all motor vehicle sources (including auxiliary engines) with the exception of short duty cycle equipment, such as starting motors, window regulators, turn signals, etc., over a frequency range of 20-1000 MHz.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

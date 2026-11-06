@@ -1,0 +1,58 @@
+---
+id: SAEAIR7522
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Portable Controlled Contamination Area (CCA)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air7522
+- type: src
+  content: https://saemobilus.sae.org/standards/air7522-portable-controlled-contamination-area-cca
+docidentifier:
+- content: SAE AIR7522
+  type: SAE
+  primary: true
+- content: 10.4271/air7522
+  type: DOI
+date:
+- type: approved
+  at: '2024-12-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CACRC Commercial Aircraft Composite Repair Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides guidelines for the design of portable Controlled Contamination Areas (CCAs) that can provide localized environmental control when processing a repair at the airplane or in a hangar environment. The use of a portable CCA may result in a better quality repair.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The use of a portable CCA may assist in achieving the environmental requirements for bonded repairs specified in an approved repair procedure. This provides an option to accomplish a repair on nonremovable structure or difficult to remove components.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAS707A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: THERMAL SENSITIVE PRESSURE RELEASE DEVICES FOR TUBELESS AIRCRAFT WHEELS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as707a
+- type: src
+  content: https://saemobilus.sae.org/standards/as707a-thermal-sensitive-pressure-release-devices-tubeless-aircraft-wheels
+docidentifier:
+- content: SAE AS707A
+  type: SAE
+  primary: true
+- content: 10.4271/as707a
+  type: DOI
+date:
+- type: approved
+  at: '1982-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5A Wheels, Brakes and Skid Controls Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard establishes minimum design, installation, qualification, and operational requirements for thermally actuated, pressure release devices for use only in tubeless tire type aircraft wheels. These devices are designed to completely release the contained air pressure from a tubeless tire and wheel assembly when absorbed and/or brake generated heat causes the tire or wheel to exceed a safe pressure/temperature/load operating level. The objective is to prevent tire or wheel rupture from brake generated heat which could cause serious personnel injuries or serious aircraft operational hazards.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

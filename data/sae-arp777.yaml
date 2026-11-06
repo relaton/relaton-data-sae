@@ -1,0 +1,56 @@
+---
+id: SAEARP777
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GAS ACTUATORS (LINEAR AND VANE ROTARY TYPE)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp777
+- type: src
+  content: https://saemobilus.sae.org/standards/arp777-gas-actuators-linear-vane-rotary-type
+docidentifier:
+- content: SAE ARP777
+  type: SAE
+  primary: true
+- content: 10.4271/arp777
+  type: DOI
+date:
+- type: approved
+  at: '2008-07-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6B1 Hydraulic Servo Actuation Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Gas, for the purpose of this ARP, shall be defined as the gaseous product(s) resulting from the decomposition, dissociation, or combustion of liquid, or solid mono or bi-propellants. Where other gases such as heated N&lt;sub&gt;2&lt;/sub&gt;, H&lt;sub&gt;2&lt;/sub&gt;, H&lt;sub&gt;2&lt;/sub&gt;O (steam), etc., which may have similar physical and/or chemical properties as the defined "gas", are used to effect testing economies, they may be considered as being included in this ARP.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

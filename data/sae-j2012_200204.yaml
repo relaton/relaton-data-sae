@@ -1,0 +1,66 @@
+---
+id: SAEJ2012_200204
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Diagnostic Trouble Code Definitions Equivalent to ISO/DIS 15031-6:April
+    30, 2002
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2012_200204
+- type: src
+  content: https://saemobilus.sae.org/standards/j2012_200204-diagnostic-trouble-code-definitions-equivalent-iso-dis-15031-6april-30-2002
+docidentifier:
+- content: SAE J2012_200204
+  type: SAE
+  primary: true
+- content: 10.4271/j2012_200204
+  type: DOI
+date:
+- type: approved
+  at: '2002-04-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice supersedes SAE J2012 MAR1999, and is technically equivalent to ISO/DIS 15031-6:April 30, 2002.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is intended to define the standardized Diagnostic Trouble Codes (DTC) that On-Board Diagnostic (OBD) systems in vehicles are required to report when malfunctions are detected.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document includes:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Diagnostic Trouble Code format&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A standardized set of Diagnostic Trouble Codes and descriptions&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

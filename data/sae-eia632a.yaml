@@ -1,0 +1,75 @@
+---
+id: SAEEIA632A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Processes for Engineering a System
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/eia632a
+- type: src
+  content: https://saemobilus.sae.org/standards/eia632a-processes-engineering-a-system
+docidentifier:
+- content: SAE EIA-632A
+  type: SAE
+  primary: true
+- content: 10.4271/eia632a
+  type: DOI
+date:
+- type: approved
+  at: '2021-02-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-47 Systems Engineering
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this Standard is to provide an integrated set of fundamental processes to aid a developer in the engineering or reengineering of a system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Use of this Standard is intended to help developers&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;establish and evolve a complete and consistent set of requirements that will enable delivery of feasible and cost-effective system solutions;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;satisfy requirements within cost, schedule, and risk constraints;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;provide a system, or any portion of a system, that satisfies stakeholders over the life of the products that make up the system.
+    &lt;div class="table-wrap anchor "&gt;
+    &lt;div class="table-container"&gt;&lt;table class="br-groups tbr-box "&gt;
+    &lt;tbody&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;NOTE—The term &lt;i&gt;product&lt;/i&gt; is used in this standard to mean: a &lt;i&gt;physical item,&lt;/i&gt; such as a satellite (&lt;i&gt;end product&lt;/i&gt;), or any of its component parts (&lt;i&gt;end products&lt;/i&gt;); a software item such as a stand-alone application to run within an existing system &lt;i&gt;(end product&lt;/i&gt;); or a &lt;i&gt;document&lt;/i&gt; such as a plan, or a &lt;i&gt;service&lt;/i&gt; such as test, training, or maintenance support, or &lt;i&gt;equipment&lt;/i&gt; such as a simulator (enabling products).&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div/&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;provide for the safe and/or cost-effective disposal or retirement of a system.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

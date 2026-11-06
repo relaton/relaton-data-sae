@@ -1,0 +1,60 @@
+---
+id: SAEARP4191C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Gas Turbine Engine Performance Presentation for Digital Computer Programs
+    Using FORTRAN 77
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4191c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4191c-gas-turbine-engine-performance-presentation-digital-computer-programs-using-fortran-77
+docidentifier:
+- content: SAE ARP4191C
+  type: SAE
+  primary: true
+- content: 10.4271/arp4191c
+  type: DOI
+date:
+- type: approved
+  at: '2003-04-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-15 Gas Turbine Perf Simulation Nomenclature and Interfaces
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides a method for digital computer programs for gas turbine engine performance, steady-state or transient, performance to be written using the FORTRAN 77 Language.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;When it is agreed between the program User and Supplier that a particular program shall be supplied in FORTRAN 77, it is recommended that this ARP be used in conjunction with AS681 for steady-state and transient programs.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This ARP also describes how to take advantage of the FORTRAN 77 CHARACTER storage to extend the information interface between the calling program and the engine subroutine.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The ARP has the same major section numbers as AS681 to facilitate its use with this document. The information given in each section of this ARP is additional to that given in AS681.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEARP5288
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Transport Category Airplane Head Up Display (HUD) Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5288
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5288-transport-category-airplane-head-display-hud-systems
+docidentifier:
+- content: SAE ARP5288
+  type: SAE
+  primary: true
+- content: 10.4271/arp5288
+  type: DOI
+date:
+- type: approved
+  at: '2008-01-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4HUD Head-up Display Subcommittee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The material provided in this document consists of recommendations related to the design, analysis, testing, and intended functions of head up displays (HUDs) for transport category airplanes. The content of the document is limited to statements of general design and installation considerations, including display function criticality and compliance considerations; symbology, coding, clutter, dimensionality, and attention getting requirements; equipment installation; display visual characteristics; failure modes; information display and formatting; specific integrated display and mode; and system verification.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

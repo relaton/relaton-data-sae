@@ -1,0 +1,57 @@
+---
+id: SAEMA2078B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Test Methods, Hose Assemblies, Polytetrafluoroethylene  (PTFE), Metric
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma2078b
+- type: src
+  content: https://saemobilus.sae.org/standards/ma2078b-test-methods-hose-assemblies-polytetrafluoroethylene-ptfe-metric
+docidentifier:
+- content: SAE MA2078B
+  type: SAE
+  primary: true
+- content: 10.4271/ma2078b
+  type: DOI
+date:
+- type: approved
+  at: '2009-04-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Aerospace Standard describes the test methods for flexible
+    PTFE hose and hose assemblies used in aircraft fluid systems in the pressure and
+    temperature ranges defined in MA2001 (ISO 6771).  It applies to the hose and the
+    hose coupling.  The tests and assembly requirements for the connecting end fitting
+    are covered in the procurement specifiction.  The document applies each time that
+    it is referred to in a procurement specification or other definition document.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

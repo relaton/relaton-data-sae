@@ -1,0 +1,57 @@
+---
+id: SAEAS7982
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Static Seal Test Fixture and Procedure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as7982
+- type: src
+  content: https://saemobilus.sae.org/standards/as7982-static-seal-test-fixture-procedure
+docidentifier:
+- content: SAE AS7982
+  type: SAE
+  primary: true
+- content: 10.4271/as7982
+  type: DOI
+date:
+- type: approved
+  at: '2019-11-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CE Elastomers Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) provides dimensions and procedures for a standardized test fixture used to evaluate the static performance of O-rings and other seal types in glands per AS4716 and AS5857.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

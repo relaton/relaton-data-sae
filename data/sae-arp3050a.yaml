@@ -1,0 +1,57 @@
+---
+id: SAEARP3050A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Suitable Test Sizes for O-ring Specifications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp3050a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp3050a-suitable-test-sizes-o-ring-specifications
+docidentifier:
+- content: SAE ARP3050A
+  type: SAE
+  primary: true
+- content: 10.4271/arp3050a
+  type: DOI
+date:
+- type: approved
+  at: '2021-09-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CE Elastomers Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>&lt;p&gt;There are many tests that have been developed to characterize
+    rubber O-rings. Many of these tests are independent of the size of the O-ring
+    being tested. However, there are some tests, specifically, stress/strain properties,
+    that are a function of the O-ring’s size. The purpose of this report is to provide
+    guidelines for specifying O-rings that would be considered “suitable for testing”
+    when writing O-ring material specifications.&lt;/p&gt;</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

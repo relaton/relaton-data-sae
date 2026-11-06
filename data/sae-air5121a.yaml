@@ -1,0 +1,56 @@
+---
+id: SAEAIR5121A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Software Supportability - An Overview
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5121a
+- type: src
+  content: https://saemobilus.sae.org/standards/air5121a-software-supportability-overview
+docidentifier:
+- content: SAE AIR5121A
+  type: SAE
+  primary: true
+- content: 10.4271/air5121a
+  type: DOI
+date:
+- type: approved
+  at: '2012-05-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-41 Reliability
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides an overview of the issues relating to the support and supportability of software in computer-based systems. It has general applicability to all sectors of industry and commerce and to all types of equipment that contain software. The software support issues and activities summarized in this report are reasonably easy to comprehend. The reader should not be mislead into believing development of supportable software is easy to achieve. The target audience for the document includes software acquisition organizations, developers, supporters, and end-use customers.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

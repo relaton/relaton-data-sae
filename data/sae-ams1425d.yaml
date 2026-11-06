@@ -1,0 +1,53 @@
+---
+id: SAEAMS1425D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Deicing Fluid, Aircraft, Ethylene Glycol Base
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams1425d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams1425d-deicing-fluid-aircraft-ethylene-glycol-base
+docidentifier:
+- content: SAE AMS1425D
+  type: SAE
+  primary: true
+- content: 10.4271/ams1425d
+  type: DOI
+date:
+- type: approved
+  at: '2010-05-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12ADF Aircraft Deicing Fluids
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers an ethylene glycol base deicing fluid in
+    the form of a concentrated liquid.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

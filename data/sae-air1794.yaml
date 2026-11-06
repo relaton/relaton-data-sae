@@ -1,0 +1,57 @@
+---
+id: SAEAIR1794
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BALL-ON-CYLINDER (BOC) AIRCRAFT TURBINE FUEL LUBRICITY TESTER
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1794
+- type: src
+  content: https://saemobilus.sae.org/standards/air1794-ball-cylinder-boc-aircraft-turbine-fuel-lubricity-tester
+docidentifier:
+- content: SAE AIR1794
+  type: SAE
+  primary: true
+- content: 10.4271/air1794
+  type: DOI
+date:
+- type: approved
+  at: '2007-12-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5B Aircraft and Engine Fuel and Lubricant Sys Components
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This metric Aerospace Information Report (AIR) details a ball-on-cylinder (BOC) test device and specifies a method of rating the relative lubricity of aviation turbine fuel samples. The BOC produces a wear scar on a stationary steel ball by forcing it with a fixed load against a fuel wetted steel test ring in a controlled atmosphere. The test ring is rotated at a fixed speed so its surface is wetted by a momentary exposure to the fluid under test. The size of the wear scar is a measure of the test fluid lubricity and provides a basis for predicting friction or wear problems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This ARP is intended as a guide toward a standard practice, but may be subject to frequent change reflecting experience and technical advances. Use of this AIR is not recommended where flexibility of revision is impractical. Anyone interested in current information on BOC developments and technology should contact the Coordinating Research Council (CRC) Aviation Group on Aviation Fuel Lubricity.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

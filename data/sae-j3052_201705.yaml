@@ -1,0 +1,57 @@
+---
+id: SAEJ3052_201705
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Brake Hydraulic Component Flow Rate Measurement for High Differential Pressure
+    (>5 bar)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3052_201705
+- type: src
+  content: https://saemobilus.sae.org/standards/j3052_201705-brake-hydraulic-component-flow-rate-measurement-high-differential-pressure-5-bar
+docidentifier:
+- content: SAE J3052_201705
+  type: SAE
+  primary: true
+- content: 10.4271/j3052_201705
+  type: DOI
+date:
+- type: approved
+  at: '2017-05-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hydraulic Brake Components Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice provides a method, test set-up, and test conditions for brake hydraulic component flow rate measurement for high differential pressure (&amp;gt;5 bar) flow conditions. It is intended for hydraulic brake components which affect the brake fluid flow characteristics in a hydraulic brake circuit, that are part of a circuit for which the flow characteristics are important to system operation, and that are exposed to high operating pressure differentials (in the 5 to 100 bar range). Typical applications may include measurement of flow through chassis controls valve bodies, orifices in the brake system such as in flow bolts, junction blocks, and master cylinders, and through brake pipe configurations.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

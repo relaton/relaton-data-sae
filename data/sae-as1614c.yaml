@@ -1,0 +1,57 @@
+---
+id: SAEAS1614C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Main Line Aircraft Tow Bar Attach Fitting Interface
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1614c
+- type: src
+  content: https://saemobilus.sae.org/standards/as1614c-main-line-aircraft-tow-bar-attach-fitting-interface
+docidentifier:
+- content: SAE AS1614C
+  type: SAE
+  primary: true
+- content: 10.4271/as1614c
+  type: DOI
+date:
+- type: approved
+  at: '2010-08-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) specifies the interface requirements for tow bar attachment fittings on the nose gear (when towing operations are performed from the nose gear) of conventional tricycle type landing gears of commercial civil transport aircraft with a maximum ramp weight higher than 50 000 kg (110 000 lb), commonly designated as “main line aircraft”.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Its purpose is to achieve tow bar attachment fittings interface standardization by aircraft weight category (which determines tow bar forces) in order to ensure that one single type of tow bar with a standard connection can be used for all aircraft types within or near that weight category, so as to assist operators and airport handling companies in reducing the number of different tow bar types used.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

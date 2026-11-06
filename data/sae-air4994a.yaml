@@ -1,0 +1,61 @@
+---
+id: SAEAIR4994A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: High Pressure Pneumatic Compressors Users Guide For Aerospace Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4994a
+- type: src
+  content: https://saemobilus.sae.org/standards/air4994a-high-pressure-pneumatic-compressors-users-guide-aerospace-applications
+docidentifier:
+- content: SAE AIR4994A
+  type: SAE
+  primary: true
+- content: 10.4271/air4994a
+  type: DOI
+date:
+- type: approved
+  at: '2013-11-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C4 Power Sources Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Gas compressors (air and other compressible fluids) have been used sporadically since the 1940's for various utility functions in aerospace applications. They have been used to provide power to gun purge and drive systems, engine or APU starters (recharge accumulators), reservoir pressurization, cockpit pressurization, braking systems, canopy seals, engine control devices, landing gear activation, and boosted flight controls (see &lt;span class="xref"&gt;Table 1&lt;/span&gt;). In current state-of-the-art aircraft, most pneumatic system power is extracted from a stage of compression in the turbo-jet engine. As more and more demands are put on new generation engines for fuel economy and performance there is an increasing need for a new source of pneumatic power. This document is intended to describe current state-of-the-art technology in compressors, define the limitations, discuss enhancements needed and attempt to predict the needs of the future.&lt;/div&gt;
+
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

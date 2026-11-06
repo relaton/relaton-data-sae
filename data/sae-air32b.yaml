@@ -1,0 +1,64 @@
+---
+id: SAEAIR32B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Cockpit Visibility for Commercial Transport Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air32b
+- type: src
+  content: https://saemobilus.sae.org/standards/air32b-cockpit-visibility-commercial-transport-aircraft
+docidentifier:
+- content: SAE AIR32B
+  type: SAE
+  primary: true
+- content: 10.4271/air32b
+  type: DOI
+date:
+- type: approved
+  at: '1964-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-7 Flight Deck Handling Qualities Stds for Trans Aircraft
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>INTRODUCTION
+
+    This report is intended to encourage more effort to be directed toWard improving
+    the pilot's visibility from the cockpit of transport type aircraft wih the
+    ultimate objective of improving safety.
+    In the preparation of this Aeronautical Information Report, consideration Was
+    given to pilot surveys made by the Civil Aeronautics Administration, studies made
+    by manufacturers, and a review of the cockpit visibility provided in present day
+    transport aircraf`t.
+    It is recognized that a rigid specification is undesirable and may restrict development
+    and utilization of initiative. For this reason the report is in general terms and
+    offered as a guide.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

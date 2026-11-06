@@ -1,0 +1,56 @@
+---
+id: SAEICS1000_201205
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Recreation Off-Road Vehicle Product Identification Numbering System
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ics1000_201205
+- type: src
+  content: https://saemobilus.sae.org/standards/ics1000_201205-recreation-off-road-vehicle-product-identification-numbering-system
+docidentifier:
+- content: SAE ICS1000_201205
+  type: SAE
+  primary: true
+- content: 10.4271/ics1000_201205
+  type: DOI
+date:
+- type: approved
+  at: '2012-05-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Automotive Resource Institute
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document specifies the format, content and parameters for a product identification numbering system for &lt;b&gt;off-road recreation vehicles&lt;/b&gt;, based on the PIN structure for earth-moving machinery in ISO 10261:2002E and is not applicable to the identification of components or attachments. This standard applies only to the off-road recreation vehicle industry and does not impose parameters for the marine, lawn and garden, silviculture, husbandry, construction or earth moving sectors.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

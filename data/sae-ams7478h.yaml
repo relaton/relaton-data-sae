@@ -1,0 +1,49 @@
+---
+id: SAEAMS7478H
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Bolts and Screws, Steel, Corrosion and Heat Resistant Heat Treated, Roll
+    Threaded, 1800°F (982.2°C) Solution and Precipitation Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7478h
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7478h-bolts-screws-steel-corrosion-heat-resistant-heat-treated-roll-threaded-1800f-9822c-solution-precipitation-heat-treated
+docidentifier:
+- content: SAE AMS7478H
+  type: SAE
+  primary: true
+- content: 10.4271/ams7478h
+  type: DOI
+date:
+- type: approved
+  at: '1991-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

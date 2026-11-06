@@ -1,0 +1,56 @@
+---
+id: SAEJ1877_198805
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: RECOMMENDED PRACTICE FOR BAR-CODED VEHICLE IDENTIFICATION NUMBER LABEL
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1877_198805
+- type: src
+  content: https://saemobilus.sae.org/standards/j1877_198805-recommended-practice-bar-coded-vehicle-identification-number-label
+docidentifier:
+- content: SAE J1877_198805
+  type: SAE
+  primary: true
+- content: 10.4271/j1877_198805
+  type: DOI
+date:
+- type: approved
+  at: '1988-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: VIN - WMI Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice describes the basic content requirements, bar-code specifications, and functional test specifications of the vehicle identification number (VIN) label. On the vehicle, the VIN label is to be mounted in a readily accessible location for use of a bar-code scanning device.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

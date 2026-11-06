@@ -1,0 +1,57 @@
+---
+id: SAEEIA555
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Lot Acceptance Procedure for Verifying Compliance With the Specified Quality
+    Levels (SQL) in PPM
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/eia555
+- type: src
+  content: https://saemobilus.sae.org/standards/eia555-lot-acceptance-procedure-verifying-compliance-specified-quality-levels-sql-ppm
+docidentifier:
+- content: SAE EIA-555
+  type: SAE
+  primary: true
+- content: 10.4271/eia555
+  type: DOI
+date:
+- type: approved
+  at: '2016-05-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Systems Management Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Specification covers a statistical sampling plan for lot inspection by attributes. It verifies that the customer's specified quality level (SQL) is not being exceeded. The estimate of fraction nonconforming determined by EIA Interim Standard No. EIA-554 is used to select the optimum sample plan for verifying that a given lot meets the specified quality level (SQL).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

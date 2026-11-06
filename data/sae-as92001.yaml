@@ -1,0 +1,48 @@
+---
+id: SAEAS92001
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: NUT, PLAIN, HEX, BOSS CONNECTION, ALUMINUM
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as92001
+- type: src
+  content: https://saemobilus.sae.org/standards/as92001-nut-plain-hex-boss-connection-aluminum
+docidentifier:
+- content: SAE AS92001
+  type: SAE
+  primary: true
+- content: 10.4271/as92001
+  type: DOI
+date:
+- type: approved
+  at: '2000-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3B Aerospace Fittings Task Group
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

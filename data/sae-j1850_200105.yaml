@@ -1,0 +1,60 @@
+---
+id: SAEJ1850_200105
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Class B Data Communications Network Interface
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1850_200105
+- type: src
+  content: https://saemobilus.sae.org/standards/j1850_200105-class-b-data-communications-network-interface
+docidentifier:
+- content: SAE J1850_200105
+  type: SAE
+  primary: true
+- content: 10.4271/j1850_200105
+  type: DOI
+date:
+- type: approved
+  at: '2001-05-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Architecture For Data Communications Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard establishes the requirements for a Class B Data Communication Network Interface applicable to all On- and Off-Road Land-Based Vehicles. It defines a minimum set of data communication requirements such that the resulting network is cost effective for simple applications and flexible enough to use in complex applications. Taken in total, the requirements contained in this document specify a data communications network that satisfies the needs of automotive manufacturers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This specification describes two specific implementations of the network, based on media/Physical Layer differences. One Physical Layer is optimized for a data rate of 10.4 Kbps while the other Physical Layer is optimized for a data rate of 41.6 Kbps (see &lt;span class="xref"&gt;Appendix A&lt;/span&gt; for a checklist of application-specific features). The Physical Layer parameters are specified as they would be detected on the network media, not within any particular module or integrated circuit implementation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Although devices may be constructed that can be configured to operate in either of the two primary implementations defined herein, it is expected that most manufacturers will focus specifically on either the 10.4 Kbps implementation or the 41.6 Kbps implementation depending on their specific application and corporate philosophy toward network usage. However, low-volume users of network-interface devices are expected to find it more effective to use a generic interface capable of handling either of the primary implementations specified in this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This SAE document is under the control and maintenance of the Vehicle Networks for Multiplexing and Data Communications (Multiplex) Committee. This committee will periodically review and update this document as needs dictate.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

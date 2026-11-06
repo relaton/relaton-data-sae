@@ -1,0 +1,57 @@
+---
+id: SAEARP8462
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Evaluation of Fouling Propensity of Aviation Lubricants Using the Mixed-Phase
+    Flow Technique (High-Temperature Deposition Test)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp8462
+- type: src
+  content: https://saemobilus.sae.org/standards/arp8462-evaluation-fouling-propensity-aviation-lubricants-using-mixed-phase-flow-technique-high-temperature-deposition-test
+docidentifier:
+- content: SAE ARP8462
+  type: SAE
+  primary: true
+- content: 10.4271/arp8462
+  type: DOI
+date:
+- type: approved
+  at: '2023-10-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-34 Propulsion Lubricants Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The high-temperature deposition test (HTDT) method is designed to evaluate the deposition and degradation characteristics of turbine lubricants when stressed under mixed-phase flow conditions found in certain parts of aviation gas turbine engines. This method is applicable to lubricants that form deposits in the range of 0.1 to 100 mg during the course of a test.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

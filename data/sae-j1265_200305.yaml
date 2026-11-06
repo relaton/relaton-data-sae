@@ -1,0 +1,62 @@
+---
+id: SAEJ1265_200305
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Capacity Rating--Dozer Blades
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1265_200305
+- type: src
+  content: https://saemobilus.sae.org/standards/j1265_200305-capacity-rating-dozer-blades
+docidentifier:
+- content: SAE J1265_200305
+  type: SAE
+  primary: true
+- content: 10.4271/j1265_200305
+  type: DOI
+date:
+- type: approved
+  at: '2003-05-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: MTC1, Earthmoving Machinery
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This standard applies only to straight, angling, semi-U, and U-blades for crawler and wheel tractors. It applies to angling blades only in the straight (not angled) position.
+
+    This standard does not apply to angled blades or other tools used to side cast materials, nor does it apply to any blade with design features such as end plates extended beyond the blade face.
+
+    This standard assumes the blade face to be flat and vertical, and does not consider the blade included volume (Figure 1).
+
+    Although provisions are presented for some deviations, this standard is intended for rectangular blades whose width/height ratios are at least 1.0.
+
+    Purpose
+    The purpose of this standard is to provide a uniform method for calculating the capacities of dozer blades. It is intended for relative comparisons of dozer blade capacity, and not for predicting capacities or productivities in actual field conditions. Such determinations would need to consider other parameters, such as efficiency of the blade design, tractor power, tractive effort, soil properties, terrain, operator technique, and duty cycle.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

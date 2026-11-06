@@ -1,0 +1,57 @@
+---
+id: SAEAMS6436C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Sheet, Strip, and Plate, Low-Alloy, Heat Resistant, 0.65si 1.25cr
+    0.50mo 0.85v (0.25 0.30c), Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6436c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6436c-steel-sheet-strip-plate-low-alloy-heat-resistant-065si-125cr-050mo-085v-025-030c-annealed
+docidentifier:
+- content: SAE AMS6436C
+  type: SAE
+  primary: true
+- content: 10.4271/ams6436c
+  type: DOI
+date:
+- type: approved
+  at: '2001-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: <p>Primarily for parts requiring moderate tensile properties up to 1050
+    degrees F (566 degrees C) where welding may be required. This specification has
+    been declared "Noncurrent" by the Aerospace Materials Division, SAE, as of 19
+    April 1988. It is recommended, therefore, that this specification not be specified
+    for new designs.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

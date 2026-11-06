@@ -1,0 +1,56 @@
+---
+id: SAEJ2505_201008
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Measurement of Vehicle-Roadway Frictional Drag
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2505_201008
+- type: src
+  content: https://saemobilus.sae.org/standards/j2505_201008-measurement-vehicle-roadway-frictional-drag
+docidentifier:
+- content: SAE J2505_201008
+  type: SAE
+  primary: true
+- content: 10.4271/j2505_201008
+  type: DOI
+date:
+- type: approved
+  at: '2010-08-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Crash Data Collection and Analysis Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice provides guidelines for procedures and practices used to obtain and record measurements and to analyze and present results of frictional drag tests of a vehicle with its brakes fully applied at a given roadway location. It is for use at accident sites and test sites and is applicable to straight-line stopping of vehicles such as passenger cars, light trucks and vans under fully braked conditions including locked-wheel skids for vehicles with a conventional braking system and for vehicles with full or partial antilock braking systems (ABS). The average deceleration resulting from a given series of tests is intended to be representative of a frictional drag factor for the conditions under which the test was conducted such as the type of vehicle, type and condition of tires, roadway material and roadway surface conditions. The frictional drag factor is intended to conform to use with the stopping distance formula (Fricke, 1990) as stated in &lt;span class="xref"&gt;Equation 1&lt;/span&gt;. Two methods are included: Stopping Distance Method (measurement of the distance required to bring a vehicle to a complete stop from a known initial speed) and Average Acceleration Measurement (using acceleration measuring devices and data analysis to determine the average drag factor). The Recommended Practice applies to vehicles stopping in a fully braked condition. Values of roadway frictional drag obtained by other means do not necessarily agree or correlate (Lock, et al., 1982) with full vehicle testing and are not recommended.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

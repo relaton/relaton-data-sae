@@ -1,0 +1,58 @@
+---
+id: SAEAS94900
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace - Flight Control Systems - Design, Installation and Test of Piloted
+    Military Aircraft, General Specification For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as94900
+- type: src
+  content: https://saemobilus.sae.org/standards/as94900-aerospace-flight-control-systems-design-installation-test-piloted-military-aircraft-general-specification
+docidentifier:
+- content: SAE AS94900
+  type: SAE
+  primary: true
+- content: 10.4271/as94900
+  type: DOI
+date:
+- type: approved
+  at: '2007-07-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A3 Flight Control and Vehicle Management Systems Cmt
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes general performance, design, test, development and quality assurance requirements for the Flight Control Systems of military piloted aircraft. Flight Control Systems (FCS) include all components used to transmit flight control commands from the pilot or other sources to appropriate force and moment producers. Flight control commands normally result in control of aircraft altitude, airspeed, flight path, attitude, aerodynamic or geometric configuration, ride quality, and structural modes. Among components included are the pilot’s controls, dedicated displays and logic switching, system inertial and air data sensors, signal computation, test devices, mechanical transmission devices, actuators, power sources, and signal transmission lines dedicated to flight control. Excluded are aerodynamic surfaces, engines and engine control systems, rotorcraft rotors, fire control devices, crew displays and electronics not dedicated to flight control. In the event of conflict between this specification and other referenced documents, this specification shall govern. The detail requirements for a particular system shall be specified in the FCS Specification, &lt;span class="xref"&gt;4.6.2&lt;/span&gt;, the Aircraft Detail Specification, the contract, or purchase order for that system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Most of the technical concepts and approaches covered by the document represent industry "best practice". They are based on sound and proven engineering practices and have demonstrated successful production experience. Others require specific approval from the procuring activity before use. This requirement for approval is not intended to prohibit their use; but rather to ensure that the prime contractor has fully investigated their capability to perform reliably and to be sufficiently durable under the required conditions and that the prime contractor can present substantiating evidence for approval before the design is committed to.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

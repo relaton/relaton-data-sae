@@ -1,0 +1,57 @@
+---
+id: SAEJ1407_198803
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: VEHICLE ELECTROMAGNETIC RADIATED SUSCEPTIBILITY TESTING USING A LARGE TEM
+    CELL
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1407_198803
+- type: src
+  content: https://saemobilus.sae.org/standards/j1407_198803-vehicle-electromagnetic-radiated-susceptibility-testing-using-a-large-tem-cell
+docidentifier:
+- content: SAE J1407_198803
+  type: SAE
+  primary: true
+- content: 10.4271/j1407_198803
+  type: DOI
+date:
+- type: approved
+  at: '1988-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This information report gives the procedures for use and operation of a large transverse electromagnetic (TEM) mode cell for the determination of electromagnetic (EM) radiated susceptibility of equipment, subsystems and systems (whose dimensions are less than 3 m × 6 m × 18 m) in the frequency range 10 kHz - 20 MHz. Several large TEM cells have been designed and constructed by various organizations for EMP and high power CW testing. Two cell designs and associated instrumentation are included for example purposes in this report. Other cell configurations have also been constructed. Users should consult the literature before undertaking a project of this magnitude for other cell and instrumentation designs.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,70 @@
+---
+id: SAEJ1739_202605
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Potential Failure Mode and Effects Analysis (FMEA) Including Design FMEA,
+    Supplemental FMEA-MSR, and Process FMEA
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1739_202605
+- type: src
+  content: https://saemobilus.sae.org/standards/j1739_202605-potential-failure-mode-effects-analysis-fmea-including-design-fmea-supplemental-fmea-msr-process-fmea
+docidentifier:
+- content: SAE J1739_202605
+  type: SAE
+  primary: true
+- content: 10.4271/j1739_202605
+  type: DOI
+date:
+- type: approved
+  at: '2026-05-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Automotive Quality and Process Improvement Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This FMEA standard describes potential failure mode and effects analysis in design (DFMEA), supplemental FMEA-MSR, and potential failure mode and effects analysis in manufacturing and assembly processes (PFMEA). It assists users in the identification and mitigation of risk by providing appropriate terms, requirements, rating charts, and worksheets. As a standard, this document contains requirements—”must”—and recommendations—”should”—to guide the user through the FMEA process. The FMEA process and documentation must comply with this standard as well as any corporate policy concerning this standard. Documented rationale and agreement with the customer are necessary for deviations in order to justify new work or changed methods during customer or third-party audit reviews.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

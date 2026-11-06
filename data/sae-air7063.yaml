@@ -1,0 +1,57 @@
+---
+id: SAEAIR7063
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Environmental Control Systems (ECS) for Unmanned Aircraft (UA)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air7063
+- type: src
+  content: https://saemobilus.sae.org/standards/air7063-environmental-control-systems-ecs-unmanned-aircraft-ua
+docidentifier:
+- content: SAE AIR7063
+  type: SAE
+  primary: true
+- content: 10.4271/air7063
+  type: DOI
+date:
+- type: approved
+  at: '2024-10-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides guidance for ECS design for UA primarily by reference to existing applicable SAE AC-9 documents with indication of how they would apply and how they may need to be adapted for UA. This document provides guidance related to environmental control for onboard equipment, cargo, animals, and passengers. This document cannot provide detail design guidance for all potential types of UA. Limited information is available for ECS requirements for UA that may carry passengers, but it should be expected that the same comfort and safety standards would be applied to UA as prescribed in current civil aviation authority rules and military specifications. Additional requirements unique to UA can be expected for totally autonomous UA operation with no provision for flight or ground crew monitoring and intervention in the event of ECS failures or malfunctions. This document does not pertain to the related ground stations that may be controlling the UA.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

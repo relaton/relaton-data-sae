@@ -1,0 +1,59 @@
+---
+id: SAEARP1554D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Vehicle Transport Unit Load Device (ULD)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1554d
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1554d-vehicle-transport-unit-load-device-uld
+docidentifier:
+- content: SAE ARP1554D
+  type: SAE
+  primary: true
+- content: 10.4271/arp1554d
+  type: DOI
+date:
+- type: approved
+  at: '2020-11-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The tests are static in nature to minimize complexity and cost of required testing facilities. As far as practical, applied static loads should take into account the combined static and dynamic loads anticipated in service.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is intended that tests shall be non-destructive in nature and not result in damage unless ultimate load conditions are employed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Test equipment and methods of testing described are not meant to be restrictive. Alternate equivalent methods to accomplish the desired results may be employed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In selected cases, tests may be repeated under ultimate load conditions when required for substantiation of analytical data. If this becomes necessary, the parts deformed may be removed and replaced prior to the retest.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,68 @@
+---
+id: SAEARP41028B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Permanent or Fixed Place Flight Deck Head-Up Displays
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4102/8b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp41028b-permanent-fixed-place-flight-deck-head-displays
+docidentifier:
+- content: SAE ARP4102/8B
+  type: SAE
+  primary: true
+- content: 10.4271/arp4102/8b
+  type: DOI
+date:
+- type: approved
+  at: '2026-05-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-7 Flight Deck Handling Qualities Stds for Trans Aircraft
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides criteria for the design, installation, operation, and training aspects of head-up display (HUD) systems in transport category aircraft, with emphasis on pilot interface and operational requirements. The recommendations apply to permanently installed (including stowable) HUDs that display primary flight information, including those integrating enhanced flight vision system (EFVS) imagery. The intent is to ensure HUDs are designed and used in a manner that improves pilot situational awareness and flight technical performance across all phases of flight, up to and including low-visibility operations. While technical design standards (optical performance, hardware specs, etc.) are defined in documents like ARP5288 and AS8055, this document focuses on pilot usage considerations and human factors. HUD systems addressed here are typically designed to support a fail-passive operational concept applicable to Category III instrument approach operations, where approved, though many recommendations also apply to HUD usage for Category I and II operations and other phases of flight. Devices such as head-worn displays are not specifically covered, though future provisions may consider “through-display” wearable systems as technology matures.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

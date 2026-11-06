@@ -1,0 +1,80 @@
+---
+id: SAEAIR11683B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SAE Aerospace Applied Thermodynamics Manual Aerothermodynamic Systems Engineering
+    and Design
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1168/3b
+- type: src
+  content: https://saemobilus.sae.org/standards/air11683b-sae-aerospace-applied-thermodynamics-manual-aerothermodynamic-systems-engineering-design
+docidentifier:
+- content: SAE AIR1168/3B
+  type: SAE
+  primary: true
+- content: 10.4271/air1168/3b
+  type: DOI
+date:
+- type: approved
+  at: '2025-03-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This section presents methods and examples of computing the steady-state heating and cooling loads of aircraft compartments. In a steady-state process the flows of heat throughout the system are stabilized and thus do not change with time. In an aircraft compartment, several elements compose the steady-state air conditioning load. Transfer of heat occurs between these sources and sinks by the combined processes of convection, radiation, and conduction in the following manner:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Convection between the boundary layer and the outer airplane skin.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Radiation between the external skin and the external environment.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Solar radiation through transparent areas directly on flight personnel and equipment and on the cabin interior surfaces.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;4&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Conduction through the cabin walls and structural members.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;5&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Convection between the interior cabin surface and the cabin air.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;6&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Convection between cabin air and flight personnel or equipment.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;7&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Convection and radiation from internal sources of heat such as electrical equipment.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;The subsequent paragraphs discuss methods of determining each of the heat transfer rates listed above, as well as the physiological considerations involved in the selection of proper cabin conditions that are to be maintained.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

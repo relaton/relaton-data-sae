@@ -1,0 +1,56 @@
+---
+id: SAEJ1763_200304
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'A Conceptual Its Architecture:  An Atis Perspective'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1763_200304
+- type: src
+  content: https://saemobilus.sae.org/standards/j1763_200304-a-conceptual-architecture-atis-perspective
+docidentifier:
+- content: SAE J1763_200304
+  type: SAE
+  primary: true
+- content: 10.4271/j1763_200304
+  type: DOI
+date:
+- type: approved
+  at: '2003-05-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Motor Vehicle Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Information Report represents an information report on a conceptual
+    ITS architecture and its accompanying protocols from the perspective of Advanced
+    Traveller Information Systems providers and users. While a specific logical and
+    physical architecture for ITS is still in the development stages, this conceptual
+    architecture provides a robust general view of ITS functions and interfaces.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

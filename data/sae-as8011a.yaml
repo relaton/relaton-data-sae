@@ -1,0 +1,57 @@
+---
+id: SAEAS8011A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MINIMUM PERFORMANCE STANDARDS FOR A-C GENERATORS AND ASSOCIATED REGULATORS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8011a
+- type: src
+  content: https://saemobilus.sae.org/standards/as8011a-minimum-performance-standards-a-c-generators-associated-regulators
+docidentifier:
+- content: SAE AS8011A
+  type: SAE
+  primary: true
+- content: 10.4271/as8011a
+  type: DOI
+date:
+- type: approved
+  at: '1991-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7A Generators and Controls Motors and Magnetic Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Standard (AS) covers the general minimum performance standards of A-C generators and associated regulators for civil aircraft. The generator is a nominal 120/208-volt, 400-Hz, 3-phase, Y-connected system that provides the primary or backup power for electrical systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The machine can be a brush or brushless design and is normally air cooled.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

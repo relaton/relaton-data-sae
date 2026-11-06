@@ -1,0 +1,58 @@
+---
+id: SAEJ31612_202403
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: LTE Vehicle-to-Everything (LTE-V2X) Deployment Profiles and Radio Parameters
+    for PC5 Interface in 10 MHz Channel 180
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3161/2_202403
+- type: src
+  content: https://saemobilus.sae.org/standards/j31612_202403-lte-vehicle-everything-lte-v2x-deployment-profiles-radio-parameters-pc5-interface-10-mhz-channel-180
+docidentifier:
+- content: SAE J3161/2_202403
+  type: SAE
+  primary: true
+- content: 10.4271/j3161/2_202403
+  type: DOI
+date:
+- type: approved
+  at: '2024-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: C-V2X Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report describes the deployment profile and radio parameters for a 10 MHz channel (i.e., LTE band 47 using EARFCN 54990 with a 10 MHz channel width, also known as Channel 180) based on LTE-V2X PC5 Sidelink (Mode 4) that can be used to support truck platooning applications. The content provided in this document is complementary to the content provided in SAE J3161 (which defines deployment profile and radio parameters for a 20 MHz channel).&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

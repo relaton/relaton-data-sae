@@ -1,0 +1,48 @@
+---
+id: SAEAMS4087B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY TUBING, SEAMLESS 4.5Cu - 1.5Mg - 0.6Mn (2024-0)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4087b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4087b-aluminum-alloy-tubing-seamless-45cu-15mg-06mn-2024-0
+docidentifier:
+- content: SAE AMS4087B
+  type: SAE
+  primary: true
+- content: 10.4271/ams4087b
+  type: DOI
+date:
+- type: approved
+  at: '1955-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

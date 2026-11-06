@@ -1,0 +1,57 @@
+---
+id: SAEAMS6385G
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Sheet, Strip, and Plate, Low Alloy, Heat-Resistant 0.65Si - 1.25Cr
+    - 0.50Mo - 0.25V (0.27 - 0.33C)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6385g
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6385g-steel-sheet-strip-plate-low-alloy-heat-resistant-065si-125cr-050mo-025v-027-033c
+docidentifier:
+- content: SAE AMS6385G
+  type: SAE
+  primary: true
+- content: 10.4271/ams6385g
+  type: DOI
+date:
+- type: approved
+  at: '2008-01-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aircraft-quality, low-alloy steel in the form of sheet, strip, and plate.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,60 @@
+---
+id: SAEJ2992_202007
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FTIR Gas Analyzer Performance Evaluation/Qualification for Automotive Testing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2992_202007
+- type: src
+  content: https://saemobilus.sae.org/standards/j2992_202007-ftir-gas-analyzer-performance-evaluation-qualification-automotive-testing
+docidentifier:
+- content: SAE J2992_202007
+  type: SAE
+  primary: true
+- content: 10.4271/j2992_202007
+  type: DOI
+date:
+- type: approved
+  at: '2020-07-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Emissions Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this document focuses on the tests required by EPA to validate the performance of the FTIR system following the section in the Code of Federal Regulations Part 1065 (40 CFR 1U.1065 and hereafter referred to as “EPA Part 1065”) on the guidelines and performance criteria for various regulated gases. This document focuses on the use of continuous emissions sampling for both engine and vehicle testing. Future addenda will be needed to cover bag and other sampling techniques.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Gas components that do not currently have performance criteria but may soon be regulated are noted and EPA suggestions as to what should be required are applied. This will help ensure that the FTIR will be recognized as a valid and alternative tool for engine exhaust emissions testing. Components in engine exhaust that are specifically called out in this document include: carbon monoxide (CO), carbon dioxide (CO&lt;sub&gt;2&lt;/sub&gt;), oxides of nitrogen (NO, NO&lt;sub&gt;2&lt;/sub&gt;, and N&lt;sub&gt;2&lt;/sub&gt;O), ammonia (NH&lt;sub&gt;3&lt;/sub&gt;), methane (CH&lt;sub&gt;4&lt;/sub&gt;), ethane (C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;6&lt;/sub&gt;), and formaldehyde (H&lt;sub&gt;2&lt;/sub&gt;CO). Others (for example, hydrocarbons for non-methane, non-ethane hydrocarbons (NM NE HC) or volatile organic compounds (VOC)) may be added as needed by following this standard operating procedure and determining the certification requirements from EPA or other governing bodies as required.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This SAE standard references the specific sections in the EPA Part 1065 certification test requirements (current as of April 23, 2014) for all of the steps required to provide proof of performance. The document provides the user a guideline for the FTIR gas analyzer as applied to engine or vehicle emissions testing. This document is applicable to a wide range of fuels including, but not limited to, diesel, gasoline, natural gas, liquid petroleum gas (LPG), blends, bio-fuel, and bio-fuel blends.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;While this document specifically references 191 °C as the temperature used for performance validation, this may not always be the case. The temperature specification applies specifically to the raw gaseous emissions that have not been diluted. If the analysis is to be performed upon a diluted gas stream where the emission gas is at a lower temperature, then the analyzer can also be run at a lower temperature, provided that the components of interest do not condense or react prior to reaching the analyzer.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

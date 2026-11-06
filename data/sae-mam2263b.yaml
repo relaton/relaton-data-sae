@@ -1,0 +1,56 @@
+---
+id: SAEMAM2263B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Tolerances, Metric, Nickel, Nickel Alloy, and Cobalt Alloy Tubing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/mam2263b
+- type: src
+  content: https://saemobilus.sae.org/standards/mam2263b-tolerances-metric-nickel-nickel-alloy-cobalt-alloy-tubing
+docidentifier:
+- content: SAE MAM2263B
+  type: SAE
+  primary: true
+- content: 10.4271/mam2263b
+  type: DOI
+date:
+- type: approved
+  at: '2007-09-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers established metric manufacturing tolerances
+    applicable to seamless and welded thin-walls aircraft tubing of nickel, nickel
+    alloys, and cobalt alloys ordered to metric dimensions. These tolerances apply
+    to all conditions and are based on individual measurements, unless otherwise noted.
+    The term 'excl' is used to apply only to the higher figure of a specified range.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

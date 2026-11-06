@@ -1,0 +1,55 @@
+---
+id: SAEAMS4376J
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Plate, Magnesium Alloy, 3.0Al - 1.0Zn - 0.20Mn (AZ31B-H26), Cold Rolled
+    and Partially Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4376j
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4376j-plate-magnesium-alloy-30al-10zn-020mn-az31b-h26-cold-rolled-partially-annealed
+docidentifier:
+- content: SAE AMS4376J
+  type: SAE
+  primary: true
+- content: 10.4271/ams4376j
+  type: DOI
+date:
+- type: approved
+  at: '2026-02-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>&lt;p&gt;This specification covers a magnesium alloy in the form of
+    plate 0.250 to 2.000 inches (6.35 to 50.80 mm), inclusive, in nominal thickness
+    (see 8.5).&lt;/p&gt;</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

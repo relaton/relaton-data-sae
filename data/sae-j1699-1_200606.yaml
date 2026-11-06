@@ -1,0 +1,56 @@
+---
+id: SAEJ16991_200606
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SAE J1850 Verification Test Procedures
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1699/1_200606
+- type: src
+  content: https://saemobilus.sae.org/standards/j16991_200606-sae-j1850-verification-test-procedures
+docidentifier:
+- content: SAE J1699/1_200606
+  type: SAE
+  primary: true
+- content: 10.4271/j1699/1_200606
+  type: DOI
+date:
+- type: approved
+  at: '2006-06-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice recommends test methods, test procedures, and specific test parameters to help verify that vehicles and test tools can communicate using the SAE J1850. This document only verifies the portion of SAE J1850 that is used for OBD-II communications. The term “test tool” is synonymous with OBD-II Scan tool.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

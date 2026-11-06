@@ -1,0 +1,57 @@
+---
+id: SAEAS1576E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fittings, Welded, Hydraulic, Titanium, Corrosion Resistant Steel and Nickel,
+    3000 psi Hydraulic
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1576e
+- type: src
+  content: https://saemobilus.sae.org/standards/as1576e-fittings-welded-hydraulic-titanium-corrosion-resistant-steel-nickel-3000-psi-hydraulic
+docidentifier:
+- content: SAE AS1576E
+  type: SAE
+  primary: true
+- content: 10.4271/as1576e
+  type: DOI
+date:
+- type: approved
+  at: '2016-07-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document defines the requirements for weld fittings and machine weldments using an orbiting welding head suitable for use on cold worked 3Al-2.5V titanium, 21Cr-6Ni-9Mn CRES, and 718 nickel alloy tubing. Fitting standards covered by this specification include non-separable welded elbow, tee, and reducer fittings, and reconnectable 24 degree cone fittings such as sleeves and unions.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

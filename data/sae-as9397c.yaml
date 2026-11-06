@@ -1,0 +1,49 @@
+---
+id: SAEAS9397C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BOLT, TEE HEAD - CADMIUM PLATED, STEEL, UNS G87400, 125 KSI MIN, CHAMFERED,
+    .1900-32 UNJF-3A
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9397c
+- type: src
+  content: https://saemobilus.sae.org/standards/as9397c-bolt-tee-head-cadmium-plated-steel-uns-g87400-125-ksi-min-chamfered-1900-32-unjf-3a
+docidentifier:
+- content: SAE AS9397C
+  type: SAE
+  primary: true
+- content: 10.4271/as9397c
+  type: DOI
+date:
+- type: approved
+  at: '2022-10-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

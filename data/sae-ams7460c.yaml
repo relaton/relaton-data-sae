@@ -1,0 +1,56 @@
+---
+id: SAEAMS7460C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BOLTS AND SCREWS, TITANIUM ALLOY 6Al - 4V Heat Treated, Roll Threaded
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7460c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7460c-bolts-screws-titanium-alloy-6al-4v-heat-treated-roll-threaded
+docidentifier:
+- content: SAE AMS7460C
+  type: SAE
+  primary: true
+- content: 10.4271/ams7460c
+  type: DOI
+date:
+- type: approved
+  at: '1973-05-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G Titanium and Refractory Metals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers high quality bolts and screws made of 6Al - 4V titanium alloy.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEJ1313_198010
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AUTOMOTIVE SYNCHRONOUS BELT DRIVES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1313_198010
+- type: src
+  content: https://saemobilus.sae.org/standards/j1313_198010-automotive-synchronous-belt-drives
+docidentifier:
+- content: SAE J1313_198010
+  type: SAE
+  primary: true
+- content: 10.4271/j1313_198010
+  type: DOI
+date:
+- type: approved
+  at: '1980-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Belt Drive (Automotive) Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The following information applies to automotive camshaft drives, distributor drives, or other underhood drives that may require synchronization. For other power transmission drives requiring synchronization, refer to &lt;i&gt;Specifications for Drives using Synchronous Belts&lt;/i&gt; (MXL, XL, L, H, XH and XXH belt sections) (IP 24/1978), published jointly by the Rubber Manufacturers Association (RMA), the Mechanical Power Transmission Association (MPTA), and the Rubber Association of Canada (RAC).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

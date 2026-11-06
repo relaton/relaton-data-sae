@@ -1,0 +1,57 @@
+---
+id: SAEARP246D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Orientation of Engine Axis, Coordinate and Numbering Systems for Aircraft
+    Gas Turbine Engines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp246d
+- type: src
+  content: https://saemobilus.sae.org/standards/arp246d-orientation-engine-axis-coordinate-numbering-systems-aircraft-gas-turbine-engines
+docidentifier:
+- content: SAE ARP246D
+  type: SAE
+  primary: true
+- content: 10.4271/arp246d
+  type: DOI
+date:
+- type: approved
+  at: '2018-09-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Orientation of the engine, engine axis and coordinate system referred to herein shall be the conventional terminology used in all references to aircraft gas turbine engines.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

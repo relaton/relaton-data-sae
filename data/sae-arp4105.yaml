@@ -1,0 +1,57 @@
+---
+id: SAEARP4105
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: NOMENCLATURE AND ABBREVIATIONS FOR USE ON THE FLIGHT DECK
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4105
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4105-nomenclature-abbreviations-use-flight-deck
+docidentifier:
+- content: SAE ARP4105
+  type: SAE
+  primary: true
+- content: 10.4271/arp4105
+  type: DOI
+date:
+- type: approved
+  at: '1988-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-7 Flight Deck Handling Qualities Stds for Trans Aircraft
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is intended to establish preferred abbreviations for use on panels, controls, instruments, displays, placards and markings.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The recommendations apply to terms used in the flight deck of transport aircraft. The abbreviations, symbols and codes do not supersede those used in airworthiness regulations or aeronautical charts and documents. Where conflict is possible, the operational context must be such as to resolve any ambiguity. If doubt exists, an alternative abbreviation or less truncated abbreviation should be used.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

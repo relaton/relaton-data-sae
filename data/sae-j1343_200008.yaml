@@ -1,0 +1,58 @@
+---
+id: SAEJ1343_200008
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Information Relating to Duty Cycles and Average Power Requirements of Truck
+    and Bus Engine Accessories
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1343_200008
+- type: src
+  content: https://saemobilus.sae.org/standards/j1343_200008-information-relating-duty-cycles-average-power-requirements-truck-bus-engine-accessories
+docidentifier:
+- content: SAE J1343_200008
+  type: SAE
+  primary: true
+- content: 10.4271/j1343_200008
+  type: DOI
+date:
+- type: approved
+  at: '2000-08-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Powertrain Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report is intended to provide the information to estimate the accessory load of a typical heavy truck or bus. The components covered include: air compressors, alternators, refrigerant compressors, engine cooling fans and power steering pumps. The values show an estimate of the average power requirements and duty cycles for these accessories.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This report does not address loads required for engine operation. Required systems include those needed for engine performance such as fuel pumps and electronic control modules (ECM).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

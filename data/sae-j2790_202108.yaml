@@ -1,0 +1,57 @@
+---
+id: SAEJ2790_202108
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Test Method for Evaluating the Electrical Resistance of Coolant System
+    Hose Covers
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2790_202108
+- type: src
+  content: https://saemobilus.sae.org/standards/j2790_202108-test-method-evaluating-electrical-resistance-coolant-system-hose-covers
+docidentifier:
+- content: SAE J2790_202108
+  type: SAE
+  primary: true
+- content: 10.4271/j2790_202108
+  type: DOI
+date:
+- type: approved
+  at: '2021-08-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Non-Hydraulic Hose Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This test method provides a standardized procedure for evaluating the electrical resistance of automotive coolant hose covers. It is known that an electrical potential exists between the engine and the radiator. Coolant hose cover conductivity has been determined to be a factor to reduce hose clamp life when vehicle build variations allow possible contact of the hose or the clamp to metal components on the radiator and engine thus completing an electrical circuit. The ensuing electrical current can undercut the clamp protective coating, leaving it vulnerable to the corrosive effects of road salts, moisture, and other environmental contaminants. SAE Recommended Practice J1684 addresses the electrochemical resistance of the tube portion of the coolant hose.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

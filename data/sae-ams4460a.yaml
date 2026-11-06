@@ -1,0 +1,58 @@
+---
+id: SAEAMS4460A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Clad Two Sides Sheet 0.6Mg - 0.35Si - 0.28Cu (No. 24 Brazing
+    Sheet) As Fabricated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4460a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4460a-aluminum-alloy-clad-two-sides-sheet-06mg-035si-028cu-no-24-brazing-sheet-fabricated
+docidentifier:
+- content: SAE AMS4460A
+  type: SAE
+  primary: true
+- content: 10.4271/ams4460a
+  type: DOI
+date:
+- type: approved
+  at: '2015-06-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of sheet, clad on two sides.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEARP4868
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Application Programming Interface Requirements for the Presentation of
+    Gas Turbine Engine Performance on Digital Computers
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4868
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4868-application-programming-interface-requirements-presentation-gas-turbine-engine-performance-digital-computers
+docidentifier:
+- content: SAE ARP4868
+  type: SAE
+  primary: true
+- content: 10.4271/arp4868
+  type: DOI
+date:
+- type: approved
+  at: '2001-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-15 Gas Turbine Perf Simulation Nomenclature and Interfaces
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) specifies a set of functions and their expected behavior that constitute an Application Programming Interface (API) for gas turbine engine customer programs. The main body of this document contains a description of each of the API function calls and of the data that passes through these functions. Implementations of this API in specific programming languages are contained in separate appendices. These appendices include language specific details and the definitions for each function as required for the given language.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;AS681 is the parent document of ARP4868. All of AS681 applies to customer engine programs written to conform to this document.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

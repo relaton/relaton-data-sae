@@ -1,0 +1,67 @@
+---
+id: SAEJ2054_200106
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: E/E Diagnostic Data Communications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2054_200106
+- type: src
+  content: https://saemobilus.sae.org/standards/j2054_200106-e-e-diagnostic-data-communications
+docidentifier:
+- content: SAE J2054_200106
+  type: SAE
+  primary: true
+- content: 10.4271/j2054_200106
+  type: DOI
+date:
+- type: approved
+  at: '2001-06-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Information Report describes the diagnostic data communications
+    required for implementation of a set of diagnostic test modes for all electronic
+    systems on the vehicle's serial data link. These test modes can be used by off-board
+    test equipment for both service and assembly plant testing. The goal of this document
+    is to provide standard methods to perform common functions for all electronic
+    systems. This standard set of procedures will aid development, production, and
+    field service of those systems.  Use of the standard data communications in this
+    specification will potentially result in the following benefits:  Common methods
+    and procedures for developers to use, without the need to invent methods to perform
+    these functions; Common programming techniques for system programmers, with increased
+    sharing of software procedures; Common hardware, software and test procedures
+    for assembly plant testing; Common hardware, software and service procedures for
+    service diagnostics across different vehicle manufacturers and systems. This specification
+    includes: Diagnostic Message Formats, Device ID's, Functional descriptions of
+    all diagnostic test modes, Message and response formats for all diagnostic test
+    modes.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

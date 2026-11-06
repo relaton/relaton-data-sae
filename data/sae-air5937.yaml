@@ -1,0 +1,58 @@
+---
+id: SAEAIR5937
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Information on Electric Brakes
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5937
+- type: src
+  content: https://saemobilus.sae.org/standards/air5937-information-electric-brakes
+docidentifier:
+- content: SAE AIR5937
+  type: SAE
+  primary: true
+- content: 10.4271/air5937
+  type: DOI
+date:
+- type: approved
+  at: '2019-02-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5A Wheels, Brakes and Skid Controls Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) describes the design, operation, and attributes of electrical braking systems for both military and commercial aircraft. At this time, the document focuses only on brakes utilizing electromechanical actuators (EMAs), as that is the present state of the art. As such, the discussions herein assume that EMAs can simply replace the hydraulic actuation portion of typical brake system leaving things such as the wheel and heat sink unchanged. Furthermore, the document provides detail information from the perspective of brake system design and operation. The document also addresses failure modes, certification issues, and past development efforts. Details on the design and control of electric motors, gear train design, ball or roller screw selection are available in the reference documents and elsewhere, but are outside the scope of this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Other all-electric technologies such as piezoelectric actuation or more exotic methods of applying drag to a rotating wheel may be included at a later time.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Important: Electric braking systems for aircraft are at the early stages of production implementation. There are also a variety of control schemes that may be used to provide acceptable EMA performance. As a result, many of the details involved in the design of electric brake systems are proprietary or competition sensitive to the brake system OEMs. This AIR attempts to provide a basic technical overview of electric brakes without compromising any particular manufacturer's intellectual property concerns.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

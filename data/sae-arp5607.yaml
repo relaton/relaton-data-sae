@@ -1,0 +1,57 @@
+---
+id: SAEARP5607
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Legibility of Print on Aerospace Wires and Cables
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5607
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5607-legibility-print-aerospace-wires-cables
+docidentifier:
+- content: SAE ARP5607
+  type: SAE
+  primary: true
+- content: 10.4271/arp5607
+  type: DOI
+date:
+- type: approved
+  at: '2002-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8A Elec Wiring and Fiber Optic Interconnect Sys Install
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this report is to provide recommendations for producing legible marks on wire and cable insulations. This information is generic and applies to any type of wire marking system, such as an ultraviolet (UV) laser marking system or an inkjet or other ink based wire marking system. This report is limited to the legibility of human-readable characters and does not address bar code or other machine-readable symbols. In this report, the term wire refers to jacketed cables and fiber optic cables in addition to individual wires.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This report defines the factors that affect the legibility of markings on wiring. Two generic types of variables affect legibility: stimulus variables and environmental variables. Stimulus variables are those factors involving the mark itself. This ARP establishes a set of guidelines for key stimulus variables that contribute to legibility and which should be taken into consideration in the course of specifying and using wire marking equipment.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

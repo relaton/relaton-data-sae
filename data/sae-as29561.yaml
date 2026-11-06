@@ -1,0 +1,48 @@
+---
+id: SAEAS29561
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PACKING, PREFORMED, “O” RING, SYNTHETIC LUBRICANT RESISTANT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as29561
+- type: src
+  content: https://saemobilus.sae.org/standards/as29561-packing-preformed-o-ring-synthetic-lubricant-resistant
+docidentifier:
+- content: SAE AS29561
+  type: SAE
+  primary: true
+- content: 10.4271/as29561
+  type: DOI
+date:
+- type: approved
+  at: '2001-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C Power Generation and Distribution Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAMS6361B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL TUBING, SEAMLESS ROUND 0.95Cr - 0.20Mo (0.28 - 0.33C) (SAE 4130)
+    125,000 psi (860 MPa) Tensile Strength
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6361b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6361b-steel-tubing-seamless-round-095cr-020mo-028-033c-sae-4130-125000-psi-860-mpa-tensile-strength
+docidentifier:
+- content: SAE AMS6361B
+  type: SAE
+  primary: true
+- content: 10.4271/ams6361b
+  type: DOI
+date:
+- type: approved
+  at: '1984-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aircraft-quality, low-alloy steel in the form of round, seamless tubing having a wall thickness not greater than 0.188 in. (4.75 mm).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

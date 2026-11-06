@@ -1,0 +1,56 @@
+---
+id: SAEAMS4150F
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY EXTRUSIONS AND RINGS 1.0Mg - 0.60Si - 0.28Cu - 0.20Cr (6061-T6)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4150f
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4150f-aluminum-alloy-extrusions-rings-10mg-060si-028cu-020cr-6061-t6
+docidentifier:
+- content: SAE AMS4150F
+  type: SAE
+  primary: true
+- content: 10.4271/ams4150f
+  type: DOI
+date:
+- type: approved
+  at: '1974-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of extruded bars, rods, wire, shapes, and tubing and of flash welded rings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

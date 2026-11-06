@@ -1,0 +1,60 @@
+---
+id: SAEAS9003B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Inspection and Test Quality Systems Requirements for Aviation, Space, and
+    Defense Organizations
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9003b
+- type: src
+  content: https://saemobilus.sae.org/standards/as9003b-inspection-test-quality-systems-requirements-aviation-space-defense-organizations
+docidentifier:
+- content: SAE AS9003B
+  type: SAE
+  primary: true
+- content: 10.4271/as9003b
+  type: DOI
+date:
+- type: approved
+  at: '2021-12-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;&lt;i&gt;This standard includes selected quality system requirements from ISO 9001:2008&lt;/i&gt;&lt;/b&gt;&lt;b&gt;&lt;i&gt;&lt;span class="xref"&gt;[1]&lt;/span&gt;&lt;/i&gt;&lt;/b&gt; &lt;b&gt;&lt;i&gt;and AS9100:2009 applicable to noncomplex products and associated manufacturing processes. ISO 9001 text incorporated into this standard appears in standard font; while aviation, space, and defense industry additional requirements, definitions, and notes are presented in bold, italic text.&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;i&gt;&lt;b&gt;The requirements of this standard are intended to be applied in whole, without any exclusions. Compliance with all corresponding AS9100 requirements is considered to meet/exceed compliance with the requirements of this standard.&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;i&gt;&lt;b&gt;The requirements specified in this standard are complementary (not alternative) to contractual and applicable statutory and regulatory requirements. Should there be a conflict between the requirements of this standard and applicable statutory or regulatory requirements, the latter shall take precedence.&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;i&gt;&lt;b&gt;The process approach described in ISO 9001 and AS9100 applies to this standard.&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

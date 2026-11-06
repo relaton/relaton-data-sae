@@ -1,0 +1,51 @@
+---
+id: SAEJ989_196801
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CARBON MONOXIDE CONCENTRATION TEST PROCEDURE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j989_196801
+- type: src
+  content: https://saemobilus.sae.org/standards/j989_196801-carbon-monoxide-concentration-test-procedure
+docidentifier:
+- content: SAE J989_196801
+  type: SAE
+  primary: true
+- content: 10.4271/j989_196801
+  type: DOI
+date:
+- type: approved
+  at: '1968-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Recommended Practice is to provide a uniform standard method of testing to determine the carbon monoxide concentration in the passenger compartment of vehicles to assure that the body design and tailpipe outlet location are not causing undesirable levels of CO under normal vehicle usage. The tests are conducted at idling speed, at 25 mph, and at 70-20 mph deceleration in an outdoor area where there is a minimum amount of environmental CO. This test procedure is to be used to determine self-contamination by CO only (except as noted in the first sentence of paragraph &lt;span class="xref"&gt;4.4&lt;/span&gt;) and is not applicable to measurement of ambient CO in traffic.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

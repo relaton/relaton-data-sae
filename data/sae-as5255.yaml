@@ -1,0 +1,56 @@
+---
+id: SAEAS5255
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Exfoliation Testing of Aluminum
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5255
+- type: src
+  content: https://saemobilus.sae.org/standards/as5255-exfoliation-testing-aluminum
+docidentifier:
+- content: SAE AS5255
+  type: SAE
+  primary: true
+- content: 10.4271/as5255
+  type: DOI
+date:
+- type: approved
+  at: '1997-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-1 Engine Accessory Installations Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;To provide the aerospace industry with guidance standards for aluminum alloy samples which have been exposed to corrosion conditions which promote exfoliation so as to evaluate susceptibility of products to exfoliation corrosion.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

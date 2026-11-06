@@ -1,0 +1,63 @@
+---
+id: SAEAS5385D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Cargo Restraint Straps - Design Criteria and Testing Methods
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5385d
+- type: src
+  content: https://saemobilus.sae.org/standards/as5385d-cargo-restraint-straps-design-criteria-testing-methods
+docidentifier:
+- content: SAE AS5385D
+  type: SAE
+  primary: true
+- content: 10.4271/as5385d
+  type: DOI
+date:
+- type: approved
+  at: '2017-05-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) aims at identifying the design criteria and testing methods adequate to guarantee the ultimate load and operational dependability of cargo restraint strap assemblies with a typical 22250 N (5000 lbf) rated ultimate tension load capability, as used by the airline industry in order to restrain cargo on board civil transport aircraft during flight:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;cargo loaded and tied down onto airworthiness certified air cargo pallets, themselves restrained into aircraft lower deck or main/upper deck cargo systems and meeting the requirements of NAS 3610 or AS36100, or&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;non-unitized individual pieces of cargo, or pieces of, cargo placed onto an unrestrained (“floating”) pallet into either lower deck or main deck containerized cargo compartments of an aircraft.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

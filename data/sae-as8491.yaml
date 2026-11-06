@@ -1,0 +1,55 @@
+---
+id: SAEAS8491
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Application of AMS3144 Anodic Electrodeposition Primer
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8491
+- type: src
+  content: https://saemobilus.sae.org/standards/as8491-application-ams3144-anodic-electrodeposition-primer
+docidentifier:
+- content: SAE AS8491
+  type: SAE
+  primary: true
+- content: 10.4271/as8491
+  type: DOI
+date:
+- type: approved
+  at: '2025-07-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G8 Aerospace Organic Coatings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>&lt;p&gt;This standard establishes the recommended requirements for
+    application of AMS3144 anodic electrodeposition primer to aerospace components.
+    Adherence to these requirements will help facilitate satisfactory performance
+    of the applied primer.&lt;/p&gt;</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

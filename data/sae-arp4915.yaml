@@ -1,0 +1,56 @@
+---
+id: SAEARP4915
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: DISPOSITION OF LANDING GEAR COMPONENTS INVOLVED IN ACCIDENTS/INCIDENTS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4915
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4915-disposition-landing-gear-components-involved-accidents-incidents
+docidentifier:
+- content: SAE ARP4915
+  type: SAE
+  primary: true
+- content: 10.4271/arp4915
+  type: DOI
+date:
+- type: approved
+  at: '1997-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document establishes a procedure for disposition of landing gear components that have been involved in accidents/incidents. The recommendations in this document apply to high heat treat steel components (FTU = 180 ksi and above).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

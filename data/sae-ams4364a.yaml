@@ -1,0 +1,57 @@
+---
+id: SAEAMS4364A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Plate, 7.9Zn - 1.8Cu - 2.0Mg - 0.10Zr (7099-T7651) Solution
+    Heat Treated, Stress Relieved, and Overaged
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4364a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4364a-aluminum-alloy-plate-79zn-18cu-20mg-010zr-7099-t7651-solution-heat-treated-stress-relieved-overaged
+docidentifier:
+- content: SAE AMS4364A
+  type: SAE
+  primary: true
+- content: 10.4271/ams4364a
+  type: DOI
+date:
+- type: approved
+  at: '2021-09-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of plate from 1.000 to 6.000 inches (25.40 to 152.40 mm) in thickness (see &lt;span class="xref"&gt;8.6&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

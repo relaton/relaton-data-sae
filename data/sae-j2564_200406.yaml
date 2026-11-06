@@ -1,0 +1,67 @@
+---
+id: SAEJ2564_200406
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Automotive Stability Enhancement Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2564_200406
+- type: src
+  content: https://saemobilus.sae.org/standards/j2564_200406-automotive-stability-enhancement-systems
+docidentifier:
+- content: SAE J2564_200406
+  type: SAE
+  primary: true
+- content: 10.4271/j2564_200406
+  type: DOI
+date:
+- type: approved
+  at: '2004-06-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Dynamics Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Information Report is to describe currently known automotive active stability enhancement systems, as well as identify common names which can be used to refer to the various systems and common features and functions of the various systems. The primary systems discussed are:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;ABS—Antilock Brake Systems&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;TCS—Traction Control Systems&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;ESC—Electronic Stability Control&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The document is technical in nature and attempts to remain neutral regarding unique features that individual system or vehicle manufacturers may provide.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

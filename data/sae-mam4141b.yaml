@@ -1,0 +1,55 @@
+---
+id: SAEMAM4141B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Die Forgings, 5.6zn 2.5mg 1.6cu 0.23cr Solution and Precipitation
+    Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/mam4141b
+- type: src
+  content: https://saemobilus.sae.org/standards/mam4141b-aluminum-alloy-die-forgings-56zn-25mg-16cu-023cr-solution-precipitation-heat-treated
+docidentifier:
+- content: SAE MAM4141B
+  type: SAE
+  primary: true
+- content: 10.4271/mam4141b
+  type: DOI
+date:
+- type: approved
+  at: '2003-03-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers an aluminum alloy in the form of die forgings
+    and forging stock ordered to metric (SI) units. Primarily for parts requiring
+    good resistance to stress-corrosion cracking but with lower strength than AMS-4139.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

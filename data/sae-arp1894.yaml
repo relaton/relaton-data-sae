@@ -1,0 +1,57 @@
+---
+id: SAEARP1894
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: USEFUL LIFE DETERMINATION CHEMICAL OXYGEN GENERATORS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1894
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1894-useful-life-determination-chemical-oxygen-generators
+docidentifier:
+- content: SAE ARP1894
+  type: SAE
+  primary: true
+- content: 10.4271/arp1894
+  type: DOI
+date:
+- type: approved
+  at: '1987-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides recommended guidelines for a comprehensive program to determine the useful life of chemical oxygen generators where useful life is defined as the sum of shelf and service life.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Further, this document provides for a test program to determine with a sufficient level of confidence if the generators are suitable for further use and/or if the life limit has been reached. This program should include testing of generators of a representative sampling of a given year's production, of a particular part number, to provide a level of confidence sufficient to permit the units to be used for an additional specified time period.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

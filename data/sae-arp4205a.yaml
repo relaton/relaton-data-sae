@@ -1,0 +1,70 @@
+---
+id: SAEARP4205A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hydraulic Filter Elements - Method for Evaluating Dynamic Efficiency with
+    Cyclic Flow
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4205a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4205a-hydraulic-filter-elements-method-evaluating-dynamic-efficiency-cyclic-flow
+docidentifier:
+- content: SAE ARP4205A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4205a
+  type: DOI
+date:
+- type: approved
+  at: '2026-06-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) describes a method for evaluating the performance of filter elements designed for aerospace hydraulic systems. The performance is measured and reported in terms of filtration ratios and stabilized contamination levels while testing with cyclic flow.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

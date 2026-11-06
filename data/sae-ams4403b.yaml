@@ -1,0 +1,57 @@
+---
+id: SAEAMS4403B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Die Forgings 7.5Zn - 1.6Cu - 1.5Mg - 0.12Zr (7085-T7452)
+    Solution Heat Treated, Compression Stress-Relieved, and Overaged
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4403b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4403b-aluminum-alloy-die-forgings-75zn-16cu-15mg-012zr-7085-t7452-solution-heat-treated-compression-stress-relieved-overaged
+docidentifier:
+- content: SAE AMS4403B
+  type: SAE
+  primary: true
+- content: 10.4271/ams4403b
+  type: DOI
+date:
+- type: approved
+  at: '2023-12-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of die forgings 1.000 to 12.000 inches (25 to 305 mm), inclusive, in nominal thickness at the time of heat treatment and of forging stock of any size. (see &lt;span class="xref"&gt;8.5&lt;/span&gt;)&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

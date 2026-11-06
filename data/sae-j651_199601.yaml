@@ -1,0 +1,60 @@
+---
+id: SAEJ651_199601
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PASSENGER CAR AND LIGHT TRUCK AUTOMATIC TRANSMISSION AND AUTOMATIC TRANSAXLE
+    TEST CODE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j651_199601
+- type: src
+  content: https://saemobilus.sae.org/standards/j651_199601-passenger-car-light-truck-automatic-transmission-automatic-transaxle-test-code
+docidentifier:
+- content: SAE J651_199601
+  type: SAE
+  primary: true
+- content: 10.4271/j651_199601
+  type: DOI
+date:
+- type: approved
+  at: '1996-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Automatic Transmission and Transaxle Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;To provide a means of obtaining the performance characteristics of automatic transmissions and automatic transaxles. It outlines dynamometer tests that map the steady-state characteristics over a range of operations of an automatic transmission/automatic transaxle and provides a method of presenting test data. This procedure must be followed, with similar test facilities so that results obtained from different laboratories are comparable.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For this SAE Recommended Practice, the transmission is defined as the complete automatic transmission or transaxle assembly between the engine and the driveshaft(s) used to effect a ratio change in transmitting power.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This test procedure deals with the aspect of conducting complete transmission and transaxle assembly testing. However, by its very nature a transmission should be viewed as a compilation of three major component systems: pump, torque converter, and gearbox (all ratio change elements).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;From a design perspective, it is important that the losses associated with each of these components be determined by conducting separate tests of each component under controlled test conditions that simulate the in-transmission operating conditions. Torque converter testing is described in SAE J643. If done with strict attention to detail it is possible to subtract off the pump and torque converter losses from the transmission assembly losses in order to obtain gearbox losses only, eliminating the need to conduct a separate gearbox test.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

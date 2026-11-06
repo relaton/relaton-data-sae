@@ -1,0 +1,56 @@
+---
+id: SAEJ3077_201512
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Definitions and Data Sources for the Driver Vehicle Interface (DVI)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3077_201512
+- type: src
+  content: https://saemobilus.sae.org/standards/j3077_201512-definitions-data-sources-driver-vehicle-interface-dvi
+docidentifier:
+- content: SAE J3077_201512
+  type: SAE
+  primary: true
+- content: 10.4271/j3077_201512
+  type: DOI
+date:
+- type: approved
+  at: '2015-12-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Driver Vehicle Interface (DVI) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides a summary of the activities to-date of Task Force #1 - Research Foundations – of the SAE’s Driver Vehicle Interface (DVI) committee. More specifically, it establishes working definitions of key DVI concepts, as well as an extensive list of data sources relevant to DVI design and the larger topic of driver distraction.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

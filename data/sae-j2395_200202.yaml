@@ -1,0 +1,56 @@
+---
+id: SAEJ2395_200202
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ITS In-Vehicle Message Priority
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2395_200202
+- type: src
+  content: https://saemobilus.sae.org/standards/j2395_200202-vehicle-message-priority
+docidentifier:
+- content: SAE J2395_200202
+  type: SAE
+  primary: true
+- content: 10.4271/j2395_200202
+  type: DOI
+date:
+- type: approved
+  at: '2002-02-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Driver Vehicle Interface (DVI) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice applies to both Original Equipment Manufacturer (OEM) and aftermarket ITS message-generating systems for passenger vehicles and heavy trucks. The recommended practice describes the method for prioritizing ITS in-vehicle messages and/or displayed information based on a defined set of criteria. Each criterion has a fixed number of levels that are used to rate/rank a given message or information item to determine its prioritization value. The prioritization value is used to determine the priority in which simultaneous, or overlapping, in-vehicle messages are presented to the driver.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,105 @@
+---
+id: SAEJ701_201708
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Truck Tractor Semitrailer Interchange Coupling Dimensions
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j701_201708
+- type: src
+  content: https://saemobilus.sae.org/standards/j701_201708-truck-tractor-semitrailer-interchange-coupling-dimensions
+docidentifier:
+- content: SAE J701_201708
+  type: SAE
+  primary: true
+- content: 10.4271/j701_201708
+  type: DOI
+date:
+- type: approved
+  at: '2017-08-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Total Vehicle Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The information in this SAE Information Report is the result of studies by the Automobile Manufacturers Association, American Trucking Association, and Truck Trailer Manufacturers Association, to achieve interchangeability of equipment which will comply with the legal dimensional limitations for the majority of states and yet permit increased loading space within these dimensions. This in no way supersedes other information in the SAE Handbook on this subject.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Some cases will require more care in application allowing splash shield clearance at trailer support interference points and positioning fifth wheel to allow trailer swing clearance on an 11% grade. All dimensions are given in inches.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Table 1&lt;/span&gt; and &lt;span class="xref"&gt;Figures 1&lt;/span&gt; and &lt;span class="xref"&gt;2&lt;/span&gt; show basic requirements for interchangeability of truck tractor and semitrailer equipment. &lt;span class="xref"&gt;Figure 3&lt;/span&gt; shows the interchangeability of the doubles converter dolly.&lt;/div&gt;
+
+
+
+
+    &lt;div class="htmlview paragraph"&gt;The formulas for determining LWC, OAL and CFW are:&lt;/div&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;where:&lt;/div&gt;
+
+
+    FW
+
+    &lt;div class="htmlview paragraph"&gt;= fifth wheel advance&lt;/div&gt;
+
+    R
+
+    &lt;div class="htmlview paragraph"&gt;= Rear axle tire radius&lt;/div&gt;
+
+    LWC
+
+    &lt;div class="htmlview paragraph"&gt;= 90 in&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;= 64 in (short trailers specifically intended for use with two axle tractors)&lt;/div&gt;
+
+    W
+
+    &lt;div class="htmlview paragraph"&gt;= 96 in&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;= 102 in&lt;/div&gt;
+
+    C
+
+    &lt;div class="htmlview paragraph"&gt;= Clearance, 4 in&lt;/div&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;where:&lt;/div&gt;
+
+
+    H
+
+    &lt;div class="htmlview paragraph"&gt;= Distance from intersection at back of cab and trailer swing radius to top of fifth wheel with zero trailer clearance to first obstruction&lt;/div&gt;
+
+    FWP
+
+    &lt;div class="htmlview paragraph"&gt;= Top face of fifth wheel to centerline of pivot, 3.50 in&lt;/div&gt;
+
+    SR
+
+    &lt;div class="htmlview paragraph"&gt;= Swing radius of trailer corner&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

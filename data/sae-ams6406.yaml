@@ -1,0 +1,48 @@
+---
+id: SAEAMS6406
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL, SHEET AND STRIP 2.1Cr - 1.6Si - 0.55Mo - 0.05V (0.41 - 0.46C)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6406
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6406-steel-sheet-strip-21cr-16si-055mo-005v-041-046c
+docidentifier:
+- content: SAE AMS6406
+  type: SAE
+  primary: true
+- content: 10.4271/ams6406
+  type: DOI
+date:
+- type: approved
+  at: '1960-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

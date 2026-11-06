@@ -1,0 +1,56 @@
+---
+id: SAEAS1248A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Minimum Standard for Gaseous Oxygen Pressure Reducers
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1248a
+- type: src
+  content: https://saemobilus.sae.org/standards/as1248a-minimum-standard-gaseous-oxygen-pressure-reducers
+docidentifier:
+- content: SAE AS1248A
+  type: SAE
+  primary: true
+- content: 10.4271/as1248a
+  type: DOI
+date:
+- type: approved
+  at: '2017-11-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard applies to pressure reducers for gaseous breathing oxygen systems and for all performance profiles without regard to particular inlet or outlet pressures. Attention is given, however, to construction requirements for reducers with maximum supply pressures to 2250 psig (155 bar) and reduced pressures of 50 to 150 psig (3.4 to 10.5 bar).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

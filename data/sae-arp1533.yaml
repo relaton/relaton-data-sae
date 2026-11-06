@@ -1,0 +1,56 @@
+---
+id: SAEARP1533
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Procedure for the Calculation of Gaseous Emissions From Aircraft Turbine
+    Engines (Supersedes By Air1533)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1533
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1533-procedure-calculation-gaseous-emissions-aircraft-turbine-engines-supersedes-air1533
+docidentifier:
+- content: SAE ARP1533
+  type: SAE
+  primary: true
+- content: 10.4271/arp1533
+  type: DOI
+date:
+- type: approved
+  at: '1996-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-31 Aircraft Eng Gas and Particulate Emissions Measurement
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This is a procedure for calculation of gaseous emissions data, specifically, emission index, fuel-air ratio, and combustion efficiency for aircraft turbine engines based on the measurement of carbon monoxide, carbon dioxide, total hydrocarbons, and the oxides of nitrogen. Reference 2.1.1 gives procedures for the measurement of gaseous emissions from aircraft turbine engines.
+
+    This document includes instructions for the adjustment of the  measured concentrations of the constituents of the exhaust for: a. the humidity of the inlet air, b. the carbon dioxide content of the inlet air, c. the interference of carbon dioxide and water on the measured  concentrations of carbon monoxide and the oxides of nitrogen, d. the interference of oxygen on the measured concentration of carbon dioxide, e. the efficiency of the converter for changing other oxides of nitrogen to nitric oxide, and f. the basis of measurement (semidry or wet).</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

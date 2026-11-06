@@ -1,0 +1,58 @@
+---
+id: SAEAS5377A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nut, Self-Locking, 0.7500 thru 1.5000 Thread Sizes, UNS S66286, 160,000
+    psi, 800 °F, UNJ Thread – Procurement Specification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5377a
+- type: src
+  content: https://saemobilus.sae.org/standards/as5377a-nut-self-locking-07500-thru-15000-thread-sizes-uns-s66286-160000-psi-800-f-unj-thread-procurement-specification
+docidentifier:
+- content: SAE AS5377A
+  type: SAE
+  primary: true
+- content: 10.4271/as5377a
+  type: DOI
+date:
+- type: approved
+  at: '2024-02-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes the requirements for self-locking wrenchable nuts with thread sizes 0.7500 thru 1.5000 inches.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The nuts are made of corrosion and heat resistant precipitation hardenable iron base alloy of the type identified under the Unified Numbering System as UNS S66286 and of 160,000 psi axial tensile strength at room temperature, with maximum conditioning temperature of parts at 800 °F.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

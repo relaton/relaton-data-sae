@@ -1,0 +1,57 @@
+---
+id: SAEAIR1189A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Airborne Internal Interface Standards for Moderate Bit Rate Digital Time
+    Division-Multiplex Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1189a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1189a-airborne-internal-interface-standards-moderate-bit-rate-digital-time-division-multiplex-systems
+docidentifier:
+- content: SAE AIR1189A
+  type: SAE
+  primary: true
+- content: 10.4271/air1189a
+  type: DOI
+date:
+- type: approved
+  at: '2006-05-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>All electrical and electronic signals within an aircraft are potential
+    candidates for multiplexing, although the determination of whether or not they
+    are multiplexed is a matter for individual system consideration. However, those
+    signals that are selected for multiplexing preferably should conform to the characteristics
+    included in this AIR.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEJ111326_202112
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electromagnetic Compatibility Measurement Procedure for Vehicle Components
+    - Immunity to AC Power Line Electric Fields
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1113/26_202112
+- type: src
+  content: https://saemobilus.sae.org/standards/j111326_202112-electromagnetic-compatibility-measurement-procedure-vehicle-components-immunity-ac-power-line-electric-fields
+docidentifier:
+- content: SAE J1113/26_202112
+  type: SAE
+  primary: true
+- content: 10.4271/j1113/26_202112
+  type: DOI
+date:
+- type: approved
+  at: '2021-12-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice covers the recommended testing techniques for the determination of electric field immunity of an automotive electronic device when the device and its wiring harness is exposed to a power line electric field. This technique uses a parallel plate field generator and a high voltage, low current voltage source to produce the field.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

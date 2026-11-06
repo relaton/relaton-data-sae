@@ -1,0 +1,56 @@
+---
+id: SAEARP4001
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: LAVATORY SMOKE DETECTORS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4001
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4001-lavatory-smoke-detectors
+docidentifier:
+- content: SAE ARP4001
+  type: SAE
+  primary: true
+- content: 10.4271/arp4001
+  type: DOI
+date:
+- type: approved
+  at: '1990-01-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-9B Cabin Interiors and Furnishings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This ARP is to describe key features for the lavatory smoke detector. Consideration has been given to existing requirements of the FAA, to recommendations of aircraft operators and manufacturers. The ARP is deliberately not specific in all areas in order to maximize potential supplier's freedom to use the state-of-the-art design and manufacturing technologies. Safe, reliable, and effective lavatory smoke detectors remain the primary goal of the ARP.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

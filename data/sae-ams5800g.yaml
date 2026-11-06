@@ -1,0 +1,57 @@
+---
+id: SAEAMS5800G
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nickel Alloy, Corrosion and Heat-Resistant, Welding Wire 54Ni - 19Cr -
+    11Co - 10Mo - 3.2Ti - 1.5Al - 0.006B Vacuum Induction Melted
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5800g
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5800g-nickel-alloy-corrosion-heat-resistant-welding-wire-54ni-19cr-11co-10mo-32ti-15al-0006b-vacuum-induction-melted
+docidentifier:
+- content: SAE AMS5800G
+  type: SAE
+  primary: true
+- content: 10.4271/ams5800g
+  type: DOI
+date:
+- type: approved
+  at: '2018-08-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat-resistant nickel alloy in the form of welding wire.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

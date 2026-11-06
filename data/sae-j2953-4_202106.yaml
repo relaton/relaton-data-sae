@@ -1,0 +1,56 @@
+---
+id: SAEJ29534_202106
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Plug-in Electrical Vehicle Charge Rate Reporting and Test Procedures
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2953/4_202106
+- type: src
+  content: https://saemobilus.sae.org/standards/j29534_202106-plug-electrical-vehicle-charge-rate-reporting-test-procedures
+docidentifier:
+- content: SAE J2953/4_202106
+  type: SAE
+  primary: true
+- content: 10.4271/j2953/4_202106
+  type: DOI
+date:
+- type: approved
+  at: '2021-06-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document facilitates clear and consistent comparisons of realistic charging capabilities of passenger vehicles via commercially available DC EVSE. Common test procedures and metrics are established for both vehicles and EVSEs operating without limitations in nominal conditions. This document does not attempt to address performance variations of EV-EVSE interactions outside of nominal conditions such as extreme temperatures, variable SOCs, and so on.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEAS7114
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: NATIONAL AEROSPACE AND DEFENSE CONTRACTORS ACCREDITATION PROGRAM REQUIREMENTS
+    FOR NONDESTRUCTIVE TESTING
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as7114
+- type: src
+  content: https://saemobilus.sae.org/standards/as7114-national-aerospace-defense-contractors-accreditation-program-requirements-nondestructive-testing
+docidentifier:
+- content: SAE AS7114
+  type: SAE
+  primary: true
+- content: 10.4271/as7114
+  type: DOI
+date:
+- type: approved
+  at: '1997-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Nadcap Management Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Standard (AS) establishes the requirements for suppliers of nondestructive testing (NDT) to be accredited by the National Aerospace and Defense Contractors Accreditation Program (NADCAP) in accordance with the current revision of SAE AS7003. Using the audit checklist and the applicable supplementary checklists will ensure that accredited NDT suppliers meet the requirements of this standard and all applicable supplementary standards.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;When customer requirements differ from those specified herein, the customer requirements shall take precedence.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The NADCAP Nondestructive Testing Task Group recognizes SAE AS7004, SAE AS7106, SAE AS7107 or other quality systems documents approved by the NADCAP NDT Task Group as equivalent to portions of this document as noted in the audit checklist.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

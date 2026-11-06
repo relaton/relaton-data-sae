@@ -1,0 +1,57 @@
+---
+id: SAEAS7997
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Motors, Aircraft Hydraulic, Constant Displacement General Specification
+    For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as7997
+- type: src
+  content: https://saemobilus.sae.org/standards/as7997-motors-aircraft-hydraulic-constant-displacement-general-specification
+docidentifier:
+- content: SAE AS7997
+  type: SAE
+  primary: true
+- content: 10.4271/as7997
+  type: DOI
+date:
+- type: approved
+  at: '1999-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C4 Power Sources Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Specification covers constant displacement hydraulic motors, generally remotely mounted, using hydraulic fluid under pressure as the energy transfer medium for driving various accessories. Hydraulic motors shall be suitable for use in aircraft hydraulic systems conforming to and as defined in MIL-H-5440 and MIL-H-8891 as applicable.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

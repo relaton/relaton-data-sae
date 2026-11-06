@@ -1,0 +1,57 @@
+---
+id: SAEAMS5511J
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Corrosion-Resistant, Sheet, Strip, and Plate 19Cr - 9.5Ni (304L)
+    Solution Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5511j
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5511j-steel-corrosion-resistant-sheet-strip-plate-19cr-95ni-304l-solution-heat-treated
+docidentifier:
+- content: SAE AMS5511J
+  type: SAE
+  primary: true
+- content: 10.4271/ams5511j
+  type: DOI
+date:
+- type: approved
+  at: '2019-03-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion-resistant steel in the form of sheet, strip, and plate 0.005 inch (0.13 mm) and over in nominal thickness (see &lt;span class="xref"&gt;8.4&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

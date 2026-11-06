@@ -1,0 +1,55 @@
+---
+id: SAEJ19_200508
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Latex-Dipped Goods and Coatings for Automotive Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j19_200508
+- type: src
+  content: https://saemobilus.sae.org/standards/j19_200508-latex-dipped-goods-coatings-automotive-applications
+docidentifier:
+- content: SAE J19_200508
+  type: SAE
+  primary: true
+- content: 10.4271/j19_200508
+  type: DOI
+date:
+- type: approved
+  at: '2005-08-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Committee on Automotive Rubber Specs
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>These specifications cover dipped goods and coatings made from compounded latex. Products manufactured from this material include boots, coated clips, coated sponge parts, and coated fabrics for automotive applications.
+
+    The compounds listed in Tables 1 and 2 are grouped into classifications based primarily on physical properties which are prescribed in the tables. These values, together with any additional requirements, indicated by suffix letters in the grade designations as described in Section 3, define the properties of the compounds after vulcanization. These values apply to test specimens obtained from standard laboratory dipped films prepared in accordance with procedures described in the applicable ASTM test methods. Test results from finished products may not duplicate the values obtained from standard test films. When differences due to the difficulty in obtaining suitable test specimens from the finished part arise, the purchaser and the supplier may agree on acceptable deviations. This can be done by comparing results obtained on standard test films with those obtained on actual parts.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

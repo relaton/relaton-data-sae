@@ -1,0 +1,66 @@
+---
+id: SAEJ193977_202511
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SAE J1939 CAN FD Functional Safety Assurance Data
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939-77_202511
+- type: src
+  content: https://saemobilus.sae.org/standards/j1939-77_202511-sae-j1939-fd-functional-safety-assurance-data
+docidentifier:
+- content: SAE J1939-77_202511
+  type: SAE
+  primary: true
+- content: 10.4271/j1939-77_202511
+  type: DOI
+date:
+- type: approved
+  at: '2025-11-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes the functional safety (FuSa) assurance data to be included when communicating safety-related A_PDUs using either the Multi-PG service or the FD Transport service within an SAE J1939-22 protocol stack. It specifies the following:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;The parameters that make up the FuSa assurance information&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;The behavioral requirements when producing and consuming FuSa assurance information&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;The technical requirements for different FuSa profiles intended to meet different application requirements&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;The trailer formats for the different FuSa profiles that can be incorporated into Multi-PG and FD Transport services&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not specify the assignment of a FuSa profile to any values of the TOS and TF fields when using the Multi-PG service, or to any value of the AD TYPE field when using the FD Transport service; instead, SAE J1939-22, or an OEM in the manufacturer-specific ranges of these fields, specifies the assignments for these fields.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

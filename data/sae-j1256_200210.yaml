@@ -1,0 +1,57 @@
+---
+id: SAEJ1256_200210
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fuel Economy Measurement--Road Test Procedure--Cold Start and Warm-Up Fuel
+    Economy
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1256_200210
+- type: src
+  content: https://saemobilus.sae.org/standards/j1256_200210-fuel-economy-measurement-road-test-procedure-cold-start-warm-fuel-economy
+docidentifier:
+- content: SAE J1256_200210
+  type: SAE
+  primary: true
+- content: 10.4271/j1256_200210
+  type: DOI
+date:
+- type: approved
+  at: '2002-10-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Light Duty Vehicle Performance and Economy Measure Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This procedure is a modification of the urban driving cycles noted in SAE J1082 and which is run on a suitable road or test track.  The procedure yields cold start/warm-up fuel economy values indicative of consumer level at the ambient condition of the test.  Within referenced limitations, the procedure can be utilized to determine the fuel economy differential among vehicles or between vehicle changes.
+
+    Purpose
+    This SAE Recommended Practice provides a uniform test procedure for measuring the fuel economy of light-duty vehicles during cold start and warm-up operation (motor vehicles designed primarily for transportation of persons or property and rated at 4500 kg GVW (10 000 lb) or less) on suitable roads.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

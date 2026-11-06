@@ -1,0 +1,56 @@
+---
+id: SAEAMS4182J
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Wire 5.0Mg - 0.12Mn - 0.12Cr (5056-O) Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4182j
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4182j-aluminum-alloy-wire-50mg-012mn-012cr-5056-o-annealed
+docidentifier:
+- content: SAE AMS4182J
+  type: SAE
+  primary: true
+- content: 10.4271/ams4182j
+  type: DOI
+date:
+- type: approved
+  at: '2021-12-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of wire (see &lt;span class="xref"&gt;8.7&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

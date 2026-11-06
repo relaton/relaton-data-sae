@@ -1,0 +1,67 @@
+---
+id: SAEJ880_196311
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BRAKE RATING SYSTEM TEST CODE - COMMERCIAL VEHICLES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j880_196311
+- type: src
+  content: https://saemobilus.sae.org/standards/j880_196311-brake-rating-system-test-code-commercial-vehicles
+docidentifier:
+- content: SAE J880_196311
+  type: SAE
+  primary: true
+- content: 10.4271/j880_196311
+  type: DOI
+date:
+- type: approved
+  at: '1963-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Brake Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The code provides test procedures and instructions for:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Instrumentation and equipment.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Vehicle preparation.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Determining brake system energy absorption capacity.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Calculation of a brake rating.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;The code includes provision for those vehicles, single unit, combinations, or special, which cannot be loaded to the manufacturer's rated gross vehicle weight, cannot be accelerated in the time interval required, or cannot attain the specified 50 mph speed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Methods for measuring energy absorption capacity, other than described herein, may be equally valid.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

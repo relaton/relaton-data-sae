@@ -1,0 +1,49 @@
+---
+id: SAEAMS6324C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS AND FORGINGS 0.65Cr - 0.70Ni - 0.25Mo (0.38 - 0.43C) (SAE 8740
+    Modified)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6324c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6324c-steel-bars-forgings-065cr-070ni-025mo-038-043c-sae-8740-modified
+docidentifier:
+- content: SAE AMS6324C
+  type: SAE
+  primary: true
+- content: 10.4271/ams6324c
+  type: DOI
+date:
+- type: approved
+  at: '1967-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

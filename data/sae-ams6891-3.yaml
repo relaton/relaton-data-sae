@@ -1,0 +1,59 @@
+---
+id: SAEAMS68913
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Carbon Fiber and Fiberglass Epoxy/Prepreg Products with 350 °F (177 °C)
+    Cure for Aerospace Applications: Type 34, Class 4, Grade 294, Style 7781'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6891/3
+- type: src
+  content: https://saemobilus.sae.org/standards/ams68913-carbon-fiber-fiberglass-epoxy-prepreg-products-350-f-177-c-cure-aerospace-applications-type-34-class-4-grade-294-style-7781
+docidentifier:
+- content: SAE AMS6891/3
+  type: SAE
+  primary: true
+- content: 10.4271/ams6891/3
+  type: DOI
+date:
+- type: approved
+  at: '2021-03-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P17 Polymer Matrix Composites Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The intent of this specification is for the procurement of the material listed on the QPL and, therefore, no qualification or equivalency threshold values are provided. Users that intend to conduct a new material qualification or equivalency program must refer to the quality assurance section of this base specification, AMS6891.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

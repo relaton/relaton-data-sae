@@ -1,0 +1,54 @@
+---
+id: SAEARP4737SUP1A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Deicing/Anti-Icing Methods (Supplement 1)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4737sup1a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4737sup1a-aircraft-deicing-anti-icing-methods-supplement-1
+docidentifier:
+- content: SAE ARP4737SUP1A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4737sup1a
+  type: DOI
+date:
+- type: approved
+  at: '2004-01-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12M Methods Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This supplement forms a part of the Aerospace Recommended Practice
+    ARP4737, Aircraft Deicing/Anti-icing Methods.  It shall be used to identify SAE
+    Types I, II and IV fluids holdover time guidelines.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

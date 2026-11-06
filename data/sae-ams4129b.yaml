@@ -1,0 +1,57 @@
+---
+id: SAEAMS4129B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Bars, Rolled Or Cold Finished 1.0mg 0.60si 0.28cu 0.20cr
+    Stress Relief Stretched
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4129b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4129b-aluminum-alloy-bars-rolled-cold-finished-10mg-060si-028cu-020cr-stress-relief-stretched
+docidentifier:
+- content: SAE AMS4129B
+  type: SAE
+  primary: true
+- content: 10.4271/ams4129b
+  type: DOI
+date:
+- type: approved
+  at: '1983-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>SUPERSEDING SPECIFICATION:  The requirements of this specification
+    are embodied in the latest issue of AMS 4117, ALUMINUM ALLOY BARS AND FLASH WELDED
+    RINGS, 1.0Mg - 0.60Si - 0.28Cu - 0.20Cr (6061; -T6 -T651), Solution and Precipitation
+    Heat Treated.  The requirements of the latest issue of AMS 4117 shall be fulfilled
+    whenever reference is made to this specification.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

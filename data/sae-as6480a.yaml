@@ -1,0 +1,48 @@
+---
+id: SAEAS6480A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Tie Down, Cargo, Aircraft, Type C-2
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6480a
+- type: src
+  content: https://saemobilus.sae.org/standards/as6480a-tie-down-cargo-aircraft-type-c-2
+docidentifier:
+- content: SAE AS6480A
+  type: SAE
+  primary: true
+- content: 10.4271/as6480a
+  type: DOI
+date:
+- type: approved
+  at: '2007-06-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

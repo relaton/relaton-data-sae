@@ -1,0 +1,57 @@
+---
+id: SAEJ1737_201908
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Test Procedure to Determine the Hydrocarbon Losses from Fuel Tubes, Hoses,
+    Fittings, and Fuel Line Assemblies by Recirculation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1737_201908
+- type: src
+  content: https://saemobilus.sae.org/standards/j1737_201908-test-procedure-determine-hydrocarbon-losses-fuel-tubes-hoses-fittings-fuel-line-assemblies-recirculation
+docidentifier:
+- content: SAE J1737_201908
+  type: SAE
+  primary: true
+- content: 10.4271/j1737_201908
+  type: DOI
+date:
+- type: approved
+  at: '2019-08-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice is intended for the determination of the losses of hydrocarbon fluids, by permeation through component walls, as well as through "microleaks" at interfaces of assembled components while controlling temperature and pressure independently of each other. This is achieved in a recirculating system in which elements of a test fuel that permeate through the walls of a test specimen and migrate through the interfaces are transported by a controlled flow of dry nitrogen to a point where they are measured. That measurement point is a device, such as a canister containing activated charcoal or other means of collection or accumulation where the hydrocarbon losses are then measured by weight change or analyzed by some other suitable means.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

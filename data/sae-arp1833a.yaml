@@ -1,0 +1,64 @@
+---
+id: SAEARP1833A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Sealing Techniques for Missile Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1833a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1833a-sealing-techniques-missile-applications
+docidentifier:
+- content: SAE ARP1833A
+  type: SAE
+  primary: true
+- content: 10.4271/arp1833a
+  type: DOI
+date:
+- type: approved
+  at: '2008-07-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C2 Seals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this standard is to provide the missile hydraulic and pneumatic component designer with information learned, tested and substantiated in correction of problems and failures experienced with seals that are subject to the unique requirements of missile static storage and subsequent dynamic operational conditions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Missile hydraulic and pneumatic component designers have been handicapped by the absence of concise design criteria for two difficult sealing conditions usually existing in missile applications as follows:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Static pressure condition - Low pressure for long periods in a cyclic temperature environment (i.e., long term storage requirements).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Dynamic pressure condition - High pressures suddenly applied in an extreme temperature environment (i.e., operational firing requirement).&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;Each of the two conditions listed above are frequently required to be satisfied by a single seal in a missile hydraulic or pneumatic component with sealing requirements changing abruptly from the first to the second set of conditions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This design standard is intended to facilitate more nearly optimum designs by presenting specific recommendations in the areas of materials, finishes, configurations and inspection criteria that past experiences show to be desirable and prudent.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

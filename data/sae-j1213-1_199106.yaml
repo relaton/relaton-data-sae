@@ -1,0 +1,60 @@
+---
+id: SAEJ12131_199106
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GLOSSARY OF VEHICLE NETWORKS FOR MULTIPLEXING AND DATA COMMUNICATIONS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1213/1_199106
+- type: src
+  content: https://saemobilus.sae.org/standards/j12131_199106-glossary-vehicle-networks-multiplexing-data-communications
+docidentifier:
+- content: SAE J1213/1_199106
+  type: SAE
+  primary: true
+- content: 10.4271/j1213/1_199106
+  type: DOI
+date:
+- type: approved
+  at: '1991-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Architecture For Data Communications Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report provides definition for terms (words and phrases) which are generally used within the SAE in describing network and data communication issues. In many cases, these definitions are different from those of the same or similar terms found in nonautomotive organizations, such as the Institute of Electrical and Electronic Engineers (IEEE). The Vehicle Networks for Multiplexing and Data Communications committee has found it useful to collect these specific terms and definitions into this document so documents related to the multiplexing and data communications issues will not need an extensive definitions section.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is intended to be the central reference for terms and definitions related to multiplexing and data communications and as such is intended to apply equally to Passenger Car, Truck and Bus, and Construction and Agriculture organizations within SAE. An attempt to use common terms across these applications has been made, so that these organizations can all utilize this glossary.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;As terms are introduced for individual SAE documents, these terms will be considered for incorporation into this glossary. Any SAE document, of course, has the ability to define terms specific to that document which may be different from the definitions herein. However, authors are encouraged to use these terms as defined herein to reduce confusion.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Many of the terms in this revision of the document have been contributed by the related International Standards Organization (ISO) from their document ISO/TC22/SC3/WG1 N310E, dated November 1987.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document shall be periodically reviewed for new terms to be included and possible modifications to the existing definitions. The addition of new terms is probable as the organization further documents Class A and Class C issues.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,69 @@
+---
+id: SAEJ936_196512
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Methods of Residual Stress Measurement
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j936_196512
+- type: src
+  content: https://saemobilus.sae.org/standards/j936_196512-methods-residual-stress-measurement
+docidentifier:
+- content: SAE J936_196512
+  type: SAE
+  primary: true
+- content: 10.4271/j936_196512
+  type: DOI
+date:
+- type: approved
+  at: '1965-12-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This manual has been assembled as a ready reference source for the engineer who must measure residual stresses. Although the literature has abundant information on the individual methods of residual stress measurement, this manual is unique in that most of the useful methods have been selected, described, classified, and compared.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Methods of measuring residual stress may be classified as mechanical, physical, or chemical. Mechanical methods that are most widely used involve the machining of the part to release the residual stresses. These methods are considered in detail and occupy the bulk of this manual.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Of the physical methods, x-ray diffraction has many advantages in solving some residual stress problems. One of the major advantages is that it is completely nondestructive if only surface residual stresses are desired. This method is briefly described and its limitations discussed so that the investigator may choose this method if it fulfills his needs. The method and the necessary techniques have been covered in detail in Ref. 1.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Of the chemical methods, the stress corrosion cracking technique seems to be the most useful. This cracking is known to be dependent upon the surface tensile stress level. At present it is only a qualitative measure of the stress, but perhaps at some future date, quantitative chemical methods may be developed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;To make residual stress measurements, the engineer must:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Select the most appropriate method.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Completely familiarize himself with the theory behind the method chosen.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Learn the techniques of measurement used by previous investigators.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;Note that the word "method" is reserved to mean the individual category of stress analysis, and that "technique" applies to the experimental procedure.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The choice of the method depends to a large extent upon the geometry of the specimen, the precision desired, the type and location of the stress it is desired to measure, and the equipment available. The numerous mechanical methods available are classified into four groups. These are: the parting-out method, the layer removal method, the boring and turning method, and the hole drilling method. The nonmechanical x-ray method is briefly discussed here for comparison.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Once the method has been selected, measurements should not be taken and their values blindly substituted into equations. Each term in the expressions relating the deformation to the residual stress should be completely understood and the sign convention used for these terms should be well known. For this reason, a derivation for each method has been included with the necessary assumptions and limitations. Following a study of these equations, it may be decided whether some automatic or computer technique should be used. In some instances in which a large number of specimens are to be analyzed, the computer technique offers obvious advantages. At this point, it is also necessary to determine the precision with which the stresses are to be determined. This, of course, can be related directly to the precision used in the measurement of the deformation changes and the original dimensions of the specimen itself.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The correct choice of the many and varied techniques for measuring dimensional changes used in the determination of residual stress is extremely important if accurate and reproducible data are to be obtained. Machining stress introduced in dissecting must not be larger or more significant than the stress that is to be measured. The techniques used to remove material are numerous, and some of the better currently used techniques are considered. The specific techniques associated with any particular method are included and special fixtures and procedures are described and sample calculations are given.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

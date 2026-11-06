@@ -1,0 +1,56 @@
+---
+id: SAEJ1213B_198810
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GLOSSARY OF RELIABILITY TERMINOLOGY ASSOCIATED WITH AUTOMOTIVE ELECTRONICS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1213b_198810
+- type: src
+  content: https://saemobilus.sae.org/standards/j1213b_198810-glossary-reliability-terminology-associated-automotive-electronics
+docidentifier:
+- content: SAE J1213B_198810
+  type: SAE
+  primary: true
+- content: 10.4271/j1213b_198810
+  type: DOI
+date:
+- type: approved
+  at: '1988-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Architecture For Data Communications Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This compilation of terms, acronyms and symbols was drawn from usage which should be familiar to those working in automotive electronics reliability. Terms are included which are used to describe how items, materials and systems are evaluated for reliability, how they fail, how failures are modeled and how failures are prevented. Terms are also included from the disciplines of designing for reliability, testing and failure analysis as well as the general disciplines of Quality and Reliability Engineering. This glossary is intended to augment SAE J1213, Glossary of Automotive Electronic Terms.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

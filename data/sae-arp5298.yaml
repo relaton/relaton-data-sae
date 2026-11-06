@@ -1,0 +1,58 @@
+---
+id: SAEARP5298
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Fueling Adapter Wear Limits
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5298
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5298-aircraft-fueling-adapter-wear-limits
+docidentifier:
+- content: SAE ARP5298
+  type: SAE
+  primary: true
+- content: 10.4271/arp5298
+  type: DOI
+date:
+- type: approved
+  at: '2019-05-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5C Aviation Ground Fueling Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) defines the wear limits allowed on certain features of Pressure Fuel Servicing Adapters which are crucial for safe interfacing of Pressure Fuel Servicing Nozzles and Pressure Caps. Wear limits as described herein represent the maximum amount of wear on certain features of the Adapter beyond which use of the Adapter for these purposes may contribute to an unsafe condition. Such wear is the result of the normal use of the Adapter for aircraft refueling and also, in some cases, for Nozzle stowage on refueling vehicles.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

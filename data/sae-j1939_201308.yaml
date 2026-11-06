@@ -1,0 +1,60 @@
+---
+id: SAEJ1939_201308
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Serial Control and Communications Heavy Duty Vehicle Network - Top Level
+    Document
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939_201308
+- type: src
+  content: https://saemobilus.sae.org/standards/j1939_201308-serial-control-communications-heavy-duty-vehicle-network-top-level-document
+docidentifier:
+- content: SAE J1939_201308
+  type: SAE
+  primary: true
+- content: 10.4271/j1939_201308
+  type: DOI
+date:
+- type: approved
+  at: '2013-08-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This top level document provides a general overview of the SAE J1939 network and describes the subordinate document structure. This document includes definitions of terms and abbreviations which are used among the various SAE J1939 subordinate documents.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The SAE J1939DA Digital Annex spreadsheet replaces the Appendices of this document for the publication of the list of all SPN assignments, PGN assignments, NAME Function assignments, Manufacturer Code assignments, and Preferred Address assignments. This document has been updated to reflect the change to discontinue publishing the content of &lt;span class="xref"&gt;Table A2&lt;/span&gt;, &lt;span class="xref"&gt;Tables B1&lt;/span&gt; through &lt;span class="xref"&gt;B12&lt;/span&gt;, and &lt;span class="xref"&gt;Table C1&lt;/span&gt; in &lt;span class="xref"&gt;Appendix A&lt;/span&gt;, &lt;span class="xref"&gt;Appendix B&lt;/span&gt;, and &lt;span class="xref"&gt;Appendix C&lt;/span&gt;; instead, this content is now published in the SAE J1939DA Digital Annex spreadsheet.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

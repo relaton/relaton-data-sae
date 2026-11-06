@@ -1,0 +1,48 @@
+---
+id: SAECMB6_2
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Configuration and Data Management In-House Training Plan
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/cmb6_2
+- type: src
+  content: https://saemobilus.sae.org/standards/cmb6_2-configuration-data-management-house-training-plan
+docidentifier:
+- content: SAE CMB6-2
+  type: SAE
+  primary: true
+- content: 10.4271/cmb6_2
+  type: DOI
+date:
+- type: approved
+  at: '2014-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-33 Configuration Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

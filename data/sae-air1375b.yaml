@@ -1,0 +1,57 @@
+---
+id: SAEAIR1375B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MINIMUM SAFETY REQUIREMENTS FOR SPECIAL PURPOSE AIRLINE GROUND SUPPORT
+    EQUIPMENT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1375b
+- type: src
+  content: https://saemobilus.sae.org/standards/air1375b-minimum-safety-requirements-special-purpose-airline-ground-support-equipment
+docidentifier:
+- content: SAE AIR1375B
+  type: SAE
+  primary: true
+- content: 10.4271/air1375b
+  type: DOI
+date:
+- type: approved
+  at: '1998-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document applies to special purpose equipment, excluding fixed facilities, which is used in the ground handling, servicing, and maintenance of aircraft. Equipment covered under other sections of the Federal Register Part 1910 is excluded from this document. This document is to establish minimum safety requirements and should not be used for vehicle design criteria. Equipment existing prior to publication date is excluded from the requirements of this document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

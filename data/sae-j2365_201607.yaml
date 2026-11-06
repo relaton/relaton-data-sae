@@ -1,0 +1,57 @@
+---
+id: SAEJ2365_201607
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Calculation and Measurement of the Time to Complete In-Vehicle Navigation
+    and Route Guidance Tasks
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2365_201607
+- type: src
+  content: https://saemobilus.sae.org/standards/j2365_201607-calculation-measurement-time-complete-vehicle-navigation-route-guidance-tasks
+docidentifier:
+- content: SAE J2365_201607
+  type: SAE
+  primary: true
+- content: 10.4271/j2365_201607
+  type: DOI
+date:
+- type: approved
+  at: '2016-07-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Driver Metrics, Performance, Behaviors and States Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Recommended Practice can apply to both Original Equipment Manufacturer and Aftermarket route-guidance and navigation system functions for passenger vehicles. The methods apply only to the presentation of visual information and the use of manual control inputs to accomplish a navigation or route guidance task. They do not apply to visual monitoring tasks which do not require a manual control input, such as route following. Voice-activated controls or passenger operation of controls are also excluded.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

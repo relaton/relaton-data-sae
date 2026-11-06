@@ -1,0 +1,71 @@
+---
+id: SAEARP5560A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Safety Considerations for High-Intensity Lights (HIL) Directed into the
+    Navigable Airspace
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5560a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5560a-safety-considerations-high-intensity-lights-hil-directed-navigable-airspace
+docidentifier:
+- content: SAE ARP5560A
+  type: SAE
+  primary: true
+- content: 10.4271/arp5560a
+  type: DOI
+date:
+- type: approved
+  at: '2026-06-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10T Laser Safety Hazards Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document applies to regulatory/approving authorities involved with decisions regarding the use of high-intensity light (HIL) directed into the navigable airspace. For the purpose of this document, lights greater than 0.25 million candlepower meet the minimum threshold of an HIL. Lights not directed or reflected into the navigable airspace are not usually considered to interfere with aircraft operations. HILs include laser-derived light sources; other laser systems are beyond the scope of this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document addresses adverse effects of HILs on humans, such as visual interference. HIL effects on Unmanned Aircraft Systems (UASs) are beyond the scope of this document.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

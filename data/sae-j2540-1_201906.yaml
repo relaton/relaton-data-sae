@@ -1,0 +1,58 @@
+---
+id: SAEJ25401_201906
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: RDS Phrase Lists
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2540/1_201906
+- type: src
+  content: https://saemobilus.sae.org/standards/j25401_201906-rds-phrase-lists
+docidentifier:
+- content: SAE J2540/1_201906
+  type: SAE
+  primary: true
+- content: 10.4271/j2540/1_201906
+  type: DOI
+date:
+- type: approved
+  at: '2019-06-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Core Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard provides a table of textual messages meeting the requirements for expressing “Radio Data Systems” (RDS) phrases commonly used in the ITS industry. They can be used both over the RDS subcarrier transmission media as part of a 37-bit long “Group 8a message” as well as being used to provide a common content list of phrases used in a wide number of other media and applications.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document SHALL define the normative index values to be used, extending the CEN established list to provide phrases needed by US practitioners. This standard provides non-normative textual phrases which MAY be used by implementers to ensure intelligible results. This document SHALL follow the formats and rules established in SAE J2540 in the expressions, manipulations, and use of such tables.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It should be pointed out that within the rules established by this document a variety of final table are all considered “compliant” with the document, and may vary as fits the needs of implementers.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

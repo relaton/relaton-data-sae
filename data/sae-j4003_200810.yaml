@@ -1,0 +1,59 @@
+---
+id: SAEJ4003_200810
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: H-Point Machine (HPM-II)—Procedure for H-Point Determination—Benchmarking
+    Vehicle Seats
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j4003_200810
+- type: src
+  content: https://saemobilus.sae.org/standards/j4003_200810-h-point-machine-hpm-ii-procedure-h-point-determination-benchmarking-vehicle-seats
+docidentifier:
+- content: SAE J4003_200810
+  type: SAE
+  primary: true
+- content: 10.4271/j4003_200810
+  type: DOI
+date:
+- type: approved
+  at: '2008-10-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Human Accom and Design Devices Stds Comm
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Benchmarking is used to discover the design intent measurements for seating compartments in vehicles when these measurements are either unknown or are specified using differing measurement procedures.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document provides the specifications and procedures to establish consistent measurements for benchmarking vehicle seating positions using the H-Point Machine (HPM-II&lt;span class="xref"&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/span&gt;) described in SAE J4002 and the H-Point Design tool (HPD) described in SAE J4004. The HPM-II is a physical tool used to establish key reference points and measurements in a vehicle (&lt;span class="xref"&gt;Figure 1&lt;/span&gt;). The HPD is a CAD tool that aids in the benchmarking process (see Appendix A and SAE J4004).&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

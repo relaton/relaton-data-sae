@@ -1,0 +1,68 @@
+---
+id: SAEJ3018_201503
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guidelines for Safe On-Road Testing of SAE Level 3, 4, and 5 Prototype
+    Automated Driving Systems (ADS)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3018_201503
+- type: src
+  content: https://saemobilus.sae.org/standards/j3018_201503-guidelines-safe-road-testing-sae-level-3-4-5-prototype-automated-driving-systems-ads
+docidentifier:
+- content: SAE J3018_201503
+  type: SAE
+  primary: true
+- content: 10.4271/j3018_201503
+  type: DOI
+date:
+- type: approved
+  at: '2015-03-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: On-Road Automated Driving (ORAD) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides guidelines for the safe conduct of on-road tests of vehicles equipped with prototype conditional, high, and full (levels 3-5) &lt;i&gt;automated driving systems&lt;/i&gt; (&lt;i&gt;ADSs&lt;/i&gt;), as defined by SAE J3016. It does not include guidance for testing production &lt;i&gt;ADS&lt;/i&gt;s intended for sale to the general public. The scope is further limited to testing of automated prototype vehicles on public roads.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These guidelines do not address:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Testing of driver assist (Level 1) or partial (Level 2) automation systems, which rely on a &lt;i&gt;human driver&lt;/i&gt; to &lt;i&gt;monitor&lt;/i&gt; the environment. (See SAE J3016 for Definitions of Levels of Automated Systems.)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Closed-course testing.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Component-level testing.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;The precise regime of road testing for a particular prototype will depend on the intended level of automation and the targeted capabilities of the prototype (see SAE J3016 for more information).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A prototype suitable for testing on public roadways is presumed to have already passed laboratory and/or closed-course testing, which are not addressed by this document.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

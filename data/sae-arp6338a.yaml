@@ -1,0 +1,58 @@
+---
+id: SAEARP6338A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Process for Assessment and Mitigation of Early Wearout of Life-Limited
+    Microcircuits
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6338a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6338a-process-assessment-mitigation-early-wearout-life-limited-microcircuits
+docidentifier:
+- content: SAE ARP6338A
+  type: SAE
+  primary: true
+- content: 10.4271/arp6338a
+  type: DOI
+date:
+- type: approved
+  at: '2019-02-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: APMC Avionics Process Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is intended for use by designers, reliability engineers, and others associated with the design, production, and support of electronic sub-assemblies, assemblies, and equipment used in AADHP applications to conduct lifetime assessments of microcircuits with the potential for early wearout; and to implement mitigations when required; and by the users of the AADHP equipment to assess those designs and mitigations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document focuses on the LLM wearout assessment process. It acknowledges that the AADHP system design process also includes related risk mitigation and management; however, this document includes only high-level reference and discussion of those topics, in order to show their relationship to the LLM assessment process.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEJ1939_201104
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Serial Control and Communications Heavy Duty Vehicle Network - Top Level
+    Document
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939_201104
+- type: src
+  content: https://saemobilus.sae.org/standards/j1939_201104-serial-control-communications-heavy-duty-vehicle-network-top-level-document
+docidentifier:
+- content: SAE J1939_201104
+  type: SAE
+  primary: true
+- content: 10.4271/j1939_201104
+  type: DOI
+date:
+- type: approved
+  at: '2011-04-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This top level document describes the network in general, the OSI layering structure, the subordinate document structure, and provides control for all preassigned values and names. The Appendices of this document lists all SPN assignments, PGN assignments, NAME Function assignments, Manufacturer Code assignments, and Preferred Address assignments. All SPN and PGN assignments are listed in this document even though the complete definition details might be recorded in another standard. The SPN and PGN listings in this document identify the standard document that either contains the definition details or is associated with the identifier.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

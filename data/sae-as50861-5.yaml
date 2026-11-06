@@ -1,0 +1,49 @@
+---
+id: SAEAS508615
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Wire, Electrical, Polyvinyl Chloride Insulated, Polyvinylidene Fluoride
+    Jacket, Tin-Coated Copper Conductor, 600-Volt, 110°C
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as50861/5
+- type: src
+  content: https://saemobilus.sae.org/standards/as508615-wire-electrical-polyvinyl-chloride-insulated-polyvinylidene-fluoride-jacket-tin-coated-copper-conductor-600-volt-110c
+docidentifier:
+- content: SAE AS50861/5
+  type: SAE
+  primary: true
+- content: 10.4271/as50861/5
+  type: DOI
+date:
+- type: approved
+  at: '2012-12-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8D Wire and Cable Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

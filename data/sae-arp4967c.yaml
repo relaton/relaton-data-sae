@@ -1,0 +1,58 @@
+---
+id: SAEARP4967C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Night Vision Imaging Systems (NVIS) Integrally Illuminated Information
+    Panels
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4967c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4967c-night-vision-imaging-systems-nvis-integrally-illuminated-information-panels
+docidentifier:
+- content: SAE ARP4967C
+  type: SAE
+  primary: true
+- content: 10.4271/arp4967c
+  type: DOI
+date:
+- type: approved
+  at: '2023-08-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20A Crew Station Lighting
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is intended to highlight critical design issues that a panel designer should understand when designing panels for NVIS applications. It is not intended to be a discussion of the benefits of one lighting technology versus another. Refer to ARP4168 for a more complete discussion of these lighting technologies.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

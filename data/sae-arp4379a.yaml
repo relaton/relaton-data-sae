@@ -1,0 +1,62 @@
+---
+id: SAEARP4379A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace - Accumulator, Hydraulic, Cylindrical, Piston Separated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4379a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4379a-aerospace-accumulator-hydraulic-cylindrical-piston-separated
+docidentifier:
+- content: SAE ARP4379A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4379a
+  type: DOI
+date:
+- type: approved
+  at: '2007-11-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C4 Power Sources Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) is intended as a guide in defining the requirements for aerospace piston separated hydraulic accumulators, including details pertinent to the design, fabrication, and performance of the accumulator. This type of accumulator has a piston separator and contains both high-pressure gas and fluid. The accumulator is used in aerospace hydraulic systems of the following types as defined in AS5440 with design operating pressures of up to 8000 psi (55,160 kPa).&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Type I: -65 to +160 °F (-54 to +71 °C) fluid temperature&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Type II: -65 to +275 °F (-54 to +135 °C) fluid temperature&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;For commercial aerospace or helicopter applications, the information and guidelines of ARP4752 or ARP4925 respectively, are considered.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

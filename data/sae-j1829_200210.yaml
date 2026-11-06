@@ -1,0 +1,58 @@
+---
+id: SAEJ1829_200210
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Stoichiometric Air-Fuel Ratios of Automotive Fuels
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1829_200210
+- type: src
+  content: https://saemobilus.sae.org/standards/j1829_200210-stoichiometric-air-fuel-ratios-automotive-fuels
+docidentifier:
+- content: SAE J1829_200210
+  type: SAE
+  primary: true
+- content: 10.4271/j1829_200210
+  type: DOI
+date:
+- type: approved
+  at: '2002-10-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuels and Lubricants TC 7 Fuels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The mass of air required to burn a unit mass of fuel with no excess of oxygen or fuel left over is known as the stoichiometric air-fuel ratio. This ratio varies appreciably over the wide range of fuels—gasolines, diesel fuels, and alternative fuels—that might be considered for use in automotive engines.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Although performance of engines operating on different fuels may be compared at the same air-fuel ratio or same fuel-air ratio, it is more appropriate to compare operation at the same equivalence ratio, for which a knowledge of stoichiometric air-fuel ratio is a prerequisite.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice summarizes the computation of stoichiometric air-fuel ratios from a knowledge of a composition of air and the elemental composition of the fuel without a need for any information on the molecular weight of the fuel.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

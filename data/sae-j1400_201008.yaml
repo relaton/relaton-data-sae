@@ -1,0 +1,58 @@
+---
+id: SAEJ1400_201008
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Laboratory Measurement of the Airborne Sound Barrier Performance of Flat
+    Materials and Assemblies
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1400_201008
+- type: src
+  content: https://saemobilus.sae.org/standards/j1400_201008-laboratory-measurement-airborne-sound-barrier-performance-flat-materials-assemblies
+docidentifier:
+- content: SAE J1400_201008
+  type: SAE
+  primary: true
+- content: 10.4271/j1400_201008
+  type: DOI
+date:
+- type: approved
+  at: '2010-08-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Acoustical Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice presents a test procedure for determining the airborne sound insulation performance of materials and composite layers of materials commonly found in mobility, industrial and commercial products under conditions of representative size and sound incidence so as to allow better correlation with in-use sound insulator performance. The frequency range of interest is typically 125 to 8000 Hz 1/3 octave band center frequencies.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This test method is designed for testing flat samples, although in some applications the methodology can be extended to evaluate formed parts, pass-throughs, or other assemblies to determine their acoustical properties. For non-flat parts or assemblies where transmitted sound varies strongly across the test sample surface, a more appropriate methodology would be ASTM E90 (with a reverberant receiving chamber) or ASTM E 2249 (intensity method with an anechoic or hemi-anechoic receiving chamber).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

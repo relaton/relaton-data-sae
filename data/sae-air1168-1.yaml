@@ -1,0 +1,58 @@
+---
+id: SAEAIR11681
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Thermodynamics of Incompressible and Compressible Fluid Flow
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1168/1
+- type: src
+  content: https://saemobilus.sae.org/standards/air11681-thermodynamics-incompressible-compressible-fluid-flow
+docidentifier:
+- content: SAE AIR1168/1
+  type: SAE
+  primary: true
+- content: 10.4271/air1168/1
+  type: DOI
+date:
+- type: approved
+  at: '2011-06-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The fluid flow treated in this section is isothermal, subsonic, and incompressible. The effects of heat addition, work on the fluid, variation in sonic velocity, and changes in elevation are neglected. An incompressible fluid is one in which a change in pressure causes no resulting change in fluid density. The assumption that liquids are incompressible introduces no appreciable error in calculations, but the assumption that a gas is incompressible introduces an error of a magnitude that is dependent on the fluid velocity and on the loss coefficient of the particular duct section or piece of equipment. &lt;span class="xref"&gt;Fig. 1A-1&lt;/span&gt; shows the error in pressure drop resulting from assuming that air is incompressible.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;With reasonably small loss coefficients and the accuracy that is usually required in most calculations, compressible fluids may be treated as incompressible for velocities less than Mach 0.2. At higher velocities and for large loss coefficients (&lt;i&gt;K&lt;/i&gt;&lt;sub&gt;&lt;i&gt;t&lt;/i&gt;&lt;/sub&gt; and 4&lt;i&gt;fL&lt;/i&gt;/&lt;i&gt;D&lt;/i&gt;), compressible flow analysis should be used.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

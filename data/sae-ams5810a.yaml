@@ -1,0 +1,58 @@
+---
+id: SAEAMS5810A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Corrosion and Heat Resistant, Flat Wire 15Cr - 25.5Ni - 1.2Mo -
+    2.1Ti - 0.006B - 0.30V 1800 °F (982 °C) Solution Treated, Cold Drawn or Cold Rolled
+    and Aged, Consumable Electrode Melted
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5810a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5810a-steel-corrosion-heat-resistant-flat-wire-15cr-255ni-12mo-21ti-0006b-030v-1800-f-982-c-solution-treated-cold-drawn-cold-rolled-aged-consumable-electrode-melted
+docidentifier:
+- content: SAE AMS5810A
+  type: SAE
+  primary: true
+- content: 10.4271/ams5810a
+  type: DOI
+date:
+- type: approved
+  at: '2006-04-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat resistant steel in the form of flat wire.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,60 @@
+---
+id: SAEAIR1823A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Engineering Analysis System (EASY) Computer Program for Dynamic Analysis
+    of Aircraft ECS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1823a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1823a-engineering-analysis-system-easy-computer-program-dynamic-analysis-aircraft-ecs
+docidentifier:
+- content: SAE AIR1823A
+  type: SAE
+  primary: true
+- content: 10.4271/air1823a
+  type: DOI
+date:
+- type: approved
+  at: '2003-10-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The Engineering Analysis SYstem (EASY) computer program is summarized in this report. It provides techniques for analysis of steady-state and dynamic (transient) environmental control system (ECS) performance, control system stability, and for synthesis of optimal ECS.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;General uses of a transient analysis computer program for ECS design and development, and general features of EASY relative to these uses, are presented. This report summarizes the nine analysis options of EASY, EASY program organization for analyzing ECS, data input to the program and resulting data output, and a discussion of EASY limitations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Appendices provide general definitions for dynamic analysis, and samples of input and output for EASY.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

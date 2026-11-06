@@ -1,0 +1,64 @@
+---
+id: SAEJ171_200012
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Measurement of Fuel Evaporative Emissions from Gasoline Powered Passenger
+    Carsand Light Trucks Using the Enclosure Technique
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j171_200012
+- type: src
+  content: https://saemobilus.sae.org/standards/j171_200012-measurement-fuel-evaporative-emissions-gasoline-powered-passenger-carsand-light-trucks-using-enclosure-technique
+docidentifier:
+- content: SAE J171_200012
+  type: SAE
+  primary: true
+- content: 10.4271/j171_200012
+  type: DOI
+date:
+- type: approved
+  at: '2000-12-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: SAE IC Powertrain Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This SAE Recommended Practice describes a procedure for measuring evaporative emissions from fuel systems of passenger cars and light trucks.  Emissions are measured during a sequence of laboratory tests that simulate typical vehicle usage in a metropolitan area during summer months:
+
+    a.  A 1 h soak representing one diurnal cycle in which temperature of fuel in the vehicle's tank is raised from 15.6 to 28.9 °C (60 to 84 °F)
+    b.  A 17.9 km (11.1 mile) drive on a chassis dynamometer
+    c.  A 1 h hot soak immediately following the 17.9 km (11.1 mile) drive
+
+    The method described in this document, commonly known as the SHED (Sealed Housing for Evaporative Determination) technique, employs an enclosure in which the vehicle is placed during the diurnal and hot soak phases of the test.  Vapors that escape from all openings in the fuel system--both expected and unexpected--are retained in the enclosure, and the increase in hydrocarbon (HC) concentration of the atmosphere in the enclosure represents the evaporative emissions.  Emission values measured by the enclosure method can, therefore, be significantly different than those obtained by the former trap method, depending on fuel system configuration and component design.
+
+    The test sequence and methods for measuring emissions are applicable to vehicles either with or without systems or devices to control fuel evaporative emissions.  Although they have been used successfully with a wide range of vehicles equipped with a variety of control devices, they should not be applied indiscriminately to new or unique vehicles or fuel systems.  For example, based on experience that temperature excursions of the fuel tank in parked vehicles follow those of ambient air, the test sequence prescribes heating of the fuel tank to simulate a diurnal soak.  Any control system designed to alter the relation between fuel and ambient temperatures will not be properly evaluated in the test sequences prescribed.
+
+    This document is intended as a guide toward standard</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

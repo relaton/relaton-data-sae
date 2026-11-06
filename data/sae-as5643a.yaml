@@ -1,0 +1,62 @@
+---
+id: SAEAS5643A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: IEEE-1394b Interface Requirements for Military and Aerospace Vehicle Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5643a
+- type: src
+  content: https://saemobilus.sae.org/standards/as5643a-ieee-1394b-interface-requirements-military-aerospace-vehicle-applications
+docidentifier:
+- content: SAE AS5643A
+  type: SAE
+  primary: true
+- content: 10.4271/as5643a
+  type: DOI
+date:
+- type: approved
+  at: '2013-04-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) establishes the requirements for the use of IEEE-1394b as a data bus network in military and aerospace vehicles. It defines the concept of operations and information flow on the network. As discussed in &lt;span class="xref"&gt;1.4&lt;/span&gt;, this specification contains extensions/restrictions to “off-the-shelf” IEEE-1394 standards, and assumes that the reader already has a working knowledge of IEEE-1394.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is referred to as the “base” specification, containing the generic requirements that specify data bus characteristics, data formats and node operation. It is important to note that this specification is not stand-alone - several requirements provide only example implementations and delegate the actual implementation to be specified by the network architect/integrator for a particular vehicle application. This information is typically contained in a “network profile” slash sheet that is subservient to this base specification. In a similar manner, the electrical characteristics of the bus media, as well as connector information is contained in a “physical layer” slash sheet, that also may be unique to a particular vehicle application.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In summary, full understanding of this specification requires knowledge of IEEE-1394b standards and access to the physical layer slash sheets and the slash sheets and handbook for the target application.&lt;/div&gt;
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

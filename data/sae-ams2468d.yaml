@@ -1,0 +1,54 @@
+---
+id: SAEAMS2468D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hard Anodic Coating Treatment of Aluminum Alloys
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2468d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2468d-hard-anodic-coating-treatment-aluminum-alloys
+docidentifier:
+- content: SAE AMS2468D
+  type: SAE
+  primary: true
+- content: 10.4271/ams2468d
+  type: DOI
+date:
+- type: approved
+  at: '1991-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This specification establishes the engineering requirements for producing a hard coating on aluminum alloys and the properties of such coating.&lt;/p&gt;
+    &lt;p&gt;This coating has been used typically to increase, by the formation of a dense aluminum oxide, surface hardness and resistance to abrasion and corrosion of aluminum-alloy parts containing, in general, less than 6% copper or 8% silicon or a total of 8% of both, but usage is not limited to such applications. Alloys with higher silicon content alone can be coated satisfactorily with proper precautions in processing. Careful consideration should be given to the use of this process on highly-stressed parts because of the resultant marked lowering of fatigue performance and on parts with sharp corners and edges where chipping may result.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

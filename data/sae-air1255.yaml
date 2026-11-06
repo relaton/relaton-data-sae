@@ -1,0 +1,56 @@
+---
+id: SAEAIR1255
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Spectrum Analyzers for Electromagnetic Interference Measurements
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1255
+- type: src
+  content: https://saemobilus.sae.org/standards/air1255-spectrum-analyzers-electromagnetic-interference-measurements
+docidentifier:
+- content: SAE AIR1255
+  type: SAE
+  primary: true
+- content: 10.4271/air1255
+  type: DOI
+date:
+- type: approved
+  at: '2024-05-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-4 Electromagnetic Compatibility (EMC) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AIR was prepared to inform the aerospace industry about the electromagnetic interference measurement capability of spectrum analyzers. The spectrum analyzers considered are of the wide dispersion type which are electronically tuned over an octave or wider frequency range. The reason for limiting the AIR to this type of spectrum analyzer is that several manufacturers produce them as general-purpose instruments, and their use for EMI measurement will give significant time and cost savings. The objective of the AIR is to give a description of the spectrum analyzers, consider the analyzer parameters, and describe how the analyzers are usable for collection of EMI data. The operator of a spectrum analyzer should be thoroughly familiar with the analyzer and the technical concepts reviewed in this AIR before performing EMI measurements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

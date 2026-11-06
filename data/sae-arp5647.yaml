@@ -1,0 +1,57 @@
+---
+id: SAEARP5647
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: High Intensity Discharge Light Sources
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5647
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5647-high-intensity-discharge-light-sources
+docidentifier:
+- content: SAE ARP5647
+  type: SAE
+  primary: true
+- content: 10.4271/arp5647
+  type: DOI
+date:
+- type: approved
+  at: '2006-02-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20B Exterior Lighting Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommend Practice (ARP) is intended to recommend safety related best practices when using metal halides high intensity discharge (HID) lamps and power supplies in aircraft applications.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

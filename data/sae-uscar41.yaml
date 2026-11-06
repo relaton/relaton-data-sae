@@ -1,0 +1,59 @@
+---
+id: SAEUSCAR41
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Ergonomic Guidelines for Carts and Dollies
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar41
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar41-ergonomic-guidelines-carts-dollies
+docidentifier:
+- content: SAE USCAR-41
+  type: SAE
+  primary: true
+- content: 10.4271/uscar41
+  type: DOI
+date:
+- type: approved
+  at: '2015-03-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes the assessment methods and physical requirements associated with the manual handling of carts and dollies, specific to material handling systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;All possible designs and applications could not be anticipated in creating these guidelines. Where there are questions of adherence to this document, such as use of an “off-the shelf” design, always consult the responsible Ergonomics Department.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Force guidelines were primarily developed referencing the push/pull psychophysical Snook data contained in &lt;i&gt;A Guide to Manual Materials Handling&lt;/i&gt; (second edition) by Mital, Nicholson and Ayoub (NY: Taylor &amp;amp; Francis, 1997). The force guidelines accommodate 75% of female capabilities and 99% of male capabilities.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Factors that were included in the established guideline include: push / pull distances, vertical hand height, horizontal hand height, frequency and wheel / castor alignment and load rating. These factors were used to develop a conservative force guideline. The guidelines assume frequent handling of carts / dollies (handling frequency greater than once per minute) throughout a work shift. For carts that exceed the force guidelines and do not align with the assumptions utilized to determine the guidelines within the document, please contact the appropriate Ergonomic Subject Matter Expert for a deep dive ergonomic analysis. The deep dive analysis will account for the differences in the assumptions (i.e. frequency, push/pull distance, hand height, etc.).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

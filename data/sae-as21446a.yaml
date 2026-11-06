@@ -1,0 +1,53 @@
+---
+id: SAEAS21446A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Bearing, Roller, Self-Aligning Single Row, Barrel Roller,  Torque Tube,
+    Airframe, Antifriction, Sealed Type V
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as21446a
+- type: src
+  content: https://saemobilus.sae.org/standards/as21446a-bearing-roller-self-aligning-single-row-barrel-roller-torque-tube-airframe-antifriction-sealed-type-v
+docidentifier:
+- content: SAE AS21446A
+  type: SAE
+  primary: true
+- content: 10.4271/as21446a
+  type: DOI
+date:
+- type: approved
+  at: '2004-07-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ACBG Rolling Element Bearing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>No scope available.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

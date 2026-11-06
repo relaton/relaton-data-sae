@@ -1,0 +1,56 @@
+---
+id: SAEAMS32173D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Test Slabs, Chloroprene (CR) 70 - 80
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3217/3d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams32173d-test-slabs-chloroprene-cr-70-80
+docidentifier:
+- content: SAE AMS3217/3D
+  type: SAE
+  primary: true
+- content: 10.4271/ams3217/3d
+  type: DOI
+date:
+- type: approved
+  at: '2021-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CE Elastomers Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a standard chloroprene (CR) rubber stock in the form of molded test slabs.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

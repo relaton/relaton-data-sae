@@ -1,0 +1,57 @@
+---
+id: SAEAS1337
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SELECTED AEROSPACE DIAMETER-PITCH COMBINATIONS OF METRIC 60° SCREW THREADS
+    FOR NUTS AND BOLTS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1337
+- type: src
+  content: https://saemobilus.sae.org/standards/as1337-selected-aerospace-diameter-pitch-combinations-metric-60-screw-threads-nuts-bolts
+docidentifier:
+- content: SAE AS1337
+  type: SAE
+  primary: true
+- content: 10.4271/as1337
+  type: DOI
+date:
+- type: approved
+  at: '1974-03-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Standard establishes the diameter-pitch combinations of ISO metric 60° screw threads recommended for use in the aerospace industry for metric module bolts and nuts.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

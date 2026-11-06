@@ -1,0 +1,54 @@
+---
+id: SAEAMS5394D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Alloy Iron Castings, Ductile, Sand, Corrosion and Heat Resistant, 2.0Cr
+    - 20Ni (2.4 - 3.0C), Stress Relieved
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5394d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5394d-alloy-iron-castings-ductile-sand-corrosion-heat-resistant-20cr-20ni-24-30c-stress-relieved
+docidentifier:
+- content: SAE AMS5394D
+  type: SAE
+  primary: true
+- content: 10.4271/ams5394d
+  type: DOI
+date:
+- type: approved
+  at: '2007-04-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers a corrosion and heat resistant alloy ductile
+    iron in the form of sand castings.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

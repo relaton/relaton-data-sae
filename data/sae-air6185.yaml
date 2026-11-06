@@ -1,0 +1,57 @@
+---
+id: SAEAIR6185
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace - Lightning Effects on Hydraulic Transport Elements on Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6185
+- type: src
+  content: https://saemobilus.sae.org/standards/air6185-aerospace-lightning-effects-hydraulic-transport-elements-aircraft
+docidentifier:
+- content: SAE AIR6185
+  type: SAE
+  primary: true
+- content: 10.4271/air6185
+  type: DOI
+date:
+- type: approved
+  at: '2015-08-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A1 Commercial Aircraft Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) describes hydraulic system design and installation to minimize the effects of lightning, especially when the aircraft structure is composite. Techniques for effective electrical bonding, hydraulic system lightning protection, and lightning protection verification techniques are discussed.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

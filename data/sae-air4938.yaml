@@ -1,0 +1,57 @@
+---
+id: SAEAIR4938
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'COMPOSITE AND BONDED STRUCTURE TECHNICIAN/SPECIALIST: TRAINING DOCUMENT'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4938
+- type: src
+  content: https://saemobilus.sae.org/standards/air4938-composite-bonded-structure-technician-specialist-training-document
+docidentifier:
+- content: SAE AIR4938
+  type: SAE
+  primary: true
+- content: 10.4271/air4938
+  type: DOI
+date:
+- type: approved
+  at: '1996-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CACRC Commercial Aircraft Composite Repair Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This is a general curriculum that has been developed to identify the minimum knowledge and skill requirements of a composite and metal bond repair technician/specialist.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Teaching levels have been assigned to the curriculum to define the knowledge, skills and abilities graduates will need to make safe, effective repairs. Minimum hours of instruction have been provided to ensure adequate coverage of all subject matter - lecture and laboratory. These minimums may be exceeded, and may include an increase in the total number of training hours and/or increases in the teaching levels.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

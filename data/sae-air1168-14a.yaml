@@ -1,0 +1,77 @@
+---
+id: SAEAIR116814A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Spacecraft Life Support Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1168/14a
+- type: src
+  content: https://saemobilus.sae.org/standards/air116814a-spacecraft-life-support-systems
+docidentifier:
+- content: SAE AIR1168/14A
+  type: SAE
+  primary: true
+- content: 10.4271/air1168/14a
+  type: DOI
+date:
+- type: approved
+  at: '2012-10-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;A life support system (LSS) is usually defined as a system that provides elements necessary for maintaining human life and health in the state required for performing a prescribed mission. The LSS, depending upon specific design requirements, will provide pressure, temperature, and composition of local atmosphere, food, and water. It may or may not collect, dispose, or reprocess wastes such as carbon dioxide, water vapor, urine, and feces.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It can be seen from the preceding definition that LSS requirements may differ widely, depending on the mission specified, such as operation in Earth orbit or lunar mission. In all cases the time of operation is an important design factor. An LSS is sometimes briefly defined as a system providing atmospheric control and water, waste, and thermal management.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The major subsystems required to accomplish the general functions mentioned above are:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Breathing and pressurization gas storage system.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Temperature and humidity control system.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Carbon dioxide control system.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;4&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Trace contaminant control system.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;5&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Water management system.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;6&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Waste management system.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

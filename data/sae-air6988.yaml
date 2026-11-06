@@ -1,0 +1,57 @@
+---
+id: SAEAIR6988
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Artificial Intelligence in Aeronautical Systems: Statement of Concerns'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6988
+- type: src
+  content: https://saemobilus.sae.org/standards/air6988-artificial-intelligence-aeronautical-systems-statement-concerns
+docidentifier:
+- content: SAE AIR6988
+  type: SAE
+  primary: true
+- content: 10.4271/air6988
+  type: DOI
+date:
+- type: approved
+  at: '2021-04-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-34 Artificial Intelligence in Aviation
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document reviews current aerospace software, hardware, and system development standards used in the certification/approval process of safety-critical airborne and ground-based systems, and assesses whether these standards are compatible with a typical Artificial Intelligence (AI) and Machine Learning (ML) development approach. The document then outlines what is required to produce a standard that provides the necessary accommodation to support integration of ML-enabled sub-systems into safety-critical airborne and ground-based systems, and details next steps in the production of such a standard.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

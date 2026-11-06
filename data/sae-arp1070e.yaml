@@ -1,0 +1,85 @@
+---
+id: SAEARP1070E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Design and Testing of Antiskid Brake Control Systems for Total Aircraft
+    Compatibility
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1070e
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1070e-design-testing-antiskid-brake-control-systems-total-aircraft-compatibility
+docidentifier:
+- content: SAE ARP1070E
+  type: SAE
+  primary: true
+- content: 10.4271/arp1070e
+  type: DOI
+date:
+- type: approved
+  at: '2024-05-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5A Wheels, Brakes and Skid Controls Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document outlines the development process and makes recommendations for total antiskid/aircraft systems compatibility. These recommendations encompass all aircraft systems that may affect antiskid brake control and performance. It focuses on recommended practices specific to antiskid and its integration with the aircraft, as opposed to more generic practices recommended for all aircraft systems and components. It defers to the documents listed in &lt;span class="xref"&gt;Section 2&lt;/span&gt; for generic aerospace best practices and requirements. The documents listed below are the major drivers in antiskid/aircraft integration:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;ARP4754&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;ARP4761&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;RTCA DO-178&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;4&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;RTCA DO-254&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;5&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;RTCA DO-160&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;6&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;ARP490&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;7&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;ARP1383&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;8&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;ARP1598&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;In addition, it covers design and operational goals, general theory, and functions, which should be considered by the aircraft brake system engineer to attain the most effective skid control performance, as well as methods of determining and evaluating antiskid system performance.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For definitions of terms used herein, see &lt;span class="xref"&gt;Section 7&lt;/span&gt;.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,49 @@
+---
+id: SAEAIR1246
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 1992 Space Technology Available for Transfer to Civil Environmental Protection
+    and Pollution Control
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1246
+- type: src
+  content: https://saemobilus.sae.org/standards/air1246-1992-space-technology-available-transfer-civil-environmental-protection-pollution-control
+docidentifier:
+- content: SAE AIR1246
+  type: SAE
+  primary: true
+- content: 10.4271/air1246
+  type: DOI
+date:
+- type: approved
+  at: '1992-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aerospace Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

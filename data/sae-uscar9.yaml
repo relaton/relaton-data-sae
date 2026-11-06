@@ -1,0 +1,58 @@
+---
+id: SAEUSCAR9
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CLASSIFICATION SYSTEM FOR AUTOMOTIVE TOOLING, MACHINERY AND EQUIPMENT LOW
+    VOC WATERBORNE PAINT SYSTEMS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar9
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar9-classification-system-automotive-tooling-machinery-equipment-low-voc-waterborne-paint-systems
+docidentifier:
+- content: SAE USCAR-9
+  type: SAE
+  primary: true
+- content: 10.4271/uscar9
+  type: DOI
+date:
+- type: approved
+  at: '1998-12-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The materials defined by this U.S. CAR / S.A.E Recommended Practice are low VOC water based coatings for automotive tooling and general maintenance.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

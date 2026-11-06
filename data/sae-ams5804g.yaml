@@ -1,0 +1,57 @@
+---
+id: SAEAMS5804G
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Corrosion and Heat-Resistant, Welding Wire 15Cr - 25.5Ni - 1.3Mo
+    - 2.2Ti - 0.006B - 0.30V
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5804g
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5804g-steel-corrosion-heat-resistant-welding-wire-15cr-255ni-13mo-22ti-0006b-030v
+docidentifier:
+- content: SAE AMS5804G
+  type: SAE
+  primary: true
+- content: 10.4271/ams5804g
+  type: DOI
+date:
+- type: approved
+  at: '2006-03-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat-resistant steel in the form of welding wire.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

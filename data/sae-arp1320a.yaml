@@ -1,0 +1,57 @@
+---
+id: SAEARP1320A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Determination of Chlorine in Oxygen from Solid Chemical Oxygen Generators
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1320a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1320a-determination-chlorine-oxygen-solid-chemical-oxygen-generators
+docidentifier:
+- content: SAE ARP1320A
+  type: SAE
+  primary: true
+- content: 10.4271/arp1320a
+  type: DOI
+date:
+- type: approved
+  at: '2011-06-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This ARP covers a procedure to be used in the determination of 0.05 to 0.3 ppm of chlorine in oxygen from any type of generator used for emergency or other life-support systems. The methyl orange method described can be considered as a referee technique. Instrumental analysis is also given in &lt;span class="xref"&gt;Section 8&lt;/span&gt;.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

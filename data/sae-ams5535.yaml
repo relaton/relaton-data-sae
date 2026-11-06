@@ -1,0 +1,49 @@
+---
+id: SAEAMS5535
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Alloy Sheet and Strip, Corrosion and Heat Resistant Cobalt Base 25.5cr
+    20ni 4mo 2w 2(Cb+Ta)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5535
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5535-alloy-sheet-strip-corrosion-heat-resistant-cobalt-base-255cr-20ni-4mo-2w-2-cb-ta
+docidentifier:
+- content: SAE AMS5535
+  type: SAE
+  primary: true
+- content: 10.4271/ams5535
+  type: DOI
+date:
+- type: approved
+  at: '2002-12-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

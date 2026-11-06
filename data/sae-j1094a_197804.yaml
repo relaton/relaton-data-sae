@@ -1,0 +1,98 @@
+---
+id: SAEJ1094A_197804
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CONSTANT VOLUME SAMPLER SYSTEM FOR EXHAUST EMISSIONS MEASUREMENT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1094a_197804
+- type: src
+  content: https://saemobilus.sae.org/standards/j1094a_197804-constant-volume-sampler-system-exhaust-emissions-measurement
+docidentifier:
+- content: SAE J1094A_197804
+  type: SAE
+  primary: true
+- content: 10.4271/j1094a_197804
+  type: DOI
+date:
+- type: approved
+  at: '1978-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: SAE IC Powertrain Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice describes uniform laboratory techniques for employing the constant volume sampler (CVS) system in measuring various constituents in the exhaust gas of gasoline engines installed on passenger cars and light trucks. The techniques described relate particularly to CVS systems employing positive displacement pumps. In some areas of CVS practice, alternate procedures are given as a guide toward development of uniform laboratory techniques.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The report includes the following sections:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;1&lt;/span&gt;. Introduction&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;2&lt;/span&gt;. Definitions&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;3&lt;/span&gt;. Test Equipment
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;3.1&lt;/span&gt; Sampler&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;3.2&lt;/span&gt; Bag Analysis&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;3.3&lt;/span&gt; Modal Analysis&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;3.4&lt;/span&gt; Instrument Operating Procedures&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;3.5&lt;/span&gt; Supplementary Discussions&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;3.6&lt;/span&gt; Tailpipe Connections&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;3.7&lt;/span&gt; Chassis Dynamometer&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;4&lt;/span&gt;. Operating and Calibrating Procedure
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;4.1&lt;/span&gt; Calibration&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;4.2&lt;/span&gt; Operating Procedures&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;5&lt;/span&gt;. Data Analysis
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;5.1&lt;/span&gt; Bag Analysis&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;5.2&lt;/span&gt; Modal Analysis&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;5.3&lt;/span&gt; Background&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;5.4&lt;/span&gt; Fuel Economy&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;6&lt;/span&gt;. Safety&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

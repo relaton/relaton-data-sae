@@ -1,0 +1,50 @@
+---
+id: SAEAS54199A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: WIRE, THERMOCOUPLE, SMOOTH SURFACE FP/POLYIMIDE/FP INSULATED, NICKEL/CHROMIUM
+    (KP); NICKEL/ALUMINUM/MANGANESE (KN) THERMOCOUPLE EXTENSION, NORMAL WEIGHT, 260
+    °C
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5419/9a
+- type: src
+  content: https://saemobilus.sae.org/standards/as54199a-wire-thermocouple-smooth-surface-fp-polyimide-fp-insulated-nickel-chromium-kp-nickel-aluminum-manganese-kn-thermocouple-extension-normal-weight-260-c
+docidentifier:
+- content: SAE AS5419/9A
+  type: SAE
+  primary: true
+- content: 10.4271/as5419/9a
+  type: DOI
+date:
+- type: approved
+  at: '2020-10-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8D Wire and Cable Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

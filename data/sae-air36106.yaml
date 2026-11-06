@@ -1,0 +1,56 @@
+---
+id: SAEAIR36106
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Air Cargo Unit Load Devices - Use of Airworthiness Reference Documents
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air36106
+- type: src
+  content: https://saemobilus.sae.org/standards/air36106-air-cargo-unit-load-devices-use-airworthiness-reference-documents
+docidentifier:
+- content: SAE AIR36106
+  type: SAE
+  primary: true
+- content: 10.4271/air36106
+  type: DOI
+date:
+- type: approved
+  at: '2006-03-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Information Report (AIR) provides instructions for intended proper use of Aerospace Standard AS36100 published 2005-02, as the technical reference for airworthiness approval of air cargo unit load devices (pallets, nets and containers) to be loaded on board civil transport aircraft. For consistency and cross-checking purposes, it also includes instructions for proper use of previous NAS 3610 [Revision 10, 1990, referenced in TSO C90c], as commonly understood by the industry.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

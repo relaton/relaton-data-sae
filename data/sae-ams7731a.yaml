@@ -1,0 +1,56 @@
+---
+id: SAEAMS7731A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GOLD WIRE AND RIBBON 99.97Au
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7731a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7731a-gold-wire-ribbon-9997au
+docidentifier:
+- content: SAE AMS7731A
+  type: SAE
+  primary: true
+- content: 10.4271/ams7731a
+  type: DOI
+date:
+- type: approved
+  at: '1980-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers pure gold in the form of wire and ribbon.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

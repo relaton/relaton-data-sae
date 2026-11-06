@@ -1,0 +1,61 @@
+---
+id: SAEAS9103B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Series - Quality Management Systems - Variation Management of
+    Key Characteristics
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9103b
+- type: src
+  content: https://saemobilus.sae.org/standards/as9103b-aerospace-series-quality-management-systems-variation-management-key-characteristics
+docidentifier:
+- content: SAE AS9103B
+  type: SAE
+  primary: true
+- content: 10.4271/as9103b
+  type: DOI
+date:
+- type: approved
+  at: '2022-08-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard is primarily intended to apply to new parts and products intended to be produced in an on-going production phase, but can also be applied to parts currently in production (e.g., manufacturing, maintenance). The standard is applicable to all production processes that influence the variation of KCs, as well as maintenance and service processes in which KCs are identified. It applies to organizations for assemblies and all levels of parts within an assembly, down to the basic materials including castings and forgings, and to organizations that are responsible for producing the design characteristics of the product.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The variation control process begins with product definition, typically stated in the design documentation (e.g., digital model, engineering drawing, specification) which identifies KCs, and leads to a variation management process for those KCs. This process may also be used for producer-identified KCs (e.g., process KCs, additional/substitute product KCs).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Producers and their subcontractors are responsible for flow down of the standard requirements to those external providers, who produce design characteristics and provide production and service provisions, to ensure that KCs conform to the customer’s requirements.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

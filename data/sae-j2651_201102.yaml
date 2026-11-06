@@ -1,0 +1,58 @@
+---
+id: SAEJ2651_201102
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Jump Start Connections for 42 Volt Electrical Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2651_201102
+- type: src
+  content: https://saemobilus.sae.org/standards/j2651_201102-jump-start-connections-42-volt-electrical-systems
+docidentifier:
+- content: SAE J2651_201102
+  type: SAE
+  primary: true
+- content: 10.4271/j2651_201102
+  type: DOI
+date:
+- type: approved
+  at: '2011-02-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Connector Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice defines test methods and general requirements at all phases of development, production, and field analysis of electrical terminals (including sense pins), connectors, and components that constitute the jump-start connection for road vehicles having 42 V (nominal) electrical systems. The 42 V jump start connector is always remote from the vehicle battery and may take the form of an in-line or Header Connection, either of which is in an accessible location for attachment of a jumper cable from an assist vehicle or battery charger.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;WARNING—The Jump Start Connector requires environmental protection. This specification assumes that such protection is in place and remains effective for the life of the vehicle. The level of protection depends on the vehicle packaging environment and duty cycle.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Appendix B&lt;/span&gt; of this document contains the physical specification for the Jump Start Connector.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

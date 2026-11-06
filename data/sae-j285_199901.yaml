@@ -1,0 +1,63 @@
+---
+id: SAEJ285_199901
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Gasoline Dispenser Nozzle Spouts
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j285_199901
+- type: src
+  content: https://saemobilus.sae.org/standards/j285_199901-gasoline-dispenser-nozzle-spouts
+docidentifier:
+- content: SAE J285_199901
+  type: SAE
+  primary: true
+- content: 10.4271/j285_199901
+  type: DOI
+date:
+- type: approved
+  at: '1999-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice provides standardized dimensions for nozzle spouts and a system for differentiating between "unleaded gasoline" nozzle spouts and all other fuel nozzle spouts.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;If emission control equipment requires unleaded gasoline exclusively and other fuels not meeting this specification are available, differentiation is accomplished by providing differences between the outside diameter of the nozzle spouts used to dispense "unleaded gasoline" and those used for all other fuels. These differences establish a basis on which fuel filler inlets that will accept only "unleaded gasoline" can be designed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Spouts used to dispense "unleaded gasoline" should have a nominal OD of 20.6 mm (13/16 in) and be straight for 85 to 95 mm (3.35 to 3.74 in) from the outlet. It is understood that tolerances and normal use may increase the spout up to 21.3 mm (0.84 in) OD.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The spouts for all other fuels should have a nominal OD of 23.8 mm (15/16 in) or more. Tolerances may decrease these spouts to 23.6 mm (0.93 in) OD. An exception is that a 20.6 mm (13/16 in) spout may be used, if such a spout is provided with means that positively prevents the dispensing of leaded fuels into fuel filler inlets designed to accept only "unleaded gasoline."&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Identification of spouts is optional. If desired, "unleaded gasoline" spouts may be identified with the letters UN-L stamped or rolled in the spouts and located anywhere on their OD except for the first 63.5 mm (2.5 in) from the outlet. Spouts for all other fuels may be identified with the letters LEAD located anywhere on their OD.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The standardized dimensions are summarized in &lt;span class="xref"&gt;Table 1&lt;/span&gt; and referenced in &lt;span class="xref"&gt;Figure 1&lt;/span&gt;. These dimensions take into account present nozzle interchangeability in dispenser nozzle boot fit requirements of UL 87 and UL 842. These dimensions minimize the variability of positioning the nozzle spout in the fuel inlets of passenger cars and light-duty vehicles.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

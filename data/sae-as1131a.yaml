@@ -1,0 +1,65 @@
+---
+id: SAEAS1131A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AIR-LAND DEMOUNTABLE CARGO PALLET NETS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1131a
+- type: src
+  content: https://saemobilus.sae.org/standards/as1131a-air-land-demountable-cargo-pallet-nets
+docidentifier:
+- content: SAE AS1131A
+  type: SAE
+  primary: true
+- content: 10.4271/as1131a
+  type: DOI
+date:
+- type: approved
+  at: '1975-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document establishes four sizes of basic pallet nets as follows:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Size F (10 ft) - To restrain a 96 x 117.75 x 96 in. (2,43 x 2,99 x 2,43 m) high (maximum) load.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Size G (20 ft) - To restrain a 96 x 238.500 x 96 in. (2,43 x 6,05 x 2,43 m) high (maximum) load.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Size H (30 ft) - To restrain a 96 x 359.25 x 96 in. (2,43 x 9,12 x 2,43 m) high (maximum) load.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Size J (40 ft) - To restrain a 96 x 480 x 96 in. (2,43 x 12,19 x 2,43 m) high (maximum) load.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

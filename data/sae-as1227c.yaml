@@ -1,0 +1,58 @@
+---
+id: SAEAS1227C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hose Assembly, Convoluted Polytetrafluoroethylene, Metallic Reinforced,
+    Low Pressure, Up to 400 °F, Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1227c
+- type: src
+  content: https://saemobilus.sae.org/standards/as1227c-hose-assembly-convoluted-polytetrafluoroethylene-metallic-reinforced-low-pressure-400-f-aircraft
+docidentifier:
+- content: SAE AS1227C
+  type: SAE
+  primary: true
+- content: 10.4271/as1227c
+  type: DOI
+date:
+- type: approved
+  at: '2025-04-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) defines the requirements for a convoluted polytetrafluoroethylene (PTFE) lined, metallic reinforced, hose assembly suitable for use in aerospace fluid systems at temperatures between -65 °F and 400 °F for Class 1 assembly, -65 °F and 275 °F for Class 2 assembly, and at operating pressures per &lt;span class="xref"&gt;Table 1&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The use of these hose assemblies in pneumatic storage systems is not recommended. In addition, installations in which the limits specified herein are exceeded, or in which the application is not covered specifically by this standard, shall be subject to the approval of the procuring activity.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

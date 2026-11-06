@@ -1,0 +1,62 @@
+---
+id: SAEJ2867_202410
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Laboratory Testing of Light-Duty Vehicle Electric Cooling Fan Assemblies
+    for Airflow Performance
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2867_202410
+- type: src
+  content: https://saemobilus.sae.org/standards/j2867_202410-laboratory-testing-light-duty-vehicle-electric-cooling-fan-assemblies-airflow-performance
+docidentifier:
+- content: SAE J2867_202410
+  type: SAE
+  primary: true
+- content: 10.4271/j2867_202410
+  type: DOI
+date:
+- type: approved
+  at: '2024-10-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Cooling Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice is intended for use in testing and evaluating the performance of electric cooling fan (ECF) assemblies typically used for vehicle engine cooling. Conducted in a laboratory environment with intended heat exchangers, the performance measurement includes fan output in terms of airflow and pressure and fan motor input in terms of voltage and current. This information can be used to calculate the efficiency of the assembly, including aerodynamic efficiency of the fan and shroud, and electrical efficiency of the motor. The electric power consumption can be used to estimate electrical charging system sizing and fuel economy.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The performance of a given fan assembly depends on the installation details of the application, including the effects of system resistance and geometries of the grill, heat exchangers, engine and other underhood components, and front end components. This document provides guidance for duplicating such details in the test setup for accurate performance measurement.&lt;/div&gt;
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

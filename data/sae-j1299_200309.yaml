@@ -1,0 +1,73 @@
+---
+id: SAEJ1299_200309
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electrical Propulsion Control—Off-Road Dumpers
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1299_200309
+- type: src
+  content: https://saemobilus.sae.org/standards/j1299_200309-electrical-propulsion-control-off-road-dumpers
+docidentifier:
+- content: SAE J1299_200309
+  type: SAE
+  primary: true
+- content: 10.4271/j1299_200309
+  type: DOI
+date:
+- type: approved
+  at: '2003-09-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CTTC C2, Electrical Components and Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report applies to the control circuits and devices associated with the electrical propulsion system used on electric drive dumpers. Dumper is defined in J/ISO 6165. The document does not apply to auxiliary equipment control systems such as:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Battery charging systems&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Engine wiring and control&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Monitoring and control circuits not directly affecting the operation of the electric propulsion and retarding system&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Lighting&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Accessory systems (heating, air conditioning, horns, radios, emergency steering, fire protection, and similar functions).&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

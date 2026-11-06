@@ -1,0 +1,59 @@
+---
+id: SAEAMS5753C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Alloy Bars and Forgings, Corrosion and Heat Resistant, 54ni 17.5cr 16.5co
+    4.0mo 2.9ti 2.9al 0.006b, Vacuum Melted, Solution Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5753c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5753c-alloy-bars-forgings-corrosion-heat-resistant-54ni-175cr-165co-40mo-29ti-29al-0006b-vacuum-melted-solution-heat-treated
+docidentifier:
+- content: SAE AMS5753C
+  type: SAE
+  primary: true
+- content: 10.4271/ams5753c
+  type: DOI
+date:
+- type: approved
+  at: '1999-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: <p>This specification covers a corrosion and heat resistant nickel alloy
+    in the form of bars, forgings, and stock for forging or heading. Primarily for
+    parts, such as turbine blades, bolts, and fittings, requiring high strength up
+    to 1600 degrees F (870 degrees Centigrade) and oxidation resistance up to 1800
+    degrees F (980 degrees C). This specification has been declared "Noncurrent" by
+    the Aerospace materials Division, SAE, as of October 16, 1987. It is recommended,
+    therefore, that this specification not be specified for new designs.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

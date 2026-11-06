@@ -1,0 +1,57 @@
+---
+id: SAEJ19393_200812
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: On Board Diagnostics Implementation Guide
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939/3_200812
+- type: src
+  content: https://saemobilus.sae.org/standards/j19393_200812-board-diagnostics-implementation-guide
+docidentifier:
+- content: SAE J1939/3_200812
+  type: SAE
+  primary: true
+- content: 10.4271/j1939/3_200812
+  type: DOI
+date:
+- type: approved
+  at: '2008-12-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE J1939-03 provides requirements and guidelines for the implementation of On Board Diagnostics (OBD) on heavy-duty vehicles (HDV) using the SAE J1939 family of standards. The guidelines identify where the necessary information to meet OBD regulations may be found among the SAE J1939 document set. Key requirements are identified here to insure the interoperability of OBD scan tools across individual OBD compliant vehicles.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Market-defined regulations permit the use of SAE J1939 to meet OBD requirements. Implementers are cautioned to obtain and review the specific regulations for the markets where their products are sold. This document is focused on guidelines and requirements to satisfy the State of California Air Resources Board (ARB), the authors of 13 CCR 1971.1, United States Environmental Protection Agency, Euro IV and V requirements from European Commission directives, and UN/ECE WP 29 GRPE WWH OBD Global Technical Regulation (GTR)&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

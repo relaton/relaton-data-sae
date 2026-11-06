@@ -1,0 +1,49 @@
+---
+id: SAEMA4189A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SCREW, MACHINE, 100° CSK, FLAT HEAD, OFFSET CRUCIFORM RECESS, FULL SHANK,
+    UNS S66286, MJ THREAD, METRIC
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma4189a
+- type: src
+  content: https://saemobilus.sae.org/standards/ma4189a-screw-machine-100-csk-flat-head-offset-cruciform-recess-full-shank-uns-s66286-mj-thread-metric
+docidentifier:
+- content: SAE MA4189A
+  type: SAE
+  primary: true
+- content: 10.4271/ma4189a
+  type: DOI
+date:
+- type: approved
+  at: '2021-12-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

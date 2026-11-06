@@ -1,0 +1,57 @@
+---
+id: SAEGEB1
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Diminishing Manufacturing Sources and Material Shortages (DMSMS) Management
+    Practices
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/geb1
+- type: src
+  content: https://saemobilus.sae.org/standards/geb1-diminishing-manufacturing-sources-material-shortages-dmsms-management-practices
+docidentifier:
+- content: SAE GEB1
+  type: SAE
+  primary: true
+- content: 10.4271/geb1
+  type: DOI
+date:
+- type: approved
+  at: '2015-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CE-12 Solid State Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document includes a standard set of management practices that can be used, or espoused, by the OEMs for use during the design and development of electronic systems to mitigate the effects of future Diminishing Manufacturing Sources and Material Shortages (DMSMS). While this document focuses primarily on microelectronic devices, the methods described here may also apply to other commodities.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

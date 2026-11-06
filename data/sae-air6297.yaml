@@ -1,0 +1,57 @@
+---
+id: SAEAIR6297
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Method to Calculate Behind Start of Takeoff Roll Noise Level Adjustments
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6297
+- type: src
+  content: https://saemobilus.sae.org/standards/air6297-method-calculate-behind-start-takeoff-roll-noise-level-adjustments
+docidentifier:
+- content: SAE AIR6297
+  type: SAE
+  primary: true
+- content: 10.4271/air6297
+  type: DOI
+date:
+- type: approved
+  at: '2022-11-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-21 Aircraft Noise Measurement Aviation Emission Modeling
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes a method to calculate noise level adjustments at locations behind an airplane (described by an angular offset or directivity) at the start of takeoff roll (SOTR). This method is derived from empirical data from jet aircraft (circa 2004), most of which are configured with wing-mounted engines with high by-pass ratios (Lau, et al., 2012). Methods are also described which apply to modern turboprop aricraft.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Calculations of other propagation-related adjustments required for aircraft noise prediction models are described in AIR1845A, ARP5534, ARP866A, and AIR5662.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

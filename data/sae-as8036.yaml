@@ -1,0 +1,56 @@
+---
+id: SAEAS8036
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CARGO COMPARTMENT FIRE DETECTION INSTRUMENTS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8036
+- type: src
+  content: https://saemobilus.sae.org/standards/as8036-cargo-compartment-fire-detection-instruments
+docidentifier:
+- content: SAE AS8036
+  type: SAE
+  primary: true
+- content: 10.4271/as8036
+  type: DOI
+date:
+- type: approved
+  at: '1991-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4AS8036 Update Working Group
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard covers the following types of fire detection instruments intended for use in protecting aircraft cargo compartments, galleys, electronic equipment bays and other similar installations.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

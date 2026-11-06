@@ -1,0 +1,85 @@
+---
+id: SAEARP1796A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Engine Bleed Air Systems for Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1796a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1796a-engine-bleed-air-systems-aircraft
+docidentifier:
+- content: SAE ARP1796A
+  type: SAE
+  primary: true
+- content: 10.4271/arp1796a
+  type: DOI
+date:
+- type: approved
+  at: '2007-03-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) discusses design philosophy, system and equipment requirements, installation environment and design considerations for military and commercial aircraft systems within the Air Transport Association (ATA) ATA 100 specification, Chapter 36, Pneumatic. This ATA system/chapter covers equipment used to deliver compressed air from a power source to connecting points for other systems such as air conditioning, pressurization, ice protection, cross-engine starting, air turbine motors, air driven hydraulic pumps, on board oxygen generating systems (OBOGS), on board inert gas generating systems (OBIGGS), and other pneumatic demands.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The engine bleed air system includes components for preconditioning the compressed air (temperature, pressure or flow regulation), ducting to distribute high or low pressure air to the using systems, and sensors/instruments to indicate temperature and pressure levels within the system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The engine bleed air system may interface with the following Air Transport Association (ATA) 100 systems:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Chapter 21 - Air Conditioning&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Chapter 29 - Hydraulic Power&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Chapter 30 - Ice and Rain Protection&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Chapter 34 - Navigation (Indication Systems/Probe Aspiration)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Chapter 36 - Pneumatics&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Chapter 38 - Water/Waste&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Chapter 49 - Airborne Auxiliary Power&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Chapter 73 - Engine Fuel &amp;amp; Control&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Chapter 75 - Engine Air&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Chapter 78 - Engine Exhaust&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Chapter 80 - Engine Starting&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;The interface with these systems/chapters is at the inlet of the shutoff/control valve of each associated system. This boundary definition aligns with that in the ATA 100 specification.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document also applies to military aircraft. The system functions and interface with other systems are basically the same as commercial aircraft systems. However, military engine bleed air systems often interface with additional systems such as anti-G suit, gun gas purge, and canopy seal.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The primary emphasis of this document is on systems which use the aircraft engine as the source of the pneumatic supply. Alternate supply systems are discussed in &lt;span class="xref"&gt;Section 7&lt;/span&gt;.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

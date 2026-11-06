@@ -1,0 +1,48 @@
+---
+id: SAEAMS4447A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MAGNESIUM ALLOY CASTINGS, SAND 3.3Th - 2.1Zn - 0.8Zr (HZ32A-T5) Aged
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4447a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4447a-magnesium-alloy-castings-sand-33th-21zn-08zr-hz32a-t5-aged
+docidentifier:
+- content: SAE AMS4447A
+  type: SAE
+  primary: true
+- content: 10.4271/ams4447a
+  type: DOI
+date:
+- type: approved
+  at: '1965-02-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAMS245110
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Plating, Brush, Tin-Zinc Low Hydrogen Embrittlement
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2451/10
+- type: src
+  content: https://saemobilus.sae.org/standards/ams245110-plating-brush-tin-zinc-low-hydrogen-embrittlement
+docidentifier:
+- content: SAE AMS2451/10
+  type: SAE
+  primary: true
+- content: 10.4271/ams2451/10
+  type: DOI
+date:
+- type: approved
+  at: '2002-01-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the engineering requirements and process for brush plating of tin-zinc by electrodeposition. It is used, in conjunction with AMS 2451, for corrosion-protective, tin-zinc deposits, which may allow omission of hydrogen embrittlement relief treatment of high-strength steels.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

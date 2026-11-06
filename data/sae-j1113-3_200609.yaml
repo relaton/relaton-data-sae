@@ -1,0 +1,60 @@
+---
+id: SAEJ11133_200609
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Conducted Immunity, 250 kHz to 400 MHz, Direct Injection of Radio Frequency
+    (RF) Power
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1113/3_200609
+- type: src
+  content: https://saemobilus.sae.org/standards/j11133_200609-conducted-immunity-250-khz-400-mhz-direct-injection-radio-frequency-rf-power
+docidentifier:
+- content: SAE J1113/3_200609
+  type: SAE
+  primary: true
+- content: 10.4271/j1113/3_200609
+  type: DOI
+date:
+- type: approved
+  at: '2006-09-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This part of SAE J1113 specifies the direct RF power injection test method and procedure for testing electromagnetic immunity of electronic components for passenger cars and commercial vehicles. The electromagnetic disturbances considered in this part of SAE J1113 are limited to continuous, narrowband conducted RF energy.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This test method is applicable to all DUT leads except the RF reference ground. The test provides differential mode excitation to the DUT.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Immunity measurements of complete vehicles are generally only possible by the vehicle manufacturer. The reasons, for example, are high costs of a large absorber-lined chamber, preserving the secrecy of prototypes or the large number of different vehicle models. Therefore, for research, development, and quality control, a laboratory measuring method for components shall be applied by the manufacturer. This method is suitable over the frequency range of 250 kHz to 400 MHz.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This direct RF power injection test is particularly effective when used as part of the engineering development of the electronic component (at the prototype PCB level) where the line by line diagnostic capabilities of this test facilitate cost-effective circuit board level improvements in the RF immunity performance of the module or component&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

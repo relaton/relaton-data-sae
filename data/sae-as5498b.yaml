@@ -1,0 +1,65 @@
+---
+id: SAEAS5498B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Minimum Operational Performance Specification for Inflight Icing Detection
+    Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5498b
+- type: src
+  content: https://saemobilus.sae.org/standards/as5498b-minimum-operational-performance-specification-inflight-icing-detection-systems
+docidentifier:
+- content: SAE AS5498B
+  type: SAE
+  primary: true
+- content: 10.4271/as5498b
+  type: DOI
+date:
+- type: approved
+  at: '2022-04-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9C Aircraft Icing Technology Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document contains minimum operational performance specification (MOPS) of active on-board INFLIGHT ICING DETECTION SYSTEMS (FIDS).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This MOPS specifies FIDS operational performance which is the minimum necessary to satisfy regulatory requirements for the design and manufacture of the equipment to a minimum standard and guidance towards acceptable means of compliance when installed on an AIRCRAFT.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Detection of ICE accreted on the AIRCRAFT during ground operations is not considered in this document. This MOPS was written for the use of FIDS on AIRCRAFT as defined in &lt;span class="xref"&gt;1.3&lt;/span&gt; and &lt;span class="xref"&gt;2.3&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Expected minimum performance specifications for FIDS and their functions are provided in &lt;span class="xref"&gt;Section 3&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The minimum performance requirements as defined in &lt;span class="xref"&gt;Section 3&lt;/span&gt; do not consider SYSTEM performance as installed on the AIRCRAFT. Performance in excess of the minimum performance may be required by the SYSTEM installed on an AIRCRAFT in order to meet regulatory or operational requirements. This topic is considered in &lt;span class="xref"&gt;Section 6&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This MOPS document is structured as follows:&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;Operational performance specifications for functions or COMPONENTS that refer to equipment capabilities that exceed the stated minimum requirements are identified as optional features.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The word “equipment” as used in this document includes all COMPONENTS and units necessary for the SYSTEM to properly perform its intended function(s). For example, the “equipment” may include all of the COMPONENTS listed in &lt;span class="xref"&gt;1.4&lt;/span&gt;. It should not be inferred that each FIDS design will necessarily include all of the COMPONENTS or units listed in that Section. This will depend on the specific design chosen by the FIDS manufacturer.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAIR4964
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Exposure Levels of UV Radiation in Nondestructive Inspection Processes
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4964
+- type: src
+  content: https://saemobilus.sae.org/standards/air4964-exposure-levels-uv-radiation-nondestructive-inspection-processes
+docidentifier:
+- content: SAE AIR4964
+  type: SAE
+  primary: true
+- content: 10.4271/air4964
+  type: DOI
+date:
+- type: approved
+  at: '2019-08-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS K Non Destructive Methods and Processes Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Long wave ultraviolet or UV-A radiation (between 320 to 400 nm) is used for fluorescent inspections in magnetic particle and liquid penetrant examinations. The UV-A radiation is obtained from either fluorescent or high intensity discharge lamps that are stationary or portable. The commercially available UV-A lamps possess a large variation in intensity output that can cause a legitimate concern for possible health hazard. This draft reviews the nature of UV-A radiation emitted by these lights, blacklight equipment, acceptable UV dosage limits adopted by the American Conference of Governmental Industrial Hygienists (ACGIH) and the European Standards Committee for Nondestructive Testing, and recommendation of proper practices when working with UV-A radiation.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

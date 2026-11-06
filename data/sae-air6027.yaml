@@ -1,0 +1,67 @@
+---
+id: SAEAIR6027
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Considerations for Safe Store Operation on Manned and Unmanned Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6027
+- type: src
+  content: https://saemobilus.sae.org/standards/air6027-considerations-safe-store-operation-manned-unmanned-vehicles
+docidentifier:
+- content: SAE AIR6027
+  type: SAE
+  primary: true
+- content: 10.4271/air6027
+  type: DOI
+date:
+- type: approved
+  at: '2012-05-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1B Aircraft Store Integration Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The information presented in this AIR is intended to provide designers of armed unmanned systems with guidelines that may be applied to ensure safe integration and operation of weapons on unmanned platforms. The guidelines have been developed from experiences gained in the design and operation of weapons on manned aircraft that have been accepted by relevant safety authorities in the USA and Europe and proven effective over many years. Whilst the guidelines have been developed from experience with aircraft operations, the concepts are considered equally applicable to non-aircraft systems, such as those used on the surface or undersea environments.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not attempt to define or describe a comprehensive safety program for unmanned systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;System Safety is a system characteristic and a non-functional requirement. It has to be addressed at each level of system design, system integration and during each phase of system operation. System safety is achieved when the system operation does not cause inadvertent personnel injuries, destruction of the system or damage to the environment.
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Section 3&lt;/span&gt; of the document contains an introduction to methods by which the safety of a system can be assessed.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Section 4&lt;/span&gt; describes the safety principles commonly applied to the design and operation of weapons on manned aircraft.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Section 5&lt;/span&gt; describes how the safety principles established for manned aircraft may be applied to unmanned systems,&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Section 6&lt;/span&gt; provides conclusions and recommendations.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

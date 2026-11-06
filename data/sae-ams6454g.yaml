@@ -1,0 +1,58 @@
+---
+id: SAEAMS6454G
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: |-
+    Steel, Sheet, Strip, and Plate 1.8Ni - 0.80Cr - 0.25Mo (0.38 - 0.43C)
+                        (SAE 4340) Vacuum Consumable Electrode Remelted
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6454g
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6454g-steel-sheet-strip-plate-18ni-080cr-025mo-038-043c-sae-4340-vacuum-consumable-electrode-remelted
+docidentifier:
+- content: SAE AMS6454G
+  type: SAE
+  primary: true
+- content: 10.4271/ams6454g
+  type: DOI
+date:
+- type: approved
+  at: '2023-08-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a premium-aircraft-quality, low-alloy steel in the form of sheet, strip, and plate.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

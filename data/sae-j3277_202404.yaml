@@ -1,0 +1,58 @@
+---
+id: SAEJ3277_202404
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Liquid Leak Tightness Evaluation Methodology for EV Battery Packs Informational
+    Report
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3277_202404
+- type: src
+  content: https://saemobilus.sae.org/standards/j3277_202404-liquid-leak-tightness-evaluation-methodology-ev-battery-packs-informational-report
+docidentifier:
+- content: SAE J3277_202404
+  type: SAE
+  primary: true
+- content: 10.4271/j3277_202404
+  type: DOI
+date:
+- type: approved
+  at: '2024-04-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Battery Standards Testing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This technical information report (IR) presents a methodology to evaluate battery pack liquid leak tightness attributes to be used in a production line to satisfy the functional requirement for IPX7, water ingress requirement, and no sustainable coolant leakage for coolant circuits. The Equivalent Channel Method is used as a suggested production leak tightness requirement for a given battery pack design that will correlate and assure that the battery pack meets or exceeds its functional requirement. Obtaining the specific geometry of the Equivalent Channel (EC) for a given battery pack is done analytically and empirically in consideration of the product design limitations. This document is a precursor to J3277-1, which will present the practices to qualify that product leak tightness is equal or better than the maximum allowed EC for that product using applicable and commercially available leak test technologies.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document may be applied to EV and HEV battery packs as tested during production, without harnesses or other accessories installed by the OEM during vehicle assembly.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

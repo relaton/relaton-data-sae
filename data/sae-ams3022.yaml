@@ -1,0 +1,57 @@
+---
+id: SAEAMS3022
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: REFERENCE FLUID FOR TESTING HYDROCARBON FUEL RESISTANT MATERIALS 10% Aromatic
+    Content
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3022
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3022-reference-fluid-testing-hydrocarbon-fuel-resistant-materials-10-aromatic-content
+docidentifier:
+- content: SAE AMS3022
+  type: SAE
+  primary: true
+- content: 10.4271/ams3022
+  type: DOI
+date:
+- type: approved
+  at: '1980-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CE Elastomers Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a hydrocarbon fluid mixture for use as a reference fuel test fluid to evaluate the ability of polymeric compounds to conform to designated requirements after immersion in the fluid at a specific temperature for a specified time, as required by an applicable specification.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

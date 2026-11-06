@@ -1,0 +1,56 @@
+---
+id: SAEARP1311
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: LANDING GEAR - AIRCRAFT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1311
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1311-landing-gear-aircraft
+docidentifier:
+- content: SAE ARP1311
+  type: SAE
+  primary: true
+- content: 10.4271/arp1311
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This ARP applies to all types and models of civil aircraft for landing gear structure and mechanism excepting wheels, tires and brakes. All axles, wheel forks, axle beams, links, arms, mechanical and air-oil energy absorbers, braces, lock assemblies, trunnion beams, etc., that sustain loads originating at the ground and that are not integral parts of the airframe structure shall be in accordance with this practice.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

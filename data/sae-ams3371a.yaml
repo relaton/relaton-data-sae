@@ -1,0 +1,54 @@
+---
+id: SAEAMS3371A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Silicone Resin, Elastomeric, Opaque, Room Temperature Cure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3371a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3371a-silicone-resin-elastomeric-opaque-room-temperature-cure
+docidentifier:
+- content: SAE AMS3371A
+  type: SAE
+  primary: true
+- content: 10.4271/ams3371a
+  type: DOI
+date:
+- type: approved
+  at: '2009-06-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G9 Aerospace Sealing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This specification has been declared "CANCELLED" by the Aerospace Materials Division, SAE, as of June 2009. By this action, this document will remain listed in the Numerical Section of the Index of Aerospace Material Specifications indicating that it has been "CANCELLED".
+    Cancelled specifications are available from SAE.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

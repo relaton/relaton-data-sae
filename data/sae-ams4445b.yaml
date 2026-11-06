@@ -1,0 +1,49 @@
+---
+id: SAEAMS4445B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MAGNESIUM ALLOY CASTINGS, SAND 3.3Th - 0.8Zr (HK31A-T6) Solution and Precipitation
+    Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4445b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4445b-magnesium-alloy-castings-sand-33th-08zr-hk31a-t6-solution-precipitation-treated
+docidentifier:
+- content: SAE AMS4445B
+  type: SAE
+  primary: true
+- content: 10.4271/ams4445b
+  type: DOI
+date:
+- type: approved
+  at: '1965-02-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

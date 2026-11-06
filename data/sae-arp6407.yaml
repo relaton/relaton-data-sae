@@ -1,0 +1,58 @@
+---
+id: SAEARP6407
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: IVHM Design Guidelines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6407
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6407-ivhm-design-guidelines
+docidentifier:
+- content: SAE ARP6407
+  type: SAE
+  primary: true
+- content: 10.4271/arp6407
+  type: DOI
+date:
+- type: approved
+  at: '2019-07-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: HM-1 Integrated Vehicle Health Management Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice (ARP) provides guidance for the design of an integrated vehicle health management (IVHM) capability that will extend the vehicle’s inherent design to enable health management of the platform and its components. This guidance is technology-independent; the principles are generally applicable to the majority of potential IVHM design scenarios, including “clean sheet” system design, where IVHM is considered as a primary design consideration, and the retrofit design, where existing systems are modified and leveraged with the IVHM capability. In either case, this ARP provides guidance for designing the IVHM capability from the feasibility assessment to the conceptual design analysis and to the development design phases, with considerations given to trade studies, metrics, and life cycle impacts.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

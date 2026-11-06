@@ -1,0 +1,58 @@
+---
+id: SAEARP5707
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Pilot Training Recommendations for Unmanned Aircraft Systems (UAS) Civil
+    Operations
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5707
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5707-pilot-training-recommendations-unmanned-aircraft-systems-uas-civil-operations
+docidentifier:
+- content: SAE ARP5707
+  type: SAE
+  primary: true
+- content: 10.4271/arp5707
+  type: DOI
+date:
+- type: approved
+  at: '2016-04-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10U Unmanned Aerospace Vehicle Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides an approach to the development of training topics for pilots of Unmanned Aircraft Systems (UAS) for use by operators, manufacturers, and regulators. The identification of training topics is based initially on Practical Test Standard (PTS) topics for manned aircraft pilots. The topics identified could be used for the construction of a PTS for UAS commercial pilot operations and a PTS for a UAS pilot instrument rating. The UAS commercial pilot rating would contain restrictions on the types of operations that could be flown that would be dependent on the type of UAS used. The UAS type would also influence the specific training topics that would be covered. This document is not intended to outline the requirements for other crewmembers, such as observers, payload operators, or ground personnel, nor does it distinguish between different levels of pilot authority or discuss the roles for pilot-in-command, supplemental pilot, or observer. The recommendations outlined in this document assume that UAS pilot certification will not require a manned certification as a prerequisite. No recommendations are given for recurrent training, specific medical requirements, or whether or not UAS instructors must hold a Certified Flight Instructor (CFI) certificate.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Training and certification of UAS pilots for commercial operations in the National Airspace System (NAS) is a new field. Consequently, the scope of this document is limited to proposing an initial framework to train and certify UAS pilots for fixed wing UAS. As the community grows, certification and training requirements will become more detailed and refined. Additionally, there are other classes of UAS that will need to be addressed in detail in the future. These include rotary wing, ducted fan vertical flight, and lighter-than-air.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

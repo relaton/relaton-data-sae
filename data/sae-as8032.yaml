@@ -1,0 +1,53 @@
+---
+id: SAEAS8032
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft General Purpose Electrical Wire, Minimum Performance Standard
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8032
+- type: src
+  content: https://saemobilus.sae.org/standards/as8032-aircraft-general-purpose-electrical-wire-minimum-performance-standard
+docidentifier:
+- content: SAE AS8032
+  type: SAE
+  primary: true
+- content: 10.4271/as8032
+  type: DOI
+date:
+- type: approved
+  at: '1991-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8D Wire and Cable Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This document defines the minimum performance levels that are required
+    for electrical wire used in civil aircraft.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,55 @@
+---
+id: SAEJ951_201311
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Florida Exposure of Automotive Finishes
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j951_201311
+- type: src
+  content: https://saemobilus.sae.org/standards/j951_201311-florida-exposure-automotive-finishes
+docidentifier:
+- content: SAE J951_201311
+  type: SAE
+  primary: true
+- content: 10.4271/j951_201311
+  type: DOI
+date:
+- type: approved
+  at: '2013-11-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Materials, Processes and Parts Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The purpose of this SAE Information Report is to compare the results
+    of Florida exposure at 45 deg from the horizontal, facing south, with  those at
+    deg from the horizontal, facing south, using various types and colors of automotive
+    finishes.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

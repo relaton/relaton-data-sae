@@ -1,0 +1,56 @@
+---
+id: SAEAS916B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Oxygen Flow Indicators
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as916b
+- type: src
+  content: https://saemobilus.sae.org/standards/as916b-oxygen-flow-indicators
+docidentifier:
+- content: SAE AS916B
+  type: SAE
+  primary: true
+- content: 10.4271/as916b
+  type: DOI
+date:
+- type: approved
+  at: '2016-06-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) defines the overall requirements applicable to oxygen flow indicating devices intended to operate in conjunction with an oxygen regulator and mask system. Flow indicators covered by this document are for use with pressure demand, diluter-demand and continuous flow oxygen systems.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

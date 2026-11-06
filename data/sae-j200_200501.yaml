@@ -1,0 +1,59 @@
+---
+id: SAEJ200_200501
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Classification System for Rubber Materials
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j200_200501
+- type: src
+  content: https://saemobilus.sae.org/standards/j200_200501-classification-system-rubber-materials
+docidentifier:
+- content: SAE J200_200501
+  type: SAE
+  primary: true
+- content: 10.4271/j200_200501
+  type: DOI
+date:
+- type: approved
+  at: '2005-01-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Committee on Automotive Rubber Specs
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This classification system tabulates the properties of vulcanized rubber materials (natural rubber, reclaimed rubber, synthetic rubbers, alone or in combination) that are intended for, but not limited to, use in rubber products for automotive applications.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

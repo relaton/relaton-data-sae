@@ -1,0 +1,56 @@
+---
+id: SAEARP410215
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ELECTRONIC LIBRARY SYSTEM (ELS)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4102/15
+- type: src
+  content: https://saemobilus.sae.org/standards/arp410215-electronic-library-system-els
+docidentifier:
+- content: SAE ARP4102/15
+  type: SAE
+  primary: true
+- content: 10.4271/arp4102/15
+  type: DOI
+date:
+- type: approved
+  at: '1998-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-7 Flight Deck Handling Qualities Stds for Trans Aircraft
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document recommends criteria for an Electronic Library System (ELS) for use on the flight deck of transport aircraft. The ELS may be the primary, and in some cases sole, on board source of documentation and information for flight operations, engineering, aircraft maintenance and training. This document addresses flight operations applications only.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

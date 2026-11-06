@@ -1,0 +1,60 @@
+---
+id: SAEJ1676_202309
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guideline for Photo-Documentation of Exterior Vehicle Damage for 3D Analysis
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1676_202309
+- type: src
+  content: https://saemobilus.sae.org/standards/j1676_202309-guideline-photo-documentation-exterior-vehicle-damage-3d-analysis
+docidentifier:
+- content: SAE J1676_202309
+  type: SAE
+  primary: true
+- content: 10.4271/j1676_202309
+  type: DOI
+date:
+- type: approved
+  at: '2023-09-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Crash Data Collection and Analysis Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The 3D crush model can be obtained by any suitable photogrammetry method using this image set and is intended to graphically represent in photographs the shape and orientation of the damaged surface(s) relative to the undamaged, or least damaged, portion of the vehicle. The procedure is intended to provide an image set sufficient to determine, with the use of photogrammetric methodologies, the 3D location of points on the crushed surface of the damaged vehicle.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Measurement of the exterior damaged surface(s) on a vehicle is a necessary step in quantifying the deformation caused by a collision and the energy dissipated by the deformation process. The energy analysis is sometimes called a crush analysis. Evaluation of the energy dissipated is useful in reconstructing the change in the velocity of the vehicles (delta-V) involved in a collision.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This guideline is intended for use by investigators who do not have photogrammetry expertise, special equipment or training and may be constrained to a short time period for photography. The person who captures the image set is not expected to perform the photogrammetry or to necessarily understand how it is accomplished. It may be used by law enforcement personnel, safety officials, insurance adjusters, and other interested parties.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This guideline has a written body which explains the foundation for the procedure and an appendix which specifies the procedure with accompanying diagrams. &lt;span class="xref"&gt;Appendix A&lt;/span&gt; is intended to be used as a separable field guide.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This procedure recommends capturing more images than are absolutely necessary rather than specifying the criteria for selecting the absolute minimum set.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

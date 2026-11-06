@@ -1,0 +1,48 @@
+---
+id: SAEAMS4290E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY CASTINGS, DIE 9.5Si - 0.5Mg (360) As Cast
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4290e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4290e-aluminum-alloy-castings-die-95si-05mg-360-cast
+docidentifier:
+- content: SAE AMS4290E
+  type: SAE
+  primary: true
+- content: 10.4271/ams4290e
+  type: DOI
+date:
+- type: approved
+  at: '1951-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

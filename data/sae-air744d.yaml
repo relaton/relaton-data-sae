@@ -1,0 +1,58 @@
+---
+id: SAEAIR744D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Auxiliary Power Sources
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air744d
+- type: src
+  content: https://saemobilus.sae.org/standards/air744d-aerospace-auxiliary-power-sources
+docidentifier:
+- content: SAE AIR744D
+  type: SAE
+  primary: true
+- content: 10.4271/air744d
+  type: DOI
+date:
+- type: approved
+  at: '2020-11-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C4 Power Sources Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) is a review of the general characteristics of power sources that may be used to provide secondary, auxiliary, or emergency power for use in aircraft, space vehicles, missiles, remotely piloted vehicles, air cushion vehicles, surface effect ships, or other vehicles in which aerospace technology is used.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The information contained herein is intended for use in the selection of the power source most appropriate to the needs of a particular vehicle or system. The information may also be used in the preparation of a power source specification.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Considerations for use in making a trade study and an evaluation of the several power sources are included. More detailed information relating to specific power sources is available in other SAE Aerospace Information Reports or in Aerospace Recommended Practices.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

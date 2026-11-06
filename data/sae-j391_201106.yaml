@@ -1,0 +1,56 @@
+---
+id: SAEJ391_201106
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Definition for Particle Size
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j391_201106
+- type: src
+  content: https://saemobilus.sae.org/standards/j391_201106-definition-particle-size
+docidentifier:
+- content: SAE J391_201106
+  type: SAE
+  primary: true
+- content: 10.4271/j391_201106
+  type: DOI
+date:
+- type: approved
+  at: '2011-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Surface Enhancement Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;"Effective particle or domain size" is a phrase used in X-ray diffraction literature to describe the size of the coherent regions within a material which are diffracting. Coherency in this sense means diffracting as a unit. Small particle size causes X-ray line broadening and as such can be measured. It has been shown related to substructure as observed in transmission electron microscopy. Particle size is affected by hardening, cold working, and fatigue; conversely, there is increasing evidence that particle size, per se, affects both static and dynamic strength.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

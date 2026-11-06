@@ -1,0 +1,56 @@
+---
+id: SAEGEIASTD0008
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Derating of Electronic Components
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/geiastd0008
+- type: src
+  content: https://saemobilus.sae.org/standards/geiastd0008-derating-electronic-components
+docidentifier:
+- content: SAE GEIA-STD-0008
+  type: SAE
+  primary: true
+- content: 10.4271/geiastd0008
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CE-12 Solid State Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Standard specifies the minimum derating requirements for using electronic components in moderately severe environments. These environments are assumed to include Airborne Inhabited Cargo (AIC), Airborne Inhabited Fighter (AIF), Ground Mobile (GM), and Naval Sheltered (NS) environments specified in MIL-HDBK-217. This Standard is intended to supersede the derating limits contained in Defense Standardization Program Office (DSPO) Standardization Directive SD-18, Naval Standard TE000-AB-GTP-010, and Air Force ESD-TR-85-148. It is intended that a future revision of this Standard will include additional requirements for derating for other environments (e.g. Airborne Uninhabited Cargo). Since this Standard specifies the minimum derating requirements, (sub)contractors may derate in excess of these requirements. This Standard is not intended for use in space or launch system applications, which have their own existing derating standards, and shall not be used for such applications unless specifically allowed by contract.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

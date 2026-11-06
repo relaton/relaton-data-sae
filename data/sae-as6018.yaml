@@ -1,0 +1,58 @@
+---
+id: SAEAS6018
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Wrench, Spanner
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6018
+- type: src
+  content: https://saemobilus.sae.org/standards/as6018-wrench-spanner
+docidentifier:
+- content: SAE AS6018
+  type: SAE
+  primary: true
+- content: 10.4271/as6018
+  type: DOI
+date:
+- type: approved
+  at: '2013-05-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EG-1B Hand Tools Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) covers adjustable and non-adjustable spanner wrenches generally used for aerospace machinery maintenance and for tightening and loosening hose couplings and hydrant caps.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Inclusion of dimensional data in this document is not intended to imply all of the products described therein are stock production sizes. Consumers are requested to consult with manufacturers concerning lists of stock production sizes.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

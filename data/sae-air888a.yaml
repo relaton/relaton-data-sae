@@ -1,0 +1,56 @@
+---
+id: SAEAIR888A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FINE WIRE MESH FOR FILTER ELEMENTS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air888a
+- type: src
+  content: https://saemobilus.sae.org/standards/air888a-fine-wire-mesh-filter-elements
+docidentifier:
+- content: SAE AIR888A
+  type: SAE
+  primary: true
+- content: 10.4271/air888a
+  type: DOI
+date:
+- type: approved
+  at: '1989-05-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AIR discusses the terminology, types, method of manufacture and chemistry of the fine wire meshes used for filtration of hydraulic, lubrication, fuel systems and similar applications. Information contained herein may be used for quality assurance testing to insure that a high performance filter grade wire mesh is acceptable for use in an aerospace application.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

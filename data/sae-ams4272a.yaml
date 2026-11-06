@@ -1,0 +1,57 @@
+---
+id: SAEAMS4272A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Alclad Sheet and Plate (Alclad 2029-T8) 3.6Cu - 0.30Mn
+    - 0.95Mg - 0.40Ag - 0.12Zr Solution Heat Treated, Cold Worked and Aged
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4272a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4272a-aluminum-alloy-alclad-sheet-plate-alclad-2029-t8-36cu-030mn-095mg-040ag-012zr-solution-heat-treated-cold-worked-aged
+docidentifier:
+- content: SAE AMS4272A
+  type: SAE
+  primary: true
+- content: 10.4271/ams4272a
+  type: DOI
+date:
+- type: approved
+  at: '2021-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of sheet and plate, clad on both sides, from 0.063 to 0.600 inch (1.60 to 15.24 mm), inclusive, in nominal thickness (see &lt;span class="xref"&gt;8.7&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

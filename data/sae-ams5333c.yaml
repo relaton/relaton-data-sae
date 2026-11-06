@@ -1,0 +1,57 @@
+---
+id: SAEAMS5333C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL CASTINGS, INVESTMENT 0.50Cr - 0.55Ni - 0.25Mo (0.11 - 0.17C) (SAE
+    8615) Normalized
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5333c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5333c-steel-castings-investment-050cr-055ni-025mo-011-017c-sae-8615-normalized
+docidentifier:
+- content: SAE AMS5333C
+  type: SAE
+  primary: true
+- content: 10.4271/ams5333c
+  type: DOI
+date:
+- type: approved
+  at: '1985-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a low-alloy steel in the form of investment castings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

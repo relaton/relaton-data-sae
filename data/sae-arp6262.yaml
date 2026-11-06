@@ -1,0 +1,59 @@
+---
+id: SAEARP6262
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Basic Composite Repair Technician Certification Standard
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6262
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6262-basic-composite-repair-technician-certification-standard
+docidentifier:
+- content: SAE ARP6262
+  type: SAE
+  primary: true
+- content: 10.4271/arp6262
+  type: DOI
+date:
+- type: approved
+  at: '2014-02-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CACRC Commercial Aircraft Composite Repair Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;It is recognized that the structural integrity of repaired composite structures depends upon the capabilities of the individuals who are responsible for performing the repairs. This document is intended to address repairs of composite structure regardless of the type of structure such as marine, wind turbine, automotive, aircraft, or other applications.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This certification standard establishes the minimum requirements for training, examining, and certifying composite structure repair personnel. It establishes criteria for the certification of personnel requiring appropriate knowledge of the technical principles underlying the composite structural repairs they perform. Persons certified under this document &lt;u&gt;&lt;b&gt;&lt;i&gt;may&lt;/i&gt;&lt;/b&gt;&lt;/u&gt; be eligible for licensing or certification/ qualification by an appropriate authority, in addition to this industry accepted basic composite repair technician certification.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Persons who successfully complete the requirements of this certification standard are considered to be able to perform &lt;u&gt;&lt;b&gt;&lt;i&gt;basic&lt;/i&gt;&lt;/b&gt;&lt;/u&gt; composite repairs to composite structures in compliance with the manufacturers’ repair documentation or other acceptable repair methods.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is not intended to include structure specific repairs that are in manufacturer’s maintenance or repair manuals. Additional specific training may be required by the maintenance organization.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,48 @@
+---
+id: SAEARP682
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SAFETY (LAP) BELTS (FOR CIVIL TRANSPORT AIRCRAFT)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp682
+- type: src
+  content: https://saemobilus.sae.org/standards/arp682-safety-lap-belts-civil-transport-aircraft
+docidentifier:
+- content: SAE ARP682
+  type: SAE
+  primary: true
+- content: 10.4271/arp682
+  type: DOI
+date:
+- type: approved
+  at: '1961-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aircraft Seat Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

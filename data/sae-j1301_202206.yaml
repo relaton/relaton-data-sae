@@ -1,0 +1,62 @@
+---
+id: SAEJ1301_202206
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Truck Deformation Classification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1301_202206
+- type: src
+  content: https://saemobilus.sae.org/standards/j1301_202206-truck-deformation-classification
+docidentifier:
+- content: SAE J1301_202206
+  type: SAE
+  primary: true
+- content: 10.4271/j1301_202206
+  type: DOI
+date:
+- type: approved
+  at: '2022-06-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Crash Data Collection and Analysis Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope and purpose of this SAE Recommended Practice is to provide a classification system for deformation sustained by trucks involved in collisions on the highway. Application of the document is limited to medium trucks, heavy trucks, and articulated combinations.&lt;span class="xref"&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/span&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The Truck Deformation Classification (TDC) classifies collision contact deformation, as opposed to induced deformation, so that the deformation is segregated into rather narrow limits or categories. Studies of collision deformation can then be performed on one or many data banks with assurance that data under study are of essentially the same type.&lt;span class="xref"&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/span&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Many of the features of the SAE J224 MAR80 have been retained in this document, although the characters within specific columns vary. Each document must therefore be applied to the appropriate vehicle type. It is also important to note that the TDC does not identify specific vehicle configurations and body types.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The TDC is an expression, useful to persons engaged in vehicle safety, to appropriately describe a collision-damaged truck with conciseness in oral and written communications. The TDC is also a research tool; however, it has not been designed for use in impact energy computation. The research community is cautioned not to attempt direct conversion calculations from the TDC to energy equivalents required to duplicate the damage.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The system consists of seven alphanumeric characters arranged in a specific order to form a descriptive composite of the vehicle damage (see &lt;span class="xref"&gt;Figure 1&lt;/span&gt;). The characters describe the principal force direction, location, specific area, type, and extent of damage.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The individual character positions are referenced by column number for identification. The definition of each classification is provided in subsequent sections.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

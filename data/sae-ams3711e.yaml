@@ -1,0 +1,56 @@
+---
+id: SAEAMS3711E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Core, Honeycomb Fibrous, Aramid Base, Phenolic Coated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3711e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3711e-core-honeycomb-fibrous-aramid-base-phenolic-coated
+docidentifier:
+- content: SAE AMS3711E
+  type: SAE
+  primary: true
+- content: 10.4271/ams3711e
+  type: DOI
+date:
+- type: approved
+  at: '2013-07-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P17 Polymer Matrix Composites Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers expanded honeycomb core made of fibrous aramid paper sheets and supplied in the form of blocks, slices, and ordered shapes.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

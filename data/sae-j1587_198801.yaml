@@ -1,0 +1,73 @@
+---
+id: SAEJ1587_198801
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: JOINT SAE/TMC ELECTRONIC DATA INTERCHANGE BETWEEN MICROCOMPUTER SYSTEMS
+    IN HEAVY DUTY VEHICLE APPLICATIONS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1587_198801
+- type: src
+  content: https://saemobilus.sae.org/standards/j1587_198801-joint-sae-tmc-electronic-data-interchange-microcomputer-systems-heavy-duty-vehicle-applications
+docidentifier:
+- content: SAE J1587_198801
+  type: SAE
+  primary: true
+- content: 10.4271/j1587_198801
+  type: DOI
+date:
+- type: approved
+  at: '1988-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document defines a recommended practice for the format of messages and data that is of general value to modules on the data communications link. Included are field descriptions, size, scale, internal data representation, and position within a message. The recommended practice also describes guidelines for the frequency of and circumstances in which messages are transmitted.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In order to promote compatibility among all aspects of electronic data used in heavy duty applications, it is the intention of the Data Format Subcommittee (in conjunction with other industry groups) to develop recommended message formats for:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Vehicle and Component Information - This includes all information that pertains to the operation of the vehicle and its components (such as performance, maintenance and diagnostic data).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Routing and Scheduling Information - Information related to the planned or actual route of the vehicle. It includes current vehicle location (for example, geographical coordinates) and estimated time of arrival.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Driver Information - Information related to driver activity. Includes driver identification, logs (for example, DOT), driver expenses, performance, status and payroll data.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Freight Information - Provides data associated with cargo being shipped, picked up or delivered. Includes freight status, overage, shortage and damage reporting, billing and invoice information as well as customer and consignee data.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;This recommended practice represents the recommended formats for basic vehicle and component identification and performance data. As additional areas are defined or existing areas enhanced, this recommended practice will be modified accordingly.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

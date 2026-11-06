@@ -1,0 +1,57 @@
+---
+id: SAEAMS6423C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS, FORGINGS, AND TUBING 0.92Cr - 0.75Ni - 0.52Mo - 0.003B - 0.04V
+    (0.40 - 0.46C)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6423c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6423c-steel-bars-forgings-tubing-092cr-075ni-052mo-0003b-004v-040-046c
+docidentifier:
+- content: SAE AMS6423C
+  type: SAE
+  primary: true
+- content: 10.4271/ams6423c
+  type: DOI
+date:
+- type: approved
+  at: '1983-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aircraft-quality, low-alloy steel in the form of bars, forgings, mechanical tubing, and forging stock.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

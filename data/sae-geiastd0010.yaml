@@ -1,0 +1,57 @@
+---
+id: SAEGEIASTD0010
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standard Best Practices for System Safety Program Development and Execution
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/geiastd0010
+- type: src
+  content: https://saemobilus.sae.org/standards/geiastd0010-standard-best-practices-system-safety-program-development-execution
+docidentifier:
+- content: SAE GEIA-STD-0010
+  type: SAE
+  primary: true
+- content: 10.4271/geiastd0010
+  type: DOI
+date:
+- type: approved
+  at: '2008-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-48 System Safety
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document outlines a standard practice for conducting system safety. The system safety practice as defined herein provides a consistent means of evaluating identified risks. Mishap risk must be identified, evaluated, and mitigated to a level as low as reasonably practicable. The mishap risk must be accepted by the appropriate authority and comply with federal (and state, where applicable) laws and regulations, executive orders, treaties, and agreements. Program trade studies associated with mitigating mishap risk must consider total life cycle cost in any decision.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is intended for use as one of the elements of project solicitation for complex systems requiring a systematic evaluation of safety hazards and mitigating measures. The Managing authority may identify, in the solicitation and system specification, specific system safety engineering requirements to be met by the Developer. These may include risk assessment and acceptance criteria, unique classifications and certifications, or mishap reduction needs unique to their program. Additional information in meeting program specific requirements is located in the Appendixes.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

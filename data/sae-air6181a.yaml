@@ -1,0 +1,65 @@
+---
+id: SAEAIR6181A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electronic Propulsion Control System/Aircraft Interface Control Documents
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6181a
+- type: src
+  content: https://saemobilus.sae.org/standards/air6181a-electronic-propulsion-control-system-aircraft-interface-control-documents
+docidentifier:
+- content: SAE AIR6181A
+  type: SAE
+  primary: true
+- content: 10.4271/air6181a
+  type: DOI
+date:
+- type: approved
+  at: '2021-03-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-36 Electronic Engine Controls Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides guidelines to document the functional and physical interface requirements for the electrical systems (including an Electronic Engine Control System (EECS) and its components) between a given propulsion system and the aircraft on which the system is installed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The Interface Control Document (ICD) is considered to be a subset of the Engine Installation Manual, with interface considerations between the Airframer and Engine manufacturer. Although it can be developed concurrently with the Airframer and Engine manufacturer, its format and content result from an agreement between the Engine and Aircraft Type Certificate Holders, using the Certification Guidelines.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Within this document, the following definitions are adapted from the AC33.28-1 and CS-Definitions:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;“Engine Control System” means any system or device which is part of the Engine Type design, which controls, limits, or monitors Engine operation and is necessary for continued airworthiness of the Engine.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;“Electronic Engine Control System” (EECS) means an Engine Control System in which the primary functions are provided using electronics. It includes all the components (i.e., electrical, electronic, hydro-mechanical and pneumatic) which are necessary for the control of the Engine and may incorporate other control functions where desired.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;The term “EEC” is used to refer to the Electronic Engine Control unit. The term “aircraft” is used with the global meaning of aircraft or rotorcraft.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The scope includes commercial and general aviation aircraft powered by piston, turbofan, turboprop, and turboshaft engines equipped with electronic engine controls. It can also be applicable to an Auxiliary Power Unit (APU) equipped with an electronic control.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEJ402_199311
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SAE NUMBERING SYSTEM FOR WROUGHT OR ROLLED STEEL
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j402_199311
+- type: src
+  content: https://saemobilus.sae.org/standards/j402_199311-sae-numbering-system-wrought-rolled-steel
+docidentifier:
+- content: SAE J402_199311
+  type: SAE
+  primary: true
+- content: 10.4271/j402_199311
+  type: DOI
+date:
+- type: approved
+  at: '1993-11-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Carbon and Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard is intended to supply a uniform means of designating wrought ferrous materials reported in SAE Standards and Recommended Practices.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A numerical index system is used to identify the compositions of the SAE steels. This system makes it possible to use numbers on shop drawings and blueprints to describe partially the composition of the material. A four-numeral series is usually used to designate standard alloy and carbon steels specified to chemical composition ranges. There are certain types of alloy steels which are designated by five numerals. The prefix E is used to designate steels which are made by the basic electric furnace process with special practices. The suffix H is used to designate standard hardenability steels. The last two digits of the four-numeral series and the last three digits of the five-numeral series are intended to indicate the approximate mean of the carbon range. For example, in the Grade 1035, 35 represents a carbon range of 0.32 to 0.38% and in Grade E52100, 100 represents a carbon range of 0.98 to 1.10%. It is necessary, however, to deviate from this system and to interpolate numbers in the case of some carbon ranges, and for variations in manganese, sulfur, or other elements with the same carbon range. The first two digits of the SAE numeral series for the various grades of alloy and carbon steel are given in &lt;span class="xref"&gt;Table 1&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The Unified Numbering System (UNS) is described in greater detail in SAE J1086 and ASTM E 527.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The basic numerals of the various types of standard and formerly standard SAE steels are given in the table.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

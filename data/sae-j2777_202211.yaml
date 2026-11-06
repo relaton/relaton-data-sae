@@ -1,0 +1,58 @@
+---
+id: SAEJ2777_202211
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Recommended Best Practice for Climatic Wind Tunnel Correlation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2777_202211
+- type: src
+  content: https://saemobilus.sae.org/standards/j2777_202211-recommended-best-practice-climatic-wind-tunnel-correlation
+docidentifier:
+- content: SAE J2777_202211
+  type: SAE
+  primary: true
+- content: 10.4271/j2777_202211
+  type: DOI
+date:
+- type: approved
+  at: '2022-11-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Interior Climate Control Vehicle OEM Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;With many corporations and suppliers conducting development and validation tests at different climatic wind tunnel sites, there is an increasing need for a recommended best practice that defines a process by which climatic wind tunnels can be correlated. This document addresses the test methods and metrics used to correlate results from different facilities, independent of location, for heating ventilation and air conditioning (HVAC) and powertrain cooling (PTC) development. This document should be used as a guideline to make sure key aspects of tunnel testing are covered when comparing various climatic wind tunnel facilities.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The depth of the correlation program is ultimately influenced by program objectives; therefore, a correlation program, for the intent and purposes of this document, can range from just a few tests to a full analysis that involves multiple vehicle tests identifying limitations and statistical boundaries. Using recommendations in this document will eliminate most of the items that effect facility mismatch in a correlation program.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

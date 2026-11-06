@@ -1,0 +1,59 @@
+---
+id: SAEJ35_199503
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Diesel Smoke Measurement Procedure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j35_199503
+- type: src
+  content: https://saemobilus.sae.org/standards/j35_199503-diesel-smoke-measurement-procedure
+docidentifier:
+- content: SAE J35_199503
+  type: SAE
+  primary: true
+- content: 10.4271/j35_199503
+  type: DOI
+date:
+- type: approved
+  at: '1995-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: SAE IC Powertrain Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice applies to the dynamometer test procedure which can be used to assess the smoke emission characteristics of vehicular diesel engines. In particular, this procedure describes the smoke test cycle, equipment and instrumentation, instrument checks, chart reading, and calculation for evaluation of an engine's transient smoke emission characteristic. In addition, this procedure offers guidelines to be used in establishing correlation between full flow in-line and end-of-line opacimeters.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Since the type of test described here is transient in nature, a fast responding full flow opacimeter is required for the smoke measurements. Slow responding or sampling, or both, type instruments must not be used since they typically have excessive and variable response delays and do not provide an accurate measurement of an engine's transient smoke characteristics.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

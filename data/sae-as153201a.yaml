@@ -1,0 +1,49 @@
+---
+id: SAEAS153201A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STUD, STEPPED, DRILLED 1.5 DIA ENGAGEMENT, CADMIUM PLATED, STEEL UNS G87400,
+    .3750-16 UNS X .3125-24 UNF-3A
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as153201a
+- type: src
+  content: https://saemobilus.sae.org/standards/as153201a-stud-stepped-drilled-15-dia-engagement-cadmium-plated-steel-uns-g87400-3750-16-uns-x-3125-24-unf-3a
+docidentifier:
+- content: SAE AS153201A
+  type: SAE
+  primary: true
+- content: 10.4271/as153201a
+  type: DOI
+date:
+- type: approved
+  at: '2010-03-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

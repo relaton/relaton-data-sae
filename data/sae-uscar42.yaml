@@ -1,0 +1,57 @@
+---
+id: SAEUSCAR42
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Ergonomic Guidelines for Small Lot Delivery Operations
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar42
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar42-ergonomic-guidelines-small-lot-delivery-operations
+docidentifier:
+- content: SAE USCAR-42
+  type: SAE
+  primary: true
+- content: 10.4271/uscar42
+  type: DOI
+date:
+- type: approved
+  at: '2015-03-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes the design, assessment methods and physical requirements associated with material handling systems. This would include, but not limited to manual dollies, small lot systems and kitting.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;All possible designs and applications could not be anticipated in creating these guidelines. Where there are questions of adherence to this document, such as use of an “off-the shelf” design, always consult the responsible Ergonomics Department.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

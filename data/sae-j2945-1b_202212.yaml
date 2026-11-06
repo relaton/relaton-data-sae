@@ -1,0 +1,57 @@
+---
+id: SAEJ29451B_202212
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: On-Board System Requirements for V2V Safety Communications by Non-Light-Duty
+    Vehicles and Motorcycles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2945/1b_202212
+- type: src
+  content: https://saemobilus.sae.org/standards/j29451b_202212-board-system-requirements-v2v-safety-communications-non-light-duty-vehicles-motorcycles
+docidentifier:
+- content: SAE J2945/1B_202212
+  type: SAE
+  primary: true
+- content: 10.4271/j2945/1b_202212
+  type: DOI
+date:
+- type: approved
+  at: '2022-12-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Core Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard specifies the system requirements for vehicle-to-vehicle (V2V) safety system for FHWA vehicle classes 1 (motorcycles and 4 through 13 (non-light-duty), including functional requirements and performance requirements. The system can transmit and receive the SAE J2735-defined BSM over a wireless communications interface; the communications interface itself is outside the scope of this document. This document provides the specifications necessary to build interoperable systems that support V2V safety applications for non-lightweight vehicles, as well as motorcycles which rely on the exchange of BSMs. The document covers vehicle classes not addressed in SAE J2945/1 and SAE J3161/1.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

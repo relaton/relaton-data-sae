@@ -1,0 +1,57 @@
+---
+id: SAESSB1_003A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Acceleration Factors
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ssb1_003a
+- type: src
+  content: https://saemobilus.sae.org/standards/ssb1_003a-acceleration-factors
+docidentifier:
+- content: SAE SSB1-003A
+  type: SAE
+  primary: true
+- content: 10.4271/ssb1_003a
+  type: DOI
+date:
+- type: approved
+  at: '2014-09-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CE-12 Solid State Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is an annex to EIA Engineering Bulletin SSB-1, &lt;i&gt;Guidelines for Using Plastic Encapsulated Microcircuits and Semiconductors in Military, Aerospace and Other Rugged Applications&lt;/i&gt; (the latest revision).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document provides reference information concerning acceleration factors commonly used by device manufacturers to model failure rates in conjunction with statistical reliability monitoring. These acceleration factors are frequently used by OEMs in conjunction with physics of failure reliability analysis to assess the suitability of plastic encapsulated microcircuits and semiconductors for specific end use applications.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

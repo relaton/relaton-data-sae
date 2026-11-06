@@ -1,0 +1,57 @@
+---
+id: SAEJ2909_201806
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Light Vehicle Dry & Wet Stopping Distance Test Procedure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2909_201806
+- type: src
+  content: https://saemobilus.sae.org/standards/j2909_201806-light-vehicle-dry-wet-stopping-distance-test-procedure
+docidentifier:
+- content: SAE J2909_201806
+  type: SAE
+  primary: true
+- content: 10.4271/j2909_201806
+  type: DOI
+date:
+- type: approved
+  at: '2018-06-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Highway Tire Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document establishes best practices to measure vehicle stopping distance on dry or wet asphalt in a straight path of travel intended for the purpose of publishing stopping distance by manufacturers and media organizations for vehicles with original equipment tires. It is recommended that the test method within be adopted for all vehicles less than 4536 kg (10000 pounds) GVWR. This procedure is typically used with initial speeds of 100 km/h and 60 mph, but other speeds may be used. Since tires play a significant role in stopping distance, this procedure covers tire types typically used as original equipment on new vehicles including all-season, summer, and all-terrain tires. This document may serve as a procedural guideline for all tire types, but the surface temperature correction formulas in this procedure were developed using all-season tires and may not be applicable to other tire types.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

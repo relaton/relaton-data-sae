@@ -1,0 +1,59 @@
+---
+id: SAEAMS5410B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nickel Alloy, Corrosion and Heat Resistant, Investment Castings 61Ni -
+    16Cr - 8.5Co - 1.8Mo - 2.6W - 0.85Cb - 3.4Ti - 1.8Ta - 3.4Al - 0.010B - 0.05Zr
+    Vacuum Melted, Vacuum Cast As Cast, or Solution Treated, or Solution and Precipitation
+    Hardened
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5410b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5410b-nickel-alloy-corrosion-heat-resistant-investment-castings-61ni-16cr-85co-18mo-26w-085cb-34ti-18ta-34al-0010b-005zr-vacuum-melted-vacuum-cast-cast-solution-treated-solution-precipitation-hardened
+docidentifier:
+- content: SAE AMS5410B
+  type: SAE
+  primary: true
+- content: 10.4271/ams5410b
+  type: DOI
+date:
+- type: approved
+  at: '2010-07-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat resistant vacuum melted nickel alloy in the form of investment castings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

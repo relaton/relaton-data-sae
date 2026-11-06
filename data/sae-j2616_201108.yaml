@@ -1,0 +1,70 @@
+---
+id: SAEJ2616_201108
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Testing Performance of the Fuel Processor Subsystem of an Automotive Fuel
+    Cell System
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2616_201108
+- type: src
+  content: https://saemobilus.sae.org/standards/j2616_201108-testing-performance-fuel-processor-subsystem-automotive-fuel-cell-system
+docidentifier:
+- content: SAE J2616_201108
+  type: SAE
+  primary: true
+- content: 10.4271/j2616_201108
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Cell Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice is intended to serve as a design verification procedure and not a product qualification procedure. It may be used to verify design specifications or vendor claims. Test procedures, methods and definitions for the performance of the fuel processor subsystem (FPS) of a fuel cell system (FCS) are provided. Fuel processor subsystems (FPS) include all components required in the conversion of input fuel and oxidizer into a hydrogen-rich product gas stream suitable for use in fuel cells. Performance of the fuel processor subsystem includes evaluating system energy inputs and useful outputs to determine fuel conversion efficiency and where applicable the overall thermal effectiveness. Each of these performance characterizations will be determined to an uncertainty of less than ± 2% of the value.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The method allows for the evaluation of fuel processor subsystems for two general cases.&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Compare fuel processors with different designs (e.g., catalytic partial oxidation reforming, autothermal reforming or steam reforming) on a common basis where no specific fuel cell system design has been identified.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Assess the performance of a specific fuel processor in the context of a specific fuel cell system design.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;This document applies to all fuel processor subsystems for transportation applications regardless of fuel processor type, fuel cell type, electrical power output, thermal output, or system application (propulsion or auxiliary power unit (APU)). For example, the fuel processor subsystems associated with proton exchange, molten carbonate and solid oxide fuel cells can differ due to the requirements of the fuel cells themselves.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Performance of the fuel processor subsystem, and preprocessor if applicable, is evaluated. A stand alone fuel processor “system” or even the primary reactor (e.g., autothermal, partial oxidation or steam reforming reactor) of a fuel processor subsystem that would normally be integrated into a fuel cell system can be evaluated. The fuel processor together with the preprocessor (if required) converts the fuel (gasoline or other liquid hydrocarbon) to a reformate gas consisting largely of H&lt;sub&gt;2&lt;/sub&gt;, CO, CO&lt;sub&gt;2&lt;/sub&gt;, H&lt;sub&gt;2&lt;/sub&gt;O and N&lt;sub&gt;2&lt;/sub&gt; (if air is used). After the fuel processor subsystem, reformate gas typically contains only trace levels of carbon bearing components higher than C&lt;sub&gt;1&lt;/sub&gt;. The FPS would be evaluated in a test facility that is designed to evaluate a stand-alone component rather than a portion of the reformer such as a specific catalyst or a particular vessel design.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Any fuel(s) mutually agreed to by the test parties can be used such as 1) straight run gasoline (EPA Fuel-CARB reformulated gasoline Tier II, 30 ppm sulfur), or 2) methanol or 3) hydrocarbon fuel such as iso-octane, naptha, diesel, liquefied natural gas (LNG) or LPG (propane), etc.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The procedures provide a point-in-time evaluation of the performance of the fuel processor subsystem. Steady state and transient (start-up and load-following) performance are included. Methods and procedures for conducting and reporting fuel processor testing, including instrumentation to be used, testing techniques, and methods for calculating and reporting results are provided. The boundary limits for fuel and oxidant input, secondary energy input and net energy output are defined. Procedures for measuring temperature, pressure, input fuel flow and composition, electrical power and thermal output at the boundaries are provided.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Procedures for determination of the FPS performance measures such as fuel processor efficiency and cold gas efficiency at a rated load or any other steady state condition are provided. Methods to correct results from the test conditions to reference conditions are provided.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SI units are used throughout the recommended practice document.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

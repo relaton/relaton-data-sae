@@ -1,0 +1,58 @@
+---
+id: SAEAIR5271
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: A Guideline for Application of High-Density Fiber Optic Interconnects to
+    Aerospace Platforms
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5271
+- type: src
+  content: https://saemobilus.sae.org/standards/air5271-a-guideline-application-high-density-fiber-optic-interconnects-aerospace-platforms
+docidentifier:
+- content: SAE AIR5271
+  type: SAE
+  primary: true
+- content: 10.4271/air5271
+  type: DOI
+date:
+- type: approved
+  at: '2009-03-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR5271) covers the basic attributes of a second-generation robust, reliable high-density fiber optic interconnect system for aerospace applications. The intent is to take advantage of recent commercial developments in materials, components and manufacturing methods to develop rugged high-density fiber optic interconnects optimized for aerospace and automotive applications, which can accommodate a variety of optical fiber waveguide types. These waveguide types include single mode and multi-mode glass/glass fibers and waveguides, plastic clad silica fibers and waveguides, and all polymer fibers and waveguides. This second generation interconnect system should represent a dramatic improvement over first generation. The cable should be extremely robust eliminating any concerns over cable damage or fiber breakage in an aerospace environment.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A high-density fiber optic interconnect system provides the physical medium for optical data and control communication in aerospace vehicles. As such, it consists of the cables and harnesses, connectors, splices, backplane interfaces, transceivers, fiber optic couplers, and includes test and maintenance concepts for these items. Also included are manufacturing, installation and repair tools, processes and training programs. The high-density format should provide for both redundant serial data transmission or parallel data transfer by providing a scaleable fiber count. Connectors should provide an extremely small footprint, with low mass connector shells and array inserts, and accommodate both single and multi-mode fibers. Fiber spacing and cladding diameter should be standardized and coatings utilized to guarantee long term reliability. The cable connector interface shall be optimized to preclude damage during installation and/or maintenance actions as well as ease of termination. All elements of the cable plant should be compatible including splices and couplers with minimum weight, volume and footprint. This optimized cable plant shall serve as an integrated information distribution system capable of transferring all information on military and commercial aircraft with dramatic improvements in affordability, reliability, fault tolerance, EMI/EMP immunity and safety. Utilization of this cable plant will improve aircraft performance and fuel economy, providing operational cost effectiveness while reducing new aircraft certification costs.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

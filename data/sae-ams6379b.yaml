@@ -1,0 +1,54 @@
+---
+id: SAEAMS6379B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Bars, Die Drawn, 0.95cr 0.29mo 0.05te (0.40-0.53c), Tempered, 165,000 Psi
+    Yield
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6379b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6379b-bars-die-drawn-095cr-029mo-005te-040-053c-tempered-165000-psi-yield
+docidentifier:
+- content: SAE AMS6379B
+  type: SAE
+  primary: true
+- content: 10.4271/ams6379b
+  type: DOI
+date:
+- type: approved
+  at: '2001-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers a low-alloy steel in the form of round bars
+    up to 2.00 in. (50.8 mm), incl, in diameter.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

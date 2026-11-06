@@ -1,0 +1,56 @@
+---
+id: SAEARP4001B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Lavatory Smoke Detectors
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4001b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4001b-lavatory-smoke-detectors
+docidentifier:
+- content: SAE ARP4001B
+  type: SAE
+  primary: true
+- content: 10.4271/arp4001b
+  type: DOI
+date:
+- type: approved
+  at: '2012-05-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-9B Cabin Interiors and Furnishings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Aerospace Recommended Practice (ARP) is to describe key features that should be incorporated in the lavatory smoke detector system. Consideration has been given to existing requirements of the FAA and to recommendations of aircraft operators and manufacturers. This document is deliberately not specific in all areas in order to maximize the freedom to use state-of-the-art design and manufacturing technologies. Safe, reliable, and effective lavatory smoke detectors remain the primary goal of the document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

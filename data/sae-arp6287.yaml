@@ -1,0 +1,72 @@
+---
+id: SAEARP6287
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Environmental Degradation of Composite Materials
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6287
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6287-environmental-degradation-composite-materials
+docidentifier:
+- content: SAE ARP6287
+  type: SAE
+  primary: true
+- content: 10.4271/arp6287
+  type: DOI
+date:
+- type: approved
+  at: '2018-10-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;In accordance with § 4.11 of AS36100, materials used in the construction of pallets, nets, and containers shall take into account the effects of environmental conditions, such as temperature, humidity, and UV degradation, expected in service.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In accordance with (E)TSO-C90, the applicant shall consider environmental degradation due to aging, ultra-violet (UV) exposure, weathering, etc., for any materials used in the construction of pallets, nets, and containers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The purpose of this Aerospace Recommended Practice (ARP) is to provide guidelines for the basic requirements to be considered regarding environmental degradation effects when qualifying composite materials in the design to fulfill the (E)TSO-C90 Minimum Performance Standard.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Material qualification is the verifying of a materials attributes and characterizations, which are typically determined through testing.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Material variances related to raw materials and manufacturing processes are not part of this Aerospace Recommended Practice (ARP), nor is damage tolerance. However, these variances cannot be neglected, as all variances shall be considered when deciding the test factors for environmental effects.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEARP4493
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace - Direct Drive Servovalves
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4493
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4493-aerospace-direct-drive-servovalves
+docidentifier:
+- content: SAE ARP4493
+  type: SAE
+  primary: true
+- content: 10.4271/arp4493
+  type: DOI
+date:
+- type: approved
+  at: '2000-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6B1 Hydraulic Servo Actuation Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The recommendations contained in this ARP are primarily confined to the input and output characteristics of Direct Drive Servovalves (DDV). The only exception to this approach involves the definition and specification of chip shear force, which is not typically measurable by nondestructive external testing. The information presented should be useful in standardizing the terminology, the specification of physical and performance parameters, and the test procedures used in conjunction with these components.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Direct drive servovalves are of two basic types; open loop and closed loop. In the case of open loop direct drive servovalves, the significant input is the motor current as is the case with electrohydraulic servovalves covered in ARP490. Closed loop direct drive servovalves include a means of position feedback and rely on an electronic controller to control its performance characteristics. Because of the importance of the closed loop category of DDVs, many specifications will be written for the closed loop performance. To generalize this document, the system input signal has been referred to as the “command" and applies equally well to open loop valves, in which the command will usually be expressed in amps, and to closed loop valves which usually receive commands as an input voltage to the valve controller. Many provisions of this document apply equally to larger tandem Main Control Valve (MCV) type DDVs as well as standard size single hydraulic system valves.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The specifications contained herein should be used to describe direct drive flow control servovalves. Additional specifications may be necessary to define special requirements for specific control systems. Also, specialized test procedures may be necessary to measure DDV performance in these unusual specification areas. These considerations are beyond the scope of this recommended practice.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

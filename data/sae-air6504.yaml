@@ -1,0 +1,61 @@
+---
+id: SAEAIR6504
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Procedure for the Calculation of non-volatile Particulate Matter Sampling
+    and Measurement System Penetration Functions and System Loss Correction Factors
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6504
+- type: src
+  content: https://saemobilus.sae.org/standards/air6504-procedure-calculation-non-volatile-particulate-matter-sampling-measurement-system-penetration-functions-system-loss-correction-factors
+docidentifier:
+- content: SAE AIR6504
+  type: SAE
+  primary: true
+- content: 10.4271/air6504
+  type: DOI
+date:
+- type: approved
+  at: '2022-06-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-31P Particulate Matter Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) describes a method for assessing size dependent particle losses in a sampling and measurement system of specified geometry utilizing the non-volatile PM (nvPM) mass and number concentrations measured at the end of the sampling system.&lt;sup&gt;&lt;span class="xref"&gt;1&lt;/span&gt;&lt;/sup&gt; The penetration functions of the sampling and measurement system may be determined either by measurement or by analytic computational methods.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Loss mechanisms including thermophoretic (which has a very weak size dependence) and size dependent losses are considered in this method&lt;sup&gt;&lt;span class="xref"&gt;2&lt;/span&gt;&lt;/sup&gt; along with the uncertainties due to both measurement error and the assumptions of the method. The results of this system loss assessment allow development of estimated correction factors for nvPM mass and number concentrations to account for the system losses facilitating estimation of the nvPM mass and number at the engine exhaust nozzle exit plane. As the particle losses are size dependent, the magnitude of correction factors can vary as a function of many factors including combustor technology and engine operating condition.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Implementation of the nvPM sampling and measurement system for aircraft engine testing, as per AIR6037, requires a sample line of up to 35 m and includes several sampling and measurement system components, which result in significant particle loss on the order of 50% for nvPM mass and 90% for nvPM number.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The system loss correction factors are estimated based on a model with the following inputs and assumptions: engine exhaust exit plane nvPM have a lognormal distribution, known size dependent values of nvPM effective density and geometric standard deviation, a minimum particle size cut-off of 10 nm, and no coagulation.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

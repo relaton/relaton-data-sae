@@ -1,0 +1,62 @@
+---
+id: SAEARP6028A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Configuration Control for Maintaining Correlation of Gas Turbine Engine
+    Test Cells
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6028a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6028a-configuration-control-maintaining-correlation-gas-turbine-engine-test-cells
+docidentifier:
+- content: SAE ARP6028A
+  type: SAE
+  primary: true
+- content: 10.4271/arp6028a
+  type: DOI
+date:
+- type: approved
+  at: '2020-10-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EG-1E Gas Turbine Test Facilities and Equipment
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The FAA has issued Advisory Circular, AC43-207, that recommends re-correlation, trending or period checks. The FAA, AC43-207 bases their recommendation on ARP741.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This paper describes a recommended practice and procedure for the configuration control requirements to maintain test cell correlation status. This is necessary to maintain performance measurement integrity, particularly when correlation approval is achieved by statistical trending.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The configuration of a test facility that exists at the time when a correlation is being carried out should be "base lined" as a condition of correlation approval acceptance, and, be maintained during the time period that the respective correlation approval lasts. This defines test facility configuration control.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This is due to the fact that a change in configuration may have the potential to change the established correlation factors and measured engine performance. If such a change occurs then this should be judged by the respective OEMs or designated correlation approval authorities Subject Matter Expert (SME). In some cases, this may involve consultation with the engine project customer or airworthiness authorities.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The purpose of this paper is to recommend a means of identifying, recording, documenting and maintaining the configuration status of all correlations, including those where re-approval is achieved by using statistical trending methods rather than physical back-to-back type testing.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This paper can be considered applicable to all types and standards of test facilities in the aero, marine and industrial gas turbine engine businesses.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

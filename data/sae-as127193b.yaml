@@ -1,0 +1,48 @@
+---
+id: SAEAS127193B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STUD - STRAIGHT, WAISTED, .4375-14 X .4375-20UNF-3A
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as127193b
+- type: src
+  content: https://saemobilus.sae.org/standards/as127193b-stud-straight-waisted-4375-14-x-4375-20unf-3a
+docidentifier:
+- content: SAE AS127193B
+  type: SAE
+  primary: true
+- content: 10.4271/as127193b
+  type: DOI
+date:
+- type: approved
+  at: '2019-11-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

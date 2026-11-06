@@ -1,0 +1,57 @@
+---
+id: SAEARP410214A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Full-Format Printer
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4102/14a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp410214a-full-format-printer
+docidentifier:
+- content: SAE ARP4102/14A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4102/14a
+  type: DOI
+date:
+- type: approved
+  at: '1998-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-7 Flight Deck Handling Qualities Stds for Trans Aircraft
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document recommends criteria for the installation and operation of a printer on the flight deck, to supply the flight crew with hard copies of information that originates from data sources such as FMS, ELS/EDMS, ACMS, CMS, and Data Link.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These criteria are in addition to the specifications of the referenced ARINC Characteristic 744A.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,49 @@
+---
+id: SAEAS9524C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BOLT, MACHINE - HEXAGON HEAD, STEEL, CADMIUM PLATED, UNS G87400, 125 KSI
+    MIN, .5625-18 UNJF-3A
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9524c
+- type: src
+  content: https://saemobilus.sae.org/standards/as9524c-bolt-machine-hexagon-head-steel-cadmium-plated-uns-g87400-125-ksi-min-5625-18-unjf-3a
+docidentifier:
+- content: SAE AS9524C
+  type: SAE
+  primary: true
+- content: 10.4271/as9524c
+  type: DOI
+date:
+- type: approved
+  at: '2015-07-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

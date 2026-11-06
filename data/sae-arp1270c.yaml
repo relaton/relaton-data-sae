@@ -1,0 +1,84 @@
+---
+id: SAEARP1270C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Cabin Pressurization System Criteria
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1270c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1270c-aircraft-cabin-pressurization-system-criteria
+docidentifier:
+- content: SAE ARP1270C
+  type: SAE
+  primary: true
+- content: 10.4271/arp1270c
+  type: DOI
+date:
+- type: approved
+  at: '2026-01-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report, in conjunction with other referenced SAE documents, provides recommendations for development of aircraft cabin pressure control systems and equipment, with particular emphasis on performance objectives, requirements definition, operational scenarios, design practices, safety processes, and verification methods.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The objective of a Cabin Pressure Control System (CPCS) is to regulate aircraft cabin pressure throughout the operational flight envelope, in order to ensure occupant safety, aircraft safety, and passenger comfort.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The system should comply with all relevant certification and safety requirements, particularly in the areas of:&lt;/div&gt;
+    &lt;ul class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Maintaining a breathable environment within occupied compartments&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Protecting the fuselage structure against excessive positive and negative differential pressure loads&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Supporting cabin egress on ground&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;The system should have the capability to schedule cabin pressure at rates of change that are comfortable to crew and passengers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Careful consideration should be given to external system interfaces and the role of CPCS in providing supporting functions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The system should be fault tolerant and reliable, support crew awareness of key system parameters and failure conditions, and support efficient fault isolation and resolution by maintenance crews.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;If applicable, the system design should provision for high altitude airport operation or application on a freighter configuration aircraft.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The system architecture and design should minimize aircraft fuel burn through optimized weight.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;To this end, the complexity and level of automation of the system should be carefully evaluated within the context of a functional hazard assessment and the overall impact to system reliability, maintainability, and cost of ownership.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This recommended practice is applicable to pressurized aircraft, both civil and military, regardless of the number of passengers or crew.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

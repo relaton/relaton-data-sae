@@ -1,0 +1,60 @@
+---
+id: SAEARP584D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Coiled Tubing - Corrosion Resistant Steel, Hydraulic Applications, Aerospace
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp584d
+- type: src
+  content: https://saemobilus.sae.org/standards/arp584d-coiled-tubing-corrosion-resistant-steel-hydraulic-applications-aerospace
+docidentifier:
+- content: SAE ARP584D
+  type: SAE
+  primary: true
+- content: 10.4271/arp584d
+  type: DOI
+date:
+- type: approved
+  at: '2017-06-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C5 Components Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) addresses the design, installation, and testing of coiled tube assemblies ranging from 1/4 inch (6.3 mm) to 1.0 inch (25 mm) diameter using CRES tubing per AMS-T-6845, unless otherwise approved by the Procuring Activity.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This ARP specifically details three different configurations of coiled tubing. These configurations should be compatible with pressure levels up to 3000 psi (20.7 MPa) upon the completion of the analysis for the actual stress and life requirement of the intended application. However, formal qualification tests are recommended to verify the satisfactory installation, clamping, and the life of each unique design.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: Refer to ARP4146 for information on design of coiled tube assemblies using Titanium tubing.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

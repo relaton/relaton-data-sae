@@ -1,0 +1,60 @@
+---
+id: SAEJ2601_201407
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fueling Protocols for Light Duty Gaseous Hydrogen Surface Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2601_201407
+- type: src
+  content: https://saemobilus.sae.org/standards/j2601_201407-fueling-protocols-light-duty-gaseous-hydrogen-surface-vehicles
+docidentifier:
+- content: SAE J2601_201407
+  type: SAE
+  primary: true
+- content: 10.4271/j2601_201407
+  type: DOI
+date:
+- type: approved
+  at: '2014-07-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Cell Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE J2601 establishes the protocol and process limits for hydrogen fueling of light duty vehicles. These process limits (including fuel temperature, the maximum fuel flow rate, and rate of pressure increase and end pressure) are affected by factors such as ambient temperature, fuel delivery temperature and initial pressure in the vehicle’s compressed hydrogen storage system. SAE J2601-2014 establishes standard fueling protocols based on a look-up table approach with performance targets. The current standard is table-based and provides concise performance targets for both communications and non-communications fueling as described in &lt;span class="xref"&gt;Sections 7&lt;/span&gt; through &lt;span class="xref"&gt;10&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;An important factor in the performance of hydrogen fueling is the station’s dispensing equipment cooling capability and the resultant fuel delivery temperature “T” rating. SAE J2601 has a reference fueling target of 3 minutes with 95-100% SOC (with communications) with a T40 rated dispenser as specified in &lt;span class="xref"&gt;section 6.1&lt;/span&gt;. However, with lower fuel delivery temperature dispenser ratings (T30 or T20) and/or at high ambient temperatures, fueling times may be longer.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J2601 includes standard fueling tables for communications and non-communications fueling, as well as a non-standard, development fueling protocol. For fueling with communications, this standard is to be used in conjunction with SAE J2799, Hydrogen Surface Vehicle to Station Communications Hardware and Software. &lt;span class="xref"&gt;Table 1&lt;/span&gt; below depicts the scope of SAE J2601-2014 and potential work items for future revisions. SAE J2601-2014 also includes, in &lt;span class="xref"&gt;Appendix H&lt;/span&gt;, a non-standard development fueling protocol called the MC Method.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J2601 includes protocols for two pressure classes (35 and 70 MPa), three fuel delivery temperatures (-40 °C, -30 °C, -20 °C) and compressed hydrogen storage system sizes from 49.7 to 248.6 L. Future versions of J2601 may incorporate warmer fuel delivery temperatures (-10 °C and ambient) and smaller compressed hydrogen storage system for motorcycles.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

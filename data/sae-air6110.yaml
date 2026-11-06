@@ -1,0 +1,62 @@
+---
+id: SAEAIR6110
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Contiguous Aircraft/System Development Process Example
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6110
+- type: src
+  content: https://saemobilus.sae.org/standards/air6110-contiguous-aircraft-system-development-process-example
+docidentifier:
+- content: SAE AIR6110
+  type: SAE
+  primary: true
+- content: 10.4271/air6110
+  type: DOI
+date:
+- type: approved
+  at: '2020-02-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-18 Aircraft and Sys Dev and Safety Assessment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AIR provides a detailed example of the aircraft and systems development for a function of a hypothetical S18 aircraft. In order to present a clear picture, an aircraft function was broken down into a single system. A function was chosen which had sufficient complexity to allow use of all the methodologies, yet was simple enough to present a clear picture of the flow through the process. This function/system was analyzed using the methods and tools described in ARP4754A/ED-79A. The aircraft level function is “Decelerate Aircraft On Ground” and the system is the braking system. The interaction of the braking system functions with the aircraft are identified with the relative importance based on implied aircraft interactions and system availabilities at the aircraft level. This example does not include validation and verification of the aircraft level hazards and interactions with the braking system. However, the principles used at the braking system level can be applied at the higher aircraft level. The methodologies applied here are an example of one way to utilize the principles defined in ARP4754A/ED-79A. The function chosen was the braking system. Other formats may be used to accomplish the documentation, so long as the principles outlined in ARP4754A/ED-79A are followed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This example contains references to documentation that a company may use to assure itself of the safety of its products but does not include the documentation that the Original Equipment Manufacturer (OEM) would be required to submit at the aircraft level for aircraft certification. Some of these documents are submitted to the regulatory agencies for the purpose of certification (e.g. the Wheel Brake System FHA). Other documents are internal to the company and not required to be submitted for certification. No implication is made that these documents should be submitted to a regulatory agency and none should be implied, although all documents should be available for submission if requested by the regulatory agency. Safety and Certification are not synonymous terms. The example shows the systems engineering process as applied to the development of an aircraft, including some processes that are beyond certification requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Figure 1&lt;/span&gt; depicts the flow of activities within this example. This figure provides a guide to the structure of this AIR and should allow the reader to quickly find specific areas within the example using the cross references.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Figure 1&lt;/span&gt; includes the top aircraft level tasks to provide the reader a reference point. The detailed example in &lt;span class="xref"&gt;Section 3&lt;/span&gt; of this AIR covers only the activities related to the braking system. &lt;span class="xref"&gt;Figure 1&lt;/span&gt; presents a sequence of activities found in a typical development program. In a real development program, the development process is usually far more complex. For example, in a real development program, development of the different levels (aircraft, system and item) often occurs concurrently, rather than serially as depicted in example flow.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The top row of &lt;span class="xref"&gt;Figure 1&lt;/span&gt; represents the activities that will occur within the aircraft development. The middle row represents the activities that occur within the wheel brake system development. The bottom row represents the activities that are covered for the subsystem-level Brake System Control Unit (BSCU) development, as well as the integration and verification activities at the higher levels.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The &lt;span class="xref"&gt;Figure 1&lt;/span&gt; example flow also shows where major artifacts from the System Safety Process (ARP4761) will be utilized. The example flow shows how the sections and artifacts are laid out and represents the step by step process detailed in ARP4754A/ED-79A. In a real development program, the System Safety Process occurs concurrently with ARP4754A/ED-79A, constantly receiving inputs from the ARP4754A/ED-79A process and providing feedback to ARP4754A/ED-79A processes.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Figure 1&lt;/span&gt; also shows a box titled Integral Processes to illustrate to the reader that the integral processes are utilized throughout the development process. The reader is encouraged to use this example flow diagram to help navigate the example. This will allow the reader to either read the example in its entirety or use it as a quick reference guide in order to quickly find the desired section.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

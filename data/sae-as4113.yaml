@@ -1,0 +1,59 @@
+---
+id: SAEAS4113
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: VALIDATION TEST PLAN FOR THE DIGITAL TIME DIVISION COMMAND/RESPONSE MULTIPLEX
+    DATA BUS BUS CONTROLLERS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4113
+- type: src
+  content: https://saemobilus.sae.org/standards/as4113-validation-test-plan-digital-time-division-command-response-multiplex-data-bus-bus-controllers
+docidentifier:
+- content: SAE AS4113
+  type: SAE
+  primary: true
+- content: 10.4271/as4113
+  type: DOI
+date:
+- type: approved
+  at: '2011-11-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This test plan is broken into three major sections for the testing of bus controllers Electrical, Protocol and Noise tests.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

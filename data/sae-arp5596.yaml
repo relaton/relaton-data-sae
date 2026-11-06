@@ -1,0 +1,56 @@
+---
+id: SAEARP5596
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Cargo Shoring Guidelines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5596
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5596-cargo-shoring-guidelines
+docidentifier:
+- content: SAE ARP5596
+  type: SAE
+  primary: true
+- content: 10.4271/arp5596
+  type: DOI
+date:
+- type: approved
+  at: '2003-04-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) specifies guidelines for calculating and performing shoring (load spreading) required on board civil transport aircraft whenever a piece of cargo to be carried exceeds the aircraft's maximum allowable limits in area load, running load, or both. It provides both the engineering methods needed to properly design a shoring arrangement, and the main practical dos and donts known from experience to ensure its effectiveness in protecting the aircraft's structure against overload.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

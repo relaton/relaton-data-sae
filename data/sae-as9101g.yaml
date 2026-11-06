@@ -1,0 +1,59 @@
+---
+id: SAEAS9101G
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Requirements for Conducting Audits of Aviation, Space, and Defense Quality
+    Management Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9101g
+- type: src
+  content: https://saemobilus.sae.org/standards/as9101g-requirements-conducting-audits-aviation-space-defense-quality-management-systems
+docidentifier:
+- content: SAE AS9101G
+  type: SAE
+  primary: true
+- content: 10.4271/as9101g
+  type: DOI
+date:
+- type: approved
+  at: '2022-11-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard defines requirements for the preparation and execution of the audit process. In addition, it defines the content and composition for the audit reporting of conformity and process effectiveness to the 9100-series standards, the organization's QMS documentation, and customer and statutory/regulatory requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The requirements in this standard are additions or represent changes to the requirements and guidelines in the standards for conformity assessment, auditing, and certification as published by ISO/IEC (i.e., ISO/IEC 17000, ISO/IEC 17021-1). When there is conflict with these standards, the requirements of the 9101 standard shall take precedence.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEJ753_200606
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Maintenance Interval Chart
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j753_200606
+- type: src
+  content: https://saemobilus.sae.org/standards/j753_200606-maintenance-interval-chart
+docidentifier:
+- content: SAE J753_200606
+  type: SAE
+  primary: true
+- content: 10.4271/j753_200606
+  type: DOI
+date:
+- type: approved
+  at: '2006-06-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Machine Technical Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Instructions on this chart are intended to be used as a ready reference by personnel responsible for servicing off-road self-propelled work machines described in SAE J1116, categories 1, 2, 3, and 4. Detailed maintenance and service guidelines are reserved for maintenance, operator, and lubrication manuals as defined in SAE J920.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

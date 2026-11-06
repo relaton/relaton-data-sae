@@ -1,0 +1,60 @@
+---
+id: SAEAMS7002A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Process Requirements for Production of Metal Powder Feedstock for Use in
+    Additive Manufacturing of Aerospace Parts
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7002a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7002a-process-requirements-production-metal-powder-feedstock-use-additive-manufacturing-aerospace-parts
+docidentifier:
+- content: SAE AMS7002A
+  type: SAE
+  primary: true
+- content: 10.4271/ams7002a
+  type: DOI
+date:
+- type: approved
+  at: '2022-05-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS AM Additive Manufacturing Metals
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification is to prescribe process requirements for production (from raw materials through preparation for shipment, see &lt;span class="xref"&gt;8.6&lt;/span&gt;) of metal powder feedstock for use in additive manufacturing of aerospace parts.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This specification covers requirements for the production of metal powder for use as feedstock in additive manufacturing. Such powders may be pre-alloyed or commercially pure. This specification is not limited to a specific powder production method. It is intended to define those procedures and requirements necessary to achieve required cleanliness and performance of metal powder feedstock to be used in the manufacture of aerospace parts. This specification is intended to be used in conjunction with AMS powder specifications for additive manufacturing.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEJ1879_201402
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Handbook for Robustness Validation of Semiconductor Devices in Automotive
+    Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1879_201402
+- type: src
+  content: https://saemobilus.sae.org/standards/j1879_201402-handbook-robustness-validation-semiconductor-devices-automotive-applications
+docidentifier:
+- content: SAE J1879_201402
+  type: SAE
+  primary: true
+- content: 10.4271/j1879_201402
+  type: DOI
+date:
+- type: approved
+  at: '2014-02-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Automotive Electronic Systems Reliability Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document will primarily address intrinsic reliability of electronic components for use in automotive electronics. Where practical, methods of extrinsic reliability detection and prevention will also be addressed. The current handbook primarily focuses on integrated circuit subjects, but can easily be adapted for use in discrete or passive device qualification with the generation of a list of failure mechanisms relevant to those components. Semiconductor device qualification is the main scope of the current handbook.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Other procedures addressing extrinsic defects are particularly mentioned in the monitoring chapter. Striving for the target of Zero Defects in component manufacturing and product use it is strongly recommended to apply this handbook. If it gets adopted as a standard, the term “shall” will represent a binding requirement.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not relieve the supplier of the responsibility to assure that a product meets the complete set of its requirements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

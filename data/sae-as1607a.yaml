@@ -1,0 +1,58 @@
+---
+id: SAEAS1607A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: VALVE, STARTER CONTROL, PNEUMATIC, AIRCRAFT ENGINE GENERAL SPECIFICATION
+    FOR
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1607a
+- type: src
+  content: https://saemobilus.sae.org/standards/as1607a-valve-starter-control-pneumatic-aircraft-engine-general-specification
+docidentifier:
+- content: SAE AS1607A
+  type: SAE
+  primary: true
+- content: 10.4271/as1607a
+  type: DOI
+date:
+- type: approved
+  at: '1992-05-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-6 Starting Systems and Auxiliary Power Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the general requirements for pneumatic control valves for use with the starters on aircraft gas turbine engines.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This specification shall be used in conjunction with AS943, ARP949, and AIR1639.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

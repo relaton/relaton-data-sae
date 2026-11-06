@@ -1,0 +1,58 @@
+---
+id: SAEJ2945C_202206
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Requirements for Probe Data Collection Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2945/c_202206
+- type: src
+  content: https://saemobilus.sae.org/standards/j2945c_202206-requirements-probe-data-collection-applications
+docidentifier:
+- content: SAE J2945/C_202206
+  type: SAE
+  primary: true
+- content: 10.4271/j2945/c_202206
+  type: DOI
+date:
+- type: approved
+  at: '2022-06-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Infrastructure Applications Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Connected vehicles can provide data from multiple sensors that monitor both the vehicle and the environment through which the vehicle is passing. The data, when shared, can be used to enhance and optimize transportation operations and management—specifically, traffic flow and infrastructure maintenance.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document describes an interface between vehicle and infrastructure for collecting vehicle/probe data. That data may represent a single point in time or may be accumulated over defined periods of time or distance, or may be triggered based on circumstance. The purpose of this document is to define an interoperable means of collecting the vehicle/probe data in support of the use cases defined herein. There are many additional use cases that may be realized based on the interface defined in this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Note that vehicle diagnostics are not included within the scope of this document, but diagnostics-related features may be added to probe data in a future supplemental document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

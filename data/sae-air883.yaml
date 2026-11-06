@@ -1,0 +1,57 @@
+---
+id: SAEAIR883
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: A Method of Ground Resonance Testing for Helicopters
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air883
+- type: src
+  content: https://saemobilus.sae.org/standards/air883-a-method-ground-resonance-testing-helicopters
+docidentifier:
+- content: SAE AIR883
+  type: SAE
+  primary: true
+- content: 10.4271/air883
+  type: DOI
+date:
+- type: approved
+  at: '1985-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-12 Powered Lift Propulsion Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>(This document supersedes and cancels AIR 12) 'Ground resonance' is
+    a term which originated in the early days of autogiro development in this country.
+    It is a somewhat ambiguous term as the conditions it describes usually occur at
+    the ground but do not have any association with the common expression 'ground
+    effect'. However, the troubles usually associated with 'ground resonance' do occur
+    when the ship is on or near the ground.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

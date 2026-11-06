@@ -1,0 +1,58 @@
+---
+id: SAEAIR5938
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Information on Hard Landings
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5938
+- type: src
+  content: https://saemobilus.sae.org/standards/air5938-information-hard-landings
+docidentifier:
+- content: SAE AIR5938
+  type: SAE
+  primary: true
+- content: 10.4271/air5938
+  type: DOI
+date:
+- type: approved
+  at: '2016-11-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides information on the current practices used by commercial and military operators in regards to hard landings (or overload events designated as hard landings). Since detailed information on inspections would be aircraft specific, this AIR provides only a general framework. Detailed information and procedures are available in the maintenance manuals for specific aircraft.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Because hard landings potentially affect the entire aircraft, guidelines are listed here for non-landing gear areas. But, the primary focus of the document is the landing gear and related systems. The document may be considered to be applicable to all types of aircraft.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does NOT provide recommended practices for hard landing inspections, nor does it provide recommendations on the disposition of damaged equipment. Refer to ARP 4915 and ARP 5600. Also, this document does not necessarily address overloads from circumstances other than landings, such as from tow vehicles, runway bumps, traversing cables, etc.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

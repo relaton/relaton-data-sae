@@ -1,0 +1,56 @@
+---
+id: SAEARP715
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: A MEANS OF TESTING TURBOJET ENGINE STARTER PERFORMANCE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp715
+- type: src
+  content: https://saemobilus.sae.org/standards/arp715-a-means-testing-turbojet-engine-starter-performance
+docidentifier:
+- content: SAE ARP715
+  type: SAE
+  primary: true
+- content: 10.4271/arp715
+  type: DOI
+date:
+- type: approved
+  at: '1963-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-6 Starting Systems and Auxiliary Power Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Recommended Practice covers a means of determining the performance acceptability of new production or overhauled starters that will be used for cranking turbine engines and is intended for use where torque measuring equipment is not available or desirable. This method determines acceptability of the overall performance of the starter on a flywheel test stand, rather than the performance at specific speed conditions. It allows a slight variation of output torque outside specified limits, as long as the overall performance is up to standard.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

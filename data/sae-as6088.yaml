@@ -1,0 +1,58 @@
+---
+id: SAEAS6088
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Verification Methods for AS5653 Network Terminal
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6088
+- type: src
+  content: https://saemobilus.sae.org/standards/as6088-verification-methods-as5653-network-terminal
+docidentifier:
+- content: SAE AS6088
+  type: SAE
+  primary: true
+- content: 10.4271/as6088
+  type: DOI
+date:
+- type: approved
+  at: '2025-04-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document was prepared by the SAE AS-1A2 Committee to establish techniques for validating the Network Terminal (NT) complies with the NT requirements specified in AS5653, Revision B. Note that this verification document only verifies the specific requirements from AS5653 and does not verify all the requirements invoked by documents that are referenced by AS5653. The procuring authority may require further testing to verify the requirements not explicitly defined in AS5653 and in this verification document.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

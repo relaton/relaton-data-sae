@@ -1,0 +1,54 @@
+---
+id: SAEAMS5371E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Castings, Sand, Corrosion and Heat Resistant, 19.5Cr - 9.5Ni (Low
+    Carbon) (304L) Solution Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5371e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5371e-steel-castings-sand-corrosion-heat-resistant-195cr-95ni-low-carbon-304l-solution-heat-treated
+docidentifier:
+- content: SAE AMS5371E
+  type: SAE
+  primary: true
+- content: 10.4271/ams5371e
+  type: DOI
+date:
+- type: approved
+  at: '2007-03-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers a corrosion and heat resistant steel in theh
+    form of sand castings.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

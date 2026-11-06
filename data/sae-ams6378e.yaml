@@ -1,0 +1,57 @@
+---
+id: SAEAMS6378E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS l.0Cr - 0.20Mo - 0.045Se (0.39 - 0.48C) (4142H Modified) Die-Drawn,
+    130.0 ksi (896 MPa) Yield Strength Free Machining
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6378e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6378e-steel-bars-l0cr-020mo-0045se-039-048c-4142h-modified-die-drawn-1300-ksi-896-mpa-yield-strength-free-machining
+docidentifier:
+- content: SAE AMS6378E
+  type: SAE
+  primary: true
+- content: 10.4271/ams6378e
+  type: DOI
+date:
+- type: approved
+  at: '1995-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a free-machining, low-alloy steel in the form of round bars 3.50 inches (88.9 mm) and under in nominal diameter.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

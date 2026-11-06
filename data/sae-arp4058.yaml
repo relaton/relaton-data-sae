@@ -1,0 +1,59 @@
+---
+id: SAEARP4058
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'ACTUATORS: MECHANICAL, GEARED ROTARY, GENERAL SPECIFICATION FOR'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4058
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4058-actuators-mechanical-geared-rotary-general-specification
+docidentifier:
+- content: SAE ARP4058
+  type: SAE
+  primary: true
+- content: 10.4271/arp4058
+  type: DOI
+date:
+- type: approved
+  at: '1992-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6B3 Electro-Mechanical Actuation Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes general design, performance and test requirements for mechanical geared rotary actuators intended to be used for applications to position control surfaces in response to manual or automatic power control system inputs.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

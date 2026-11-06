@@ -1,0 +1,57 @@
+---
+id: SAEAMS3085A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fluid, Reference for Testing AS5780 HPC Class (Polyol) Resistant Material
+    (Also known as Eastman Reference Oil 300)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3085a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3085a-fluid-reference-testing-as5780-hpc-class-polyol-resistant-material-known-eastman-reference-oil-300
+docidentifier:
+- content: SAE AMS3085A
+  type: SAE
+  primary: true
+- content: 10.4271/ams3085a
+  type: DOI
+date:
+- type: approved
+  at: '2016-05-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-34 Propulsion Lubricants Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a neopentyl polyol ester fluid (see &lt;span class="xref"&gt;8.2&lt;/span&gt;) with AS5780 HPC or MIL-PRF-23699 HTS Class performance.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEJ858_201105
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electrical Terminals Blade Type
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j858_201105
+- type: src
+  content: https://saemobilus.sae.org/standards/j858_201105-electrical-terminals-blade-type
+docidentifier:
+- content: SAE J858_201105
+  type: SAE
+  primary: true
+- content: 10.4271/j858_201105
+  type: DOI
+date:
+- type: approved
+  at: '2011-05-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Connector Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Blade terminals listed in this SAE Recommended Practice may be used for terminating wire ends, or for terminating circuits on devices other than wire.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

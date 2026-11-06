@@ -1,0 +1,57 @@
+---
+id: SAEAS7233
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Rivets, Solid, UNS N04400, Corrosion Resistant 67Ni - 31Cu Procurement
+    Specification for
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as7233
+- type: src
+  content: https://saemobilus.sae.org/standards/as7233-rivets-solid-uns-n04400-corrosion-resistant-67ni-31cu-procurement-specification
+docidentifier:
+- content: SAE AS7233
+  type: SAE
+  primary: true
+- content: 10.4271/as7233
+  type: DOI
+date:
+- type: approved
+  at: '2018-08-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This procurement specification covers aircraft-quality solid rivets made from a corrosion resistant nickel-copper alloy of the type identified under the Unified Numbering System as UNS N04400 and of 46 ksi minimum shear strength.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

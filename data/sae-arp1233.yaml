@@ -1,0 +1,56 @@
+---
+id: SAEARP1233
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GLAND DESIGN, ELASTOMERIC O-RING SEALS, DYNAMIC RADIAL, 1500 PSI MAX
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1233
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1233-gland-design-elastomeric-o-ring-seals-dynamic-radial-1500-psi-max
+docidentifier:
+- content: SAE ARP1233
+  type: SAE
+  primary: true
+- content: 10.4271/arp1233
+  type: DOI
+date:
+- type: approved
+  at: '1995-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C2 Seals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document establishes standard gland design criteria and dimensions for dynamic radial O-ring seal applications and provides recommendations for modifying these glands in special applications. There are no provisions in this document for anti-extrusion devices.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

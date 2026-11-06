@@ -1,0 +1,57 @@
+---
+id: SAEARP598A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: THE DETERMINATION OF PARTICULATE CONTAMINATION IN LIQUIDS BY THE PARTICLE
+    COUNT METHOD
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp598a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp598a-determination-particulate-contamination-liquids-particle-count-method
+docidentifier:
+- content: SAE ARP598A
+  type: SAE
+  primary: true
+- content: 10.4271/arp598a
+  type: DOI
+date:
+- type: approved
+  at: '1969-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This method describes a procedure for the sizing and counting of particulate contamination in liquid samples by membrane filtration. The procedure will allow measurement of particulate contamination five microns or greater in size with a maximum variation of ±20% in results over an average of two runs. This procedure can be used for all samples where the membrane filter is compatible with the sample liquid and rinse liquid.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

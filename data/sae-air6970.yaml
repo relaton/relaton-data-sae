@@ -1,0 +1,59 @@
+---
+id: SAEAIR6970
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Environment Spectra and Corrosivity Monitoring Using Electrochemical and
+    Electrical Resistance Sensors
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6970
+- type: src
+  content: https://saemobilus.sae.org/standards/air6970-environment-spectra-corrosivity-monitoring-using-electrochemical-electrical-resistance-sensors
+docidentifier:
+- content: SAE AIR6970
+  type: SAE
+  primary: true
+- content: 10.4271/air6970
+  type: DOI
+date:
+- type: approved
+  at: '2024-07-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: HM-1 Integrated Vehicle Health Management Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides guidance on using environmental, electrochemical, and electrical resistance measurements to monitor environment spectra and corrosivity of service environments, focusing on parameters of interest, existing measurement platforms, deployment requirements, and data processing techniques. The sensors and monitoring systems provide discrete time-based records of (1) environmental parameters such as temperature, humidity, and contaminants; (2) measures of alloy corrosion of the sensor; and (3) protective coating performance of the sensor. These systems provide measurements of environmental parameters, sensor material corrosion rate, and sensor coating condition for use in assessing the risk of atmospheric corrosion of a structure. Time-based records of environment spectra and corrosivity can help determine the likelihood of corrosion to assess the risk of corrosion damage of the host structure for managed assets and aid in establishing maintenance intervals and processes.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Diagnostics for determining damage to a structure and prognostics for predicting the remaining useful life before reaching a critical corrosion damage threshold are not within the scope of this document. Also not within the scope of this document are other nondestructive evaluation tools or structural health monitoring (SHM) technologies that can directly assess corrosion-based damage. While this document is focused on air-vehicle environments, many of these topics would translate to other industries and systems without much modification.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

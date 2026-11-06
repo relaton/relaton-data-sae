@@ -1,0 +1,57 @@
+---
+id: SAEJ2698_201411
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Primary Single Phase Nominal 120 VAC Wiring Distribution Assembly Design—Truck
+    and Bus
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2698_201411
+- type: src
+  content: https://saemobilus.sae.org/standards/j2698_201411-primary-single-phase-nominal-120-vac-wiring-distribution-assembly-design-truck-bus
+docidentifier:
+- content: SAE J2698_201411
+  type: SAE
+  primary: true
+- content: 10.4271/j2698_201411
+  type: DOI
+date:
+- type: approved
+  at: '2014-11-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Electrical Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice covers the design and application of primary on-board wiring distribution system harnessing for surface vehicles. This document is intended for single phase nominal 120 VAC circuits that provide power to truck sleeper cab hotel loads so that they may operate with the main propulsion engine turned off. The power supply comes from alternative sources such as land-based grid power, DC-AC inverters and auxiliary power generators. The circuits may also provide power to improve vehicle performance through charging batteries or operating cold-weather starting aids.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,69 @@
+---
+id: SAEAMS4855H
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Leaded Red Brass, Sand and Centrifugal Castings, 85Cu - 5.0Sn - 5.0Pb -
+    5.0Zn, As Cast
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4855h
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4855h-leaded-red-brass-sand-centrifugal-castings-85cu-50sn-50pb-50zn-cast
+docidentifier:
+- content: SAE AMS4855H
+  type: SAE
+  primary: true
+- content: 10.4271/ams4855h
+  type: DOI
+date:
+- type: approved
+  at: '2026-09-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a leaded red brass alloy in the form of sand and centrifugal castings (see &lt;span class="xref"&gt;8.5&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

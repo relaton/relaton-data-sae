@@ -1,0 +1,58 @@
+---
+id: SAEARP1915E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Tow Bar
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1915e
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1915e-aircraft-tow-bar
+docidentifier:
+- content: SAE ARP1915E
+  type: SAE
+  primary: true
+- content: 10.4271/arp1915e
+  type: DOI
+date:
+- type: approved
+  at: '2021-04-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) specifies dimensional and physical requirements of tow bar connections to tractor and aircraft (see &lt;span class="xref"&gt;Figure 1&lt;/span&gt;). It is applicable to all types of commercial transport category aircraft tow bar.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Aerospace Recommended Practice (ARP) is to standardize tow bar attachments to airplane and tractor according to the mass category of the towed aircraft, so that one tow bar head with different shear levels can be used for all aircraft that are within the same mass category and are manufactured in compliance with AS1614 or ISO 8267.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,66 @@
+---
+id: SAEARP7094
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Recommended Practice for Using Modeling and Simulation for Certification
+    of Aircraft, Products, and Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp7094
+- type: src
+  content: https://saemobilus.sae.org/standards/arp7094-recommended-practice-using-modeling-simulation-certification-aircraft-products-systems
+docidentifier:
+- content: SAE ARP7094
+  type: SAE
+  primary: true
+- content: 10.4271/arp7094
+  type: DOI
+date:
+- type: approved
+  at: '2025-02-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-35, Modeling, Simulation, Training for Emerging AV Tech
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this ARP is as follows:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Use of M&amp;amp;S for type certification of the Advanced Air Mobility (AAM) aircraft, product, or system. However, this does not preclude this ARP being used for certification of other aircraft types and associated products and systems.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;This ARP is not applicable to flight simulation training device (FSTD) qualifications or pilot certification. If a qualified FSTD is proposed for aircraft, product, or system certification, it must demonstrate sufficient M&amp;amp;S substantiation to meet the related requirement.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Structural design and modeling are not addressed by this document.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;EMI/EMC certification is not addressed by this document.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

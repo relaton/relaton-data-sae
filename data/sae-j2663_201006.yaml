@@ -1,0 +1,63 @@
+---
+id: SAEJ2663_201006
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Test Procedure to Measure Permeation of Elastomeric Hose or Tube by Weight
+    Loss
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2663_201006
+- type: src
+  content: https://saemobilus.sae.org/standards/j2663_201006-test-procedure-measure-permeation-elastomeric-hose-tube-weight-loss
+docidentifier:
+- content: SAE J2663_201006
+  type: SAE
+  primary: true
+- content: 10.4271/j2663_201006
+  type: DOI
+date:
+- type: approved
+  at: '2010-06-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This test method is intended for measuring fuel permeation at elevated temperature through low permeating hose or tubing samples of elastomeric or composite construction. The expected accuracy of the method is about ±10% of the sample permeation rate.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Hose permeation testing can be done two ways: Method A – Plug and Fill or Method B – using a fuel reservoir.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Method A involves plugging one end of the hose, filling the sample to about 90% full with test fuel, plugging the other end, and then exposing the plugged sample to a desired test temperature, with the weight loss measured over time.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Method B involves plugging one end of a hose, and then connecting the other end to a fuel reservoir. The hose sample and reservoir are then exposed to a desired test temperature with the weight loss measured over time.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This procedure presents a recommended plug design that permits inserting the plugs prior to adding the test fluid. One of the plugs has a small fill hole with a gasketing system that insures low permeation. This design prevents assembly problems created by pressurizing a fuel filled configuration, when inserting plugs with high insertion forces.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Method A is intended for samples with low surface to volume ratios, so that the % fuel loss over the test period is low, and the resultant fuel compositional change does not significantly affect the permeation rate (typically less than 10% fuel loss for CE10 fuel). Method B should be used when fuel loss with Method A would be too large. This is typically done where hoses are small diameter (less than 18 mm) and have high permeation rates. The size of the reservoir chosen for Method B depends on the permeation rate of the sample and should be large enough to assure that fuel loss over the test period is less than about 10%. The amount of fuel loss that might be acceptable will depend on the fuel composition and the type of material tested. Uniform deviations from linearity of the weight loss versus time curves that are not a result of changes in environmental conditions such as temperature should be considered suspect regions and could be a result of compositional or configurational changes might be affecting the permeation rate.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Standard permeation test temperatures are 40 °C and 60 °C. Standard test fuels are Fuel C and Fuel CE10. Other fuels, such as Fuel CM15, and other volatile liquids may be tested according to this procedure as desired. The method is not applicable for measuring permeation of higher boiling materials that will not completely evaporate from the exterior sample surface at the test temperature.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

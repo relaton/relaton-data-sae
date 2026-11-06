@@ -1,0 +1,56 @@
+---
+id: SAEAMS3090B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Lubricant, Dry Film, Heat Cured, For Fasteners Polysulfide Sealant Compatible
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3090b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3090b-lubricant-dry-film-heat-cured-fasteners-polysulfide-sealant-compatible
+docidentifier:
+- content: SAE AMS3090B
+  type: SAE
+  primary: true
+- content: 10.4271/ams3090b
+  type: DOI
+date:
+- type: approved
+  at: '2011-09-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G9 Aerospace Sealing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a dry film lubricant in the form of lubricating solids dispersed in a resin binder and suitable solvents to produce a sprayable liquid.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

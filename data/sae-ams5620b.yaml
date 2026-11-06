@@ -1,0 +1,49 @@
+---
+id: SAEAMS5620B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL, CORROSION AND MODERATE HEAT RESISTANT 13Cr (0.30-0.40C) (SAE 51420F)
+    Free Machining
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5620b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5620b-steel-corrosion-moderate-heat-resistant-13cr-030-040c-sae-51420f-free-machining
+docidentifier:
+- content: SAE AMS5620B
+  type: SAE
+  primary: true
+- content: 10.4271/ams5620b
+  type: DOI
+date:
+- type: approved
+  at: '1952-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

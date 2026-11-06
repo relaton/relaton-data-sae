@@ -1,0 +1,59 @@
+---
+id: SAEJ2552_201406
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Push-On Hose and Mating Hose Fittings
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2552_201406
+- type: src
+  content: https://saemobilus.sae.org/standards/j2552_201406-push-hose-mating-hose-fittings
+docidentifier:
+- content: SAE J2552_201406
+  type: SAE
+  primary: true
+- content: 10.4271/j2552_201406
+  type: DOI
+date:
+- type: approved
+  at: '2014-06-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hydraulic Hose and Hose Fittings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE J2552 provides limited, dimensional and general performance requirements for low pressure, field attachable, push-on hose and their mating hose fittings. The intended application is for fluid and pneumatic power used with petroleum base hydraulic fluids, lube oils, water glycols and air, within the temperature ranges listed in &lt;span class="xref"&gt;Table 1&lt;/span&gt;. The maximum working pressure is 1.7 MPa (see &lt;span class="xref"&gt;Table 2&lt;/span&gt;). For air applications the maximum working pressure is at 0.7 MPa.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Hose and hose fittings are manufactured within certain dimensions with tolerance ranges in order to provide the proper gripping and sealing. SAE J2552 hose from one manufacturer may not be compatible with SAE J2552 hose fittings supplied by another manufacturer. It is the responsibility of the fabricator to always follow the manufacturers’ instructions for proper preparation and fabrication of hose assemblies. The fabricator shall consult the manufacturers’ written assembly instructions or the manufacturers directly before intermixing hose and hose fittings from two manufacturers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Hose assemblies made to this standard shall not be used in dynamic motion, vibrating or impulsing applications, nor for brake hoses or fuel lines.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

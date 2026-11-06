@@ -1,0 +1,56 @@
+---
+id: SAEAMS3720C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Paper Honeycomb 60 lb (25 kg) Paper
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3720c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3720c-paper-honeycomb-60-lb-25-kg-paper
+docidentifier:
+- content: SAE AMS3720C
+  type: SAE
+  primary: true
+- content: 10.4271/ams3720c
+  type: DOI
+date:
+- type: approved
+  at: '2016-11-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P17 Polymer Matrix Composites Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers paper base honeycomb material having a cell size of 0.330 or 0.440 in. (8.38 or 11.18 mm). Unless otherwise ordered, size 0.440 in. (11.18 mm) be supplied.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

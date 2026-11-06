@@ -1,0 +1,56 @@
+---
+id: SAEAMST21014
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Tungsten Base Metal, High Density
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/amst21014
+- type: src
+  content: https://saemobilus.sae.org/standards/amst21014-tungsten-base-metal-high-density
+docidentifier:
+- content: SAE AMS-T-21014
+  type: SAE
+  primary: true
+- content: 10.4271/amst21014
+  type: DOI
+date:
+- type: approved
+  at: '1998-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G Titanium and Refractory Metals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the requirements for four classes of machinable, high density tungsten base metal produced by consolidation of metal powder mixtures whose composition is mainly tungsten. This material may be used for uncoated parts or parts that may be coated with other materials for protection against corrosion and abrasion such as, electrodeposited and vacuum deposited cadmium and electrodeposited chromium. Detailed requirements for coatings should be covered in the applicable part drawing, when required.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

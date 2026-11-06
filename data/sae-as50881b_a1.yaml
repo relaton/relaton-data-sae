@@ -1,0 +1,52 @@
+---
+id: SAEAS50881B_A1
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Wiring Aerospace Vehicle
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as50881b_a1
+- type: src
+  content: https://saemobilus.sae.org/standards/as50881b_a1-wiring-aerospace-vehicle
+docidentifier:
+- content: SAE AS50881B_A1
+  type: SAE
+  primary: true
+- content: 10.4271/as50881b_a1
+  type: DOI
+date:
+- type: approved
+  at: '2003-11-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8A Elec Wiring and Fiber Optic Interconnect Sys Install
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>Amendment 1 of AS50881B.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

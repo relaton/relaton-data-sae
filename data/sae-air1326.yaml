@@ -1,0 +1,56 @@
+---
+id: SAEAIR1326
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AIRCRAFT FUEL SYSTEM VAPOR-LIQUID RATIO PARAMETER
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1326
+- type: src
+  content: https://saemobilus.sae.org/standards/air1326-aircraft-fuel-system-vapor-liquid-ratio-parameter
+docidentifier:
+- content: SAE AIR1326
+  type: SAE
+  primary: true
+- content: 10.4271/air1326
+  type: DOI
+date:
+- type: approved
+  at: '1974-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5B Aircraft and Engine Fuel and Lubricant Sys Components
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The AIR is limited to a presentation of the historical background, the technical rationale which generated the V/L fuel condition interface requirement in specifications between the aircraft fuel delivery system and the aircraft engine fuel system, and limitations in the usage of the V/L concept.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

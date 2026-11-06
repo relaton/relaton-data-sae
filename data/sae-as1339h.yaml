@@ -1,0 +1,57 @@
+---
+id: SAEAS1339H
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hose Assembly, Polytetrafluoroethylene, Metallic Reinforced, 3000 psi,
+    400 °F, Lightweight, Hydraulic and Pneumatic
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1339h
+- type: src
+  content: https://saemobilus.sae.org/standards/as1339h-hose-assembly-polytetrafluoroethylene-metallic-reinforced-3000-psi-400-f-lightweight-hydraulic-pneumatic
+docidentifier:
+- content: SAE AS1339H
+  type: SAE
+  primary: true
+- content: 10.4271/as1339h
+  type: DOI
+date:
+- type: approved
+  at: '2017-09-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Standard (AS) defines the requirements for a lightweight polytetrafluoroethylene (PTFE) lined, metallic reinforced, hose assembly suitable for use in high temperature, 400 °F, high pressure, 3000 psi, aircraft hydraulic systems, also for use in pneumatic systems which allow some gaseous diffusion through the PTFE wall.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEUSCAR401
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Lead-Free Solder Validation Test Plan
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar40-1
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar40-1-lead-free-solder-validation-test-plan
+docidentifier:
+- content: SAE USCAR-40-1
+  type: SAE
+  primary: true
+- content: 10.4271/uscar40-1
+  type: DOI
+date:
+- type: approved
+  at: '2015-04-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This guideline is applicable to existing lead solder production products that will change to lead-free solder processes to meet the ELV Directive 2000/53/EC Annex II, exemption 8B requirements. This guideline is applicable to similar products used by multiple OEM's that have the same manufacturing processes / equipment. The intent is to streamline the supplier’s environmental testing via common qualification to reduce timing, quantities, and costs.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

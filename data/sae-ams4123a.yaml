@@ -1,0 +1,49 @@
+---
+id: SAEAMS4123A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY BARS, ROLLED 5.6Zn - 2.5Mg - 1.6Cu - 0.3Cr (7075-T651) Stress-Relief
+    Stretched
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4123a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4123a-aluminum-alloy-bars-rolled-56zn-25mg-16cu-03cr-7075-t651-stress-relief-stretched
+docidentifier:
+- content: SAE AMS4123A
+  type: SAE
+  primary: true
+- content: 10.4271/ams4123a
+  type: DOI
+date:
+- type: approved
+  at: '1960-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

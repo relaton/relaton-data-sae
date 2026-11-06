@@ -1,0 +1,65 @@
+---
+id: SAEJ2601_201003
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fueling Protocols for Light Duty Gaseous Hydrogen Surface Vehicles*
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2601_201003
+- type: src
+  content: https://saemobilus.sae.org/standards/j2601_201003-fueling-protocols-light-duty-gaseous-hydrogen-surface-vehicles
+docidentifier:
+- content: SAE J2601_201003
+  type: SAE
+  primary: true
+- content: 10.4271/j2601_201003
+  type: DOI
+date:
+- type: approved
+  at: '2010-03-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Cell Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE TIR J2601 establishes safety limits and performance requirements for gaseous hydrogen fuel dispensers. The criteria include maximum fuel temperature at the dispenser nozzle, the maximum fuel flow rate, the maximum rate of pressure increase and other performance criteria based on the cooling capability of the station’s dispenser.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document establishes fueling guidelines for “non-communication fueling” in the absence of vehicle communication and guidelines for “communication fueling” when specified information is transmitted from the vehicle and verified at the dispenser. The process by which fueling is optimized using vehicle-transmitted information is specified. This document provides details of the communication data transmission protocol.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The mechanical connector geometry is not covered in this document. SAE J2600 defines the connector requirements for fueling vehicles operating with a nominal working pressure of 35 MPa. SAE TIR J2799 defines the mechanical connector geometry for fueling vehicles to 70 MPa and also provides specifications for the hardware for vehicle-to-station dispenser communication. It is expected that SAE J2600 will be revised to include the receptacle content of SAE TIR J2799, in which case the resulting SAE J2600 will provide connector hardware requirements for gaseous hydrogen fueling at all working pressures. The vehicle-to-station communication portion of SAE TIR J2799 is to be integrated into SAE TIR J2601 in the next revision, and it is planned that the 70 MPa nozzle in SAE TIR J2799 will be replaced by SAE J2600. &lt;span class="xref"&gt;Figure 1&lt;/span&gt; illustrates the scopes and relationships of SAE J2600, SAE TIR J2799, and SAE TIR J2601.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document applies to light duty vehicle fueling for vehicles with storage capacity from 1 to 10 kg for 70 MPa and 1 to 7.5 kg for 35 MPa. It is intended to be revised in the next two years to include separate requirements for fueling heavy duty vehicles and motorcycles, forklifts and also for residential hydrogen fueling appliances. Since there is a significant difference between the onboard storage capacity of heavy-duty and light-duty vehicles, the performance specifications could be different.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;This document applies to fueling using an average pressure ramp rate methodology which is to be verified with a hydrogen dispenser test apparatus as defined CSA HGV 4.3. This document includes provisions for optional alternative communications fueling protocols and is planned to be revised in the future to include specifications for additional fueling processes to allow more freedom than the present document. New dispenser protocol proposals would need to be verified with data and experience demonstrating the fueling algorithm’s capability to operate within the constraints of Section &lt;span class="xref"&gt;5&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is expected that this document will be used in conjunction with the CSA HGV 4.3 Hydrogen Dispenser Temperature Compensation Confirmation Report, which will to provide a test method and equipment specification for confirming that the performance of a fuel dispenser is consistent with the requirements of SAE TIR J2601.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document establishes a formal industry-wide fueling guideline that supersedes all temporary guidelines informally established by non-ANSI-certified organizations, such as the vehicle manufacturer (OEM) document Fueling Specification for 70 MPa Compressed Hydrogen Vehicles, Version A posted on the NextEnergy website and all CaFCP Fueling Protocols. It is understood, however, that other fueling protocols that differ from the look-up table-based protocol specified in this document may be used when the station provider has (a) an agreement from a vehicle manufacturer that the protocol is appropriate for a particular vehicle system, and (b) a method of identifying the particular vehicle and limiting the protocol to that vehicle is utilized in the station design and operation. The intent is that developments be brought to the SAE TIR J2601 team to enable modification of the document to allow for a more performance based approach for future revisions. The current document is table-based, providing concise performance targets and dispenser performance specifications for both communicated and non communicated fills as shown in &lt;span class="xref"&gt;Figure 2&lt;/span&gt; and detailed in Sections &lt;span class="xref"&gt;5&lt;/span&gt; through &lt;span class="xref"&gt;9&lt;/span&gt;.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;This TIR is intended to evolve over time before it is standardized. The goal is to establish a protocol guideline in the initial publication and request industry to give feedback and improvement suggestions before standardizing within a two-year timeframe.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEAIR6334
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: A Guide to Extending Times Between Overhaul for Rotorcraft Power Train
+    Transmissions Using Monitoring Data
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6334
+- type: src
+  content: https://saemobilus.sae.org/standards/air6334-a-guide-extending-times-overhaul-rotorcraft-power-train-transmissions-using-monitoring-data
+docidentifier:
+- content: SAE AIR6334
+  type: SAE
+  primary: true
+- content: 10.4271/air6334
+  type: DOI
+date:
+- type: approved
+  at: '2020-06-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: HM-1R Rotorcraft Integrated Vehicle Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Time in Service (TIS), or flight hours, logged in maintenance records against an installed rotorcraft transmission is normally used as the “official” time on wing metric for the transmission’s component wear out inspection interval requirement and, in some instances, retirement change on life limited parts. This AIR addresses traditional methods of transmission TBO extensions and introduces rotorcraft transmission monitoring usage metrics that could be used to modify TIS inspections by tracking torque to determine both loads on life limited parts and component wear.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This is a document of the SAE HM-1 Committee intended to be used as a technical information source and is not intended as a legal document or standard. This AIR does not provide detailed implementation steps, but does address general implementation, past experience, concerns and potential benefits.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEARP4105C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Abbreviations, Acronyms, and Terms for Use on the Flight Deck
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4105c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4105c-abbreviations-acronyms-terms-use-flight-deck
+docidentifier:
+- content: SAE ARP4105C
+  type: SAE
+  primary: true
+- content: 10.4271/arp4105c
+  type: DOI
+date:
+- type: approved
+  at: '2020-11-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-7 Flight Deck Handling Qualities Stds for Trans Aircraft
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is intended to establish preferred abbreviations and acronyms for terms used on panels, controls, displays, instruments, placards, and markings. The recommendations apply to equipment used by crew members in the flight deck of transport aircraft.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

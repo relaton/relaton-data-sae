@@ -1,0 +1,61 @@
+---
+id: SAEAS6170
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Ice Melting Test Method for AMS1431 and AMS1435 Runway Deicing/Anti-Icing
+    Products
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6170
+- type: src
+  content: https://saemobilus.sae.org/standards/as6170-ice-melting-test-method-ams1431-ams1435-runway-deicing-anti-icing-products
+docidentifier:
+- content: SAE AS6170
+  type: SAE
+  primary: true
+- content: 10.4271/as6170
+  type: DOI
+date:
+- type: approved
+  at: '2021-10-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12RDP Runway Deicing Product Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This test method provides stakeholders (runway deicing/anti-icing product manufacturers, users, regulators, and airport authorities) with relative ice melting capacity of runway deicing/anti-icing products, by measuring the amount of ice melted as a function of time. Such runway deicing/anti-icing products are often also used on taxiways and other paved areas.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This test method does not quantitatively measure the theoretical or extended time ice melting capability of ready-to-use runway deicing/anti-icing product in liquid or solid form.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

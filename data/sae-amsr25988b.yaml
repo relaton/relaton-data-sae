@@ -1,0 +1,70 @@
+---
+id: SAEAMSR25988B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Rubber: Fluorosilicone (FVMQ), Engine Oil / Fuel-Resistant, For Seals
+    in Engine Oil Systems/Fuel Systems'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/amsr25988b
+- type: src
+  content: https://saemobilus.sae.org/standards/amsr25988b-rubber-fluorosilicone-fvmq-engine-oil-fuel-resistant-seals-engine-oil-systems-fuel-systems
+docidentifier:
+- content: SAE AMS-R-25988B
+  type: SAE
+  primary: true
+- content: 10.4271/amsr25988b
+  type: DOI
+date:
+- type: approved
+  at: '2023-06-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CE Elastomers Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This material has resistance to diester-based engine oil (MIL-PRF-7808) and fuel, but usage is not limited to such applications. This material is not suitable for use in synthetic phosphate ester based hydraulic fluids (AS1241) or helicopter transmission lubricating oils (DOD-PRF-85734, MIL-PRF-32538). For gas turbine engine lubricating oils (AS5780, MIL-PRF-23699), resistance varies by class and should be evaluated individually (see Note regarding high performance oils). This material has a typical service temperature range of -70 to +392 °F (-56.7 to +200 °C) for Class 1 and Class 2 and -70 to +437 °F (-56.7 to +225 °C) for Class 3. The service temperature range of the material is a general temperature range, but the presence of particular fluids and specific design requirements may modify this range. Each application should be considered separately. It is the responsibility of the user to determine that this specification is appropriate for the environments (temperature range, fluids exposure, etc.) in which it is sought to be used.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAIR46C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: The Preparation and Use of Thermocouples for Aircraft Gas Turbine Engines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air46c
+- type: src
+  content: https://saemobilus.sae.org/standards/air46c-preparation-use-thermocouples-aircraft-gas-turbine-engines
+docidentifier:
+- content: SAE AIR46C
+  type: SAE
+  primary: true
+- content: 10.4271/air46c
+  type: DOI
+date:
+- type: approved
+  at: '2022-09-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) reviews the precautions that must be taken and the corrections which must be evaluated and applied if the experimental error in measuring the temperature of a hot gas stream with a thermocouple is to be kept to a practicable minimum. Discussions will focus on Type K thermocouples, as defined in National Institute of Standards and Technology (NIST) Monograph 175 as Type K, nickel-chromium (Kp) alloy versus nickel-aluminium (Kn) alloy (or nickel-silicon alloy) thermocouples. However, the majority of the content is relevant to any thermocouple type used in gas turbine applications.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAIR4367
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AIRCRAFT ICE DETECTORS AND ICING RATE MEASURING INSTRUMENTS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4367
+- type: src
+  content: https://saemobilus.sae.org/standards/air4367-aircraft-ice-detectors-icing-rate-measuring-instruments
+docidentifier:
+- content: SAE AIR4367
+  type: SAE
+  primary: true
+- content: 10.4271/air4367
+  type: DOI
+date:
+- type: approved
+  at: '1995-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9C Aircraft Icing Technology Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides information regarding ice detector technology, and design and operating requirements. Icing rate information is included where applicable. The primary application is associated with ice forming on the leading edges of airfoils and inlets with significant forward velocities. Information related to detection of ice at static conditions, ice over cold fuel tanks, and icing at low velocity operation is also included. The material is primarily applicable to transport and light aircraft. Special consideration for rotorcraft is appended separately.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEARP5482
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Photometric Data Acquisition Procedures for Impact Test
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5482
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5482-photometric-data-acquisition-procedures-impact-test
+docidentifier:
+- content: SAE ARP5482
+  type: SAE
+  primary: true
+- content: 10.4271/arp5482
+  type: DOI
+date:
+- type: approved
+  at: '2003-05-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aircraft Seat Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) defines the test set-up requirements, general analysis procedures, and test report documentation for impact tests where photometric analysis of the high speed film or digital video will be required to obtain target paths (typically the Anthropomorphic Test Dummy (ATD) head path and knee path). Such tests support the requirements of AS8049 - Performance Standard for Seats in Civil Rotorcraft, Transport Aircraft and General Aviation Aircraft.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These setup and analysis procedures are applicable to conventional, geometry based, two-dimensional analysis. If a more sophisticated technique that allows cameras to be installed at oblique angles for two or three-dimensional analysis is used, then the specific procedures required by that technique supersede any conflicting procedures contained herein. Some of the requirements that could be superseded include camera placement, optical data channel evaluation, camera to subject measurements, and scaling procedures.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

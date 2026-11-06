@@ -1,0 +1,56 @@
+---
+id: SAEJ3214_202305
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Breath-Based Alcohol Detection System
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3214_202305
+- type: src
+  content: https://saemobilus.sae.org/standards/j3214_202305-breath-based-alcohol-detection-system
+docidentifier:
+- content: SAE J3214_202305
+  type: SAE
+  primary: true
+- content: 10.4271/j3214_202305
+  type: DOI
+date:
+- type: approved
+  at: '2023-05-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Driver Alcohol Detection System for Safety Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard establishes the performance specifications for the zero-tolerance breath alcohol detection system to reduce the risks of driving under the influence of alcohol. It defines the accuracy and precision requirements of the breath alcohol concentration (BrAC) measurement, as well as the acceptability criteria and key parameters to test these requirements. Additionally, this standard sets the performance requirements of the system for ethanol sensitivity, the response time, and the electrical, mechanical, and environmental conditions the system may encounter throughout the lifespan of the vehicle.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEARP1323
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TYPE MEASUREMENTS OF AIRCRAFT INTERIOR SOUND PRESSURE LEVELS IN CRUISE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1323
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1323-type-measurements-aircraft-interior-sound-pressure-levels-cruise
+docidentifier:
+- content: SAE ARP1323
+  type: SAE
+  primary: true
+- content: 10.4271/arp1323
+  type: DOI
+date:
+- type: approved
+  at: '1978-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-21 Aircraft Noise Measurement Aviation Emission Modeling
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Recommendations of this Aerospace Recommended Practice (ARP) are not intended to satisfy the more detailed and stringent requirements of aircraft design development. Also, they may not be directly applicable to general or private aviation aircraft where special restraints on measurement locations and procedures may exist. However, many of the principles and standards discussed may apply to these aircraft.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The recommended procedure for sound pressure level measurements in aircraft involves the recording of data on magnetic tape for subsequent processing and analysis after the flight. Sound level meter/octave-band analyzer measurements, because of inherent inaccuracies associated with manual data readings, are not as precise as those obtained from a tape-recorder/time integrating analyzer system and are, therefore, precluded from this recommended practice.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEARP1480
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GROUND ELECTRICAL POWER UNIT BRUSHLESS, SYNCHRONOUS, ELECTRIC MOTOR-DRIVEN
+    400 HERTZ, 3-PHASE OUTPUT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1480
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1480-ground-electrical-power-unit-brushless-synchronous-electric-motor-driven-400-hertz-3-phase-output
+docidentifier:
+- content: SAE ARP1480
+  type: SAE
+  primary: true
+- content: 10.4271/arp1480
+  type: DOI
+date:
+- type: approved
+  at: '1985-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice outlines the general requirements of a continuous duty, electric motor-driven brushless alternator unit for supplying 400 Hz electrical power to high performance commercial transport aircraft. This specification is for a single motor-generator set with one or two outputs. The generator set will generate at the aircraft voltage of 115/200 volts. This unit may be used in a central system of small size or in hangar or electronic shop applications. Power characteristics of this unit at the receptacle will meet MIL-Standard-704 requirements. Other limits which are necessary to meet specific conditions must be specified by the purchaser.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

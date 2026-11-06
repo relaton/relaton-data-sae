@@ -1,0 +1,84 @@
+---
+id: SAEAIR6841
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Quick Donning Crew Oxygen Masks with Regulator
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6841
+- type: src
+  content: https://saemobilus.sae.org/standards/air6841-quick-donning-crew-oxygen-masks-regulator
+docidentifier:
+- content: SAE AIR6841
+  type: SAE
+  primary: true
+- content: 10.4271/air6841
+  type: DOI
+date:
+- type: approved
+  at: '2026-10-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this document is to provide information regarding performance, use, and quality of the Quick Donning Crew Oxygen Mask assembly with an integrated Regulator (QDCOMR). This document is intended to guide the user through a selection of requirements and validation and verification methods for the QDCOMR. This document lists minimum standards, but it is not intended to be exhaustive.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The QDCOMR is in use on the flight deck of civil aviation aircraft and protects the flight deck crew from hypobaric hypoxia and could protect from smoke and toxic gases.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The QDCOMR is distinct from the continuous flow oxygen masks.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Firefighting, therapeutic, and military applications are excluded.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The device can be of the oronasal type and comprises at least the following components:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;A facepiece, including an integrated demand regulator&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;A flexible oxygen supply hose&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;An attachment harness&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Separated or integrated goggles, or without goggles&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Provisions for installation&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;Some designs may include additional components (for example, a microphone).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

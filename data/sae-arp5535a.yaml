@@ -1,0 +1,58 @@
+---
+id: SAEARP5535A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Observers for Laser Safety in the Navigable Airspace
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5535a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5535a-observers-laser-safety-navigable-airspace
+docidentifier:
+- content: SAE ARP5535A
+  type: SAE
+  primary: true
+- content: 10.4271/arp5535a
+  type: DOI
+date:
+- type: approved
+  at: '2015-02-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10T Laser Safety Hazards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document applies to safety observers or spotters involved with the use of outdoor laser systems. It may be used in conjunction with SAE Aerospace Standard (AS4970) “Human Factors Considerations for Outdoor Laser Operations in the Navigable Airspace.” Additional control measures may be applicable and are listed in ANSI Z136.6.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

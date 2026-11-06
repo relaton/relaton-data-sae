@@ -1,0 +1,57 @@
+---
+id: SAEAS269H
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Identification of Material for AN, MS, and AS Engine and Propeller Standard
+    Utility Parts and Also for Company Parts
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as269h
+- type: src
+  content: https://saemobilus.sae.org/standards/as269h-identification-material-an-ms-engine-propeller-standard-utility-parts-company-parts
+docidentifier:
+- content: SAE AS269H
+  type: SAE
+  primary: true
+- content: 10.4271/as269h
+  type: DOI
+date:
+- type: approved
+  at: '2012-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) provides material identification codes for aluminum alloys, copper alloys, carbon steels, alloy steels, titanium alloys, corrosion resistant materials, and heat resistant materials that are used to make AN, MS, and AS engine and propeller standard utility parts. This document also provides similar material codes for company parts (such as nuts, bolts, etc.) having design configuration similar to other company parts or the engine and propeller standard utility parts (AN, MS, and AS) that are not of the same material.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

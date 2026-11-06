@@ -1,0 +1,58 @@
+---
+id: SAEARP5415B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: User’s Manual for Certification of Aircraft Electrical/Electronic Systems
+    for the Indirect Effects of Lightning
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5415b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5415b-users-manual-certification-aircraft-electrical-electronic-systems-indirect-effects-lightning
+docidentifier:
+- content: SAE ARP5415B
+  type: SAE
+  primary: true
+- content: 10.4271/arp5415b
+  type: DOI
+date:
+- type: approved
+  at: '2020-03-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-2 Lightning Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This ARP provides detailed information, guidance, and methods in support of the Federal Aviation Administration (FAA) Advisory Circular (AC) 20-136. AC 20-136 provides a means, but not the only means, for demonstrating compliance with Title 14 of the Code of Federal Regulations (14 CFR) 23.1306 (Amendment 23-61), 23.2515 (Amendment 23-64), 25.1316, 27.1316, and 29.1316. It is also intended for this ARP to provide the same information, guidance, and methods, to the European Aviation Safety Agency (EASA) certification specifications CS 23.1306 (Amendment 23/4), 23.2515 (Amendment 23/5), 25.1316, 27.1316, and 29.1316, and associated Acceptable Means of Compliance (AMC) 20-136. This ARP provides references relevant to identifying: (1) acceptance criteria for the indirect effects of lightning compliance approaches, (2) verification (analysis and test) methods including those associated with multiple stroke and multiple burst, (3) recommended design options to optimize needed system immunity to lightning indirect effects, and (4) provide guidance in the areas of continued airworthiness of the lightning protection. Equipment hazards due to the indirect effects on equipment mounted on the aircraft exterior, equipment located within the aircraft interior as well as all associated interconnecting wiring are addressed. This ARP provides additional guidelines in the application of indirect effects of lightning tests identified in DO-160/ED-14 Section 22. The FAA and EASA regulations apply to all adverse effects of lightning for electrical and electronic systems. Refer to ARP5577 for guidance related to lightning direct effects on electrical and electronic systems.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

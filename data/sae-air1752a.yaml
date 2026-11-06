@@ -1,0 +1,57 @@
+---
+id: SAEAIR1752A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Nosewheel Steering/Centering Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1752a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1752a-aircraft-nosewheel-steering-centering-systems
+docidentifier:
+- content: SAE AIR1752A
+  type: SAE
+  primary: true
+- content: 10.4271/air1752a
+  type: DOI
+date:
+- type: approved
+  at: '2024-06-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The intent of this AIR is twofold: (1) to present descriptive summary of aircraft nosewheel steering and centering systems, and (2) to provide a discussion of problems encountered and “lessons learned” by various airplane manufacturers and users.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document covers both military aircraft (land-based and ship-based) and commercial aircraft. It is intended that the document be continually updated as new aircraft and/or new “lessons learned” become available.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

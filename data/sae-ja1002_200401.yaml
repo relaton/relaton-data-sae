@@ -1,0 +1,56 @@
+---
+id: SAEJA1002_200401
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Software Reliability Program Standard
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ja1002_200401
+- type: src
+  content: https://saemobilus.sae.org/standards/ja1002_200401-software-reliability-program-standard
+docidentifier:
+- content: SAE JA1002_200401
+  type: SAE
+  primary: true
+- content: 10.4271/ja1002_200401
+  type: DOI
+date:
+- type: approved
+  at: '2004-01-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-11R,  Reliability Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard provides a framework for the management of software reliability within system reliability requirements. It is based around the Software Reliability Plan and Software Reliability Case and emphasizes the importance of evaluating progress towards meeting software reliability requirements throughout the project life-cycle.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

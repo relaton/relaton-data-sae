@@ -1,0 +1,56 @@
+---
+id: SAEAIR1780
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AIRCRAFT FLOTATION ANALYSIS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1780
+- type: src
+  content: https://saemobilus.sae.org/standards/air1780-aircraft-flotation-analysis
+docidentifier:
+- content: SAE AIR1780
+  type: SAE
+  primary: true
+- content: 10.4271/air1780
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5 Aerospace Landing Gear Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The substance of this report is divided into five parts. The first part deals with flotation analysis features and definitions to acquaint the engineer with elements common to the various methods and the meanings of the terms used. The second part identifies and describes the various methods used. To accomplish the minimum intent of this report, techniques could be limited to those needed for flotation analysis only. Because of the close relation between flotation analysis and runway design, methods for the latter are included. In fact, runway design criteria are used for flotation and evaluation in some cases, and are periodically the governing procedure in specific, if isolated, instances. From time to time, it may be necessary to deal with runways built to obsolete criteria. Therefore, a listing of most of these constitutes the third part. The fourth part of this report tabulates the recommended documents, categorizing them for commerical and civil versus military usage, by military service to be satisified, and by type of runway. The report is concluded with brief elaborations of some concepts for broadening the analyst's understanding of the subject.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

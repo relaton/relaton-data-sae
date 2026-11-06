@@ -1,0 +1,57 @@
+---
+id: SAEJ1091_200303
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Earthmoving Machinery—Operator’s Field of View
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1091_200303
+- type: src
+  content: https://saemobilus.sae.org/standards/j1091_200303-earthmoving-machinery-operators-field-view
+docidentifier:
+- content: SAE J1091_200303
+  type: SAE
+  primary: true
+- content: 10.4271/j1091_200303
+  type: DOI
+date:
+- type: approved
+  at: '2003-03-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: HFTC1, Controls, Visibility, Anthropometrics, Accessibility
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard specifies a stationary test method for determining the masking effect caused by parts of the base machine with equipment as specified by the manufacturer on a visibility test circle around the machine from the eye position point of a seated operator. It specifies a method for evaluating the maskings that may be present.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It applies to earthmoving machines which have a specific operator’s station. It does not consider evaluation of maskings which may be present with operational movement of working tools.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEAIR6139
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Ways of Dealing with Power Regeneration onto an Aircraft Electrical Power
+    System Bus
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6139
+- type: src
+  content: https://saemobilus.sae.org/standards/air6139-ways-dealing-power-regeneration-onto-aircraft-electrical-power-system-bus
+docidentifier:
+- content: SAE AIR6139
+  type: SAE
+  primary: true
+- content: 10.4271/air6139
+  type: DOI
+date:
+- type: approved
+  at: '2014-01-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7C Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) considers the issue of power regeneration into the EPS of an aircraft. A series of options for dealing with this regenerative power are considered and arranged in categories. Advantages and disadvantages of each solution, including the existing solution, are included. Validated simulation results from representative Electrical Power systems are presented in order to demonstrate how some of the solutions may operate in practice and how power quality can be maintained during regeneration. The impact on changes to the electrical generation system are also highlighted in this AIR, as these changes may have an impact on the solution deployed and the wider impact on the design of engines and auxiliaries.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This AIR reviews concepts and excludes detailed discussions on power system design. These concepts relate to the More Electric Aircraft, cover both AC and DC systems and can be applied to both normal operating conditions or as fault mitigation.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

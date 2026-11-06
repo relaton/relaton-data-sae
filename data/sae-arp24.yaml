@@ -1,0 +1,48 @@
+---
+id: SAEARP24
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PROCEDURE FOR TESTING PRESSURE DROP IN AIRCRAFT ACCESSORIES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp24
+- type: src
+  content: https://saemobilus.sae.org/standards/arp24-procedure-testing-pressure-drop-aircraft-accessories
+docidentifier:
+- content: SAE ARP24
+  type: SAE
+  primary: true
+- content: 10.4271/arp24
+  type: DOI
+date:
+- type: approved
+  at: '1947-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6 Aerospace Actuation, Control and Fluid Power Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

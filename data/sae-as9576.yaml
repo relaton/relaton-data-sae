@@ -1,0 +1,49 @@
+---
+id: SAEAS9576
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BOLT, MACHINE - DOUBLE HEXAGON EXTENDED WASHER HEAD, DRILLED, PD SHANK,
+    SILVER PLATED, .3125-24 UNJF-3A
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9576
+- type: src
+  content: https://saemobilus.sae.org/standards/as9576-bolt-machine-double-hexagon-extended-washer-head-drilled-pd-shank-silver-plated-3125-24-unjf-3a
+docidentifier:
+- content: SAE AS9576
+  type: SAE
+  primary: true
+- content: 10.4271/as9576
+  type: DOI
+date:
+- type: approved
+  at: '1999-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

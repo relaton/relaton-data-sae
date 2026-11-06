@@ -1,0 +1,70 @@
+---
+id: SAEARP7216
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Exterior Lighting Recommendations for Urban Air Mobility and Electric Vertical
+    Takeoff and Landing Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp7216
+- type: src
+  content: https://saemobilus.sae.org/standards/arp7216-exterior-lighting-recommendations-urban-air-mobility-electric-vertical-takeoff-landing-aircraft
+docidentifier:
+- content: SAE ARP7216
+  type: SAE
+  primary: true
+- content: 10.4271/arp7216
+  type: DOI
+date:
+- type: approved
+  at: '2026-04-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20B Exterior Lighting Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document covers external lighting for Electric Vertical Takeoff and Landing (E-VTOL) and Urban Air Mobility (UAM) vehicles. It discusses lights that may be installed both to meet regulatory requirements as well as for customer comfort and aircraft recognition. It also discusses the differences between UAM vehicles and other aircraft and how those differences impact the lighting.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

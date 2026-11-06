@@ -1,0 +1,70 @@
+---
+id: SAEJ2998_202601
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Model Description Documentation Recommended Practice for Ground Vehicle
+    System and Subsystem Simulation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2998_202601
+- type: src
+  content: https://saemobilus.sae.org/standards/j2998_202601-model-description-documentation-recommended-practice-ground-vehicle-system-subsystem-simulation
+docidentifier:
+- content: SAE J2998_202601
+  type: SAE
+  primary: true
+- content: 10.4271/j2998_202601
+  type: DOI
+date:
+- type: approved
+  at: '2026-01-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Dynamical Modeling and Simulation Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE J2998 defines the recommended information content to be included for documenting dynamical models used for simulation of ground vehicle systems. It describes the information that should be compiled to describe a model for the following user applications or use cases: (1) exchange, promotion, and selection; (2) creation requests; (3) development process management; (4) compatibility evaluation; (5) testing-in-the-loop simulations with hardware and/or software; (6) simulation applications; and (7) development and maintenance. For each use case, a model description documentation (MDD) template is provided in the appendices to facilitate model documentation. In addition, an example of a completed model documentation template is provided in the appendices.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

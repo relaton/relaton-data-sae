@@ -1,0 +1,60 @@
+---
+id: SAEJ2670_200506
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Stability and Compatibility Criteria for Additives and Flushing Materials
+    Intended for Use in Vehicle Air-Conditioning Systems Using R-134a
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2670_200506
+- type: src
+  content: https://saemobilus.sae.org/standards/j2670_200506-stability-compatibility-criteria-additives-flushing-materials-intended-use-vehicle-air-conditioning-systems-using-r-134a
+docidentifier:
+- content: SAE J2670_200506
+  type: SAE
+  primary: true
+- content: 10.4271/j2670_200506
+  type: DOI
+date:
+- type: approved
+  at: '2005-06-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Interior Climate Control Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE standard applies to any and all additives and chemical solutions intended for aftermarket use in the refrigerant circuit of vehicle air-conditioning systems. This standard provides testing and acceptance criteria for determining the stability and compatibility of additives and flushing materials (solutions) with A/C system materials and components, that may be intended for use in servicing or operation of vehicle air conditioning systems. This standard does not provide test criteria for additive, compressor lubricant, or flushing solution effectiveness; such testing is the responsibility of the additive and/or solution manufacturer/supplier. It is not the intent of this document to identify the requirements for Standard J2297 Ultraviolet Leak Detection: Stability and Compatibility Criteria of Fluorescent Refrigerant Leak Detection Dyes for Mobile R-134a Air-conditioning Systems. All leak detection materials must meet the requirements of J2297.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Additives for mobile air conditioning systems are not tested under this standard for system enhancement or performance. This standard only indicates if the additive is chemically compatible with the system components.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Flushing solvents when used completely fill the component/system being flushed and, hence, should not harm system components at 100% concentration. They are not intended to remain in the system, either as a solvent or as an additive, but, because it is not possible to remove all of the flushing solvent, an indeterminate amount remains. The residual remaining in the system depends on many factors, including system/component configuration, component blind spots where liquid cannot be removed, the volatility of the solvent, the procedure(s) used to remove the solvent, and evacuation capability and procedure. No means exists to identify and/or specify the amount of residual solvent that either can, or will, remain in any given system after the procedure(s) have been followed. This standard does not address the flushing solvent procedure or its effectiveness at removing residual flushing agent.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

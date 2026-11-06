@@ -1,0 +1,56 @@
+---
+id: SAEJ1243_200210
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Diesel Emission Production Audit Test Procedure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1243_200210
+- type: src
+  content: https://saemobilus.sae.org/standards/j1243_200210-diesel-emission-production-audit-test-procedure
+docidentifier:
+- content: SAE J1243_200210
+  type: SAE
+  primary: true
+- content: 10.4271/j1243_200210
+  type: DOI
+date:
+- type: approved
+  at: '2002-10-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: SAE IC Powertrain Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This SAE Recommended Practice applies to a production dynamometer test procedure which can be used to measure the smoke and gaseous emission characteristics of vehicular diesel engines. This procedure describes the smoke emission test method, smoke test cycle, gaseous emission test method, steady-state gaseous emission test cycle, equipment, instrumentation, calibration, data analysis, and correlation of results for comparison of production engine emission performance to the requirements of current or past Federal regulations.&lt;/p&gt;
+    &lt;p&gt;Variations in engines, instrumentation, and test equipment may require modifications to these procedures or data reduction methods. The acceptability of this procedure is dependent upon documented statistical data appropriate to correlate all tests, data reduction techniques, and special instrumentation to the required Federal tests.&lt;/p&gt;
+    &lt;p&gt;When using the audit test procedure to assess the emissions performance of production engines, considerations should be given to expected emissions deterioration factors and quality control limits should be adjusted accordingly.&lt;/p&gt;
+    &lt;p&gt;This document is intended as a guide for the measurement and assessment of transient smoke and steady-state gaseous emissions from heavy duty vehicular diesel engines only using a shortened engine dynamometer cycle which may be applicable to production line or production quality audit conditions. Key elements of the procedure closely resemble key elements of the Federal Test Procedures used for regulatory approval by the United States Government.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

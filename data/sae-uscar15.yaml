@@ -1,0 +1,65 @@
+---
+id: SAEUSCAR15
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Specification For Testing Automotive Miniature Bulb Socket/Circuit Plate
+    Assemblies
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar15
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar15-specification-testing-automotive-miniature-bulb-socket-circuit-plate-assemblies
+docidentifier:
+- content: SAE USCAR-15
+  type: SAE
+  primary: true
+- content: 10.4271/uscar15
+  type: DOI
+date:
+- type: approved
+  at: '2004-01-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes the requirements and test procedures for automotive miniature bulb retention devices, including wedge base sockets with integral connector, direct wire wedge base sockets, circuit plate assemblies, and associated interfaces.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Tests shall follow the sequence shown in the flow charts in &lt;span class="xref"&gt;Appendix E&lt;/span&gt; whenever the following occurs:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;New design&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Design, material or process change made to an existing device, which could affect the outcome of the test.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;Tests marked ‘Yearly’ in the following Test Schedule Table shall be run annually. Each test shall be run on 10 samples minimum; tests may be grouped, as supplier prefers, to reduce sample quantity or facilitate scheduling. Production process control data collected at a shorter interval per an approved control plan, may substituted if approved by customer’s responsible engineer and purchasing representative.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

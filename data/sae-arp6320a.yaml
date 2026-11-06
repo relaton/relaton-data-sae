@@ -1,0 +1,59 @@
+---
+id: SAEARP6320A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Procedure for the Continuous Sampling and Measurement of Non-Volatile Particulate
+    Matter Emissions from Aircraft Turbine Engines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6320a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6320a-procedure-continuous-sampling-measurement-non-volatile-particulate-matter-emissions-aircraft-turbine-engines
+docidentifier:
+- content: SAE ARP6320A
+  type: SAE
+  primary: true
+- content: 10.4271/arp6320a
+  type: DOI
+date:
+- type: approved
+  at: '2021-05-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-31P Particulate Matter Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) describes recommended sampling conditions, instrumentation, and procedures for the measurement of non-volatile particle number and mass concentrations from the exhaust of aircraft gas turbine engines. Procedures are included to estimate sampling system loss performance. This ARP is not intended for in-flight testing, nor does it apply to engines operating in the afterburning mode.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This ARP is intended as a guide toward standard practice and is subject to change to keep pace with experience and technical advances.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

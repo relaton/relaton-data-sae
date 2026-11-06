@@ -1,0 +1,62 @@
+---
+id: SAEJ406_199502
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: METHODS OF DETERMINING HARDENABILITY OF STEELS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j406_199502
+- type: src
+  content: https://saemobilus.sae.org/standards/j406_199502-methods-determining-hardenability-steels
+docidentifier:
+- content: SAE J406_199502
+  type: SAE
+  primary: true
+- content: 10.4271/j406_199502
+  type: DOI
+date:
+- type: approved
+  at: '1995-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Carbon and Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard prescribes the procedure for making hardenability tests and recording results on shallow and medium hardening steels, but not deep hardening steels that will normally air harden.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Included are procedures using the 25 mm (1 in) standard hardenability end-quench specimen for both medium and shallow hardening steels and subsize method for bars less than 32 mm (1-1/4 in) in diameter. Methods for determining case hardenability of carburized steels are given in SAE J1975.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Any hardenability test made under other conditions than those given in this document will not be deemed standard and will be subject to agreement between supplier and user. Whenever check tests are made, all laboratories concerned must arrange to use the same alternate procedure with reference to test specimen and method of grinding for hardness testing.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For routine testing of the hardenability of successive heats of steel required to have hardenability within certain limits, it is sufficient to designate hardenability simply in terms of distance from the quenched end to the point at which a certain hardness is obtained. This designation may also be adequate for comparing steels of different compositions to see whether they have similar hardenability.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Hardenability limits for specifying steel in this manner are obtained by measuring the hardenability of a steel which has proved satisfactory for the use intended. The hardenability test may be used in this way as an empirical test.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For new components where manufacturing experience is lacking, hardenability data may be effectively used to estimate the hardness profile provided by any given steel. Attendantly, the ability to predict hardenability from chemical composition has become increasingly important when comparing various steel grades or developing new steels for specific applications. One such procedure is described in &lt;span class="xref"&gt;Appendix A&lt;/span&gt;. Other hardenability prediction methods are available from the selected references in &lt;span class="xref"&gt;Section 2&lt;/span&gt;. However, it should be emphasized that the use of any hardenability prediction procedure does not preclude the importance of conducting Jominy end-quench tests to determine the actual hardenability of any specific grade of steel.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Hardenability data may be used to estimate hardnesses obtainable with any steel in new machine parts not yet in production and not similar to any parts on which production experience is available. Various hardenability application methods are described in the selected references, Section &lt;span class="xref"&gt;2.1&lt;/span&gt;, 23 to 25. It appears none of these methods are precise, but these are often useful for estimation purposes. Final correlation on actual parts is necessary.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

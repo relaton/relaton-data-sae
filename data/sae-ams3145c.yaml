@@ -1,0 +1,56 @@
+---
+id: SAEAMS3145C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Paint, Marking Epoxy
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3145c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3145c-paint-marking-epoxy
+docidentifier:
+- content: SAE AMS3145C
+  type: SAE
+  primary: true
+- content: 10.4271/ams3145c
+  type: DOI
+date:
+- type: approved
+  at: '2004-02-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G8 Aerospace Organic Coatings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers two-component colored systems composed of a resin and a miscible hardener supplied in kit form.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

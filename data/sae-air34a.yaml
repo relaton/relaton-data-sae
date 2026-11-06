@@ -1,0 +1,58 @@
+---
+id: SAEAIR34A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PENALTIES IN PERFORMANCE OF THREE-PHASE, FOUR-WIRE, 400-CYCLE MOTORS CAUSED
+    BY THE OPENING OF ONE PHASE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air34a
+- type: src
+  content: https://saemobilus.sae.org/standards/air34a-penalties-performance-three-phase-four-wire-400-cycle-motors-caused-opening-one-phase
+docidentifier:
+- content: SAE AIR34A
+  type: SAE
+  primary: true
+- content: 10.4271/air34a
+  type: DOI
+date:
+- type: approved
+  at: '2010-07-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7A Generators and Controls Motors and Magnetic Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this SAE Aerospace Information Report (AIR) is to present a guide for the determination of probable power output and the effect on the aircraft system that will be experienced when operating three-phase motors with one phase open. Unfortunately, the above subject cannot be resolved by specific rules. Modern aircraft or missile electrical systems are composed of a wide variety of electrical and electronic components. These components react differently under identical impetus due to the latitude of their design. This latitude of design must be allowed wherever possible to the accessory designer due to the various specification requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Therefore, it cannot be over-emphasized that the effect on the airplane or missile system, as well as motor operation, of three-phase motors on two-phase power must be thoroughly investigated.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

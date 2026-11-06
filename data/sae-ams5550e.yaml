@@ -1,0 +1,57 @@
+---
+id: SAEAMS5550E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Alloy Sheet, Strip, and Plate, Corrosion and Heat Resistant 80Ni - 15.5Cr
+    - 0.62Ti - 3.25Al Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5550e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5550e-alloy-sheet-strip-plate-corrosion-heat-resistant-80ni-155cr-062ti-325al-annealed
+docidentifier:
+- content: SAE AMS5550E
+  type: SAE
+  primary: true
+- content: 10.4271/ams5550e
+  type: DOI
+date:
+- type: approved
+  at: '2012-04-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat resistant nickel alloy in the form of sheet and strip.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

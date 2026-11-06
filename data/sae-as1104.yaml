@@ -1,0 +1,56 @@
+---
+id: SAEAS1104
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Single-Degree-of-Freedom Spring-Restrained Rate Gyros
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1104
+- type: src
+  content: https://saemobilus.sae.org/standards/as1104-single-degree-freedom-spring-restrained-rate-gyros
+docidentifier:
+- content: SAE AS1104
+  type: SAE
+  primary: true
+- content: 10.4271/as1104
+  type: DOI
+date:
+- type: approved
+  at: '2008-02-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4 Aircraft Instruments Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers that gyroscopic instrument normally defined as a "subminiature rate gyro." The rate gyro, when subjected to an angular rate about its input axis, provides an AC output voltage proportional to the angular rate. The subminiature size category generally includes gyro instruments of one (1) inch diameter or less and three and one-half (3 1/2) inches length or less. This specification defines the requirements for a subminiature spring-restrained, single-degree-of-freedom rate gyro for aircraft, missile, and spacecraft applications.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEARP1320
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: DETERMINATION OF CHLORINE IN OXYGEN FROM SOLID CHEMICAL OXYGEN GENERATORS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1320
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1320-determination-chlorine-oxygen-solid-chemical-oxygen-generators
+docidentifier:
+- content: SAE ARP1320
+  type: SAE
+  primary: true
+- content: 10.4271/arp1320
+  type: DOI
+date:
+- type: approved
+  at: '1976-01-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This ARP covers a procedure to be used in the determination of 0.05 to 0.3 PPM of chlorine in oxygen generated from any type of generator used for emergency or other life support systems.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

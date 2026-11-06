@@ -1,0 +1,71 @@
+---
+id: SAEARP6137
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Tire Pressure Monitoring Systems (TPMS) for Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6137
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6137-tire-pressure-monitoring-systems-tpms-aircraft
+docidentifier:
+- content: SAE ARP6137
+  type: SAE
+  primary: true
+- content: 10.4271/arp6137
+  type: DOI
+date:
+- type: approved
+  at: '2020-09-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5 Aerospace Landing Gear Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;A tire pressure monitoring system (TPMS) is a means to electronically measure and report the current tire pressure. Some systems are capable of transmitting the information to the flight deck while other systems are for use on the ground by maintenance personnel (only).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) document is intended to establish overall component and system function guidelines and minimum performance levels for a TPMS. The system should visually indicate the tire inflation pressure status. These guidelines include, but are not limited to:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Design recommendations for system components, which:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;monitor tire inflation, and,&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;are located in/on the tire/wheel assembly, landing gear axle, and/or aircraft avionics compartment.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Recommended performance and safety guidelines for a TPMS.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

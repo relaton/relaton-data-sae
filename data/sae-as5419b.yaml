@@ -1,0 +1,56 @@
+---
+id: SAEAS5419B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Cable, Thermocouple Extension, Shielded and Unshielded
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5419b
+- type: src
+  content: https://saemobilus.sae.org/standards/as5419b-cable-thermocouple-extension-shielded-unshielded
+docidentifier:
+- content: SAE AS5419B
+  type: SAE
+  primary: true
+- content: 10.4271/as5419b
+  type: DOI
+date:
+- type: approved
+  at: '2020-06-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8D Wire and Cable Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) covers the requirements for thermocouple extension cable. Manufacturers of primary thermocouple wire in accordance with this specification must be qualified to the similar wire type specified in &lt;span class="xref"&gt;Table 1&lt;/span&gt;.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

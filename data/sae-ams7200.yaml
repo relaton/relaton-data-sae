@@ -1,0 +1,56 @@
+---
+id: SAEAMS7200
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Interior Decorative Clear Coating for Metal Surfaces
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7200
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7200-interior-decorative-clear-coating-metal-surfaces
+docidentifier:
+- content: SAE AMS7200
+  type: SAE
+  primary: true
+- content: 10.4271/ams7200
+  type: DOI
+date:
+- type: approved
+  at: '2020-02-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G8 Aerospace Organic Coatings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes requirements for an interior decorative clear coating for wear protection of metal substrates.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

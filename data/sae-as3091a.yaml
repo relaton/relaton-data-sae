@@ -1,0 +1,49 @@
+---
+id: SAEAS3091A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STUD - STRAIGHT, KEY LOCKED, CRES SIMILAR TO UNS S66286 .2500-28 UNJF X
+    .2500-28 UNJF
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as3091a
+- type: src
+  content: https://saemobilus.sae.org/standards/as3091a-stud-straight-key-locked-cres-similar-uns-s66286-2500-28-unjf-x-2500-28-unjf
+docidentifier:
+- content: SAE AS3091A
+  type: SAE
+  primary: true
+- content: 10.4271/as3091a
+  type: DOI
+date:
+- type: approved
+  at: '2018-11-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

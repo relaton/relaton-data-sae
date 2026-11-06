@@ -1,0 +1,60 @@
+---
+id: SAEAIR6464
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: EUROCAE/SAE WG80/AE-7AFC Hydrogen Fuel Cells Aircraft Fuel Cell Safety
+    Guidelines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6464
+- type: src
+  content: https://saemobilus.sae.org/standards/air6464-eurocae-sae-wg80-ae-7afc-hydrogen-fuel-cells-aircraft-fuel-cell-safety-guidelines
+docidentifier:
+- content: SAE AIR6464
+  type: SAE
+  primary: true
+- content: 10.4271/air6464
+  type: DOI
+date:
+- type: approved
+  at: '2020-02-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7F Hydrogen and Fuel Cells
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document defines the technical guidelines for the safe integration of Proton Exchange Membrane (PEM) Fuel Cell Systems (FCS), fuel (considered to be liquid and compressed hydrogen storage types only), fuel storage, fuel distribution and appropriate electrical systems into the aircraft.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Editorial Note: Today PEM systems and fuel storage represent the most mature FCS technology and currently forms the basis for this standard. Other types of fuel cell systems and fuels (including reforming technologies and electrolyzers), may be covered by a further update to this document.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

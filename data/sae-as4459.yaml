@@ -1,0 +1,57 @@
+---
+id: SAEAS4459
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FITTINGS, TUBE, FLUID SYSTEM, 3000 psig MAXIMUM, PERMANENTLY ATTACHED,
+    SPECIFICATION FOR
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4459
+- type: src
+  content: https://saemobilus.sae.org/standards/as4459-fittings-tube-fluid-system-3000-psig-maximum-permanently-attached-specification
+docidentifier:
+- content: SAE AS4459
+  type: SAE
+  primary: true
+- content: 10.4271/as4459
+  type: DOI
+date:
+- type: approved
+  at: '1992-12-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) establishes the requirements for MIL-H-5440 Class II permanently attached tube fittings for use in hydraulic and other aerospace fluid systems.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

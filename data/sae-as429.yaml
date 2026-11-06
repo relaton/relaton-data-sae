@@ -1,0 +1,66 @@
+---
+id: SAEAS429
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Rate of Climb (Vertical Speed) Indicator, Pressure Actuated (Turbine Powered
+    Subsonic Aircraft)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as429
+- type: src
+  content: https://saemobilus.sae.org/standards/as429-rate-climb-vertical-speed-indicator-pressure-actuated-turbine-powered-subsonic-aircraft
+docidentifier:
+- content: SAE AS429
+  type: SAE
+  primary: true
+- content: 10.4271/as429
+  type: DOI
+date:
+- type: approved
+  at: '2008-02-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4 Aircraft Instruments Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Standard covers four basic types of direct reading pressure actuated rate of climb (vertical speed) indicators as follows:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Type I - Range 0-2000 feet per minute climb and descent&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Type II - Range 0-3000 feet per minute climb and descent&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Type III - Range 0-4000 feet per minute climb and descent&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Type IV - Range 0-6000 feet per minute climb and descent&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

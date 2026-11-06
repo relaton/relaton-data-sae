@@ -1,0 +1,49 @@
+---
+id: SAEAMS6368
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Tubing, (Seamless), Round Chromium Molybdenum (.32 - .39 Carbon)
+    (200,000 Tensile Strength)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6368
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6368-steel-tubing-seamless-round-chromium-molybdenum-32-39-carbon-200000-tensile-strength
+docidentifier:
+- content: SAE AMS6368
+  type: SAE
+  primary: true
+- content: 10.4271/ams6368
+  type: DOI
+date:
+- type: approved
+  at: '2002-12-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

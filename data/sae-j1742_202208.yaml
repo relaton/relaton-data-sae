@@ -1,0 +1,71 @@
+---
+id: SAEJ1742_202208
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Connections for High Voltage On-Board Vehicle Electrical Wiring Harnesses
+    - Test Methods and General Performance Requirements
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1742_202208
+- type: src
+  content: https://saemobilus.sae.org/standards/j1742_202208-connections-high-voltage-board-vehicle-electrical-wiring-harnesses-test-methods-general-performance-requirements
+docidentifier:
+- content: SAE J1742_202208
+  type: SAE
+  primary: true
+- content: 10.4271/j1742_202208
+  type: DOI
+date:
+- type: approved
+  at: '2022-08-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Connector Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Procedures included within this specification are intended to cover performance testing at all phases of development, production, and field analysis of electrical terminals, connectors, and components that constitute the electrical connection systems in high power road vehicle applications that operates at either 20 V to 600 volts regardless of the current applied or any current greater than or equal to 80 A regardless of the voltage applied.. These procedures are applicable only to terminals used for In-Line, Header, and Device Connectors and for cable sizes up to 120 mm&lt;sup&gt;2&lt;/sup&gt; (4/0).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In cases where power levels are mixed in the same connector, (i.e. sensing or normal 14.5 volt system circuits with High Power Contacts) the High Power Contacts must pass J1742 requirements, and all other contacts must pass SAE J2223-2 requirements. The connection system (housing and high power contacts) shall meet J1742 requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The requirements and procedures in this document are not intended for connections internal to electrical/electronic modules or complete subassemblies.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not contain a test for EMI/EMC since these parameters must be tested as a combination of cable and connector. These are considered system level requirements. Determination of the need and type of test must be considered at that level.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;See &lt;span class="xref"&gt;Appendix C&lt;/span&gt;, Design Notes for further information.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;IMPORTANT NOTICE&lt;/b&gt;: In any intended vehicle application, if the products covered by this specification are, or may be, subjected to conditions beyond those described in this document, they must pass special tests simulating the actual conditions to be encountered before they can be considered acceptable for actual vehicle application. By way only of example, this includes products that may be subjected to temperatures beyond the extremes of Class 5 in &lt;span class="xref"&gt;Table 2&lt;/span&gt; of SAE J2223-2, or may be subjected to shock or vibration in the un-sprung portions of a vehicle, such as the wheel hub. Products certified by their supplier as having passed specific applicable portions of this specification are not to be used in applications where conditions may exceed those for which the product has been satisfactorily tested.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The Authorized Person is the final authority as to what tests are to be performed on his or her parts and for what purpose these tests are required. He or she is also the final authority for resolving any questions related to testing to this specification and for authorizing any deviations to the equipment, procedures and/or acceptance requirements contained in this specification. Any such deviation must be documented and included in the final test report and on the part print. The following are examples of appropriate print notations:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Example 1: Test value per SAE J2223-2, Revision 1, paragraph 5.4.2 Connector Mating/Un-mating Force – mating force value = 85 N.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Example 2: SAE J2223-2, Revision 1, paragraph 5.4.9 Cavity Damage Susceptibility – not applicable to this design.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Agreement to waive or alter test procedures and Acceptance Criteria must be made between customer and supplier.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Guidance as to the recommended tests for selected purposes is given in the charts in &lt;span class="xref"&gt;Appendix A&lt;/span&gt; and &lt;span class="xref"&gt;B&lt;/span&gt;. In the absence of contrary direction from the Authorized Person in the test request/order, all electrical connectors and their associated terminals and other components are required to meet all applicable portions of this document with the following exception:&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Specific tests that are not required or additional test requirements as specified in any document in the hierarchy of &lt;span class="xref"&gt;Section 2&lt;/span&gt;.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

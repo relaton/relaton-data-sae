@@ -1,0 +1,56 @@
+---
+id: SAEARP7120
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Compatibility of Turbine Lubricating Oils
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp7120
+- type: src
+  content: https://saemobilus.sae.org/standards/arp7120-compatibility-turbine-lubricating-oils
+docidentifier:
+- content: SAE ARP7120
+  type: SAE
+  primary: true
+- content: 10.4271/arp7120
+  type: DOI
+date:
+- type: approved
+  at: '2023-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-34 Propulsion Lubricants Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This method is used for determining the compatibility of a candidate lubricant with specific reference lubricants. The reference lubricants to be used will typically be mandated by the owner of the product specification against which the candidate lubricant is being compared. This method is split into two procedures (Procedure A and Procedure B) with a summary of each procedure contained in &lt;span class="xref"&gt;Section 4&lt;/span&gt;.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

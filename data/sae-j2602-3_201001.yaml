@@ -1,0 +1,59 @@
+---
+id: SAEJ26023_201001
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: File Structures for a Node Capability File (NCF)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2602/3_201001
+- type: src
+  content: https://saemobilus.sae.org/standards/j26023_201001-file-structures-a-node-capability-file-ncf
+docidentifier:
+- content: SAE J2602/3_201001
+  type: SAE
+  primary: true
+- content: 10.4271/j2602/3_201001
+  type: DOI
+date:
+- type: approved
+  at: '2010-01-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Architecture For Data Communications Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document covers the requirements for SAE implementations based on LIN 2.0. Requirements stated in this document will provide a minimum standard level of performance to which all compatible systems, design and development tools, software, ECUs and media shall be designed. This will assure consistent and unambiguous serial data communication among all connected devices regardless of supplier.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document may be referenced by any vehicle OEM component technical specification that describes any given ECU in which the single wire data link controller and physical layer interface is located.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The intended audience includes, but is not limited to, ECU suppliers, LIN controller suppliers, LIN transceiver suppliers, component release engineers and vehicle system engineers.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

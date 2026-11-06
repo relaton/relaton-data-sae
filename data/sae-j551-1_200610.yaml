@@ -1,0 +1,61 @@
+---
+id: SAEJ5511_200610
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Performance Levels and Methods of Measurement of Electromagnetic Compatibility
+    of Vehicles, Boats (up to 15 m), and Machines (16.6 Hz to 18 GHz)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j551/1_200610
+- type: src
+  content: https://saemobilus.sae.org/standards/j5511_200610-performance-levels-methods-measurement-electromagnetic-compatibility-vehicles-boats-15-m-machines-166-hz-18-ghz
+docidentifier:
+- content: SAE J551/1_200610
+  type: SAE
+  primary: true
+- content: 10.4271/j551/1_200610
+  type: DOI
+date:
+- type: approved
+  at: '2006-10-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard covers the measurement of radio frequency radiated emissions and immunity. Each part details the requirements for a specific type of electromagnetic compatibility (EMC) test and the applicable frequency range of the test method.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The methods are applicable to a vehicle or device powered by an internal combustion engine or electric motor. Operation of all engines (main and auxiliary) of a vehicle or device is included. All equipment normally operating when the engine is running is included. Operator controlled equipment is included or excluded as specified in the individual document parts.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;By reference, IEC CISPR 12 and CISPR 25 are adopted as the standards for the measurement of vehicle emissions. In the event that an Amendment is made to the referenced edition of these documents or a new edition is published, the new IEC document shall become part of this standard six months after the publication of the IEC document. SAE reserves the right to identify exceptions to the published IEC document with the exceptions to be documented in SAE J551-2 and SAE J551-4, respectively.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The recommended levels apply only to complete vehicles in their final manufactured form. Vehicle-mounted rectifiers used for charging in electric vehicles are included in this series of documents when operated in their charging mode.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Emissions from intentional radiators are not controlled by this document. (See applicable, appropriate regulatory documents.) The immunity of commercial mains powered equipment to overvoltages and line transients is not covered by this document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

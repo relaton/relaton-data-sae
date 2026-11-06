@@ -1,0 +1,49 @@
+---
+id: SAEAMS5851C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: NICKEL ALLOY, CORROSION AND HEAT RESISTANT, POWDER 55Ni - 15Cr - 17Co -
+    5.0Mo - 3.5Ti - 4.0Al - 0.025B As Fabricated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5851c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5851c-nickel-alloy-corrosion-heat-resistant-powder-55ni-15cr-17co-50mo-35ti-40al-0025b-fabricated
+docidentifier:
+- content: SAE AMS5851C
+  type: SAE
+  primary: true
+- content: 10.4271/ams5851c
+  type: DOI
+date:
+- type: approved
+  at: '1994-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

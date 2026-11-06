@@ -1,0 +1,57 @@
+---
+id: SAEAIR4367B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Inflight Ice Detectors and Icing Rate Measuring Instruments
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4367b
+- type: src
+  content: https://saemobilus.sae.org/standards/air4367b-aircraft-inflight-ice-detectors-icing-rate-measuring-instruments
+docidentifier:
+- content: SAE AIR4367B
+  type: SAE
+  primary: true
+- content: 10.4271/air4367b
+  type: DOI
+date:
+- type: approved
+  at: '2022-05-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9C Aircraft Icing Technology Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides information regarding ice detector technology and design. The SAE document AS5498 provides detailed information regarding the requirements, specifications, qualification, and certification of icing detection systems. This document is not meant to replace AS5498, but to enhance it by considering unique aspects of sensing technology and, in particular, those that may not be certificated at the time of this revision. To that end, an effort has been made not to duplicate information contained in AS5498. Icing rate information is included where applicable. The primary application is associated with ice forming on the leading edges of airfoils and inlets while the aircraft is in flight. Information related to detection of ice over cold fuel tanks and icing at low-velocity operation is included. The material is primarily applicable to fixed-wing aircraft. Unique requirements for engine inlets and rotorcraft are also provided.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

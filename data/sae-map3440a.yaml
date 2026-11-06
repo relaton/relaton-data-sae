@@ -1,0 +1,57 @@
+---
+id: SAEMAP3440A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: O-Ring Groove Design for Metric O-Ring Seals Used in Static Radial Compression
+    Applications Specifically for Engine and Engine Control Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/map3440a
+- type: src
+  content: https://saemobilus.sae.org/standards/map3440a-o-ring-groove-design-metric-o-ring-seals-used-static-radial-compression-applications-specifically-engine-engine-control-systems
+docidentifier:
+- content: SAE MAP3440A
+  type: SAE
+  primary: true
+- content: 10.4271/map3440a
+  type: DOI
+date:
+- type: approved
+  at: '2021-11-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C2 Seals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice provides the design criteria for static elastomeric O-ring seals used specifically in engine and engine control systems. It provides radial compression groove dimensions for aerospace metric O-ring sizes specified in MA2010. The conditions considered to formulate the design criteria are also described, e.g., seal stretch, cross-section reduction, seal squeeze, and swell.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

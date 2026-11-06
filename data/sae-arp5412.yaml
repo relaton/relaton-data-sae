@@ -1,0 +1,61 @@
+---
+id: SAEARP5412
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Lightning Environment and Related Test Waveforms
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5412
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5412-aircraft-lightning-environment-related-test-waveforms
+docidentifier:
+- content: SAE ARP5412
+  type: SAE
+  primary: true
+- content: 10.4271/arp5412
+  type: DOI
+date:
+- type: approved
+  at: '1999-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-2 Lightning Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The environment and test waveforms defined in this SAE Aerospace Recommended Practice (ARP) account for the best lightning data and analysis currently available. The quantified environment and levels herein represent the minimum currently required by certifying authorities, consistent with the approach applied in related lightning documents.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Lightning, like any natural phenomenon, is probabilistic in nature. Levels and waveforms vary considerably from one flash to the next. These standardized voltage and current waveforms have been derived to represent the lightning environment, and are used to assess the direct effects of lightning on aircraft. The standardized external current waveforms have in turn been used to derive standardized transient voltage and current waveforms which can be expected to appear on the cable bundles and at equipment interfaces.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In addition, test waveforms based on current industry best practice are included to supplement these waveforms that are derived directly from the lightning environment. Considerations such as testability and important waveform characteristics that can demonstrate lightning design effectiveness are taken into account.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The parameters of the standardized waveforms, both external and derived transients, represent severe versions of each of the characteristics of natural lightning flashes and include all parameters of interest with respect to lightning protection for aircraft. However, it should be noted that in every case more severe versions of each of the characteristics of the standardized waveforms have been recorded in natural lightning flashes as well as additional parameters such as electric field effects in non-conductive structures.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The test waveforms provided in this ARP are considered to be adequate for the demonstration of compliance for the protection of an aircraft and its systems against the lightning environment and should be applied in accordance with the aircraft lightning strike zones (see ARP5414) and test methods (see ARP5416 (DRAFT)), and applicable FAA and JAA advisory and interpretive material.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

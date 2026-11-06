@@ -1,0 +1,59 @@
+---
+id: SAEAIR4250
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ELECTRONIC ENGINE CONTROL SPECIFICATIONS AND STANDARDS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4250
+- type: src
+  content: https://saemobilus.sae.org/standards/air4250-electronic-engine-control-specifications-standards
+docidentifier:
+- content: SAE AIR4250
+  type: SAE
+  primary: true
+- content: 10.4271/air4250
+  type: DOI
+date:
+- type: approved
+  at: '1992-01-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-36 Electronic Engine Controls Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report lists documents that aid and govern the design, development, and utilization of aerospace electronic engine control systems. The report lists the military and industry specifications and standards that are commonly used in electronic engine control system design. However, this list is not necessarily complete.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The specifications and standards section has been divided into two parts; a master list arranged numerically and a categorized list that provides a functional breakdown and cross-reference of these documents.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Current revisions for standards and specifications are not listed. For details of current revisions of many documents, including notices, amendments, and supplements, refer to the Department of Defense Index of Specifications and Standards (DODISS).&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

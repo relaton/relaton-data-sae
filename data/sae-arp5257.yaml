@@ -1,0 +1,57 @@
+---
+id: SAEARP5257
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Tire Overspeed Landing Test
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5257
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5257-tire-overspeed-landing-test
+docidentifier:
+- content: SAE ARP5257
+  type: SAE
+  primary: true
+- content: 10.4271/arp5257
+  type: DOI
+date:
+- type: approved
+  at: '2007-07-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5C Aircraft Tires Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document covers the basis of, and test procedure for, an overspeed landing test on aircraft tires with rated speeds of 190 mph (306 km/h) and above. The conditions requiring an overspeed test, alternatives, test requirements and pass/fail criteria are addressed.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

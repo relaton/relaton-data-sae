@@ -1,0 +1,58 @@
+---
+id: SAEAIR1509
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Emc Antennas and Antenna Factors:  How to Use Them'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1509
+- type: src
+  content: https://saemobilus.sae.org/standards/air1509-emc-antennas-antenna-factors-use
+docidentifier:
+- content: SAE AIR1509
+  type: SAE
+  primary: true
+- content: 10.4271/air1509
+  type: DOI
+date:
+- type: approved
+  at: '1999-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-4 Electromagnetic Compatibility (EMC) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This AIR discusses the use and application of EMC antennas and antenna
+    factors. The relationships between antenna gain, antenna factor, power density
+    (W/m2), and field strength (V/m) are discussed. Some examples of their use are
+    given. Illustrations of commercially available EMC antennas commonly used in performing
+    EMI measurements are included. In addition to the illustrations, the antenna factors,
+    frequency ranges, typical uses (applications), and the manufacturers of these
+    antennas are also listed.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

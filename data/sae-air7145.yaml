@@ -1,0 +1,69 @@
+---
+id: SAEAIR7145
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Comparative Performance Data for Extra-High Strength Copper Alloy Conductors
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air7145
+- type: src
+  content: https://saemobilus.sae.org/standards/air7145-comparative-performance-data-extra-high-strength-copper-alloy-conductors
+docidentifier:
+- content: SAE AIR7145
+  type: SAE
+  primary: true
+- content: 10.4271/air7145
+  type: DOI
+date:
+- type: approved
+  at: '2025-12-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8D Wire and Cable Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AIR is limited to the testing of an extra-high strength copper alloy and benchmark conductors utilizing the test protocol of AS6324. All samples are 19 strand unilay conductors per AS29606 at 24 or 26 AWG, either nickel or silver coated. At 24 AWG, extra-high strength copper alloy is compared to high strength copper alloy conductors. At 26 AWG, extra-high strength copper alloy is compared to high strength copper alloy and ultrahigh strength copper alloy conductors.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

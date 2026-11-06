@@ -1,0 +1,60 @@
+---
+id: SAEJ31081_202403
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standard Four-Letter Coding as an Identification Method for Alternative
+    Fuel Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3108/1_202403
+- type: src
+  content: https://saemobilus.sae.org/standards/j31081_202403-standard-four-letter-coding-identification-method-alternative-fuel-vehicles
+docidentifier:
+- content: SAE J3108/1_202403
+  type: SAE
+  primary: true
+- content: 10.4271/j3108/1_202403
+  type: DOI
+date:
+- type: approved
+  at: '2024-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE J3108 RP provides fuel and hazard guidance for first and second responders of incidents associated with alternative fueled vehicles. The intent of this SAE J3108-1 RP is to remain with the limited number of seven intuitive and colored letters contained in each of the first two letter positions (7&lt;sup&gt;2&lt;/sup&gt;=49). However, the use of four letters plus nine digits (to not use either 0 or o) permits up to 1185921 unique identifiers (33&lt;sup&gt;4&lt;/sup&gt;) for future expansion.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The RP is not intended to replace the standards for SAE J2990 format emergency response guide (ERG) created by automotive manufacturers for use at the scene of an emergency. Automotive OEMs are encouraged to reference this RP for industry design guidance when creating vehicle requirements and ERGs. This coding should be consistent with other vehicle badging with the goal of providing additional clarity.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This RP does not include detailed equipment and procedures such as tools, personal protective equipment, or other aspects required for addressing vehicles which have been involved in accidents or incidents. Other documents providing those aspects are listed in the list of references.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This RP is independent of existing U.S. Department of Transportation (DOT) hazardous labeling and nomenclature provided by Code of Federal Regulations Part 49. The ten hazard symbols and four levels of severity rating are insufficient to identify the unique aspects of configurations which may be specific to various vehicles designs. Those symbols are typically not used on the passenger types of vehicles this RP is meant for. This document also does not supersede current DOT requirements, U.S. Federal Regulations, or other regional regulations for identifying vehicle fuel and critical first responder information.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

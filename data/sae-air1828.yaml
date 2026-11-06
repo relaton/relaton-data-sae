@@ -1,0 +1,59 @@
+---
+id: SAEAIR1828
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GUIDE TO OIL SYSTEM MONITORING IN AIRCRAFT GAS TURBINE ENGINES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1828
+- type: src
+  content: https://saemobilus.sae.org/standards/air1828-guide-oil-system-monitoring-aircraft-gas-turbine-engines
+docidentifier:
+- content: SAE AIR1828
+  type: SAE
+  primary: true
+- content: 10.4271/air1828
+  type: DOI
+date:
+- type: approved
+  at: '1984-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this Aerospace Information Report (AIR) is to provide information and guidance for the selection and use of oil system monitoring devices and methods.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This AIR is intended to be used as a technical guide. It is not intended to be used as a legal document or standard.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The scope of this document is limited to those inspection and analysis methods and devices which can be considered appropriate for routine maintenance.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In agreement with industry usage, wear particle size ranges are given in μm (1 μm = 10&lt;sup&gt;-3&lt;/sup&gt; millimeter = 10&lt;sup&gt;-6&lt;/sup&gt; meter). Other dimensions are given in millimeters, with inches in parenthesis.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

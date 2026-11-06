@@ -1,0 +1,53 @@
+---
+id: SAEAMS4301C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Boron-Aluminum Composite Sheet - 50 V/O 5.6b, 2024-O, for Diffusion Bonding
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4301c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4301c-boron-aluminum-composite-sheet-50-v-o-56b-2024-o-diffusion-bonding
+docidentifier:
+- content: SAE AMS4301C
+  type: SAE
+  primary: true
+- content: 10.4271/ams4301c
+  type: DOI
+date:
+- type: approved
+  at: '1996-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification has been 'CANCELLED' by the Aerospace Materials
+    \ Division, SAE, as of February 1996.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

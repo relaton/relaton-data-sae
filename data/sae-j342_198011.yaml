@@ -1,0 +1,57 @@
+---
+id: SAEJ342_198011
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SPARK ARRESTER TEST PROCEDURE FOR LARGE SIZE ENGINES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j342_198011
+- type: src
+  content: https://saemobilus.sae.org/standards/j342_198011-spark-arrester-test-procedure-large-size-engines
+docidentifier:
+- content: SAE J342_198011
+  type: SAE
+  primary: true
+- content: 10.4271/j342_198011
+  type: DOI
+date:
+- type: approved
+  at: '1980-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Spark Arrester Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice establishes equipment and procedures for the evaluation of the relative collection efficiencies and other performance characteristics of spark arresters or turbochargers used on the exhaust system of large engines normally used in railroad locomotives, stationary power plants, and other similar applications. This recommended practice does not cover applications requiring flame arresting, exhaust gas cooling, or isolation from explosive gases. Two uniform testing methods are offered; a laboratory test using ambient air (cold test) and an engine test using exhaust gases (hot test), which may be used by spark arrester manufacturers, governmental bodies, and engine spark arrester users. Though the engine test (hot test) is preferred, approval can be sought based on the lab test (cold test) over the airflow range tested. Arresters meeting this standard should not be expected to adequately arrest sparks when tilted more than 45 deg from their normal operating position. Spark arresters or turbochargers qualified by an engine test can be applied to different engines of similar design without a complete retest, provided the data shows it to be effective in the applicable flow ranges. Additional test data may be obtained to determine effectiveness at higher or lower flow ranges.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Certain design and performance characteristics, which may be required by regulatory agencies for qualification and approval under this recommended practice, are listed in the &lt;span class="xref"&gt;Appendix&lt;/span&gt;.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

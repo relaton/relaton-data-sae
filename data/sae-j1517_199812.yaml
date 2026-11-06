@@ -1,0 +1,56 @@
+---
+id: SAEJ1517_199812
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Driver Selected Seat Position
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1517_199812
+- type: src
+  content: https://saemobilus.sae.org/standards/j1517_199812-driver-selected-seat-position
+docidentifier:
+- content: SAE J1517_199812
+  type: SAE
+  primary: true
+- content: 10.4271/j1517_199812
+  type: DOI
+date:
+- type: approved
+  at: '1998-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Human Factors Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;A driver selected seat position tool has been developed to describe where certain percentages of drivers position horizontally adjustable seats in various workspace arrangements. The tool consists of series of equations that describe horizontal H-point locations as a function of vehicle H-point height (H30). One series of equations have been established for use in vehicles with H-point heights (H30) and steering wheel diameters (W9) less than 405 mm and 450 mm, respectively (Class A Vehicles). This class of vehicles includes passenger cars, vans, and light trucks. The lines describe the 2.5th, 5th, 10th, 50th, 90th, 95th, and 97.5th percentile accommodation levels expressed as H-point location for a driver population with a male-to-female ratio of 1:1. Separate driver selected seat position equations have been established for use in vehicles with H-point heights (H30) between 405 and 530 mm and steering wheel diameters (W9) between 450 and 560 mm with treadle type pedals (Class B Vehicles). (See &lt;span class="xref"&gt;Figure 1&lt;/span&gt;.) This class of vehicles includes heavy trucks and some buses and multipurpose passenger vehicles. Three series of equations are available for use in Class B vehicles depending on the percentages of males and females in the population the designer wishes to accommodate. Separate equations describe the accommodation level for driver populations with male-to-female ratios of 50:50, 75:25, and 90:10 to 95:5. Different references for locating Class A and Class B driver selected seat position lines in vehicle space have been established based on unique packaging considerations of the two categories of vehicles. For both vehicle classes, the lines can be used as a design tool to estimate the location and length of horizontal seat travel aft of the appropriate reference to provide accommodation of target percentages of drivers. The lines can also be used as a checking tool to estimate the level of accommodation provided by a given horizontally adjustable seat track.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

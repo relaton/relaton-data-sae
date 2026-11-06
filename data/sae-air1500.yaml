@@ -1,0 +1,56 @@
+---
+id: SAEAIR1500
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Bibliography - Lossy Filters
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1500
+- type: src
+  content: https://saemobilus.sae.org/standards/air1500-bibliography-lossy-filters
+docidentifier:
+- content: SAE AIR1500
+  type: SAE
+  primary: true
+- content: 10.4271/air1500
+  type: DOI
+date:
+- type: approved
+  at: '1999-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-4 Electromagnetic Compatibility (EMC) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The following bibliography on lossy filters for use on electrical and
+    electronic systems was prepared by the Lossy Filter Subcommittee AE-4C.2 of the
+    Society of Automotive Engineers. The bibliography is in  chronological sequence
+    and is oriented toward the use of lossy materials to attenuate radio frequency
+    noise on transmission lines.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEAS9133A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Qualification Procedure for Aerospace Standard Products
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9133a
+- type: src
+  content: https://saemobilus.sae.org/standards/as9133a-qualification-procedure-aerospace-standard-products
+docidentifier:
+- content: SAE AS9133A
+  type: SAE
+  primary: true
+- content: 10.4271/as9133a
+  type: DOI
+date:
+- type: approved
+  at: '2016-04-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard defines a system for the qualification of standard products for aviation, space, and defense applications. It defines the principles that shall be adhered to when carrying out product qualification; applied in conjunction with the rules and procedures of the CA. The system enables the CA to confirm compliance is achieved and maintained, in accordance with the requirements of its product definition and associated controlling technical specifications by an Original Component Manufacturer (OCM) of standard products.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard requires an OCM that has been granted product qualification approval to ensure applicable approvals are maintained and renewed in accordance with the CA’s quality system for that qualified product.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;OCMs and OCM designated Value Added Distributors (VADs) requesting product qualification to this standard, shall as a prerequisite, maintain 9100 standard quality management system certification approval. This certification shall be visible in the Online Aerospace Supplier Information System (OASIS) database.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

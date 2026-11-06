@@ -1,0 +1,58 @@
+---
+id: SAEJ301_201205
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Effective Dates of New or Revised Technical Reports
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j301_201205
+- type: src
+  content: https://saemobilus.sae.org/standards/j301_201205-effective-dates-new-revised-technical-reports
+docidentifier:
+- content: SAE J301_201205
+  type: SAE
+  primary: true
+- content: 10.4271/j301_201205
+  type: DOI
+date:
+- type: approved
+  at: '2012-05-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuels and Lubricants Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The final approval date for Fuels and Lubricants technical reports
+    is shown following the J-report number. This approval date is the date of final
+    approval by the Fuels and Lubricants Council. It is effective immediately subsequent
+    to Council approval for newly issued Standards, Recommended Practices, and Information
+    Reports, and also for revised Information Reports. In the case of revised or cancelled
+    Standards or Recommended Practices (used to define product quality), an 18 month
+    grace period is advised before they become fully effective.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

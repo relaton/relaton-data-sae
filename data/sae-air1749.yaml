@@ -1,0 +1,57 @@
+---
+id: SAEAIR1749
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Engine Fuel Feed and Transfer Component Pressure Definitions
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1749
+- type: src
+  content: https://saemobilus.sae.org/standards/air1749-aircraft-engine-fuel-feed-transfer-component-pressure-definitions
+docidentifier:
+- content: SAE AIR1749
+  type: SAE
+  primary: true
+- content: 10.4271/air1749
+  type: DOI
+date:
+- type: approved
+  at: '2013-02-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5B Aircraft and Engine Fuel and Lubricant Sys Components
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The information in this document is limited to aircraft engine fuel feed, refueling, and transfer components (reference &lt;span class="xref"&gt;2.1&lt;/span&gt;). It is assumed that isothermal, liquid fluid conditions exist, herein referred to as fuel. Where a unit of measure is suffixed, this is intended to show a generally associated unit for illustration only and is not an exclusive endorsement of this particular term. Where applicable and allowable it is understood that a referee fluid may be substituted for fuel.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

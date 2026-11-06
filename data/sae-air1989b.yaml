@@ -1,0 +1,57 @@
+---
+id: SAEAIR1989B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Helicopter External Noise Estimation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1989b
+- type: src
+  content: https://saemobilus.sae.org/standards/air1989b-helicopter-external-noise-estimation
+docidentifier:
+- content: SAE AIR1989B
+  type: SAE
+  primary: true
+- content: 10.4271/air1989b
+  type: DOI
+date:
+- type: approved
+  at: '2012-08-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-21 Aircraft Noise Measurement Aviation Emission Modeling
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This method estimates noise for both single and tandem main rotor helicopters except for approach where it applies to single rotor designs only. It does not apply to coaxial rotor designs. Due to lack of available data, application of the method has not been evaluated for application to tiltrotor, or other VTOL configurations, when operating in the helicopter mode. Since there are substantial differences between helicopter rotors included in the data base, and tiltrotor rotors, application to VTOL configurations other than helicopters is not advised. Application is limited to helicopters powered by turboshaft engines and does not apply to helicopters powered by reciprocating engine, tip jets or other types of power plants. It provides noise information using basic operating and geometric information available in the open literature. To keep the method simple, it generates A-weighted sound levels, and Sound Exposure Levels precluding the necessity for spectral details. The method prescribes estimates for typical helicopter operations; certain maneuvers may produce noise levels different from those estimated. Estimates are given for the maximum sound levels at 1.2 m (4 ft) height above the ground. For aircraft in forward flight, the estimate is given for an aircraft at an altitude of 152 m (500 ft) on a path directly over the observer. For an aircraft in hover the estimate is given for an aircraft hovering 3.3 m (10 ft) above ground level at a distance of 152 m (500 ft) to the side of the observer. No estimate is provided for Sound Exposure Level in hover since the time duration is indeterminate.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

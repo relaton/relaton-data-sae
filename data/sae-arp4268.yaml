@@ -1,0 +1,58 @@
+---
+id: SAEARP4268
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AEROSPACE - HYDRAULIC SYSTEM FLUID CONTAMINATION - LOCATION OF SAMPLING
+    POINTS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4268
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4268-aerospace-hydraulic-system-fluid-contamination-location-sampling-points
+docidentifier:
+- content: SAE ARP4268
+  type: SAE
+  primary: true
+- content: 10.4271/arp4268
+  type: DOI
+date:
+- type: approved
+  at: '1989-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A1 Commercial Aircraft Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this Aerospace Recommended Practice (ARP) covers where, when, and how often to sample hydraulic system fluid on aerospace vehicles for particulate contamination measurements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The measurement of hydraulic fluid particulate contamination is of concern to the aerospace community because of the critical importance of hydraulic equipment reliability. Contamination is always present in the system fluid, even in new unused fluid. Contamination must be below a level that will not adversely affect system operation. This ARP draws from aerospace industry experience and practice to establish criteria for fluid contamination sampling recommendations in aerospace vehicle hydraulic systems. Fluid samples can then be subjected to measurement of particulate contamination and of other harmful contaminants such as chlorinated solvents and water.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

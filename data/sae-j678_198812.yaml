@@ -1,0 +1,56 @@
+---
+id: SAEJ678_198812
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SPEEDOMETERS AND TACHOMETERS - AUTOMOTIVE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j678_198812
+- type: src
+  content: https://saemobilus.sae.org/standards/j678_198812-speedometers-tachometers-automotive
+docidentifier:
+- content: SAE J678_198812
+  type: SAE
+  primary: true
+- content: 10.4271/j678_198812
+  type: DOI
+date:
+- type: approved
+  at: '1989-05-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Odometer and Speedometer Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice applies to speedometers, odometers, and speedometer drives typical of passenger vehicles, buses, and trucks used for personal or commercial purposes. The method of determining wheel revolutions per unit distance (&lt;span class="xref"&gt;3.1&lt;/span&gt;) and overall system design variation (&lt;span class="xref"&gt;3.3.3&lt;/span&gt;) are applicable to passenger cars only. Comparable recommendations for trucks and buses are under development. The data of tachometers is applicable to vehicular use, as previously described, and also to stationary and marine engines and special vehicles.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

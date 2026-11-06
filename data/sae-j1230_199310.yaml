@@ -1,0 +1,57 @@
+---
+id: SAEJ1230_199310
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MINIMUM REQUIREMENTS FOR WHEEL-SLIP BRAKE-CONTROL SYSTEM MALFUNCTION SIGNALS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1230_199310
+- type: src
+  content: https://saemobilus.sae.org/standards/j1230_199310-minimum-requirements-wheel-slip-brake-control-system-malfunction-signals
+docidentifier:
+- content: SAE J1230_199310
+  type: SAE
+  primary: true
+- content: 10.4271/j1230_199310
+  type: DOI
+date:
+- type: approved
+  at: '1993-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Electronically Controlled Brake Systems Comm
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;It is recognized that a malfunction in any one of the specified areas can degrade intended performance, but that levels of malfunction or combinations thereof must be considered by the vehicle designer in determining the point at which a failure indication is warranted. Consequently, the minimum reaction recommended by this document consists of making available a malfunction signal.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

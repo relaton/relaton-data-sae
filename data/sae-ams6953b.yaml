@@ -1,0 +1,68 @@
+---
+id: SAEAMS6953B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Titanium Alloy Sheet, 6Al - 4Sn - 3Nb - 0.5Mo - 0.3Si, Duplex Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6953b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6953b-titanium-alloy-sheet-6al-4sn-3nb-05mo-03si-duplex-annealed
+docidentifier:
+- content: SAE AMS6953B
+  type: SAE
+  primary: true
+- content: 10.4271/ams6953b
+  type: DOI
+date:
+- type: approved
+  at: '2026-04-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G Titanium and Refractory Metals Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a titanium alloy in the form of sheet 0.020 to 0.1874 inch (0.51 to 4.760 mm), inclusive, in nominal thickness (see &lt;span class="xref"&gt;8.6&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

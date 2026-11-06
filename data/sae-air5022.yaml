@@ -1,0 +1,57 @@
+---
+id: SAEAIR5022
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: RELIABILITY AND SAFETY PROCESS INTEGRATION
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5022
+- type: src
+  content: https://saemobilus.sae.org/standards/air5022-reliability-safety-process-integration
+docidentifier:
+- content: SAE AIR5022
+  type: SAE
+  primary: true
+- content: 10.4271/air5022
+  type: DOI
+date:
+- type: approved
+  at: '1996-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-11 Probabilistic Methods and Uncertainty Quantification
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) describes several of the commonly performed Reliability and Safety (R&amp;amp;S) analysis tasks, with emphasis on their inter-relationships and common data elements. This document also describes how the R&amp;amp;S process can be integrated, reducing duplicate work effort and providing more accurate, comprehensive, and standardized analysis results.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;To illustrate how this integration can be accomplished, several specific reliability and safety tasks are performed on a subsystem of an example product.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

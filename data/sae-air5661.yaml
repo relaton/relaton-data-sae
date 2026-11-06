@@ -1,0 +1,57 @@
+---
+id: SAEAIR5661
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Compartment Decompression Analysis
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5661
+- type: src
+  content: https://saemobilus.sae.org/standards/air5661-compartment-decompression-analysis
+docidentifier:
+- content: SAE AIR5661
+  type: SAE
+  primary: true
+- content: 10.4271/air5661
+  type: DOI
+date:
+- type: approved
+  at: '2010-02-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report provides data and general analysis methods for calculation of internal and external, pressurized and unpressurized airplane compartment pressures during rapid discharge of cabin pressure. References to the applicable current FAA and EASA rules and advisory material are provided. While rules and interpretations can be expected to evolve, numerous airplanes have been approved under current and past rules that will have a continuing need for analysis of production and field modifications, alterations and repairs. The data and basic principles provided by this report are adaptable to any compartment decompression analysis requirement.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

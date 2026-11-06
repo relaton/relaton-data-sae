@@ -1,0 +1,60 @@
+---
+id: SAEAS4052C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Gland Design: Scraper, Landing Gear, Installation'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4052c
+- type: src
+  content: https://saemobilus.sae.org/standards/as4052c-gland-design-scraper-landing-gear-installation
+docidentifier:
+- content: SAE AS4052C
+  type: SAE
+  primary: true
+- content: 10.4271/as4052c
+  type: DOI
+date:
+- type: approved
+  at: '2022-10-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) covers an alternate gland design for the installation of scraper/ wiper rings in the lower end of landing gear shock struts for the purpose of contaminant exclusion.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The defined scraper gland covered by this document, as shown in &lt;span class="xref"&gt;Table 1&lt;/span&gt;, is a variant of AS4716, the accepted gland standard for AS568, O-ring packing seals. Piston rod diameters, gland internal diameters, groove sidewall angles and the surface finish are all defined by AS4716, but the gland outer retaining wall diameter is changed. The traditional scraper design installed into the glands detailed in &lt;span class="xref"&gt;Table 1&lt;/span&gt; typically utilize components made from PTFE, urethane, or nitrile materials. These scraper designs, while still acceptable, must be reviewed in consideration to deicing, cleaners and disinfectant fluids applied to or in contact with the landing gear, as the materials of construction for the installed scrapers may not be compatible to these fluids. Exposure of the scraper to incompatible fluids is likely to reduce the performance of the scraper.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In addition, an alternative scraper gland is also covered by this document and shown in &lt;span class="xref"&gt;Table 2&lt;/span&gt;. It is also a variant of AS4716; however, this gland has a reduced atmospheric gland lip and profiled lead in geometry to allow for a PTFE jacket metal spring energized scraper to be installed. The advantages of the PTFE jacket metal spring energized scraper design are that the materials of construction are chemically inert, greatly reducing the possibility of negative performance due to incompatibility with deicers, cleaners, and disinfectant fluids.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;AS4088 is similar to the hardware design in &lt;span class="xref"&gt;Tables 1A&lt;/span&gt; and &lt;span class="xref"&gt;1B&lt;/span&gt; of this document, which was developed by SAE A-6 for flight control and general-purpose cylinders. It differs from this document primarily by the clearance between the rod (piston) and outer gland wall.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

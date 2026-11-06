@@ -1,0 +1,54 @@
+---
+id: SAEAMS4665B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Silicon Bronze Tubing, Seamless 96cu 3.2si, Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4665b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4665b-silicon-bronze-tubing-seamless-96cu-32si-annealed
+docidentifier:
+- content: SAE AMS4665B
+  type: SAE
+  primary: true
+- content: 10.4271/ams4665b
+  type: DOI
+date:
+- type: approved
+  at: '1996-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>Primarily for hydraulic pressure lines. This specification has been
+    'CANCELLED' by the Aerospace Materials Division, SAE, as of September 1996. Alloy:
+    C65500  UNS Number: C65500</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

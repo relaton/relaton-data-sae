@@ -1,0 +1,60 @@
+---
+id: SAEAS3510D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CABLE, SAFETY, KIT, CORROSION- AND HEAT-RESISTANT STEEL, UNS S32100
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as3510d
+- type: src
+  content: https://saemobilus.sae.org/standards/as3510d-cable-safety-kit-corrosion-heat-resistant-steel-uns-s32100
+docidentifier:
+- content: SAE AS3510D
+  type: SAE
+  primary: true
+- content: 10.4271/as3510d
+  type: DOI
+date:
+- type: approved
+  at: '2025-12-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

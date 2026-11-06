@@ -1,0 +1,56 @@
+---
+id: SAEAMS2750H
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Pyrometry
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2750h
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2750h-pyrometry
+docidentifier:
+- content: SAE AMS2750H
+  type: SAE
+  primary: true
+- content: 10.4271/ams2750h
+  type: DOI
+date:
+- type: approved
+  at: '2024-07-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers pyrometric requirements for equipment used for the thermal processing of metallic materials. Specifically, it covers temperature sensors, instrumentation, thermal processing equipment, correction factors and instrument offsets, system accuracy tests, and temperature uniformity surveys. These are necessary to ensure that parts or raw materials are heat treated in accordance with the applicable specification(s).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEARP8676
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nomenclature and Definitions for Electrified Propulsion Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp8676
+- type: src
+  content: https://saemobilus.sae.org/standards/arp8676-nomenclature-definitions-electrified-propulsion-aircraft
+docidentifier:
+- content: SAE ARP8676
+  type: SAE
+  primary: true
+- content: 10.4271/arp8676
+  type: DOI
+date:
+- type: approved
+  at: '2022-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-40 Electrified Propulsion Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Create and publish a list of terms relevant to electrified propulsion aircraft with summary text descriptions. The terms and descriptions will not provide full explanations, diagrams, and other detailed technical descriptions. These deeper descriptions will be addressed in other documents.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document defines the relevant terms and abbreviations related to the design, development, and use of electrified propulsion in aircraft. This definition is provided to enable a consistent use of technical language throughout the standards developed by the E-40 committee.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAMS6266E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS, FORGINGS, AND TUBING 0.50Cr - 1.82Ni - 0.25Mo - 0.003B - 0.06V
+    (0.08 - 0.13C) (43BV12)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6266e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6266e-steel-bars-forgings-tubing-050cr-182ni-025mo-0003b-006v-008-013c-43bv12
+docidentifier:
+- content: SAE AMS6266E
+  type: SAE
+  primary: true
+- content: 10.4271/ams6266e
+  type: DOI
+date:
+- type: approved
+  at: '1980-10-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aircraft-quality, low-alloy steel in the form of bars, forgings, mechanical tubing, and forging stock.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

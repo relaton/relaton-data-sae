@@ -1,0 +1,49 @@
+---
+id: SAEAS8165937A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CONNECTORS, ELECTRICAL, RECTANGULAR, PLUG, CRIMP CONTACTS, (TRIPLE INSERT,
+    TYPE II, CLASS 1, (−65 °C TO +125 °C), SERIES 2, SHELL DESIGNATOR A)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as81659/37a
+- type: src
+  content: https://saemobilus.sae.org/standards/as8165937a-connectors-electrical-rectangular-plug-crimp-contacts-triple-insert-type-ii-class-1-65-c-125-c-series-2-shell-designator-a
+docidentifier:
+- content: SAE AS81659/37A
+  type: SAE
+  primary: true
+- content: 10.4271/as81659/37a
+  type: DOI
+date:
+- type: approved
+  at: '2012-02-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C1 Connectors Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

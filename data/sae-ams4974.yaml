@@ -1,0 +1,49 @@
+---
+id: SAEAMS4974
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TITANIUM ALLOY BARS AND FORGINGS 11Sn - 5.0Zr - 2.3Al - 1.0Mo - 0.21Si
+    Solution and Precipitation Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4974
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4974-titanium-alloy-bars-forgings-11sn-50zr-23al-10mo-021si-solution-precipitation-treated
+docidentifier:
+- content: SAE AMS4974
+  type: SAE
+  primary: true
+- content: 10.4271/ams4974
+  type: DOI
+date:
+- type: approved
+  at: '1967-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G Titanium and Refractory Metals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEAIR1425A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Methods of Achieving Electromagnetic Compatibility of Gas Turbine Engine
+    Accessories, for Self-Propelled Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1425a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1425a-methods-achieving-electromagnetic-compatibility-gas-turbine-engine-accessories-self-propelled-vehicles
+docidentifier:
+- content: SAE AIR1425A
+  type: SAE
+  primary: true
+- content: 10.4271/air1425a
+  type: DOI
+date:
+- type: approved
+  at: '2009-11-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-4 Electromagnetic Compatibility (EMC) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) is a description of methods to be employed to achieve Electromagnetic Compatibility (EMC) of gas turbine engine accessories. Its primary objectives are to aid those system designers of gas turbine assemblies who are employing commercial accessories, which are not always EMC designed, and to outline methods of achieving EMC employing readily available test instrumentation.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

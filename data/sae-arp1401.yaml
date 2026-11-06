@@ -1,0 +1,56 @@
+---
+id: SAEARP1401
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AIRCRAFT FUEL SYSTEM AND COMPONENT ICING TEST
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1401
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1401-aircraft-fuel-system-component-icing-test
+docidentifier:
+- content: SAE ARP1401
+  type: SAE
+  primary: true
+- content: 10.4271/arp1401
+  type: DOI
+date:
+- type: approved
+  at: '1979-03-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5A Aerospace Fuel, Inerting and Lubrication Sys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice (ARP) covers a brief discussion of the icing problem in aircraft fuel systems and different means that have been used to test for icing. Fuel preparation procedures and icing tests for aircraft fuel systems and components are proposed herein as a recommended practice to be used in the aircraft industry for fixed wing aircraft and their operational environment only. In the context of this ARP, the engine is not considered to be a component of the aircraft fuel system, for the engine fuel system is subjected to icing tests by the engine manufacturer for commercial and particular military applications.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

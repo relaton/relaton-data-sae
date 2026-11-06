@@ -1,0 +1,71 @@
+---
+id: SAEAS5778
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Covers, Aircraft Components, General Requirements For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5778
+- type: src
+  content: https://saemobilus.sae.org/standards/as5778-covers-aircraft-components-general-requirements
+docidentifier:
+- content: SAE AS5778
+  type: SAE
+  primary: true
+- content: 10.4271/as5778
+  type: DOI
+date:
+- type: approved
+  at: '2017-11-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers general requirements for covers intended to protect the following aircraft parts:
+    &lt;div class="table-wrap anchor "&gt;
+    &lt;div class="table-container"&gt;&lt;table class="br-none tbr-void " data-dataset-id=""&gt;
+    &lt;tbody&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Cockpit&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;Fuselage&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;Canopy&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Engine&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;Armament&lt;/td&gt;
+    &lt;td class="va-top ta-left "/&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Propeller or Rotor&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;Miscellaneous&lt;/td&gt;
+    &lt;td class="va-top ta-left "/&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div/&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

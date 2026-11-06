@@ -1,0 +1,53 @@
+---
+id: SAEAMS6485H
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Bars and Forgings, 5.0Cr - 1.3Mo - 0.5V (0.38 - 0.43C)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6485h
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6485h-steel-bars-forgings-50cr-13mo-05v-038-043c
+docidentifier:
+- content: SAE AMS6485H
+  type: SAE
+  primary: true
+- content: 10.4271/ams6485h
+  type: DOI
+date:
+- type: approved
+  at: '2006-10-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers an aircraft-quality, low-alloy steel in the
+    form of bars, forgings, and forging stock.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

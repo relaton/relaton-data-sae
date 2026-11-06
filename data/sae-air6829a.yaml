@@ -1,0 +1,71 @@
+---
+id: SAEAIR6829A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Oxygen Considerations for High Elevation Airport Operations (HEAO)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6829a
+- type: src
+  content: https://saemobilus.sae.org/standards/air6829a-oxygen-considerations-high-elevation-airport-operations-heao
+docidentifier:
+- content: SAE AIR6829A
+  type: SAE
+  primary: true
+- content: 10.4271/air6829a
+  type: DOI
+date:
+- type: approved
+  at: '2026-09-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document covers information concerning the use of oxygen when flying into and out of high elevation airports for both pressurized and non-pressurized aircraft. Oxygen requirements for pressurized aircraft operating at high altitudes have for decades emphasized the potential failures that could lead to a loss of cabin pressurization coupled with the potential severe hypoxic hazard that decompressions represent. This document is intended to address the case where the relationship between cabin and ambient pressures are complicated by operations at high terrestrial altitudes. Operators who fly into these high-altitude airports should address the issues related to this environment because it carries the potential for insidious hypoxia and other conditions which can affect safety. It provides information to consider in developing operational procedures to address hypoxia concerns consistent with regulatory mandates. In some sections, procedures are discussed that may mitigate the deleterious effects of hypoxia in a non-flight regime yet still have the potential to represent risk factors associated with flight operations. All the information is provided as a framework for potential oxygen management and other procedures to facilitate responsible practices and facilitate compliance with existing regulatory requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document cannot address every type of aircraft pressurization system, oxygen system, or operational condition the flight may encounter. Any threat or hazard not discussed in AIR6829 should be brought to the attention of the OEM, the regulatory authority, and the flight operations department for proper guidance.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

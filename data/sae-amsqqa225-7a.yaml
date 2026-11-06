@@ -1,0 +1,53 @@
+---
+id: SAEAMSQQA2257A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Bar, Rod, and Wire, Rolled, Drawn, or Cold Finished, 5052
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/amsqqa225/7a
+- type: src
+  content: https://saemobilus.sae.org/standards/amsqqa2257a-aluminum-alloy-bar-rod-wire-rolled-drawn-cold-finished-5052
+docidentifier:
+- content: SAE AMS-QQ-A-225/7A
+  type: SAE
+  primary: true
+- content: 10.4271/amsqqa225/7a
+  type: DOI
+date:
+- type: approved
+  at: '2007-08-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers the specific requirements for 5052 aluminum
+    alloy bar, rod, and wire produced by rolling, drawing, or cold finishing.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

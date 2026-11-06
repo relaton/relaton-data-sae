@@ -1,0 +1,49 @@
+---
+id: SAEAS3530A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BOLT, MACHINE - DOUBLE HEX EXTENDED WASHER HEAD, CLOSE TOLERANCE SHANK,
+    UNS S66286 - 160 KSI
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as3530a
+- type: src
+  content: https://saemobilus.sae.org/standards/as3530a-bolt-machine-double-hex-extended-washer-head-close-tolerance-shank-uns-s66286-160-ksi
+docidentifier:
+- content: SAE AS3530A
+  type: SAE
+  primary: true
+- content: 10.4271/as3530a
+  type: DOI
+date:
+- type: approved
+  at: '2018-08-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

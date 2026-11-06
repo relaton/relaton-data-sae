@@ -1,0 +1,56 @@
+---
+id: SAEAS692
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: IGNITER, SPARK, AERONAUTICAL ENGINE (HIGH TENSION)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as692
+- type: src
+  content: https://saemobilus.sae.org/standards/as692-igniter-spark-aeronautical-engine-high-tension
+docidentifier:
+- content: SAE AS692
+  type: SAE
+  primary: true
+- content: 10.4271/as692
+  type: DOI
+date:
+- type: approved
+  at: '1962-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-30 Propulsion Ignition Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes the qualification and acceptance limits for aeronautical engine high tension spark igniters.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

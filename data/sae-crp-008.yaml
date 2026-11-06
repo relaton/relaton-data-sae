@@ -1,0 +1,53 @@
+---
+id: SAECRP008
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Recommended Methods for Determining Physical Properties of Polymeric Materials
+    Exposed to Gasoline/Methanol Fuel Mixtures
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/crp-008
+- type: src
+  content: https://saemobilus.sae.org/standards/crp-008-recommended-methods-determining-physical-properties-polymeric-materials-exposed-gasoline-methanol-fuel-mixtures
+docidentifier:
+- content: SAE CRP-008
+  type: SAE
+  primary: true
+- content: 10.4271/crp-008
+  type: DOI
+date:
+- type: approved
+  at: '1993-10-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This document consists of procedures which are designed to evaluate
+    the performance of polymeric materials when they  are exposed to variable methanol
+    content fuels.  Covered  are: the determination of worst case fuel; the procedure
+    \ for conditioning actual test specimens in fuel prior to measuring their physical
+    properties; and test methods for  evaluating polymeric materials for use in methanol
+    fuels.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

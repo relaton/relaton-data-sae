@@ -1,0 +1,56 @@
+---
+id: SAEEQB4
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: QUANTIFICATION OF ESSENTIALITY AND UTILIZATION TERMS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/eqb4
+- type: src
+  content: https://saemobilus.sae.org/standards/eqb4-quantification-essentiality-utilization-terms
+docidentifier:
+- content: SAE EQB4
+  type: SAE
+  primary: true
+- content: 10.4271/eqb4
+  type: DOI
+date:
+- type: approved
+  at: '2016-06-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-47 Systems Engineering
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report proposes a methodology for applying weighting factors to system effectiveness quantification expressions of mathematical models for multi-function situations. Since the circumstances for applying "W" and "U" terms are almost unlimited, no attempt is made to show all possible applications of these terms. Rather, the basic principles are discussed and illustrated by simple examples in order to keep the focus on the principles for quantifying "W" and "U". The methods that are used at lower levels of the mission-function hierarchical tree are equally valid at higher levels. Consequently, the extension of these basic methods to more complicated situations was deliberately excluded from the content of this report.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

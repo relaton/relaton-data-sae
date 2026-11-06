@@ -1,0 +1,57 @@
+---
+id: SAEAMS5831B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Alloy, Corrosion and Heat-Resistant, Welding Wire 29Fe - 22Cr - 21Ni -
+    18.5Co - 3.2Mo - 2.8W - 0.78Ta 0.30Al - 0.05Zr - 0.05La - 0.20N
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5831b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5831b-alloy-corrosion-heat-resistant-welding-wire-29fe-22cr-21ni-185co-32mo-28w-078ta-030al-005zr-005la-020n
+docidentifier:
+- content: SAE AMS5831B
+  type: SAE
+  primary: true
+- content: 10.4271/ams5831b
+  type: DOI
+date:
+- type: approved
+  at: '2006-04-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat-resistant alloy in the form of welding wire.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEJ3228_202201
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Digital Forensic Evidence Sources Related to Investigation and Analysis
+    of Damage and Injury Causing Incidents
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3228_202201
+- type: src
+  content: https://saemobilus.sae.org/standards/j3228_202201-digital-forensic-evidence-sources-related-investigation-analysis-damage-injury-causing-incidents
+docidentifier:
+- content: SAE J3228_202201
+  type: SAE
+  primary: true
+- content: 10.4271/j3228_202201
+  type: DOI
+date:
+- type: approved
+  at: '2022-01-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Crash Data Collection and Analysis Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report attempts to provide a list of potential digital data recording devices that may be interrogated for forensic purposes. This list may not be exhaustive, but it lists sources of data that may be useful in the investigation of incidents such as motor vehicle collisions. This list is not intended to give instruction on how to access and preserve the data. This list is only to inform investigators that these known data sources may contain important information and should, if applicable, be searched for and queried. It is recognized that as the state of technology advances there may be additional data sources that become available.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

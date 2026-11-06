@@ -1,0 +1,69 @@
+---
+id: SAEARP41026A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Communications and Navigation Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4102/6a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp41026a-communications-navigation-equipment
+docidentifier:
+- content: SAE ARP4102/6A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4102/6a
+  type: DOI
+date:
+- type: approved
+  at: '2022-03-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-7 Flight Deck Handling Qualities Stds for Trans Aircraft
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document recommends criteria for the control and display of communications and navigation equipment on the flight deck. The equipment includes:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Communications: Ultra high frequency (UHF), very high frequency (VHF), and high frequency (HF) radios, cabin/service interphones, public address (PA), select call (SELCAL), call select (CALSEL), satellite communications (SATCOM), and controller pilot data link communications (CPDLC).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Navigation: Very high frequency omnidirectional range (VOR), tactical air navigation (TACAN), automatic direction finder (ADF), distance measuring equipment (DME), instrument landing system (ILS), markers (MKR), very low frequency (VLF), inertial navigation systems (INS), inertial reference systems (IRS), global navigation satellite system (GNSS), global positioning system (GPS), low range radio altimeter (LRRA), and attitude heading reference system (AHRS).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Weather radar.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Data link: Company, Air Traffic Control (ATC), transponders (Mode-S), controller pilot data link communications (CPDLC), and others.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,60 @@
+= relaton-data-sae
+
+Bibliographic data of SAE International standards in Relaton YAML format,
+for the `Relaton::Sae` flavor of the https://github.com/relaton/relaton[relaton]
+gem (3.1.0 and later).
+
+== Source
+
+sae.org answers scripts with a CAPTCHA and is not contacted. SAE deposits each
+standard edition with a DOI at Crossref (prefix `10.4271`, type `standard`).
+The crawler reads the public Crossref REST API:
+
+  https://api.crossref.org/prefixes/10.4271/works?filter=type:standard
+
+with cursor paging (about 48 requests, one a second, no credentials). A full
+crawl takes about 14 minutes and writes about 47,700 documents.
+
+== Contents
+
+`data/*.yaml`:: one Relaton YAML document for each SAE edition
+`index-v2.yaml`, `index-v2.zip`:: the pubid (`Pubid::Sae::Identifier`) index
+
+The machine index (manifest and shards) is published on GitHub Pages at
+https://relaton.github.io/relaton-data-sae/. `Relaton::Sae::Bibliography`
+searches it and reads documents from
+`https://raw.githubusercontent.com/relaton/relaton-data-sae/main/data/`.
+
+== Crawl
+
+[source,sh]
+----
+bundle install
+bundle exec ruby crawler.rb     # full crawl, about 14 minutes
+bundle exec ruby check_data.rb  # round-trip check of data/*.yaml
+----
+
+`crawler.rb` differs from `relaton fetch-data sae-crossref` in two ways: it
+deletes the old `index-v*` files first, and it runs in prune mode. Prune mode
+deletes the files of withdrawn editions, but only when the crawl wrote at least
+90% of the existing corpus. A crawl that stops early keeps `data/` as it was.
+
+The daily `Crawler` workflow runs `crawler.rb` and commits the result. `Deploy`
+then publishes the Pages index.
+
+== Unindexed documents
+
+Records whose id `Pubid::Sae` cannot parse are written to `data/` but are not
+indexed. With pubid 2.0.9, expect about 966 on each crawl: 791 `CP*`
+collected-paper products (not standards, out of scope) and about 170 one-off
+codes. This is known and is not a crawler failure.
+
+The crawler logs them. It also opens an "Error fetching documents" GitHub
+issue, but only when `GITHUB_TOKEN` is set in the crawl step. The shared
+`crawler.yml` does not set it today, so the list is in the workflow log only.
+
+== Workflows
+
+The files in `.github/workflows/` are managed by
+https://github.com/relaton/support[relaton/support] (Cimas). Do not edit them
+here: change the templates in `support/cimas-config/gh-actions/`.

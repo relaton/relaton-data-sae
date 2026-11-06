@@ -1,0 +1,78 @@
+---
+id: SAEJ3329_202604
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Artificial Intelligence in Ground Vehicles: Technical, Operational, and
+    Regulatory Challenges'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3329_202604
+- type: src
+  content: https://saemobilus.sae.org/standards/j3329_202604-artificial-intelligence-ground-vehicles-technical-operational-regulatory-challenges
+docidentifier:
+- content: SAE J3329_202604
+  type: SAE
+  primary: true
+- content: 10.4271/j3329_202604
+  type: DOI
+date:
+- type: approved
+  at: '2026-04-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Artificial Intelligence
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report identifies and documents the AI implementation challenges in the following areas:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;Technical Challenges (see &lt;span class="xref"&gt;Section 4&lt;/span&gt;):&lt;/b&gt; Focusing on the technical hurdles to develop AI models from data for complex human-like functions such as recognition, comprehension, and decision-making. Some AI technologies that do not necessarily involve learning from data, such as search algorithms, will not be considered.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;Operational Challenges (see &lt;span class="xref"&gt;Section 5&lt;/span&gt;):&lt;/b&gt; Focusing on the unique difficulties to deploy AI in ground vehicles and supporting infrastructure. These difficulties arise, for example, from issues like cost, environmental concerns, safety, security, etc.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;Regulatory Challenges (see &lt;span class="xref"&gt;Section 6&lt;/span&gt;):&lt;/b&gt; AI-related regulations are rapidly evolving. This section provides an overview of the key AI regulations at the present and some of the challenges to meet them in the ground vehicle domain.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;Where applicable, this technical report also provides references to AI-related International Standards (IS), Technical Reports (TR), Technical Specifications (TS), and Information Reports (IR) produced by the International Organization for Standardization (ISO), the Institute of Electrical and Electronics Engineers (IEEE), and SAE International (SAE) that address the challenges listed. For brevity, the authors of this report use the general term “Standards” to reference all the above types of documentation referenced. The full list of these standards is included in &lt;span class="xref"&gt;Section 2&lt;/span&gt;. In addition, the authors of this report are restricting the standard’s scope to only published documents and did not include any other type of literature due to space limitations and keeping the report focused.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The functional definitions and noted issues and concerns are provided consistent with current industry mobility practices and published peer-reviewed literature. The mitigation examples in this document are not concepts that are necessarily independent of each other. Additionally, some mitigations can conflict with others. For the development of a project, an approach is to use systems engineering to design and implement mitigations, synergizing where possible and performing trade-offs where needed to achieve the system requirements (including applicable regulations and standards).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

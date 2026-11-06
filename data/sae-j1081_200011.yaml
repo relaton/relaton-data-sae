@@ -1,0 +1,59 @@
+---
+id: SAEJ1081_200011
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Potential Standard Steels
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1081_200011
+- type: src
+  content: https://saemobilus.sae.org/standards/j1081_200011-potential-standard-steels
+docidentifier:
+- content: SAE J1081_200011
+  type: SAE
+  primary: true
+- content: 10.4271/j1081_200011
+  type: DOI
+date:
+- type: approved
+  at: '2000-11-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Metals Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report provides a uniform means of designating wrought steels during a period of usage prior to the time they meet the requirements for SAE standard steel designation. The numbers consist of the prefix PS&lt;span class="xref"&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/span&gt; followed by a sequential number starting with 1. A number once assigned is never assigned to any other composition.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A PS number may be obtained for steel composition by submitting a written request to SAE Staff, indicating the chemical composition and other pertinent characteristics of the material. If the request is approved according to established procedures, SAE Staff will assign a PS number to the grade. This number will remain in effect until the grade meets the requirements for an SAE standard steel or the grade is discontinued according to established procedures.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Table 1&lt;/span&gt; is a listing of the chemical composition limits of potential standard steels which were considered active on the date of the last survey prior to the date of this report. These ladle limits are subject to standard variations for check analysis as given in SAE J409.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

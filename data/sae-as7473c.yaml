@@ -1,0 +1,72 @@
+---
+id: SAEAS7473C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Bolts and Screws, Roll Threaded Procurement Specification For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as7473c
+- type: src
+  content: https://saemobilus.sae.org/standards/as7473c-bolts-screws-roll-threaded-procurement-specification
+docidentifier:
+- content: SAE AS7473C
+  type: SAE
+  primary: true
+- content: 10.4271/as7473c
+  type: DOI
+date:
+- type: approved
+  at: '2018-01-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This procurement specification covers bolts and screws made from carbon steels, high expansion steels, or corrosion and heat resistant steels of the type identified under the Unified Numbering System as follows:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;UNS K00802 - carbon steel (AMS5061)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;UNS K91505 - high expansion steel (AMS5624)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;UNS K91456 - high expansion steel (AMS5625)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;UNS S32100 - corrosion and heat resistant steel (AMS5645)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;UNS S34700 - corrosion and heat resistant steel (AMS5646)&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

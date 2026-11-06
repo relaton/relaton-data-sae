@@ -1,0 +1,57 @@
+---
+id: SAEAIR1599A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Ground Equipment Rebuild Program
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1599a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1599a-ground-equipment-rebuild-program
+docidentifier:
+- content: SAE AIR1599A
+  type: SAE
+  primary: true
+- content: 10.4271/air1599a
+  type: DOI
+date:
+- type: approved
+  at: '2020-09-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Information Report (AIR) is intended to be concerned with fleet programs rather than programs for individual units. Technical and administrative considerations in developing an approach to a program will be suggested. Organization of material possibly wanted in the form of a detailed specification for airline rebuilder communication is reviewed.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

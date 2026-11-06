@@ -1,0 +1,56 @@
+---
+id: SAEJ193982_200808
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Compliance—Truck and Bus
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939/82_200808
+- type: src
+  content: https://saemobilus.sae.org/standards/j193982_200808-compliance-truck-bus
+docidentifier:
+- content: SAE J1939/82_200808
+  type: SAE
+  primary: true
+- content: 10.4271/j1939/82_200808
+  type: DOI
+date:
+- type: approved
+  at: '2008-08-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of these compliance procedures is to generate one or more test documents that outline the tests needed to assure that an ECU that is designed to operate as a node on a SAE J1939 network would do so correctly. SAE does not certify devices and these tests and their results do not constitute endorsement by SAE of any particular device. These tests are presented to allow testing of a Device to determine self-compliance by the manufacturer of a device. The manufacturer can use its record of what procedures were run successfully to show the level of compliance with SAE J1939.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

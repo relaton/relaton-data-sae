@@ -1,0 +1,78 @@
+---
+id: SAEARP5364A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Human Factor Considerations in the Design of Multifunction Display Systems
+    for Civil Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5364a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5364a-human-factor-considerations-design-multifunction-display-systems-civil-aircraft
+docidentifier:
+- content: SAE ARP5364A
+  type: SAE
+  primary: true
+- content: 10.4271/arp5364a
+  type: DOI
+date:
+- type: approved
+  at: '2020-12-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10EAB Executive Advisory Group
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The function of a multifunctional display (MFD) system is to provide the crew access to a variety of data, or combinations of data, used to fly the aircraft, to navigate, to communicate, and to manage aircraft systems. MFDs may also display primary flight information (PFI) as needed to insure continuity of operations. This document sets forth design and operational recommendations concerning the human factors considerations for MFD systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The MFD system may contain one or more electronic display devices capable of presenting data in several possible formats. MFDs are designed to depict PFI, navigation, communication, aircraft state, aircraft system management, weather, traffic, and/or other information used by the flight crew for command and control of the aircraft. The information displayed may be combined to make an integrated display or one set of data may simply replace another.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The information contained in this document can be applied to the design of all MFDs, including electronic flight bags (EFB), regardless of aircraft type. This document makes extensive use of “lessons learned” and information developed and currently in use by systems and airframe manufacturers through the evolutionary development of today’s advanced systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Some assumptions used in developing this document include:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;MFDs will incorporate a human-centered design using knowledge gained from previous work and research.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is intended to apply to new systems or modifications to existing systems.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Each function of a MFD is capable of providing accurate and timely information appropriate to the tasks of the flight crew for certain aircraft operations throughout all phases of flight.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;MFD systems will be based on the aeronautical English language, but other languages may have to be considered.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;MFD systems will meet international harmonized certification requirements.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Use of the information in this document is subject to the certification requirements for a given airplane.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;The design process should include operator training considerations throughout its development.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;PFI will be available on the flight deck at all times.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

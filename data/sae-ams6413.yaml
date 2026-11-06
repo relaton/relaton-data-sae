@@ -1,0 +1,49 @@
+---
+id: SAEAMS6413
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL TUBING (SEAMLESS FOR MACHINED PARTS) Nickel Chromium Molybdenum (.35-.42
+    Carbon) Hot Finish and Cold Finish
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6413
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6413-steel-tubing-seamless-machined-parts-nickel-chromium-molybdenum-35-42-carbon-hot-finish-cold-finish
+docidentifier:
+- content: SAE AMS6413
+  type: SAE
+  primary: true
+- content: 10.4271/ams6413
+  type: DOI
+date:
+- type: approved
+  at: '1942-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEAS13100A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AESQ Quality Management System Requirements for Aero Engine Design and
+    Production Organizations
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as13100a
+- type: src
+  content: https://saemobilus.sae.org/standards/as13100a-aesq-quality-management-system-requirements-aero-engine-design-production-organizations
+docidentifier:
+- content: SAE AS13100A
+  type: SAE
+  primary: true
+- content: 10.4271/as13100a
+  type: DOI
+date:
+- type: approved
+  at: '2025-04-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-22 Aerospace Engine Supplier Quality (AESQ) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) establishes supplemental requirements for 9100 and 9145 and applies to any organization receiving it as part of a purchase order or other contractual document from a customer.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;AS13100 also provides details of the reference materials (RM13xxx) developed by the SAE G-22 AESQ committee and listed in &lt;span class="xref"&gt;Section 2&lt;/span&gt; that can also be used by organizations in conjunction with this standard.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

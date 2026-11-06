@@ -1,0 +1,49 @@
+---
+id: SAEAMS4105
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Sheet and Plate 4.5cu 1.5mg 0.60mn (2024-T86) Width Over
+    48 to 60 In., Incl.
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4105
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4105-aluminum-alloy-sheet-plate-45cu-15mg-060mn-2024-t86-width-48-60-in-incl
+docidentifier:
+- content: SAE AMS4105
+  type: SAE
+  primary: true
+- content: 10.4271/ams4105
+  type: DOI
+date:
+- type: approved
+  at: '2002-12-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

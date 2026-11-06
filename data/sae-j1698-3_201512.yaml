@@ -1,0 +1,57 @@
+---
+id: SAEJ16983_201512
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Event Data Recorder - Compliance Assessment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1698/3_201512
+- type: src
+  content: https://saemobilus.sae.org/standards/j16983_201512-event-data-recorder-compliance-assessment
+docidentifier:
+- content: SAE J1698/3_201512
+  type: SAE
+  primary: true
+- content: 10.4271/j1698/3_201512
+  type: DOI
+date:
+- type: approved
+  at: '2015-12-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Event Data Recorder Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice defines procedures intended to be used to validate that relevant EDR output records conform within specified limits to measured sensor input to the device.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

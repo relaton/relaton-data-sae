@@ -1,0 +1,49 @@
+---
+id: SAEAMS4172C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY EXTRUSIONS 1.0Mg - 0.60Si - 0.28Cu - 0.20Cr (6061-T4511)
+    Solution Heat Treated and Stress Relieved by Stretching
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4172c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4172c-aluminum-alloy-extrusions-10mg-060si-028cu-020cr-6061-t4511-solution-heat-treated-stress-relieved-stretching
+docidentifier:
+- content: SAE AMS4172C
+  type: SAE
+  primary: true
+- content: 10.4271/ams4172c
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

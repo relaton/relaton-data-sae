@@ -1,0 +1,61 @@
+---
+id: SAEARP5029B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Measurement Procedures for Short Pulse Width Strobe Anticollision Lights
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5029b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5029b-measurement-procedures-short-pulse-width-strobe-anticollision-lights
+docidentifier:
+- content: SAE ARP5029B
+  type: SAE
+  primary: true
+- content: 10.4271/arp5029b
+  type: DOI
+date:
+- type: approved
+  at: '2019-07-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20B Exterior Lighting Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides the user with standardized guidelines for the measurement of effective intensity of short pulse width strobe anticollision lights for aircraft in the laboratory, in maintenance facilities, and in the field. A common source of traceability for calibration of the measurement systems, compensation for known causes of variation in light output such as the use of colored lenses, and recommendations which minimize sources of errors and uncertainties are included in this document. Estimates of uncertainty and error sources for each class of measurement are discussed.&lt;/div&gt;
+
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

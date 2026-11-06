@@ -1,0 +1,59 @@
+---
+id: SAEJ2665_200610
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Test Procedure to Measure the Fuel Permeability of Materials by the Cup
+    Weight Loss Method
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2665_200610
+- type: src
+  content: https://saemobilus.sae.org/standards/j2665_200610-test-procedure-measure-fuel-permeability-materials-cup-weight-loss-method
+docidentifier:
+- content: SAE J2665_200610
+  type: SAE
+  primary: true
+- content: 10.4271/j2665_200610
+  type: DOI
+date:
+- type: approved
+  at: '2006-10-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This test standard covers the procedure for measuring the permeation of fuel or fuel surrogates through test samples of elastomeric, plastic or composite materials, up to about 3 mm thick.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The method involves filling a test cup with the test fluid (fuel or fuel surrogate), sealing test sample over the open end of the cup, and then placing the sealed container into an oven at the desired test temperature and measuring the weight loss over time. Permeation rates are calculated from the rate of weight loss and the exposed area of the test sample.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Standard permeation test temperatures are 40 °C and 60 °C. Standard test fluids are Fuel C, Fuel CE10 and Fuel CM15. Other fluids, such as Fuel CMTBE15, and other volatile liquids may be tested according to this procedure as desired (SAE J1681). The method is not applicable for measuring permeation of higher boiling materials that will not completely evaporate from the exterior surface of the sample at the test temperature.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

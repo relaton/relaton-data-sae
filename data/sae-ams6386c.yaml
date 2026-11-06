@@ -1,0 +1,57 @@
+---
+id: SAEAMS6386C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Sheet and Plate Low Alloy, Heat Treated 90,000 psi (621 MPa) and
+    100,000 psi (690 MPa) Yield Strength
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6386c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6386c-steel-sheet-plate-low-alloy-heat-treated-90000-psi-621-mpa-100000-psi-690-mpa-yield-strength
+docidentifier:
+- content: SAE AMS6386C
+  type: SAE
+  primary: true
+- content: 10.4271/ams6386c
+  type: DOI
+date:
+- type: approved
+  at: '2011-11-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers high-strength, low-alloy steels in the form of sheet and plate up to 4.000 in. (101.60 mm) in nominal thickness.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

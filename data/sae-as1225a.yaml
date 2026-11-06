@@ -1,0 +1,58 @@
+---
+id: SAEAS1225A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Oxygen System Fill/Check Valve
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1225a
+- type: src
+  content: https://saemobilus.sae.org/standards/as1225a-oxygen-system-fill-check-valve
+docidentifier:
+- content: SAE AS1225A
+  type: SAE
+  primary: true
+- content: 10.4271/as1225a
+  type: DOI
+date:
+- type: approved
+  at: '2023-01-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) defines minimum standards of design, construction, and performance for two types of permanently installed, high pressure 12,800 kPa (1850 psig) and 13,800 kPa (2000 psig) oxygen system cylinder fill valves used in commercial aircraft. Refer to Purchaser's Specification for Requirements which are beyond the scope or level of detail provided in this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;One valve has an adjustable pressure sensitive closing valve to automatically control the final pressure for a correct amount of oxygen in the system. The second valve incorporates an automatic shutoff feature designed to limit system overpressurization in the event maintenance personnel do not stop system filling at the correct pressure. The intent of the fill valves is to control the rate of fill to limit the rise in temperature caused by compression heating to acceptable values, prevent oxygen back flow and prevent the ingestion of foreign matter that could cause contamination of the system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Note that some fill valves have integral supply line pressure regulators; for more information on supply line regulators, see AS 1248.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

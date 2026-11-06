@@ -1,0 +1,57 @@
+---
+id: SAEAS8003
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Minimum Performance Standard for Automatic Pressure Altitude Reporting
+    Code Generating Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8003
+- type: src
+  content: https://saemobilus.sae.org/standards/as8003-minimum-performance-standard-automatic-pressure-altitude-reporting-code-generating-equipment
+docidentifier:
+- content: SAE AS8003
+  type: SAE
+  primary: true
+- content: 10.4271/as8003
+  type: DOI
+date:
+- type: approved
+  at: '2023-06-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4ADWG Air Data Subcommittee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Standard covers all automatic pressure altitude code generating equipment manufactured under this standard and complying with the requirements specified herein up to the maximum range of pressure altitude as indicated on the equipment nameplate. In those cases where the code generating equipment forms part of an aircraft system, such as a pressure altimeter, an air data computer or an ATC Transponder, this standard applies only to the code generating equipment as defined in paragraph &lt;span class="xref"&gt;1.2&lt;/span&gt;.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

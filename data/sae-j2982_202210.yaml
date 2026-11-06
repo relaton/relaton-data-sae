@@ -1,0 +1,57 @@
+---
+id: SAEJ2982_202210
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Riding Range Test Procedure for On-Highway Electric Motorcycles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2982_202210
+- type: src
+  content: https://saemobilus.sae.org/standards/j2982_202210-riding-range-test-procedure-highway-electric-motorcycles
+docidentifier:
+- content: SAE J2982_202210
+  type: SAE
+  primary: true
+- content: 10.4271/j2982_202210
+  type: DOI
+date:
+- type: approved
+  at: '2022-10-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Motorcycle Technical Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice incorporates dynamometer test procedures that produce riding range estimates for electric motorcycles during stop-and-go urban riding on surface streets and commuting trips in urban areas that include operation on freeways. This is typically done using a “coastdown” approach by disengaging the engine and assuming all losses are aerodynamic. However, with inherent losses in an electric motor, and no way to fully disengage the motor, another approach is to use a “on-road, constant speed” (&lt;span class="xref"&gt;Appendix B&lt;/span&gt;) method for fully electric vehicles to develop dynamometer coefficients.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

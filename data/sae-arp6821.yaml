@@ -1,0 +1,60 @@
+---
+id: SAEARP6821
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guidance for Assessing the Damage Detection Capability of Structural Health
+    Monitoring Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6821
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6821-guidance-assessing-damage-detection-capability-structural-health-monitoring-systems
+docidentifier:
+- content: SAE ARP6821
+  type: SAE
+  primary: true
+- content: 10.4271/arp6821
+  type: DOI
+date:
+- type: approved
+  at: '2025-02-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aerospace Industry Steering Committee on Structural Health
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document contains information and guidance necessary for the development of a representative, repeatable validation program that may be utilized to assess the capability of SHM systems. The nature of SHM data differs from that seen in traditional nondestructive evaluation (NDE) applications in that the position of SHM sensors is fixed and SHM data can be available much more frequently (if not continuously) over time. This document presents methodologies that can be used to arrive at SHM capability while considering the unique nature of SHM deployment. Each SHM system must be considered independently to determine the applicability and limitations of the guidance contained here for each SHM system being assessed.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

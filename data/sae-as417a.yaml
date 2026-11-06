@@ -1,0 +1,85 @@
+---
+id: SAEAS417A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Air Data Computers, MPS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as417a
+- type: src
+  content: https://saemobilus.sae.org/standards/as417a-air-data-computers-mps
+docidentifier:
+- content: SAE AS417A
+  type: SAE
+  primary: true
+- content: 10.4271/as417a
+  type: DOI
+date:
+- type: approved
+  at: '2008-02-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4 Aircraft Instruments Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Standard covers air data equipment (hereinafter designated the instrument) which when connected to sources of aircraft electrical power, static pressure, total pressure and outside air temperature (singly or in combination) provides some or all of the following computed air data output signals:
+    &lt;div class="table-wrap anchor "&gt;
+    &lt;div class="table-container"&gt;&lt;table class="br-none tbr-void " data-dataset-id=""&gt;
+    &lt;tbody&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Pressure Altitude&lt;span class="xref"&gt;*&lt;/span&gt;&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;Total Temperature&lt;span class="xref"&gt;*&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Pressure Altitude (Reporting)&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;Altitude Rate&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Baro-Corrected Pressure Altitude&lt;span class="xref"&gt;*&lt;/span&gt;&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;Overspeed Warning&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Vertical Speed&lt;span class="xref"&gt;*&lt;/span&gt;&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;Altitude Hold&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Computed Airspeed&lt;span class="xref"&gt;*&lt;/span&gt;&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;Airspeed Hold&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Mach Number&lt;span class="xref"&gt;*&lt;/span&gt;&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;Mach Hold&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Maximum Allowable Airspeed&lt;span class="xref"&gt;*&lt;/span&gt;&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;q&lt;sub&gt;c&lt;/sub&gt; (impact pressure)&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Static Air Temperature (&lt;span class="xref"&gt;*&lt;/span&gt;when used as an alternate for total temperature)&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;True Airspeed Others&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div/&gt;&lt;/div&gt;&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

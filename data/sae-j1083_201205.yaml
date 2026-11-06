@@ -1,0 +1,59 @@
+---
+id: SAEJ1083_201205
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Unauthorized Starting or Movement of Machines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1083_201205
+- type: src
+  content: https://saemobilus.sae.org/standards/j1083_201205-unauthorized-starting-movement-machines
+docidentifier:
+- content: SAE J1083_201205
+  type: SAE
+  primary: true
+- content: 10.4271/j1083_201205
+  type: DOI
+date:
+- type: approved
+  at: '2012-05-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: OPTC1, Personnel Protection (General)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice applies to construction, general purpose industrial, forestry, and specialized mining machinery as categorized in SAE J1116. It describes the machine components and systems that should be disconnected, secured, or otherwise rendered inoperative.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Deterrent systems or devices covered by this recommended practice are to be used when the machine is shut down per the manufacturer's shut down instructions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is not the intent of this recommended practice to protect the machine or the authorized machine operator, or to protect against abuse, destructive vandalism, or theft.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

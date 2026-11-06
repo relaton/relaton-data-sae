@@ -1,0 +1,56 @@
+---
+id: SAEAIR2000D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AEROSPACE FLUID SYSTEM STANDARDS, METRIC, NATIONAL AND INTERNATIONAL
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air2000d
+- type: src
+  content: https://saemobilus.sae.org/standards/air2000d-aerospace-fluid-system-standards-metric-national-international
+docidentifier:
+- content: SAE AIR2000D
+  type: SAE
+  primary: true
+- content: 10.4271/air2000d
+  type: DOI
+date:
+- type: approved
+  at: '1991-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;It is the purpose of this aerospace Information report to provide a listing of existing and forthcoming metric standards for aerospace fluid systems. It is shown which ISO/TC 20 and ISO/TC 131 or other ISO Technical Committee documents have been approved by the United States Technical Advisory Group (U.S. TAG) to TC 20. This AIR also lists U.S. Aerospace accepted AECMA and international De-Facto standards, also the forthcoming standards being developed in ISO/TC 20/SC 10.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

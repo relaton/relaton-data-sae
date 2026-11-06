@@ -1,0 +1,59 @@
+---
+id: SAEARP584B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Coiled Tubing, Corrosion Resistant Steel, Hydraulic Applications, Aerospace
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp584b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp584b-coiled-tubing-corrosion-resistant-steel-hydraulic-applications-aerospace
+docidentifier:
+- content: SAE ARP584B
+  type: SAE
+  primary: true
+- content: 10.4271/arp584b
+  type: DOI
+date:
+- type: approved
+  at: '2002-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C5 Components Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) encompasses design, analysis, fabrication, and installation of pressurized metal tubing used in fluid power systems to provide relative motion.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Specific data given are for MIL-T-6845 tubing ranging from 1/4 to 1 in (6.3 to 25 mm) to diameter used in 3000 psi (20.7 MPa) hydraulic or pneumatic system, Military Type I, II, III, or IV hydraulic systems applied to any type of vehicle. For information on design of coiled tube assemblies using Ti-3Al-2.5CWSR tubing, see ARP4146.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The flexible configurations of tubing are intended for application to actuators that oscillate about a pivot, to areas of large structural deflection such as reservoirs installation, and to areas of extreme environment where flexible hose could not survive.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

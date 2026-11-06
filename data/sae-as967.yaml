@@ -1,0 +1,48 @@
+---
+id: SAEAS967
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: DRIVE - STUDDED, ACCESSORY, 10.000 BC ROUND, DESIGN STANDARD FOR
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as967
+- type: src
+  content: https://saemobilus.sae.org/standards/as967-drive-studded-accessory-10000-bc-round-design-standard
+docidentifier:
+- content: SAE AS967
+  type: SAE
+  primary: true
+- content: 10.4271/as967
+  type: DOI
+date:
+- type: approved
+  at: '1967-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-1 Engine Accessory Installations Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

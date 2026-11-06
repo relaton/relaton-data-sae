@@ -1,0 +1,71 @@
+---
+id: SAEAIR7128
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Integration and Certification Considerations for Electrified Propulsion
+    Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air7128
+- type: src
+  content: https://saemobilus.sae.org/standards/air7128-integration-certification-considerations-electrified-propulsion-aircraft
+docidentifier:
+- content: SAE AIR7128
+  type: SAE
+  primary: true
+- content: 10.4271/air7128
+  type: DOI
+date:
+- type: approved
+  at: '2026-04-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-40 Electrified Propulsion Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides a comprehensive compilation of currently available practices, standards, regulations, and guidance material that have been considered relevant for developing an electrified propulsion system (independently or as part of an aircraft) and that may also help the applicants in the process of building their own certification approach with their Authority. It also covers unique considerations for electrified propulsion development and aircraft integration. It focuses on the particularities introduced by the new technology.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is not intended to represent a proposed Means of Compliance (MoC) with any particular certification regulation.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

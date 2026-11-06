@@ -1,0 +1,69 @@
+---
+id: SAEJ29451_202603
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: On-Board System Requirements for V2V Safety Communications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2945/1_202603
+- type: src
+  content: https://saemobilus.sae.org/standards/j29451_202603-board-system-requirements-v2v-safety-communications
+docidentifier:
+- content: SAE J2945/1_202603
+  type: SAE
+  primary: true
+- content: 10.4271/j2945/1_202603
+  type: DOI
+date:
+- type: approved
+  at: '2026-03-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Core Technical Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard specifies the system requirements for an on-board vehicle-to-vehicle (V2V) safety communications system for light vehicles&lt;span class="xref"&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/span&gt;, including standards profiles, functional requirements, and performance requirements. The system is capable of transmitting and receiving the SAE J2735-defined basic safety message (BSM) [1] over a dedicated short range communications (DSRC) wireless communications link as defined in the Institute of Electrical and Electronics Engineers (IEEE) 1609 suite and IEEE 802.11 standards [2] to [6].&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

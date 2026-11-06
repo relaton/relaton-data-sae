@@ -1,0 +1,83 @@
+---
+id: SAEUSCAR123
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: WIRING COMPONENT DESIGN GUIDELINES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar12-3
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar12-3-wiring-component-design-guidelines
+docidentifier:
+- content: SAE USCAR-12-3
+  type: SAE
+  primary: true
+- content: 10.4271/uscar12-3
+  type: DOI
+date:
+- type: approved
+  at: '2009-07-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+    &lt;div class="htmlview paragraph"&gt;This document gives general guidelines to be used during the connector design stage. Various guidelines may not apply in all situations. Therefore, sound engineering judgment must be used in their application. Consider these guidelines as the basis for connector and wiring DFMEA’s. Items in this document are grouped by DFMEA functional requirements. Groups are as follows:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;A&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Electrical Continuity&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;B&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Electrical Isolation/Sealing&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;C&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Device Assembly&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;D&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Harness Assembly&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;E&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Vehicle Assembly&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;F&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Materials&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;G&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Serviceability&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;H&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Environmental Requirements&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;I&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;High Voltage (≥ 60V) Application Requirements&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

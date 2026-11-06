@@ -1,0 +1,49 @@
+---
+id: SAEAIR810B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: DEGRADATION LIMITS OF HYDROCARBON-BASED HYDRAULIC FLUIDS, MIL-H-5606, MIL-H-6083,
+    MIL-H-83282, AND MIL-H-46170 USED IN HYDRAULIC TEST STANDS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air810b
+- type: src
+  content: https://saemobilus.sae.org/standards/air810b-degradation-limits-hydrocarbon-based-hydraulic-fluids-mil-h-5606-mil-h-6083-mil-h-83282-mil-h-46170-used-hydraulic-test-stands
+docidentifier:
+- content: SAE AIR810B
+  type: SAE
+  primary: true
+- content: 10.4271/air810b
+  type: DOI
+date:
+- type: approved
+  at: '1994-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

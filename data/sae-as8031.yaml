@@ -1,0 +1,57 @@
+---
+id: SAEAS8031
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PERSONAL PROTECTIVE DEVICES FOR TOXIC AND IRRITATING ATMOSPHERES, AIR TRANSPORT
+    CREW MEMBERS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8031
+- type: src
+  content: https://saemobilus.sae.org/standards/as8031-personal-protective-devices-toxic-irritating-atmospheres-air-transport-crew-members
+docidentifier:
+- content: SAE AS8031
+  type: SAE
+  primary: true
+- content: 10.4271/as8031
+  type: DOI
+date:
+- type: approved
+  at: '1993-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AS covers any protective system which serves the stated purpose.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

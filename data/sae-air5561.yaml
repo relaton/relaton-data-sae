@@ -1,0 +1,57 @@
+---
+id: SAEAIR5561
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Lithium Battery Powered Portable Electronic Devices
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5561
+- type: src
+  content: https://saemobilus.sae.org/standards/air5561-lithium-battery-powered-portable-electronic-devices
+docidentifier:
+- content: SAE AIR5561
+  type: SAE
+  primary: true
+- content: 10.4271/air5561
+  type: DOI
+date:
+- type: approved
+  at: '2013-10-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7B Power Management, Distribution and Storage
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) is intended to cover any type of portable electronic device, powered by a rechargeable lithium battery that has application in operating the aircraft. This includes devices such as laptop computers, electronic tablets, and electronic book-reading devices, used as Electronic Flight Bags (EFBs), and similar applications.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEARP4087D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Wing Inspection Lights - Design Criteria
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4087d
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4087d-wing-inspection-lights-design-criteria
+docidentifier:
+- content: SAE ARP4087D
+  type: SAE
+  primary: true
+- content: 10.4271/arp4087d
+  type: DOI
+date:
+- type: approved
+  at: '2023-02-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20B Exterior Lighting Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommend Practice (ARP) is intended to cover the external lights on fixed wing aircraft for illuminating the wing leading edge and engine nacelles and the upper surfaces of the wing. The addition of an ice detection system should be implemented when the areas to inspect are not visible from the aircraft cockpit. It is not intended that this recommended practice require the use of any particular light source such as halogen, LED, or other specific design of lamp.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

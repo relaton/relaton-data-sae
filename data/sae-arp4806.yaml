@@ -1,0 +1,57 @@
+---
+id: SAEARP4806
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AEROSPACE - DEICING/ANTI-ICING SELF-PROPELLED VEHICLE FUNCTIONAL REQUIREMENTS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4806
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4806-aerospace-deicing-anti-icing-self-propelled-vehicle-functional-requirements
+docidentifier:
+- content: SAE ARP4806
+  type: SAE
+  primary: true
+- content: 10.4271/arp4806
+  type: DOI
+date:
+- type: approved
+  at: '1994-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12E Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document specifies the general functional and performance requirements for a self-propelled, boom type aerial device equipped with an aircraft deicing/anti-icing fluid (ADF) spraying system. The unit shall be highly maneuverable for deicing and anti-icing all exterior surfaces of wide-body and narrow-body aircraft, e.g., B747 and DC9. The vehicle shall be suitable for day and night operations. The vehicle and all associated systems shall operate satisfactorily under the temperature conditions between -40 and 50 °C (-40 and 122 °F) and in continuous humidity of up to 100%.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is not within the scope of this document to specify a comprehensive set of technical design criteria for aircraft deicing/anti-icing vehicles but only those relating to functional and performance requirements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

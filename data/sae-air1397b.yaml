@@ -1,0 +1,56 @@
+---
+id: SAEAIR1397B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Clamp Material, Injection Molded
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1397b
+- type: src
+  content: https://saemobilus.sae.org/standards/air1397b-clamp-material-injection-molded
+docidentifier:
+- content: SAE AIR1397B
+  type: SAE
+  primary: true
+- content: 10.4271/air1397b
+  type: DOI
+date:
+- type: approved
+  at: '2019-09-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report presents the material properties and test requirements for an injection molded thermoplastic compound utilized for fabrication of AS1396 clamp block assembly.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

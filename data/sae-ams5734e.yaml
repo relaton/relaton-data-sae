@@ -1,0 +1,58 @@
+---
+id: SAEAMS5734E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS, FORGINGS, AND TUBING, CORROSION AND HEAT RESISTANT 15Cr - 25.5Ni
+    - 1.2Mo - 2.1Ti - 0.006B - 0.30V Consumable Electrode Melted, 1650°F (900°C) Solution
+    Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5734e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5734e-steel-bars-forgings-tubing-corrosion-heat-resistant-15cr-255ni-12mo-21ti-0006b-030v-consumable-electrode-melted-1650f-900c-solution-heat-treated
+docidentifier:
+- content: SAE AMS5734E
+  type: SAE
+  primary: true
+- content: 10.4271/ams5734e
+  type: DOI
+date:
+- type: approved
+  at: '1984-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat resistant steel in the form of bars, wire, forgings, mechanical tubing, and stock for forging or heading.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

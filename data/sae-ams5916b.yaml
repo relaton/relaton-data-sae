@@ -1,0 +1,57 @@
+---
+id: SAEAMS5916B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Alloy, Corrosion and Heat-Resistant, Sheet, Strip, and Plate 35Fe - 24Cr
+    - 37Ni - 0.65Cb(Nb) - 0.2N Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5916b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5916b-alloy-corrosion-heat-resistant-sheet-strip-plate-35fe-24cr-37ni-065cb-nb-02n-annealed
+docidentifier:
+- content: SAE AMS5916B
+  type: SAE
+  primary: true
+- content: 10.4271/ams5916b
+  type: DOI
+date:
+- type: approved
+  at: '2022-05-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat-resistant alloy in the form of sheet, strip, and plate 2.00 inch (50.8 mm) and under in thickness (see &lt;span class="xref"&gt;8.4&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

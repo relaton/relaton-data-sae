@@ -1,0 +1,57 @@
+---
+id: SAEARP5862
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Shipping Caps, Covers and Plugs
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5862
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5862-shipping-caps-covers-plugs
+docidentifier:
+- content: SAE ARP5862
+  type: SAE
+  primary: true
+- content: 10.4271/arp5862
+  type: DOI
+date:
+- type: approved
+  at: '2017-11-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The primary purpose of the shipping closure is to protect the aircraft parts or system from damage and foreign material ingress/egress (e.g., dust, dirt or other contaminants) during transport and storage. Shipping closures are not airworthy items. Therefore, their usage is defined as preventative for the parts to be protected as opposed to operational.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Military and commercial customer requirements for the prevention of damage or contamination to stored parts are generally limited to the generic instructions “all openings should be sufficiently covered to prevent the entrance of dust, dirt, moisture or other foreign contaminants”. This recommended practice outlines basic minimum parameters for suggested item construction and usage. Additionally, this recommended practice provides instruction on how to apply these closures to various openings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

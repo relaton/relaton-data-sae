@@ -1,0 +1,68 @@
+---
+id: SAEARP54832B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Rolling Element Bearing Hardness Test
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5483/2b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp54832b-rolling-element-bearing-hardness-test
+docidentifier:
+- content: SAE ARP5483/2B
+  type: SAE
+  primary: true
+- content: 10.4271/arp5483/2b
+  type: DOI
+date:
+- type: approved
+  at: '2026-05-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ACBG Rolling Element Bearing Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This method outlines the standard procedure for testing the hardness of bearing components. Bearings covered by this test method shall be any rolling element bearing used in airframe control.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

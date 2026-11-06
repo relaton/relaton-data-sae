@@ -1,0 +1,59 @@
+---
+id: SAEARP41011
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Seats and Restraint Systems for the Flight Deck
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4101/1
+- type: src
+  content: https://saemobilus.sae.org/standards/arp41011-seats-restraint-systems-flight-deck
+docidentifier:
+- content: SAE ARP4101/1
+  type: SAE
+  primary: true
+- content: 10.4271/arp4101/1
+  type: DOI
+date:
+- type: approved
+  at: '2007-07-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-7 Flight Deck Handling Qualities Stds for Trans Aircraft
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document establishes the minimum requirements for seats and restraint systems for the flight deck.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Due to limitations that it would place upon basic aircraft design, it is not considered practical for these requirements to apply fully to the observer seat. However, it is emphasized that every effort should be made to provide the observer seat position with an equivalent level of comfort and safety.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is also intended to make recommendations for flight crew restraint systems. A properly designed crew restraint system will minimize injury or debilitation during a survivable crash and enable post crash assistance to occupants and escape from the aircraft.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Crew member safety is the primary objective, with appropriate provisions for crew comfort taken into consideration. The criteria established herein are designed to standardize restraint systems without hindering the development of new, improved systems.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

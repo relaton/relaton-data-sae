@@ -1,0 +1,60 @@
+---
+id: SAEUSCAR45
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PERFORMANCE SPECIFICATION FOR WELDED WIRE-TO-WIRE SPLICES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar45
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar45-performance-specification-welded-wire-wire-splices
+docidentifier:
+- content: SAE USCAR-45
+  type: SAE
+  primary: true
+- content: 10.4271/uscar45
+  type: DOI
+date:
+- type: approved
+  at: '2018-06-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE/USCAR-45 defines test methods and performance requirements for ultrasonically-welded wire-to-wire splices for automotive applications. Face-to-face, butt splice, and center strip configurations per &lt;span class="xref"&gt;Figure 1&lt;/span&gt; can be tested. The tests defined in this specification subject samples on test to stresses that simulate a lifetime of exposure for a road vehicle. Stresses called out in this specification include thermal shock, temperature/humidity cycling and mechanical stress from different directions.&lt;/div&gt;
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

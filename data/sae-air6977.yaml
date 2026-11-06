@@ -1,0 +1,57 @@
+---
+id: SAEAIR6977
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Water Content Instrumentation for Icing Cloud Characterization
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6977
+- type: src
+  content: https://saemobilus.sae.org/standards/air6977-water-content-instrumentation-icing-cloud-characterization
+docidentifier:
+- content: SAE AIR6977
+  type: SAE
+  primary: true
+- content: 10.4271/air6977
+  type: DOI
+date:
+- type: approved
+  at: '2023-05-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9C Aircraft Icing Technology Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides a comprehensive overview of primary water content measurement instrumentation, for both facility-based icing research and in-flight icing research, over the range of commonly used aircraft certification icing envelopes. It includes information on the theory of operation of the instruments, system errors and limitations, and practical considerations when using them for cloud characterization. This document does not address other icing cloud measurements of interest, such as particle sizing, or measurement of phenomena such as snow, sleet, or hail.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

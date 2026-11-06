@@ -1,0 +1,56 @@
+---
+id: SAEAS8010B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AVIATOR’S BREATHING OXYGEN PURITY STANDARD
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8010b
+- type: src
+  content: https://saemobilus.sae.org/standards/as8010b-aviators-breathing-oxygen-purity-standard
+docidentifier:
+- content: SAE AS8010B
+  type: SAE
+  primary: true
+- content: 10.4271/as8010b
+  type: DOI
+date:
+- type: approved
+  at: '1991-11-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document defines the minimum degree of purity for aviator’s breathing oxygen at the point of manufacture. It covers gaseous, liquid, and chemically generated oxygen.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

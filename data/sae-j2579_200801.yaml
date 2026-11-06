@@ -1,0 +1,61 @@
+---
+id: SAEJ2579_200801
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Technical Information Report for Fuel Systems in Fuel Cell and Other Hydrogen
+    Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2579_200801
+- type: src
+  content: https://saemobilus.sae.org/standards/j2579_200801-technical-information-report-fuel-systems-fuel-cell-hydrogen-vehicles
+docidentifier:
+- content: SAE J2579_200801
+  type: SAE
+  primary: true
+- content: 10.4271/j2579_200801
+  type: DOI
+date:
+- type: approved
+  at: '2008-01-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Cell Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this document is to define design, construction, operational, and maintenance requirements for hydrogen fuel storage and handling systems in on-road vehicles.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Performance-based requirements for verification of design prototype and production hydrogen storage and handling systems are also defined in this document. Complementary test protocols (for use in type approval or self-certification) to qualify designs (and/or production) as meeting the specified performance requirements are described.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Crashworthiness of hydrogen storage and handling systems is beyond the scope of this document. SAE J2578 includes requirements relating to crashworthiness and vehicle integration for fuel cell vehicles. It defines recommended practices related to the integration of hydrogen storage and handling systems, fuel cell system, and electrical systems into the overall Fuel Cell Vehicle.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

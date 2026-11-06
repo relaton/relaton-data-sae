@@ -1,0 +1,63 @@
+---
+id: SAEEIAIS632
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Systems Engineering
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/eiais632
+- type: src
+  content: https://saemobilus.sae.org/standards/eiais632-systems-engineering
+docidentifier:
+- content: SAE EIA-IS-632
+  type: SAE
+  primary: true
+- content: 10.4271/eiais632
+  type: DOI
+date:
+- type: approved
+  at: '2016-06-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-47 Systems Engineering
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard defines a total system approach for the development of systems. The standard requires: establishing and implementing a structured, disciplined, and documented systems engineering effort incorporating the systems engineering process; multidisciplinary teamwork; and the simultaneous development of the products and processes needed to satisfy user needs. The systems engineering process is defined generically to facilitate broad application. This standard defines the requirements for technical reviews. The tasks in this standard provide a methodology for evaluating progress in achieving system objectives.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard provides a comprehensive, structured, and disciplined approach for all life-cycle phases, including new system product and process developments, upgrades, modifications, and engineering efforts conducted to resolve problems in fielded systems. This standard is applicable to technical efforts in support of advancement and development of new technologies and their application. It applies to large and small scale systems; to single or multiple procurements; and to the replacement of current products and processes. The standard is applicable to systems irrespective of composition including those that are integrated from diverse elements, hardware dominant, and software dominant. This document should be tailored for effective and efficient program implementation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Systems engineering involves design and management of a total system which includes hardware and software, as well as other system elements. All system elements should be considered in analyses, trade-offs, and engineering methodology.&lt;/div&gt;
+
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

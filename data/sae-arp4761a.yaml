@@ -1,0 +1,63 @@
+---
+id: SAEARP4761A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guidelines for Conducting the Safety Assessment Process on Civil Aircraft,
+    Systems, and Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4761a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4761a-guidelines-conducting-safety-assessment-process-civil-aircraft-systems-equipment
+docidentifier:
+- content: SAE ARP4761A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4761a
+  type: DOI
+date:
+- type: approved
+  at: '2023-12-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-18 Aircraft and Sys Dev and Safety Assessment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;ARP4761A and its EUROCAE counterpart, ED-135, present guidelines for performing safety assessments of civil aircraft, systems, and equipment. They may be used when addressing compliance with certification requirements (e.g., 14 CFR/CS Parts 23, 25, 27, and 29 and 14 CFR Parts 33, 35, CS-E, and CS-P). ARP4761A/ED-135 may also be used to assist a company in meeting its own internal safety assessment standards. While the safety assessment processes described are primarily associated with civil aircraft, systems, and equipment, these processes may be used in many other applications. The guidelines herein identify a systematic safety assessment process, but other processes may be equally effective.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The processes described herein are usually applicable to the new designs or to existing designs that are affected by changes to design or functions. In the case of the implementation of existing design(s) in a derivative application, complementary means such as service experience in a similar application may be used in the safety assessment.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;ARP4761A/ED-135 does not address safety assessment of in-service products but does include references to those processes. ARP5150A and ARP5151A contain processes for conducting in-service safety assessments.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not include information on security threat considerations.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

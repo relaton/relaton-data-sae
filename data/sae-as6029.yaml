@@ -1,0 +1,58 @@
+---
+id: SAEAS6029
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Performance Criteria for Laser Control Measures Used for Aviation Safety
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6029
+- type: src
+  content: https://saemobilus.sae.org/standards/as6029-performance-criteria-laser-control-measures-used-aviation-safety
+docidentifier:
+- content: SAE AS6029
+  type: SAE
+  primary: true
+- content: 10.4271/as6029
+  type: DOI
+date:
+- type: approved
+  at: '2011-01-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10T Laser Safety Hazards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides guidance for laser operators and aviation authorities to determine the performance criteria that laser hazard control measures shall meet for the operation of an outdoor laser system in navigable airspace. The document does not cover systems intended to deliberately aim and or track lasers at aircraft except for FAA approved purposes, such as visual warning systems, search and rescue, etc.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Aircraft operations to be protected include all types that can be reasonably expected to operate in the affected area, which are traveling at speeds and altitudes defined in the Performance/Functional Requirements section. This document does not address all possible aircraft operations, (e.g. the operation of stealth, high-speed (&amp;gt; Mach 1), unmanned aircraft systems, aircraft above 60 000 feet MSL, etc.), including aircraft operating under a waiver from FAA regulations. Depending on the laser system's location and operational characteristics, the proponent may be required to coordinate with local military facilities and with the USAF Space Command. The military may request additional requirements (such as limitations on lasing hours or locations), or they may take actions to avoid the laser location.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

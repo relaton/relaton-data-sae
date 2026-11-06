@@ -1,0 +1,68 @@
+---
+id: SAEAS5562
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Ice and Rain Minimum Qualification Standards for Pitot and Pitot-static
+    Probes
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5562
+- type: src
+  content: https://saemobilus.sae.org/standards/as5562-ice-rain-minimum-qualification-standards-pitot-pitot-static-probes
+docidentifier:
+- content: SAE AS5562
+  type: SAE
+  primary: true
+- content: 10.4271/as5562
+  type: DOI
+date:
+- type: approved
+  at: '2020-02-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9C Aircraft Icing Technology Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) establishes minimum ice and rain performance criteria for electrically-heated pitot and pitot-static probes intended for use on the following classes of fixed-wing aircraft and rotorcraft. The classes of fixed-wing aircraft are defined by aircraft flight envelopes and are shown in &lt;span class="xref"&gt;Figure 1&lt;/span&gt;. The flight envelopes generally fall into the classes as shown below:&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;The user of this standard must evaluate the aircraft level installation requirements for the probe against the class definition criteria to ensure adequate coverage for the application. It may be necessary to step up in class or modify the test conditions in order to meet the applicable installation requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: Class 2 is divided into two subgroups identified as either Class 2a or Class 2b. Class 2a probe applications typically include aircraft that operate within the mid to lower end of the Class 2 altitude range and that only use probe output to display basic airspeed and/or altitude. As such, Class 2a probes do not have to test ice crystals at an altitude-capable icing tunnel. Class 2b applications are for probe installations intended to serve a critical function and should be tested at an altitude-capable icing tunnel. Probes qualified to Class 2 of this standard shall be identified as either Class 2a or Class 2b.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In addition this performance standard applies only to the probe types listed below and is limited to only the performance of the probe itself as defined from the aerodynamic sensing aperture on the probe to the aircraft pneumatic interface connection.
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Type I – Pitot Pressure, Straight and L-Shaped&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Type II – Pitot and Static Pressures, Straight and L-Shaped&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: This specification, when used in conjunction with AS8006, provides a comprehensive design and test standard for the devices that fall within the scope of this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: This document is technically equivalent to EUROCAE ED-225, dated TBD.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

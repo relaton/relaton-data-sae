@@ -1,0 +1,57 @@
+---
+id: SAEJ2576_200204
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Blade Fuses - 42 V System
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2576_200204
+- type: src
+  content: https://saemobilus.sae.org/standards/j2576_200204-blade-fuses-42-v-system
+docidentifier:
+- content: SAE J2576_200204
+  type: SAE
+  primary: true
+- content: 10.4271/j2576_200204
+  type: DOI
+date:
+- type: approved
+  at: '2002-04-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Circuit Protection and Switch Device Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice defines the blade fuse styles, test conditions, procedures, and performance requirements for use in vehicle electrical power systems designed to the new motor vehicle industry 42 V architecture. The intent of this document is to provide a framework for 58 V Blade Fuse characteristics, serving the motor vehicle industry to establish standardization with respect to electrical performance and mechanical requirements. This standardization shall lend itself to safe application practices; e.g., prevention of 32 V devices utilized inappropriately in 42 V electrical systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Both the performance and mechanical requirements expressed herein are for the advancement of mobility engineering and the development of safe application practices. They are not intended for the establishment of design exclusions, patent rights, or franchising that engenders restraint of trade.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

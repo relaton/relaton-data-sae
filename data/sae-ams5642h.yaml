@@ -1,0 +1,57 @@
+---
+id: SAEAMS5642H
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS AND FORGINGS, CORROSION AND HEAT RESISTANT 18Cr - 10.5Ni - 0.60
+    (Cb + Ta) Free-Machining, Solution Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5642h
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5642h-steel-bars-forgings-corrosion-heat-resistant-18cr-105ni-060-cb-ta-free-machining-solution-heat-treated
+docidentifier:
+- content: SAE AMS5642H
+  type: SAE
+  primary: true
+- content: 10.4271/ams5642h
+  type: DOI
+date:
+- type: approved
+  at: '1988-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers two types of free-machining, corrosion and heat resistant steel in the form of bars, wire, forgings, and forging stock.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

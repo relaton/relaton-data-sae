@@ -1,0 +1,56 @@
+---
+id: SAEAMS7848E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Tantalum Alloy, Bars and Rods, 90Ta - 10W
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7848e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7848e-tantalum-alloy-bars-rods-90ta-10w
+docidentifier:
+- content: SAE AMS7848E
+  type: SAE
+  primary: true
+- content: 10.4271/ams7848e
+  type: DOI
+date:
+- type: approved
+  at: '2024-11-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G Titanium and Refractory Metals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a tantalum alloy in the form of bars and rods up through 3.5 inches (88.9 mm), inclusive (see &lt;span class="xref"&gt;8.5&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

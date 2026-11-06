@@ -1,0 +1,59 @@
+---
+id: SAEJ2842_201505
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: R-1234yf and R744 Design Criteria and Certification for OEM Mobile Air
+    Conditioning Evaporator and Service Replacements
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2842_201505
+- type: src
+  content: https://saemobilus.sae.org/standards/j2842_201505-r-1234yf-r744-design-criteria-certification-oem-mobile-air-conditioning-evaporator-service-replacements
+docidentifier:
+- content: SAE J2842_201505
+  type: SAE
+  primary: true
+- content: 10.4271/j2842_201505
+  type: DOI
+date:
+- type: approved
+  at: '2015-05-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Interior Climate Control MAC Supplier Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The intent of this standard is to establish a framework to assure that all evaporators for R-744, R-1234yf, and R-445A mobile air conditioning (MAC) systems meet appropriate testing and labeling requirements. SAE J639 requires vehicle manufacturers to perform assessments to minimize reasonable risks in production MAC systems. The evaporator (as designed and manufactured) shall be part of that risk assessment and it is the responsibility of the vehicle manufacturer to assure all relevant aspects of the evaporator are included. It is the responsibility of all vehicle or evaporator manufacturers to comply with the standards of this document at a minimum. (Substitution of specific test procedures by vehicle manufactures that correlate well to field return data is acceptable.) As appropriate, this standard can be used as a guide to support risk assessments.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;With regard to certification, most vehicle manufacturers have established formal production part approval processes (PPAP) where compliance certification is established and formally documented. For an evaporator manufacturer of non-original equipment parts (or a vehicle manufacturer that does not have a formal part compliance certification process) then the certification described in this standard is the requirement to which those evaporators shall comply. In this case, the evaporator manufacturer or an independent institution shall complete the evaporator certification according to SAE J2911. An example of the latter would be the completion of witness testing by the evaporator manufacturer with the submission of certification documents by the witness organization.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Refrigerant R-152a was excluded from this standard because a secondary loop refrigerant system is required. This standard also does not apply to R-134a refrigerant evaporators because it is proven in use.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

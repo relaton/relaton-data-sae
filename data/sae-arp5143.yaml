@@ -1,0 +1,58 @@
+---
+id: SAEARP5143
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Vacuum Bagging of Thermosetting Composite Repairs
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5143
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5143-vacuum-bagging-thermosetting-composite-repairs
+docidentifier:
+- content: SAE ARP5143
+  type: SAE
+  primary: true
+- content: 10.4271/arp5143
+  type: DOI
+date:
+- type: approved
+  at: '2011-11-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CACRC Commercial Aircraft Composite Repair Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice (ARP) describes methods of vacuum bagging, a process used to apply pressure in adhesive bonding and heat curing of thermosetting epoxy and polyester matrix fabrications for commercial aircraft composite parts. If this document is used for the vacuum bagging of other than thermosetting epoxy and polyester materials, the fitness for this purpose must be determined by the user.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The methods shall only be used when specified in an approved repair document or with the agreement of the Original Equipment Manufacturer (OEM) or regulatory authority.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,70 @@
+---
+id: SAEARP5572B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Control Measures for Laser Safety in the Navigable Airspace
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5572b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5572b-control-measures-laser-safety-navigable-airspace
+docidentifier:
+- content: SAE ARP5572B
+  type: SAE
+  primary: true
+- content: 10.4271/arp5572b
+  type: DOI
+date:
+- type: approved
+  at: '2026-06-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10T Laser Safety Hazards Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides information and guidance for the control of hazardous laser exposure in the navigable airspace.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This ARP does not address techniques that pilots can apply to mitigate laser illuminations during a critical phase of flight. Such mitigation strategies are described in ARP6378.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

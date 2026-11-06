@@ -1,0 +1,57 @@
+---
+id: SAEJ820_199807
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Crane Hoist Line Speed and Power Test Code
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j820_199807
+- type: src
+  content: https://saemobilus.sae.org/standards/j820_199807-crane-hoist-line-speed-power-test-code
+docidentifier:
+- content: SAE J820_199807
+  type: SAE
+  primary: true
+- content: 10.4271/j820_199807
+  type: DOI
+date:
+- type: approved
+  at: '1998-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Cranes and Lifting Devices Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This code applies primarily to mobile cranes that lift loads by means of a drum and hoist line mechanism. It can be used to determine the hoist line speed and power of other hoist line mechanisms, if load can be held constant and hoist line travel distance is sufficient for the accuracy of the line speed measurements prescribed.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

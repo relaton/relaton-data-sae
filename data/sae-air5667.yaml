@@ -1,0 +1,59 @@
+---
+id: SAEAIR5667
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fiber Optic Wavelength Division Multiplexed (WDM) Singlemode Interconnect
+    and Component Standards Mapping for Aerospace Platform Applications – Device Level
+    Specification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5667
+- type: src
+  content: https://saemobilus.sae.org/standards/air5667-fiber-optic-wavelength-division-multiplexed-wdm-singlemode-interconnect-component-standards-mapping-aerospace-platform-applications-device-level-specification
+docidentifier:
+- content: SAE AIR5667
+  type: SAE
+  primary: true
+- content: 10.4271/air5667
+  type: DOI
+date:
+- type: approved
+  at: '2024-10-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this document is to serve as a resource to aerospace designers who are planning to utilize Wavelength Division Multiplexed (WDM) interconnects and components. Many WDM commercial systems exist and they incorporate a number of existing, commercially supported, standards that define the critical parameters to guide the development of these systems. These standards ensure interoperability between the elements within these systems. The commercial industry is motivated to utilize these standards to minimize the amount of tailored development.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;However, since some of the aerospace parameters are not satisfied by the commercial devices, this document will also try to extend the commercial parameters to those that are necessary for aerospace systems. The document provides cross-references to existing or emerging optical component and subsystem standards. These parameter definitions, test methods, and procedures typically apply to telecommunications application and in some cases may require refining to adapt them to aerospace optical network and system applications.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

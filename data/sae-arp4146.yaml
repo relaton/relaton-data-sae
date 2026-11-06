@@ -1,0 +1,56 @@
+---
+id: SAEARP4146
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: COILED TUBING - TITANIUM ALLOY, HYDRAULIC APPLICATIONS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4146
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4146-coiled-tubing-titanium-alloy-hydraulic-applications
+docidentifier:
+- content: SAE ARP4146
+  type: SAE
+  primary: true
+- content: 10.4271/arp4146
+  type: DOI
+date:
+- type: approved
+  at: '1994-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C5 Components Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice (ARP) specifically discusses five configurations of flexible tubing. The design data given will aid in design of coiled tube assemblies using Ti-3Al-2.5V cold worked, stress relieved (CWSR) tubing per specification AMS4944. It should be noted that a particular system operating pressure level is not specified. The configurations discussed should be compatible with pressure levels up to 8000 psi upon completion of analysis for the actual stress and life requirement of the intended application. Formal qualification tests are recommended to verify satisfactory installation, clamping, and life of each unique design.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

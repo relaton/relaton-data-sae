@@ -1,0 +1,48 @@
+---
+id: SAEAMS4150
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY Magnesium Silicon Copper (61ST) Extruded
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4150
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4150-aluminum-alloy-magnesium-silicon-copper-61st-extruded
+docidentifier:
+- content: SAE AMS4150
+  type: SAE
+  primary: true
+- content: 10.4271/ams4150
+  type: DOI
+date:
+- type: approved
+  at: '1944-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

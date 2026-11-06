@@ -1,0 +1,57 @@
+---
+id: SAEJ1849_198907
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: EMERGENCY VEHICLE SIRENS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1849_198907
+- type: src
+  content: https://saemobilus.sae.org/standards/j1849_198907-emergency-vehicle-sirens
+docidentifier:
+- content: SAE J1849_198907
+  type: SAE
+  primary: true
+- content: 10.4271/j1849_198907
+  type: DOI
+date:
+- type: approved
+  at: '1989-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Emergency Warning Lights and Devices Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE document provides test procedures, requirements, and guidelines for electronic and electromechanical sirens for use on authorized emergency vehicles. It is based on the performance of state-of-the-art devices that have proven effective in emergency service. However, it is important for the user to understand that such devices will not necessarily be heard by the drivers of every vehicle under all conditions in time to permit all drivers to take appropriate action.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Sound levels high enough to be heard at reasonable distances in soundproofed automobiles with operating air-conditioners and stero sound systems are so high as to be environmentally unacceptable. The siren is a useful warning device for calling for the right-of-way by an emergency vehicle but must always be used in conjunction with effective visual warning devices and operated only by properly trained personnel.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

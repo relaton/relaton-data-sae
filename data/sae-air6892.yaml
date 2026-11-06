@@ -1,0 +1,58 @@
+---
+id: SAEAIR6892
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Structural Health Monitoring Considerations and Guidance Specific to Rotorcraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6892
+- type: src
+  content: https://saemobilus.sae.org/standards/air6892-structural-health-monitoring-considerations-guidance-specific-rotorcraft
+docidentifier:
+- content: SAE AIR6892
+  type: SAE
+  primary: true
+- content: 10.4271/air6892
+  type: DOI
+date:
+- type: approved
+  at: '2020-10-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aerospace Industry Steering Committee on Structural Health
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides guidance on the definition, development, integration, qualification/certification, and deployment of Structural Health Monitoring (SHM) technologies applied to commercial and military rotorcraft. Increased implementation of SHM is believed to have numerous potential benefits, including enhanced operational safety and reduced maintenance burden. The focus is on augmenting ARP6461 to address specific unique aspects of implementing SHM on rotorcraft without unnecessarily duplicating guidance already contained in the ARP that is generally applicable to both fixed-wing and rotary-wing aircraft.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For the purpose of this document, SHM is defined as “the process of acquiring and analyzing data from on-board sensors in order to determine the health of a structure”. Note that this is irrespective of whether the on-board sensors are a permanent or temporary installation. On-board sensors could include any presently installed aircraft sensors as well as new sensors to be defined in the future. Interrogation of these sensors could be done on-board during flight or off-board using ground support equipment during maintenance activities. It is assumed that the primary user of SHM in the near term will be the maintenance and operations crew. This document does not include guidance on SHM business case analysis nor display of health state or recommendations to the flight crew in real-time.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

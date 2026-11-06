@@ -1,0 +1,58 @@
+---
+id: SAEAIR7975
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Fuel System Design Guidelines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air7975
+- type: src
+  content: https://saemobilus.sae.org/standards/air7975-aircraft-fuel-system-design-guidelines
+docidentifier:
+- content: SAE AIR7975
+  type: SAE
+  primary: true
+- content: 10.4271/air7975
+  type: DOI
+date:
+- type: approved
+  at: '2019-12-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5A Aerospace Fuel, Inerting and Lubrication Sys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes the major design drivers and considerations when designing a fuel system for a large commercial aircraft. It discusses the design at a system/aircraft level, and is not intended as a design manual for individual system components, though it does refer out to other SAE specifications where more detail on specific components and sub-systems is given. It does include examples of a number of calculations associated with sizing of fuel systems, based on those given in NAV-AIR-06-5-504, as well as an appendix summarizing basic fluid mechanical equations which are key for fuel system design. It is acknowledged that most of these calculations would today be performed by modelling tools, rather than by hand, but it is considered important for the designer to understand the principles.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is intended that later issues of this document will include appendices which give specific considerations for military aircraft, smaller commercial aircraft, and rotorcraft.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

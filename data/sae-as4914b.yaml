@@ -1,0 +1,56 @@
+---
+id: SAEAS4914B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Fluorescent Lighting Ballast/Fixture Safety Standard
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4914b
+- type: src
+  content: https://saemobilus.sae.org/standards/as4914b-aircraft-fluorescent-lighting-ballast-fixture-safety-standard
+docidentifier:
+- content: SAE AS4914B
+  type: SAE
+  primary: true
+- content: 10.4271/as4914b
+  type: DOI
+date:
+- type: approved
+  at: '2006-08-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20AC Crew Station and Interior Lighting Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this standard is to recommend minimum performance requirements to assist the specification writer in establishing a failsafe airplane interior light assembly design. This standard relates to the design of fluorescent lamp ballasts, lampholders, fixtures, and installation of the same.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

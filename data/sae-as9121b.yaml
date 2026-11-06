@@ -1,0 +1,48 @@
+---
+id: SAEAS9121B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Stockist Distributors Quality System Questionnaire Associated with AS9120
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9121b
+- type: src
+  content: https://saemobilus.sae.org/standards/as9121b-stockist-distributors-quality-system-questionnaire-associated-as9120
+docidentifier:
+- content: SAE AS9121B
+  type: SAE
+  primary: true
+- content: 10.4271/as9121b
+  type: DOI
+date:
+- type: approved
+  at: '2012-11-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

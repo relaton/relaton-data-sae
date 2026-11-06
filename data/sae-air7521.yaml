@@ -1,0 +1,57 @@
+---
+id: SAEAIR7521
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Measurement Data and Reference Values for Compounds Potentially Found in
+    Aircraft Engine Bleed Air
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air7521
+- type: src
+  content: https://saemobilus.sae.org/standards/air7521-measurement-data-reference-values-compounds-potentially-found-aircraft-engine-bleed-air
+docidentifier:
+- content: SAE AIR7521
+  type: SAE
+  primary: true
+- content: 10.4271/air7521
+  type: DOI
+date:
+- type: approved
+  at: '2018-10-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-31B Bleed Air Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document summarizes published measurement data and reference values for marker chemical compounds listed in ARP4418 (see &lt;span class="xref"&gt;2.1.1&lt;/span&gt;) potentially found in aircraft engine bleed air.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

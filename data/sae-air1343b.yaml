@@ -1,0 +1,58 @@
+---
+id: SAEAIR1343B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Liquid Propellant Gas Generation Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1343b
+- type: src
+  content: https://saemobilus.sae.org/standards/air1343b-liquid-propellant-gas-generation-systems
+docidentifier:
+- content: SAE AIR1343B
+  type: SAE
+  primary: true
+- content: 10.4271/air1343b
+  type: DOI
+date:
+- type: approved
+  at: '2013-06-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C4 Power Sources Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This information report presents a preliminary discussion of liquid propellant gas generation (LPGG) systems. A LPGG system, as used herein, is defined as a system which stores a liquid propellant and, on command, discharges and converts the liquid propellant to a gas. The LPGG system can interface with a gas-to-mechanical energy conversion device to make up an auxiliary power system. &lt;span class="xref"&gt;Figure 1&lt;/span&gt; shows a block diagram of LPGG system components which include a propellant tank, propellant expulsion system, propellant control and a decomposition (or combustion) chamber.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this report is to provide general information on the variety of components and system arrangements which can be considered in LPGG design, summarize advantages and disadvantages of various approaches and provide basic sizing methods suitable for initial tradeoff purposes.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

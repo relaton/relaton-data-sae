@@ -1,0 +1,61 @@
+---
+id: SAEJ3219_202206
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hydrogen Fuel Quality Screening Test of Chemicals for Fuel Cell Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3219_202206
+- type: src
+  content: https://saemobilus.sae.org/standards/j3219_202206-hydrogen-fuel-quality-screening-test-chemicals-fuel-cell-vehicles
+docidentifier:
+- content: SAE J3219_202206
+  type: SAE
+  primary: true
+- content: 10.4271/j3219_202206
+  type: DOI
+date:
+- type: approved
+  at: '2022-06-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Cell Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The outcome of this TIR is to establish proton exchange membrane (PEM) testing methods and characterization of chemicals used in HRS, during operation and maintenance that can influence the performance of commercial PEM fuel cell vehicles.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Hydrogen quality standards such as SAE J2719 provide list of contaminants with maximum impurity levels that ensure safe operation of fuel cell vehicles. These contaminants are primarily from the hydrogen production. Less attention in these quality standards were given to the contaminants generated from the installation, operation and maintenance of HRS. Common chemicals used during HRS operation are refrigerants, lubricants, etc., and during HRS installation and maintenance are solvents cleaning agents, lubricants, etc. Some of these chemicals are found to have adverse impacts on PEM fuel cells.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The development of testing methods and characterization of chemicals in this report are based on similar methods used in SAE J2719 although the approach in this TIR is a direct evaluation of the chemical rather than specifying the contaminant level. These methods consider fuel cell performance characteristics for each chemical tested and the impacts of functional groups on PEM fuel cells. Adverse impact of contaminants on fuel cells are associated with performance drop after exposure to the chemical.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

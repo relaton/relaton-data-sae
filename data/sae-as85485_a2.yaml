@@ -1,0 +1,52 @@
+---
+id: SAEAS85485_A2
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Cable, Electric, Filter Line, Radio Frequency Absorptive
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as85485_a2
+- type: src
+  content: https://saemobilus.sae.org/standards/as85485_a2-cable-electric-filter-line-radio-frequency-absorptive
+docidentifier:
+- content: SAE AS85485_A2
+  type: SAE
+  primary: true
+- content: 10.4271/as85485_a2
+  type: DOI
+date:
+- type: approved
+  at: '2008-11-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8D Wire and Cable Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>Amendment 2 of AS85485.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

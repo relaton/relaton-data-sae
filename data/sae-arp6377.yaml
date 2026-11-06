@@ -1,0 +1,62 @@
+---
+id: SAEARP6377
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Human Engineering Considerations Associated with Design and Airborne Implementation
+    of Head Worn Display (HWD) Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6377
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6377-human-engineering-considerations-associated-design-airborne-implementation-head-worn-display-hwd-systems
+docidentifier:
+- content: SAE ARP6377
+  type: SAE
+  primary: true
+- content: 10.4271/arp6377
+  type: DOI
+date:
+- type: approved
+  at: '2023-07-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10HWD Head Worn Display Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Head worn displays (HWD) can display a variety of information ranging from a full complement of primary flight information (PFI), including enhanced, synthetic, or combined vision system imagery to simple representations of airspeed, altitude, or heading to operationally specific information that may not be related aircraft performance or control. The display functions discussed in this ARP are limited to intended functions related to aircraft control and management and the presentation of PFI.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The material provided in this document consists of recommendations related to the design, analysis, testing, and intended functions of head worn displays (HWDs) for normal, utility, acrobatic, commuter, and transport category aircraft and special classes of aircraft. The content is targeted to HWDs that provide navigation, control and primary flight guidance information including terrain and obstacle avoidance. The content of the document is limited to statements of general design and installation considerations, including display function criticality and compliance considerations; symbology, coding, clutter, dimensionality, and attention getting requirements; equipment installation; display visual characteristics; failure modes; information display and formatting; specific integrated display and mode; and system verification. This document addresses both the installation of a single HWD, as well as special considerations related to dual HWDs, one for each pilot, or configurations incorporating a HWD and a HUD.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The guidance may also apply to HWDs that are intended to be used as a supplemental display in which the HWD contains the minimum information immediately required for other intended functions. These types of HWDs may not have a head tracking function if they are not displaying earth- or aircraft-referenced symbols or information (e.g., attitude, flight path guidance, imagery, etc.).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A HWD may also be used to display enhanced and synthetic vision video images. While this document does include guidance for the display of a video image on a HWD, the scope of this document does not address the requirements for the systems that provide those images.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Due to their impact on operational and performance characteristics, this document relies heavily on HWD human engineering considerations. This document attempts to be independent of candidate technologies; however, where the performance characteristics of specific technologies are relevant, they will be identified, and where performance criteria are relevant to specific intended functions/use they will be identified.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

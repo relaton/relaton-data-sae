@@ -1,0 +1,60 @@
+---
+id: SAEJ4002_200508
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: H-Point Machine (HPM-II) Specifications and Procedure for H-Point Determination—Auditing
+    Vehicle Seats
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j4002_200508
+- type: src
+  content: https://saemobilus.sae.org/standards/j4002_200508-h-point-machine-hpm-ii-specifications-procedure-h-point-determination-auditing-vehicle-seats
+docidentifier:
+- content: SAE J4002_200508
+  type: SAE
+  primary: true
+- content: 10.4271/j4002_200508
+  type: DOI
+date:
+- type: approved
+  at: '2005-08-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Human Accom and Design Devices Stds Comm
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Standard provides the specifications and procedures for using the H-point machine (HPM&lt;span class="xref"&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/span&gt;) to audit vehicle seating positions. The HPM is a physical tool used to establish key reference points and measurements in a vehicle (see &lt;span class="xref"&gt;Figure 1&lt;/span&gt; and &lt;span class="xref"&gt;Appendix A&lt;/span&gt;). The H-point design tool (HPD) is a simplified CAD&lt;span class="xref"&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/span&gt; version of the HPM, which can be used in conjunction with the HPM to take the optional measurements specified in this document, or used independently during product design (see &lt;span class="xref"&gt;Appendix D&lt;/span&gt;).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These H-point devices provide a method for reliable layout and measurement of occupant seating compartments and/or seats. This document specifies the procedures for using the H-point machine (HPM) to audit (verify) key reference points and measurements in a vehicle.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The devices are intended for application at designated seating positions. They are not to be construed as tools that measure or indicate occupant capabilities or comfort. They are not intended for use in defining or assessing temporary seating, such as folding jump seats.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

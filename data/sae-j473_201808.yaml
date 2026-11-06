@@ -1,0 +1,63 @@
+---
+id: SAEJ473_201808
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Solders
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j473_201808
+- type: src
+  content: https://saemobilus.sae.org/standards/j473_201808-solders
+docidentifier:
+- content: SAE J473_201808
+  type: SAE
+  primary: true
+- content: 10.4271/j473_201808
+  type: DOI
+date:
+- type: approved
+  at: '2018-08-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Metals Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The choice of the type and grade of solder for any specific purpose will depend on the materials to be joined and the method of applying. Those with higher amounts of tin usually wet and bond more readily and have a narrower semi-molten range than lower amounts of tin.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For strictly economic reasons, it is recommended that the grade of solder metal be selected that contains least amount of tin required to give suitable flowing and adhesive qualities for application.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;All the lead-tin solders, with or without antimony, are usually suitable for joining steel and copper base alloys. For galvanized steel or zinc, only Class A solders should be used. Class B solders, containing antimony usually as a substitute for some of the tin or to increase strength and hardness of the filler metal, form intermetallic antimony-zinc compounds, causing the joint to become embrittled. Lead-tin solders are not recommended for joining aluminum, magnesium, or stainless steel.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Permissible impurity levels are shown:&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;In dipping solders, 0.5% max copper is permissible because of pickup in bath.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Compositions, temperatures, and similar specifications of these SAE solders are shown in &lt;span class="xref"&gt;Table 1&lt;/span&gt;.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

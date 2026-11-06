@@ -1,0 +1,60 @@
+---
+id: SAEJ2748_200610
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: VHDL-AMS Statistical Analysis Packages
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2748_200610
+- type: src
+  content: https://saemobilus.sae.org/standards/j2748_200610-vhdl-ams-statistical-analysis-packages
+docidentifier:
+- content: SAE J2748_200610
+  type: SAE
+  primary: true
+- content: 10.4271/j2748_200610
+  type: DOI
+date:
+- type: approved
+  at: '2006-10-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electronic Design Automation Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document specifies the interface and the behavior of the VHDL-AMS packages for use in modeling statistical behavior. These packages are useful in defining the statistical variation of parameters of electrical, electronic, and mechatronic components and sub-systems. These can then be used with simulation tools to analyze the performance and reliability of systems composed of these components and sub-systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Providing a standard definition of the package interfaces and their behavior is intended to facilitate the exchange of models between component and system manufacturers and the use of different CAE simulation tools.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The SAE statistical package supports the statistical modeling of design parameters subject to tolerances for designs described using the VHDL or VHDL-AMS languages. The performance of a design that uses this package to model parameter tolerances may be analyzed by a Monte Carlo simulation, which consists of multiple simulation runs of the design, each run with a different set of parameter values according to their statistical distributions. The Monte Carlo simulation will yield an estimate of the behavior of the design subject to the parameter tolerances. Additionally, the package may be used to perform an Extreme Value Analysis of a design, that is, an analysis that computes the worst case behavior of the design.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The SAE statistical package does not support other statistical modeling needs, for example the modeling of statistical variations of the arrival of events in a queue, or any other situation where a value exhibits a statistical behavior during a single simulation.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

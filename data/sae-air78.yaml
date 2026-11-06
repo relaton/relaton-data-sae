@@ -1,0 +1,44 @@
+---
+id: SAEAIR78
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Diagrams and Characteristics of Typical Piston Engine Magneto Ignition
+    Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air78
+- type: src
+  content: https://saemobilus.sae.org/standards/air78-diagrams-characteristics-typical-piston-engine-magneto-ignition-systems
+docidentifier:
+- content: SAE AIR78
+  type: SAE
+  primary: true
+- content: 10.4271/air78
+  type: DOI
+date:
+- type: approved
+  at: '1959-11-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

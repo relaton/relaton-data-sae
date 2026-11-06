@@ -1,0 +1,48 @@
+---
+id: SAEAMS6382F
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS AND FORGINGS 0.95Cr - 0.20Mo (0.38 - 0.43C) (SAE 4140)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6382f
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6382f-steel-bars-forgings-095cr-020mo-038-043c-sae-4140
+docidentifier:
+- content: SAE AMS6382F
+  type: SAE
+  primary: true
+- content: 10.4271/ams6382f
+  type: DOI
+date:
+- type: approved
+  at: '1967-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

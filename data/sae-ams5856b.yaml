@@ -1,0 +1,59 @@
+---
+id: SAEAMS5856B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Alloy Billets and Preforms, Corrosion and Heat Resistant, 59.5ni 12cr 10co
+    3.0mo 6.0w 3.0ti 1.5ta 4.5al 0.015b 0.10zr (0.30-0.35c), Powder-Metallurgy Product
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5856b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5856b-alloy-billets-preforms-corrosion-heat-resistant-595ni-12cr-10co-30mo-60w-30ti-15ta-45al-0015b-010zr-030-035c-powder-metallurgy-product
+docidentifier:
+- content: SAE AMS5856B
+  type: SAE
+  primary: true
+- content: 10.4271/ams5856b
+  type: DOI
+date:
+- type: approved
+  at: '1998-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: <p>This specification covers a corrosion and heat resistant nickel alloy
+    powder-metallurgy product in the form of billets and preforms for forgings. Primarily
+    for parts requiring high strength up to 1500 degrees F (815 degrees C) and corrosion
+    and oxidation resistance up to 1700 degrees F (925 degrees C). This specification
+    has been declared "Noncurrent" by the Aerospace Materials Division, SAE, as of
+    October 16, 1986.  It is recommended that this specification not be specified
+    for new designs.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

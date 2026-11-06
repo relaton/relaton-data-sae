@@ -1,0 +1,58 @@
+---
+id: SAEAIR1823
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ENVIRONMENTAL CONTROL SYSTEM TRANSIENT ANALYSIS COMPUTER PROGRAM (EASY)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1823
+- type: src
+  content: https://saemobilus.sae.org/standards/air1823-environmental-control-system-transient-analysis-computer-program-easy
+docidentifier:
+- content: SAE AIR1823
+  type: SAE
+  primary: true
+- content: 10.4271/air1823
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The &lt;u&gt;E&lt;/u&gt;nvironmental Control &lt;u&gt;A&lt;/u&gt;nalysis &lt;u&gt;SY&lt;/u&gt;stem (EASY) computer program is summarized in this report. Development of this computer program initially was sponsored by the U.S. Air Force Flight Dynamics Laboratory. (See References 1, 2, 3, and 4.) It provides techniques for determination of steady state and dynamic (transient) ECS performance, and of control system stability; and for synthesis of optimal ECS control systems. The program is available from the U.S. Air Force, or as a proprietary commercial version.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;General uses of a transient analysis computer program for ECS design and development, and general features of EASY relative to these uses, are presented. This report summarizes the nine analysis options of EASY, EASY program organization for analyzing ECS, data input to the program and resulting data output, and a discussion of EASY limitations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Appendices provide general definitions for dynamic analysis, and samples of input and output for EASY.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

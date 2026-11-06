@@ -1,0 +1,59 @@
+---
+id: SAEAS4112A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Production Test Plan for the Digital Time Division Command/Response Multiplex
+    Data Bus Remote Terminals
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4112a
+- type: src
+  content: https://saemobilus.sae.org/standards/as4112a-production-test-plan-digital-time-division-command-response-multiplex-data-bus-remote-terminals
+docidentifier:
+- content: SAE AS4112A
+  type: SAE
+  primary: true
+- content: 10.4271/as4112a
+  type: DOI
+date:
+- type: approved
+  at: '2017-08-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This test plan is broken into two major sections for the production testing of remote terminals: Electrical and Protocol.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

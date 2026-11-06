@@ -1,0 +1,58 @@
+---
+id: SAEAS7378
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Test Method for Condition in Container of Liquid Organic Coating Components
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as7378
+- type: src
+  content: https://saemobilus.sae.org/standards/as7378-test-method-condition-container-liquid-organic-coating-components
+docidentifier:
+- content: SAE AS7378
+  type: SAE
+  primary: true
+- content: 10.4271/as7378
+  type: DOI
+date:
+- type: approved
+  at: '2020-08-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G8 Aerospace Organic Coatings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This test method covers procedures to qualitatively determine the visual and physical condition of a liquid organic coating component (pigmented base, base without pigment, curing solution, or thinner) in a container. Also covered is evaluation of the component container to determine any degradation.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEUSCAR52
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: USCAR FRONTAL AIRBAG PERFORMANCE SPECIFICATION
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar52
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar52-uscar-frontal-airbag-performance-specification
+docidentifier:
+- content: SAE USCAR-52
+  type: SAE
+  primary: true
+- content: 10.4271/uscar52
+  type: DOI
+date:
+- type: approved
+  at: '2025-04-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes the DV/PV performance and validation requirements for frontal airbag modules, namely driver, passenger, and knee airbags. In cases where airbag designs fall outside the scope of this standard, the Responsible Vehicle Engineering Organization (RVEO) is the final arbiter of all performance requirements within this specification.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Additional system level requirements may be introduced by the RVEO but are outside the scope of this specification.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

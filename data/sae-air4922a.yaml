@@ -1,0 +1,58 @@
+---
+id: SAEAIR4922A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Primary Flight Control Hydraulic Actuation System Interface Definition
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4922a
+- type: src
+  content: https://saemobilus.sae.org/standards/air4922a-primary-flight-control-hydraulic-actuation-system-interface-definition
+docidentifier:
+- content: SAE AIR4922A
+  type: SAE
+  primary: true
+- content: 10.4271/air4922a
+  type: DOI
+date:
+- type: approved
+  at: '2015-10-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A3 Flight Control and Vehicle Management Systems Cmt
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides a description of the interfaces and their requirements for generic and specific hydraulic actuation systems used in the flight control systems of manned aircraft. Included are the basic control system characteristics and functional requirements, and the essential interfaces (structural, mechanical, hydraulic power, control input, status monitoring, and environment). Major design issues, requirements, and other considerations are presented and discussed.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

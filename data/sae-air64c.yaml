@@ -1,0 +1,60 @@
+---
+id: SAEAIR64C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electrical and Electronic Equipment Cooling in Commercial Transports
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air64c
+- type: src
+  content: https://saemobilus.sae.org/standards/air64c-electrical-electronic-equipment-cooling-commercial-transports
+docidentifier:
+- content: SAE AIR64C
+  type: SAE
+  primary: true
+- content: 10.4271/air64c
+  type: DOI
+date:
+- type: approved
+  at: '2021-08-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document considers the cooling of equipment installed in equipment centers, which usually consist of rack-mounted equipment and panel mounted equipment in the flight deck. Instances where these two locations result in different requirements are identified. This document generally refers to the cooled equipment as E/E equipment, denoting that both electrical and electronic equipment is considered, or as an E/E equipment line-replaceable-unit (LRU). The majority of cooled equipment takes the form of LRUs. The primary focus of this document is E/E equipment which uses forced air cooling to keep the equipment within acceptable environmental limits. These limits ensure the equipment operates reliably and within acceptable tolerances. Cooling may be supplied internally or externally to the E/E equipment case. Some E/E equipment is cooled solely by natural convection, conduction, and radiation to the surrounding environment.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document discusses specification requirements, system design considerations, component design, and system testing. It also discusses the analysis and test considerations for the thermal design of the avionic equipment. The discussion of supplementary cooling systems includes consideration of a refrigeration system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document just covers air cooling of equipment. AIR1811 should be consulted for information on liquid cooling of equipment.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Although this document is targeted at transport category airplanes, most of the material applies to other classes of aircraft with possible adaptions.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

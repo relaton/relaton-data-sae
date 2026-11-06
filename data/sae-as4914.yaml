@@ -1,0 +1,56 @@
+---
+id: SAEAS4914
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AIRCRAFT FLUORESCENT LIGHTING BALLAST/FIXTURE SAFETY DESIGN STANDARD
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4914
+- type: src
+  content: https://saemobilus.sae.org/standards/as4914-aircraft-fluorescent-lighting-ballast-fixture-safety-design-standard
+docidentifier:
+- content: SAE AS4914
+  type: SAE
+  primary: true
+- content: 10.4271/as4914
+  type: DOI
+date:
+- type: approved
+  at: '1994-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20AC Crew Station and Interior Lighting Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document does not dictate a specific design approach or technology, but rather it provides design consideration to assist the specification writer in establishing a fail/safe design.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

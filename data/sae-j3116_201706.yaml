@@ -1,0 +1,56 @@
+---
+id: SAEJ3116_201706
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Active Safety Pedestrian Test Mannequin Recommendation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3116_201706
+- type: src
+  content: https://saemobilus.sae.org/standards/j3116_201706-active-safety-pedestrian-test-mannequin-recommendation
+docidentifier:
+- content: SAE J3116_201706
+  type: SAE
+  primary: true
+- content: 10.4271/j3116_201706
+  type: DOI
+date:
+- type: approved
+  at: '2017-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Active Safety and Driver Support Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The goal of the Pedestrian Test Mannequin Task Force is to develop standard specifications/requirements for pedestrian test mannequins (1 adult and 1 child) that are representative of real pedestrians to the sensors used in Pedestrian Detection systems and can be used for performance assessment of such in-vehicle systems (including warning and/or braking) in real world test scenarios/conditions. This version of the document only includes the pedestrian mannequin for vision, Lidar, and/or 76 to 78 GHz radar based Pedestrian Pre-collision systems.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

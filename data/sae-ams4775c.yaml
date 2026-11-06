@@ -1,0 +1,57 @@
+---
+id: SAEAMS4775C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BRAZING FILLER METAL, NICKEL 73Ni - 4.5Si - 14Cr - 3.1B - 4.5Fe 1790° -
+    1970°F (975° - 1075°C) Solidus-Liquidus Range
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4775c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4775c-brazing-filler-metal-nickel-73ni-45si-14cr-31b-45fe-1790-1970f-975-1075c-solidus-liquidus-range
+docidentifier:
+- content: SAE AMS4775C
+  type: SAE
+  primary: true
+- content: 10.4271/ams4775c
+  type: DOI
+date:
+- type: approved
+  at: '1981-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a nickel alloy in the form of wire, rod, strip, foil, and powder and a viscous mixture (paste) of the powder in a suitable binder.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

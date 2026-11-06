@@ -1,0 +1,56 @@
+---
+id: SAEAS5379
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Valves, Safety, Cabin Air, General Specification For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5379
+- type: src
+  content: https://saemobilus.sae.org/standards/as5379-valves-safety-cabin-air-general-specification
+docidentifier:
+- content: SAE AS5379
+  type: SAE
+  primary: true
+- content: 10.4271/as5379
+  type: DOI
+date:
+- type: approved
+  at: '1999-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the general requirements for cabin air safety valves for use in pressurized cabins of aircraft to prevent excess positive and negative pressures in the cabin and to provide a means of cabin pressure release in case of emergency.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

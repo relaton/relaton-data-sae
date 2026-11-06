@@ -1,0 +1,66 @@
+---
+id: SAEJ3099_202504
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Driver Seating Accommodation and Steering Wheel Location Models
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3099_202504
+- type: src
+  content: https://saemobilus.sae.org/standards/j3099_202504-driver-seating-accommodation-steering-wheel-location-models
+docidentifier:
+- content: SAE J3099_202504
+  type: SAE
+  primary: true
+- content: 10.4271/j3099_202504
+  type: DOI
+date:
+- type: approved
+  at: '2025-04-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Human Accom and Design Devices Stds Comm
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This practice presents methods for establishing the driver workspace. Methods are presented for:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Establishing accelerator reference points, including the equation for calculating the shoe plane angle&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Locating the SgRP as a function of seat height (H30)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Establishing seat track dimensions using the seating accommodation model&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Establishing a steering wheel position&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;Application of this document is limited to Class-A Vehicles (Passenger Cars, Multipurpose Passenger Vehicles, and Light Trucks) as defined in SAE J1100.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

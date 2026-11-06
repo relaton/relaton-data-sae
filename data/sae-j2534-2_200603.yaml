@@ -1,0 +1,59 @@
+---
+id: SAEJ25342_200603
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Optional Pass-Thru Features
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2534/2_200603
+- type: src
+  content: https://saemobilus.sae.org/standards/j25342_200603-optional-pass-thru-features
+docidentifier:
+- content: SAE J2534/2_200603
+  type: SAE
+  primary: true
+- content: 10.4271/j2534/2_200603
+  type: DOI
+date:
+- type: approved
+  at: '2006-03-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE J2534-1 defines a standard vehicle network interface that can be used to reprogram emission-related control modules. However, there is a need to support vehicles prior to the 2004 model year as well as non-emission related control modules.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The SAE J2534-2 document meets these needs by detailing extensions to an SAE J2534-1 interface. Together, these extensions provide the framework for a common interface to protect the software investment of the Vehicle OEMs and Scan Tool manufacturers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Only the optional features will be described by this document. Unless otherwise noted it is expected that these features are added to a fully compliant interface adhering to the December 2004 publication of SAE J2534-1.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

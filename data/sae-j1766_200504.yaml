@@ -1,0 +1,62 @@
+---
+id: SAEJ1766_200504
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Recommended Practice for Electric and Hybrid Electric Vehicle Battery Systems
+    Crash Integrity Testing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1766_200504
+- type: src
+  content: https://saemobilus.sae.org/standards/j1766_200504-recommended-practice-electric-hybrid-electric-vehicle-battery-systems-crash-integrity-testing
+docidentifier:
+- content: SAE J1766_200504
+  type: SAE
+  primary: true
+- content: 10.4271/j1766_200504
+  type: DOI
+date:
+- type: approved
+  at: '2005-04-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Cell Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Electric, Fuel Cell and Hybrid vehicles may contain many types of high voltage systems. Adequate barriers between occupants and the high voltage systems are necessary to provide protection from potentially harmful electric current and materials within the high voltage system that can cause injury to occupants of the vehicle during a crash. This SAE Recommended Practice is applicable to all Electric, Fuel Cell and Hybrid vehicle designs that are comprised of at least one voltage bus with a nominal voltage greater than or equal to 60 Volts DC or 30 VAC. This Recommended Practice addresses electrical isolation integrity, electrolyte spillage, and retention of the battery system.&lt;/div&gt;
+
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

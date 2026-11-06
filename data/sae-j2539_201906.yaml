@@ -1,0 +1,56 @@
+---
+id: SAEJ2539_201906
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Comparison of GATS Messages to SAE ATIS Standards
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2539_201906
+- type: src
+  content: https://saemobilus.sae.org/standards/j2539_201906-comparison-gats-messages-sae-atis-standards
+docidentifier:
+- content: SAE J2539_201906
+  type: SAE
+  primary: true
+- content: 10.4271/j2539_201906
+  type: DOI
+date:
+- type: approved
+  at: '2019-06-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Core Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report provides a comparative summary between the various messages found in the SAE ATIS standards work (notably SAE J2313, J2353, J2354, J2369 and J2374) and that found in the GATS standard (Global Automotive Telematics Standard). GATS is a message set meant to be deployed on mobile phone systems based on the GSM (Global System for Mobile Communication) phone system which is being deployed in European markets and which the SAE may need to harmonize with as part of the World Standards activities of TC204. This document provides an overview of the various types of supported messages and how they compare with US terms and messages. Some selected features of the GATS work are recommended for assimilation into the next revision of ATIS standards. No attempt at determining a U.S. policy in this regard is provided. This document seeks to provide the reader familiar with SAE ATIS with a high level overview of technical knowledge of the GATS approach in similar areas.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

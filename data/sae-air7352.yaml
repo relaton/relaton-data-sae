@@ -1,0 +1,56 @@
+---
+id: SAEAIR7352
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Additively Manufactured Component Substantiation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air7352
+- type: src
+  content: https://saemobilus.sae.org/standards/air7352-additively-manufactured-component-substantiation
+docidentifier:
+- content: SAE AIR7352
+  type: SAE
+  primary: true
+- content: 10.4271/air7352
+  type: DOI
+date:
+- type: approved
+  at: '2019-10-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS AM Additive Manufacturing
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AIR is applicable to components fabricated using additive manufacturing (AM) processes. The discussion is generic with respect to specific additive processes as much as possible. Each additive process has unique considerations that should be addressed in any effort to substantiate additively manufactured components, This specification is written for metallics but conceptually could be applied to non-metallics.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

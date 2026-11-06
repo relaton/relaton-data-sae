@@ -1,0 +1,57 @@
+---
+id: SAEJ2016_200802
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Chemical Stress Resistance of Polymers
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2016_200802
+- type: src
+  content: https://saemobilus.sae.org/standards/j2016_200802-chemical-stress-resistance-polymers
+docidentifier:
+- content: SAE J2016_200802
+  type: SAE
+  primary: true
+- content: 10.4271/j2016_200802
+  type: DOI
+date:
+- type: approved
+  at: '2008-02-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Plastics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This SAE Recommended Practice provides a screening procedure for evaluating the susceptibility of plastics to environmental stress cracking by testing their resistance to pure solvents or their mixtures.  This method can be used to evaluate effect of complex chemical mixtures with unknown or suspect components, which may be encountered in the polymer's environment.&lt;/p&gt;
+
+
+
+    &lt;p&gt;The list of chemicals in Appendix A is intended only to serve as a guide and does not exclude any chemical that may represent the environment the polymer is subjected to in a specific application.  As specific environment and exposure conditions are application dependent and could vary significantly from one application to another, the user of the document is recommended to choose the appropriate solvents relevant to the actual application enviroment and is not under any obligation to test the effect of all the chemicals listed in Appendix A.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

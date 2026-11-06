@@ -1,0 +1,59 @@
+---
+id: SAEAS4941B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace - General Requirements for Commercial Aircraft Hydraulic Components
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4941b
+- type: src
+  content: https://saemobilus.sae.org/standards/as4941b-aerospace-general-requirements-commercial-aircraft-hydraulic-components
+docidentifier:
+- content: SAE AS4941B
+  type: SAE
+  primary: true
+- content: 10.4271/as4941b
+  type: DOI
+date:
+- type: approved
+  at: '2015-03-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A1 Commercial Aircraft Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) provides general requirements for components that are used in commercial aircraft hydraulic systems. It also includes the 14 CFR Part 25/CS 25 regulations that apply to hydraulic components.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It also provides information to be included in the Procurement Specification in &lt;span class="xref"&gt;Appendix A&lt;/span&gt; and a checklist for design reviews in &lt;span class="xref"&gt;Appendix B&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It does not provide requirements for distribution elements such as hoses, pipe fittings and general tubing.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

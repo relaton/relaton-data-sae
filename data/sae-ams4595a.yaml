@@ -1,0 +1,57 @@
+---
+id: SAEAMS4595A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Copper-Nickel-Tin Alloy Plate, 77Cu - 15Ni - 8Sn, Solution Annealed and
+    Spinodal Hardened (TX02, formerly TX00)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4595a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4595a-copper-nickel-tin-alloy-plate-77cu-15ni-8sn-solution-annealed-spinodal-hardened-tx02-formerly-tx00
+docidentifier:
+- content: SAE AMS4595A
+  type: SAE
+  primary: true
+- content: 10.4271/ams4595a
+  type: DOI
+date:
+- type: approved
+  at: '2025-11-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a copper-nickel-tin alloy in the form of plate over 0.188 to 4.50 inches (4.77 to 114.3 mm) in nominal thickness (see &lt;span class="xref"&gt;8.8&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

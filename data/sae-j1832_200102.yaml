@@ -1,0 +1,131 @@
+---
+id: SAEJ1832_200102
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Low Pressure Gasoline Fuel Injector
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1832_200102
+- type: src
+  content: https://saemobilus.sae.org/standards/j1832_200102-low-pressure-gasoline-fuel-injector
+docidentifier:
+- content: SAE J1832_200102
+  type: SAE
+  primary: true
+- content: 10.4271/j1832_200102
+  type: DOI
+date:
+- type: approved
+  at: '2001-02-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Gasoline Fuel Injection Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice promotes uniformity in the evaluation and qualification tests conducted on fuel injectors used in gasoline engine applications. Its scope is limited to electronically actuated fuel injection devices used in automotive port or throttle body fuel injection systems where fuel supply pressure is below 1000 kPa. It is primarily restricted to bench tests. More specifically, this document is intended for use as a guide to the following:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Standardize use of nomenclature specifically related to fuel injectors.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;Identify and define those parameters that are used to measure fuel injector characteristics or performance. The parameters included in this document are listed along with their recommended symbol where appropriate:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Closing Time (CT)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Inductance (L)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Coil Resistance (R)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Dynamic Flow (Q&lt;sub&gt;d&lt;/sub&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Dynamic Flow Calculated (Q&lt;sub&gt;dc&lt;/sub&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Dynamic Flow Rate (Q)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Dynamic Flow Temperature Shift (Q&lt;sub&gt;td&lt;/sub&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Dynamic Flow Vacuum Shift (Q&lt;sub&gt;vd&lt;/sub&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Dynamic Minimum Operating Voltage (DMOV)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Dynamic Set Point (PW&lt;sub&gt;xx&lt;/sub&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Dynamic Set Point Flow (Q&lt;sub&gt;sp&lt;/sub&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;External Leakage&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Flow-Offset (Y)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Insulation Resistance (IR)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Linear Flow Range (LFR)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Linearity Deviation (LD)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Maximum Overload Voltage&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Opening Time (OT)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Operating Voltage Range&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Period (P)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Pulse Width (PW)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Pressure Drop Ratio (PDR)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Repeatability&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Slope (m)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Slope Approximated (m&lt;sub&gt;a&lt;/sub&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Spray Pattern&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Stability (S)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Static Drop-Out Current (I/S-OFF)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Static Flow Rate (Qs)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Static Minimum Operating Voltage (SMOV)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Static Pull-In Current (I/S-ON)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Time-Offset (X)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Working Flow Range (WFR)&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;Establish test procedures and recommend test equipment and methods to measure and quantify these parameters.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Establish test procedures, and recommend test equipment and methods to quantify simulated field reliability over the life of the component.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Except where stated, test results are recorded for individual parts under recommended test conditions. Where population characteristics are reported, the sample size, selection method, and analysis technique must be explicitly stated.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Any testing practices which are different than those recommended in this specification should be noted on the data collection sheet.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

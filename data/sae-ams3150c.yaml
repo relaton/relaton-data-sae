@@ -1,0 +1,58 @@
+---
+id: SAEAMS3150C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fluid, Hydraulic Fire Resistant
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3150c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3150c-fluid-hydraulic-fire-resistant
+docidentifier:
+- content: SAE AMS3150C
+  type: SAE
+  primary: true
+- content: 10.4271/ams3150c
+  type: DOI
+date:
+- type: approved
+  at: '1986-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>1. ACKNOWLEDGMENT: A vendor shall mention this specification number and its
+    revision letter in all quotations and when acknowledging purchase orders.
+    2. APPLICATION: , For use in commercial aircraft hydraulic systems.
+    3. COMPOSITION: There shall be no restrictions on the type of materials used
+    in the fluid except those imposed by the technical requirements of this
+    specification.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

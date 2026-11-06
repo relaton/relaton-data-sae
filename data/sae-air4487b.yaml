@@ -1,0 +1,57 @@
+---
+id: SAEAIR4487B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Investigation of Silver-Plated Conductor Corrosion (Red Plague)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4487b
+- type: src
+  content: https://saemobilus.sae.org/standards/air4487b-investigation-silver-plated-conductor-corrosion-red-plague
+docidentifier:
+- content: SAE AIR4487B
+  type: SAE
+  primary: true
+- content: 10.4271/air4487b
+  type: DOI
+date:
+- type: approved
+  at: '2019-10-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8D Wire and Cable Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) shall be limited to information about a specific corrosion mechanism of silver-plated conductors that produces cuprous/cupric oxide deposits (Red Plague). It examines some possible causes and some recommendations to minimize the possibility of its occurrence. It also provides a number of reference documents that describe the corrosion in detail, methods to determine conductor damage, methods to produce the corrosion, and other investigative reports of this phenomena and their conclusions.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

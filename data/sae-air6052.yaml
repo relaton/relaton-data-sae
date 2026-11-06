@@ -1,0 +1,57 @@
+---
+id: SAEAIR6052
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Trimmable Horizontal Stabilizer Actuator Descriptions
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6052
+- type: src
+  content: https://saemobilus.sae.org/standards/air6052-trimmable-horizontal-stabilizer-actuator-descriptions
+docidentifier:
+- content: SAE AIR6052
+  type: SAE
+  primary: true
+- content: 10.4271/air6052
+  type: DOI
+date:
+- type: approved
+  at: '2011-09-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6B3 Electro-Mechanical Actuation Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this AIR is to provide a comprehensive description document that displays various examples of transport and business aircraft systems driving Trimmable Horizontal Stabilizers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The main focus is on mechanical systems which may be actuated hydraulically or electrically. The document is intended as an overview for those specifying or designing Horizontal Stabilizer Trim Actuators in order to compare existing solutions as reference for implementation in new aircraft programs.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

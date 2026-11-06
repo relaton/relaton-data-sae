@@ -1,0 +1,54 @@
+---
+id: SAEAMS5799D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nickel Alloy, Corrosion and Heat Resistant, Covered Welding Electrodes
+    48ni 22cr 1.5co 9.0mo 0.60w 18.5fe
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5799d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5799d-nickel-alloy-corrosion-heat-resistant-covered-welding-electrodes-48ni-22cr-15co-90mo-060w-185fe
+docidentifier:
+- content: SAE AMS5799D
+  type: SAE
+  primary: true
+- content: 10.4271/ams5799d
+  type: DOI
+date:
+- type: approved
+  at: '1996-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: <p>This specification has been declared "CANCELLED" by the Aerospace Materials
+    Division, SAE, as of April 1996 and has been superseded by AWS A5.11 ENiCrMo-2.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

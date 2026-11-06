@@ -1,0 +1,56 @@
+---
+id: SAEAMS1380
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SCALE CONDITIONER, ALKALINE Aircraft Turbine Engine Components
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams1380
+- type: src
+  content: https://saemobilus.sae.org/standards/ams1380-scale-conditioner-alkaline-aircraft-turbine-engine-components
+docidentifier:
+- content: SAE AMS1380
+  type: SAE
+  primary: true
+- content: 10.4271/ams1380
+  type: DOI
+date:
+- type: approved
+  at: '1985-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS J Aircraft Maintenance Chemicals and Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a strongly alkaline scale conditioner in the form of a liquid or a water-soluble powder.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

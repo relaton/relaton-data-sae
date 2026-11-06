@@ -1,0 +1,60 @@
+---
+id: SAEJ1230_199811
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Minimum Requirements for Wheel-Slip Brake-Control System Malfunction Signals
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1230_199811
+- type: src
+  content: https://saemobilus.sae.org/standards/j1230_199811-minimum-requirements-wheel-slip-brake-control-system-malfunction-signals
+docidentifier:
+- content: SAE J1230_199811
+  type: SAE
+  primary: true
+- content: 10.4271/j1230_199811
+  type: DOI
+date:
+- type: approved
+  at: '1998-11-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Brake and Adv Driver Assistance Systems SC
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>It is recognized that a malfunction in any one of the specified areas
+    can degrade intended performance, but that levels of malfunction or combinations
+    thereof must be considered by the vehicle designer in determining the point at
+    which a failure indication is warranted. Consequently, the minimum reaction recommended
+    by this document consists of making available a malfunction signal. \n\nThis SAE
+    Recommended Practice establishes a uniform minimum set of functional areas to
+    be monitored in the process of detecting malfunctions in discrete wheel-slip brake-control
+    systems for motor vehicles, and establishes a minimum reaction to those detected
+    malfunctions.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAMS5801G
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Cobalt Alloy, Corrosion and Heat-Resistant, Welding Wire 39Co - 22Cr -
+    22Ni - 14.5W - 0.07La
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5801g
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5801g-cobalt-alloy-corrosion-heat-resistant-welding-wire-39co-22cr-22ni-145w-007la
+docidentifier:
+- content: SAE AMS5801G
+  type: SAE
+  primary: true
+- content: 10.4271/ams5801g
+  type: DOI
+date:
+- type: approved
+  at: '2018-08-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat-resistant cobalt alloy in the form of welding wire.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

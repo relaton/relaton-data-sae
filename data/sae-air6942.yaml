@@ -1,0 +1,56 @@
+---
+id: SAEAIR6942
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nitrogen Absorption/Desorption (Gas Dissolution) in Aircraft Shock Absorbers
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6942
+- type: src
+  content: https://saemobilus.sae.org/standards/air6942-nitrogen-absorption-desorption-gas-dissolution-aircraft-shock-absorbers
+docidentifier:
+- content: SAE AIR6942
+  type: SAE
+  primary: true
+- content: 10.4271/air6942
+  type: DOI
+date:
+- type: approved
+  at: '2025-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document outlines the current state of the art in the understanding of gas in solution in shock absorber oils (hydraulic fluid, referred to hereafter as oil or fluid [refer to AIR5358B]) in unseparated shock absorbers. A literature review, overview of Henry’s law, Henry’s law coefficients for known gas and oil couples, in-service operational problems, lessons learned, and potential future work are discussed in the document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

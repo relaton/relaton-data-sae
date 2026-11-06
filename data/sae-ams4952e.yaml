@@ -1,0 +1,56 @@
+---
+id: SAEAMS4952E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Titanium Alloy, Welding Wire 6Al - 2Sn - 4Zr - 2Mo
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4952e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4952e-titanium-alloy-welding-wire-6al-2sn-4zr-2mo
+docidentifier:
+- content: SAE AMS4952E
+  type: SAE
+  primary: true
+- content: 10.4271/ams4952e
+  type: DOI
+date:
+- type: approved
+  at: '2011-09-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G Titanium and Refractory Metals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a titanium alloy in the form of welding wire.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

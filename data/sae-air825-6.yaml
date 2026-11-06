@@ -1,0 +1,80 @@
+---
+id: SAEAIR8256
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: On Board Oxygen Generating Systems (Molecular Sieve)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air825/6
+- type: src
+  content: https://saemobilus.sae.org/standards/air8256-board-oxygen-generating-systems-molecular-sieve
+docidentifier:
+- content: SAE AIR825/6
+  type: SAE
+  primary: true
+- content: 10.4271/air825/6
+  type: DOI
+date:
+- type: approved
+  at: '2012-04-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The information provided in SAE AIR825/6 applies to On Board Oxygen Generating Systems (OBOGS) - Molecular Sieve, that utilize the ability of molecular sieve materials by using Pressure Swing Adsorption Process (PSA) to separate and concentrate oxygen in the product gas from the surrounding air, respectively air provided by any compressor or by the aircraft engine (so called: Bleed Air), and to provide this oxygen enriched air or product gas as supplemental oxygen for breathing gas supply of crew and passengers onboard aircraft. The distribution system and the provided oxygen concentration have to fulfill the respective FAA/JAA regulations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Equipment using this technology to provide supplemental oxygen for breathing gas supply of crew and passengers onboard aircraft, the suitable breathing gas oxygen partial pressure or oxygen concentration requirements are specified in AIR825/2 and the oxygen purity requirements in AS8010.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: OBOGS has never been certified for commercial aircraft. The FAR/JAR 25 as well as FAR 121/JAR-OPS need to be reviewed and if necessary amended prior to introduction of OBOGS. Alternatively, such certification will likely incorporate various special conditions that address differences in performance between OBOGS and conventional systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These systems are intended for:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;the on-line breathing gas supply to directly account for the normal oxygen usage of crew and passengers in terms of:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;supplemental oxygen for part or all of an emergency descent&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;supplemental oxygen for first aid&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;therapeutic oxygen&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;the replenishment of the aircraft gaseous oxygen system storage cylinders to account for the normal oxygen usage of crew and passengers and system leakage&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;a combination of the above.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;The possible applicability and benefit of incorporation of OBOGS-Molecular Sieve into non-military aircraft is being considered by the representatives of Civil Aviation. The intended aim of AIR825/6 is to provide a fundamental description of the function of existing OBOGS-Molecular-Sieve systems with a related reference to the type of oxygen standards which would merit a review.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

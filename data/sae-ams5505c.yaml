@@ -1,0 +1,57 @@
+---
+id: SAEAMS5505C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL SHEET, STRIP, AND PLATE, CORROSION AND MODERATE HEAT RESISTANT 12Cr
+    (SAE 51410 Modified) Ferrite Controlled, Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5505c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5505c-steel-sheet-strip-plate-corrosion-moderate-heat-resistant-12cr-sae-51410-modified-ferrite-controlled-annealed
+docidentifier:
+- content: SAE AMS5505C
+  type: SAE
+  primary: true
+- content: 10.4271/ams5505c
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and moderate heat resistant steel in the form of sheet, strip, and plate.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

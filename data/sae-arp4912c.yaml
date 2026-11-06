@@ -1,0 +1,58 @@
+---
+id: SAEARP4912C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Design Recommendations for Spare Seals in Landing Gear Shock Struts
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4912c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4912c-design-recommendations-spare-seals-landing-gear-shock-struts
+docidentifier:
+- content: SAE ARP4912C
+  type: SAE
+  primary: true
+- content: 10.4271/arp4912c
+  type: DOI
+date:
+- type: approved
+  at: '2025-03-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides recommendations on cavity design, the installation of elastomer type spare seals in these cavities, and information surrounding elastomer material properties after contact with typical shock absorber hydraulic fluid(s) or grease. This ARP is primarily concerned with the use of spare seals on shock absorbers where only a single dynamic seal is fitted and in contact with the slider/shock absorber piston at any one time.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These shock absorbers typically have a spare (dynamic) seal gland located on the outer diameter of the lower seal carrier. This spare seal gland is intended to house a spare elastomer contact seal. Split Polytetrafluoroethylene (PTFE) backup rings can also be installed in the spare seal cavity.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;During operation, if the fitted dynamic shock absorber standard seal begins to fail/leak, then the aircraft can be jacked up, allowing the lower gland nut of the shock absorber to be dropped down. The current used dynamic seal can be cut free, and the spare elastomer seal can be stretched over the seal carrier ring into the dynamic seal position. The shock absorber can be re-assembled and then the landing gear is ready to continue operation with a new seal in position after this relatively simple procedure.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

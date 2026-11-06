@@ -1,0 +1,54 @@
+---
+id: SAEAMS6546F
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Sheet, Strip, and Plate 0.48cr 8.0ni 4.0co 0.48mo 0.09v (0.24-0.30c)
+    Consumable Electrode Melted, Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6546f
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6546f-steel-sheet-strip-plate-048cr-80ni-40co-048mo-009v-024-030c-consumable-electrode-melted-annealed
+docidentifier:
+- content: SAE AMS6546F
+  type: SAE
+  primary: true
+- content: 10.4271/ams6546f
+  type: DOI
+date:
+- type: approved
+  at: '2001-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers a premium aircraft-quality, low-alloy steel
+    in the form of sheet, strip, and plate.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

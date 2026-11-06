@@ -1,0 +1,58 @@
+---
+id: SAEMA2126B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hose Assembly, Polytetrafluoroethylene (PTFE), up to 232 °C and 10 500
+    kPa Procurement Specification, Metric (ISO/DIS 10502)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma2126b
+- type: src
+  content: https://saemobilus.sae.org/standards/ma2126b-hose-assembly-polytetrafluoroethylene-ptfe-232-c-10-500-kpa-procurement-specification-metric-iso-dis-10502
+docidentifier:
+- content: SAE MA2126B
+  type: SAE
+  primary: true
+- content: 10.4271/ma2126b
+  type: DOI
+date:
+- type: approved
+  at: '2015-08-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Metric Aerospace Standard (MA) covers the requirements for polytetrafluoroethylene (PTFE) hose assemblies for use in aerospace hydraulic, fuel, and lubricating oil systems at temperatures between -55°C and 232°C for Class I assemblies, -55°C and 135°C for Class II assemblies, and at nominal pressures up to 10 500 kPa (105 bar). The hose assemblies are also suitable for use within the same temperature and pressure limitations in aerospace pneumatic systems where some gaseous diffusion through the wall of the PTFE liner can be tolerated.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The use of these hose assemblies in pneumatic storage systems is not recommended. In addition, installations in which the limits specified herein are exceeded, or in which the application is not covered specifically by this standard, for example oxygen, shall be subject to the approval of the purchaser.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

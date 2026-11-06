@@ -1,0 +1,48 @@
+---
+id: SAEARP572
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ELBOW ASSEMBLY - SHIELDED SPARK PLUG - .750-20 THREAD
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp572
+- type: src
+  content: https://saemobilus.sae.org/standards/arp572-elbow-assembly-shielded-spark-plug-750-20-thread
+docidentifier:
+- content: SAE ARP572
+  type: SAE
+  primary: true
+- content: 10.4271/arp572
+  type: DOI
+date:
+- type: approved
+  at: '1992-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-30 Propulsion Ignition Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

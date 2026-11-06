@@ -1,0 +1,57 @@
+---
+id: SAEARP594B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FUEL BOOSTER PUMP DESIGN PROVISIONS FOR AUTOGENOUS AND SPARK IGNITION PREVENTION
+    AND CONTROL
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp594b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp594b-fuel-booster-pump-design-provisions-autogenous-spark-ignition-prevention-control
+docidentifier:
+- content: SAE ARP594B
+  type: SAE
+  primary: true
+- content: 10.4271/arp594b
+  type: DOI
+date:
+- type: approved
+  at: '1965-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5B Aircraft and Engine Fuel and Lubricant Sys Components
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;These recommendations cover only those design factors which might cause the pump motor or pump housing to act as an autogenous or spark-ignition source for explosive fuel vapors within the airplane tank.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

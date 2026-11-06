@@ -1,0 +1,58 @@
+---
+id: SAEJ31172_202111
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 1000BASE-T1 Un-Shielded and Shielded Balanced Single Twisted Pair Ethernet
+    Cable
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3117/2_202111
+- type: src
+  content: https://saemobilus.sae.org/standards/j31172_202111-1000base-t1-un-shielded-shielded-balanced-single-twisted-pair-ethernet-cable
+docidentifier:
+- content: SAE J3117/2_202111
+  type: SAE
+  primary: true
+- content: 10.4271/j3117/2_202111
+  type: DOI
+date:
+- type: approved
+  at: '2021-11-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Cable Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard covers un-shielded (JUTP) and shielded (STP) balanced single twisted pair jacketed data cable intended for use in surface vehicle cables for 1 Gb/s ethernet applications. The tests in this standard are intended to qualify cables for normal operation in an automotive environment while maintaining the necessary electrical properties for reliable data transmission.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

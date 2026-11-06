@@ -1,0 +1,70 @@
+---
+id: SAEAIR11689A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Thermophysical Properties of the Natural Environment, Gases, Liquids, and
+    Solids
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1168/9a
+- type: src
+  content: https://saemobilus.sae.org/standards/air11689a-thermophysical-properties-natural-environment-gases-liquids-solids
+docidentifier:
+- content: SAE AIR1168/9A
+  type: SAE
+  primary: true
+- content: 10.4271/air1168/9a
+  type: DOI
+date:
+- type: approved
+  at: '2011-07-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AIR is arranged in the following four sections:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;2A&lt;/span&gt; - Properties of the Natural Environment&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;2B&lt;/span&gt; - Properties of Gases&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;2C&lt;/span&gt; - Properties of Liquids&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;2D&lt;/span&gt; - Properties of Solids&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;A summary of each section is given below.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

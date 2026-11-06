@@ -1,0 +1,57 @@
+---
+id: SAEJ2735_200911
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: "(R) Dedicated Short Range Communications (DSRC) Message Set Dictionary"
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2735_200911
+- type: src
+  content: https://saemobilus.sae.org/standards/j2735_200911-r-dedicated-short-range-communications-dsrc-message-set-dictionary
+docidentifier:
+- content: SAE J2735_200911
+  type: SAE
+  primary: true
+- content: 10.4271/j2735_200911
+  type: DOI
+date:
+- type: approved
+  at: '2009-11-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Core Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard specifies a message set, and its data frames and data elements specifically for use by applications intended to utilize the 5.9 GHz Dedicated Short Range Communications for Wireless Access in Vehicular Environments (DSRC/WAVE, referenced in this document simply as “DSRC”), communications systems. Although the scope of this Standard is focused on DSRC, this message set, and its data frames and data elements have been designed, to the extent possible, to also be of potential use for applications that may be deployed in conjunction with other wireless communications technologies. This Standard therefore specifies the definitive message structure and provides sufficient background information to allow readers to properly interpret the message definitions from the point of view of an application developer implementing the messages according to the DSRC Standards.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

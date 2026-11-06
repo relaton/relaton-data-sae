@@ -1,0 +1,48 @@
+---
+id: SAEAS33698A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: INSERT ARRANGEMENTS, ELECTRIC CONNECTOR, SHELL SIZE 3 (FOR AS81703 CONNECTORS)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as33698a
+- type: src
+  content: https://saemobilus.sae.org/standards/as33698a-insert-arrangements-electric-connector-shell-size-3-as81703-connectors
+docidentifier:
+- content: SAE AS33698A
+  type: SAE
+  primary: true
+- content: 10.4271/as33698a
+  type: DOI
+date:
+- type: approved
+  at: '2022-01-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C1 Connectors Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

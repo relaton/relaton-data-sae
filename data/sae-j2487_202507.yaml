@@ -1,0 +1,71 @@
+---
+id: SAEJ2487_202507
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SAE No. 2 Friction Test Machine 3600 rpm Stepped Power Test
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2487_202507
+- type: src
+  content: https://saemobilus.sae.org/standards/j2487_202507-sae-no-2-friction-test-machine-3600-rpm-stepped-power-test
+docidentifier:
+- content: SAE J2487_202507
+  type: SAE
+  primary: true
+- content: 10.4271/j2487_202507
+  type: DOI
+date:
+- type: approved
+  at: '2025-07-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Automatic Transmission and Transaxle Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice is intended as the definition of a standard test, but it may be subject to frequent change to keep pace with experience and technical advances. This should be kept in mind when considering its use.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The SAE No. 2 Friction Test Machine is used to evaluate the friction characteristics of automatic transmission plate clutches with automotive transmission fluids. It can also be used to conduct durability tests on wet friction systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The specific purpose of this document is to define a 3600 rpm stepped power test for the evaluation of wet friction system performance variation as a function of power level. This procedure uses an initial engagement speed of 3600 rpm and is intended as a standard procedure for common use by both suppliers and end users.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The only variables selected by the supplier or user of the friction system are:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Friction material&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Fluid&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Reaction plates&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;These three variables must be clearly identified when reporting the results of using this test. If any of the test parameters or system hardware as described in this document are changed, other than the friction material, test fluid, or reaction plates, the data may not be reported as having been obtained using this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This procedure is not intended to evaluate the initial coefficient or break-in characteristics. For this information, refer to SAE J2490.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

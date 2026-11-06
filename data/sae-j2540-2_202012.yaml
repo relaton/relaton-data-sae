@@ -1,0 +1,59 @@
+---
+id: SAEJ25402_202012
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ITIS Phrase Lists (International Traveler Information Systems)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2540/2_202012
+- type: src
+  content: https://saemobilus.sae.org/standards/j25402_202012-itis-phrase-lists-international-traveler-information-systems
+docidentifier:
+- content: SAE J2540/2_202012
+  type: SAE
+  primary: true
+- content: 10.4271/j2540/2_202012
+  type: DOI
+date:
+- type: approved
+  at: '2020-12-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Core Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard provides a table of textual messages meeting the requirements for expressing International Traveler Information Systems (ITIS) phrases commonly used in the ITS industry. The tables provided herein follow the rules of SAE J2540 and therefore allow a local representation in various different languages, media expressions, etc., to allow true international use of these phrases. The phrases are predominantly intended for use in the description of traffic-related events of interest to travelers and other traffic practitioners. Other phrases exist for other specific specialty areas of ITS, and all such phrases follow a set of encoding and decoding rules outlined in SAE J2540 to ensure that the use of these phrases in messages remain interoperable between disparate types of user equipment.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Implementers are cautioned to obtain the most recent set of tables by means of the ITS data registry, a process which involves SAE and other standards-setting organizations, and which is intended to maintain and enhance the level of harmonization among ITS standards set by each of the organizations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard defines the normative index values to be used to provide phrases needed by ITS practitioners. This standard provides non-normative textual phrases which MAY be used by implementers to ensure intelligible results. This standard follows the formats and rules established in SAE J2540 in the expressions, manipulations, and use of such tables.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It should be pointed out that within the rules established by this standard, a variety of final tables are all considered “conformant” with the standard, and may vary as fits the needs of implementers.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

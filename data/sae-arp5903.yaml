@@ -1,0 +1,58 @@
+---
+id: SAEARP5903
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Droplet Impingement and Ice Accretion Computer Codes
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5903
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5903-droplet-impingement-ice-accretion-computer-codes
+docidentifier:
+- content: SAE ARP5903
+  type: SAE
+  primary: true
+- content: 10.4271/arp5903
+  type: DOI
+date:
+- type: approved
+  at: '2015-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9C Aircraft Icing Technology Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides information, guidelines, and practices for the application, use, and administration of two-dimensional and three-dimensional droplet impingement and ice accretion computer codes. The codes provide computational simulations of inflight icing that predict droplet trajectory, water loading, and ice accretion on aircraft components. These ice accretion characteristics are used during the aircraft design and certification process.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

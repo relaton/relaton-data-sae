@@ -1,0 +1,67 @@
+---
+id: SAEJ5514_200609
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Test Limits and Methods of Measurement of Radio Disturbance Characteristics
+    of Vehicles and Devices, Broadband and Narrowband, 150 kHz to 1000 MHz
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j551/4_200609
+- type: src
+  content: https://saemobilus.sae.org/standards/j5514_200609-test-limits-methods-measurement-radio-disturbance-characteristics-vehicles-devices-broadband-narrowband-150-khz-1000-mhz
+docidentifier:
+- content: SAE J551/4_200609
+  type: SAE
+  primary: true
+- content: 10.4271/j551/4_200609
+  type: DOI
+date:
+- type: approved
+  at: '2006-09-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Standard contains test limits and procedures for the  measurement
+    of radio disturbances in the frequency range of 150 kHz to 1000 MHz. The document
+    applies to any electronic/electrical component intended for use in vehicles. Refer
+    to International Telecommunications Union (ITU) Publications for details of frequency
+    allocations. The test limits are intended to provide protection for receivers
+    installed in a vehicle from disturbances produced by components/ modules in the
+    same  vehicle. The receiver types to be protected are: broadcast radio and TV,
+    land-mobile radio, radio telephone, amateur and citizens' radio. The limits in
+    this document are recommended and subject to modification as agreed between the
+    vehicle manufacturer and the component supplier. This document shall also be applied
+    by manufacturers and suppliers of components and equipment which are to be added
+    and connected to the vehicle harness or to an on-board power connector after delivery
+    of the vehicle.  This document does not include protection of electronic control
+    systems from RF emissions, or from transient or pulse type voltage fluctuations.
+    These subjects are covered in other sections of SAE J551 and in SAE J1113.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

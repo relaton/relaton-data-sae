@@ -1,0 +1,57 @@
+---
+id: SAEAMS4785B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BRAZING FILLER METAL, HIGH TEMPERATURE 30Au - 34Pd - 36Ni 2075° - 2130°F
+    (1135° - 1165°C) Solidus-Liquidus Range
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4785b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4785b-brazing-filler-metal-high-temperature-30au-34pd-36ni-2075-2130f-1135-1165c-solidus-liquidus-range
+docidentifier:
+- content: SAE AMS4785B
+  type: SAE
+  primary: true
+- content: 10.4271/ams4785b
+  type: DOI
+date:
+- type: approved
+  at: '1984-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a gold-palladium-nickel alloy in the form of wire, rod, sheet, strip, foil, pig, powder, shot, and chips and a viscous mixture (paste) of powder in a suitable binder.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEJ1985_202312
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fuel Filter - Initial Single-Pass Efficiency Test Method
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1985_202312
+- type: src
+  content: https://saemobilus.sae.org/standards/j1985_202312-fuel-filter-initial-single-pass-efficiency-test-method
+docidentifier:
+- content: SAE J1985_202312
+  type: SAE
+  primary: true
+- content: 10.4271/j1985_202312
+  type: DOI
+date:
+- type: approved
+  at: '2023-12-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Filter Test Methods Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard is intended for all sizes of fuel filters, so a variety of test stands may be required depending upon flow rate. The low contamination level, downstream clean-up filter, and short duration of the test ensure that the particle retention ability of the filter is measured in a single pass, as no appreciable loading or regression will occur.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,70 @@
+---
+id: SAEAS6023
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Active and Battery Assisted Passive Tags Intended for Aircraft Use
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6023
+- type: src
+  content: https://saemobilus.sae.org/standards/as6023-active-battery-assisted-passive-tags-intended-aircraft-use
+docidentifier:
+- content: SAE AS6023
+  type: SAE
+  primary: true
+- content: 10.4271/as6023
+  type: DOI
+date:
+- type: approved
+  at: '2017-02-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-18 Radio Frequency Identification (RFID) Aero Applications
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this document is to:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Provide a requirements document for RFID Tag Manufacturers to produce active RFID tags for the Aerospace industry.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Identify the minimum performance requirements for active RFID tags to be used on or in close proximity to aircraft.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Specify the test requirements specific to active RFID tags for aircraft use, in addition to RTCA DO-160 compliance requirements separately called out in this document.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Identify existing standards applicable to active RFID Tag.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Provide a certification standard for RFID tags which will use permanently-affixed installation on aircraft and aircraft parts.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Battery standards are separately captured and not included in this document.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

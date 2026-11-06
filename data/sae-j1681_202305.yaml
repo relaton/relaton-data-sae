@@ -1,0 +1,87 @@
+---
+id: SAEJ1681_202305
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Gasoline, Alcohol, and Diesel Fuel Surrogates for Materials Testing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1681_202305
+- type: src
+  content: https://saemobilus.sae.org/standards/j1681_202305-gasoline-alcohol-diesel-fuel-surrogates-materials-testing
+docidentifier:
+- content: SAE J1681_202305
+  type: SAE
+  primary: true
+- content: 10.4271/j1681_202305
+  type: DOI
+date:
+- type: approved
+  at: '2023-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Systems Standards Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice presents recommendations for test fuels and fluids that can be used to simulate real world fuels. The use of standardized test fluids is required in order to limit the variability found in commercial fuels and fluids. Commercial fuels can vary substantially between manufacturers, batches, seasons, and geographic location. Further, standardized test fluids are universally available and will promote consistent test results for materials testing. Therefore, this document:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Explains commercial automotive fuel components&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Defines standardized components of materials test fluids&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Defines a nomenclature for test fluids&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Describes handling and usage of test fuels&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Recommends fluids for testing fuel system materials&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;The test fluid compositions specified in &lt;span class="xref"&gt;Section 7&lt;/span&gt; of this document are recommended solely for evaluating materials. They are not intended for other activities, such as engine development, design verification, or process validation unless agreed upon by the contracting parties. Most marketplace fuels contain additives for such purposes as oxidation stability, intake and combustion chamber deposit control, anti-foaming, electrostatics, octane, corrosion mitigation, etc., applied at a parts per million basis. It is not the intention of this document to include a surrogate for the potential effects of these additives. As far as this committee is aware, current additives do not adversely affect fuel system materials. Those contemplating new or improved additives for future applications could use the basic test fluids or fuels from this document, and specify the fuel is to be unadditized in order to inject such additives and use the resulting mixtures to assess whether these new additives might affect fuel system materials.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For the purposes of this document, the term FUEL is used in conjunction with fully blended hydrocarbon or hydrocarbon oxygenate mixtures for use in commercial automotive engines. The term FLUID is applied to mixtures of specific controlled components used to simulate the effects of fuels.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

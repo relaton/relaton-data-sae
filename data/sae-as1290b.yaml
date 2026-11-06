@@ -1,0 +1,57 @@
+---
+id: SAEAS1290B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Graphic Symbols for Aircraft Hydraulic and Pneumatic Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1290b
+- type: src
+  content: https://saemobilus.sae.org/standards/as1290b-graphic-symbols-aircraft-hydraulic-pneumatic-systems
+docidentifier:
+- content: SAE AS1290B
+  type: SAE
+  primary: true
+- content: 10.4271/as1290b
+  type: DOI
+date:
+- type: approved
+  at: '2011-12-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6 Aerospace Actuation, Control and Fluid Power Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Standard (AS) presents a system of graphic symbols intended primarily for usage in hydraulic and pneumatic system schematic diagrams for all types of aircraft. It is also considered suitable for marine vehicles and other applications and for ancillary documents where schematics are required. Individual graphic symbols shown herein are also considered suitable for use in conjunction with other types of symbols.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This AS is intended to promote industry-wide acceptance and understanding of uniform standards and employs, where possible, symbols which are internationally recognized.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

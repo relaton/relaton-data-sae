@@ -1,0 +1,56 @@
+---
+id: SAEARP5533A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Stationary Runway Weather Information System (In-Pavement)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5533a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5533a-stationary-runway-weather-information-system-pavement
+docidentifier:
+- content: SAE ARP5533A
+  type: SAE
+  primary: true
+- content: 10.4271/arp5533a
+  type: DOI
+date:
+- type: approved
+  at: '2015-09-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-15 Airport Snow and Ice Control Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) covers the requirements for a Stationary Runway Weather Information System (referred to as the system) to monitor the surface conditions of airfield operational areas to ensure safer ground operations of aircraft. The system provides (1) temperature and condition information of runway, taxiway, and ramp pavements and (2) atmospheric weather conditions that assist airport personnel to maintain safer and more efficient airport operations. The system can be either a wired system or a wireless system.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

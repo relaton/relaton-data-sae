@@ -1,0 +1,69 @@
+---
+id: SAEJ28483_201202
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Tire Pressure Systems - Management (CTIS) Type For Medium and Heavy Duty
+    Highway Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2848/3_201202
+- type: src
+  content: https://saemobilus.sae.org/standards/j28483_201202-tire-pressure-systems-management-ctis-type-medium-heavy-duty-highway-vehicles
+docidentifier:
+- content: SAE J2848/3_201202
+  type: SAE
+  primary: true
+- content: 10.4271/j2848/3_201202
+  type: DOI
+date:
+- type: approved
+  at: '2012-02-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Tire Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE recommended practice defines the system and component functions, measurement metrics, testing methodologies for evaluating the functionality and performance of ground vehicle CTIS. Systems of this type allow the driver to select the operational tire pressure set point (TPSP) based on off-highway conditions, and, upon returning to highway operations, maintain the inflation pressure to the vehicle specified level.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These systems are recommended to address all serviceable tires as originally installed on a vehicle by the OEM and/or specialty vehicle manufacturer, and, for the aftermarket (including replacement or spare parts) are recommended (but optional) to address all tire/rim combinations installed after initial vehicle sale or in-use dates.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Systems for use by military and some other very rigorous off-road applications require such extreme performance requirements, particularly at very high and low temperature and other combat-based extremes that such applications may fall outside the recommended parameters of the subject document. In those cases, it’s the responsibility of the procuring customer, vehicle OEM, and applicable component(s) OEM to determine what compromises might be required, and the suitability of design and performance solutions that may be outside of those recommended here.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is applicable to all axle and all wheel combinations for the following vehicle types, but does not preclude it’s use on other vehicle types - single unit powered vehicles exceeding 7257 kg (16,000_US lbs) gross vehicle weight rating (GVWR), and multi-unit vehicle combinations, up to three (3) towed units, which use an SAE J560 connector for power and/or communication, or equivalent successor connector technology. For combination vehicles including two or more trailers, the dolly axles are also included. The included vehicles can be newly manufactured vehicles or existing vehicles, fitted with air or hydraulic braking systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;u&gt;Special Note:&lt;/u&gt; Equipment known as ‘dual tire equalizers’ are commonly used with this category of vehicles. When installing a CTIS system, dual tire equalizers systems are not recommended as they run counter to the purpose of the management system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: The following systems are not being addressed in this edition of the subject document.
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Tire Pressure Monitoring Systems - these systems have been addressed under SAE J2848-1.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Tire Pressure Maintenance Systems - these systems have been addressed under SAE J2848-2.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

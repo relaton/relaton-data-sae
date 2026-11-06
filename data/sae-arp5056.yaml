@@ -1,0 +1,59 @@
+---
+id: SAEARP5056
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Flight Crew Interface Considerations in the Flight Deck Design Process
+    for Part 25 Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5056
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5056-flight-crew-interface-considerations-flight-deck-design-process-part-25-aircraft
+docidentifier:
+- content: SAE ARP5056
+  type: SAE
+  primary: true
+- content: 10.4271/arp5056
+  type: DOI
+date:
+- type: approved
+  at: '2013-01-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10EAB Executive Advisory Group
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This ARP defines recommended flight crew interface design processes and methods for new flight deck designs as well as modifications to the flight crew interface of existing flight decks of transport category aircraft (Part 25), which includes commercial transport aircraft, regional and business aircraft. These processes and methods are intended to be utilized by the design engineers of manufacturers of transport category aircraft or any modifiers to the flight deck system. Modifiers include equipment suppliers, avionics manufacturers, aircraft operators, original equipment manufacturers (OEM), regulatory authorities, or anyone seeking a supplemental type certificate (STC), type certificate (TC), amended TC, field approval, or equivalent approval.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The processes and methods described in this ARP address the integration of human factors/ergonomics, engineering, and flight operations in the design and/or modification of flight crew interfaces. These interfaces provide the flight crew access to the installed systems, using controls, indications and displays, in order to allow them to accomplish the tasks of aviate, navigate, communicate, and manage systems. Included in these processes and methods are considerations for flight crew training, the use and integration of automation, error tolerant designs, and task management.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These processes and methods are designed to yield flight deck designs that are both safe and efficient, in that order of priority. These processes and methods address the issue of creating modifications to existing designs that are compatible with the original intent of the flight deck design.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

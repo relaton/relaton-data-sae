@@ -1,0 +1,69 @@
+---
+id: SAEAMS6354H
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Sheet, Strip, and Plate, 0.75Si - 0.62Cr - 0.20Mo - 0.10Zr (0.10
+    - 0.17C) (NAX 9115-AC)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6354h
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6354h-steel-sheet-strip-plate-075si-062cr-020mo-010zr-010-017c-nax-9115-ac
+docidentifier:
+- content: SAE AMS6354H
+  type: SAE
+  primary: true
+- content: 10.4271/ams6354h
+  type: DOI
+date:
+- type: approved
+  at: '2026-04-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a low-alloy steel in the form of sheet, strip, and plate 4.00 inches (101.6 mm) and under in thickness.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,70 @@
+---
+id: SAEARP1665B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Definition of Pressure Surge Test and Measurement Methods for Receiver
+    Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1665b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1665b-definition-pressure-surge-test-measurement-methods-receiver-aircraft
+docidentifier:
+- content: SAE ARP1665B
+  type: SAE
+  primary: true
+- content: 10.4271/arp1665b
+  type: DOI
+date:
+- type: approved
+  at: '2026-09-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5A Aerospace Fuel, Inerting and Lubrication Sys Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The test procedure applies to the refueling manifold system connecting the receiver aircraft fuel tanks to the refueling source fuel pump(s) for both ground and aerial refueling. The test procedure is intended to verify that the limit value for surge pressure specified for the receiver fuel system is not exceeded when refueling from a refueling source which meets the requirements of AS1284 (reference 2). This recommended practice is not directly applicable to surge pressure developed during operation of an aircraft fuel system, such as initiating or stopping engine fuel feed or fuel transfer within an aircraft, or the pressure surge produced when the fuel pumps are first started to fill an empty fuel manifold.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

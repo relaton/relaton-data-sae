@@ -1,0 +1,58 @@
+---
+id: SAEJ192_201301
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Maximum Exterior Sound Level for Snowmobiles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j192_201301
+- type: src
+  content: https://saemobilus.sae.org/standards/j192_201301-maximum-exterior-sound-level-snowmobiles
+docidentifier:
+- content: SAE J192_201301
+  type: SAE
+  primary: true
+- content: 10.4271/j192_201301
+  type: DOI
+date:
+- type: approved
+  at: '2013-01-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Snowmobile Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes the instrumentation, test site, and test procedure for determining the maximum exterior sound level for snowmobiles.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Sound propagation is directly related to the ground cover and provides the largest variation to the measured result. A correction factor is introduced to improve year round test repeatability of the results on grass surfaces by correcting their spectrum to be similar to snow covered spectra.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Measured sound pressure levels are also highly dependent on the degree of track slip present when performing the vehicle acceleration. Operators should attempt to limit track slip as much as possible while maintaining the requirements described in &lt;span class="xref"&gt;5.1.1&lt;/span&gt;.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

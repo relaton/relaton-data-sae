@@ -1,0 +1,56 @@
+---
+id: SAEAMS2201M
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Tolerances, Aluminum And Aluminum Alloy Bar, Rod, Wire, And Forging Stock
+    Rolled Or Cold-Finished
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2201m
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2201m-tolerances-aluminum-aluminum-alloy-bar-rod-wire-forging-stock-rolled-cold-finished
+docidentifier:
+- content: SAE AMS2201M
+  type: SAE
+  primary: true
+- content: 10.4271/ams2201m
+  type: DOI
+date:
+- type: approved
+  at: '1994-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: <p>This specification has been declared "SUPERSEDED" by the Aerospace Materials
+    Division, SAE, as of September 1994.  The requirements of this specification are
+    embodied in the latest issue of ANSI H35.2, Dimensional Tolerances for Aluminum
+    Mill Products.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

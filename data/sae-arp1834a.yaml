@@ -1,0 +1,73 @@
+---
+id: SAEARP1834A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FAULT/FAILURE ANALYSISFor Digital Systems and Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1834a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1834a-fault-failure-analysisfor-digital-systems-equipment
+docidentifier:
+- content: SAE ARP1834A
+  type: SAE
+  primary: true
+- content: 10.4271/arp1834a
+  type: DOI
+date:
+- type: approved
+  at: '1997-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-18 Aircraft and Sys Dev and Safety Assessment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;ARP1834 provides general guidance for the selection, approach to, and performance of various kinds of F/FA of digital systems and equipment. Its prime objective is to present several industry-acceptable, cost-effective methods for identifying, analyzing, and documenting digital-equipment failure modes and their effects. The analysis techniques and considerations presented here are directed to digital-equipment hardware faults and failures exclusively.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;ARP1834 is not intended as an exhaustive treatment of the enormously complex process involved in the analytical failure evaluation of complete digital systems, nor as a universally applicable, definitive listing of the necessary and sufficient steps and actions for such evaluation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;ARP4761 provides updated methods and processes for use on civil aircraft safety assessment. When analyzing these types of systems, ARP4761 should be used in lieu of this ARP.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;ARP1834 addresses the following areas of consideration in the preparation and performance of F/FA's for digital equipment:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Possible Analysis Approaches: Top-Down and/or Bottom-Up (&lt;span class="xref"&gt;Section 3&lt;/span&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Fault/Failure Modes, as they affect equipment operation and performance (&lt;span class="xref"&gt;Section 4&lt;/span&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Fault Monitoring Methodology: Reasons for, types of, and effectiveness (&lt;span class="xref"&gt;Section 5&lt;/span&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Analysis Methods: Preparation for, types of, effectiveness and coverage (&lt;span class="xref"&gt;Section 6&lt;/span&gt;)&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

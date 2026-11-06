@@ -1,0 +1,58 @@
+---
+id: SAEUSCAR34
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SPECIFICATION FOR TESTING AUTOMOTIVE LAMP ASSEMBLIES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar34
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar34-specification-testing-automotive-lamp-assemblies
+docidentifier:
+- content: SAE USCAR-34
+  type: SAE
+  primary: true
+- content: 10.4271/uscar34
+  type: DOI
+date:
+- type: approved
+  at: '2022-03-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The procedures contained in this specification cover the laboratory testing of Exterior Lamps for use in automotive road illumination. The following tests are intended to be run under the following conditions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document shall be applied to systems that meet the requirements for design, performance and validation established by government standards.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;i&gt;If other manufacture’s components are intended to be approved for use in the lamp assembly, then those possible combinations of components shall be considered a new lamp assembly and shall also be tested&lt;/i&gt;.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

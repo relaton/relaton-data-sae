@@ -1,0 +1,57 @@
+---
+id: SAEAIR1184
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FUEL GAGING SYSTEM ACCURACIES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1184
+- type: src
+  content: https://saemobilus.sae.org/standards/air1184-fuel-gaging-system-accuracies
+docidentifier:
+- content: SAE AIR1184
+  type: SAE
+  primary: true
+- content: 10.4271/air1184
+  type: DOI
+date:
+- type: approved
+  at: '1973-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5A Aerospace Fuel, Inerting and Lubrication Sys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;It is intended to provide capacitance gaging system "specifiers" with the necessary tools to make value judgements concerning the various errors typically encountered in systems of this type. Thus, in addition to merely identifying the error-causes, descriptions are given concerning the basic factors from which these error-causes derive. This knowledge, when complemented with appraisals of the relative costs of minimizing the error-causes, will furnish the system specifier with a powerful tool with which to optimize gaging system accuracy, and thus, to obtain the "best possible" overall system within the constraints imposed by both design and budgetary considerations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Since the subject of capacitance gaging accuracy is quite extensive, and in some instances very complex, no attempt is made herein to present an all-inclusive and fully comprehensive evaluation of the subject. Rather, the &lt;u&gt;major&lt;/u&gt; contributors to gaging system inaccuracy are discussed. Furthermore, emphasis in these discussions is given to simplicity-of-approach and clarity, somewhat at the expense of completeness.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

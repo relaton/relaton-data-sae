@@ -1,0 +1,57 @@
+---
+id: SAEAMSS6090
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Carburizing and Nitriding, Processes for
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/amss6090
+- type: src
+  content: https://saemobilus.sae.org/standards/amss6090-steel-carburizing-nitriding-processes
+docidentifier:
+- content: SAE AMS-S-6090
+  type: SAE
+  primary: true
+- content: 10.4271/amss6090
+  type: DOI
+date:
+- type: approved
+  at: '1998-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification presents requirements for the carburizing and nitriding of carbon and alloy steels to produce the mechanical properties specified by drawings, detail metal specifications, or other applicable specifications (see &lt;span class="xref"&gt;6.3&lt;/span&gt;).&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

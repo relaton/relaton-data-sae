@@ -1,0 +1,93 @@
+---
+id: SAEJ516_200101
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hydraulic Hose Fittings
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j516_200101
+- type: src
+  content: https://saemobilus.sae.org/standards/j516_200101-hydraulic-hose-fittings
+docidentifier:
+- content: SAE J516_200101
+  type: SAE
+  primary: true
+- content: 10.4271/j516_200101
+  type: DOI
+date:
+- type: approved
+  at: '2001-01-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hydraulic Hose and Hose Fittings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard provides general and dimensional specifications for the most common hose fittings used in conjunction with hydraulic hoses specified in SAE J517 and utilized in hydraulic systems on mobile and stationary equipment.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The general specifications contained in &lt;span class="xref"&gt;Sections 1&lt;/span&gt; through &lt;span class="xref"&gt;15&lt;/span&gt; are applicable to all hydraulic hose fittings and supplement the detailed specifications for the 100R-series fittings contained in the later sections of this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document shall be utilized as a procurement document only to the extent agreed upon by the manufacturer and user.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Refer to SAE J517 for specifications of hose and information on hose assemblies. SAE J1273 contains information on application factors affecting hose fittings, hose, and hose assemblies.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;THE RATED WORKING PRESSURE OF A HOSE ASSEMBLY COMPRISING SAE J516 FITTINGS AND SAE J517 HOSE SHALL NOT EXCEED THE LOWER OF THE TWO WORKING PRESSURE RATED VALUES.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The following are hose fitting types contained in this document:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Male dryseal pipe thread type hose fittings shall be as shown in &lt;span class="xref"&gt;Figures 1A&lt;/span&gt; to &lt;span class="xref"&gt;1C&lt;/span&gt; for the respective styles, and in &lt;span class="xref"&gt;Tables 1A&lt;/span&gt; to &lt;span class="xref"&gt;1M&lt;/span&gt; for the applicable hoses and sizes.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Male straight thread O-ring boss type hose fittings shall be as shown in &lt;span class="xref"&gt;Figures 2A&lt;/span&gt; and &lt;span class="xref"&gt;2B&lt;/span&gt; for the respective styles, and in &lt;span class="xref"&gt;Tables 2A&lt;/span&gt; to &lt;span class="xref"&gt;2H&lt;/span&gt; for the applicable hoses and sizes.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Male 37-degree flared type hose fittings shall be as shown in &lt;span class="xref"&gt;Figures 3A&lt;/span&gt; to &lt;span class="xref"&gt;3C&lt;/span&gt; for the respective styles, and in &lt;span class="xref"&gt;Tables 3A&lt;/span&gt; to &lt;span class="xref"&gt;3L&lt;/span&gt; for the applicable hoses and sizes.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Female 37-degree flared type hose fittings shall be as shown in &lt;span class="xref"&gt;Figures 4A&lt;/span&gt; to &lt;span class="xref"&gt;7B&lt;/span&gt; for the respective styles and shapes, and in &lt;span class="xref"&gt;Tables 4A&lt;/span&gt; to &lt;span class="xref"&gt;4M&lt;/span&gt; for the applicable hoses and sizes.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Male 45-degree flared type hose fittings shall be as shown in &lt;span class="xref"&gt;Figures 8A&lt;/span&gt; and &lt;span class="xref"&gt;8B&lt;/span&gt; for the respective styles, and in &lt;span class="xref"&gt;Tables 5A&lt;/span&gt; to &lt;span class="xref"&gt;5E&lt;/span&gt; for the applicable hoses and sizes.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;f&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Female 45-degree flared type hose fittings shall be as shown in &lt;span class="xref"&gt;Figures 9A&lt;/span&gt; to &lt;span class="xref"&gt;12B&lt;/span&gt; for the respective styles and shapes, and in &lt;span class="xref"&gt;Tables 6A&lt;/span&gt; to &lt;span class="xref"&gt;6E&lt;/span&gt; for the applicable hoses and sizes.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;g&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Male flareless type hose fittings shall be as shown in &lt;span class="xref"&gt;Figures 13A&lt;/span&gt; and &lt;span class="xref"&gt;13B&lt;/span&gt; for the respective styles, and in &lt;span class="xref"&gt;Tables 7A&lt;/span&gt; and &lt;span class="xref"&gt;7B&lt;/span&gt; for the applicable hoses and sizes.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;h&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Female flareless type hose fittings shall be as shown in &lt;span class="xref"&gt;Figures 14A&lt;/span&gt; to &lt;span class="xref"&gt;14C&lt;/span&gt; for the respective styles, and in &lt;span class="xref"&gt;Tables 8A&lt;/span&gt; and &lt;span class="xref"&gt;8B&lt;/span&gt; for the applicable hoses and sizes.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;i&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;4-bolt split flange type hose fittings shall be as shown in &lt;span class="xref"&gt;Figures 15A&lt;/span&gt; to &lt;span class="xref"&gt;21C&lt;/span&gt; for the respective styles and shapes, and in &lt;span class="xref"&gt;Tables 9A&lt;/span&gt; to &lt;span class="xref"&gt;9I2&lt;/span&gt; for the applicable hoses and sizes.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;j&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Female O-ring face seal hose fittings shall be as shown in &lt;span class="xref"&gt;Figures 22A&lt;/span&gt; to 25B for the respective styles, and &lt;span class="xref"&gt;Tables 10A&lt;/span&gt; to &lt;span class="xref"&gt;10L&lt;/span&gt; for the applicable hoses and sizes.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;It is recommended that where step sizes or additional types of fittings are required, they be designed to conform with the specifications of this document insofar as they may apply. The following general specifications shall supplement the dimensional data contained in the tables with respect to all unspecified detail.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEJ1750_199503
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: DESCRIBING AND EVALUATING THE TRUCK DRIVER'S VIEWING ENVIRONMENT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1750_199503
+- type: src
+  content: https://saemobilus.sae.org/standards/j1750_199503-describing-evaluating-truck-drivers-viewing-environment
+docidentifier:
+- content: SAE J1750_199503
+  type: SAE
+  primary: true
+- content: 10.4271/j1750_199503
+  type: DOI
+date:
+- type: approved
+  at: '1995-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Human Factors Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes two uniform methods for describing and evaluating the truck driver's viewing environment, the Polar Plot and the Horizontal Planar Projection. The Polar Plot presents the entire available field of view in an angular format, onto which items of interest may be plotted, whereas the Horizontal Planar Projection presents the field of view at a given elevation chosen for evaluation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These methods are based on the Three Dimensional Reference System described in SAE J182a. This document relates to the driver's exterior visibility environment and was developed for the heavy truck industry (Class B vehicles, class 6, 7, 8 vehicles) although the projection principles presented in this document can be applied to any class of motor vehicles.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is intended to complement SAE J1050a and provides a visual format that can describe the driver's entire viewing environment. This environment can then be analyzed to determine what the driver is capable of seeing. It should be noted that one of the most important factors affecting the driver's field of view and the ability to make valid vehicle/design comparisons is the location of the driver's eyepoint. SAE J941 defines the Eyellipse which forms the basis for eyepoints chosen as the origin for Polar Plots and Horizontal Planar Projections. Both the Horizontal Planar Projection and Polar Plot create monocular evaluations. Projections/plots of multiple eyepoints must be overlaid to create binocular or ambinocular evaluations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Analytical methods for creating Polar Plots and Horizontal Planar Projections for direct and indirect vision (planar and spherical convex mirrors) are presented. Note that it is possible to create plots and projections for other mirror surfaces and vision devices if the equations for determining reflection points are provided. It is also possible to create Polar Plots and Horizontal Planar Projections using experimental and graphical methods. These are beyond the present scope of this document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

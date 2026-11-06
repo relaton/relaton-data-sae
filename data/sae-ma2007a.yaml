@@ -1,0 +1,57 @@
+---
+id: SAEMA2007A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hose Assembly, Tetrafluoroethylene, Lightweight, 204 °C, 21 000 kPa Hydraulic,
+    Metric
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma2007a
+- type: src
+  content: https://saemobilus.sae.org/standards/ma2007a-hose-assembly-tetrafluoroethylene-lightweight-204-c-21-000-kpa-hydraulic-metric
+docidentifier:
+- content: SAE MA2007A
+  type: SAE
+  primary: true
+- content: 10.4271/ma2007a
+  type: DOI
+date:
+- type: approved
+  at: '2015-08-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers lightweight hose assemblies intended for use in high-temperature, 204 °C, high-pressure, 21 000 kPa (210 bar) aircraft hydraulic systems, also for use in pneumatic systems which allow some gaseous diffusion through the PTFE wall.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAIR1221
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electromagnetic Compatibility (EMC) System Design Checklist
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1221
+- type: src
+  content: https://saemobilus.sae.org/standards/air1221-electromagnetic-compatibility-emc-system-design-checklist
+docidentifier:
+- content: SAE AIR1221
+  type: SAE
+  primary: true
+- content: 10.4271/air1221
+  type: DOI
+date:
+- type: approved
+  at: '2013-02-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-4 Electromagnetic Compatibility (EMC) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This checklist is to be used by project personnel to assure that factors required for adequate system electromagnetic compatibility are considered and incorporated into a program. It provides a ready reference of EMC management and documentation requirements for a particular program from preproposal thru acquisition. When considered with individual equipments comprising the system and the electromagnetic operational environment in which the system will operate, the checklist will aid in the preparation of an EMC analysis. The analysis will facilitate the development of system-dependent EMC criteria and detailed system, subsystem, and equipment design requirements ensuring electromagnetic compatibility.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

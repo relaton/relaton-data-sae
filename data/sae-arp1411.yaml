@@ -1,0 +1,57 @@
+---
+id: SAEARP1411
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Flight Deck Environment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1411
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1411-flight-deck-environment
+docidentifier:
+- content: SAE ARP1411
+  type: SAE
+  primary: true
+- content: 10.4271/arp1411
+  type: DOI
+date:
+- type: approved
+  at: '2002-12-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-7 Flight Deck Handling Qualities Stds for Trans Aircraft
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This Aerospace Recommended Practice (ARP) is intended to specify the
+    environmental conditions necessary to permit the operating crew of large civil
+    transport aircraft to perform their required duties and functions in comfort,
+    with minimum fatigue and no distraction. Environmental conditions should cause
+    no short or long-term effects deleterious to health or physical well being, nor
+    significantly impair ability to perform normal flight deck crew functions.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

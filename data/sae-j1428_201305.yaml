@@ -1,0 +1,58 @@
+---
+id: SAEJ1428_201305
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Marine Circuit Breakers
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1428_201305
+- type: src
+  content: https://saemobilus.sae.org/standards/j1428_201305-marine-circuit-breakers
+docidentifier:
+- content: SAE J1428_201305
+  type: SAE
+  primary: true
+- content: 10.4271/j1428_201305
+  type: DOI
+date:
+- type: approved
+  at: '2013-05-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Marine Technical Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice covers the requirements of magnetic or thermal circuit breakers for use in marine applications for 50 V DC or less.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEAMS5702D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nickel Alloy, Corrosion and Heat-Resistant, Bars, Forgings, and Rings 41.5Ni
+    - 16Cr - 37Fe - 2.9Cb (Nb) - 1.8Ti Consumable Electrode Remelted or Vacuum Induction
+    Melted 1750 °F (954 °C) Solution Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5702d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5702d-nickel-alloy-corrosion-heat-resistant-bars-forgings-rings-415ni-16cr-37fe-29cb-nb-18ti-consumable-electrode-remelted-vacuum-induction-melted-1750-f-954-c-solution-heat-treated
+docidentifier:
+- content: SAE AMS5702D
+  type: SAE
+  primary: true
+- content: 10.4271/ams5702d
+  type: DOI
+date:
+- type: approved
+  at: '2012-04-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat-resistant nickel alloy in the form of bars, forgings, flash welded rings, and stock for forging or flash welded rings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,48 @@
+---
+id: SAEAS3090A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STUD - STRAIGHT, KEY LOCKED, CRES UNS S66286 .1900-32 UNJF X .1900-32 UNJF
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as3090a
+- type: src
+  content: https://saemobilus.sae.org/standards/as3090a-stud-straight-key-locked-cres-uns-s66286-1900-32-unjf-x-1900-32-unjf
+docidentifier:
+- content: SAE AS3090A
+  type: SAE
+  primary: true
+- content: 10.4271/as3090a
+  type: DOI
+date:
+- type: approved
+  at: '2024-04-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAIR6202
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Test Cell Mass Fuel Flow Measurement Using Coriolis Flow Meters
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6202
+- type: src
+  content: https://saemobilus.sae.org/standards/air6202-test-cell-mass-fuel-flow-measurement-using-coriolis-flow-meters
+docidentifier:
+- content: SAE AIR6202
+  type: SAE
+  primary: true
+- content: 10.4271/air6202
+  type: DOI
+date:
+- type: approved
+  at: '2017-06-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EG-1E Gas Turbine Test Facilities and Equipment
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this information report applies to the steady state measurement of direct mass fuel flow in gas turbine engine test cells. A measurement accuracy, and hence uncertainty of between ±0.1 to ±0.2% of value is believed to be achievable for liquid flow applications with some meter models/installations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Whilst capable of general transient measurement in 50 to 100 Hz region, this type of fuel meter is not capable of rapid transient measurement (in 100 to 250 Hz region). It is also not currently considered suitable for "in flight" fuel flow measurement.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

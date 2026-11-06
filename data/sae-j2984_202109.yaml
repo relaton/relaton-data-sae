@@ -1,0 +1,57 @@
+---
+id: SAEJ2984_202109
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Chemical Identification of Transportation Batteries for Recycling
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2984_202109
+- type: src
+  content: https://saemobilus.sae.org/standards/j2984_202109-chemical-identification-transportation-batteries-recycling
+docidentifier:
+- content: SAE J2984_202109
+  type: SAE
+  primary: true
+- content: 10.4271/j2984_202109
+  type: DOI
+date:
+- type: approved
+  at: '2021-09-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Battery Standards Recycling Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The chemistry identification system is intended to support the proper and efficient recycling of rechargeable battery systems used in transportation applications with a maximum voltage greater than or equal to 12 V. These applications include propulsion, starting/lighting/ignition, and providing power to other vehicle equipment. Other battery systems such as non-rechargeable batteries, batteries in electronics, and telecom/utility batteries are not considered in the development of this specification. This does not preclude these systems from adapting the format proposed if they so choose.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

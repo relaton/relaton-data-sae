@@ -1,0 +1,68 @@
+---
+id: SAEAS9110C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Quality Management Systems – Requirements for Aviation Maintenance Organizations
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9110c
+- type: src
+  content: https://saemobilus.sae.org/standards/as9110c-quality-management-systems-requirements-aviation-maintenance-organizations
+docidentifier:
+- content: SAE AS9110C
+  type: SAE
+  primary: true
+- content: 10.4271/as9110c
+  type: DOI
+date:
+- type: approved
+  at: '2016-11-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;&lt;i&gt;This standard includes ISO 9001:2015&lt;span class="xref"&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/span&gt; quality management system requirements and specifies additional civil and military aviation maintenance and continuing airworthiness industry requirements, definitions, and notes.&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;&lt;i&gt;It is emphasized that the requirements specified in this standard are complementary (not alternative) to customer and applicable statutory and regulatory requirements.&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;&lt;i&gt;If there is a conflict between the requirements of this standard and customer or applicable statutory or regulatory requirements, the latter shall take precedence.&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This International Standard specifies requirements for a quality management system when an organization:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;needs to demonstrate its ability to consistently provide products and services that meet customer and applicable statutory and regulatory requirements, and&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;aims to enhance customer satisfaction through the effective application of the system, including processes for improvement of the system and the assurance of conformity to customer and applicable statutory and regulatory requirements.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;All the requirements of this International Standard are generic and are intended to be applicable to any organization, regardless of its type or size, or the products and services it provides.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

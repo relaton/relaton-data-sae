@@ -1,0 +1,57 @@
+---
+id: SAEARP798B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Design Criteria for White Incandescent Lighted Aerospace Instruments
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp798b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp798b-design-criteria-white-incandescent-lighted-aerospace-instruments
+docidentifier:
+- content: SAE ARP798B
+  type: SAE
+  primary: true
+- content: 10.4271/arp798b
+  type: DOI
+date:
+- type: approved
+  at: '2017-07-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20A Crew Station Lighting
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) covers the general requirements and test procedures recommended for use with white incandescent integrally lighted instruments. Its use should provide uniformity of illumination from instrument to instrument and legibility under daylight operation. An appendix is provided to familiarize the designer with some of the techniques used to obtain uniformity of color and illumination in various types of instruments.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

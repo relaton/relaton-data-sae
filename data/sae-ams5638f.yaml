@@ -1,0 +1,57 @@
+---
+id: SAEAMS5638F
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Corrosion-Resistant, Bars and Forgings 0.14S - 18Cr - 9.5Ni - 0.50Mo
+    - 0.80Al (303MA) Free-Machining; Swaging or Upsetting Solution Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5638f
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5638f-steel-corrosion-resistant-bars-forgings-014s-18cr-95ni-050mo-080al-303ma-free-machining-swaging-upsetting-solution-heat-treated
+docidentifier:
+- content: SAE AMS5638F
+  type: SAE
+  primary: true
+- content: 10.4271/ams5638f
+  type: DOI
+date:
+- type: approved
+  at: '2005-08-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a free-machining, corrosion-resistant steel in the form of bars, forgings, and forging stock.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,53 @@
+---
+id: SAEJ212_200812
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Brake System Dynamometer Test Procedures--Passenger Car
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j212_200812
+- type: src
+  content: https://saemobilus.sae.org/standards/j212_200812-brake-system-dynamometer-test-procedures-passenger-car
+docidentifier:
+- content: SAE J212_200812
+  type: SAE
+  primary: true
+- content: 10.4271/j212_200812
+  type: DOI
+date:
+- type: approved
+  at: '2008-12-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Brake Dynamometer Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Recommended Practice establishes a uniform laboratory dynamometer
+    method of testing all classes of passenger car brake systems.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

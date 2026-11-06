@@ -1,0 +1,91 @@
+---
+id: SAEJ2436_199807
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Accessory Drive Tensioner Test Standards (Mechanical Rotary Type)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2436_199807
+- type: src
+  content: https://saemobilus.sae.org/standards/j2436_199807-accessory-drive-tensioner-test-standards-mechanical-rotary-type
+docidentifier:
+- content: SAE J2436_199807
+  type: SAE
+  primary: true
+- content: 10.4271/j2436_199807
+  type: DOI
+date:
+- type: approved
+  at: '1998-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Belt Drive (Automotive) Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;To document test procedures and set-ups that address known failure modes for mechanical rotary tensioners and establish minimum acceptance criteria. This SAE Standard does not encompass the pulley or pulley bearing. The sample sizes should be determined by agreement between the original equipment manufacturer (OEM) and the supplier.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The failure modes to be addressed are:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Durability
+    &lt;div class="table-wrap anchor "&gt;
+    &lt;div class="table-container"&gt;&lt;table class="br-none tbr-void " data-dataset-id=""&gt;
+    &lt;tbody&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Corrosion&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;Contamination&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Structural&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;Wear&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Temperature&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;Alignment&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div/&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Functional
+    &lt;div class="table-wrap anchor "&gt;
+    &lt;div class="table-container"&gt;&lt;table class="br-none tbr-void " data-dataset-id=""&gt;
+    &lt;tbody&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Clamp Load&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;Damping&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Drop (Safety)&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;Lift Lugs&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Load&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;Noise&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Ozone&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;Snap&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div/&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

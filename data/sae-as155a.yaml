@@ -1,0 +1,48 @@
+---
+id: SAEAS155A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HOSE ASSEMBLY, NONMETALLIC, 3000 PSI, TFE, FLARED, STRAIGHT TO 90°, LIGHTWEIGHT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as155a
+- type: src
+  content: https://saemobilus.sae.org/standards/as155a-hose-assembly-nonmetallic-3000-psi-tfe-flared-straight-90-lightweight
+docidentifier:
+- content: SAE AS155A
+  type: SAE
+  primary: true
+- content: 10.4271/as155a
+  type: DOI
+date:
+- type: approved
+  at: '1984-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEARP5061A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guidelines for Testing and Support of Aerospace, Fiber Optic, Inter-Connect
+    Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5061a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5061a-guidelines-testing-support-aerospace-fiber-optic-inter-connect-systems
+docidentifier:
+- content: SAE ARP5061A
+  type: SAE
+  primary: true
+- content: 10.4271/arp5061a
+  type: DOI
+date:
+- type: approved
+  at: '2018-08-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;ARP5061A provides guidelines for optical performance testing of short haul fiber optic inter-connection systems used in aerospace vehicles. The focus of this document is to introduce the proper testing tools and establish common pre- and post-installation test methods and troubleshooting methodologies.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

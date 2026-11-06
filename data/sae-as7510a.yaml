@@ -1,0 +1,71 @@
+---
+id: SAEAS7510A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Coupling Assembly, Threadless, Flexible, Self-Locking, Fixed Cavity, High
+    Conductivity, Self-Bonding, Part Specification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as7510a
+- type: src
+  content: https://saemobilus.sae.org/standards/as7510a-coupling-assembly-threadless-flexible-self-locking-fixed-cavity-high-conductivity-self-bonding-part-specification
+docidentifier:
+- content: SAE AS7510A
+  type: SAE
+  primary: true
+- content: 10.4271/as7510a
+  type: DOI
+date:
+- type: approved
+  at: '2019-08-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) defines the requirements for a threadless, flexible, high conductive, self-bonding coupling assembly which, when installed on defined ferrules, provides a flexible connection for joining ducting and components in pressurized fluid systems. The assembled coupling is designed to provide interchangeability of parts and components between qualified manufacturers for use from -65 to +265 °F at 130 psi nominal operating pressures and for the service life of the aircraft system.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;FAR 23.954, FAR 25.603, FAR 25.605, FAR 25.609, FAR 25.613, FAR 25.901, FAR 25.954, and FAR 25.981 certification requirements have identified the need for high current capable flexible fluid assembled couplings. The coupling assembly does not require inspection or maintenance to remain current capable for the life of the aircraft.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This specification provides two test philosophies necessary for low pressure couplings:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Electromagnetic Effects/Lightning testing of assembled couplings to demonstrate both lightning conducted current and electrostatic capabilities are retained through simulated service life test sequences to meet commercial airplane FAR 25.981 certification requirements.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Grouping and goal posting of coupling test specimens based on size and material similarities.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;The assembled coupling’s intended application and usage is for, but not limited to, commercial and military aircraft. Components defined herein and qualified to the performance capabilities and regulatory compliance requirements will support their use in fuel and other fluid conveyance systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This specification requires manufacturers to be qualified and accredited to Performance Review Institute (PRI)/National Aerospace and Defense Contractors Accreditation Program (Nadcap) requirements.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

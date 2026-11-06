@@ -1,0 +1,81 @@
+---
+id: SAEGEIASTD0005_3A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Performance Testing for Aerospace and High Performance Electronic Interconnects
+    Containing Pb-free Solder and Finishes
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/geiastd0005_3a
+- type: src
+  content: https://saemobilus.sae.org/standards/geiastd0005_3a-performance-testing-aerospace-high-performance-electronic-interconnects-containing-pb-free-solder-finishes
+docidentifier:
+- content: SAE GEIA-STD-0005-3A
+  type: SAE
+  primary: true
+- content: 10.4271/geiastd0005_3a
+  type: DOI
+date:
+- type: approved
+  at: '2018-02-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-24 Pb-free Risk Management Committee for ADHP
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document defines:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A default method for those companies that require a pre-defined approach and&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A protocol for those companies that wish to develop their own test methods.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;The default method (&lt;span class="xref"&gt;Section 4&lt;/span&gt; of the document) is intended for use by electronic equipment manufacturers, repair facilities, or programs which, for a variety of reasons, may be unable to develop methods specific to their own products and applications. It is to be used when little or no other information is available to define, conduct, and interpret results from reliability, qualification, or other tests for electronic equipment containing Pb-free solder. The default method is intended to be conservative, i.e., it is biased toward minimizing the risk to users of AHP electronic equipment.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The protocol (&lt;span class="xref"&gt;Section 5&lt;/span&gt; of the document) is intended for use by manufacturers or repair facilities which have the necessary resources to design and conduct reliability, qualification, or process development tests that are specific to their products, their operating conditions, and their applications. Users of the protocol will have the necessary knowledge, experience, and data to customize their own methods for designing, conducting, and interpreting results from the data. Key to developing a protocol is a firm understanding of all material properties for the Pb-free material in question as well as knowledge of package- and board-level attributes as described in &lt;span class="xref"&gt;Section 4.1.1&lt;/span&gt;. As an example, research has shown that the mechanisms for creep are very different between SnPb and Tin-Silver-Copper (SAC) solders. Understanding these mechanisms is key to determining critical test parameters such as dwell time for thermal cycling. The protocol portion of this document provides guidance on performing sufficient characterization of new materials in order to accurately define test parameters.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Use of the protocol is encouraged, since it is likely to yield more accurate results. Reference [&lt;u&gt;7&lt;/u&gt;] provides a comprehensive overview of those technical considerations necessary in implementing a test protocol.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document addresses the evaluation of failure mechanisms, through performance testing, expected in electronic products containing Pb-free solder. One failure mode, fatigue-failure through the solder-joint, is considered a primary failure mode in AHP electronics and can be understood in terms of physics-of-failure and life-projections. Understanding the all potential failure modes caused by Pb-free solder of AHP electronics is a critical element in defining early field-failures/reliability issues. Grouping of different failure modes may result in incorrect and/or misleading test conclusions. Failure analysis efforts should be conducted to insure that individual failure modes are identified enabling the correct application of reliability assessments and life-projection efforts.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;When properly used, the methods or protocol defined in this document may be used along with the processes documented in compliance to Reference [&lt;u&gt;3&lt;/u&gt;], to satisfy, at least in part, the reliability requirements of References [&lt;u&gt;3&lt;/u&gt;] and [&lt;u&gt;4&lt;/u&gt;].&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document may be used for products in all stages of the transition to Pb-free solder, including:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Products that have been designed and qualified with traditional SnPb electronic components, materials, and assembly processes, and are being re-qualified with use of Pb-free components&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Products with SnPb designs transitioning to Pb-free solder; and&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Products newly-designed with Pb-free solder.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;For programs that were designed with SnPb solder, and are currently not using any Pb-free solder, the traditional methods may be used. It is important, however, for those programs to have processes in place to maintain the SnPb configuration including those outsourced or manufactured by subcontractors.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;With respect to products as mentioned above, the methods presented in this document are intended to be applied at the level of assembly at which soldering occurs, i.e., circuit-card assembly level. For those users interested in COTS (commercial-off-the-shelf) testing, some guidance at box-level (e.g., power suppliers, module assemblies, etc.) is provided in &lt;span class="xref"&gt;Section 6.0&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;IMPORTANT TO NOTE: This standard does not apply to space flight hardware. Applications that do not permit the use of Pb-free soldering for circuit board assembly, such as electronic hardware for space flight, are outside the scope of this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The demonstration of successful performance or acceptable reliability of hardware through a test program consistent with this Standard may be application-specific, and should not be construed as demonstrating qualification of the same hardware for a different application where Pb-free solder and finishes have been prohibited.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

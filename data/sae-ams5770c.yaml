@@ -1,0 +1,49 @@
+---
+id: SAEAMS5770C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALLOY BARS AND FORGINGS, CORROSION AND HEAT RESISTANT 25Fe - 20.5Cr - 20Ni
+    - 20Co - 4.0Mo - 4.0W - 4.0(Cb + Ta) Solution and Precipitation Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5770c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5770c-alloy-bars-forgings-corrosion-heat-resistant-25fe-205cr-20ni-20co-40mo-40w-40-cb-ta-solution-precipitation-heat-treated
+docidentifier:
+- content: SAE AMS5770C
+  type: SAE
+  primary: true
+- content: 10.4271/ams5770c
+  type: DOI
+date:
+- type: approved
+  at: '1984-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

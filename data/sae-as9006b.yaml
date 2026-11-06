@@ -1,0 +1,56 @@
+---
+id: SAEAS9006B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Deliverable Aerospace Software Supplement for AS9100A Quality Management
+    Systems - Aerospace - Requirements for Software (Based on AS9100A)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9006b
+- type: src
+  content: https://saemobilus.sae.org/standards/as9006b-deliverable-aerospace-software-supplement-as9100a-quality-management-systems-aerospace-requirements-software-based-as9100a
+docidentifier:
+- content: SAE AS9006B
+  type: SAE
+  primary: true
+- content: 10.4271/as9006b
+  type: DOI
+date:
+- type: approved
+  at: '2019-10-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;The basic requirements of AS9100A apply with the following clarifications.&lt;/p&gt;
+    &lt;p&gt;This document supplements the requirements of AS9100A for deliverable software.  This supplement contains Quality System requirements for suppliers of products that contain deliverable embedded or loadable airborne, spaceborne or ground support software components that are part of an aircraft Type Design, weapon system, missile or spacecraft operational software and/or support software that is used in the development and maintenance of deliverable software.  This includes the host operating system software including assemblers, compilers, linkers, loaders, editors, code generators, analyzers, ground simulators and trainers, flight test data reduction, etc., that directly support creation, test and maintenance of the deliverable software.  Where Commercial-Off-The-Shelf (COTS) or non-developmental components are integrated into a deliverable product, the organization and the customer shall agree on the extent of applicability of this supplement. The organization shall demonstrate that the software development infrastructure is in compliance with AS9100.&lt;/p&gt;
+    &lt;p&gt;This document also applies to firmware as defined herein.  It does not apply to programmable logic devices, including fuse-link or reconfigurable parts such as Application Specific Integrated Circuits, (ASIC) or Field Programmable Gate Arrays (FPGA).  ASICS AND FPGA’S are addressed by RTCA/DO-254.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

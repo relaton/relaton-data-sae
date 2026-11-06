@@ -1,0 +1,56 @@
+---
+id: SAEAMS7010A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Laser Directed Energy Deposition Additive Manufacturing Process (L-DED)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7010a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7010a-laser-directed-energy-deposition-additive-manufacturing-process-l-ded
+docidentifier:
+- content: SAE AMS7010A
+  type: SAE
+  primary: true
+- content: 10.4271/ams7010a
+  type: DOI
+date:
+- type: approved
+  at: '2021-10-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS AM Additive Manufacturing Metals
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes process controls for the repeatable production of preforms/parts using the laser directed energy deposition (L-DED-) process for additive manufacturing. Preforms are intended to be used to manufacture aerospace parts, but usage is not limited to such applications. Feedstock may be either wire (for L-DED-Wire) or powder (for L-DED-Powder).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

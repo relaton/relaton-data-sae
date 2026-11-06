@@ -1,0 +1,58 @@
+---
+id: SAEJ1701_202508
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Torque-Tension Tightening for Fasteners (Inch and Metric)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1701_202508
+- type: src
+  content: https://saemobilus.sae.org/standards/j1701_202508-torque-tension-tightening-fasteners-inch-metric
+docidentifier:
+- content: SAE J1701_202508
+  type: SAE
+  primary: true
+- content: 10.4271/j1701_202508
+  type: DOI
+date:
+- type: approved
+  at: '2025-08-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fasteners Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report is provided as an advisory guide and is not intended to be made a procurement requirement. Individual application discretion is recommended. The content has been presented as accurately as possible, but responsibility for its application lies with the user. The document covers a number of the variables in the torque-tension relationship: friction, materials, temperature, humidity, fastener and mating part finishes, surfaces, and the kind of tightening tools or equipment used. With an understanding of the variables to be considered, several methods to determine and tighten fasteners using the torque-tension relationship are identified.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This guide is limited in application to fasteners with ISO-metric or UN series threads. Other thread types, such as self-tapping or thread forming, may apply to some aspects of this standard but are not specifically covered.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The procedures described in this document are based on general factors for the determination of the torque-tension relationship for the use of end users. For critical joint design, the assembly torque values should be determined by experimentation using the exact assembly components.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

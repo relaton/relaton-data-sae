@@ -1,0 +1,57 @@
+---
+id: SAEARP4895B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Flight Control Actuators - Dynamic Seals, Collection of Duty Cycle Data
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4895b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4895b-flight-control-actuators-dynamic-seals-collection-duty-cycle-data
+docidentifier:
+- content: SAE ARP4895B
+  type: SAE
+  primary: true
+- content: 10.4271/arp4895b
+  type: DOI
+date:
+- type: approved
+  at: '2024-12-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A3 Flight Control and Vehicle Management Systems Cmt
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides an algorithm aimed to analyze flight control surface actuator movements with the objective to generate duty cycle data applicable to hydraulic actuator dynamic seals.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

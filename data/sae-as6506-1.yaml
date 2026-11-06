@@ -1,0 +1,57 @@
+---
+id: SAEAS65061
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fusion Splice for Aerospace Fiber Optic Cables
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6506/1
+- type: src
+  content: https://saemobilus.sae.org/standards/as65061-fusion-splice-aerospace-fiber-optic-cables
+docidentifier:
+- content: SAE AS6506/1
+  type: SAE
+  primary: true
+- content: 10.4271/as6506/1
+  type: DOI
+date:
+- type: approved
+  at: '2021-07-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification includes detailed requirements for a fiber optic cable splice compliant with AS6506.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Every requirement of the parent standard, AS6506, which applies to this detail specification is identified below by the word “applicable.” In any case in which a requirement of this specification varies from that of the parent standard, the alternate requirement is described. If a parent standard requirement does not apply, the words used are “not applicable.”&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

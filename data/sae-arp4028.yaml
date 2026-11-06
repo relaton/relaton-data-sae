@@ -1,0 +1,57 @@
+---
+id: SAEARP4028
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft/Engine Fuel Pump Two Phase (Slugging Flow) Inlet Performance Test
+    and Evaluation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4028
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4028-aircraft-engine-fuel-pump-two-phase-slugging-flow-inlet-performance-test-evaluation
+docidentifier:
+- content: SAE ARP4028
+  type: SAE
+  primary: true
+- content: 10.4271/arp4028
+  type: DOI
+date:
+- type: approved
+  at: '2020-04-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5B Aircraft and Engine Fuel and Lubricant Sys Components
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This procedure is intended to apply to all engine or airframe mounted fuel pumps and controls when required by the applicable specification. The procedure recommends a recirculation system similar to ARP492 to control the fuel properties affecting the fluid and its ability to "release" fuel vapors and dissolved air and have these "re-entrained or dissolved" during the fluid recovery process back to the tank and the original starting conditions.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

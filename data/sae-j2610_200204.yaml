@@ -1,0 +1,58 @@
+---
+id: SAEJ2610_200204
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Serial Data Communication Interface
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2610_200204
+- type: src
+  content: https://saemobilus.sae.org/standards/j2610_200204-serial-data-communication-interface
+docidentifier:
+- content: SAE J2610_200204
+  type: SAE
+  primary: true
+- content: 10.4271/j2610_200204
+  type: DOI
+date:
+- type: approved
+  at: '2002-04-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Information Report is to specify the requirements necessary to fully define the Serial Data Communication Interface (SCI) used in the reprogramming of emission-related powertrain Electronic Control Units (ECU) in DaimlerChrysler Corporation (Chrysler Group) vehicles. It is intended to satisfy new regulations proposed by the federal U.S. Environmental Protection Agency (EPA) and California Air Resource Board (CARB) regulatory agencies regarding “pass-thru programming” of all On-Board Diagnostic (OBD) compliant emission-related powertrain devices. These requirements are necessary to provide independent automotive service organizations and after-market scan tool suppliers the ability to reprogram emission-related powertrain ECUs for all manufacturers of automotive vehicles.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Specifically, this document details the SCI physical layer and SCI data link layer requirements necessary to establish communications between a diagnostic tester and an ECU. It further specifies additional requirements for the application of a flash strobe voltage multiplexed on the SCI communication link for purposes of ECU reprogramming. This document does not specify the content or meaning of the application messages or diagnostic protocol to be transmitted on the SCI communication link. It only defines a generic method to transfer data between a diagnostic tester and an ECU, regardless of application messaging structure.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This specification will be referenced from within SAE J2534 Pass-Thru Programming as a technical information report. In this regard, the inclusion of the SCI communication link is in addition to the approved OBD communication links previously specified in SAE J2534, and constitutes unique DaimlerChrysler Corporation (Chrysler Group) manufacturer-specific requirements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

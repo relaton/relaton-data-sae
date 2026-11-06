@@ -1,0 +1,63 @@
+---
+id: SAEJ2194_198712
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Roll-Over Protective Structures (ROPS) for Wheeled Agricultural Tractors
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2194_198712
+- type: src
+  content: https://saemobilus.sae.org/standards/j2194_198712-roll-protective-structures-rops-wheeled-agricultural-tractors
+docidentifier:
+- content: SAE J2194_198712
+  type: SAE
+  primary: true
+- content: 10.4271/j2194_198712
+  type: DOI
+date:
+- type: approved
+  at: '1987-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Agricultural Tractor Standards Committee (ATSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>Any ROPS meeting the performance requirement of ISO 5700 (Static ROPS Test Standard) or ISO 3463 (Dynamic ROPS Test Standard) meets the performance requirements of this SAE Standard if the ROPS temperature/material and seat belt requirements of this document are also met.
+
+    Fulfillment of the intended purpose requires testing as follows:
+
+    A temperature-material requirement (6.9).  This can be satisfied by using the appropriate materials or by performing any of the structural performance tests (Sections 7, 8, or 9) at -18 °C.
+
+    A laboratory test, under repeatable and controlled loading, to permit analysis of the ROPS for compliance with the performance requirements of this document.  Either the static test sequence (Section 7) or the impact test sequence (Section 8 ) shall be conducted.  See Figure 1.
+
+    A seat belt anchorage test (Section 10).
+
+    The test procedures and performance requirements outlined in this document are based on currently available engineering data.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

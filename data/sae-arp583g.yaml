@@ -1,0 +1,57 @@
+---
+id: SAEARP583G
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FLIGHT ATTENDANT STATIONS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp583g
+- type: src
+  content: https://saemobilus.sae.org/standards/arp583g-flight-attendant-stations
+docidentifier:
+- content: SAE ARP583G
+  type: SAE
+  primary: true
+- content: 10.4271/arp583g
+  type: DOI
+date:
+- type: approved
+  at: '1994-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-9B Cabin Interiors and Furnishings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Aerospace Recommended Practice (ARP) is to provide guidelines for the design and location of flight attendant stations, including emergency equipment installations at or near such stations, so as to enable the flight attendant to function effectively in an emergency situation, either in-flight or during an evacuation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Recommendations regarding the design of flight attendant stations shall apply to all such stations; such recommendations relative to location shall apply to those stations which are located near or adjacent to floor level exits.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

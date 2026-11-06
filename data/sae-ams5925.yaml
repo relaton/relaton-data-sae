@@ -1,0 +1,57 @@
+---
+id: SAEAMS5925
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Corrosion Resistant, Bars, Wire, and Forgings 15.5Cr - 1.8Mo - 0.20N
+    (0.37 - 0.45 C) Electroslag Remelted
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5925
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5925-steel-corrosion-resistant-bars-wire-forgings-155cr-18mo-020n-037-045-c-electroslag-remelted
+docidentifier:
+- content: SAE AMS5925
+  type: SAE
+  primary: true
+- content: 10.4271/ams5925
+  type: DOI
+date:
+- type: approved
+  at: '1999-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a premium aircraft-quality, corrosion-resistant steel in the form of bars, wire, forgings, and forging stock.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

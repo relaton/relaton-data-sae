@@ -1,0 +1,60 @@
+---
+id: SAEARP6255
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aviation Lubricant Tribology Evaluator (ALTE) Method to Determine the Lubricating
+    Capability of Gas Turbine Lubricants
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6255
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6255-aviation-lubricant-tribology-evaluator-alte-method-determine-lubricating-capability-gas-turbine-lubricants
+docidentifier:
+- content: SAE ARP6255
+  type: SAE
+  primary: true
+- content: 10.4271/arp6255
+  type: DOI
+date:
+- type: approved
+  at: '2013-03-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-34 Propulsion Lubricants Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Employing ‘ball-on-cylinder’ philosophy, a non-rotating steel ball is held in a vertically mounted chuck and using an applied load is forced against an axially mounted steel cylinder. The test cylinder is rotated at a fixed speed while being partially immersed in a lubricant reservoir. This maintains the cylinder in a wet condition and continuously transports a lubricating film of test fluid to the ball and cylinder interface. The diameter of the wear scar generated on the test ball is used as a measure of the fluid’s lubricating properties.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The apparatus can be used, by adjusting the operating conditions, to reproduce two different wear mechanisms; mild and severe wear, the ALTE therefore has the ability to assess a lubricant’s performance in that regard. These mechanisms are described below.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

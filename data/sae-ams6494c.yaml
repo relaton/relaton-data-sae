@@ -1,0 +1,57 @@
+---
+id: SAEAMS6494C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Bars, Forgings, Mechanical Tubing, and Forging Stock, 1.0Cr - 2.50Ni
+    - 2.0Mo - 1.10Si (0.10 - 0.20C), Aircraft-Quality
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6494c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6494c-steel-bars-forgings-mechanical-tubing-forging-stock-10cr-250ni-20mo-110si-010-020c-aircraft-quality
+docidentifier:
+- content: SAE AMS6494C
+  type: SAE
+  primary: true
+- content: 10.4271/ams6494c
+  type: DOI
+date:
+- type: approved
+  at: '2022-09-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aircraft-quality, low-alloy steel in the form of bars, forgings, mechanical tubing, and forging stock.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,60 @@
+---
+id: SAEARP1797A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft and Aircraft Engine Fuel Pump Low Lubricity Fluid Endurance Test
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1797a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1797a-aircraft-aircraft-engine-fuel-pump-low-lubricity-fluid-endurance-test
+docidentifier:
+- content: SAE ARP1797A
+  type: SAE
+  primary: true
+- content: 10.4271/arp1797a
+  type: DOI
+date:
+- type: approved
+  at: '2014-12-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5B Aircraft and Engine Fuel and Lubricant Sys Components
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This procedure is intended to apply to fuel pumps.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This procedure will be defined in terms of recommended test fluid, test setup, test conditions, and test method.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This procedure may be used for other fuel system components, by testing in conjunction with the pump, which normally supplies the component inlet flow, or a substitute test pump of similar capacity.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This procedure may be used, with variations in test conditions and test fluid for performing pump evaluation tests. Tests at progressively increasing pump speeds and pressures will provide design limitation data. Alternate test periods on a test pump and another pump, of a design for which actual service durability is known, will provide useful comparison data.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

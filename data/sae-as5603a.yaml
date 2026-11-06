@@ -1,0 +1,56 @@
+---
+id: SAEAS5603A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Digital Fiber Optic Link Loss Budget Methodology for Aerospace Platforms
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5603a
+- type: src
+  content: https://saemobilus.sae.org/standards/as5603a-digital-fiber-optic-link-loss-budget-methodology-aerospace-platforms
+docidentifier:
+- content: SAE AS5603A
+  type: SAE
+  primary: true
+- content: 10.4271/as5603a
+  type: DOI
+date:
+- type: approved
+  at: '2024-10-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document defines the steps and documentation required to perform a digital fiber optic link loss budget. This document does not specify how to design a digital fiber optic link. This document does not specify the parameters and data to use in a digital fiber optic link loss budget.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

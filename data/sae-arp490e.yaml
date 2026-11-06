@@ -1,0 +1,59 @@
+---
+id: SAEARP490E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ELECTROHYDRAULIC SERVOVALVES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp490e
+- type: src
+  content: https://saemobilus.sae.org/standards/arp490e-electrohydraulic-servovalves
+docidentifier:
+- content: SAE ARP490E
+  type: SAE
+  primary: true
+- content: 10.4271/arp490e
+  type: DOI
+date:
+- type: approved
+  at: '1993-09-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6B1 Hydraulic Servo Actuation Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) is intended as a guide to aid in the specification and testing of electrohydraulic servovalves.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The recommendations contained in this ARP are confined to the input and output characteristics of electrohydraulic servovalves, the primary focus being four-way flow control servovalves. Three-way flow control servovalves are discussed to a limited extent, and terminology recommended for use with pressure control servovalves is also presented. The information presented should be useful in standardizing the terminology, the specification of physical and performance parameters, and the test procedures used in conjunction with these components.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The recommendations do not restrict nor attempt to define the internal design characteristics of servovalves. As such, the material is equally applicable to servovalves having different internal functioning, different ratings, different physical size, etc. In certain instances, standards for valve design are recommended to increase component interchangeability, as, for example, valve polarity, mounting bolt and fluid port locations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The specifications contained herein should be adequate to describe electrohydraulic servovalves. Additional specifications may be necessary to define special requirements for specific control systems. Also, specialized test procedures may be necessary to measure servovalve performance in these unusual specification areas. These considerations are beyond the scope of this ARP.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

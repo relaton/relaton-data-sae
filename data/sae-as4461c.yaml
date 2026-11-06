@@ -1,0 +1,60 @@
+---
+id: SAEAS4461C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Assembly and Soldering Criteria for High Quality/High Reliability Soldering
+    Wire and Cable Termination in Aerospace Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4461c
+- type: src
+  content: https://saemobilus.sae.org/standards/as4461c-assembly-soldering-criteria-high-quality-high-reliability-soldering-wire-cable-termination-aerospace-vehicles
+docidentifier:
+- content: SAE AS4461C
+  type: SAE
+  primary: true
+- content: 10.4271/as4461c
+  type: DOI
+date:
+- type: approved
+  at: '2016-07-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8A Elec Wiring and Fiber Optic Interconnect Sys Install
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard is applicable to manual soldering and machine soldering processes utilizing controlled soldering devices, for electrical connections for wiring and cabling used in aerospace vehicles. Description of a component or device herein is not to be construed as authorizing the use of the component or device.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

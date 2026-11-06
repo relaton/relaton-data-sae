@@ -1,0 +1,59 @@
+---
+id: SAEJ1645_199901
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fuel System—Electrostatic Charge
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1645_199901
+- type: src
+  content: https://saemobilus.sae.org/standards/j1645_199901-fuel-system-electrostatic-charge
+docidentifier:
+- content: SAE J1645_199901
+  type: SAE
+  primary: true
+- content: 10.4271/j1645_199901
+  type: DOI
+date:
+- type: approved
+  at: '1999-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Recommended Practice is to provide an explanation of electrostatic charge phenomena as they relate to automotive fuel systems and how those phenomena should be handled if they develop. This document is limited to the group of components that are known as the fuel system and only those that handle liquid fuel in one of two situations: operation of the fuel delivery system and refueling of the vehicle.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This is a collection of ideas and generalities that are summarized from literature and presentations, inferred from some laboratory experimentation and summarized from experiences within the automotive industry as interpreted by the Electrostatics Subcommittee of the SAE Fuel Lines and Fittings Standards Committee. Some of the discussions are simplified. If users of this document need some further technical information, experts should be consulted or the references cited here should be examined directly.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In addition, a series of test procedures that may apply are discussed. These procedures are recommended means of measuring individual components or systems to assess their ability to handle an electrostatic charge situation that may arise. They are not the only possible tests, but they have been utilized at various locations within the auto industry for materials, components, systems, etc., and have proven to provide meaningful data when followed properly.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Any questions that arise concerning performance of a specific fuel system should be handled by direct testing or other experimentation involving the system or individual components. The vehicle OEM using the fuel system should be consulted for information on specific requirements. This document may be useful for providing guidelines on how to proceed.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

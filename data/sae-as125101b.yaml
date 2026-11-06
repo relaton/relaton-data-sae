@@ -1,0 +1,48 @@
+---
+id: SAEAS125101B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: RIVET - 100° COUNTERSUNK HEAD, MILD STEEL
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as125101b
+- type: src
+  content: https://saemobilus.sae.org/standards/as125101b-rivet-100-countersunk-head-mild-steel
+docidentifier:
+- content: SAE AS125101B
+  type: SAE
+  primary: true
+- content: 10.4271/as125101b
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

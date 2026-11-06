@@ -1,0 +1,49 @@
+---
+id: SAEAMS4112C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY BARS, RODS, AND WIRE 4.4Cu - 11.5Mg - 0.6Mn (2024-T6) Rolled,
+    Drawn, or Cold Finished
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4112c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4112c-aluminum-alloy-bars-rods-wire-44cu-115mg-06mn-2024-t6-rolled-drawn-cold-finished
+docidentifier:
+- content: SAE AMS4112C
+  type: SAE
+  primary: true
+- content: 10.4271/ams4112c
+  type: DOI
+date:
+- type: approved
+  at: '1992-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

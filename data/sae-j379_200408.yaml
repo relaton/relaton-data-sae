@@ -1,0 +1,59 @@
+---
+id: SAEJ379_200408
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Gogan Hardness of Brake Lining
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j379_200408
+- type: src
+  content: https://saemobilus.sae.org/standards/j379_200408-gogan-hardness-brake-lining
+docidentifier:
+- content: SAE J379_200408
+  type: SAE
+  primary: true
+- content: 10.4271/j379_200408
+  type: DOI
+date:
+- type: approved
+  at: '2004-08-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Brake Linings Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Hardness measurements are used as a quality control check of the consistency of formulation and processing of brake linings. Gogan hardness is nondestructive (the penetrator causes shallow surface deformation.). Gogan hardness method alone does not show anything about a lining’s ability to develop friction or to resist fade when used as a friction element in brakes.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The hardness and the range of hardness are peculiar to each formulation, thickness, and contour; therefore, the acceptable values and ranges must be established for each formulation and part configuration by the manufacturer.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

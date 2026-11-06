@@ -1,0 +1,49 @@
+---
+id: SAEAMS6260G
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS, FORGINGS, AND TUBING 1.2Cr - 3.25Ni - 0.12Mo (0.07 - 0.13C)
+    (SAE 9310)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6260g
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6260g-steel-bars-forgings-tubing-12cr-325ni-012mo-007-013c-sae-9310
+docidentifier:
+- content: SAE AMS6260G
+  type: SAE
+  primary: true
+- content: 10.4271/ams6260g
+  type: DOI
+date:
+- type: approved
+  at: '1966-03-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

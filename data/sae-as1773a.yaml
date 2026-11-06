@@ -1,0 +1,57 @@
+---
+id: SAEAS1773A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fiber Optics Mechanization of a Digital Time Division Command/Response
+    Multiplex Data Bus
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1773a
+- type: src
+  content: https://saemobilus.sae.org/standards/as1773a-fiber-optics-mechanization-a-digital-time-division-command-response-multiplex-data-bus
+docidentifier:
+- content: SAE AS1773A
+  type: SAE
+  primary: true
+- content: 10.4271/as1773a
+  type: DOI
+date:
+- type: approved
+  at: '2018-03-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document defines requirements for digital, command/ response time division multiplexing (data bus) techniques for fiber optic implementation. The concept of operation and information flow on the multiplex data bus and the functional formats to be employed are also defined.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

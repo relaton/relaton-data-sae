@@ -1,0 +1,69 @@
+---
+id: SAEJ2332_202603
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Marking of Rubber Parts
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2332_202603
+- type: src
+  content: https://saemobilus.sae.org/standards/j2332_202603-marking-rubber-parts
+docidentifier:
+- content: SAE J2332_202603
+  type: SAE
+  primary: true
+- content: 10.4271/j2332_202603
+  type: DOI
+date:
+- type: approved
+  at: '2026-03-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Committee on Automotive Rubber Specs
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice provides a system for marking thermoset rubber parts to designate the general type of material from which the part was fabricated.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

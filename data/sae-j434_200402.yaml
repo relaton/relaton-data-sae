@@ -1,0 +1,58 @@
+---
+id: SAEJ434_200402
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Automotive Ductile (Nodular) Iron Castings
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j434_200402
+- type: src
+  content: https://saemobilus.sae.org/standards/j434_200402-automotive-ductile-nodular-iron-castings
+docidentifier:
+- content: SAE J434_200402
+  type: SAE
+  primary: true
+- content: 10.4271/j434_200402
+  type: DOI
+date:
+- type: approved
+  at: '2004-02-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Metals Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE standard covers the minimum mechanical properties measured on separately cast test pieces of varying thickness and microstructural requirements for ductile iron castings used in automotive and allied industries. Castings may be specified in the as-cast or heat-treated condition. If castings are heat-treated, prior approval from the customer is required.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The appendix provides general information on chemical composition, microstructure and casting mechanical properties, as well as other information for particular service conditions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In this standard SI units are primary and in-lb units are derived.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEAS5440A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hydraulic Systems, Military Aircraft, Design and Installation, Requirements
+    For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5440a
+- type: src
+  content: https://saemobilus.sae.org/standards/as5440a-hydraulic-systems-military-aircraft-design-installation-requirements
+docidentifier:
+- content: SAE AS5440A
+  type: SAE
+  primary: true
+- content: 10.4271/as5440a
+  type: DOI
+date:
+- type: approved
+  at: '2011-01-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A2 Military Aircraft Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the design and installation requirements for Types I and II military aircraft hydraulic systems.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

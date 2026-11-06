@@ -1,0 +1,67 @@
+---
+id: SAEJ2185_199709
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: LIFE TEST FOR HEAVY-DUTY STORAGE BATTERIES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2185_199709
+- type: src
+  content: https://saemobilus.sae.org/standards/j2185_199709-life-test-heavy-duty-storage-batteries
+docidentifier:
+- content: SAE J2185_199709
+  type: SAE
+  primary: true
+- content: 10.4271/j2185_199709
+  type: DOI
+date:
+- type: approved
+  at: '1997-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Starter Battery Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice applies to 12 V storage batteries which operate in a voltage regulated charging system. It simulates heavy-duty applications by subjecting the battery to deeper discharge and charge cycles than those encountered in starting a vehicle. The deeper discharge and charge cycles in service may come from a combination of the following conditions:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Frequent occurrences of total electrical load exceeding the alternator output.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Frequent occurrences of battery system supplying the electrical loads when the engine is not operating.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Frequent occurrences of prolonged vehicle storage combined with high vehicle key-off loads.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;Batteries will be classified into two types for this life test. Type 1 applies to batteries with reserve capacity of 200 min or less. Type 2 applies to batteries with reserve capacity greater than 200 min. (“C” value for Type 1 equals 25.0; “C” value for Type 2 equals 50.0.)&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

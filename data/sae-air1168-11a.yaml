@@ -1,0 +1,58 @@
+---
+id: SAEAIR116811A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Spacecraft Boost and Entry Heat Transfer
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1168/11a
+- type: src
+  content: https://saemobilus.sae.org/standards/air116811a-spacecraft-boost-entry-heat-transfer
+docidentifier:
+- content: SAE AIR1168/11A
+  type: SAE
+  primary: true
+- content: 10.4271/air1168/11a
+  type: DOI
+date:
+- type: approved
+  at: '2011-07-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The prediction of vehicle temperatures during ascent through the earth’s atmosphere requires an accurate knowledge of the aerodynamic heating rates occurring at the vehicle surface. Flight parameters required in heating calculations include the local airstream velocity, pressure, and temperature at the boundary layer edge for the vehicle location in question. In addition, thermodynamic and transport air properties are required at these conditions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Both laminar and turbulent boundary layers occur during the boost trajectory. Experience has shown that laminar and turbulent heating are of equivalent importance. Laminar heating predominates in importance in the stagnation areas, but the large afterbody surfaces are most strongly affected by turbulent heating. Once the local flow conditions and corresponding air properties have been obtained, the convective heating rate may be calculated for a particular wall temperature. This assumes that the boundary layer flow regime (that is, turbulent, laminar, or transitory) has also been established, so that a heating theory corresponding to the particular flow conditions may be selected.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This section presents theoretical methods for computing boost vehicle surface aerodynamic heating rates. First, procedures are given for computing the local flow distributions around the vehicle. Second, methods are given for computing the convective heating rates, using the flow parameters found previously.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

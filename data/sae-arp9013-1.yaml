@@ -1,0 +1,57 @@
+---
+id: SAEARP90131
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Statistical Product Acceptance Requirements Using Isolated Lot Sampling
+    Methods
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp9013/1
+- type: src
+  content: https://saemobilus.sae.org/standards/arp90131-statistical-product-acceptance-requirements-using-isolated-lot-sampling-methods
+docidentifier:
+- content: SAE ARP9013/1
+  type: SAE
+  primary: true
+- content: 10.4271/arp9013/1
+  type: DOI
+date:
+- type: approved
+  at: '2005-10-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Aerospace Recommended Practice (ARP) is to ensure conformance for each product characteristic being verified in a lot, without maintaining information from previous lots. ARP9013/1 specifies a product acceptance system for isolated lots. For example, isolated lot sampling avoids keeping track of the normal, tightened, and reduced levels of sampling formerly used in MIL-STD-105 and currently used in ANSI/ASQC Z1.4. Because those switching rules provided significant long-term protection for product quality, these isolated lot tables replace that protection in other ways.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

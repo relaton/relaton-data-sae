@@ -1,0 +1,56 @@
+---
+id: SAEAMS2438
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CHROMIUM COATING Thin, Hard, Dense Deposit
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2438
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2438-chromium-coating-thin-hard-dense-deposit
+docidentifier:
+- content: SAE AMS2438
+  type: SAE
+  primary: true
+- content: 10.4271/ams2438
+  type: DOI
+date:
+- type: approved
+  at: '1994-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the engineering requirements for the deposition of a thin, hard, dense chromium coating on surfaces of ferrous and nonferrous alloys and the properties of the coating.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

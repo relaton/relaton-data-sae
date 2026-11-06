@@ -1,0 +1,59 @@
+---
+id: SAEAS6285F
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Ground Deicing/Anti-Icing Processes
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6285f
+- type: src
+  content: https://saemobilus.sae.org/standards/as6285f-aircraft-ground-deicing-anti-icing-processes
+docidentifier:
+- content: SAE AS6285F
+  type: SAE
+  primary: true
+- content: 10.4271/as6285f
+  type: DOI
+date:
+- type: approved
+  at: '2025-05-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12M Methods Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) establishes the minimum requirements for ground-based aircraft deicing/anti-icing methods and procedures to ensure the safe operation of aircraft during icing conditions on the ground. This document does not specify the requirements for particular aircraft models.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;The application of the procedures specified in this document are intended to effectively remove and/or prevent the accumulation of frost, snow, slush, or ice contamination which can seriously affect the aerodynamic performance and/or the controllability of an aircraft. The principal method of treatment employed is the use of fluids qualified to AMS1424 (Type I fluid) and AMS1428 (Type II, III, and IV fluids).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;All guidelines referred to herein are applicable only in conjunction with the applicable documents. Due to aerodynamic and other concerns, the application of deicing/anti-icing fluids shall be carried out in compliance with engine and aircraft manufacturer’s recommendations.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

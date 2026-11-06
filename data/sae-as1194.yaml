@@ -1,0 +1,59 @@
+---
+id: SAEAS1194
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Regulator Oxygen Diluter Demand, Automatic Pressure Breathing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1194
+- type: src
+  content: https://saemobilus.sae.org/standards/as1194-regulator-oxygen-diluter-demand-automatic-pressure-breathing
+docidentifier:
+- content: SAE AS1194
+  type: SAE
+  primary: true
+- content: 10.4271/as1194
+  type: DOI
+date:
+- type: approved
+  at: '1997-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>To define optimum standards of design, construction and performance
+    for Diluter Demand, Automatic Pressure Breathing, Oxygen Regulators. AS 861, 'Minimum
+    General Standards for Oxygen Systems,' is applicable as  supplemented by this
+    specification. This document supersedes in part AS 463, 12-15-56, which is cancelled.
+    This specification covers two types of Diluter Demand, Automatic Pressure Breathing,
+    Oxygen Regulators for use in civil type aircraft. The intent is that the regulators
+    be of two configurations, operable at inlet pressures of 40 to 90 psig and 50
+    to 150 psig.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

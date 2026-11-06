@@ -1,0 +1,56 @@
+---
+id: SAEAMS3185
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HYDRAULIC FLUID, NONFLAMMABLE Chlorotrifluoroethylene (CTFE) Base
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3185
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3185-hydraulic-fluid-nonflammable-chlorotrifluoroethylene-ctfe-base
+docidentifier:
+- content: SAE AMS3185
+  type: SAE
+  primary: true
+- content: 10.4271/ams3185
+  type: DOI
+date:
+- type: approved
+  at: '1995-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a nonflammable hydraulic fluid, composed with a chlorotrifluoroethylene (CTFE) base, in the form of a liquid.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

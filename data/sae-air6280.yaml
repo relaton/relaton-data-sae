@@ -1,0 +1,58 @@
+---
+id: SAEAIR6280
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Overview of Aircraft Landing Gear Shimmy Analysis Methods
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6280
+- type: src
+  content: https://saemobilus.sae.org/standards/air6280-overview-aircraft-landing-gear-shimmy-analysis-methods
+docidentifier:
+- content: SAE AIR6280
+  type: SAE
+  primary: true
+- content: 10.4271/air6280
+  type: DOI
+date:
+- type: approved
+  at: '2021-06-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5 Aerospace Landing Gear Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides an overview of the tire properties, strut properties, damper properties, and other landing gear mechanical properties that contribute to shimmy stability and are required for shimmy analysis. A variety of analysis techniques and assumptions are presented.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

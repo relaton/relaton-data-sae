@@ -1,0 +1,57 @@
+---
+id: SAEJ1900_199010
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SEALS - BOND TEST FIXTURE AND PROCEDURE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1900_199010
+- type: src
+  content: https://saemobilus.sae.org/standards/j1900_199010-seals-bond-test-fixture-procedure
+docidentifier:
+- content: SAE J1900_199010
+  type: SAE
+  primary: true
+- content: 10.4271/j1900_199010
+  type: DOI
+date:
+- type: approved
+  at: '1990-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: SAE IC Powertrain Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Bond, as it relates to elastomeric seals, is defined as "The adhesion, established by vulcanization, between two cured elastomeric surfaces, or between one cured elastomeric surface and one nonelastomeric surface".&lt;span class="xref"&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/span&gt; Vulcanization refers in this case to chemical bonding. Good bond is essential to the function of elastomeric radial lip seals and other precision. bonded parts.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice describes a universal bond test fixture developed by the RMA that can be mounted to a conventional tensile test machine. This will allow a quantitative evaluation of bond rather than a merely qualitative one.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

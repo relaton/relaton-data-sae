@@ -1,0 +1,68 @@
+---
+id: SAEJ2948_201101
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Keyless Ignition Control Design
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2948_201101
+- type: src
+  content: https://saemobilus.sae.org/standards/j2948_201101-keyless-ignition-control-design
+docidentifier:
+- content: SAE J2948_201101
+  type: SAE
+  primary: true
+- content: 10.4271/j2948_201101
+  type: DOI
+date:
+- type: approved
+  at: '2011-01-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Controls and Displays Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes guidelines for the operation of automotive keyless ignition systems with the goal of helping to minimize user instigated errors.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For the purpose of this Recommended Practice, user instigated errors may include:
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;the inability to start and stop the vehicle propulsion system,&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;exiting the vehicle with the automatic transmission in a non-parking gear,&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;exiting the vehicle while the vehicle propulsion system is enabled,&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;exiting the vehicle while the vehicle propulsion system is disabled, but the accessory or electrical systems are active.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;To help minimize these errors, this Recommended Practice contains design recommendations pertaining to uniform labeling, operating logic, indication of vehicle ignition/control status, and physical control characteristics of keyless ignition systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This Recommended Practice applies to keyless ignition controls permanently mounted in passenger cars, MPVs, and trucks 10 000 GVWR and under. It does not apply to remote start/remote stop systems that provide remote controls to start or stop a vehicle engine from outside the vehicle.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

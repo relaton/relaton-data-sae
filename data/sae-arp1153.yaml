@@ -1,0 +1,57 @@
+---
+id: SAEARP1153
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: METHOD FOR DETERMINING RELATIVE SPECIFIC GRAVITY POLYTETRAFLUOROETHYLENE
+    TUBING
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1153
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1153-method-determining-relative-specific-gravity-polytetrafluoroethylene-tubing
+docidentifier:
+- content: SAE ARP1153
+  type: SAE
+  primary: true
+- content: 10.4271/arp1153
+  type: DOI
+date:
+- type: approved
+  at: '1970-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification describes a method for determining the specific gravity of tubing, fabricated from polytetrafluoroethylene, after a controlled heating and cooling cycle. The specific gravity obtained by this method is a measure of relative molecular weight of the resin. The measure, termed Relative Specific Gravity (RSG), increases with decreasing molecular weight (see &lt;span class="xref"&gt;2.3&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

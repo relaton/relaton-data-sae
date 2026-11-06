@@ -1,0 +1,59 @@
+---
+id: SAEARP4084B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Ground Service Connections Locations and Type
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4084b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4084b-aircraft-ground-service-connections-locations-type
+docidentifier:
+- content: SAE ARP4084B
+  type: SAE
+  primary: true
+- content: 10.4271/arp4084b
+  type: DOI
+date:
+- type: approved
+  at: '2021-09-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Aerospace Recommended Practice (ARP) is to standardize locations of aircraft ground service connections to accommodate the trend toward fixed systems, which use the passenger boarding bridge and/or underground “pop-up” or pit systems as a source of utilities. It must be recognized that, in standardizing the locations of the aircraft service connections, they must continue to be served efficiently in those instances where mobile ground support equipment is used. There is an ever increasing number of fixed installations for aircraft servicing. The objectives to be met by standardizing the locations of the aircraft service connections are the following:&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

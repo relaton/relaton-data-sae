@@ -1,0 +1,54 @@
+---
+id: SAEAMS27595
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Heat Treatment, Martensitic Corrosion-Resistant Steel Parts
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2759/5
+- type: src
+  content: https://saemobilus.sae.org/standards/ams27595-heat-treatment-martensitic-corrosion-resistant-steel-parts
+docidentifier:
+- content: SAE AMS2759/5
+  type: SAE
+  primary: true
+- content: 10.4271/ams2759/5
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This specification, in conjunction with the general requirements for steel heat treatment covered in AMS 2759, establishes the requirements for heat treatment of martensitic corrosion-resistant steel parts. Parts are defined in AMS 2759.&lt;/p&gt;
+    &lt;p&gt;This specification is applicable to parts made from the following steels: Types 403, 410, 416, 420, 422, 431, 440C, and Greek Ascoloy (UNS S40300, S41000, S41600, S42000, S42200, S43100, S44004, and S41800 respectively).&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

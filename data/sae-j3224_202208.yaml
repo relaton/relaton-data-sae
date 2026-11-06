@@ -1,0 +1,56 @@
+---
+id: SAEJ3224_202208
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: V2X Sensor-Sharing for Cooperative and Automated Driving
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3224_202208
+- type: src
+  content: https://saemobilus.sae.org/standards/j3224_202208-v2x-sensor-sharing-cooperative-automated-driving
+docidentifier:
+- content: SAE J3224_202208
+  type: SAE
+  primary: true
+- content: 10.4271/j3224_202208
+  type: DOI
+date:
+- type: approved
+  at: '2022-08-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Advanced Applications Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard describes the concept of operation, use cases, and message flows to create a Sensor Sharing Service (SSS). This service enable RSUs and V2X&lt;span class="xref"&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/span&gt; vehicles to share information about their localized driving environment. This work defines message structure, V2X entity requirements, and information elements to describe detected objects to facilitate sensor sharing.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

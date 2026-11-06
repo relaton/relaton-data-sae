@@ -1,0 +1,51 @@
+---
+id: SAECPFD1_11MUST98R
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: J1349 Certified Power Engine Data for Ford 5.0L DOHC V8 as used in 2011
+    Mustang 98 RON Calibration - Level 1
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/cpfd1_11must98r
+- type: src
+  content: https://saemobilus.sae.org/services/cpfd1_11must98r-j1349-certified-power-engine-data-ford-50l-dohc-v8-used-2011-mustang-98-ron-calibration-level-1
+docidentifier:
+- content: SAE CPFD1_11MUST98R
+  type: SAE
+  primary: true
+- content: 10.4271/cpfd1_11must98r
+  type: DOI
+date:
+- type: approved
+  at: '2010-02-09'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This product includes information on the manufacturer, engine, application,
+    testing location, certified maximum horsepower, certified maximum torque along
+    with the certified curves of horsepower and torque over a wide range of engine
+    RPM speeds.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

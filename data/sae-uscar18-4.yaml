@@ -1,0 +1,56 @@
+---
+id: SAEUSCAR184
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: USCAR-17 SUPPLEMENT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar18-4
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar18-4-uscar-17-supplement
+docidentifier:
+- content: SAE USCAR-18-4
+  type: SAE
+  primary: true
+- content: 10.4271/uscar18-4
+  type: DOI
+date:
+- type: approved
+  at: '2016-07-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is a supplement to SAE/USCAR 17 and is intended to give recommended usages for one and two-way RF connectors and dimensional requirements for 2-way RF connectors and hybrid (RF &amp;amp; DC power) connectors which are not currently specified elsewhere. The radio frequency (RF) connector interface specified herein is suited for unsealed and sealed automobile applications up to 6 GHz and is intended for in-line, board mount, device mount, straight or angled applications. Dimensional requirements are specified in this document to ensure interchangeability. Compliance with the dimensional requirements of this specification will not guarantee interoperability between different suppliers mating connectors. It is the supplier responsibility to ensure RF performance requirements are met with other suppliers mating connectors. Performance requirements are specified in SAE/USCAR-2, and in SAE/USCAR-17.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

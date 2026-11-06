@@ -1,0 +1,56 @@
+---
+id: SAEAS8243
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Anti-Icing and Deicing-Defrosting Fluids
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8243
+- type: src
+  content: https://saemobilus.sae.org/standards/as8243-anti-icing-deicing-defrosting-fluids
+docidentifier:
+- content: SAE AS8243
+  type: SAE
+  primary: true
+- content: 10.4271/as8243
+  type: DOI
+date:
+- type: approved
+  at: '1998-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12ADF Aircraft Deicing Fluids
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the requirements for two types of anti-icing and deicing-defrosting fluids for use on aircraft.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

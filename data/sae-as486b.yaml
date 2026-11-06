@@ -1,0 +1,52 @@
+---
+id: SAEAS486B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Circuit Breaker and Fuse Arrangement
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as486b
+- type: src
+  content: https://saemobilus.sae.org/standards/as486b-aircraft-circuit-breaker-fuse-arrangement
+docidentifier:
+- content: SAE AS486B
+  type: SAE
+  primary: true
+- content: 10.4271/as486b
+  type: DOI
+date:
+- type: approved
+  at: '1978-07-15'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The purpose of this standard is set forth the desired location, arrangement
+    and general requirements of aircraft circuit breakers and fuses. The recommendations
+    of this standard apply to all civil type multi-engine transport aircraft.  The
+    definitions used herein are made as brief as possible and in familiar cockpit
+    language.  They are intended only to identify the devices mentioned rather than
+    to prescribe their application.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

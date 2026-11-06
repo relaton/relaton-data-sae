@@ -1,0 +1,58 @@
+---
+id: SAEJ1645_199402
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FUEL SYSTEM ELECTROSTATIC CHARGE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1645_199402
+- type: src
+  content: https://saemobilus.sae.org/standards/j1645_199402-fuel-system-electrostatic-charge
+docidentifier:
+- content: SAE J1645_199402
+  type: SAE
+  primary: true
+- content: 10.4271/j1645_199402
+  type: DOI
+date:
+- type: approved
+  at: '1994-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Information Report is to provide a summary of the electrostatic charge phenomenon (as it relates to an automotive fuel system) and how that phenomenon could be handled if it develops. The "fuel system" that is the subject of this document is the group of components used during the operation of the vehicle (tank, filler neck, pump, filter, lines, connectors, etc.). Electrostatic charge that may arise during refueling is also included.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is very important to note that this is a collection of ideas and generalities that are summarized from literature and presentations, inferred from some laboratory experimentation, and interpreted by the Electrostatics Subcommittee of the SAE Fuel Lines and Fittings Standards Committee. Some of the discussions are simplified. If more technical information is needed by users of this document, experts should be consulted or literature should be examined directly.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Any questions that arise concerning a specific fuel system should be handled by direct testing or other experimentation involving the system or individual components. This document may be useful for providing guidelines on how to proceed.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

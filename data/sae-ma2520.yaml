@@ -1,0 +1,48 @@
+---
+id: SAEMA2520
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: NUT - HEX, BACK-UP RING, PORT FITTING CONNECTOR, AMS 5639, MJ THREAD, METRIC
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma2520
+- type: src
+  content: https://saemobilus.sae.org/standards/ma2520-nut-hex-back-ring-port-fitting-connector-ams-5639-mj-thread-metric
+docidentifier:
+- content: SAE MA2520
+  type: SAE
+  primary: true
+- content: 10.4271/ma2520
+  type: DOI
+date:
+- type: approved
+  at: '2012-11-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

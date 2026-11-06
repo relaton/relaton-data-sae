@@ -1,0 +1,49 @@
+---
+id: SAEAIR847A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Oxygen Equipment for Commercial Transport Aircraft Which Fly Above 45,000
+    Ft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air847a
+- type: src
+  content: https://saemobilus.sae.org/standards/air847a-oxygen-equipment-commercial-transport-aircraft-fly-45000-ft
+docidentifier:
+- content: SAE AIR847A
+  type: SAE
+  primary: true
+- content: 10.4271/air847a
+  type: DOI
+date:
+- type: approved
+  at: '2016-05-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAMS4432
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Plate (7160-T7451) 7.0Zn – 2.2Cu – 1.5Mg - 0.10Zr Solution
+    Heat Treated, Stress Relieved, and Overaged
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4432
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4432-aluminum-alloy-plate-7160-t7451-70zn-22cu-15mg-010zr-solution-heat-treated-stress-relieved-overaged
+docidentifier:
+- content: SAE AMS4432
+  type: SAE
+  primary: true
+- content: 10.4271/ams4432
+  type: DOI
+date:
+- type: approved
+  at: '2019-12-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of plate 1.000 to 6.000 inch (25.40 to 152.40 mm), inclusive, in nominal thickness (see &lt;span class="xref"&gt;8.4&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

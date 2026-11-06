@@ -1,0 +1,52 @@
+---
+id: SAECRP005
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: The RCRA Regulatory Status of Air Bag Inflator/ Module Units
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/crp-005
+- type: src
+  content: https://saemobilus.sae.org/standards/crp-005-rcra-regulatory-status-air-bag-inflator-module-units
+docidentifier:
+- content: SAE CRP-005
+  type: SAE
+  primary: true
+- content: 10.4271/crp-005
+  type: DOI
+date:
+- type: approved
+  at: '1992-08-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Cooperative Research Report analyzes whether discarded air
+    bag inflator/module units should be regulated  under the federal Resource Conservation
+    Recovery Act (RCRA).  This extensive document includes information on  EPA rules
+    and policy statements, an analysis of whether undeployed and deployed air bag
+    inflator/module units should be classified as hazardous wastes, recycling of  these
+    units, federal legislative developments, and more.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

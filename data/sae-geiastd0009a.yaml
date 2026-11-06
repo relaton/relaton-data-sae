@@ -1,0 +1,69 @@
+---
+id: SAEGEIASTD0009A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Reliability Program Standard for Systems Design, Development, and Manufacturing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/geiastd0009a
+- type: src
+  content: https://saemobilus.sae.org/standards/geiastd0009a-reliability-program-standard-systems-design-development-manufacturing
+docidentifier:
+- content: SAE GEIA-STD-0009A
+  type: SAE
+  primary: true
+- content: 10.4271/geiastd0009a
+  type: DOI
+date:
+- type: approved
+  at: '2020-05-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-41 Reliability
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard requires the developers and customer/users working as a team to plan and implement a reliability program that provides systems/products that satisfy the user’s requirements and expectations. The user’s requirements and needs are expressed in the form of the following four reliability objectives:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;The developer shall solicit, investigate, analyze, understand and agree to the user’s requirements and product needs.&lt;/b&gt; The developer, working with the customer and user, shall include the activities necessary to ensure that the user’s requirements and product needs are fully understood and defined, so that a comprehensive design specification and Reliability Program Plan can be generated.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;The developer shall use well-defined reliability- and systems-engineering processes to develop, design, and verify that the system/product meets the user’s documented reliability requirements and needs.&lt;/b&gt; The developer shall implement a set of engineering activities (included in this standard as normative activities and informative activities, refer to &lt;span class="xref"&gt;Section 3&lt;/span&gt;) so that the resulting system/product satisfies the customer’s documented requirements and needs.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;The multifunctional team shall verify during production that the developer has met the user’s reliability requirements and needs prior to fielding.&lt;/b&gt; The developer shall include activities that assure the customer that the reliability requirements and product needs have been satisfied.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;The multifunctional team shall monitor and assess the reliability of the system/product in the field.&lt;/b&gt; The team is responsible for identifying the data elements to assess the reliability of the system/product in the field and to ensure the data collected are accurate and complete. The team will establish a closed-loop feedback method to flow recommended improvements (corrective actions) for monitoring reliability growth.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

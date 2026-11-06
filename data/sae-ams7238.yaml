@@ -1,0 +1,57 @@
+---
+id: SAEAMS7238
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALLOY PM SHAPES, CORROSION, WEAR, AND HEAT RESISTANT 56Co - 30Cr - 8.25W
+    (1.10 - 1.90C)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7238
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7238-alloy-pm-shapes-corrosion-wear-heat-resistant-56co-30cr-825w-110-190c
+docidentifier:
+- content: SAE AMS7238
+  type: SAE
+  primary: true
+- content: 10.4271/ams7238
+  type: DOI
+date:
+- type: approved
+  at: '1986-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion, wear, and heat resistant cobalt alloy in the form of powder-metallurgy shapes.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

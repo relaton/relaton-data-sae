@@ -1,0 +1,56 @@
+---
+id: SAEAIR1616B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Self-Sealing Breakaway Valves for Crash-Resistant Aircraft Fuel Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1616b
+- type: src
+  content: https://saemobilus.sae.org/standards/air1616b-self-sealing-breakaway-valves-crash-resistant-aircraft-fuel-systems
+docidentifier:
+- content: SAE AIR1616B
+  type: SAE
+  primary: true
+- content: 10.4271/air1616b
+  type: DOI
+date:
+- type: approved
+  at: '2020-03-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5A Aerospace Fuel, Inerting and Lubrication Sys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;MIL-STD-1290, 14 CFR 27.952, and 14 CFR 29.952 provide crash resistant fuel system design and test criteria that significantly minimize fuel leaks and occurrence of post-crash fire in survivable impacts. This document does not change and does not authorize changes in or deviations from MIL-Standard or regulatory requirements. This document provides guidance for the design, performance, and test criteria for self-sealing breakaway valves.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEJ2188_199603
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: COMMERCIAL TRUCK AND BUS SAE RECOMMENDED PROCEDURE FOR VEHICLE PERFORMANCE
+    PREDICTION AND CHARTING
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2188_199603
+- type: src
+  content: https://saemobilus.sae.org/standards/j2188_199603-commercial-truck-bus-sae-recommended-procedure-vehicle-performance-prediction-charting
+docidentifier:
+- content: SAE J2188_199603
+  type: SAE
+  primary: true
+- content: 10.4271/j2188_199603
+  type: DOI
+date:
+- type: approved
+  at: '1996-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Powertrain Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice takes into account modern standardized methods for collecting and summarizing data that has an effect on vehicle steady-state performance, such as engine output, gross and net, transmission losses, drivetrain efficiency, vehicle air drag reduction devices for various vehicle and body configurations, as well as road surface variations and air density variations resulting from altitude and barometric effects. The procedure does not address vehicle transient performance (acceleration, braking, and cornering), because of the considerable amount of additional data required such as moment of inertia of all the rotating parts. Nor does it address vehicles with torque converters and automatic transmissions. This document is therefore intended for vehicles having fixed ratio type transmissions and positive engagement clutches, used on the USA road system. As such, the procedure assumes input and output will be in FPS units, because these are the units used for USA transport systems. Metric and ISO unit conversions are provided in the metric conversion tables at the end of this procedure (see &lt;span class="xref"&gt;Appendix B&lt;/span&gt;).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Some modern vehicles with electronic engine controls have the ability to vary the maximum engine revolutions for each gear, as well as permitting the power or rpm to increase if more time is spent in the lower gears, as when climbing a grade. These special cases can be handled by this procedure, just by customizing the data for each transmission ratio and superimposing the long-term data on top of the instantaneous data.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;All of the equations are written in a form suitable for programming into a mainframe or desk-top computer, using a spreadsheet/database or a higher level language, such as basic, fortran, pascal, C or unix, etc. However, they are simple enough also, to be performed on a modern hand-held calculator.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

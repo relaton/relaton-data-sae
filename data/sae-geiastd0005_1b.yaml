@@ -1,0 +1,70 @@
+---
+id: SAEGEIASTD0005_1B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standard for Developing a Lead-Free Control Plan to Manage the Risks of
+    Lead-Free Solders and Finishes in Aerospace, Defense, and High-Performance Soldered
+    Electronic Products
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/geiastd0005_1b
+- type: src
+  content: https://saemobilus.sae.org/standards/geiastd0005_1b-standard-developing-a-lead-free-control-plan-manage-risks-lead-free-solders-finishes-aerospace-defense-high-performance-soldered-electronic-products
+docidentifier:
+- content: SAE GEIA-STD-0005-1B
+  type: SAE
+  primary: true
+- content: 10.4271/geiastd0005_1b
+  type: DOI
+date:
+- type: approved
+  at: '2023-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-24 Pb-free Risk Management Committee for ADHP
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This technical report identifies the requirements for an LFCP for ADHP soldered electronic products built fully or partially with Pb-free materials and assembly processes. An LFCP documents the specific Pb-free materials and assembly processes used to assure customers their ADHP soldered electronic products will meet the applicable reliability requirements of the customer. This standard specifically addresses LFCPs for:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Pb-free components and mixed assembly: Products originally designed and qualified with SnPb solder and assembly processes that incorporate components with Pb-free termination finishes and/or Pb-free BGAs, i.e., assembling Pb-free parts using eutectic/near-eutectic SnPb processes (also known as mixed metallurgy).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;COTS products: COTS products likely built with Pb-free materials and assembly processes.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Pb-free design and assembly: Products designed and qualified with Pb-free solder and assembly processes.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard does not include detailed descriptions of the processes to be documented in an LFCP, but lists high-level requirements for ADHP soldered electronic products using Pb-free materials and assembly processes, such as requirements for manufacturing and reliability, configuration control and product identification, and rework, repair, and maintenance.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard is structured to enable tailoring, i.e., deleting, adding, or modifying requirements as applicable to the product, system or program under consideration. Tailoring GEIA-STD-0005-1 requires agreement between the LFCP user and customer before implementation.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,48 @@
+---
+id: SAEAMS4771
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BRAZING ALLOY, SILVER 50Ag - 16Cd - 15.5Zn - 15.5Cu - 3Ni
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4771
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4771-brazing-alloy-silver-50ag-16cd-155zn-155cu-3ni
+docidentifier:
+- content: SAE AMS4771
+  type: SAE
+  primary: true
+- content: 10.4271/ams4771
+  type: DOI
+date:
+- type: approved
+  at: '1958-08-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

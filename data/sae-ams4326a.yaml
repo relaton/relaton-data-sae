@@ -1,0 +1,58 @@
+---
+id: SAEAMS4326A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, 2013, Extruded Bar, Rod, and Profiles 1.0Mg - 0.80Si -
+    1.8Cu - 0.20Cr (2013 -T6511) Solution Heat Treated, Stress-Relieved by Stretching,
+    and Aged
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4326a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4326a-aluminum-alloy-2013-extruded-bar-rod-profiles-10mg-080si-18cu-020cr-2013-t6511-solution-heat-treated-stress-relieved-stretching-aged
+docidentifier:
+- content: SAE AMS4326A
+  type: SAE
+  primary: true
+- content: 10.4271/ams4326a
+  type: DOI
+date:
+- type: approved
+  at: '2018-02-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of extruded bars, rods, and integrated profiles up to 0.200 inch (5.08.mm), inclusive, in nominal thickness (see &lt;span class="xref"&gt;8.5&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

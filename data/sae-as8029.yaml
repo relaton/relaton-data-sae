@@ -1,0 +1,69 @@
+---
+id: SAEAS8029
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MINIMUM PERFORMANCE STANDARD FOR FUEL AND OIL QUANTITY INDICATING SYSTEM
+    COMPONENTS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8029
+- type: src
+  content: https://saemobilus.sae.org/standards/as8029-minimum-performance-standard-fuel-oil-quantity-indicating-system-components
+docidentifier:
+- content: SAE AS8029
+  type: SAE
+  primary: true
+- content: 10.4271/as8029
+  type: DOI
+date:
+- type: approved
+  at: '2008-02-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4 Aircraft Instruments Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AS defines components in "Capacitance Sensor" and "Non-Capacitance Sensor" type Fuel and Oil Quantity Indicating Systems. "Non-Capacitance" systems may employ any measurement technique current in the art including, but not restricted to, float, ultra-sonic and fiber optic devices.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The definition of the individual components contained herein is related to the specified Total Installed System accuracy of the entire Fuel or Oil Quantity Indicating System which is a part of the airframe manufacturer's type certification approval data. This data shall be available from the subject airframe manufacturer as published in the operating manual for the aircraft type, model number and configuration. The Fuel or Oil Quantity Indicating System may incorporate optimum compensation based upon measurement of dielectric constant, temperature or density to correct for variations in fuel or oil characteristics due to temperature grade variations or additives. Examples of the type of components covered by this AS are as follows:&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,49 @@
+---
+id: SAEAS850495A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CONNECTOR ACCESSORIES, ELECTRICAL, BACKSHELL, CABLE SEALING, STRAIGHT,
+    STEP-DOWN, CATEGORY 1A (FOR MIL-DTL-22992 CONNECTORS, CLASSES C, J, AND R)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as85049/5a
+- type: src
+  content: https://saemobilus.sae.org/standards/as850495a-connector-accessories-electrical-backshell-cable-sealing-straight-step-down-category-1a-mil-dtl-22992-connectors-classes-c-j-r
+docidentifier:
+- content: SAE AS85049/5A
+  type: SAE
+  primary: true
+- content: 10.4271/as85049/5a
+  type: DOI
+date:
+- type: approved
+  at: '2006-09-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C1 Connectors Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

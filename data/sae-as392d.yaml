@@ -1,0 +1,61 @@
+---
+id: SAEAS392D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Altimeter, Pressure Actuated Sensitive Type
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as392d
+- type: src
+  content: https://saemobilus.sae.org/standards/as392d-altimeter-pressure-actuated-sensitive-type
+docidentifier:
+- content: SAE AS392D
+  type: SAE
+  primary: true
+- content: 10.4271/as392d
+  type: DOI
+date:
+- type: approved
+  at: '2025-09-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4ADWG Air Data Subcommittee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aeronautical Standard covers two (2) basic types of instruments as follows:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;TYPE I - Range 35,000 feet. Barometric Pressure. Scale range at least 28.1 - 30.99 inches of mercury (946-1049 millibars). May include markers working in conjunction with the Barometric Pressure Scale to indicate pressure altitude.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;TYPE II- Range 50,000 feet. Barometric Pressure. Scale range at least 28.1 - 30.99 inches of mercury (946-1049 millibars). May include markers working in conjunction with the Barometric Pressure Scale to indicate pressure altitude.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

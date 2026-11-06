@@ -1,0 +1,60 @@
+---
+id: SAEJ1032_200710
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Definitions for Machine Availability (Off-Road Work Machines)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1032_200710
+- type: src
+  content: https://saemobilus.sae.org/standards/j1032_200710-definitions-machine-availability-off-road-work-machines
+docidentifier:
+- content: SAE J1032_200710
+  type: SAE
+  primary: true
+- content: 10.4271/j1032_200710
+  type: DOI
+date:
+- type: approved
+  at: '2007-10-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Machine Technical Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The purpose of this SAE Recommended Practice is to provide a set of
+    recognized definitions as a universally understood means of communication among
+    all people interested in the inherent availability of off-Road Work machines.
+    \ It is not the intent of this document to provide an absolute measure of unit
+    availability.  The intent is to provide common definitions for classifying and
+    evaluating operation, repair, and maintenance data.  This recommended practice
+    applies to construction and general purpose industrial machines as categorized
+    in SAE J1116. It describes the parameters related to the inherent availability
+    of the covered classes of Off-Road Self-Propelled Work Machines.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

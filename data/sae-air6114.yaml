@@ -1,0 +1,57 @@
+---
+id: SAEAIR6114
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Interface for Micro Munition (IMM) Handbook
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6114
+- type: src
+  content: https://saemobilus.sae.org/standards/air6114-interface-micro-munition-imm-handbook
+docidentifier:
+- content: SAE AIR6114
+  type: SAE
+  primary: true
+- content: 10.4271/air6114
+  type: DOI
+date:
+- type: approved
+  at: '2016-09-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1B Aircraft Store Integration Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document was prepared by the SAE AS-1B1 IMM Task Group to explain and document background information and design decisions made during the development of AS5726. This handbook is published separately to preserve information that is not required or provided in the AS5726 but may be important to system designers to ensure interoperability between the Micro Munition Host and Micro Munition. As a handbook, it cannot be invoked as a requirement in a contract.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The structure and numbering of this document mirrors that of AS5726 for the convenience of readers. Headings such as “Requirements” in this handbook should not be interpreted as invoking requirements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

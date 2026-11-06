@@ -1,0 +1,75 @@
+---
+id: SAEEIA511
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Manufacturing Message Specification – Service Definition and Protocol
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/eia511
+- type: src
+  content: https://saemobilus.sae.org/standards/eia511-manufacturing-message-specification-service-definition-protocol
+docidentifier:
+- content: SAE EIA-511
+  type: SAE
+  primary: true
+- content: 10.4271/eia511
+  type: DOI
+date:
+- type: approved
+  at: '2016-06-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Systems Management Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The Manufacturing Message Specification is an application layer Standard designed to support messaging communications to and from programmable devices in a Computer Integrated Manufacturing (CIM) environment. This environment is referred to in this Standard as the manufacturing environment. This Standard does not specify a complete set of services for remote programming of devices, although provision of such a set of services may be the subject of future standardization efforts.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This Standard defines the Manufacturing Message Specification within the OSI application layer in terms of:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;an abstract model defining the interaction between users of the service;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;the externally visible functionality of implementations conforming to this Standard, in the form of procedural requirements associated with the execution of service requests;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;the primitive actions and events of the service;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;the parameter data associated with each primitive action and event;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;the relationship between, and the valid sequences of, these actions and events.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;The service defined in this Standard is that which is provided by the Manufacturing Message Specification protocol. The service may be used by other application layer service elements or by other elements of the application process.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This part of this Standard does not specify individual implementations or products, nor does it constrain the implementation of entities and interfaces within a computer system. This Standard does specify the externally visible functionality of implementations, and specifies conformance requirements for such functionality.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

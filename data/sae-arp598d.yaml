@@ -1,0 +1,63 @@
+---
+id: SAEARP598D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Microscopic Sizing and Counting of Particulate Contamination
+    for Fluid Power Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp598d
+- type: src
+  content: https://saemobilus.sae.org/standards/arp598d-aerospace-microscopic-sizing-counting-particulate-contamination-fluid-power-systems
+docidentifier:
+- content: SAE ARP598D
+  type: SAE
+  primary: true
+- content: 10.4271/arp598d
+  type: DOI
+date:
+- type: approved
+  at: '2016-06-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This SAE Aerospace Recommended Practice (ARP) defines the materials, apparatus and procedure for sizing and counting of particulate contamination, 5 μm or greater, in hydraulic fluid samples by membrane filtration iwth microscopic counting.&lt;/p&gt;
+
+
+    &lt;p&gt;It is capable of counting particulate matter in samples withdrawn from fluid power systems as identified by the 12 classes of SAE AS 4059 or NAS 1638 and projected beyond these for the five standard ranges specified and can thus serve as the primary document to determine acceptability.&lt;/p&gt;
+
+
+    &lt;p&gt;It is also capable of revealing but not measuring evidence of abnormal amount of water, other fluids, fine particulate and other materials, especially fibers and metals.&lt;/p&gt;
+
+
+    &lt;p&gt;It is applicable to all military, civil, space vehicles and test equipment.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

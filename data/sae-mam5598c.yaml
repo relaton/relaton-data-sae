@@ -1,0 +1,56 @@
+---
+id: SAEMAM5598C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nickel Alloy, Corrosion and Heat Resistant, Sheet, Strip, and Plate 72ni
+    15.5cr 0.95(Cb + Ta) 2.5ti 0.70al 7.0fe Consumable Electrode Or Vacuum Induction
+    Melted Solution Heat Treated, Precipitation Hardenable
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/mam5598c
+- type: src
+  content: https://saemobilus.sae.org/standards/mam5598c-nickel-alloy-corrosion-heat-resistant-sheet-strip-plate-72ni-155cr-095-cb-ta-25ti-070al-70fe-consumable-electrode-vacuum-induction-melted-solution-heat-treated-precipitation-hardenable
+docidentifier:
+- content: SAE MAM5598C
+  type: SAE
+  primary: true
+- content: 10.4271/mam5598c
+  type: DOI
+date:
+- type: approved
+  at: '2003-03-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This specification covers a corrosion and heat resistant nickel alloy in the form of sheet, strip, and plate procured in SI (metric) units.&lt;/p&gt;
+    &lt;p&gt;AMS 5598 is the inch/pound version of this MAM.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

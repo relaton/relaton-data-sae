@@ -1,0 +1,56 @@
+---
+id: SAEMAM6304B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Low-Alloy Steel, Heat-Resistant, Bars, Forgings, and Tubing, 0.95cr 0.55mo
+    0.30v (0.40-0.50c)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/mam6304b
+- type: src
+  content: https://saemobilus.sae.org/standards/mam6304b-low-alloy-steel-heat-resistant-bars-forgings-tubing-095cr-055mo-030v-040-050c
+docidentifier:
+- content: SAE MAM6304B
+  type: SAE
+  primary: true
+- content: 10.4271/mam6304b
+  type: DOI
+date:
+- type: approved
+  at: '2003-03-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This specification covers an aircraft-quality, low-alloy, heat-resistant steel in the form of bars, forgings, mechanical tubing, and forging stock procured in SI (metric) units.&lt;/p&gt;
+    &lt;p&gt;AMS 6304 is the inch/pound version of this MAM.&lt;/p&gt;
+    &lt;p&gt;These products have been used typically for parts, such as shafts, and fasteners, for service up to 540 degrees C, but usage is not limited to such applications.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

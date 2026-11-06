@@ -1,0 +1,56 @@
+---
+id: SAEAIR944
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PNEUMATIC POWER SUPPLIES FOR STARTING AIRCRAFT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air944
+- type: src
+  content: https://saemobilus.sae.org/standards/air944-pneumatic-power-supplies-starting-aircraft
+docidentifier:
+- content: SAE AIR944
+  type: SAE
+  primary: true
+- content: 10.4271/air944
+  type: DOI
+date:
+- type: approved
+  at: '1988-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-6 Starting Systems and Auxiliary Power Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The information contained in this report has been simplified to facilitate its use. Specific manufacturers should be contacted for more detailed information. Many of the basic power plants are available in numerous configurations to provide shaft power or electrical power in addition to the pneumatic capability. Vehicles for the ground transportation of the power supplies are also varied to fit specific requirements. The state-of-the-art in small gas turbines has advanced to a point where they are competitive with the more conventional ground power supplies in practically all areas.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

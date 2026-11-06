@@ -1,0 +1,57 @@
+---
+id: SAEAIR4766
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Air Quality for Commercial Aircraft Cabins
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4766
+- type: src
+  content: https://saemobilus.sae.org/standards/air4766-air-quality-commercial-aircraft-cabins
+docidentifier:
+- content: SAE AIR4766
+  type: SAE
+  primary: true
+- content: 10.4271/air4766
+  type: DOI
+date:
+- type: approved
+  at: '2024-10-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides information on air quality and some of the factors affecting the perception of cabin air quality in commercial aircraft cabin air. Also a typical safety analysis process utilizing a Functional Hazard Assessment approach is discussed.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

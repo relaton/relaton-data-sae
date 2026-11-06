@@ -1,0 +1,58 @@
+---
+id: SAEIEEEEIA12207_0
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Industry Implementation of International Standard ISO/IEC 12207:1995 (ISO/IEC
+    12207) Standard for Information Technology Software Life Cycle Processes
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ieeeeia12207_0
+- type: src
+  content: https://saemobilus.sae.org/standards/ieeeeia12207_0-industry-implementation-international-standard-iso-iec-122071995-iso-iec-12207-standard-information-technology-software-life-cycle-processes
+docidentifier:
+- content: SAE IEEEEIA12207_0
+  type: SAE
+  primary: true
+- content: 10.4271/ieeeeia12207_0
+  type: DOI
+date:
+- type: approved
+  at: '2016-06-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Systems Management Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This International Standard establishes a common framework for software life cycle processes, with well-defined terminology, that can be referenced by the software industry. It contains processes, activities, and tasks that are to be applied during the acquisition of a system that contains software, a stand-alone software product, and software service and during the supply, development, operation, and maintenance of software products. Software includes the software portion of firmware.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This International Standard also provides a process that can be employed for defining, controlling, and improving software life cycle processes.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

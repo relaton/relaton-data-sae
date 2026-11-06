@@ -1,0 +1,57 @@
+---
+id: SAEAMS4279C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Alclad Sheet 4.4Cu - 1.5Mg - 0.60Mn (2024-T4 Flat Sheet)
+    Solution Heat Treated, High Formability
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4279c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4279c-aluminum-alloy-alclad-sheet-44cu-15mg-060mn-2024-t4-flat-sheet-solution-heat-treated-high-formability
+docidentifier:
+- content: SAE AMS4279C
+  type: SAE
+  primary: true
+- content: 10.4271/ams4279c
+  type: DOI
+date:
+- type: approved
+  at: '2022-08-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of sheet clad on both sides with a different alloy for sheet thicknesses of 0.020 to 0.128 inches (0.51 to 3.25 mm), inclusive, in nominal thickness (see &lt;span class="xref"&gt;8.5&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

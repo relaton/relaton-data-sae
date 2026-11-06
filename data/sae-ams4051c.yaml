@@ -1,0 +1,49 @@
+---
+id: SAEAMS4051C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY SHEET AND PLATE, ALCLAD 6.8Zn - 2.75Mg - 2.0Cu - 0.30Cr
+    (Alclad 7178-0)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4051c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4051c-aluminum-alloy-sheet-plate-alclad-68zn-275mg-20cu-030cr-alclad-7178-0
+docidentifier:
+- content: SAE AMS4051C
+  type: SAE
+  primary: true
+- content: 10.4271/ams4051c
+  type: DOI
+date:
+- type: approved
+  at: '1969-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

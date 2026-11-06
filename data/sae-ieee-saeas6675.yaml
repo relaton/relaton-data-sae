@@ -1,0 +1,56 @@
+---
+id: SAEIEEESAEAS6675
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Time‐Sensitive Networking for Aerospace Onboard Ethernet Communications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ieee/saeas6675
+- type: src
+  content: https://saemobilus.sae.org/standards/ieeesaeas6675-time-sensitive-networking-aerospace-onboard-ethernet-communications
+docidentifier:
+- content: SAE IEEE/SAEAS6675
+  type: SAE
+  primary: true
+- content: 10.4271/ieee/saeas6675
+  type: DOI
+date:
+- type: approved
+  at: '2025-11-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This standard specifies profiles of IEEE 802.1 Time-Sensitive Networking
+    (TSN) and IEEE 802.1 Security standards for aerospace onboard bridged IEEE 802.3
+    Ethernet networks. The profiles select features, options, configurations, defaults,
+    protocols, and procedures of bridges, end stations, and Local Area Networks to
+    build deterministic networks for aerospace onboard communications.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,61 @@
+---
+id: SAEAS31401B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CONNECTOR, RECEPTACLE, ELECTRIC, CRIMP TYPE, WALL MOUNTING FLANGE, PUSH-PULL,
+    COUPLING, SERIES 2 (CLASS E AND J)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as31401b
+- type: src
+  content: https://saemobilus.sae.org/standards/as31401b-connector-receptacle-electric-crimp-type-wall-mounting-flange-push-pull-coupling-series-2-class-e-j
+docidentifier:
+- content: SAE AS31401B
+  type: SAE
+  primary: true
+- content: 10.4271/as31401b
+  type: DOI
+date:
+- type: approved
+  at: '2026-07-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C1 Connectors Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

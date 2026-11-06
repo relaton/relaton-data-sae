@@ -1,0 +1,49 @@
+---
+id: SAEMA4147A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BOLT, SPLINE DRIVE, EXTENDED WASHER, REDUCED SHANK, AMS5662 (UNS N07718)
+    1275 MPa UTS, METRIC
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma4147a
+- type: src
+  content: https://saemobilus.sae.org/standards/ma4147a-bolt-spline-drive-extended-washer-reduced-shank-ams5662-uns-n07718-1275-mpa-uts-metric
+docidentifier:
+- content: SAE MA4147A
+  type: SAE
+  primary: true
+- content: 10.4271/ma4147a
+  type: DOI
+date:
+- type: approved
+  at: '2019-12-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

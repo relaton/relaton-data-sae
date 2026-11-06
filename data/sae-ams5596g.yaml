@@ -1,0 +1,58 @@
+---
+id: SAEAMS5596G
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALLOY SHEET, STRIP, AND PLATE, CORROSION AND HEAT RESISTANT 52.5Ni - 19Cr
+    - 3.0Mo - 5.1(Cb + Ta) - 0.90Ti - 0.50Al - 18Fe Consumable Electrode or Vacuum
+    Induction Melted 1750°F (955°C) Solution Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5596g
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5596g-alloy-sheet-strip-plate-corrosion-heat-resistant-525ni-19cr-30mo-51-cb-ta-090ti-050al-18fe-consumable-electrode-vacuum-induction-melted-1750f-955c-solution-heat-treated
+docidentifier:
+- content: SAE AMS5596G
+  type: SAE
+  primary: true
+- content: 10.4271/ams5596g
+  type: DOI
+date:
+- type: approved
+  at: '1987-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat resistant nickel alloy in the form of sheet, strip, foil, and plate.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

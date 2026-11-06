@@ -1,0 +1,55 @@
+---
+id: SAEJ945_196802
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: VEHICULAR HAZARD WARNING SIGNAL FLASHER
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j945_196802
+- type: src
+  content: https://saemobilus.sae.org/standards/j945_196802-vehicular-hazard-warning-signal-flasher
+docidentifier:
+- content: SAE J945_196802
+  type: SAE
+  primary: true
+- content: 10.4271/j945_196802
+  type: DOI
+date:
+- type: approved
+  at: '1968-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Circuit Protection and Switch Device Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+    &lt;div class="htmlview paragraph"&gt;Flashers referred to in this SAE Recommended Practice are for nominal 6 v d-c or 12 v d-c circuits as specified by the manufacturer, and are required to operate from two signal lamps to the maximum design load, including pilot lamps, as stated by the manufacturer.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

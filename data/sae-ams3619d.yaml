@@ -1,0 +1,56 @@
+---
+id: SAEAMS3619D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Resin, Polyimide, Laminating High Temperature Resistant, 315 °C (599 °F)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3619d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3619d-resin-polyimide-laminating-high-temperature-resistant-315-c-599-f
+docidentifier:
+- content: SAE AMS3619D
+  type: SAE
+  primary: true
+- content: 10.4271/ams3619d
+  type: DOI
+date:
+- type: approved
+  at: '2010-11-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P Polymeric Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a single-component, heat-reactive, thermosetting aromatic system which thermally cures to form a polyimide polymer structure.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

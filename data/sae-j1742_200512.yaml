@@ -1,0 +1,63 @@
+---
+id: SAEJ1742_200512
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Connections for High Voltage On-Board Road Vehicle Electrical Wiring Harnesses—Test
+    Methods and General Performance Requirements
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1742_200512
+- type: src
+  content: https://saemobilus.sae.org/standards/j1742_200512-connections-high-voltage-board-road-vehicle-electrical-wiring-harnesses-test-methods-general-performance-requirements
+docidentifier:
+- content: SAE J1742_200512
+  type: SAE
+  primary: true
+- content: 10.4271/j1742_200512
+  type: DOI
+date:
+- type: approved
+  at: '2005-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electrical Distribution Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Procedures included within this specification are intended to cover performance testing at all phases of development, production, and field analysis of electrical terminals, connectors, and components that constitute the electrical connection systems in high power (20 V to 600 V and/or &amp;gt;80 amps) road vehicle applications. These procedures are applicable only to terminals used for In-Line, Header, and Device Connectors and for cable sizes up to 120 mm&lt;sup&gt;2&lt;/sup&gt; (4/0).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In cases where power levels are mixed in the same connector, (i.e. sensing or normal 14.5 volt system circuits with High Power Contacts) the High Power Contacts must pass J1742 requirements, and all other contacts must pass SAE J2223-2 requirements. The connection system (housing and high power contacts) shall meet J1742 requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The requirements and procedures in this document are not intended for connections internal to electrical/electronic modules or complete subassemblies.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not contain a test for EMI/EMC since these parameters must be tested as a combination of cable and connector. These are considered system level requirements. Determination of the need and type of test must be considered at that level.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;See &lt;span class="xref"&gt;Appendix C&lt;/span&gt;, Design Notes for further information.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

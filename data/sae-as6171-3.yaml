@@ -1,0 +1,59 @@
+---
+id: SAEAS61713
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Techniques for Suspect/Counterfeit EEE Parts Detection by X-Ray Fluorescence
+    Test Methods
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6171/3
+- type: src
+  content: https://saemobilus.sae.org/standards/as61713-techniques-suspect-counterfeit-eee-parts-detection-x-ray-fluorescence-test-methods
+docidentifier:
+- content: SAE AS6171/3
+  type: SAE
+  primary: true
+- content: 10.4271/as6171/3
+  type: DOI
+date:
+- type: approved
+  at: '2022-06-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-19A Test Laboratory Standards Development Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;XRF technique for counterfeit detection is applicable to electrical, electronic and electromechanical (EEE) parts as listed in AS6171 General Requirements. In general, the detection technique is meant for use on piece parts prior to assembly on a circuit board or on the parts that are removed from a circuit board. The applicability spans a large swath of active, passive and electromechanical parts.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;If AS6171/3 is invoked in the contract, the base document, AS6171 General Requirements shall also apply.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

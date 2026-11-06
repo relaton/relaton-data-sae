@@ -1,0 +1,56 @@
+---
+id: SAEAIR5080
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Integration of Probabilistic Methods into the Design Process
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5080
+- type: src
+  content: https://saemobilus.sae.org/standards/air5080-integration-probabilistic-methods-design-process
+docidentifier:
+- content: SAE AIR5080
+  type: SAE
+  primary: true
+- content: 10.4271/air5080
+  type: DOI
+date:
+- type: approved
+  at: '2012-05-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-11 Probabilistic Methods and Uncertainty Quantification
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document discusses a recommended new approach to integrate probabilistic methodologies with design practices, procedures, and software codes currently being used. In addition to complementing design methods currently in use, this new procedure will permit the designer to quantify the amount of conservatism that exists for a particular design due to the large amount of additional information which is provided to the designer. This additional information will allow the designer to make better decisions when faced with tradeoffs between cost, reliability, performance, and weight. Although the methodologies described herein can be used heavily in the design process, their applicability is much more encompassing. They can be used from product concept to customer delivery.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEJ1537_202105
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Gasoline Low-Pressure Electric Fuel Pump Characterization
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1537_202105
+- type: src
+  content: https://saemobilus.sae.org/standards/j1537_202105-gasoline-low-pressure-electric-fuel-pump-characterization
+docidentifier:
+- content: SAE J1537_202105
+  type: SAE
+  primary: true
+- content: 10.4271/j1537_202105
+  type: DOI
+date:
+- type: approved
+  at: '2021-05-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Gasoline Fuel Injection Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice defines the tests for three basic categories of pump characteristics. These are the basic functional performance tests, the pump limitation tests and the pump integrity tests. The basic functional tests included are three individual tests, with the first being for pump speed, current draw, and electrical resistance. The other two individual tests are for the deadhead pressure and the delivered fuel flow rate at the rated delivery pressure and voltage. The included tests for pump limitations are individual tests for hot fuel handling, cold magnet knockdown, load dump transient, electrical interference, and reverse flow leak. The testing for pump integrity includes individual tests for vibration, temperature cycling, internal fluid compatibility, and operational durability. These 12 individual tests provide a characterization of the particular pump. This document only addresses the in-tank-mounted, electric-motor-driven, low-pressure fuel pump itself, and does not address in-tank pump modules, as these modules may include other devices. The pumps that are to be tested are intended for the pumping of liquid fuels that are applicable to fuel-injected, spark-ignition engines.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

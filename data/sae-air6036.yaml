@@ -1,0 +1,57 @@
+---
+id: SAEAIR6036
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Passenger Hypoxia Protection Utilizing Oxygen Enriched Gas Mixtures
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6036
+- type: src
+  content: https://saemobilus.sae.org/standards/air6036-passenger-hypoxia-protection-utilizing-oxygen-enriched-gas-mixtures
+docidentifier:
+- content: SAE AIR6036
+  type: SAE
+  primary: true
+- content: 10.4271/air6036
+  type: DOI
+date:
+- type: approved
+  at: '2024-09-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Currently, existing civil aviation standards address the design and certification of oxygen dispensing devices that utilize oxygen sources supplying at least 99.5% oxygen. This Aerospace Information Report discusses issues relating to the use in the passenger cabin of oxygen enriched breathing gas mixtures having an oxygen content of less than 99.5% and describes one method of showing that passenger oxygen dispensing devices provide suitable hypoxia protection when used with such mixtures.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

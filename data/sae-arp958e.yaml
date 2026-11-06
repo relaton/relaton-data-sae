@@ -1,0 +1,56 @@
+---
+id: SAEARP958E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electromagnetic Interference Measurement Antennas; Calibration Method
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp958e
+- type: src
+  content: https://saemobilus.sae.org/standards/arp958e-electromagnetic-interference-measurement-antennas-calibration-method
+docidentifier:
+- content: SAE ARP958E
+  type: SAE
+  primary: true
+- content: 10.4271/arp958e
+  type: DOI
+date:
+- type: approved
+  at: '2021-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-4 Electromagnetic Compatibility (EMC) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice outlines a standardized and economical method for the checkout and calibration of electromagnetic interference measurement antennas. Its application is for use when measuring a source 1 m from the antenna in a shield room. This is the typical distance used in performing military EMC testing. The influence of the shield room on the measured field strength is not considered. This standard does not address the measurement of emissions from an unknown distributed source, yet it attempts to resemble reality by using another antenna, in the calibration method, that represents a distributed source. This document presents a technique to determine antenna factors for antennas used primarily in performing measurements in accordance with References &lt;span class="xref"&gt;2.1&lt;/span&gt; and &lt;span class="xref"&gt;2.2&lt;/span&gt;. The purpose of Revision B was to include the calibration of other antennas, such as biconical, horn, monopole and small loop antennas that are also specified for use in these same references. Revision D includes a specific procedure for loop antennas that are separated by 1 m from the device under test. Revision E adds the inclusion of modern instrumentation, instruction on how to calibrate the hybrid antenna, and attempts to improve upon the clarity of this document for the user.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

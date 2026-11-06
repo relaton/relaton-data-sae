@@ -1,0 +1,64 @@
+---
+id: SAECTI45014_202610
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Connected Intersections Implementation Guide - Testing and Validation Guidance
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/cti45014_202610
+- type: src
+  content: https://saemobilus.sae.org/standards/cti45014_202610-connected-intersections-implementation-guide-testing-validation-guidance
+docidentifier:
+- content: SAE CTI45014_202610
+  type: SAE
+  primary: true
+- content: 10.4271/cti45014_202610
+  type: DOI
+date:
+- type: approved
+  at: '2026-10-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Connected Transportation Interoperability Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;CTI 4501 defines the key capabilities and interfaces a connected signalized intersection must support to ensure interoperability with vehicles, including production vehicles, for state and local Infrastructure Owner Operators (IOOs). A connected intersection is defined as an infrastructure system that broadcasts SPaT, MAP, and optionally position correction data to vehicles.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The CTI 4501 family of documents define procurement and implementation guidance and the expectations leading to minimum performance requirements for a connected intersection. It is intended to be used by IOOs to provide guidance on how to implement an interoperable connected intersection. For OEMs and other application developers, these recommended practices provide an explanation on what data and connected vehicle messages are being provided from an interoperable connected intersection so safety applications can be developed for production vehicles, with an initial focus on the Red Light Violation Warning (RLVW) application. Although the focus is on the RLVW application, requirements for other V2X applications related to connected intersections, including requirements for traffic signal controllers to generate the SPaT information, are also addressed assuming the connected intersection configuration and messages can support them and no significant effort was needed. The Needs to Requirements Traceability Matrix (NRTM) in CTI 4501, 6.2.3, provides the guidance to IOOs for the procurement of a connected intersection.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Recognizing that some stakeholders require more in-depth guidance on specific aspects of connected intersections, Version 2 of the CI Implementation Guide has been reorganized into a main document and several companion subdocuments. The main document establishes the overarching framework following a Systems Engineering Process (SEP), and includes a Concept of Operations (ConOps), System Requirements (Functional Requirements), System Design Details, and a Needs to Requirements Traceability Matrix (NRTM). These elements enable users to identify and procure connected intersection solutions that satisfy their specific needs.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The companion documents elaborate on specialized areas such as SPaT, MAP, security, and testing and validation, providing requirements and design details tailored for those subject areas. &lt;span class="xref"&gt;Figure 1&lt;/span&gt; depicts the relationships among these subdocuments and other documents that support the implementation of a connected intersection. By separating out these focused topics, the guide more effectively supports Infrastructure Owner Operators (IOOs), OEMs, suppliers, and application developers who need targeted information. Taken together, the main guide and the companion documents ensure that connected intersection deployments align with national standards and support a high level of interoperability, ultimately facilitating safer and more efficient automated transportation systems.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;This Testing and Validation Guidance Document focuses on providing guidance on developing a verification plan to confirm that an implementation fulfills all the requirements for a connected signalized intersection. This document defines what should be included in, and examples of content that should go into a verification plan.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For IOOs, this document provides actionable guidance on developing test documents to verify an implementation for interoperability. The contents of this document are NOT standardized test methods, test cases, or test procedures; instead, the contents are EXAMPLES of what might be in a verification plan. The specific test approach, test scope, test cases, and test procedures in a verification plan will vary by IOO based on its specific test approach, procedures, and policies.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For OEMs and developers, how an IOO will verify an implementation such that the connected vehicle messages broadcasted from compliant intersections enables the development of standards-based safety-critical applications such as Red Light Violation Warning (RLVW). Users are encouraged to refer to the main CTI 4501 document for overarching ConOps, system needs, and operational context while leveraging this Testing and Validation guide for verification and validation activities.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Other companion documents, such as CTI 4501/1 - SPaT Messages and CTI 4501/2 - MAP Messages, also contain content about connected intersection testing in &lt;span class="xref"&gt;Section 8&lt;/span&gt;. However, CTI45014 provides the overview and philosophy of developing a testing framework in &lt;span class="xref"&gt;Section 8&lt;/span&gt;, while the companion documents provide topic specific examples.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

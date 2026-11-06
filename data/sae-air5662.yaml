@@ -1,0 +1,80 @@
+---
+id: SAEAIR5662
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Method for Predicting Lateral Attenuation of Airplane Noise
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5662
+- type: src
+  content: https://saemobilus.sae.org/standards/air5662-method-predicting-lateral-attenuation-airplane-noise
+docidentifier:
+- content: SAE AIR5662
+  type: SAE
+  primary: true
+- content: 10.4271/air5662
+  type: DOI
+date:
+- type: approved
+  at: '2025-01-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-21 Aircraft Noise Measurement Aviation Emission Modeling
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes analytical methods for calculating the attenuation of the level of the sound propagating from an airplane to locations on the ground and to the side of the flight path of an airplane during ground roll, climbout after liftoff, and landing operations. Both level and non-level ground scenarios may be modeled using these methods, however application is only directly applicable to terrain without significant undulations, which may cause multiple reflections and/or multiple shielding effects. This attenuation is termed lateral attenuation and is in excess of the attenuation from wave divergence and atmospheric absorption.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The methods for calculating the lateral attenuation of the sound apply to:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;turbofan-powered transport-category airplanes with engines mounted at the rear of the fuselage (on the sides of the fuselage or in the center of the fuselage as well as on the sides) or under the wings&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;propeller-driven transport-category or general-aviation airplanes&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;propagation over ground surfaces that may be considered to be “acoustically soft” such as lawn or field grass&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;situations where the terrain to the sides of the flight paths is not necessarily flat with receiver locations that are elevated above or depressed below the corresponding point on the ground under a flight path&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;flight paths that include turns such that the airplane is banked.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;The calculation methods do not apply for calculation of lateral attenuation for:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;propagation over ground surfaces that are considered to be “acoustically hard” such as frozen or compacted soil, ice, or water&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;propagation over ground surfaces that contain many large structures, extensive forests, and similar objects&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;propagation over ground surfaces with significant undulating terrain&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;the sound produced by helicopters.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;Helicopters are highly directional sources. While the specific method described herein is not wholly applicable to the prediction of lateral attenuation of helicopter noise, some components (see &lt;span class="xref"&gt;6.1&lt;/span&gt;) may be applicable.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Relationships presented herein were derived utilizing data from microphones placed 1.2 m above the local ground surface. The relationships may be appropriate for use at receivers at other heights, however care should be taken in such applications.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

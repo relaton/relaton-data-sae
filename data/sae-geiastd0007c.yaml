@@ -1,0 +1,56 @@
+---
+id: SAEGEIASTD0007C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Logistics Product Data
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/geiastd0007c
+- type: src
+  content: https://saemobilus.sae.org/standards/geiastd0007c-logistics-product-data
+docidentifier:
+- content: SAE GEIA-STD-0007C
+  type: SAE
+  primary: true
+- content: 10.4271/geiastd0007c
+  type: DOI
+date:
+- type: approved
+  at: '2019-11-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: LCLS Life Cycle Logistics Supportability
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE GEIA-STD-0007C defines logistics product data generated during the requirement definition and design of an industry or government system, end item, or product. It makes use of the Extensible Markup Language (XML) through the use of entities and attributes that comprise logistics product data and their definitions. The standard is designed to provide users with a uniform set of data tags for all or portions of logistics product data. The standard can be applied to any industry or government product, system or equipment acquisition program, major modification program, and applicable research and development projects. This standard is for use by both industry and government activities. As used in this standard, the requiring authority is generally the customer and the customer can be a government or industry activity. The performing activity may be either a industry or government activity. The use of the term “contract” in this standard includes any document of agreement between organizations.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEAMS71001
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fused Filament Fabrication Process - Stratasys Fortus 900mc Plus with Type
+    1, Class 1, Form 1, Grade 0 Natural Color Material for
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7100/1
+- type: src
+  content: https://saemobilus.sae.org/standards/ams71001-fused-filament-fabrication-process-stratasys-fortus-900mc-plus-type-1-class-1-form-1-grade-0-natural-color-material
+docidentifier:
+- content: SAE AMS7100/1
+  type: SAE
+  primary: true
+- content: 10.4271/ams7100/1
+  type: DOI
+date:
+- type: approved
+  at: '2022-07-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS AM Additive Manufacturing Non-Metallic
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes the critical controls and requirements for the production of reliable, repeatable, reproducible aerospace parts by the Stratasys Fortus 900mc Plus with Type 1, Class 1, Form 1, Grade 0, natural color material for fused filament fabrication system, but is not limited to such application. This procedure will establish the configuration of the machine and build parameters, the testing methodology, and mechanical specification minimum guidelines required to create aerospace part.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

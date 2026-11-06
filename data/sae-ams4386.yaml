@@ -1,0 +1,48 @@
+---
+id: SAEAMS4386
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MAGNESIUM ALLOY SHEET AND PLATE 14.0Li - 1.25A1 (LA 141A-T7) Stabilized
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4386
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4386-magnesium-alloy-sheet-plate-140li-125a1-la-141a-t7-stabilized
+docidentifier:
+- content: SAE AMS4386
+  type: SAE
+  primary: true
+- content: 10.4271/ams4386
+  type: DOI
+date:
+- type: approved
+  at: '1964-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

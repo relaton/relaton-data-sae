@@ -1,0 +1,57 @@
+---
+id: SAESSB1D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guidelines for Using Plastic Encapsulated Microcircuits and Semiconductors
+    in Military, Aerospace, and Other Rugged Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ssb1d
+- type: src
+  content: https://saemobilus.sae.org/standards/ssb1d-guidelines-using-plastic-encapsulated-microcircuits-semiconductors-military-aerospace-rugged-applications
+docidentifier:
+- content: SAE SSB1D
+  type: SAE
+  primary: true
+- content: 10.4271/ssb1d
+  type: DOI
+date:
+- type: approved
+  at: '2020-01-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CE-12 Solid State Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Engineering Bulletin and its annexes provide guidance to Original Equipment Manufacturers (OEMs) in evaluating device manufacturer flows and in selecting cost effective, standard products that meet the performance objective for potential use in many rugged, military, space, extreme, or other environments.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

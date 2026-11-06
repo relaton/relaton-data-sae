@@ -1,0 +1,59 @@
+---
+id: SAEJ25341_200412
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Recommended Practice for Pass-Thru Vehicle Programming
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2534/1_200412
+- type: src
+  content: https://saemobilus.sae.org/standards/j25341_200412-recommended-practice-pass-thru-vehicle-programming
+docidentifier:
+- content: SAE J2534/1_200412
+  type: SAE
+  primary: true
+- content: 10.4271/j2534/1_200412
+  type: DOI
+date:
+- type: approved
+  at: '2004-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice provides the framework to allow reprogramming software applications from all vehicle manufacturers the flexibility to work with multiple vehicle data link interface tools from multiple tool suppliers. This system enables each vehicle manufacturer to control the programming sequence for electronic control units (ECUs) in their vehicles, but allows a single set of programming hardware and vehicle interface to be used to program modules for all vehicle manufacturers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not limit the hardware possibilities for the connection between the PC used for the software application and the tool (e.g., RS-232, RS-485, USB, Ethernet…). Tool suppliers are free to choose the hardware interface appropriate for their tool. The goal of this document is to ensure that reprogramming software from any vehicle manufacturer is compatible with hardware supplied by any tool manufacturer.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;U.S. Environmental Protection Agency (EPA) and the California Air Resources Board (ARB) "OBD service information" regulations include requirements for reprogramming emission-related control modules in vehicles for all manufacturers by the aftermarket repair industry. This document is intended to conform to those regulations for 2004 and later model year vehicles. For some vehicles, this interface can also be used to reprogram emission-related control modules in vehicles prior to the 2004 model year, and for non-emission related control modules. For other vehicles, this usage may require additional manufacturer specific capabilities to be added to a fully compliant interface. A second part to this document, SAE J2534-2, is planned to include expanded capabilities that tool suppliers can optionally include in an interface to allow programming of these additional non-mandated vehicle applications. In addition to reprogramming capability, this interface is planned for use in OBD compliance testing as defined in SAE J1699-3. SAE J2534-1 includes some capabilities that are not required for Pass-Thru Programming, but which enable use of this interface for those other purposes without placing a significant burden on the interface manufacturers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Additional requirements for future model years may require revision of this document, most notably the inclusion of SAE J1939 for some heavy-duty vehicles. This document will be reviewed for possible revision after those regulations are finalized and requirements are better understood. Possible revisions include SAE J1939 specific software and an alternate vehicle connector, but the basic hardware of an SAE J2534 interface device is expected to remain unchanged.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAS4828A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Technical Manual Requirements for Ground Support Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4828a
+- type: src
+  content: https://saemobilus.sae.org/standards/as4828a-technical-manual-requirements-ground-support-equipment
+docidentifier:
+- content: SAE AS4828A
+  type: SAE
+  primary: true
+- content: 10.4271/as4828a
+  type: DOI
+date:
+- type: approved
+  at: '2020-09-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is a guideline for format, structure and content for ground support equipment (GSE) technical manuals. This document focuses on requirements specific to the GSE industry and does not cover general technical publication practices. Additional standards for GSE and for manufacturer’s publications exist and may add requirements beyond what is covered in this standard. This may include EU Directive 2006/42/EC.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is written in specific terms by intention, and conforms to recognized practices in the industry. When the word SHALL is used in this standard, it indicates a requirement that must be adhered to in total and does not allow for variance. When the word SHOULD is used, it indicates a recommended practice which allows the manual writer to use discretionary judgment. This document does not apply to electronic test equipment.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

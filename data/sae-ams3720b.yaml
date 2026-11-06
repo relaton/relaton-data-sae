@@ -1,0 +1,48 @@
+---
+id: SAEAMS3720B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PAPER HONEYCOMB 60 lb (25 kg) Paper
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3720b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3720b-paper-honeycomb-60-lb-25-kg-paper
+docidentifier:
+- content: SAE AMS3720B
+  type: SAE
+  primary: true
+- content: 10.4271/ams3720b
+  type: DOI
+date:
+- type: approved
+  at: '1994-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P17 Polymer Matrix Composites Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

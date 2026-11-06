@@ -1,0 +1,56 @@
+---
+id: SAEAIR1423
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ELECTROMAGNETIC COMPATIBILITY ON GAS TURBINE ENGINES FOR AIRCRAFT PROPULSION
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1423
+- type: src
+  content: https://saemobilus.sae.org/standards/air1423-electromagnetic-compatibility-gas-turbine-engines-aircraft-propulsion
+docidentifier:
+- content: SAE AIR1423
+  type: SAE
+  primary: true
+- content: 10.4271/air1423
+  type: DOI
+date:
+- type: approved
+  at: '2008-08-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-4 Electromagnetic Compatibility (EMC) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this AIR is to acquaint the aerospace industry with problems in attaining electromagnetic compatibility on gas turbine engines, particularly as used in aircraft. It is also the purpose of this AIR to present guidelines for the application of EMC controls to the engine, to its components which of necessity must operate in very hostile environments and to its interface with the aircraft.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

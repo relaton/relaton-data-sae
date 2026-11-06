@@ -1,0 +1,56 @@
+---
+id: SAEAMS3381C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Sealing Compound, Flame Resistant, Non-Silicone
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3381c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3381c-sealing-compound-flame-resistant-non-silicone
+docidentifier:
+- content: SAE AMS3381C
+  type: SAE
+  primary: true
+- content: 10.4271/ams3381c
+  type: DOI
+date:
+- type: approved
+  at: '2022-04-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G9 Aerospace Sealing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers non-silicone synthetic rubber sealing compounds supplied as a two-component system that cures at room temperature.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

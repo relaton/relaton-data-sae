@@ -1,0 +1,57 @@
+---
+id: SAEAS6342
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Minimum Operational Performance Standard (MOPS) for Helicopter Hoist Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6342
+- type: src
+  content: https://saemobilus.sae.org/standards/as6342-minimum-operational-performance-standard-mops-helicopter-hoist-systems
+docidentifier:
+- content: SAE AS6342
+  type: SAE
+  primary: true
+- content: 10.4271/as6342
+  type: DOI
+date:
+- type: approved
+  at: '2020-12-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-26 Helicopter Hoists
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) specifies minimum operation performance requirements for helicopter hoists. This document covers criteria for hoist systems that are intended for use on helicopter platforms for a variety of missions, including but not limited to, search and rescue (SAR) operations, fire control/support, offshore windfarm maintenance, transferring harbor pilots, and power line maintenance. Helicopter hoist minimum performance characteristics are specified for standard and other environmental conditions for the purpose of product qualification. Compliance with this standard is not considered approval for installation on any aircraft.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

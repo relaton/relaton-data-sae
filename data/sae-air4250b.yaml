@@ -1,0 +1,62 @@
+---
+id: SAEAIR4250B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electronic Engine Control Specifications and Standards
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4250b
+- type: src
+  content: https://saemobilus.sae.org/standards/air4250b-electronic-engine-control-specifications-standards
+docidentifier:
+- content: SAE AIR4250B
+  type: SAE
+  primary: true
+- content: 10.4271/air4250b
+  type: DOI
+date:
+- type: approved
+  at: '2012-01-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-36 Electronic Engine Controls Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report lists documents that aid and govern the design, development, certification and utilization of aerospace electronic engine control systems. The report lists the military and industry specifications and standards that are commonly used in electronic engine control system design. Also included are Airworthiness Authority documents and requirements associated with certification. However, these lists are not necessarily complete.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The specifications and standards section has been divided into two parts; a master list arranged numerically and a categorized list that provides a functional breakdown and cross-reference of these documents.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For specifications and standards, the issue available during the latest revision to this document is listed. Details of current revisions for many documents are available in the Department of Defense Index of Specifications and Standards (DODISS).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It should be noted that not all of these documents are referenced or even recognized by all certification authorities. In addition, not all revisions of these documents are recognized by all authorities. The user should confirm before assuming that a document, or its process, will be accepted for approval.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Additionally the list contains, when available, the date of the latest revision of the document reviewed, together with comments from the SAE E-36 committee members who reviewed the document, the intention being to aid the reader to determine the likely relevance or usefulness of the document subject matter.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

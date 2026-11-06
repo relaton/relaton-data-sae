@@ -1,0 +1,49 @@
+---
+id: SAEAMS6406C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL SHEET, STRIP, AND PLATE 1.6Si - 2.1Cr - 0.58Mo - 0.05V (0.41-0.46C)
+    Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6406c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6406c-steel-sheet-strip-plate-16si-21cr-058mo-005v-041-046c-annealed
+docidentifier:
+- content: SAE AMS6406C
+  type: SAE
+  primary: true
+- content: 10.4271/ams6406c
+  type: DOI
+date:
+- type: approved
+  at: '1994-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

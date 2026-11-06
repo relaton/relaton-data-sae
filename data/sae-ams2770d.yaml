@@ -1,0 +1,56 @@
+---
+id: SAEAMS2770D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HEAT TREATMENT OF WROUGHT ALUMINUM ALLOY PARTS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2770d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2770d-heat-treatment-wrought-aluminum-alloy-parts
+docidentifier:
+- content: SAE AMS2770D
+  type: SAE
+  primary: true
+- content: 10.4271/ams2770d
+  type: DOI
+date:
+- type: approved
+  at: '1982-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the engineering requirements for heat treatment of wrought aluminum alloy parts (See &lt;span class="xref"&gt;8.2.6&lt;/span&gt; for special definition of "parts") by users or their vendors or subcontractors. It does not cover heat treatment by material producers or forge shops nor does it cover heat treatment of castings or parts made from castings, except that the conditions (temperatures, soaking times, cooling rates) used by material producers and forge shops for qualification of response to heat treatment of their products shall conform to those specified herein. Heat treatment of mill products and forgings by material producers and forge shops and all heat treatment of castings and parts made from castings shall be performed in accordance with the material specification or MIL-H-6088.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

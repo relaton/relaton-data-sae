@@ -1,0 +1,58 @@
+---
+id: SAEJ1805_199304
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SOUND POWER LEVEL MEASUREMENTS OF EARTHMOVING MACHINERY—STATIC AND IN-PLACE
+    DYNAMIC METHODS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1805_199304
+- type: src
+  content: https://saemobilus.sae.org/standards/j1805_199304-sound-power-level-measurements-earthmoving-machinery-static-place-dynamic-methods
+docidentifier:
+- content: SAE J1805_199304
+  type: SAE
+  primary: true
+- content: 10.4271/j1805_199304
+  type: DOI
+date:
+- type: approved
+  at: '1993-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: MTC2, Sweeper, Cleaner, and Machinery
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice is used to determine the exterior A-weighted equivalent sound power level of static and in-place dynamic machines (dozer, loader, excavator, and backhoe) similar to the sound power obtained in SAE J2102/ISO 6393 static and SAE J2104/ISO 6395 dynamic sound power test procedures. The recommended test procedures include conventional integrating sound pressure level methods or the sound intensity method using paired microphones. The sound intensity methodology provides a practical indoor alternative and permits measurement in the factory environment. The procedures in this document assume that the dominant sources are not highly sensitive to load (i.e., cooling fan, engine, track system). This test can be used as a substitute for the SAE J2102/ISO 6393 static and SAE J2104/ISO 6395 dynamic sound power tests for many machine types. Since the SAE J1372 test remains valid as a static test, it is not necessary to run SAE J1372 in addition to SAE J1805.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The requirements for the machine setup and operation, and the microphone array and hemispherical measurement surface are given in this document. This document shall be used in conjunction with instrumentation manufacturer's recommendations pending finalization of ANSI documents on the subject of sound intensity procedures. The accompanying sound intensity procedure clarification is provided pending more widespread understanding of sound intensity.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

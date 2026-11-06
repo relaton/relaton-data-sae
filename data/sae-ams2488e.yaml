@@ -1,0 +1,56 @@
+---
+id: SAEAMS2488E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Anodic Treatment - Titanium and Titanium Alloys Solution pH 13 or Higher
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2488e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2488e-anodic-treatment-titanium-titanium-alloys-solution-ph-13-higher
+docidentifier:
+- content: SAE AMS2488E
+  type: SAE
+  primary: true
+- content: 10.4271/ams2488e
+  type: DOI
+date:
+- type: approved
+  at: '2019-10-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes the engineering requirements for producing an anodic coating on titanium and titanium alloys and the properties of the coating.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

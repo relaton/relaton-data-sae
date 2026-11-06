@@ -1,0 +1,58 @@
+---
+id: SAEAS1677C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: General Requirements for Noncertified Cargo/Baggage Containers
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1677c
+- type: src
+  content: https://saemobilus.sae.org/standards/as1677c-general-requirements-noncertified-cargo-baggage-containers
+docidentifier:
+- content: SAE AS1677C
+  type: SAE
+  primary: true
+- content: 10.4271/as1677c
+  type: DOI
+date:
+- type: approved
+  at: '2008-06-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) covers the requirements for lower deck containers in wide body and standard body aircraft which do not require airworthiness certification under the condition of compartment restraint and/or, where applicable according to aircraft type, NAS3610 equivalent baseplate-restraint for these containers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: IATA 50/0, “Requirements for interlining of ULDs”, should also be taken into account when designing and making equipment.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

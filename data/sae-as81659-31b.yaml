@@ -1,0 +1,49 @@
+---
+id: SAEAS8165931B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CONNECTORS, ELECTRICAL, RECTANGULAR, RECEPTACLE, CRIMP CONTACTS, SINGLE
+    INSERT, TYPE II, CLASS 1 (−65 °C TO +125 °C), SERIES 2, SHELL DESIGNATOR A
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as81659/31b
+- type: src
+  content: https://saemobilus.sae.org/standards/as8165931b-connectors-electrical-rectangular-receptacle-crimp-contacts-single-insert-type-ii-class-1-65-c-125-c-series-2-shell-designator-a
+docidentifier:
+- content: SAE AS81659/31B
+  type: SAE
+  primary: true
+- content: 10.4271/as81659/31b
+  type: DOI
+date:
+- type: approved
+  at: '2022-01-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C1 Connectors Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

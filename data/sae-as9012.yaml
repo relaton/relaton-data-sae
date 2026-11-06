@@ -1,0 +1,58 @@
+---
+id: SAEAS9012
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace First Article Inspection Requirement
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9012
+- type: src
+  content: https://saemobilus.sae.org/standards/as9012-aerospace-first-article-inspection-requirement
+docidentifier:
+- content: SAE AS9012
+  type: SAE
+  primary: true
+- content: 10.4271/as9012
+  type: DOI
+date:
+- type: approved
+  at: '2000-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) establishes documentation requirements for the First Article Inspection (FAI).&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

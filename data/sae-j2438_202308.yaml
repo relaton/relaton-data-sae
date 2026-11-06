@@ -1,0 +1,56 @@
+---
+id: SAEJ2438_202308
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Low-Temperature Cranking Load Requirements of an Engine—Air Starter Method
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2438_202308
+- type: src
+  content: https://saemobilus.sae.org/standards/j2438_202308-low-temperature-cranking-load-requirements-engine-air-starter-method
+docidentifier:
+- content: SAE J2438_202308
+  type: SAE
+  primary: true
+- content: 10.4271/j2438_202308
+  type: DOI
+date:
+- type: approved
+  at: '2023-08-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle EE System Diagnostics Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The air cranking system components, which include the tank, valve, hose, and starter, must be carefully selected to provide the necessary speed to start an engine under the most severe climatic conditions for which the system is intended. Engine cranking loads increase with cold temperatures, therefore, the initial selection of these components, needs to consider low-temperature engine torque requirements. To insure an adequate air cranking system is obtained, it is important that proper test procedures are used for obtaining the cranking load requirements of the engine.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

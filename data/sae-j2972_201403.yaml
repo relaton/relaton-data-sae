@@ -1,0 +1,58 @@
+---
+id: SAEJ2972_201403
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Definition of Road Vehicle Hands-Free Operation of a Person-to-Person Wireless
+    Communication System or Device
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2972_201403
+- type: src
+  content: https://saemobilus.sae.org/standards/j2972_201403-definition-road-vehicle-hands-free-operation-a-person-person-wireless-communication-system-device
+docidentifier:
+- content: SAE J2972_201403
+  type: SAE
+  primary: true
+- content: 10.4271/j2972_201403
+  type: DOI
+date:
+- type: approved
+  at: '2014-03-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Driver Vehicle Interface (DVI) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Information Report contains a definition of &lt;i&gt;road vehicle hands-free operation.&lt;/i&gt; This definition applies to driver inputs to a wireless communications device used for person-to-person wireless communications while driving. This report applies to both original equipment manufacturers’ and aftermarket devices.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The definition does not apply to outputs, e.g., visual or haptic feedback, from a communication system or device, regardless of the modality of human-machine interface. It also does not apply to parallel or redundant manual control operating modes.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

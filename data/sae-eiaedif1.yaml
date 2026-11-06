@@ -1,0 +1,48 @@
+---
+id: SAEEIAEDIF1
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Introduction to EDIF, Volume 1
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/eiaedif1
+- type: src
+  content: https://saemobilus.sae.org/standards/eiaedif1-introduction-edif-volume-1
+docidentifier:
+- content: SAE EIAEDIF1
+  type: SAE
+  primary: true
+- content: 10.4271/eiaedif1
+  type: DOI
+date:
+- type: approved
+  at: '2016-06-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Systems Management Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

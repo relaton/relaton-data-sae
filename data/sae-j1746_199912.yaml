@@ -1,0 +1,56 @@
+---
+id: SAEJ1746_199912
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ISP-Vehicle Location Referencing Standard
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1746_199912
+- type: src
+  content: https://saemobilus.sae.org/standards/j1746_199912-isp-vehicle-location-referencing-standard
+docidentifier:
+- content: SAE J1746_199912
+  type: SAE
+  primary: true
+- content: 10.4271/j1746_199912
+  type: DOI
+date:
+- type: approved
+  at: '1999-12-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Motor Vehicle Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard is intended to be used for the communication of spatial data references between central sites and mobile vehicles on roads. References can be communicated from central site to vehicles, or from vehicles to central sites. The document may also be used where appropriate by other ITS applications requiring location references between data sets.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

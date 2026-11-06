@@ -1,0 +1,57 @@
+---
+id: SAEAMS4764E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Copper Alloy, Brazing Filler Metal 52.5Cu - 38Mn - 9.5Ni 1615 to 1700 °F
+    (879 to 927 °C) Solidus-Liquidus Range
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4764e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4764e-copper-alloy-brazing-filler-metal-525cu-38mn-95ni-1615-1700-f-879-927-c-solidus-liquidus-range
+docidentifier:
+- content: SAE AMS4764E
+  type: SAE
+  primary: true
+- content: 10.4271/ams4764e
+  type: DOI
+date:
+- type: approved
+  at: '1999-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a copper alloy in the form of wire, rod, sheet, strip, foil, and powder and a viscous mixture (paste) of powder in a suitable binder.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

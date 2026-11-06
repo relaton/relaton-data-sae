@@ -1,0 +1,56 @@
+---
+id: SAEARP1384B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PASSENGER SAFETY INFORMATION CARDS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1384b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1384b-passenger-safety-information-cards
+docidentifier:
+- content: SAE ARP1384B
+  type: SAE
+  primary: true
+- content: 10.4271/arp1384b
+  type: DOI
+date:
+- type: approved
+  at: '1991-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-9B Cabin Interiors and Furnishings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;These recommendations are to aid the air transport industry in providing standard passenger safety information cards for use on commercial passenger carrying aircraft.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

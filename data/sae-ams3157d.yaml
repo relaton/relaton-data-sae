@@ -1,0 +1,54 @@
+---
+id: SAEAMS3157D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Oil Fluorescent Penetrant, High Fluorescence, Solvent Soluble
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3157d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3157d-oil-fluorescent-penetrant-high-fluorescence-solvent-soluble
+docidentifier:
+- content: SAE AMS3157D
+  type: SAE
+  primary: true
+- content: 10.4271/ams3157d
+  type: DOI
+date:
+- type: approved
+  at: '2009-01-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS K Non Destructive Methods and Processes Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>CANCELLATION NOTICE
+    This specification has been declared  "CANCELLED " by the Aerospace Materials Division, SAE, as of January 2009 and has been superseded by AMS2644. The requirements of the latest issue of AMS2644 shall be fulfilled whenever reference is made to the cancelled AMS3157. By this action, this document will remain listed in the Numerical Section of the Index of Aerospace Material Specifications, noting that it has been superseded by AMS2644.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

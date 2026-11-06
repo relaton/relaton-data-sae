@@ -1,0 +1,73 @@
+---
+id: SAEARP7495
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Methods to Address Specific Issues Related to COTS Electronic Components
+    in Airborne Electronic Hardware
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp7495
+- type: src
+  content: https://saemobilus.sae.org/standards/arp7495-methods-address-specific-issues-related-cots-electronic-components-airborne-electronic-hardware
+docidentifier:
+- content: SAE ARP7495
+  type: SAE
+  primary: true
+- content: 10.4271/arp7495
+  type: DOI
+date:
+- type: approved
+  at: '2020-11-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: APMC Avionics Process Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This ARP is not a certification document; it contains no certification requirements beyond those already contained in existing certification documents. The purpose of this ARP is to provide more detailed descriptions of the 12 hardware-related COTS issues listed in &lt;span class="xref"&gt;Appendix B&lt;/span&gt;, and to provide recommendations on existing practices, processes, and methods to address them. This ARP also describes artifacts that may be used as evidence that the issues have been addressed. The recommended practices and artifacts may be used to facilitate communication between, for example, the provider and the user of the avionics systems into which COTS components are integrated, or between the applicant for certification and the certification body.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This ARP does not claim that the recommended practices and artifacts described in this ARP are the only acceptable ones. They are, however, used widely today, and merit serious consideration where applicable in the avionics system design and certification processes.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;COTS components, by definition, typically have not been designed specifically for the aerospace applications or environments in which they will be used. In many cases, the design data for COTS components is limited or not available, compromising the ability of the integrator of the COTS components into aerospace systems to fully assess their functions and failure modes, and consequently their impact on the system performance (intended and unintended) and safety. Nevertheless, the organization that integrates COTS components into avionics systems is responsible to assure that the system is functional and airworthy.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The avionics system design and development process, therefore, needs to take into account the use of COTS components, and the evidence and artifacts that are produced and used to demonstrate that the implementation satisfies the allocated requirements and provides the level of confidence, consistent with airworthiness requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Various methods may be considered to accomplish the above, broad categories of which include (but are not limited to):&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Design and conduct additional tests and analyses of the COTS component, beyond those conducted by its supplier, to assure that the COTS component will perform its allocated function reliably in its application;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Modify the avionics system design to reduce operating and environmental stresses on the COTS component;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Modify the avionics system design to provide assurance the system will perform its allocated function reliably, even if the COTS component were to fail;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Modify the avionics system operating and maintenance practices to prevent premature failure of the avionics system; and&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Any additional practices needed by the application.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;The 12 issues addressed in this ARP are likely to be relevant for the foreseeable future; however, it also is likely that additional issues will emerge, as COTS component technology continues to progress, and as avionics system reliance on their use continues to increase.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

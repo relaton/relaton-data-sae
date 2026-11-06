@@ -1,0 +1,56 @@
+---
+id: SAEJ177_200210
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Measurement of Carbon Dioxide, Carbon Monoxide, and Oxides of Nitrogen
+    in Diesel Exhaust
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j177_200210
+- type: src
+  content: https://saemobilus.sae.org/standards/j177_200210-measurement-carbon-dioxide-carbon-monoxide-oxides-nitrogen-diesel-exhaust
+docidentifier:
+- content: SAE J177_200210
+  type: SAE
+  primary: true
+- content: 10.4271/j177_200210
+  type: DOI
+date:
+- type: approved
+  at: '2002-10-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: SAE IC Powertrain Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;The method presented applies to the analysis of the indicated constituents in diesel engine exhaust, or vehicles using diesel engines, when operating at steady-state conditions.&lt;/p&gt;
+    &lt;p&gt;The measurements of carbon monoxide, carbon dioxide, and nitric oxide are based on continuous sampling and analysis by nondispersive infrared (NDIR) methods. Measurement of total oxides of nitrogen by chemiluminescence and NDIR methods is discussed.&lt;/p&gt;
+    &lt;p&gt;This SAE Recommended Practice provides for the measurement of carbon dioxide, carbon monoxide, and oxides of nitrogen in diesel exhaust.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

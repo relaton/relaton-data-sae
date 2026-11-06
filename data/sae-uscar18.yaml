@@ -1,0 +1,56 @@
+---
+id: SAEUSCAR18
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FAKRA SMB RF CONNECTOR SUPPLEMENT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar18
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar18-fakra-smb-rf-connector-supplement
+docidentifier:
+- content: SAE USCAR-18
+  type: SAE
+  primary: true
+- content: 10.4271/uscar18
+  type: DOI
+date:
+- type: approved
+  at: '2002-02-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is a supplement to ISO document TC 22/WG 5 N44 and is intended to give recommended usages for one and two way connectors and dimensional requirements for 2-way connectors which are not currently specified by ISO. The radio frequency (RF) connector interface specified herein is suited for unsealed automobile applications up to 3 GHz and is intended for in-line, board mount, device mount, straight or angled applications. Dimensional requirements are specified in this document to ensure interchangeability. Performance requirements are specified in SAE/USCAR-2, and in SAE/USCAR-17.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

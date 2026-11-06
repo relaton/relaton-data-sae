@@ -1,0 +1,56 @@
+---
+id: SAEAS5017
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Air Filling Valves
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5017
+- type: src
+  content: https://saemobilus.sae.org/standards/as5017-air-filling-valves
+docidentifier:
+- content: SAE AS5017
+  type: SAE
+  primary: true
+- content: 10.4271/as5017
+  type: DOI
+date:
+- type: approved
+  at: '2017-11-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-4 Packaging, Handling and Transportability Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) describes the characteristics of an air filling valve used in reusable shipping and storage containers.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

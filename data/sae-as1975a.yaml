@@ -1,0 +1,59 @@
+---
+id: SAEAS1975A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HOSE ASSEMBLIES, POLYTETRAFLUOROETHYLENE, ARAMID REINFORCED, 275 °F, STANDARD
+    DUTY, 4000/3000 lbf/in2, HYDRAULIC, AIRCRAFT SYSTEMS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1975a
+- type: src
+  content: https://saemobilus.sae.org/standards/as1975a-hose-assemblies-polytetrafluoroethylene-aramid-reinforced-275-f-standard-duty-4000-3000-lbf-in2-hydraulic-aircraft-systems
+docidentifier:
+- content: SAE AS1975A
+  type: SAE
+  primary: true
+- content: 10.4271/as1975a
+  type: DOI
+date:
+- type: approved
+  at: '1992-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document defines the requirements for a PTFE lined, aramid reinforced assembly suitable for use up to 275 °F and up to 4000 lbf/in&lt;sup&gt;2&lt;/sup&gt; aircraft and missile hydraulic and pneumatic systems.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

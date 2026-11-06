@@ -1,0 +1,57 @@
+---
+id: SAEAIR806
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AIR CONDITIONING DESIGN INFORMATION FOR CARGO AND HIGH DENSITY PASSENGER
+    TRANSPORT AIRPLANES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air806
+- type: src
+  content: https://saemobilus.sae.org/standards/air806-air-conditioning-design-information-cargo-high-density-passenger-transport-airplanes
+docidentifier:
+- content: SAE AIR806
+  type: SAE
+  primary: true
+- content: 10.4271/air806
+  type: DOI
+date:
+- type: approved
+  at: '1965-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document presents information concerning environmental control requirements peculiar to cargo and high density transport airplanes which is not covered in ARP 85 (Reference 1).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

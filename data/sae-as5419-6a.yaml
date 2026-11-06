@@ -1,0 +1,49 @@
+---
+id: SAEAS54196A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: WIRE, THERMOCOUPLE, FP/POLYIMIDE/FP INSULATED, NICKEL/CHROMIUM (KP); NICKEL/ALUMINUM/MANGANESE
+    (KN) THERMOCOUPLE EXTENSION, LIGHT WEIGHT, 260 °C
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5419/6a
+- type: src
+  content: https://saemobilus.sae.org/standards/as54196a-wire-thermocouple-fp-polyimide-fp-insulated-nickel-chromium-kp-nickel-aluminum-manganese-kn-thermocouple-extension-light-weight-260-c
+docidentifier:
+- content: SAE AS5419/6A
+  type: SAE
+  primary: true
+- content: 10.4271/as5419/6a
+  type: DOI
+date:
+- type: approved
+  at: '2018-12-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8D Wire and Cable Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

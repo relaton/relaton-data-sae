@@ -1,0 +1,57 @@
+---
+id: SAEUSCAR48
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PYROTECHNIC PRETENSIONER REQUIREMENTS AND VALIDATION
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar48
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar48-pyrotechnic-pretensioner-requirements-validation
+docidentifier:
+- content: SAE USCAR-48
+  type: SAE
+  primary: true
+- content: 10.4271/uscar48
+  type: DOI
+date:
+- type: approved
+  at: '2025-02-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes the minimum required performance and validation for the seatbelt pyrotechnic pretensioners integrated into retractors, buckles, and/or anchors. It also includes pyro for switchable load limiters. This specification is intended to focus on the performance of the tensioner function integrated into the aforementioned devices and NOT the entirety of the device integrated into the vehicle.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;See &lt;span class="xref"&gt;Figure 1&lt;/span&gt; in &lt;span class="xref"&gt;2.2&lt;/span&gt;.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEJ29453A_202201
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Requirements for Road Weather Applications™ ASN File
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2945/3a_202201
+- type: src
+  content: https://saemobilus.sae.org/standards/j29453a_202201-requirements-road-weather-applications-asn-file
+docidentifier:
+- content: SAE J2945/3A_202201
+  type: SAE
+  primary: true
+- content: 10.4271/j2945/3a_202201
+  type: DOI
+date:
+- type: approved
+  at: '2022-01-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Core Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This Abstract Syntax Notation (ASN.1) file precisely specifies the structure of the data used to support implementation of SAE International Standard J2945/3. As part of an international treaty, data defined in US ITS standards are expressed in "ASN.1 syntax". ASN.1 Syntax is used to define the data entities or "ASN specifications". Using the ASN.1 specification, a compiler tool can be used used to produce encodings as required by the encoding rules identified in the standard (SAE J2945/3 messages are encoded with UPER or JER encoding). Both this file and the SAE J2735 ASN.1 files are necessary to collectively implement the data exchanges described in the J2945/3. The combined library can be used by any application (along with the additional logic of that application) to exchange the data over interfaces conformant to J2945/3.&lt;/p&gt;
+    &lt;p&gt;SAE J2945/3 specifies interface requirements for weather data collection and distribution using V2X communications, including detailed systems engineering documentation (needs and requirements mapped to appropriate data exchanges). The weather data can be used for traffic management, vehicle safety and other roadway applications that are represented within the National ITS Architecture.&lt;/p&gt;
+    &lt;p&gt;You may also be interested in:&lt;/p&gt;
+    &lt;p&gt;&lt;a href="https://www.sae.org/standards/content/j2945/3_202201/"&gt;Requirements for Road Weather Applications™ the J2945/3 PDF.&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href="https://www.sae.org/standards/content/j2945/3_202201/"/&gt;&lt;a href="https://www.sae.org/standards/content/j2945/3s_202201/"&gt;Requirements for Road Weather Applications™ SET File that includes the J2945/3 ASN File and the J2945/3 PDF (ZIP format) - download purchase only.&lt;/a&gt;&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

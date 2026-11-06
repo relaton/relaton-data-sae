@@ -1,0 +1,60 @@
+---
+id: SAEJ2846_201005
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Laboratory Measurement of the Acoustical Performance of Body Cavity Filler
+    Materials
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2846_201005
+- type: src
+  content: https://saemobilus.sae.org/standards/j2846_201005-laboratory-measurement-acoustical-performance-body-cavity-filler-materials
+docidentifier:
+- content: SAE J2846_201005
+  type: SAE
+  primary: true
+- content: 10.4271/j2846_201005
+  type: DOI
+date:
+- type: approved
+  at: '2010-05-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Acoustical Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice describes a laboratory test procedure for measuring the acoustical performance of a system consisting of a body cavity filler material formed into a rectangular cross-section channel. Materials for this test may include both heat reactive and chemically reactive products, with or without a shelf to simulate a baffle in an application, or a combination of body cavity filler and aluminum foil to enhance the performance. These materials are commonly installed in transportation systems such as ground vehicles, and thus reduce the noise propagation through the rails, rockers, and pillar/posts.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is intended to rank order the acoustical performance of materials for application on channels using general automotive steel, such that the effects of sealing of pinch welds in addition to the material could be easily evaluated. However, the channel is not an actual part (i.e., real life section) of the vehicle, and therefore results obtained from this study will have to be carefully interpreted considering limitations of section size/shape and full sealing (or not) of the section.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The acoustical performance is expressed in terms of insertion loss (IL) which is described in Section 3 Test Method. The test procedure described here is based on the method described in SAE J1400. However, this document differs from the SAE J1400 method in that the J1400 measures sound transmission loss, and this document measures IL of body cavity materials in a cavity.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document covers the useful frequency range of interest in 1/3 octave band center frequencies. The lower limit of the actual frequency range is limited by the size of the channel and/or the volume of the reverberation room. Two rectangular cross-section channels are cited in this standard. These are 75 mm × 75 mm and 150 mm × 150 mm in cross-section and provide valid data at and above 800 Hz and 400 Hz 1/3 octave band frequencies, respectively, provided the reverberation room can generate diffuse sound field at those frequencies.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,55 @@
+---
+id: SAEAS7119B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nadcap Aerospace Standard for Electronics Printed Circuit Boards
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as7119b
+- type: src
+  content: https://saemobilus.sae.org/standards/as7119b-nadcap-aerospace-standard-electronics-printed-circuit-boards
+docidentifier:
+- content: SAE AS7119B
+  type: SAE
+  primary: true
+- content: 10.4271/as7119b
+  type: DOI
+date:
+- type: approved
+  at: '2015-01-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Nadcap Management Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: <p>This document has been declared "CANCELLED" as of January 2015 and has
+    been superseded by PRI AC7119. By this action, this document will remain listed
+    in the Numerical Section of the Aerospace Standards Index noting that it is superseded
+    by PRI AC7119. Cancelled specifications are available from SAE.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

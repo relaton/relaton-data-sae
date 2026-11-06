@@ -1,0 +1,54 @@
+---
+id: SAEJ2306_200010
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Automobile and Light Truck Engine Coolant Concentrate Propylene Glycol
+    Type
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2306_200010
+- type: src
+  content: https://saemobilus.sae.org/standards/j2306_200010-automobile-light-truck-engine-coolant-concentrate-propylene-glycol-type
+docidentifier:
+- content: SAE J2306_200010
+  type: SAE
+  primary: true
+- content: 10.4271/j2306_200010
+  type: DOI
+date:
+- type: approved
+  at: '2000-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Cooling Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Recommended Practice applies to engine coolant concentrate,
+    propylene glycol base, for use in automotive and light truck engine cooling systems.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

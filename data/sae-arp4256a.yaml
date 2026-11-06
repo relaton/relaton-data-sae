@@ -1,0 +1,68 @@
+---
+id: SAEARP4256A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Design Objectives for Liquid Crystal Displays for Part 25 (Transport) Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4256a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4256a-design-objectives-liquid-crystal-displays-part-25-transport-aircraft
+docidentifier:
+- content: SAE ARP4256A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4256a
+  type: DOI
+date:
+- type: approved
+  at: '2008-01-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4ED Electronics Display Subcommittee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document covers monochrome and color LCDs (transmissive, transflective, and reflective), both matrixed and segmented in format, and is applicable to the following types of displays:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Flight and navigation displays&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Engine, systems, and warning devices&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Control displays&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;In this document the terms “LCD”, “LCD Display”, “Display”, and “Instrument” are synonymous and encompass the display system (e.g., LCD device, drivers, backlight, display processor, etc.), not just the device.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

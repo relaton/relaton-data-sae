@@ -1,0 +1,59 @@
+---
+id: SAEAIR5654A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: IEEE-1394b for Military and Aerospace Vehicles - Applications Handbook
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5654a
+- type: src
+  content: https://saemobilus.sae.org/standards/air5654a-ieee-1394b-military-aerospace-vehicles-applications-handbook
+docidentifier:
+- content: SAE AIR5654A
+  type: SAE
+  primary: true
+- content: 10.4271/air5654a
+  type: DOI
+date:
+- type: approved
+  at: '2025-04-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Handbook is intended to accompany or incorporate AS5643, AS5643/1, AS5657, AS5706, and ARD5708. In addition, full understanding of this Handbook also requires knowledge of IEEE-1394-1995, IEEE-1394a, and IEEE-1394b standards.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This Handbook contains detailed explanations and architecture analysis on AS5643, bus timing and scheduling considerations, system redundancy design considerations, suggestions on AS5643-based system configurations, cable selection guidance, and lessons learned on failure modes.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

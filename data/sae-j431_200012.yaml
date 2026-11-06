@@ -1,0 +1,57 @@
+---
+id: SAEJ431_200012
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Automotive Gray Iron Castings
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j431_200012
+- type: src
+  content: https://saemobilus.sae.org/standards/j431_200012-automotive-gray-iron-castings
+docidentifier:
+- content: SAE J431_200012
+  type: SAE
+  primary: true
+- content: 10.4271/j431_200012
+  type: DOI
+date:
+- type: approved
+  at: '2000-12-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Metals Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard covers the hardness, tensile strength, and microstructure and special requirements of gray iron sand molded castings used in the automotive and allied industries. Specific requirements are provided for hardness of castings. Test bar tensile strength/Brinell hardness (t/h) ratio requirements are provided to establish a consistent tensile strength-hardness relationship for each grade to facilitate prediction and control of tensile strength in castings. Provision is made for specification of special additional requirements of gray iron automotive castings where needed for particular applications and service conditions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE—This document was revised in 1993 to provide grade specific t/h control. In 1999 the document was revised to make SI metric units primary. To better align the grading system with long established production methods and grades produced, the previous system of grading by fixed combinations of tensile strength and hardness was changed in 1999 to a system of grading by variable combinations of test bar t/h ratio and casting hardness grades. The number of hardness grades was increased relative to the number of previously available ranges to facilitate centering of casting mean hardness in the specification range so that dependence of cost optimization on controlling near the low or high sides of specification ranges is minimized.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

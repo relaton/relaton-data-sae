@@ -1,0 +1,57 @@
+---
+id: SAEMAP3440
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: O-Ring Groove Design For Packing Preformed, Elastomeric O-Ring Seals, Static,
+    Radial Squeeze, Metric
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/map3440
+- type: src
+  content: https://saemobilus.sae.org/standards/map3440-o-ring-groove-design-packing-preformed-elastomeric-o-ring-seals-static-radial-squeeze-metric
+docidentifier:
+- content: SAE MAP3440
+  type: SAE
+  primary: true
+- content: 10.4271/map3440
+  type: DOI
+date:
+- type: approved
+  at: '2012-12-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C2 Seals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice provides the design criteria for static elastomeric O-ring seal applications, radial squeeze groove dimensions for aerospace metric O-ring seal sizes as specified in MA2010. The conditions considered to formulate the design criteria are also described, e.g., seal stretch, cross-section reduction, squeeze, and swell.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

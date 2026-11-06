@@ -1,0 +1,101 @@
+---
+id: SAEJ193991A_202503
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Security Recommendations for Interfaces to On-Vehicle Networks
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j193991a_202503
+- type: src
+  content: https://saemobilus.sae.org/standards/j193991a_202503-security-recommendations-interfaces-vehicle-networks
+docidentifier:
+- content: SAE J193991A_202503
+  type: SAE
+  primary: true
+- content: 10.4271/j193991a_202503
+  type: DOI
+date:
+- type: approved
+  at: '2025-03-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides recommendations to vehicle manufacturers, ECU developers, and other device suppliers in securing the SAE J1939 network from cybersecurity risks. This document focuses on security measures related to on-vehicle network architecture and security measures for communication interfaces between devices, ECUs, or networks. The focus is on security related to network communications on the vehicle side of off-vehicle interfaces, such as the SAE J1939-13 connector.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The recommendations in this document aim to address cybersecurity risks presented by communication between the vehicle and the rest of the supporting ecosystem via the vehicle networks. The risk focus is on safety and operational risks, although other risks are possible. This document should be used as a reference to current best practices for addressing off-vehicle communication security.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document focuses on recommendations related to the Secure Architecture and Secure Connectivity aspects of vehicle security; it is the first in a family of security-related documents. Recommendations for secure on-board communications between ECUs and any other on-vehicle device will be defined in another document. While Secure ECU is out of scope for this document, this document does include some Secure ECU recommendations only to the extent needed to support the recommendations of topics that are in scope.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Some of the described guidelines and measures described in this document include:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Overview of the SAE J1939 layered security model&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Secure Architecture
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Domain Separation&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Vehicle Messaging Matrix (VMM) to document all network messaging&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Multi-level security (MLS) policy, based on VMM, to control message flow between domains&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Secure Connectivity
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Gateways and firewalls to isolate on-vehicle networks from off-vehicle networks and control message flow of incoming messages from off-vehicle&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Firewall-based diagnostic services control&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;ECU-based diagnostic services control&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;An alert service for reporting detected imposter messaging activity&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;It is recognized that not every application of SAE J1939 networks requires the same level of cybersecurity measures. Techniques to determine the level of cybersecurity measures required are out of scope for this document. Generally, higher-risk applications require higher levels of cybersecurity measures.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Generally, there are three forms of communication methodologies used in current vehicles:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Open access to communication buses – security included inside each networked ECU&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Communication buses isolated via a gateway – central security interconnect ECU&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Combinations of (1) and (2)&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;This document provides guidelines for securing communications with any off-board device for vehicles utilizing any of these methodologies.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

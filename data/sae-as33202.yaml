@@ -1,0 +1,49 @@
+---
+id: SAEAS33202
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CIRCUIT BREAKER - AIRCRAFT, TRIP-FREE, PUSH-PULL, BLADE TERMINAL, 1 THROUGH
+    25 AMPS, TYPE I -55 THROUGH +121 °C
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as33202
+- type: src
+  content: https://saemobilus.sae.org/standards/as33202-circuit-breaker-aircraft-trip-free-push-pull-blade-terminal-1-25-amps-type-55-121-c
+docidentifier:
+- content: SAE AS33202
+  type: SAE
+  primary: true
+- content: 10.4271/as33202
+  type: DOI
+date:
+- type: approved
+  at: '2018-06-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7P Protective and Control Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

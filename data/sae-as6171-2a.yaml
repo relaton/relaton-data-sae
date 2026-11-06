@@ -1,0 +1,79 @@
+---
+id: SAEAS61712A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Techniques for Suspect/Counterfeit EEE Parts Detection by External Visual
+    Inspection, Remarking and Resurfacing, and Surface Texture Analysis Using SEM
+    Test Methods
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6171/2a
+- type: src
+  content: https://saemobilus.sae.org/standards/as61712a-techniques-suspect-counterfeit-eee-parts-detection-external-visual-inspection-remarking-resurfacing-surface-texture-analysis-using-sem-test-methods
+docidentifier:
+- content: SAE AS6171/2A
+  type: SAE
+  primary: true
+- content: 10.4271/as6171/2a
+  type: DOI
+date:
+- type: approved
+  at: '2017-05-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-19A Test Laboratory Standards Development Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes the requirements of the following test methods for counterfeit detection of electronic components:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Method A: General EVI, Sample Selection, and Handling&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Method B: Detailed EVI, including Part Weight measurement&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Method C: Testing for Remarking&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Method D: Testing for Resurfacing&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Method E: Part Dimensions measurement&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;f&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Method F: Surface Texture Analysis using SEM&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The scope of this document is focused on leaded electronic components, microcircuits, multi-chip modules (MCMs), and hybrids. Other EEE components may require evaluations not specified in this procedure. Where applicable this document can be used as a guide. Additional inspections or criteria would need to be developed and documented to thoroughly evaluate these additional part types. If AS6171/2 is invoked in the contract, the base document, AS6171 General Requirements shall also apply.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEUSCAR254
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ERGONOMICS SPECIFICATION FOR ELECTRICAL CONNECTIONS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar25-4
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar25-4-ergonomics-specification-electrical-connections
+docidentifier:
+- content: SAE USCAR-25-4
+  type: SAE
+  primary: true
+- content: 10.4271/uscar25-4
+  type: DOI
+date:
+- type: approved
+  at: '2025-10-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification describes the design relative to assembly force and hand clearance guidelines for conventional hand-plug, mechanical assist, twist lock, and high voltage electrical connectors, as well as Connector Position Assurances (CPAs). The minimum values associated with this design guide need to be evaluated against other critical characteristics that impact quality, efficiency, and other traits of assembly feasibility.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Non-routine repair tasks do not apply to this specification. In addition, ergonomic risk factors may be present in other subtasks related to connector mating - such as lifting the harness or manipulating it into position. These risk factors are not discussed within SAE/USCAR-25.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;All possible designs and applications could not be anticipated in creating these guidelines. Where there are questions of adherence to this specification, such as use of an “off-the-shelf” design, always consult the responsible Ergonomics Department.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

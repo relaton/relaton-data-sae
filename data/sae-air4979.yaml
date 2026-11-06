@@ -1,0 +1,60 @@
+---
+id: SAEAIR4979
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Estimation of Measurement Uncertainty in Engine Tests Based on NATO AGARD
+    Uniform Engine Test Program
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4979
+- type: src
+  content: https://saemobilus.sae.org/standards/air4979-estimation-measurement-uncertainty-engine-tests-based-nato-agard-uniform-engine-test-program
+docidentifier:
+- content: SAE AIR4979
+  type: SAE
+  primary: true
+- content: 10.4271/air4979
+  type: DOI
+date:
+- type: approved
+  at: '2004-11-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-33 In Flight Propulsion Measurement Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The primary objective of this document is to describe the systematic and random measurement uncertainties which may be expected when testing gas turbine engines in a range of different test facilities. The documentation covers a "traditional" method for estimating pretest uncertainties and a "new" method for computing and comparing posttest uncertainties. To determine these posttest uncertainties, data generated during the AGARD Uniform Engine Test Program (UETP) were analyzed and compared to the pretest estimates.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The proposed procedure provides a mechanism for determining the expected accuracy of test results obtained from facilities which were not previously cross calibrated. Furthermore, the method can be used to assist in making cost-effective management decisions on the level of validation/cross calibration necessary when bringing a test facility on line.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is also intended to act as a guide for improving uncertainty analyses in a broad spectrum of related industries. Measurement uncertainty and measurement system approaches and practices for the UETP are presented in a systematic format. Readers can use these uncertainty approaches and practices for comparison to their own measurement systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The approach chosen was to analyze three of the UETP test conditions at eight test facilities along with the individual measurement system approaches and practices. The test program provided a wide range of performance measurements and corresponding pretest uncertainty estimates encompassing a variety of test and measurement approaches and practices. Included in the analysis are the basic gas turbine performance measurements of temperature, pressure, airflow, fuel flow, area, speed, thrust, and typical performance parameter functions and associated uncertainty estimates.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

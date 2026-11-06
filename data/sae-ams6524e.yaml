@@ -1,0 +1,55 @@
+---
+id: SAEAMS6524E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Sheet, Strip, and Plate 1.0cr 7.5ni 4.5co 1.0mo 0.09v (0.29-0.34c)
+    Consumable Electrode Melted, Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6524e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6524e-steel-sheet-strip-plate-10cr-75ni-45co-10mo-009v-029-034c-consumable-electrode-melted-annealed
+docidentifier:
+- content: SAE AMS6524E
+  type: SAE
+  primary: true
+- content: 10.4271/ams6524e
+  type: DOI
+date:
+- type: approved
+  at: '2003-04-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This specification has been declared "NONCURRENT" by the Aerospace Materials Division, SAE, as of September 1996. It is recommended, therefore, that this specification not be specified for new designs.&lt;/p&gt;
+    &lt;p&gt;This specification covers a premium aircraft-quality, low-alloy steel in the form of sheet, strip, and plate. These products have been used typically for parts, such as pressure vessels, requiring through-hardening to high strength levels and where such parts may require welding during fabrication, but usage is not limited to such applications.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

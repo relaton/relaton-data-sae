@@ -1,0 +1,59 @@
+---
+id: SAEMAP1572A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Metric Stud Holes for Aerospace Electrical and Electronic Wire Terminating
+    Devices
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/map1572a
+- type: src
+  content: https://saemobilus.sae.org/standards/map1572a-metric-stud-holes-aerospace-electrical-electronic-wire-terminating-devices
+docidentifier:
+- content: SAE MAP1572A
+  type: SAE
+  primary: true
+- content: 10.4271/map1572a
+  type: DOI
+date:
+- type: approved
+  at: '2021-12-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C2 Terminating Devices and Tooling Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this MAP is to establish stud hole clearance diameters to accept standard Metric studs. This is based entirely on recommendations set forth by the International Organization for Standardization (ISO).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;ISO Recommendations R273, Clearance Holes for Metric Bolts (Fine series) and R286, ISO System of Limits and Fits (H14 series) were used to establish the size and tolerance for each stud hole in the MAP.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAIR1707C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Patterns of O-Ring Failures
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1707c
+- type: src
+  content: https://saemobilus.sae.org/standards/air1707c-patterns-o-ring-failures
+docidentifier:
+- content: SAE AIR1707C
+  type: SAE
+  primary: true
+- content: 10.4271/air1707c
+  type: DOI
+date:
+- type: approved
+  at: '2019-11-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CE Elastomers Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The information presented herein describes the commonly observed patterns of O-ring failure by means of both text and illustration. Possible causes and corrective actions are indicated for alleviating the problem.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

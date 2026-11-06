@@ -1,0 +1,58 @@
+---
+id: SAEAIR5909A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Prognostic Metrics for Engine Health Management Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5909a
+- type: src
+  content: https://saemobilus.sae.org/standards/air5909a-prognostic-metrics-engine-health-management-systems
+docidentifier:
+- content: SAE AIR5909A
+  type: SAE
+  primary: true
+- content: 10.4271/air5909a
+  type: DOI
+date:
+- type: approved
+  at: '2021-11-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>&lt;p&gt;This SAE Aerospace Information Report (AIR) presents metrics
+    for assessing the performance of prognostic algorithms applied for Engine Health
+    Management (EHM) functions. The emphasis is entirely on prognostics and as such
+    is intended to provide an extension and complement to such documents as AIR5871,
+    which offers information and guidance on general prognostic approaches relevant
+    to gas turbines, and AIR4985 which offers general metrics for evaluating diagnostic
+    systems and their impact on engine health management activities.&lt;/p&gt;</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

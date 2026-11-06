@@ -1,0 +1,52 @@
+---
+id: SAECPKW2_19FXT00V6
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: J1995 Certified Power Engine Data for Kawasaki FXT00V(EFI) as used in 2019
+    General Purpose Engines - Level 1J1995 Certified Power Engine Data for Kawasaki
+    FXT00V(EFI) as used in 2019 General Purpose Engines - Level 2
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/cpkw2_19fxt00v6
+- type: src
+  content: https://saemobilus.sae.org/services/cpkw2_19fxt00v6-j1995-certified-power-engine-data-kawasaki-fxt00v-efi-used-2019-general-purpose-engines-level-1j1995-certified-power-engine-data-kawasaki-fxt00v-efi-used-2019-general-purpose-engines-level-2
+docidentifier:
+- content: SAE CPKW2_19FXT00V6
+  type: SAE
+  primary: true
+- content: 10.4271/cpkw2_19fxt00v6
+  type: DOI
+date:
+- type: approved
+  at: '2019-10-08'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This product includes information on the manufacturer, engine, applications, testing location, certified maximum horsepower, certified maximum torque along with the certified curves of horsepower and torque over a wide range of engine RPM speeds.
+
+    In addition, this product contains complete engine information such as displacement, cylinder configuration, valve train, combustion cycle, pressure charging, charge air cooling, bore, stroke, cylinder numbering  convention, firing order, compression ratio, fuel system, fuel system pressure, ignition system, knock control, intake manifold, exhaust manifold, cooling system, coolant liquid, thermostat, cooling fan, lubricating oil, fuel, fuel shut off speed, etc.  Also included are all measured test parameters outlined in J2723.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

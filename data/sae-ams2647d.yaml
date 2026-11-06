@@ -1,0 +1,57 @@
+---
+id: SAEAMS2647D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fluorescent Penetrant Inspection Aircraft and Engine Component Maintenance
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2647d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2647d-fluorescent-penetrant-inspection-aircraft-engine-component-maintenance
+docidentifier:
+- content: SAE AMS2647D
+  type: SAE
+  primary: true
+- content: 10.4271/ams2647d
+  type: DOI
+date:
+- type: approved
+  at: '2011-03-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS K Non Destructive Methods and Processes Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification details requirements and procedures for the detection of defects in aircraft and engine components during maintenance and overhaul operations.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

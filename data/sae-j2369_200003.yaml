@@ -1,0 +1,59 @@
+---
+id: SAEJ2369_200003
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standards for ATIS Message Sets Delivered over Reduced Bandwidth Media
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2369_200003
+- type: src
+  content: https://saemobilus.sae.org/standards/j2369_200003-standards-atis-message-sets-delivered-reduced-bandwidth-media
+docidentifier:
+- content: SAE J2369_200003
+  type: SAE
+  primary: true
+- content: 10.4271/j2369_200003
+  type: DOI
+date:
+- type: approved
+  at: '2000-03-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ITS Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard outlines the US standard for sending Advanced Traveler Information Services (ATIS) messages over various Bandwidth Reduced Media (BRM). It specifies the “over the air” format and method for such data messages at a bit level. The methodology allows a cooperative sharing of the media’s total bandwidth with other non-ATIS data services. It allows for further expansion to other ATIS messages such as transit schedules and weather use. It uses a common directory of messages to divide out those messages which are the subject of this specification from others.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is built upon the concept of “waveform neutrality” in that it can be hosted by a wide variety of media often found in the delivery of wireless data services (although it is also useful for wire line applications). This message set is incorporated into each medium (“host medium”) by a formatting process specific to each media. A graphical overview ofthis process is shown in &lt;span class="xref"&gt;Figure 1&lt;/span&gt;. The capacity and services available over the host media can vary considerably in terms of capacity, other services present, one way or two way use, suitability for use, and a variety of commercial aspects not considered here.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;This document is divided into five primary sections. The first provides a conceptual background of various elements required to understand the message encoding process itself (&lt;span class="xref"&gt;chapters 4&lt;/span&gt;, &lt;span class="xref"&gt;5&lt;/span&gt;, &lt;span class="xref"&gt;6&lt;/span&gt;). The second section contains precise definitions of the messages and data elements in the messages (&lt;span class="xref"&gt;chapters 7&lt;/span&gt;, &lt;span class="xref"&gt;8&lt;/span&gt;, &lt;span class="xref"&gt;9&lt;/span&gt;). The third section provides implementation advice and comments for both receiver and encoder manufacturers (&lt;span class="xref"&gt;chapters 10&lt;/span&gt;, &lt;span class="xref"&gt;11&lt;/span&gt;). The fourth section contains tables of constants used in various message encodings of the standard (&lt;span class="xref"&gt;chapter 12&lt;/span&gt;). A 5th section, contained in the appendices, is an illustrative example of the message sets implemented with real data. Finally, a set of Appendices, SAE J2369-1 provides information regarding how to implement this document on a variety of host media.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

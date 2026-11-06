@@ -1,0 +1,56 @@
+---
+id: SAEARP9005A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Guidance for Non-Deliverable Software
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp9005a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp9005a-aerospace-guidance-non-deliverable-software
+docidentifier:
+- content: SAE ARP9005A
+  type: SAE
+  primary: true
+- content: 10.4271/arp9005a
+  type: DOI
+date:
+- type: approved
+  at: '2016-06-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+    &lt;div class="htmlview paragraph"&gt;This document contains recommended practices for the effective control of non-deliverable software. It addresses practices for control during the development, production, release maintenance, and retirement of non-deliverable software, as well as for software procured from outside manufacturers and incorporated in the production, evaluation, test, acceptance or calibration of processes.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For the purposes of this document, the terms software and non-deliverable software are considered synonymous.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

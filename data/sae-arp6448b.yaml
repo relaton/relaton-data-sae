@@ -1,0 +1,63 @@
+---
+id: SAEARP6448B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Gaining Approval for Seats with Integrated Electronics in Accordance with
+    AC 21-49 Section 7.b
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6448b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6448b-gaining-approval-seats-integrated-electronics-accordance-ac-21-49-section-7b
+docidentifier:
+- content: SAE ARP6448B
+  type: SAE
+  primary: true
+- content: 10.4271/arp6448b
+  type: DOI
+date:
+- type: approved
+  at: '2024-07-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aircraft Seat Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides a framework for establishing methods and stakeholder responsibilities to ensure that seats with integrated electronic components (e.g., actuation system, reading light, inflatable restraint, in-flight entertainment equipment, etc.) meet the seat technical standard order (TSO) minimum performance standards (MPS). These agreements will allow seat suppliers to build and ship TSO-approved seats with integrated electronic components. The document presents the roles and accountabilities of the electronics manufacturer (EM), the seat supplier, and the TC/ATC/STC applicant/holder in the context of AC 21-49, Section 7.b (“Type Certification Using TSO-Approved Seat with Electronic Components Defined in TSO Design”). This document applies to all FAA seat TSOs C39( ), C127( ), etc.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The document defines the roles and responsibilities of each party involved in the procurement of electronics, their integration on a TSO-approved seat, and the seat’s installation on an aircraft. Requirements for design and quality control and the methods for communicating design and change data between EMs and seat suppliers are defined such that standardization is possible across the industry to ensure continued airworthiness of TSO-approved seats with integrated electronic components. This document primarily focuses on correspondence between the seat supplier and the EM.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Appendix A&lt;/span&gt;: Presents key characteristics of electronic components and guidance on how changes are classified per the requirements of Table 1 of AC 21-49.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Appendix B&lt;/span&gt;: Provides an outline of a typical data approval process and the change management process between EMs and seat suppliers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Appendix C&lt;/span&gt;: While the responsibility rests solely with the seat supplier to ensure all TSO attributes identified in Table 1 of AC 21-49 are acceptable, &lt;span class="xref"&gt;Appendix C&lt;/span&gt; has been included to outline the process for delegating EMs authorization to assess the impact of changes on their equipment with respect to seat TSO attributes. This authorization will allow the classification of the change and the appropriate administration of the change by the EM via seat supplier delegation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Appendix D&lt;/span&gt;: Given the mix of business arrangements that can exist in the seat, in-flight, and aircraft procurement life cycle (buyer-furnished equipment, supplier-furnished equipment, customer-furnished equipment), there is discussion on the potential need for separate agreements between the EMs and seat suppliers to ensure binding flow down of design and quality control requirements. As such, a working together agreement (WTA) template is provided as &lt;span class="xref"&gt;Appendix D&lt;/span&gt;.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,51 @@
+---
+id: SAECPGM1_13MYCAD
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: J1349 Certified Power Engine Data for GM LCV Ecotec as used in 2013MY Cadillac
+    ATS - Level 1
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/cpgm1_13mycad
+- type: src
+  content: https://saemobilus.sae.org/services/cpgm1_13mycad-j1349-certified-power-engine-data-gm-lcv-ecotec-used-2013my-cadillac-ats-level-1
+docidentifier:
+- content: SAE CPGM1_13MYCAD
+  type: SAE
+  primary: true
+- content: 10.4271/cpgm1_13mycad
+  type: DOI
+date:
+- type: approved
+  at: '2012-02-20'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This product includes information on the manufacturer, engine, application,
+    testing location, certified maximum horsepower, certified maximum torque along
+    with the certified curves of horsepower and torque over a wide range of engine
+    RPM speeds.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

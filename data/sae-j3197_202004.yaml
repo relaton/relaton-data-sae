@@ -1,0 +1,59 @@
+---
+id: SAEJ3197_202004
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Automated Driving System Data Logger
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3197_202004
+- type: src
+  content: https://saemobilus.sae.org/standards/j3197_202004-automated-driving-system-data-logger
+docidentifier:
+- content: SAE J3197_202004
+  type: SAE
+  primary: true
+- content: 10.4271/j3197_202004
+  type: DOI
+date:
+- type: approved
+  at: '2020-04-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Event Data Recorder Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice provides common data output formats and definitions for a variety of data elements that may be useful for analyzing the performance of automated driving system (ADS) during an event that meets the trigger threshold criteria specified in this document. The document is intended to govern data element definitions, to provide a minimum data element set, and to specify a common ADS data logger record format as applicable for motor vehicle applications.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The data elements defined in this document are unique to Levels 3, 4, or 5 ADS features, as defined by SAE J3016, and provide additional background of the events leading up to a crash or crash-like event. The data from sensors such as camera(s), LiDAR(s) etc. will provide information in the absence of a human driver. The data included in the ADS data logger is expected to be used in conjunction with the SAE J1698 EDR record and traditional accident reconstruction analysis. The event data recorder (EDR) and ADS data logger will capture information leading up to the triggered event, at a minimum.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;ADS technology is still being developed and is not yet commercially deployed. Therefore, this SAE Recommended Practice is intended as a guide toward standard practice and is subject to change to keep pace with experience and technical advances.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

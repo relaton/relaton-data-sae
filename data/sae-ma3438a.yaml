@@ -1,0 +1,48 @@
+---
+id: SAEMA3438A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SPACER, SLEEVE - FOR 6 MM BOLT, AMS4901 OR AMS4921, METRIC
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma3438a
+- type: src
+  content: https://saemobilus.sae.org/standards/ma3438a-spacer-sleeve-6-mm-bolt-ams4901-ams4921-metric
+docidentifier:
+- content: SAE MA3438A
+  type: SAE
+  primary: true
+- content: 10.4271/ma3438a
+  type: DOI
+date:
+- type: approved
+  at: '2019-01-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

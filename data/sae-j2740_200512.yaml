@@ -1,0 +1,58 @@
+---
+id: SAEJ2740_200512
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: General Motors UART Serial Data Communications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2740_200512
+- type: src
+  content: https://saemobilus.sae.org/standards/j2740_200512-general-motors-uart-serial-data-communications
+docidentifier:
+- content: SAE J2740_200512
+  type: SAE
+  primary: true
+- content: 10.4271/j2740_200512
+  type: DOI
+date:
+- type: approved
+  at: '2005-12-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Technical Information Report defines the General Motors UART Serial Data Communications Bus, commonly referred to as GM UART. This document should be used in conjunction with SAE J2534-2 in order to enhance an SAE J2534 interface to also provide the capability to program ECUs with GM UART.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J2534-1 includes requirements for an interface that can be used to program certain emission-related Electronic Control Units (ECUs) as required by U.S. regulations, and SAE J2534-2 defines enhanced functionality required to program additional ECUs not mandated by current U.S. regulations. The purpose of this document is to specify the requirements necessary to implement GM UART in an enhanced SAE J2534 interface intended for use by independent automotive service facilities to program GM UART ECUs in General Motors vehicles.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

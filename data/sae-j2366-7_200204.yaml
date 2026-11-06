@@ -1,0 +1,60 @@
+---
+id: SAEJ23667_200204
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ITS Data Bus—Application Message Layer
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2366/7_200204
+- type: src
+  content: https://saemobilus.sae.org/standards/j23667_200204-data-bus-application-message-layer
+docidentifier:
+- content: SAE J2366/7_200204
+  type: SAE
+  primary: true
+- content: 10.4271/j2366/7_200204
+  type: DOI
+date:
+- type: approved
+  at: '2002-04-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ITS Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;NOTE— SAE J2366-7LX—ITS Data Bus Application Message Layer Lexicon is now combined (as an appendix) with SAE J2366-7 to provide for a quicker revision process in the future.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This SAE Surface Vehicle Recommended Practice defines an Application Message Layer, which may be used as part of a complete protocol stack with the other protocol layers in the SAE J2366 family.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The Application Message Layer provides application message support for devices that are interconnected via a bus or network. Design of the messages and headers has stressed flexibility, expandability, economy (in terms of octets on the bus), and reusability.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The Application Message Layer is independent of the underlying network used, and may be used on any network. Sections of this document make specific reference to the use of SAE J2366-7 with other layers of the SAE J2366 family of protocols, and may not apply when SAE J2366-7 is used with other networks.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In addition, this document defines an audio arbitration scheme that may be used with the SAE J2366-1L Low Impedance Stereo Audio (LISA) bus, or any other comparable analog audio bus.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

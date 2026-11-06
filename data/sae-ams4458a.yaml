@@ -1,0 +1,57 @@
+---
+id: SAEAMS4458A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Plate (2.7 Cu - 1.8 Li - 0.7 Zn) 2099-T86 Solution Heat
+    Treated, Cold Worked and Artificially Aged
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4458a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4458a-aluminum-alloy-plate-27-cu-18-li-07-zn-2099-t86-solution-heat-treated-cold-worked-artificially-aged
+docidentifier:
+- content: SAE AMS4458A
+  type: SAE
+  primary: true
+- content: 10.4271/ams4458a
+  type: DOI
+date:
+- type: approved
+  at: '2016-02-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of plate 0.500 to 2.000 inch, incl (12.70 to 50.80 mm, incl) in thickness (see &lt;span class="xref"&gt;8.5&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

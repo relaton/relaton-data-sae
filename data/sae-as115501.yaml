@@ -1,0 +1,48 @@
+---
+id: SAEAS115501
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SCREW - FLAT FILLISTER HEAD, .3125-24
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as115501
+- type: src
+  content: https://saemobilus.sae.org/standards/as115501-screw-flat-fillister-head-3125-24
+docidentifier:
+- content: SAE AS115501
+  type: SAE
+  primary: true
+- content: 10.4271/as115501
+  type: DOI
+date:
+- type: approved
+  at: '2007-06-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

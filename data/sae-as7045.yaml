@@ -1,0 +1,69 @@
+---
+id: SAEAS7045
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Residual Stress Measurement and Classification, Metallic Structural Alloy
+    Products and Finished Parts
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as7045
+- type: src
+  content: https://saemobilus.sae.org/standards/as7045-residual-stress-measurement-classification-metallic-structural-alloy-products-finished-parts
+docidentifier:
+- content: SAE AS7045
+  type: SAE
+  primary: true
+- content: 10.4271/as7045
+  type: DOI
+date:
+- type: approved
+  at: '2023-05-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this standard is to provide uniform methods for defining, quantifying, and classifying the residual stress in metallic structural alloy products and finished parts. These stresses may exist within a single element, or they may be the result of a joining process. Such quantification and classification may be required when residual stresses within mill stock or preforms can impact further in-process distortion during machining or other processes, and when residual stresses within finished components can impact final mechanical properties and performance (especially strength, durability, and fracture performance).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

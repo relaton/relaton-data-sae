@@ -1,0 +1,59 @@
+---
+id: SAEAIR1245A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Power Sources for Fluidic Controls
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1245a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1245a-power-sources-fluidic-controls
+docidentifier:
+- content: SAE AIR1245A
+  type: SAE
+  primary: true
+- content: 10.4271/air1245a
+  type: DOI
+date:
+- type: approved
+  at: '2007-01-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A3 Flight Control and Vehicle Management Systems Cmt
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) presents a review of the types and general characteristics of power sources that may be used to provide the power for gaseous or liquid fluidic control systems. Fluidic definitions, terminology, units and symbols are defined in Reference &lt;span class="xref"&gt;2.1.1&lt;/span&gt;.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

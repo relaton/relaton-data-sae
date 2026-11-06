@@ -1,0 +1,63 @@
+---
+id: SAEJ1446_200305
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: On-Machine Alarm Test and Evaluation Procedure for Construction and General
+    Purpose Industrial Machinery
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1446_200305
+- type: src
+  content: https://saemobilus.sae.org/standards/j1446_200305-machine-alarm-test-evaluation-procedure-construction-general-purpose-industrial-machinery
+docidentifier:
+- content: SAE J1446_200305
+  type: SAE
+  primary: true
+- content: 10.4271/j1446_200305
+  type: DOI
+date:
+- type: approved
+  at: '2003-05-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Sound Level Technical Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This procedure is intended for evaluating alarms on off-road self-propelled work machines while in a stationary, parked position.
+
+    This SAE Standard is similar to ISO/DIS 9533, Earthmoving machinery--Machine mounted morward and reverse warning alarm--Sound test method.
+
+    Purpose
+    This SAE Standard outlines the procedures and sets criteria necessary to qualify an audible alarm when mounted on off-road self-propelled work machines as defined by SAE J1116 JUN86 (limited to categories 1.  Construction, and 2.  General Purpose Industrial).
+
+    The purpose of an alarm is to warn personnel of a potential hazard of a machine moving in reverse under its own power, without undue discomfort or irritation to the operator.
+
+    Alarm performance on the machine is a function of alarm design, condition, voltage at the alarm, and placement on the machine with respect to machine components.  This procedure verifies that the combination of factors produce an audible alarm.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

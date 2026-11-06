@@ -1,0 +1,56 @@
+---
+id: SAEARP4155
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HUMAN INTERFACE DESIGN METHODOLOGY FOR INTEGRATED DISPLAY SYMBOLOGY
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4155
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4155-human-interface-design-methodology-integrated-display-symbology
+docidentifier:
+- content: SAE ARP4155
+  type: SAE
+  primary: true
+- content: 10.4271/arp4155
+  type: DOI
+date:
+- type: approved
+  at: '1990-10-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10 Aerospace Behavioral Engineering Technology
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The recommended design approach is described in &lt;span class="xref"&gt;Figure 1&lt;/span&gt;. The approach emphasizes the fundamental relationship between symbols, the information they encode, the context within which the symbols are displayed, and the tasks being supported. While this document is aimed at aircraft displays involving dynamic control or monitoring tasks, the methodology is applicable to a wide range of symbology development situations.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

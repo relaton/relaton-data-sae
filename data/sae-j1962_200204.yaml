@@ -1,0 +1,65 @@
+---
+id: SAEJ1962_200204
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Diagnostic Connector Equivalent to ISO/DIS 15031-3:December 14, 2001
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1962_200204
+- type: src
+  content: https://saemobilus.sae.org/standards/j1962_200204-diagnostic-connector-equivalent-iso-dis-15031-3december-14-2001
+docidentifier:
+- content: SAE J1962_200204
+  type: SAE
+  primary: true
+- content: 10.4271/j1962_200204
+  type: DOI
+date:
+- type: approved
+  at: '2002-04-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document supersedes SAE J1962 FEB1998, and is technically equivalent to ISO/DIS 15031-3:December 14, 2001.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is intended to satisfy the requirements of an OBD connector as required by U.S. On-Board Diagnostic (OBD) regulations. The diagnostic connection specified in this document consists of two mating connectors, the vehicle connector and the external test equipment connector.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document specifies:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The functional requirements for the vehicle connector. These functional requirements are separated into four principal areas: connector location/access, connector design, connector contact allocation, and electrical requirements for connector and related electrical circuits,&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The functional requirements for the external test equipment connector. These functional requirements are separated into three principal areas: connector design, connector contact allocation, and electrical requirements for connector and related electrical circuits.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

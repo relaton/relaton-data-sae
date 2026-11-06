@@ -1,0 +1,56 @@
+---
+id: SAEJ2562_200308
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Biaxial Wheel Fatigue Test
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2562_200308
+- type: src
+  content: https://saemobilus.sae.org/standards/j2562_200308-biaxial-wheel-fatigue-test
+docidentifier:
+- content: SAE J2562_200308
+  type: SAE
+  primary: true
+- content: 10.4271/j2562_200308
+  type: DOI
+date:
+- type: approved
+  at: '2003-08-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Biaxial Wheel-Hub Fatigue Lab Test Task Force
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice provides uniform laboratory procedures for biaxial fatigue testing of wheels intended for normal highway use and temporary use on passenger car vehicles. The appendix provides a scaleable load file that is applicable to ballasted passenger cars. Load files for unballasted passenger cars and light trucks will be added to this document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

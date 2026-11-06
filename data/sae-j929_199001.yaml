@@ -1,0 +1,49 @@
+---
+id: SAEJ929_199001
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Piston Rings and Pistons
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j929_199001
+- type: src
+  content: https://saemobilus.sae.org/standards/j929_199001-piston-rings-pistons
+docidentifier:
+- content: SAE J929_199001
+  type: SAE
+  primary: true
+- content: 10.4271/j929_199001
+  type: DOI
+date:
+- type: approved
+  at: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>General-These specifications are in general use and have been adopted as an SAE Standard primarily for conventional automotive type engines. This category includes passenger car and light or medium
+    duty truck, tractor, and industrial engines, as well as some compressors. For heavy duty gasoline and diesel engine it may be necessary to depart from these standards. 'When deviations from Table 1 are made t.hey should be in the piston groove specifications and not in the ring specifications.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

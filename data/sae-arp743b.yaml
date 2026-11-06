@@ -1,0 +1,58 @@
+---
+id: SAEARP743B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Procedure for the Determination of Particulate Contamination of Air in
+    Dust Controlled Spaces by the Manual Particle Count Method
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp743b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp743b-procedure-determination-particulate-contamination-air-dust-controlled-spaces-manual-particle-count-method
+docidentifier:
+- content: SAE ARP743B
+  type: SAE
+  primary: true
+- content: 10.4271/arp743b
+  type: DOI
+date:
+- type: approved
+  at: '2001-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) describes two procedures for sampling particles in dust controlled spaces. One procedure covers airborne dust above 5 μm. The other (and newly added procedure) covers particles of 25 μm and larger that “fall out” of the environment onto surfaces. In each case the particles are sized in the longest dimension and counted. Airborne particles are reported as particles per cubic meter (cubic foot) whereas particles collected in fall out samples are reported as particles per 0.1 square meter (square foot). This document includes English units in parentheses as referenced information to the SI units where meaningful.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These procedures may also be used for environmental analysis where the quality of the particles by visual or chemical analysis is intended.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

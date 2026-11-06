@@ -1,0 +1,56 @@
+---
+id: SAEJ288_200803
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Snowmobile Fuel Tanks
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j288_200803
+- type: src
+  content: https://saemobilus.sae.org/standards/j288_200803-snowmobile-fuel-tanks
+docidentifier:
+- content: SAE J288_200803
+  type: SAE
+  primary: true
+- content: 10.4271/j288_200803
+  type: DOI
+date:
+- type: approved
+  at: '2008-03-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Snowmobile Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;To provide minimum performance requirements for non-pressurized fuel tanks used on snowmobiles as defined in SAE J33.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

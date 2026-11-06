@@ -1,0 +1,57 @@
+---
+id: SAEAMS5653E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL, CORROSION AND HEAT RESISTANT, BARS, WIRE, FORGINGS, TUBING, AND
+    RINGS 17Cr - 12Ni - 2SMo Solution Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5653e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5653e-steel-corrosion-heat-resistant-bars-wire-forgings-tubing-rings-17cr-12ni-2smo-solution-heat-treated
+docidentifier:
+- content: SAE AMS5653E
+  type: SAE
+  primary: true
+- content: 10.4271/ams5653e
+  type: DOI
+date:
+- type: approved
+  at: '1996-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat resistant steel in the form of bars, wire, forgings, mechanical tubing, flash welded rings, and stock for forging or flash welded rings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

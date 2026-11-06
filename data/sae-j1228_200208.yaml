@@ -1,0 +1,56 @@
+---
+id: SAEJ1228_200208
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Small Craft--Marine Propulsion Engine and Systems--Power Measurements and
+    Declarations
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1228_200208
+- type: src
+  content: https://saemobilus.sae.org/standards/j1228_200208-small-craft-marine-propulsion-engine-systems-power-measurements-declarations
+docidentifier:
+- content: SAE J1228_200208
+  type: SAE
+  primary: true
+- content: 10.4271/j1228_200208
+  type: DOI
+date:
+- type: approved
+  at: '2002-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Marine Technical Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This SAE Standard specifies the test requirements in addition to those given in ISO 3046-1 for determining the power, at a single point or as a power curve, of marine propulsion engines or systems for recreational craft and other small craft using similar propulsion equipment of less than 24 m length of the hull.
+
+    It also provides the means for documenting and checking the declared (rated) power published by the manufacturer.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

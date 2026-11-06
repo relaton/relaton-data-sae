@@ -1,0 +1,67 @@
+---
+id: SAEJ28941_201901
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Power Quality Requirements for Plug-In Electric Vehicle Chargers
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2894/1_201901
+- type: src
+  content: https://saemobilus.sae.org/standards/j28941_201901-power-quality-requirements-plug-electric-vehicle-chargers
+docidentifier:
+- content: SAE J2894/1_201901
+  type: SAE
+  primary: true
+- content: 10.4271/j2894/1_201901
+  type: DOI
+date:
+- type: approved
+  at: '2019-01-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The intent of this document is to develop a recommended practice for PEV chargers, whether on-board or off-board the vehicle, that will enable equipment manufacturers, vehicle manufacturers, electric utilities, and others to make reasonable design decisions regarding power quality. The three main purposes are as follows:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;To identify those parameters of PEV battery charger that must be controlled in order to preserve the quality of the AC service.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;To identify those characteristics of the AC service that may significantly impact the performance of the charger.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;To identify values for power quality, susceptibility, and power control parameters which are based on current U.S. and international standards. These values should be technically feasible and cost effective to implement into PEV battery chargers.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J2894/2 will describe the test methods for the parameters/requirements in this document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

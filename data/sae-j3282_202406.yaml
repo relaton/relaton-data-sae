@@ -1,0 +1,58 @@
+---
+id: SAEJ3282_202406
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Cooperative Infrastructure CDA Feature: Cooperative Permissive Left Turn
+    Across Opposing Traffic with Infrastructure Guidance'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3282_202406
+- type: src
+  content: https://saemobilus.sae.org/standards/j3282_202406-cooperative-infrastructure-cda-feature-cooperative-permissive-left-turn-across-opposing-traffic-infrastructure-guidance
+docidentifier:
+- content: SAE J3282_202406
+  type: SAE
+  primary: true
+- content: 10.4271/j3282_202406
+  type: DOI
+date:
+- type: approved
+  at: '2024-06-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Cooperative Driving Automation(CDA) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report provides a concept of operations needed to evaluate a CDA Feature for a permissive left turn across opposing traffic, with infrastructure guidance. The Feature uses CDA cooperation levels including status-sharing and agreement-seeking, and a set of test scenarios (functional, logical, and concrete) is developed to evaluate this CDA Feature.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

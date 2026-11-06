@@ -1,0 +1,57 @@
+---
+id: SAEAMS5568C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL TUBING, WELDED, CORROSION AND MODERATE HEAT RESISTANT 17Cr - 7.1Ni
+    - 1.1Al Solution Heat Treated, Precipitation-Hardenable
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5568c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5568c-steel-tubing-welded-corrosion-moderate-heat-resistant-17cr-71ni-11al-solution-heat-treated-precipitation-hardenable
+docidentifier:
+- content: SAE AMS5568C
+  type: SAE
+  primary: true
+- content: 10.4271/ams5568c
+  type: DOI
+date:
+- type: approved
+  at: '1988-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and moderate heat resistant steel in the form of welded tubing.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

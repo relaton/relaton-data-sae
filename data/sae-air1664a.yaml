@@ -1,0 +1,62 @@
+---
+id: SAEAIR1664A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Flexible Tanks General Design and Installation Recommendations
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1664a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1664a-aircraft-flexible-tanks-general-design-installation-recommendations
+docidentifier:
+- content: SAE AIR1664A
+  type: SAE
+  primary: true
+- content: 10.4271/air1664a
+  type: DOI
+date:
+- type: approved
+  at: '2025-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5A Aerospace Fuel, Inerting and Lubrication Sys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) includes general information about the various types and styles of flexible tanks and the tank-mounted fittings that adapt the tank to the surrounding structure and fluid-system plumbing.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Recommendations are given relative to the dimensional layout of the tank when these recommendations serve to avoid tank fabrication problems and tank/structure interface problems. As a part of these recommendations, critical dimensions of plumbing adapter fittings are discussed and recommendations made. Tank manufacturing tolerances are given.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Recommendations are made relative to cavity design and preparation to facilitate a reliable installation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The special installation requirements of nonself-sealing, self-sealing, and crash-resistant tanks are discussed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is not intended to replace the information or requirements of the military and commercial procurement specifications listed in &lt;span class="xref"&gt;Section 2&lt;/span&gt;. No attempt has been made, except in a very general way, to include physical property data such as weight and thickness of the composite materials available in the industry. Such materials are too numerous and vary too much between manufacturers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Whenever specific data or advice is required, it is necessary that the tank manufacturers be consulted.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEJ2836_202412
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Instructions for Using Plug-In Electric Vehicle (PEV) Communications, Interoperability,
+    and Security Documents
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2836_202412
+- type: src
+  content: https://saemobilus.sae.org/standards/j2836_202412-instructions-using-plug-electric-vehicle-pev-communications-interoperability-security-documents
+docidentifier:
+- content: SAE J2836_202412
+  type: SAE
+  primary: true
+- content: 10.4271/j2836_202412
+  type: DOI
+date:
+- type: approved
+  at: '2024-12-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Technical Information Report (TIR) establishes the instructions for the documents required for the variety of potential functions for PEV communications, energy transfer options, interoperability, and security. This includes the history, current status, and future plans for migrating through these documents created in the Hybrid Communication and Interoperability Task Force, based on functional objective (e.g., [1] If I want to do V2G with an off-board inverter, what documents and items within them do I need, [2] What do we intend for V3 of SAE J2953, …).&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEMAM2242
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TOLERANCES, METRIC Corrosion and Heat Resistant Steel, Iron Alloy, Titanium,
+    and Titanium Alloy Sheet, Strip, and Plate
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/mam2242
+- type: src
+  content: https://saemobilus.sae.org/standards/mam2242-tolerances-metric-corrosion-heat-resistant-steel-iron-alloy-titanium-titanium-alloy-sheet-strip-plate
+docidentifier:
+- content: SAE MAM2242
+  type: SAE
+  primary: true
+- content: 10.4271/mam2242
+  type: DOI
+date:
+- type: approved
+  at: '1980-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers established manufacturing tolerances applicable to sheet, strip, and plate of corrosion and heat resistant steels, iron alloys, titanium, and titanium alloys ordered to metric dimensions. These tolerances apply to all conditions, unless otherwise noted. The term "excl" is used to apply only to the higher figure of a specified range.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

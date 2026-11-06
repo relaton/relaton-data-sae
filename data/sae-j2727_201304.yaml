@@ -1,0 +1,57 @@
+---
+id: SAEJ2727_201304
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Mobile Air Conditioning System Refrigerant Emission Charts for R-134a and
+    R-1234yf
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2727_201304
+- type: src
+  content: https://saemobilus.sae.org/standards/j2727_201304-mobile-air-conditioning-system-refrigerant-emission-charts-r-134a-r-1234yf
+docidentifier:
+- content: SAE J2727_201304
+  type: SAE
+  primary: true
+- content: 10.4271/j2727_201304
+  type: DOI
+date:
+- type: approved
+  at: '2013-04-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Interior Climate Control Vehicle OEM Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The “System Emissions Chart” contained herein is intended to serve as a means of estimating the annual refrigerant emission rate (grams per year) from new production A/C systems equipped with specified component technologies. It provides emission values for various component technologies that are currently available, and can be expanded as new technologies are commercialized. This document provides the information to develop an Excel file template “System Emissions Chart” for system emission analysis. The chart includes automotive compressor technologies for conventional mobile air conditioning systems as well as those using semi-hermetic compressors. This standard can be considered a companion document to SAE J2763 Test Procedure for Determining Refrigerant Emissions from Mobile Air Conditioning Systems. SAE J2727 estimates system emissions, taking into account production assembly variation and accounts for components that are 100% helium leak tested prior to vehicle final assembly. The results from SAE J2064 are used to better represent permeation emissions from different hose material and coupling configurations in this version. SAE J2763 may be used to quantify emissions from properly assembled systems.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

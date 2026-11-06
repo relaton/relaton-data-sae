@@ -1,0 +1,48 @@
+---
+id: SAEAMS6373A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL TUBING, WELDED 0.95Cr - 0.20Mo (0.28 - 0.33C) (SAE 4130)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6373a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6373a-steel-tubing-welded-095cr-020mo-028-033c-sae-4130
+docidentifier:
+- content: SAE AMS6373A
+  type: SAE
+  primary: true
+- content: 10.4271/ams6373a
+  type: DOI
+date:
+- type: approved
+  at: '1970-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

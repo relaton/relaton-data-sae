@@ -1,0 +1,48 @@
+---
+id: SAEARP937
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Jet Engine Electromagnetic Interference Test Requirements and Test Method
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp937
+- type: src
+  content: https://saemobilus.sae.org/standards/arp937-jet-engine-electromagnetic-interference-test-requirements-test-method
+docidentifier:
+- content: SAE ARP937
+  type: SAE
+  primary: true
+- content: 10.4271/arp937
+  type: DOI
+date:
+- type: approved
+  at: '2002-12-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-4 Electromagnetic Compatibility (EMC) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

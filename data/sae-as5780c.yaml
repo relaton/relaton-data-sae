@@ -1,0 +1,56 @@
+---
+id: SAEAS5780C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Specification for Aero and Aero-Derived Gas Turbine Engine Lubricants
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5780c
+- type: src
+  content: https://saemobilus.sae.org/standards/as5780c-specification-aero-aero-derived-gas-turbine-engine-lubricants
+docidentifier:
+- content: SAE AS5780C
+  type: SAE
+  primary: true
+- content: 10.4271/as5780c
+  type: DOI
+date:
+- type: approved
+  at: '2017-08-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-34 Propulsion Lubricants Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification defines basic physical, chemical, and performance limits for 5 cSt grades of gas turbine engine lubricating oils used in aero and aero-derived marine and industrial applications, along with standard test methods and requirements for laboratories performing them. It also defines the quality control requirements to assure batch conformance and materials traceability, and the procedures to manage and communicate changes in oil formulation and brand. This specification invokes the Performance Review Institute (PRI) product qualification process. Requests for submittal information may be made to the PRI at the address in &lt;span class="xref"&gt;Appendix D&lt;/span&gt; &lt;span class="xref"&gt;Section D.2&lt;/span&gt;, referencing this specification. Products qualified to this specification are listed on a Qualified Products List (QPL) managed by the PRI. Additional tests and evaluations may be required by individual equipment builders before an oil is approved for use in their equipment. Approval and/or certification for use of a specific gas turbine oil in aero and aero-derived marine and industrial applications is the responsibility of the individual equipment builders and/or governmental authorities and is not implied by compliance with or qualification to this specification.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

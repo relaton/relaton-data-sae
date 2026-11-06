@@ -1,0 +1,59 @@
+---
+id: SAEAIR4175
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: A GUIDE TO THE DEVELOPMENT OF A GROUND STATION FOR ENGINE CONDITION MONITORING
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4175
+- type: src
+  content: https://saemobilus.sae.org/standards/air4175-a-guide-development-a-ground-station-engine-condition-monitoring
+docidentifier:
+- content: SAE AIR4175
+  type: SAE
+  primary: true
+- content: 10.4271/air4175
+  type: DOI
+date:
+- type: approved
+  at: '1994-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;An effective ground station is vital to the successful implementation of an EMS and is a fundamental part of the total monitoring system design. Unlike on-board processing systems which principally use data to indicate when engine maintenance is required, ground stations offer much greater processing power to analyse and manipulate EMS data more comprehensively for both maintenance and logistics purposes.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document reviews the main EMS functions and discusses the operating requirements which will determine the basic design of a ground station, including the interfaces with other maintenance or logistics systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A brief discussion is also included on some of the more recent advances in EMS ground station technology which have been specifically developed to provide more effective diagnostic capabilities for gas turbine engines.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Finally, this document addresses the program management requirements associated with the initial development and on-going support of a ground station.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

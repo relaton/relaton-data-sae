@@ -1,0 +1,69 @@
+---
+id: SAEARP1817B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Battery Industrial, Lead-Acid Type, for Use in Electric Powered Ground
+    Support Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1817b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1817b-battery-industrial-lead-acid-type-use-electric-powered-ground-support-equipment
+docidentifier:
+- content: SAE ARP1817B
+  type: SAE
+  primary: true
+- content: 10.4271/arp1817b
+  type: DOI
+date:
+- type: approved
+  at: '2026-03-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) describes an industrial battery, lead-acid type, for use in electric powered ground support equipment.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

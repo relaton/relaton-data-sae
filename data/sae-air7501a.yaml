@@ -1,0 +1,71 @@
+---
+id: SAEAIR7501A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Asset Life Cycle and Digital Data Standards Overview
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air7501a
+- type: src
+  content: https://saemobilus.sae.org/standards/air7501a-aircraft-asset-life-cycle-digital-data-standards-overview
+docidentifier:
+- content: SAE AIR7501A
+  type: SAE
+  primary: true
+- content: 10.4271/air7501a
+  type: DOI
+date:
+- type: approved
+  at: '2026-10-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-31 Digital Transactions for Aerospace
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) reviews technical, operational, and maintenance data being exchanged between key stakeholders in aerospace asset life cycle and data standards available for such exchanges. It identifies gaps and non-availability of data standards in certain areas. The scope of the current document is limited to aircraft operations, maintenance, and disposal stages post-build phase, and does not include the detailed interactions during the aircraft build phase. This updated version reflects all aerospace digital data standards published following the release of the initial document.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEJ55113_199403
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: VEHICLE ELECTROMAGNETIC IMMUNITY—BULK CURRENT INJECTION
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j551/13_199403
+- type: src
+  content: https://saemobilus.sae.org/standards/j55113_199403-vehicle-electromagnetic-immunity-bulk-current-injection
+docidentifier:
+- content: SAE J551/13_199403
+  type: SAE
+  primary: true
+- content: 10.4271/j551/13_199403
+  type: DOI
+date:
+- type: approved
+  at: '1994-03-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This part of SAE J551 specifies Bulk Current Injection (BCI) test methods and procedures for testing the electromagnetic immunity of electronic components for passenger cars and commercial vehicles. The electromagnetic disturbance, considered in this part of SAE J551, will be limited to continuous narrow band electromagnetic fields.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

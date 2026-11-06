@@ -1,0 +1,57 @@
+---
+id: SAEAIR5686
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: A Methodology for Assessing Inlet Swirl Distortion
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5686
+- type: src
+  content: https://saemobilus.sae.org/standards/air5686-a-methodology-assessing-inlet-swirl-distortion
+docidentifier:
+- content: SAE AIR5686
+  type: SAE
+  primary: true
+- content: 10.4271/air5686
+  type: DOI
+date:
+- type: approved
+  at: '2022-03-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-16 Turbine Engine Inlet Flow Distortion  Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Information Report (AIR) addresses the subject of aircraft inlet-swirl distortion. A structured methodology for characterizing steady-state swirl distortion in terms of swirl descriptors and for correlating the swirl descriptors with loss in stability pressure ratio is presented. The methodology is to be considered in conjunction with other SAE inlet distortion methodologies. In particular, the combined effects of swirl and total-pressure distortion on stability margin are considered. However, dynamic swirl, i.e., time-variant swirl, is not considered. The implementation of the swirl assessment methodology is shown through both computational and experimental examples. Different types of swirl distortion encountered in various engine installations and operations are described, and case studies which highlight the impact of swirl on engine stability are provided. Supplemental material is included in the appendices.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This AIR is issued to bring together information and ideas required to address the inlet-swirl problem for which common industry practice has yet to be established. This document should foster the tests and analyses necessary to mature the ideas proposed by the committee to a recommended practice. These tests and analyses must include information that justifies three main features of the proposed swirl methodology: (1) swirl descriptors for correlating inlet swirl and stability pressure ratio loss, (2) computational techniques for analyzing compression systems (inlets, fans, compressors), and (3) test protocols (instrumentation and test techniques). The committee anticipates serving the industry by using such information to establish the consensus necessary for issuance of an SAE recommended practice.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

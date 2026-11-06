@@ -1,0 +1,60 @@
+---
+id: SAEARP5416B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Lightning Test Methods
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5416b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5416b-aircraft-lightning-test-methods
+docidentifier:
+- content: SAE ARP5416B
+  type: SAE
+  primary: true
+- content: 10.4271/arp5416b
+  type: DOI
+date:
+- type: approved
+  at: '2025-03-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-2 Lightning Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is intended to describe how to conduct lightning direct effects tests and indirect system upset effects tests. Indirect effects upset and damage tolerance tests for individual equipment items are addressed in RTCA DO-160/ED-14. Documents relating to other aspects of the certification process, including definition of the lightning environment, zoning, and indirect effects certification, are listed in &lt;span class="xref"&gt;Section 2&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document presents test techniques for simulated lightning testing of aircraft and the associated systems. This document does not include design criteria, nor does it specify which items should or should not be tested. Acceptable levels of damage and/or pass/fail criteria for the qualification tests must be approved by the appropriate airworthiness authority for each particular case. When lightning tests are a part of a certification plan, the test methods described herein are an acceptable means, but not the only means, of meeting the test requirements of the certification plan.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The latest 14 CFR Part 25 and EASA CS-25 fuel system lightning protection regulations require specific test considerations, which are not defined in this ARP. ARP6205 (“Transport Airplane Fuel System Lightning Protection”)/ED-303 (“User Guide for Lightning Protection of Fuel Tank Structures and Systems”) contains supplemental guidance regarding test specimen design, inclusion of faults, and derivation of appropriate test levels. In addition to the test method guidance in &lt;span class="xref"&gt;Section 8&lt;/span&gt; of this ARP, users should refer to ARP6205/ED-303 if their project is subject to 14 CFR § 25.954 Amendment 25-146 and utilizing AC 25.954-1, or EASA CS-25 Amendment 28 and AMC 25.954.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Each test method is set out in a uniform format, describing the test purpose, test object, test setup, test waveforms (voltage and/or current), measurements and data recording, test procedure, and data interpretation. Guidance is provided on how to select the appropriate test or series of tests, and how the test results can be assessed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Natural lightning is a complex and variable phenomenon, and its interaction with different types of vehicles may manifest in many different ways. It is not intended that every test described herein be applied to every system requiring lightning verification tests. The document is written so that specific aspects of the environment can be called out for each specific program as dictated by the vehicle design, performance, and mission constraints.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,65 @@
+---
+id: SAEJ1711_201006
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Recommended Practice for Measuring the Exhaust Emissions and Fuel Economy
+    of Hybrid-Electric Vehicles, Including Plug-in Hybrid Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1711_201006
+- type: src
+  content: https://saemobilus.sae.org/standards/j1711_201006-recommended-practice-measuring-exhaust-emissions-fuel-economy-hybrid-electric-vehicles-including-plug-hybrid-vehicles
+docidentifier:
+- content: SAE J1711_201006
+  type: SAE
+  primary: true
+- content: 10.4271/j1711_201006
+  type: DOI
+date:
+- type: approved
+  at: '2010-06-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Light Duty Vehicle Performance and Economy Measure Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Society of Automotive Engineers (SAE) Recommended Practice establishes uniform chassis dynamometer test procedures for hybrid-electric vehicles (HEVs) that are designed to be driven on public roads. The procedure provides instructions for measuring and calculating the exhaust emissions and fuel economy of HEVs driven on the Urban Dynamometer Driving Schedule (UDDS) and the Highway Fuel Economy Driving Schedule (HFEDS), as well as the exhaust emissions of HEVs driven on the US06 Driving Schedule (US06) and the SC03 Driving Schedule (SC03). However, the procedures are structured so that other driving schedules may be substituted, provided that the corresponding preparatory procedures, test lengths, and weighting factors are modified accordingly.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Furthermore, this document does not specify which emissions constituents to measure (e.g., HC, CO, NO&lt;sub&gt;x&lt;/sub&gt;, CO&lt;sub&gt;2&lt;/sub&gt;); instead, that decision will depend on the objectives of the tester. The emissions calculations for plug-in hybrid-electric vehicle (PHEV) operation are provided as inventory results, weighted in the same manner as fuel and electrical energy consumption. Decisions for on-board versus off-board emissions, relative benefits of emissions-free driving, and how best to weight a “cold-start” cycle in charge-depleting (CD) mode must first be made before a certification methodology can be determined. Thus, calculations or test methodology intended to certify a PHEV for compliance of emissions standards is beyond the scope of this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For purposes of this test procedure, an HEV is defined as a road vehicle that can draw propulsion energy from both of the following sources of stored energy: (1) a consumable fuel and (2) a rechargeable energy storage system (RESS) that is recharged by the on-board hybrid propulsion system, an external electric energy source, or both. Consumable fuels that are covered by this document are limited to petroleum-based liquid fuels (e.g., gasoline and Diesel fuel), alcohol-based liquid fuels (e.g., methanol and ethanol), and hydrocarbon-based gaseous fuels (e.g., compressed natural gas). The RESSs that are covered by this document include batteries, capacitors, and electromechanical flywheels. Procedures are included to test CD operating modes of HEVs designed to be routinely charged off-board, and calculations are provided that combine the CD and charge-sustaining (CS) behavior according to in-use driving statistics.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The HEVs shall have an RESS with a nominal energy &amp;gt;2% of the fuel consumption energy of a particular test cycle to qualify to be tested with the procedures contained in this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Single-roll, electric dynamometer test procedures are specified to minimize the test-to-test variations inherent in track testing and to conform to standard industry practice for exhaust emissions and fuel economy measurements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not include test procedures for recharge-dependent (RD) operating modes or vehicles (see &lt;span class="xref"&gt;3.1.2&lt;/span&gt; for the definition).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not address the methods or equations necessary to calculate the adjusted U.S. Environmental Protection Agency (EPA) label miles per gallon (MPG) (sometimes referred to “EPA 5-Cycle” calculations).&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,66 @@
+---
+id: SAEGEIAHB859
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Implementation Guide for Data Management
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/geiahb859
+- type: src
+  content: https://saemobilus.sae.org/books/geiahb859-implementation-guide-data-management
+docidentifier:
+- content: SAE GEIA-HB-859
+  type: SAE
+  primary: true
+- content: 10.4271/geiahb859
+  type: DOI
+date:
+- type: approved
+  at: '2006-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EIDM Enterprise Information and Data Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+    &lt;div class="htmlview paragraph"&gt;As an integral part of the evolution to ANSI/GEIA-859 and the new environment, data management ensures that appropriate information support is available. Data requirements are established that ensure that data are properly timed and accessible, and provide the necessary visibility. The integrity of the data must be ensured regardless of their physical location. The DM process, implemented with rapidly maturing technologies, makes information available sooner and facilitates information sharing. It controls the digital format and the procedures necessary to exchange, index, store, and distribute or provide access to data.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The DM process offers a wide range of benefits that contribute to improvements in the cost, schedule, performance, and support of products and services by enabling acquisition managers to do the following:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Make better tradeoff decisions&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Identify problem areas earlier&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Decrease cycle times for decisions and information processing&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Eliminate overhead costs of receiving, storing, and processing hard-copy documents.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;Data management, originally instituted to address the information needs for the Department of Defense (DoD), has been adopted widely, not only in the defense industrial base, but in insurance, medicine, and other businesses with complex data environments. DM’s purpose has always been to ensure that data are available for any legitimate use whenever needed, for the least cost.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

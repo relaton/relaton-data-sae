@@ -1,0 +1,57 @@
+---
+id: SAEAIR6226
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Trimmable Horizontal Stabilizer Actuator Structural Load Path Integrity
+    Monitoring Principles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6226
+- type: src
+  content: https://saemobilus.sae.org/standards/air6226-trimmable-horizontal-stabilizer-actuator-structural-load-path-integrity-monitoring-principles
+docidentifier:
+- content: SAE AIR6226
+  type: SAE
+  primary: true
+- content: 10.4271/air6226
+  type: DOI
+date:
+- type: approved
+  at: '2014-10-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6B3 Electro-Mechanical Actuation Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Most of the Trimmable Horizontal Stabilizer Actuators (THSA) feature a dual structural load path, the primary load path being loaded, the secondary load path being normally unloaded, or both load paths sharing in parallel the Horizontal Stabilizer load. This document describes existing methods for detecting rupture or disconnection of loaded load paths as an overview for those specifying or designing Horizontal Stabilizer Trim Actuators in order to compare existing solutions as reference for implementation in new aircraft programs.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

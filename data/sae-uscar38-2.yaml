@@ -1,0 +1,80 @@
+---
+id: SAEUSCAR382
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PERFORMANCE SPECIFICATION FOR ULTRASONICALLY WELDED WIRE TERMINATIONS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar38-2
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar38-2-performance-specification-ultrasonically-welded-wire-terminations
+docidentifier:
+- content: SAE USCAR-38-2
+  type: SAE
+  primary: true
+- content: 10.4271/uscar38-2
+  type: DOI
+date:
+- type: approved
+  at: '2023-07-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification defines test methods and performance criteria for ultrasonically welded wire-to-terminal bonds as shown in &lt;span class="xref"&gt;Figure 1&lt;/span&gt;. This specification subjects parts to environmental exposures to simulate a lifetime of field exposure for a road vehicle. Exposures referenced in this specification include thermal shock, temperature humidity cycling, and mechanical stress. This specification is intended to evaluate the strength and performance of the interface between wires and the electrical terminal pad. The graphics used are specific to the linear weld type of process equipment. Validation of the terminal is a separate task (refer to a component validation test such as SAE/USCAR-2).&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;If the weld under test (WUT) is different than described in this section or is subjected to conditions beyond what is typical of automotive use, the test sequence may not be applicable. Ensure that parts used in other conditions are validated for the actual conditions encountered.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Vehicle and product conditions applicable to use of this specification are:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Applicable use: This specification is applicable where the wire and terminal are part of an electrical connection system used in road vehicles at ambient temperatures from -40 to +150 °C. Applied voltage may be either low (0 to 60 VDC) or high (to 1000 VAC or VDC). USCAR-38 applies to all wire lengths and includes a special test for wires shorter than 500 mm where a weld is done after another component has been assembled to assess potential process damage to the terminal at the other end of the wire. Wire harness makers typically will be given the responsibility to track short wire applications per a statement in the applicable engineering statement of work.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Applicable designs: The procedures described are applicable to buss, terminal, or device connections, including eyelet and battery terminations comprising either single or multiple wire terminations. Designs with and without crimped insulation wings are applicable.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Applicable multiple wire configurations: For multi-wire welds, 12 or fewer wires is preferred since having over 12 wires increases the cost and complexity of the weld. A design review is recommended for welds having over 12 wires to see if splitting the splice into smaller pieces is a better choice. Welds of ≥20 wires are not applicable (because welds of that complexity require equipment capability assessments beyond the scope of USCAR-38). The ratio of the smallest wire size to the total weld cross-sectional area is recommended to be at least 1:10 (i.e., the smallest cable must be at least 10% of the total cross-sectional area of the weld).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;4&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Applicable wire: This specification was developed using clean, bare, uncoated, stranded automotive wire. Wire with tin coatings, applied lubricants, or contamination is known to affect the mechanical and electrical performance of ultra-sonically welded cable terminations, and are not applicable to be evaluated per this specification. USCAR-38 is not applicable for wire-to-wire splice welding (USCAR-45 is applicable).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;5&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Applicable wire sizes and types: Copper wire sizes between 0.22 to 150 mm&lt;sup&gt;2&lt;/sup&gt; per ISO 6722-1 or ISO 19642-3 and aluminum sizes between 0.5 to 150 mm&lt;sup&gt;2&lt;/sup&gt; per ISO 6722-2 or ISO 19642-4 are applicable. Other wire types may be tested but cannot claim compliance. Examples of “other” wire types are compressed core, compacted core, solid wire core, and center strand materials other than copper, copper alloy, aluminum, or aluminum alloy. Examples of different center strand materials are copper-clad or steel-center-core wires.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;6&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The validation process described applies only to linear ultrasonic welding, typically with pressure, energy, and amplitude set as inputs and weld time controlled by limiting energy based on “feedback” from process monitoring sensors. Using process feedback assures the energy-per-weld is maintained. If the equipment used to make samples for USCAR-38 testing is different from this description, this specification may need to be modified or may not be applicable.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

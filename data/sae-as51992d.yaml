@@ -1,0 +1,60 @@
+---
+id: SAEAS51992D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STUD, LOCKED-IN RING, SERRATED, HIGH STRENGTH
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as51992d
+- type: src
+  content: https://saemobilus.sae.org/standards/as51992d-stud-locked-ring-serrated-high-strength
+docidentifier:
+- content: SAE AS51992D
+  type: SAE
+  primary: true
+- content: 10.4271/as51992d
+  type: DOI
+date:
+- type: approved
+  at: '2026-04-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

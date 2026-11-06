@@ -1,0 +1,56 @@
+---
+id: SAEARP410212A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Airborne Landing Guidance System for Transport Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4102/12a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp410212a-airborne-landing-guidance-system-transport-aircraft
+docidentifier:
+- content: SAE ARP4102/12A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4102/12a
+  type: DOI
+date:
+- type: approved
+  at: '2008-06-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-7 Flight Deck Handling Qualities Stds for Trans Aircraft
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document specifies requirements for an Airborne Landing Guidance System (ALGS) electronic device. This equipment shall derive relative aircraft position and situation information for flight along precision three-dimensional paths within the appropriate coverage area. The precision three-dimensional path may be an ILS straight-in look-alike path or a complex, curved path. The requirements are applicable to electronic devices capable of receiving signals or other information from one or more sources, including but not limited to ILS, MLS, GNSS, or IRU inputs.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

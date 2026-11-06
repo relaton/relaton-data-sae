@@ -1,0 +1,57 @@
+---
+id: SAEARP704A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Helicopter Engine-Rotor System Compatibility
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp704a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp704a-helicopter-engine-rotor-system-compatibility
+docidentifier:
+- content: SAE ARP704A
+  type: SAE
+  primary: true
+- content: 10.4271/arp704a
+  type: DOI
+date:
+- type: approved
+  at: '2021-03-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-12 Powered Lift Propulsion Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) recommends a methodology to be used for the design, analysis and test evaluation of modern helicopter gas turbine propulsion system stability and transient response characteristics. This methodology utilizes the computational power of modern digital computers to more thoroughly analyze, simulate and bench-test the helicopter engine/rotor system speed control loop over the flight envelope. This up-front work results in significantly less effort expended during flight test and delivers a more effective system into service.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The methodology presented herein is recommended for modern digital electronic propulsion control systems and also for traditional analog and hydromechanical systems.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

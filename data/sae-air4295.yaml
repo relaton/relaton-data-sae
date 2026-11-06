@@ -1,0 +1,57 @@
+---
+id: SAEAIR4295
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Handbook for the Digital Time Division Command/Response Multiplex Data
+    Bus Test Plans
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4295
+- type: src
+  content: https://saemobilus.sae.org/standards/air4295-handbook-digital-time-division-command-response-multiplex-data-bus-test-plans
+docidentifier:
+- content: SAE AIR4295
+  type: SAE
+  primary: true
+- content: 10.4271/air4295
+  type: DOI
+date:
+- type: approved
+  at: '2011-11-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document contains guidance for using SAE publications, AS4112 through AS4117 (MIL-STD-1553 related Test Plans). Included herein are the referenced test plan paragraphs numbers and titles, the purpose of the test, the associated MIL-STD-1553 paragraph, commentary concerning test methods and rationale, and instrumentation requirements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

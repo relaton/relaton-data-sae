@@ -1,0 +1,59 @@
+---
+id: SAEAIR6985
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Performance Evaluation of Fuel Filter Elements Utilized in Aircraft Gas
+    Turbine Engine and APU Main Fuel Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6985
+- type: src
+  content: https://saemobilus.sae.org/standards/air6985-performance-evaluation-fuel-filter-elements-utilized-aircraft-gas-turbine-engine-apu-main-fuel-systems
+docidentifier:
+- content: SAE AIR6985
+  type: SAE
+  primary: true
+- content: 10.4271/air6985
+  type: DOI
+date:
+- type: approved
+  at: '2021-06-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5B Aircraft and Engine Fuel and Lubricant Sys Components
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) reviews performance testing parameters for fuel filter elements utilized in gas turbine engine and APU main fuel systems. The scope is limited to main fuel filter elements rated at 35 μm(c), or finer, which constitute the majority of contemporary engine main fuel system filtration. This document does not address icing tests specific to fuel filter elements since they are only required for certain engine designs and are custom test procedures. General information on icing tests for aircraft fuel system components can be found in ARP1401. This document also does not address fuel filter elements utilized in fuel hydraulic systems since it is outside the scope of this document,&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is confined to laboratory testing of filter element performance to qualify the filtration medium and filter element construction as opposed to qualification of the complete fuel filter assembly. The testing discussed here is usually followed by laboratory and on-engine testing of the entire fuel filter assembly (including filter element, housing, valving, etc.) which is outside the scope of this AIR.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

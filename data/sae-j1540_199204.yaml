@@ -1,0 +1,59 @@
+---
+id: SAEJ1540_199204
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MANUAL TRANSMISSION AND TRANSAXLE EFFICIENCY AND PARASITIC LOSS MEASUREMENT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1540_199204
+- type: src
+  content: https://saemobilus.sae.org/standards/j1540_199204-manual-transmission-transaxle-efficiency-parasitic-loss-measurement
+docidentifier:
+- content: SAE J1540_199204
+  type: SAE
+  primary: true
+- content: 10.4271/j1540_199204
+  type: DOI
+date:
+- type: approved
+  at: '1992-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Powertrain Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Because of the intense focus on CAFE and fuel emission standards, optimization of the automobile drivetrain is imperative. In light of this, component efficiencies have become an important factor in the drivetrain decision-making process. It has therefore become necessary to develop a universal standard to judge transmission efficiency.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice specifies the dynamometer test procedure which maps a manual transmission’s efficiency. The document is separated into two parts. The first compares input and output torque throughout a specified input speed range in order to determine “in-gear” transmission efficiency. The second procedure measures parasitic losses experienced while in neutral at nominal idling speeds.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The application of this document is intended for passenger car and light truck.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;All references to transmissions throughout this document include transaxles.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

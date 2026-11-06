@@ -1,0 +1,48 @@
+---
+id: SAEAMS5329
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL CASTINGS, SAND 0.80Cr - 1.8Ni - 0.35Mo (0.28 - 0.36C) (SAE 4330 Modified)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5329
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5329-steel-castings-sand-080cr-18ni-035mo-028-036c-sae-4330-modified
+docidentifier:
+- content: SAE AMS5329
+  type: SAE
+  primary: true
+- content: 10.4271/ams5329
+  type: DOI
+date:
+- type: approved
+  at: '1963-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

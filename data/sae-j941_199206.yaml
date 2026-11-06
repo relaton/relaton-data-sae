@@ -1,0 +1,56 @@
+---
+id: SAEJ941_199206
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MOTOR VEHICLE DRIVERS’ EYE LOCATIONS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j941_199206
+- type: src
+  content: https://saemobilus.sae.org/standards/j941_199206-motor-vehicle-drivers-eye-locations
+docidentifier:
+- content: SAE J941_199206
+  type: SAE
+  primary: true
+- content: 10.4271/j941_199206
+  type: DOI
+date:
+- type: approved
+  at: '1992-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Driver Vision Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes the location of drivers’ eyes inside a vehicle for the purpose of measuring the drivers’ field of view. Elliptical (eyellipse) models in both two and three dimensions are used to represent 95th and 99th percentiles of driver eye locations. The procedure used to locate eyellipses in passenger cars differs from the procedure used for heavy trucks. Selected eye (E) points, useful in certain viewing tasks, are derived from the 95th eyellipse. For application of this Practice refer to SAE J1050 (Reference 14).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

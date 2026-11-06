@@ -1,0 +1,88 @@
+---
+id: SAEJ171A_197709
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MEASUREMENT OF FUEL EVAPORATIVE EMISSIONS FROM GASOLINE POWERED PASSENGER
+    CARS AND LIGHT TRUCKS USING THE ENCLOSURE TECHNIQUE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j171a_197709
+- type: src
+  content: https://saemobilus.sae.org/standards/j171a_197709-measurement-fuel-evaporative-emissions-gasoline-powered-passenger-cars-light-trucks-using-enclosure-technique
+docidentifier:
+- content: SAE J171A_197709
+  type: SAE
+  primary: true
+- content: 10.4271/j171a_197709
+  type: DOI
+date:
+- type: approved
+  at: '1977-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: SAE IC Powertrain Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice describes a procedure for measuring evaporative emissions from fuel systems of passenger cars and light trucks. Emissions are measured during a sequence of laboratory tests that simulate typical vehicle usage in a metropolitan area during summer months:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A 1 h soak representing one diurnal cycle in which temperature of fuel in the vehicle’s tank is raised from 60 to 84 F (15.6 to 28.9 C).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A 7.5 mile (12.1 km) run on a chassis dynamometer.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A 1 h hot soak immediately following the 7.5 mile (12.1 km) run.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;The method described in this recommended practice for measuring the weight of fuel vapors emitted during the tests differs from that described in SAE J170a. SAE J170a employs activated carbon traps connected to the fuel system at locations where vapors are expected to escape. Vapors from these openings are absorbed by the traps, and the gain in weight of the traps represents the fuel evaporative emissions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The method described in this report employs an enclosure in which the vehicle is placed during the diurnal and hot soak phases of the test. Vapors that escape from all openings in the fuel system—both expected and unexpected—are retained in the enclosure, and the increase in hydrocarbon concentration of the atmosphere in the enclosure represents the evaporative emissions. Emission values measured by the enclosure method may, therefore, be significantly different than those obtained by the trap method, depending on fuel system configuration and component design.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The test sequence and methods for measuring emissions are applicable to vehicles either with or without systems or devices to control fuel evaporative emissions. Although they have been used successfully with a wide range of vehicles equipped with a variety of control devices, they should not be applied indiscriminately to new or unique vehicles or fuel systems. For example, based on experience that temperature excursions of the fuel tank in parked vehicles follow those of ambient air, the test sequence prescribes heating of the fuel tank to simulate a diurnal soak. Any control system designed to alter the relation between fuel and ambient temperatures will not be properly evaluated in the test sequences prescribed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice is intended as a guide toward standard practices, but may be subject to frequent change to keep pace with experience and technical advances.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The recommended practice includes the following sections:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;1&lt;/span&gt;. Definitions&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;2&lt;/span&gt;. Test Fuel&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;3&lt;/span&gt;. Test Facilities and Equipment&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;4&lt;/span&gt;. Measurement Method&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;5&lt;/span&gt;. Preparation of Test Vehicle and Fuel System&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;6&lt;/span&gt;. Test Sequence&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;7&lt;/span&gt;. Information and Data to be Recorded&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;8&lt;/span&gt;. Presentation of Data&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

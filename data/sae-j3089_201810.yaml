@@ -1,0 +1,59 @@
+---
+id: SAEJ3089_201810
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Characterization of On-Board Vehicular Hydrogen Sensors
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3089_201810
+- type: src
+  content: https://saemobilus.sae.org/standards/j3089_201810-characterization-board-vehicular-hydrogen-sensors
+docidentifier:
+- content: SAE J3089_201810
+  type: SAE
+  primary: true
+- content: 10.4271/j3089_201810
+  type: DOI
+date:
+- type: approved
+  at: '2018-10-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Cell Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Technical Information Report (TIR) provides test methods for evaluating hydrogen sensors when the hydrogen system integrator and/or vehicle manufacturer elect to use such devices on board their hydrogen vehicles, including hydrogen fuel cell electric vehicles (FCEV).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The tests described in &lt;span class="xref"&gt;5.1&lt;/span&gt; of this document are performance-based and were developed to assess hydrogen sensor metrological parameters. These tests were designed to accommodate a wide range of environmental and operating conditions based on different possible situations and sensor implementations within the vehicle. Section &lt;span class="xref"&gt;5.2&lt;/span&gt; covers supplemental electrical safety and physical stress tests. These are based upon standard tests developed for qualifying electrical and other components for use on vehicles and do not explicitly pertain to gas sensor metrological performance assessment. Since the use of on-board hydrogen sensors is not standardized or mandated, their implementation can vary greatly from vehicle to vehicle and among potential applications or functions. For example, an on-board sensor could be located in a relatively dry environment such as in the passenger compartment or in a “highly humidifed” environment, such as within the process exhaust from the fuel cell system. As this is a guidance document and not a standard, no specific application will be identified. Also, as a guidance document, no performance specification or pass/fail criteria will be defined. For this reason, the hydrogen system integrator and/or vehicle manufacturer need to determine which tests and associated test conditions are relevant for their application(s). Thus, it is the prerogative of the hydrogen system integrator and/or vehicle manufacturer to define specific test acceptance criteria necessary to achieve the required performance of their process control and protective systems within the vehicle. The sensor manufacturer or testing laboratory is to present results of each test to the hydrogen system integrator and/or vehicle manufacturer, who will then use the results to ascertain the suitability of a sensor technology for their application.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

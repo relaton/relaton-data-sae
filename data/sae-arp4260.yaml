@@ -1,0 +1,62 @@
+---
+id: SAEARP4260
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Photometric and Colorimetric Measurement Procedures for Airborne Flat Panel
+    Displays
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4260
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4260-photometric-colorimetric-measurement-procedures-airborne-flat-panel-displays
+docidentifier:
+- content: SAE ARP4260
+  type: SAE
+  primary: true
+- content: 10.4271/arp4260
+  type: DOI
+date:
+- type: approved
+  at: '1998-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20AC Crew Station and Interior Lighting Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) contains methods used to measure the optical performance of airborne flat panel display (FPD) systems. The methods described are specific to the direct view, liquid crystal matrix (x-y addressable) display technology used on aircraft flight decks. The focus of this document is on active matrix, liquid crystal displays (LCD), however, the majority of the procedures can be applied to other display technologies.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The document covers monochrome and color LCD operation in the transmissive mode within the visual spectrum (the wavelength range of 380 to 780 nm). These procedures are adaptable to reflective and transflective displays paying special attention to the source illumination geometry.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Generally, the procedures describe manual single point measurements. The individual procedures may be readily incorporated into automated testing equipment (ATE) or other automated environments. This also includes, but is not limited to Fourier scopes and video imaging devices.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

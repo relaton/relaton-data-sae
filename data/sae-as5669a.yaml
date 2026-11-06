@@ -1,0 +1,61 @@
+---
+id: SAEAS5669A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: JAUS / SDP Transport Specification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5669a
+- type: src
+  content: https://saemobilus.sae.org/standards/as5669a-jaus-sdp-transport-specification
+docidentifier:
+- content: SAE AS5669A
+  type: SAE
+  primary: true
+- content: 10.4271/as5669a
+  type: DOI
+date:
+- type: approved
+  at: '2019-04-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-4JAUS Joint Architecture for Unmanned Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) specifies a data communications layer for the transport of messages defined by the Joint Architecture for Unmanned Systems (JAUS) or other Software Defined Protocols (SDP). This Transport Specification defines the formats and protocols used for communication between compliant entities for all supported link-layer protocols and media. Although JAUS is the SDP used as the example implemented throughout this document, AS5669 can be used for any SDP that meets the required capabilities.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A Software Defined Protocol is defined as an application data interface for communicating between software elements. The SDP is agnostic of the underlying communications protocol and in fact communicates in much the same manner regardless if the communicating entities are collocated in the same memory space or separated by a satellite link.&lt;/div&gt;
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

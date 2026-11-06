@@ -1,0 +1,57 @@
+---
+id: SAEARP7987
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Development, Verification, and Validation of a Thermal Model for Determining
+    Current Derating Design Limits of Aerospace Wires and Wire Bundles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp7987
+- type: src
+  content: https://saemobilus.sae.org/standards/arp7987-development-verification-validation-a-thermal-model-determining-current-derating-design-limits-aerospace-wires-wire-bundles
+docidentifier:
+- content: SAE ARP7987
+  type: SAE
+  primary: true
+- content: 10.4271/arp7987
+  type: DOI
+date:
+- type: approved
+  at: '2021-08-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8A Elec Wiring and Fiber Optic Interconnect Sys Install
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The thermal modeling guidelines and best practices provided in this document are applicable to powered aerospace vehicle wires and wire bundles in thermal environments ranging from -65 to +260 °C (-85 to +500 °F) and pressures ranging from sea level to space vacuum. Currently the ARP only considers steady state and direct current conditions. The effects of wiring terminations and connectors are not addressed. Both can significantly impact the overall current derating and safety margins for a wiring system.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

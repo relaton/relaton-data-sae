@@ -1,0 +1,57 @@
+---
+id: SAEAMS2750B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PYROMETRY
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2750b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2750b-pyrometry
+docidentifier:
+- content: SAE AMS2750B
+  type: SAE
+  primary: true
+- content: 10.4271/ams2750b
+  type: DOI
+date:
+- type: approved
+  at: '1987-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers equipment (temperature sensing elements, instrumentation) and tests (system accuracy, temperature uniformity) required to ensure that parts or raw materials (See &lt;span class="xref"&gt;8.1.7&lt;/span&gt;) being heat treated are exposed to the temperatures indicated on the controlling and recording instruments. It is applicable to all heat treatment of parts and to final heat treatment of raw material which could affect its fabricability or the properties of parts. Unless otherwise specified herein, it is not applicable to heating, or to intermediate (non-final) heat treatment, of raw material, e.g., for hot working.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

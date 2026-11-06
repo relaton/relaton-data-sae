@@ -1,0 +1,58 @@
+---
+id: SAEJ2714_202301
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Gasoline Direct Injection Pump
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2714_202301
+- type: src
+  content: https://saemobilus.sae.org/standards/j2714_202301-gasoline-direct-injection-pump
+docidentifier:
+- content: SAE J2714_202301
+  type: SAE
+  primary: true
+- content: 10.4271/j2714_202301
+  type: DOI
+date:
+- type: approved
+  at: '2023-01-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Gasoline Fuel Injection Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this SAE Recommended Practice is limited to gasoline fuel pumps used in automotive direct fuel injection systems. It is primarily restricted to bench tests.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice also defines the minimum design verification testing that is recommended to verify the suitability of gasoline direct injection (GDI) high-pressure fuel pumps used for pumping gasoline or gasoline-blend fuels to direct injection gasoline injectors. Additional tests not specified in SAE J2714 will be required for non-automotive pump applications or pumps, such as those intended for use on aircraft, motorcycles, or marine equipment. The pump and the gasoline direct injector are complementary components, and the direct injector component is fully described in SAE J2713, which provides a full range of test procedures for the characterization of such injectors.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Except where specifically stated otherwise, test results are recorded for individual parts under recommended test conditions. Where population characteristics are reported, the sample size, selection method, and statistical analysis technique shall be explicitly stated.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

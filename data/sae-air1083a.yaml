@@ -1,0 +1,56 @@
+---
+id: SAEAIR1083A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HYDRAULIC SYSTEM SURVIVABILITY FOR MILITARY AIRCRAFT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1083a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1083a-hydraulic-system-survivability-military-aircraft
+docidentifier:
+- content: SAE AIR1083A
+  type: SAE
+  primary: true
+- content: 10.4271/air1083a
+  type: DOI
+date:
+- type: approved
+  at: '1991-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A2 Military Aircraft Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report supplies data on various survivability design approaches and techniques to provide a broad frame of reference for future fluid power designers. Before the designer embarks on the overall system design, a comprehensive understanding of the total hostile environment in which the air vehicle is to operate is mandatory. The overall approach is heavily dependent upon the level of threat, small arms versus medium, or heavy caliber antiaircraft projectiles, missile, single or multiple hit survivability and the projected angle of fire. Overall aircraft stability is a factor which dictates recovery speed from any given failure and limits the magnitude of transient disturbances in the control system. The designer should strive to achieve at a minimum a system which allows high performance type aircraft to obtain a quasi-stable period following total control loss to allow safe ejection of the air crew.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

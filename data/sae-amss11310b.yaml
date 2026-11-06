@@ -1,0 +1,54 @@
+---
+id: SAEAMSS11310B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Bars, Carbon, Hot Rolled, for Cold Shaping, Including Cold  Extrusion
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/amss11310b
+- type: src
+  content: https://saemobilus.sae.org/standards/amss11310b-steel-bars-carbon-hot-rolled-cold-shaping-including-cold-extrusion
+docidentifier:
+- content: SAE AMS-S-11310B
+  type: SAE
+  primary: true
+- content: 10.4271/amss11310b
+  type: DOI
+date:
+- type: approved
+  at: '2005-02-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers hot-rolled carbon steel bars and heat treated
+    carbon steel bars which are to be used in cold shaping, including cold extrusion,
+    of ammunition components.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

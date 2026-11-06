@@ -1,0 +1,58 @@
+---
+id: SAEAIR1939
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AIRCRAFT ENGINE LIFE CYCLE COST GUIDE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1939
+- type: src
+  content: https://saemobilus.sae.org/standards/air1939-aircraft-engine-life-cycle-cost-guide
+docidentifier:
+- content: SAE AIR1939
+  type: SAE
+  primary: true
+- content: 10.4271/air1939
+  type: DOI
+date:
+- type: approved
+  at: '1986-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: LCLS Life Cycle Logistics Supportability
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;AIR 1939 addresses communication of LCC data between equipment suppliers, aircraft engine producers, aircraft manufacturers, and users, as illustrated in &lt;span class="xref"&gt;Figure 1&lt;/span&gt;. The LCC data categories addressed include: research, development, test and evaluation (RDT&amp;amp;E); acquisition (initial procurement and investment); and operating and support (O&amp;amp;S) costs. While input and output formats are suggested, calculation procedures and cost methodology are specifically excluded since many LCC models preferred by the industry are company sensitive or proprietary (&lt;span class="xref"&gt;Figure 1&lt;/span&gt;). The relationship of LCC input data to program phase is described. Ground rules and assumptions are addressed. A glossary of LCC terms is provided. The LCC impact of propulsion systems on other aircraft systems is considered.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document was specifically developed for military propulsion system cost analysis. However, it is believed that a functional relationship exists between military and commercial Life Cycle Cost analysis and that with some interpretation, sections of AIR 1939 might be applicable to commercial propulsion systems as well.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In summary, AIR 1939 provides a basis for LCC calculations, for monitoring of LCC status resulting from trade studies, and for tracking status against LCC goals in a consistent manner, thus permitting quantitative, comparable assessment. AIR 1939 guidelines recommend that a Life Cycle Cost presentation include consideration of overall cost rather than a sub-optimization of just one or a few cost elements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

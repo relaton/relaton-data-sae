@@ -1,0 +1,65 @@
+---
+id: SAEAS8034
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MINIMUM PERFORMANCE STANDARD FOR AIRBORNE MULTIPURPOSE ELECTRONIC DISPLAYS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8034
+- type: src
+  content: https://saemobilus.sae.org/standards/as8034-minimum-performance-standard-airborne-multipurpose-electronic-displays
+docidentifier:
+- content: SAE AS8034
+  type: SAE
+  primary: true
+- content: 10.4271/as8034
+  type: DOI
+date:
+- type: approved
+  at: '1993-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4ED Electronics Display Subcommittee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AS covers all types of electronic display systems, as qualified in "Purpose", both panel mounted (head down) and electro-optical (head up), monochromatic and color which are used in the cockpit by flight personnel.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Three basic types of displays are covered as follows:&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;Airborne Multipurpose Electronic Displays can include one or more of the following interconnected components. An example is shown in &lt;span class="xref"&gt;Figure 1&lt;/span&gt;. Other configurations are possible.&lt;/div&gt;
+
+
+
+    &lt;div class="htmlview paragraph"&gt;Electronic display systems covered by this AS are multifunction and/or multipurpose displays, whose failure can lead to loss of critical displayed information. System design or installation must recognize this characteristic and include appropriate redundancy criteria where applicable.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

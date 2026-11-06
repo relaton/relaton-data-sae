@@ -1,0 +1,54 @@
+---
+id: SAEAMST7081A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Tube, Aluminum Alloy, Seamless, Round, Drawn, 6061, Aircraft Hydraulic
+    Quality
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/amst7081a
+- type: src
+  content: https://saemobilus.sae.org/standards/amst7081a-tube-aluminum-alloy-seamless-round-drawn-6061-aircraft-hydraulic-quality
+docidentifier:
+- content: SAE AMS-T-7081A
+  type: SAE
+  primary: true
+- content: 10.4271/amst7081a
+  type: DOI
+date:
+- type: approved
+  at: '2007-09-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers 6061 aluminum alloy, round, drawn, seamless
+    tube having outside diameters of 3/16 inch through 1-1/2 inches.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

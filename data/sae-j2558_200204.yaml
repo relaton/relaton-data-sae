@@ -1,0 +1,60 @@
+---
+id: SAEJ2558_200204
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Classification System for Thermoplastic Elastomers
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2558_200204
+- type: src
+  content: https://saemobilus.sae.org/standards/j2558_200204-classification-system-thermoplastic-elastomers
+docidentifier:
+- content: SAE J2558_200204
+  type: SAE
+  primary: true
+- content: 10.4271/j2558_200204
+  type: DOI
+date:
+- type: approved
+  at: '2002-04-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Committee on Automotive Rubber Specs
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard provides a system for specifying significant material properties of thermoplastic elastomers (TPEs) that are intended for, but not limited to, use in automotive applications.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;In all cases where provisions of this classification system would conflict with those of the detailed specifications for a particular product, the latter shall take precedence.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This classification is based on SI units.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

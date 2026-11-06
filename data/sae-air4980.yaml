@@ -1,0 +1,69 @@
+---
+id: SAEAIR4980
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MODULAR AVIONICS BACKPLANE FUNCTIONAL REQUIREMENTS AND CONSENSUS ITEMS
+    (MABFRACI)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4980
+- type: src
+  content: https://saemobilus.sae.org/standards/air4980-modular-avionics-backplane-functional-requirements-consensus-items-mabfraci
+docidentifier:
+- content: SAE AIR4980
+  type: SAE
+  primary: true
+- content: 10.4271/air4980
+  type: DOI
+date:
+- type: approved
+  at: '2006-07-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The original purpose of this document was to establish interface requirements for modular avionics backplanes to be prototyped up to 1995. The document was issued as ARD50011 in September 1992. It is being reissued as an SAE Aerospace Information Report (AIR) in order to:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Preserve the requirements for more than 2 years&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Support design of retrofits and avionics systems to be fielded in the years 1995 to 2000&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Provide a baseline for updating the requirements of future integrated systems&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;These requirements were and are intended to promote standardization of modular avionic backplane interfaces. These requirements have been driven predominantly, but not exclusively, by aerospace type military platforms.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

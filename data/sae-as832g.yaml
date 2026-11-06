@@ -1,0 +1,61 @@
+---
+id: SAEAS832G
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Air/Surface (Intermodal) General Purpose Containers
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as832g
+- type: src
+  content: https://saemobilus.sae.org/standards/as832g-air-surface-intermodal-general-purpose-containers
+docidentifier:
+- content: SAE AS832G
+  type: SAE
+  primary: true
+- content: 10.4271/as832g
+  type: DOI
+date:
+- type: approved
+  at: '2014-03-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) establishes the basic requirements for the specification and testing of air surface (intermodal) 8 ft × 8 ft (2.44 m × 2.44 m) cross-section containers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The basic requirements for the air/surface (intermodal) container are presented in &lt;span class="xref"&gt;Sections 3&lt;/span&gt; to &lt;span class="xref"&gt;6&lt;/span&gt; while the detailed design requirements are in &lt;span class="xref"&gt;Appendix A&lt;/span&gt;. &lt;span class="xref"&gt;Appendix B&lt;/span&gt; describes the sections of other standards that apply to air/surface containers. &lt;span class="xref"&gt;Appendix C&lt;/span&gt; describes uniformity of test apparatus and methods. These appendices shall be referred to for important supplemental requirements and procedures for this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;AS4041 presents the requirements for air mode general purpose containers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Requirements for containers to be transported by rotary-wing aircraft are excluded from this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: The essential basic and detail criteria are identified by use of the key word "shall." Recommended basic and detail criteria are identified by use of the key word "should," and while not mandatory, are considered to be of primary importance in providing serviceable, economical, and practical air/surface containers.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

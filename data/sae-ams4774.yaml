@@ -1,0 +1,48 @@
+---
+id: SAEAMS4774
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BRAZING ALLOY, SILVER 63Ag - 28.5Cu - 6Sn - 2.5Ni
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4774
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4774-brazing-alloy-silver-63ag-285cu-6sn-25ni
+docidentifier:
+- content: SAE AMS4774
+  type: SAE
+  primary: true
+- content: 10.4271/ams4774
+  type: DOI
+date:
+- type: approved
+  at: '1959-01-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

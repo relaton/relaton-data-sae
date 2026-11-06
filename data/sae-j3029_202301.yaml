@@ -1,0 +1,70 @@
+---
+id: SAEJ3029_202301
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Forward Collision Warning and Automatic Emergency Braking Test Procedure
+    and Minimum Performance Requirements - Truck and Bus
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3029_202301
+- type: src
+  content: https://saemobilus.sae.org/standards/j3029_202301-forward-collision-warning-automatic-emergency-braking-test-procedure-minimum-performance-requirements-truck-bus
+docidentifier:
+- content: SAE J3029_202301
+  type: SAE
+  primary: true
+- content: 10.4271/j3029_202301
+  type: DOI
+date:
+- type: approved
+  at: '2023-01-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Automation Safety Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice (RP) establishes uniform powered vehicle-level test procedure for forward collision warning (FCW) and automatic emergency braking (AEB) used in trucks and buses greater than 10000 pounds (4535 kg) GVWR equipped with pneumatic brake systems for detecting, warning, and avoiding potential collisions. This RP does not apply to electric powered vehicles, trailers, dollies, etc., and does not intend to exclude any particular system or sensor technology. These FCW/AEB systems utilize various methodologies to identify, track, and communicate data/information to the operator and vehicle systems to warn, intervene, and/or mitigate in the momentary longitudinal control of the vehicle.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This specification will test the functionality of the FCW/AEB (e.g., ability to detect objects in front of the vehicle), its ability to indicate FCW/AEB engagement and disengagement, the ability of the FCW/AEB to notify the human machine interface (HMI) or vehicle control system that an object is detected under specified operating and environmental conditions, and the ability of the AEB to decelerate the vehicle to avoid impact or reduce the severity of the impact should the human operator not respond. This specification does not define tests for all possible operating and environmental conditions. The HMI is not addressed in this document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

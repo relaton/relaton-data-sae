@@ -1,0 +1,76 @@
+---
+id: SAEAS5506
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ARCHITECTURE ANALYSIS & DESIGN LANGUAGE (AADL)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5506
+- type: src
+  content: https://saemobilus.sae.org/standards/as5506-architecture-analysis-design-language-aadl
+docidentifier:
+- content: SAE AS5506
+  type: SAE
+  primary: true
+- content: 10.4271/as5506
+  type: DOI
+date:
+- type: approved
+  at: '2004-11-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-2C Architecture Analysis and Design Language
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard defines a language for describing both the software architecture and the execution platform architectures of performance-critical, embedded, real-time systems; the language is known as the SAE Architecture Analysis &amp;amp; Design Language (AADL). An architecture model defined in AADL describes the properties and interfaces of components. Components fall into two major categories: those that represent the execution platform and those representing the application. The former is typified by processors, buses, and memory, the latter by application software modules. The model describes how these components interact and are integrated to form complete systems. It describes both functional interfaces and aspects critical for performance of individual components and assemblies of components. The changes to the runtime architecture are modeled as operational modes and mode transitions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The language is applicable to systems that are:
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;real-time,&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;resource-constrained,&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;safety-critical systems,&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;and those that may include specialized device hardware.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard defines the core AADL that is designed to be extensible. While the core language provides a number of modeling concepts with precise semantics including the mapping to execution platforms and the specification of execution time behavior, it is not possible to foresee all possible architecture analyses. Extensions to accommodate new analyses and unique hardware attributes take the form of new properties and analysis specific notations that can be associated with components. Users or tool vendors may define extension sets. Extension sets may be proposed for inclusion in this standard. Such extensions will be defined as part of a new Annex appended to the standard.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard does not specify how the detailed design or implementation details of software and hardware components are to be specified. Those details can be specified by a variety of software programming and hardware description languages. The standard specifies relevant characteristics of the detailed design and implementation descriptions, such as source text written in a programming language or hardware description language, from an external (black box) perspective. These relevant characteristics are specified as AADL component properties, and as rules of conformance between the properties and the described components.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard does not prescribe any particular system integration technologies, such as operating system or middleware application program interfaces or bus technologies or topologies. However, specific system architecture topologies, such as the ARINC 653 RTOS, can be modeled through software and execution platform components. The AADL can be used to describe a variety of hardware architectures and software infrastructures. Integration technologies can be used to implement a specified system. The standard specifies rules of conformance between AADL system architecture specifications and physical systems implemented from those specifications.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The standard was not designed around a particular set of tools. It is anticipated that systems and software tools will be provided to support the use of the AADL.&lt;/div&gt;
+
+
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

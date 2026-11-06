@@ -1,0 +1,56 @@
+---
+id: SAEJ1050_199408
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: DESCRIBING AND MEASURING THE DRIVER'S FIELD OF VIEW
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1050_199408
+- type: src
+  content: https://saemobilus.sae.org/standards/j1050_199408-describing-measuring-drivers-field-view
+docidentifier:
+- content: SAE J1050_199408
+  type: SAE
+  primary: true
+- content: 10.4271/j1050_199408
+  type: DOI
+date:
+- type: approved
+  at: '1994-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Driver Vision Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes methods for describing and measuring the driver's field of view. The document describes three methods for measuring the direct and indirect fields of view and the extent of obstructions within those fields. The first method uses any single pair of eye points to determine the fields or obstructions that would be seen by an individual driver. The second method uses the SAE Eyellipses defined in SAE J941 to determine the largest fields or obstructions that would be seen for a given percentage of the driving population. The third method uses specific eye points defined in SAE J941 to measure the extent of a specific field of view or obstruction for which those points were developed.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

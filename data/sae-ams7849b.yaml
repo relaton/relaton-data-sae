@@ -1,0 +1,56 @@
+---
+id: SAEAMS7849B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TANTALUM SHEET, STRIP, AND PLATE Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7849b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7849b-tantalum-sheet-strip-plate-annealed
+docidentifier:
+- content: SAE AMS7849B
+  type: SAE
+  primary: true
+- content: 10.4271/ams7849b
+  type: DOI
+date:
+- type: approved
+  at: '1986-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G Titanium and Refractory Metals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers tantalum in the form of sheet, strip, plate, and foil.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

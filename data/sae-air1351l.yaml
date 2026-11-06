@@ -1,0 +1,70 @@
+---
+id: SAEAIR1351L
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Manufacturers’ Identification of Aerospace Electrical and Electronic Wiring
+    Devices and Accessories
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1351l
+- type: src
+  content: https://saemobilus.sae.org/standards/air1351l-manufacturers-identification-aerospace-electrical-electronic-wiring-devices-accessories
+docidentifier:
+- content: SAE AIR1351L
+  type: SAE
+  primary: true
+- content: 10.4271/air1351l
+  type: DOI
+date:
+- type: approved
+  at: '2026-07-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C2 Terminating Devices and Tooling Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) covers the general requirements for, and the listing of, manufacturers’ identification markings, names, symbols or trademarks, and CAGE codes that appear on electrical and electronic wiring devices and accessories as required by individual product specifications. Supplier markings from previous submitted listings are maintained for component traceability.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

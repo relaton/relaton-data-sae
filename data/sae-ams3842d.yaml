@@ -1,0 +1,53 @@
+---
+id: SAEAMS3842D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Polytetrafluoroethylene Sheet, Asbestos Fiber Reinforced
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3842d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3842d-polytetrafluoroethylene-sheet-asbestos-fiber-reinforced
+docidentifier:
+- content: SAE AMS3842D
+  type: SAE
+  primary: true
+- content: 10.4271/ams3842d
+  type: DOI
+date:
+- type: approved
+  at: '1985-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P Polymeric Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: <p>This specification has been "CANCELLED" by the Aerospace Materials Division,
+    SAE, as of July, 1991.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

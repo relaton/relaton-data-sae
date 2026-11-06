@@ -1,0 +1,72 @@
+---
+id: SAEHRCSPRP0001
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: A Standardized Approach to On-Board Diagnostic (OBD) System Signal Classification
+    and Dependency Analysis
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/hrcs-prp0001
+- type: src
+  content: https://saemobilus.sae.org/standards/hrcs-prp0001-a-standardized-approach-board-diagnostic-obd-system-signal-classification-dependency-analysis
+docidentifier:
+- content: SAE HRCS-PRP0001
+  type: SAE
+  primary: true
+- content: 10.4271/hrcs-prp0001
+  type: DOI
+date:
+- type: approved
+  at: '2026-08-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Health Ready Components and Systems
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;Part of the legislated on-board diagnostic (OBD) certification process is focused on identifying and documenting serial data signals that are relevant from a legislated OBD perspective. OBD regulations and documentation required for vehicle certification today are becoming increasingly complex. The reason is that increasing numbers of electronic control units (ECUs) are being introduced that communicate with each other. Most of these ECUs are much more powerful in terms of computational power, enabling the implementation of much more functionality on a single ECU. Most of that new functionality is being developed in software. Where previously hard-wired sensors were dominating, nowadays software components take over interpreting and enhancing sensor inputs.&lt;/p&gt;
+
+
+    &lt;p&gt;This recommended practice (RP) describes a standardized approach to meet these requirements for such increasingly complex environments. Specifically, this RP outlines how to create a serial data signal input/output (I/O) disclosure list to identify, trace, and categorize serial data signals that are relevant to certification. Furthermore, this RP defines a standardized data exchange format that original equipment manufacturers (OEMs) and suppliers can use to exchange related information.&lt;/p&gt;
+
+
+    &lt;p&gt;In addition to the vehicle certification context, we see a benefit in applying the described methodologies in other contexts, such as the usage of serial data signals within non-emissions-related and/or safety-critical systems.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAMS4096E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy Sheet and Plate, Alclad 6.3Cu - 0.30Mn - 0.18Zr - 0.10V
+    - 0.06Ti (Alclad 2219-O) Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4096e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4096e-aluminum-alloy-sheet-plate-alclad-63cu-030mn-018zr-010v-006ti-alclad-2219-o-annealed
+docidentifier:
+- content: SAE AMS4096E
+  type: SAE
+  primary: true
+- content: 10.4271/ams4096e
+  type: DOI
+date:
+- type: approved
+  at: '2021-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of sheet and plate 0.020 to 0.499 inch (0.50 to 12.50 mm), inclusive, in nominal thickness, clad on two sides (see &lt;span class="xref"&gt;8.6&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

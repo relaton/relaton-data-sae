@@ -1,0 +1,57 @@
+---
+id: SAEAMS5396E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nickel Alloy, Corrosion and Heat-Resistant, Investment Castings 65Ni -
+    28Mo - 5.5Fe - 0.40V (N-12MV) As-Cast
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5396e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5396e-nickel-alloy-corrosion-heat-resistant-investment-castings-65ni-28mo-55fe-040v-n-12mv-cast
+docidentifier:
+- content: SAE AMS5396E
+  type: SAE
+  primary: true
+- content: 10.4271/ams5396e
+  type: DOI
+date:
+- type: approved
+  at: '2013-12-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat-resistant nickel alloy in the form of investment castings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

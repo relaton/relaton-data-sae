@@ -1,0 +1,56 @@
+---
+id: SAEGEIASTD0003A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Long Term Storage of Electronic Devices
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/geiastd0003a
+- type: src
+  content: https://saemobilus.sae.org/standards/geiastd0003a-long-term-storage-electronic-devices
+docidentifier:
+- content: SAE GEIA-STD-0003A
+  type: SAE
+  primary: true
+- content: 10.4271/geiastd0003a
+  type: DOI
+date:
+- type: approved
+  at: '2017-01-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CE-12 Solid State Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides an industry standard for Long Term Storage (LTS) of electronic devices by drawing from the best long term storage practices currently known. LTS is defined as any device storage for more than 12 months but typically allows for much longer (years). While intended to address the storage of unpackaged semiconductors and packaged electronic devices, nothing in this standard precludes the storage of other items under the storage levels defined herein. This standard is not intended to address built-in failure mechanisms (e.g., tin whiskers, plating diffusion, and intermetallics) that would take place regardless of storage conditions&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

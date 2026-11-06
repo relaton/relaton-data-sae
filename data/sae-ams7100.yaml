@@ -1,0 +1,59 @@
+---
+id: SAEAMS7100
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fused Filament Fabrication, Process Specification for
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7100
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7100-fused-filament-fabrication-process-specification
+docidentifier:
+- content: SAE AMS7100
+  type: SAE
+  primary: true
+- content: 10.4271/ams7100
+  type: DOI
+date:
+- type: approved
+  at: '2019-10-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS AM Additive Manufacturing Non-Metallic
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes the requirements for the production of reliable, repeatable, reproducible aerospace parts by fused filament fabrication but is not limited to such application. This specification establishes the requirements to approve new machines, processes, and materials. Specifically, this specification covers machine configuration, operating software, machine calibration, machine and build parameters, and testing methodology required to create aerospace parts. This specification also defines the user’s responsibility for following the specified requirements.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

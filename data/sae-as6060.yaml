@@ -1,0 +1,71 @@
+---
+id: SAEAS6060
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: JAUS Environment Sensing Service Set
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6060
+- type: src
+  content: https://saemobilus.sae.org/standards/as6060-jaus-environment-sensing-service-set
+docidentifier:
+- content: SAE AS6060
+  type: SAE
+  primary: true
+- content: 10.4271/as6060
+  type: DOI
+date:
+- type: approved
+  at: '2015-04-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-4JAUS Joint Architecture for Unmanned Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document defines a set of standard application layer interfaces called JAUS Environment Sensing Services. JAUS Services provide the means for software entities in an unmanned system or system of unmanned systems to communicate and coordinate their activities. The Environment Sensing Services represent typical environment sensing capabilities commonly found across all domains and types of unmanned systems in a platform-independent manner. At present, five services are defined in this document:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Range Sensor: Determine the proximity of objects in the platform’s environment&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Visual Sensor: Provides common configuration and setup for different types of imaging systems&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Digital Video: A type of Visual Sensor that manages digital video&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Analog Video: A type of Visual Sensor that manages analog video&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Still Image: A type of Visual Sensor that manages and encodes individual digital images&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;Each service is described by a JAUS Service Definition (JSD) which specifies the message set and protocol required for compliance. Each JSD is fully compliant with the JAUS Service Interface Definition Language [AS5684].&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,55 @@
+---
+id: SAEJ1213_198211
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GLOSSARY OF AUTOMOTIVE ELECTRONIC TERMS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1213_198211
+- type: src
+  content: https://saemobilus.sae.org/standards/j1213_198211-glossary-automotive-electronic-terms
+docidentifier:
+- content: SAE J1213_198211
+  type: SAE
+  primary: true
+- content: 10.4271/j1213_198211
+  type: DOI
+date:
+- type: approved
+  at: '1982-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Architecture For Data Communications Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+    &lt;div class="htmlview paragraph"&gt;This Glossary confines its content to the specific field of electronic systems and subsystems as they pertain to the automotive engineer.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

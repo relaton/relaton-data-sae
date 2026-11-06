@@ -1,0 +1,59 @@
+---
+id: SAEJ1342_198908
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: METHOD FOR DETERMINING POWER CONSUMPTION OF ENGINE COOLING FAN-DRIVE SYSTEMS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1342_198908
+- type: src
+  content: https://saemobilus.sae.org/standards/j1342_198908-method-determining-power-consumption-engine-cooling-fan-drive-systems
+docidentifier:
+- content: SAE J1342_198908
+  type: SAE
+  primary: true
+- content: 10.4271/j1342_198908
+  type: DOI
+date:
+- type: approved
+  at: '1989-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Cooling Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The technique outlined in this SAE Recommended Practice was developed as part of an overall program for determining and evaluating fuel consumption of heavy-duty trucks and buses.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is recommended that the specific operating conditions be carefully reviewed on the basis of actual installation data. Cooling requirements are affected by all heat exchangers that are cooled by the fan-drive system. These may include radiators, condensors, charge air coolers or oil coolers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Because of the variation in size, shape, configuration, and mountings available in cooling fans and fan-drive systems, specific test devices have not been included.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Using known power/speed relationships for a given fan, this procedure can be used to calculate the fan-drive systems power consumption for engine cooling systems using fixed-ratio, speed modulating, and on-off fan drives. This power consumption may then be used in determining engine net power per SAE J1349. For fan power/speed relationships, refer to SAE J1339.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

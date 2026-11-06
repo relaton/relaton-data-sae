@@ -1,0 +1,68 @@
+---
+id: SAEJ2425_202601
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steering Control Systems - Heavy Trucks
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2425_202601
+- type: src
+  content: https://saemobilus.sae.org/standards/j2425_202601-steering-control-systems-heavy-trucks
+docidentifier:
+- content: SAE J2425_202601
+  type: SAE
+  primary: true
+- content: 10.4271/j2425_202601
+  type: DOI
+date:
+- type: approved
+  at: '2026-01-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck Crashworthiness Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice describes a laboratory test procedure and requirements for evaluating the characteristics of heavy-truck steering control systems under simulated driver impact conditions, as well as driver entry/egress conditions. The test procedure employs a torso-shaped body block that is impacted against the steering wheel.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

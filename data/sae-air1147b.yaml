@@ -1,0 +1,54 @@
+---
+id: SAEAIR1147B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electromagnetic Interference on Aircraft from Jet Engine Charging
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1147b
+- type: src
+  content: https://saemobilus.sae.org/standards/air1147b-electromagnetic-interference-aircraft-jet-engine-charging
+docidentifier:
+- content: SAE AIR1147B
+  type: SAE
+  primary: true
+- content: 10.4271/air1147b
+  type: DOI
+date:
+- type: approved
+  at: '2022-01-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-4 Electromagnetic Compatibility (EMC) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>&lt;p&gt;Engine charging of aircraft has been observed for many years.
+    \  This SAE Aerospace Information Report (AIR) reviews the history of observations,
+    physical characteristics, and possible techniques for minimizing the effects.&lt;/p&gt;</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

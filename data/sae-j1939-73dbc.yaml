@@ -1,0 +1,56 @@
+---
+id: SAEJ193973DBC
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: J1939-73 Digital Annex DBC
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939-73dbc
+- type: src
+  content: https://www.sae.org/content/j1939-73dbc
+docidentifier:
+- content: SAE J1939-73DBC
+  type: SAE
+  primary: true
+- content: 10.4271/j1939-73dbc
+  type: DOI
+date:
+- type: approved
+  at: '2023-10-11'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;J1939-73 DBC File - Heavy Duty Diagnostics (DM1, DM2, ...)&lt;/p&gt;
+
+
+
+    &lt;p&gt;The SAE J1939-73 DBC file contains decoding rules for converting 'version 4' J1939 diagnostic messages (DM1, DM2, ...) to 'physical values'. This lets you identify issues in e.g. trucks, tractors and buses.&lt;/p&gt;
+
+
+
+    &lt;p&gt;DBC is a CAN database format used in most automotive tools.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

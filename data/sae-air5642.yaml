@@ -1,0 +1,58 @@
+---
+id: SAEAIR5642
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: The Effect of Installation Power Losses on the Overall Performance of a
+    Helicopter
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5642
+- type: src
+  content: https://saemobilus.sae.org/standards/air5642-effect-installation-power-losses-overall-performance-a-helicopter
+docidentifier:
+- content: SAE AIR5642
+  type: SAE
+  primary: true
+- content: 10.4271/air5642
+  type: DOI
+date:
+- type: approved
+  at: '2023-01-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-12 Powered Lift Propulsion Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Aerospace Information Report (AIR) is to illustrate the effect of installation power losses on the performance of a helicopter. Installation power losses result from a variety of sources, some associated directly with the basic engine installation, and some coming from the installation of specific items of aircraft mission specific equipment. Close attention must be paid to the accurate measurement of these losses so that the correct aircraft performance is calculated.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Installation power losses inevitably result in a reduction in the overall performance of the aircraft. In some cases, careful attention to detail will allow specific elements of the overall loss to be reduced with immediate benefit for the mission performance of the aircraft. When considering items of equipment that affect the engine, it is important to understand the effect these will have on overall aircraft performance to ensure that mission capability is not unduly compromised. Alternatively, a clear understanding of these effects at the aircraft design stage may have an influence on the initial choice of engine size to ensure that mission performance targets are subsequently met. This report aims to give a general understanding of the effect of installation power losses on helicopter performance by the use of a set of example calculations.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEARP6257
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Ground De/Anti-Icing Communication Phraseology for Flight and
+    Ground Crews
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6257
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6257-aircraft-ground-de-anti-icing-communication-phraseology-flight-ground-crews
+docidentifier:
+- content: SAE ARP6257
+  type: SAE
+  primary: true
+- content: 10.4271/arp6257
+  type: DOI
+date:
+- type: approved
+  at: '2016-10-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12M Methods Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document establishes standard phraseology for the communication procedures during aircraft ground deicing operations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: The minimum requirements to accomplish an aircraft deicing operation are specified in the AS6285 document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

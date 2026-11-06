@@ -1,0 +1,55 @@
+---
+id: SAEAMS6488H
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Bars and Forgings 5.0Cr - 1.3Mo - 0.5V - (0.38 - 0.43C)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6488h
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6488h-steel-bars-forgings-50cr-13mo-05v-038-043c
+docidentifier:
+- content: SAE AMS6488H
+  type: SAE
+  primary: true
+- content: 10.4271/ams6488h
+  type: DOI
+date:
+- type: approved
+  at: '2008-01-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This specification covers a low-alloy steel in the form of bars, forgings, and forging stock.&lt;/p&gt;
+    &lt;p&gt;These products have been used typically for parts requiring a steel capable of through-hardening to a minimum hardness of 50 HRC in section thicknesses up to 12 inches (305 mm) with relatively high levels of strength, fatigue resistance, ductility, and thermal stability in service from -100 degrees to +1000 degrees F (-73 degrees to +538 degrees C), but usage is not limited to such applications.&lt;/p&gt;
+    &lt;p&gt;Certain design and processing procedures may cause these products to become susceptible to stress-corrosion cracking after heat treatment; SAE ARP 1110 recommends practices to minimize such conditions.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

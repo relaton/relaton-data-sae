@@ -1,0 +1,59 @@
+---
+id: SAEJ2575_200406
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standardized Dent Resistance Test Procedure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2575_200406
+- type: src
+  content: https://saemobilus.sae.org/standards/j2575_200406-standardized-dent-resistance-test-procedure
+docidentifier:
+- content: SAE J2575_200406
+  type: SAE
+  primary: true
+- content: 10.4271/j2575_200406
+  type: DOI
+date:
+- type: approved
+  at: '2004-06-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Sheet and Strip Steel Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;These test procedures were developed based upon the knowledge that steel panel dent resistance characteristics are strain rate dependent. The “quasi-static” section of the procedure simulates real world dent phenomena that occur at low indenter velocities such as palm-printing, elbow marks, plant handling, etc. The indenter velocity specified in this section of the procedure is set to minimize material strain rate effects. The dynamic section of the procedure simulates loading conditions that occur at higher indenter velocities, such as hail impact, shopping carts, and door-to-door parking lot impact.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Three dent test schedules are addressed in this procedure. Schedule A is for use with a specified laboratory prepared (generic) panel, Schedule B is for use with a formed automotive outer body panel or assembly, and Schedule C addresses end product or full vehicle testing. These schedules are targeted at sheet steel samples obtained at different points in an auto/steel product development cycle. A multiple schedule approach has been utilized to maximize dent test method flexibility and thereby allow both the steel producers and end users to benefit from a standardized approach. Extrapolating results from one schedule to another, however, may not be valid and could result in erroneous conclusions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For “quasi-static” testing, each test schedule provides a load-displacement curve for a given material, either as-stamped or after assembly, under a prescribed set of conditions such as specified strain state, specimen geometry, boundary conditions, indenter type, etc. In order to obtain the most information about dynamic denting behavior comparable in scope to the quasi-static testing, it is necessary to use high speed measuring and recording equipment. If use of this equipment is cost-prohibitive, other dynamic dent evaluations use a drop weight, pendulum, or air gun to fire a projectile at the test surface. For this latter type of dynamic testing, only the impact energy is calculated and the dent depth measured after impact. This information may be sufficient to measure some aspects of dent resistance in the absence of high-speed measuring and recording equipment, but the indenter speed/energy interaction will not be captured. Uniform methods for calculating panel property characteristics such as stiffness and oil canning load are presented. A format for reporting test results is suggested. Using this procedure, reproducible values of “dent resistance” should be obtained in different laboratories.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

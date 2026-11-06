@@ -1,0 +1,56 @@
+---
+id: SAEAS22227C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Bearing, Ball, Annular, Generator and Motor Generator
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as22227c
+- type: src
+  content: https://saemobilus.sae.org/standards/as22227c-bearing-ball-annular-generator-motor-generator
+docidentifier:
+- content: SAE AS22227C
+  type: SAE
+  primary: true
+- content: 10.4271/as22227c
+  type: DOI
+date:
+- type: approved
+  at: '2018-10-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ACBG Rolling Element Bearing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard establishes the requirements for antifriction ball bearings primarily intended for use in aircraft electrical generators and motor-generators.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

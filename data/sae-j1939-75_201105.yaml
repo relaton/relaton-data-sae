@@ -1,0 +1,56 @@
+---
+id: SAEJ193975_201105
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Application Layer—Generator Sets and Industrial
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939/75_201105
+- type: src
+  content: https://saemobilus.sae.org/standards/j193975_201105-application-layer-generator-sets-industrial
+docidentifier:
+- content: SAE J1939/75_201105
+  type: SAE
+  primary: true
+- content: 10.4271/j1939/75_201105
+  type: DOI
+date:
+- type: approved
+  at: '2011-05-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE J1939-75 Generator Sets and Industrial Applications defines the set of data parameters (SPNs) and messages (PGNs) for information predominantly associated with monitoring and control generators and driven equipment in electric power generation and industrial applications. Applications using the SAE J1939-75 document may need to reference SAE J1939-71 for the SAE J1939 parameters and messages for monitoring and controlling the power units, e.g. engines and turbines, that power the generators and driven industrial equipment.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

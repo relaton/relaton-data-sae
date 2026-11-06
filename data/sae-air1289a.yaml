@@ -1,0 +1,58 @@
+---
+id: SAEAIR1289A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: EVALUATION OF HELICOPTER TURBINE ENGINE LINEAR VIBRATION ENVIRONMENT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1289a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1289a-evaluation-helicopter-turbine-engine-linear-vibration-environment
+docidentifier:
+- content: SAE AIR1289A
+  type: SAE
+  primary: true
+- content: 10.4271/air1289a
+  type: DOI
+date:
+- type: approved
+  at: '2021-03-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-12 Powered Lift Propulsion Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) outlines a recommended procedure for evaluation of the vibration environment to which the gas turbine engine powerplant is subjected in the helicopter installation. This analysis of engine vibration is normally demonstrated on a one-time basis upon initial certification, or after a major modification, of an engine/helicopter configuration.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This AIR deals with linear vibration as measured on the basic case structure of the engine and not, for example, torsional vibration in drive shafting or vibration of a component within the engine such as a compressor or turbine airfoil.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In summary, this AIR discusses the engine manufacturer’s "Installation Test Code" aspects of engine vibration and proposes an appropriate measurement method.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

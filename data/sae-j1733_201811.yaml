@@ -1,0 +1,56 @@
+---
+id: SAEJ1733_201811
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Sign Convention for Vehicle Crash Testing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1733_201811
+- type: src
+  content: https://saemobilus.sae.org/standards/j1733_201811-sign-convention-vehicle-crash-testing
+docidentifier:
+- content: SAE J1733_201811
+  type: SAE
+  primary: true
+- content: 10.4271/j1733_201811
+  type: DOI
+date:
+- type: approved
+  at: '2018-11-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Safety Test Instrumentation Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;In order to compare test results obtained from different crash test facilities, standardized coordinate systems need to be defined for crash test dummies, vehicle structures, and laboratory fixtures. In addition, recorded polarities for various transducer outputs need to be defined relative to positive directions of the appropriate coordinate systems. This SAE Information Report describes the standardized sign convention and recorded output polarities for various transducers used in crash testing.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEAS6969C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Data Dictionary for Quantities Used in Cyber-physical Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6969c
+- type: src
+  content: https://saemobilus.sae.org/standards/as6969c-data-dictionary-quantities-used-cyber-physical-systems
+docidentifier:
+- content: SAE AS6969C
+  type: SAE
+  primary: true
+- content: 10.4271/as6969c
+  type: DOI
+date:
+- type: approved
+  at: '2025-04-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-4 Unmanned Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This data dictionary provides definitions for quantities, measurement units, reference systems, measurands, measurements, and quantity modalities commonly used in the command and control of cyber-physical systems. A cyber-physical system is an engineered system that is built from, and depends upon, the seamless integration of computational algorithms and physical components. Cyber-physical systems are often interconnected via data links and networks. The term encompasses intelligent vehicles and devices that operate in any environment, including robotic and autonomous systems.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

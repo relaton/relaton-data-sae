@@ -1,0 +1,56 @@
+---
+id: SAEAIR18A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Propeller Shaft Ends - Dual Rotation (Engine Supplied Bearing)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air18a
+- type: src
+  content: https://saemobilus.sae.org/standards/air18a-propeller-shaft-ends-dual-rotation-engine-supplied-bearing
+docidentifier:
+- content: SAE AIR18A
+  type: SAE
+  primary: true
+- content: 10.4271/air18a
+  type: DOI
+date:
+- type: approved
+  at: '2012-10-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) records the results of an investigation of a dual rotation propeller shaft standard for an engine supplied bearing and the reason for deciding that such a bearing is impracticable.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

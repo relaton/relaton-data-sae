@@ -1,0 +1,62 @@
+---
+id: SAEAIR818C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'AIRCRAFT INSTRUMENT AND INSTRUMENT SYSTEM STANDARDS: WORDING TERMINOLOGY,
+    PHRASEOLOGY, ENVIRONMENT AND DESIGN STANDARDS FOR'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air818c
+- type: src
+  content: https://saemobilus.sae.org/standards/air818c-aircraft-instrument-instrument-system-standards-wording-terminology-phraseology-environment-design-standards
+docidentifier:
+- content: SAE AIR818C
+  type: SAE
+  primary: true
+- content: 10.4271/air818c
+  type: DOI
+date:
+- type: approved
+  at: '1981-01-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4 Aircraft Instruments Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AS covers __________ which measure and display __________&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;or&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This AS covers __________ basic types of (no capitals) instruments as follows:&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;Note: Each type number to be followed by a brief description as it would if the scope were covering only a single type. As many types as required may be used.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

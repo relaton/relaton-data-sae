@@ -1,0 +1,58 @@
+---
+id: SAEUSCAR30
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PERFORMANCE SPECIFICATION FOR AUTOMOTIVE UNIVERSAL SERIAL BUS (USB) CONNECTION
+    SYSTEM
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar30
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar30-performance-specification-automotive-universal-serial-bus-usb-connection-system
+docidentifier:
+- content: SAE USCAR-30
+  type: SAE
+  primary: true
+- content: 10.4271/uscar30
+  type: DOI
+date:
+- type: approved
+  at: '2022-07-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Procedures included within this specification are intended to cover performance testing at all phases of development, production, and field analysis of any USB cable assemblies and associated connections that constitute the electrical connection systems between the consumer peripheral interface and the USB computer source in road vehicle applications. These procedures are only applicable to the USB connector and the cable. Unless otherwise specified, all of the tests listed in this specification are for both consumer and nonconsumer interface connectors.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

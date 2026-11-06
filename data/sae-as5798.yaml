@@ -1,0 +1,59 @@
+---
+id: SAEAS5798
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Size Standard for Oversize O-rings
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5798
+- type: src
+  content: https://saemobilus.sae.org/standards/as5798-aerospace-size-standard-oversize-o-rings
+docidentifier:
+- content: SAE AS5798
+  type: SAE
+  primary: true
+- content: 10.4271/as5798
+  type: DOI
+date:
+- type: approved
+  at: '2013-11-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C2 Seals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) is applicable to military and commercial aircraft. It specifies the dimensions, tolerances and size codes (dash numbers) for use in glands per MIL-G-5514 where squeeze at low temperature is often insufficient to provide a leak-tight seal. The dimensions and tolerances specified in this standard are suitable for any elastomeric material.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard should not be used as a part standard, therefore no part numbers like AS5798-001X shall be created.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Each dash number, which should be appended to an appropriate drawing or standard number, identifies one size O-ring only. An AS5798 sized O-ring is intended to replace an AS568 sized O-ring of the same dash number. An X suffix is part of the dash number to signify oversize.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Temperature limitations of 275 °F (135 °C) and coefficient of thermal expansion of 9.0 × 10&lt;sup&gt;-5&lt;/sup&gt; unit length per °F (1.6 × 10&lt;sup&gt;-4&lt;/sup&gt; unit length per °C) were used for swell calculations. Applications that exceed these values should be evaluated for excessive gland fill.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

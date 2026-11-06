@@ -1,0 +1,58 @@
+---
+id: SAEJ28476_201508
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Communication between Wireless Charged Vehicles and Wireless EV Chargers
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2847/6_201508
+- type: src
+  content: https://saemobilus.sae.org/standards/j28476_201508-communication-wireless-charged-vehicles-wireless-ev-chargers
+docidentifier:
+- content: SAE J2847/6_201508
+  type: SAE
+  primary: true
+- content: 10.4271/j2847/6_201508
+  type: DOI
+date:
+- type: approved
+  at: '2015-08-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice SAE J2847-6 establishes requirements and specifications for communications messages between wirelessly charged electric vehicles and the wireless charger. Where relevant, this document notes, but does not formally specify, interactions between the vehicle and vehicle operator.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This is the 1st version of this document and captures the initial objectives of the SAE task force. The intent of step 1 is to record as much information on “what we think works” and publish. The effort continues however, to step 2 that allows public review for additional comments and viewpoints, while the task force also continues additional testing and early implementation. Results of step 2 effort will then be incorporated into updates of this document and lead to a republished version. The next revision will address the harmonization between SAE J2847-6 and ISO/IEC 15118-7 to ensure interoperability.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

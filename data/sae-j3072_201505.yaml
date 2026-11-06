@@ -1,0 +1,59 @@
+---
+id: SAEJ3072_201505
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Interconnection Requirements for Onboard, Utility-Interactive Inverter
+    Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3072_201505
+- type: src
+  content: https://saemobilus.sae.org/standards/j3072_201505-interconnection-requirements-onboard-utility-interactive-inverter-systems
+docidentifier:
+- content: SAE J3072_201505
+  type: SAE
+  primary: true
+- content: 10.4271/j3072_201505
+  type: DOI
+date:
+- type: approved
+  at: '2015-05-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard J3072 establishes interconnection requirements for a utility-interactive inverter system which is integrated into a plug-in electric vehicle (PEV) and connects in parallel with an electric power system (EPS) by way of conductively-coupled, electric vehicle supply equipment (EVSE). This standard also defines the communication between the PEV and the EVSE required for the PEV onboard inverter to be configured and authorized by the EVSE for discharging at a site. The requirements herein are intended to be used in conjunction with IEEE 1547 Standard for Interconnecting Distributed Resources with Electric Power Systems and IEEE 1547.1 Standard for Conformance Test Procedures for Equipment Interconnecting Distributed Resources with Electric Power Systems.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

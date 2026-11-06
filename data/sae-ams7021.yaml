@@ -1,0 +1,57 @@
+---
+id: SAEAMS7021
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Precipitation Hardenable Steel Alloy, Corrosion and Heat Resistant, Powder
+    for Additive Manufacturing, 15.0Cr - 4.5Ni - 3.5Cu - 0.30Nb
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7021
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7021-precipitation-hardenable-steel-alloy-corrosion-heat-resistant-powder-additive-manufacturing-150cr-45ni-35cu-030nb
+docidentifier:
+- content: SAE AMS7021
+  type: SAE
+  primary: true
+- content: 10.4271/ams7021
+  type: DOI
+date:
+- type: approved
+  at: '2020-11-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS AM Additive Manufacturing Metals
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The intended upper bound of this specification is that the particle size distribution (PSD) of powders supplied shall be &amp;lt;60 mesh (250 µm) and that no powder (0.0 wt%) greater than 40 mesh (425 µm) is allowed.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

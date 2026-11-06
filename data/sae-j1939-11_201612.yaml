@@ -1,0 +1,58 @@
+---
+id: SAEJ193911_201612
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Physical Layer, 250 Kbps, Twisted Shielded Pair
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939/11_201612
+- type: src
+  content: https://saemobilus.sae.org/standards/j193911_201612-physical-layer-250-kbps-twisted-shielded-pair
+docidentifier:
+- content: SAE J1939/11_201612
+  type: SAE
+  primary: true
+- content: 10.4271/j1939/11_201612
+  type: DOI
+date:
+- type: approved
+  at: '2016-12-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document defines a physical layer having a robust immunity to EMI and physical properties suitable for harsh environments.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;CAN controllers are available which support the CAN Flexible Data Rate Frame Format. These controllers, when used on SAE J1939-11 networks, must be restricted to use only the Classical Frame Format compliant to ISO 11898-1:2015.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These SAE Recommended Practices are intended for light- and heavy-duty vehicles on- or off-road as well as appropriate stationary applications which use vehicle derived components (e.g., generator sets). Vehicles of interest include but are not limited to: on- and off-highway trucks and their trailers; construction equipment; and agricultural equipment and implements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,66 @@
+---
+id: SAEJ32301_202102
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Kinematic Performance Metrics for Powered Standing Scooters
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3230/1_202102
+- type: src
+  content: https://saemobilus.sae.org/standards/j32301_202102-kinematic-performance-metrics-powered-standing-scooters
+docidentifier:
+- content: SAE J3230/1_202102
+  type: SAE
+  primary: true
+- content: 10.4271/j3230/1_202102
+  type: DOI
+date:
+- type: approved
+  at: '2021-02-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Powered Micromobility Vehicles Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice (RP) normalizes kinematic performance metrics and testing for powered standing scooters as defined in SAE J3194. Specifically, it describes:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Test procedures to measure the top speed, acceleration, and deceleration performance of powered standing scooters;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Test scenarios that consider initial vehicle conditions, operator anthropometry, environmental and roadway conditions, and operating domains (e.g., geofence);&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Relevant units, accuracy, and precision of measurement for each test; and&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Methods to collect and report such kinematic data.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;This RP does not prescribe pass/fail criteria for testing. This RP is applicable to powered standing scooters that are privately owned or available via shared- or rental-fleet operations.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

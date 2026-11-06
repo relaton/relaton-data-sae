@@ -1,0 +1,57 @@
+---
+id: SAEARP5365
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Human Interface Criteria for Cockpit Display of Traffic Information
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5365
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5365-human-interface-criteria-cockpit-display-traffic-information
+docidentifier:
+- content: SAE ARP5365
+  type: SAE
+  primary: true
+- content: 10.4271/arp5365
+  type: DOI
+date:
+- type: approved
+  at: '2008-02-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10EAB Executive Advisory Group
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) sets forth design and operational recommendations concerning the human factors issues and criteria for cockpit display of traffic information systems. The visual and aural characteristics are covered for both the alerting components and traffic depiction/situation components. The display system may contain any one or a combination of these components Although the system functionality assumed for this document exemplifies fixed-wing aircraft implementation, the recommendations do not preclude other aircraft types. The recommendations contained in this document address both near and far term technology directed toward providing in flight traffic awareness, although the present version remains primarily focused on near term applications. Since this document provides recommendations, the guidance is provided in the form of “should” statements as opposed to the “shall” statements that appear in standards and requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The assumptions about the system that guided and bounded the recommendations contained in this document include: the system is an airborne (flight deck based) system displaying traffic surveillance information to the flight crew; multiple sources of surveillance data will be used, when available, to provide the flight crew with the best available information; the system will have a human centered design based on the “lessons learned” from past systems; the system is not intended to replace the current Traffic Alert and Collision Avoidance (TCAS) function, but there will be a close relationship between the CDTI and the alerting system since both use the same sensors, and the display of the generated alerts and command information is generally considered a CDTI function; there will be pilot in the loop/manual involvement in any flight path changes; information will be accessible by appropriate flight crew members; the system will be based on the English language, but other languages may have to be considered; the system will address all fixed wing airplane types; the system will be operational full time in all airborne flight phases; the display function may be stand alone or part of a multi-function display; initial design will provide for upgradability and expansion; it will be properly integrated with other display functions and will not interfere with critical functions; the system may be capable of presenting additional traffic outside the range and capability of TCAS; and this document will not deal with the presentation of man made obstructions (e.g., towers or buildings) even though they may be equipped with an ADS-B transmitter.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

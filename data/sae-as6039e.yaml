@@ -1,0 +1,56 @@
+---
+id: SAEAS6039E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Bearings, Ball, Rod End, Double Row, Self-Aligning
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6039e
+- type: src
+  content: https://saemobilus.sae.org/standards/as6039e-bearings-ball-rod-end-double-row-self-aligning
+docidentifier:
+- content: SAE AS6039E
+  type: SAE
+  primary: true
+- content: 10.4271/as6039e
+  type: DOI
+date:
+- type: approved
+  at: '2022-06-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ACBG Rolling Element Bearing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) covers sealed, self-aligning, anti-friction, rod end ball bearings with application in temperature ranges (1) -65 to 250 °F and (2) -65 to 300 °F with 20% reduction of dynamic load carrying capacity when subjected to operation above 250 °F.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEUSCAR17
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PERFORMANCE SPECIFICATION FOR AUTOMOTIVE RF CONNECTOR SYTEMS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar17
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar17-performance-specification-automotive-rf-connector-sytems
+docidentifier:
+- content: SAE USCAR-17
+  type: SAE
+  primary: true
+- content: 10.4271/uscar17
+  type: DOI
+date:
+- type: approved
+  at: '2002-02-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Procedures included within this specification are intended to cover performance testing at all phases of development, production, and field analysis of electrical terminals, connectors and components for coaxial cable connection systems (hereafter referred to as RF connectors) in road vehicle applications. The intent of this specification is to qualify RF connectors that operate at frequencies greater than 200 MHz. This specification does not apply to single conductor wire or twisted pair connection systems. The RF connection system will be qualified for specific coaxial cable; the qualified coaxial cable and frequency range of interest must be listed on the connector drawing. Changing coaxial cable necessitates re-qualification.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This specification is a supplement to the SAE/USCAR-2 Performance Standard for Automotive Electrical Connector Systems and all requirements herein must be met in addition to all requirements of SAE/USCAR-2, unless otherwise specified. Only RF connector related additions and/or subtractions to the SAE/USCAR-2 specification are contained in this document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

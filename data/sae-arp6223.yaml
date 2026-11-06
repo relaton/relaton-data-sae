@@ -1,0 +1,56 @@
+---
+id: SAEARP6223
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Oil Carbon Particulate Test
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6223
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6223-oil-carbon-particulate-test
+docidentifier:
+- content: SAE ARP6223
+  type: SAE
+  primary: true
+- content: 10.4271/arp6223
+  type: DOI
+date:
+- type: approved
+  at: '2020-11-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-34 Propulsion Lubricants Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;An oil sample is placed into an open top glass vial which is then inserted into a stainless steel pressure vessel. The vessel is then sealed, pressurized, and placed into a heated aluminum block bath for 18 hours. At the end of the 18 hour time period, the vessel is removed from the heat source and allowed to cool to room temperature at which time the contents of the vial are filtered and the total sediment is reported as milligrams of sediment per 20 mL of oil.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

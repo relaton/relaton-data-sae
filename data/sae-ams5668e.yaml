@@ -1,0 +1,58 @@
+---
+id: SAEAMS5668E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALLOY BARS, FORGINGS, AND RINGS, CORROSION AND HEAT RESISTANT Nickel Base
+    - 15.5Cr - 7.0Fe - 2.5Ti - 1.0(Cb+Ta) - 0.70Al 2100 F (1093.3 C) Solution and
+    Precipitation Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5668e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5668e-alloy-bars-forgings-rings-corrosion-heat-resistant-nickel-base-155cr-70fe-25ti-10-cb-ta-070al-2100-f-10933-c-solution-precipitation-heat-treated
+docidentifier:
+- content: SAE AMS5668E
+  type: SAE
+  primary: true
+- content: 10.4271/ams5668e
+  type: DOI
+date:
+- type: approved
+  at: '1972-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat resistant nickel-base alloy in the form of solution and precipitation heat treated bars, forgings, and flash welded rings and of stock for forgings or flash welded rings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

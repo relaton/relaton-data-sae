@@ -1,0 +1,78 @@
+---
+id: SAEJ3210_202211
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Low-Speed Continuous Slip Durability Test
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3210_202211
+- type: src
+  content: https://saemobilus.sae.org/standards/j3210_202211-low-speed-continuous-slip-durability-test
+docidentifier:
+- content: SAE J3210_202211
+  type: SAE
+  primary: true
+- content: 10.4271/j3210_202211
+  type: DOI
+date:
+- type: approved
+  at: '2022-11-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Automatic Transmission and Transaxle Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice is intended as the definition of a standard test, which may be subject to frequent change to keep pace with experience and technical advances. This should be kept in mind when considering its use.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This SAE No. 2 friction test monitors the µ-v curve for a negative slope which can be used to evaluate a wet clutch system (WCS) anti-shudder performance and can be used for any wet driveline mechanism. WCS shudder is considered a clutch failure condition. The cause of shudder is consistent with glazing as the primary failure mode. It has been shown that a substantial loss of the wet friction material surface porosity leads to a glaze forming on the friction material surface. This process typically leading to a negative dµ/dv slope over time as addressed in SAE 2020-01-0560.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This procedure includes evaluation friction characteristics of wet clutch stystem (WCS) at various specific pressures, speeds, and temperatures, and an extended durability duty cycle test to evaluate the WCS during which the µ-v curve is monitored for a negative slope—a condition indicating the potential for shudder.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This procedure can be used to compare the shudder potential of various WCS combinations of friction material and lubricant. It is recommended that testing be conducted on an SAE No. 2 or similar machine. Also use the same machine for all tests when comparing results. The amount of aging has not been correlated to vehicle mileage or vehicle shudder and should only be used as an example of a test that results in a severe negative slope on the µ-v test.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This procedure is designed for a standard SAE plate clutch pack with one friction plate and two steel plates, but can be modified for any WCS configuration.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This procedure is built on the basis of SAE J2964, with modified test parameters and test procedure to evaluate a WCS aging stability and predict anti-shudder performance.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This procedure is intended as a recommended practice for both suppliers and end users.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The only variables selected by the supplier or user of the friction system are:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Friction plate with friction material (lining): Specify friction material, lot or batch number, groove pattern, and lining thickness.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Fluid: Specify fluid and lot or batch number.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Reaction (separator) plates: Use SAE standard as inticated below. Specify plates material, thickness, and lot or batch number.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;These three variables must be clearly identified when reporting the results of this test. If any of the test parameters or system hardware as described in this document are changed—other than the friction material, test fluid, or reaction (separator) plates—the data may not be reported as being obtained using this document, but should be shown as a modified version of the procedure.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The friction testing has a combination of modes, including short time continuous slip (C), ramp up and down speed sweeps (S), and static or breakaway slip (BA). The friction testing is done before break-in (BBI), after break-in (ABI), and after each aging test block (A). The general overview this test procedure is presented schematically in &lt;span class="xref"&gt;Figure 1&lt;/span&gt;.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;Reference the testing clutch geometric parameters are shown in &lt;span class="xref"&gt;Table 1&lt;/span&gt;.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;Various testing speeds, fluid temperatures, unit surface pressures, and slip timings are used during the different modes to simulate clutch operating conditions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The aging mode test parameters are selected to accelerate the WCS degradation response within the 120 hours total time. The obtained values of friction torque and resulting friction coefficient, friction coefficient slopes (gradients), fluid, and reaction plate temperatures allow comparison of the WCS wear resistance and resistance to aging. These parameters are utilized for evaluating the clutch anti-shudder performance.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Details of the test modes operating conditions are presented in &lt;span class="xref"&gt;Section 5&lt;/span&gt;.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

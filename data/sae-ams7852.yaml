@@ -1,0 +1,48 @@
+---
+id: SAEAMS7852
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: COLUMBIUM ALLOY SHEET, STRIP, AND PLATE 10Hf - 1.0Ti
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7852
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7852-columbium-alloy-sheet-strip-plate-10hf-10ti
+docidentifier:
+- content: SAE AMS7852
+  type: SAE
+  primary: true
+- content: 10.4271/ams7852
+  type: DOI
+date:
+- type: approved
+  at: '1984-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G Titanium and Refractory Metals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

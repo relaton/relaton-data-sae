@@ -1,0 +1,65 @@
+---
+id: SAEJ20562_200002
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Survey of Known Protocols
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2056/2_200002
+- type: src
+  content: https://saemobilus.sae.org/standards/j20562_200002-survey-known-protocols
+docidentifier:
+- content: SAE J2056/2_200002
+  type: SAE
+  primary: true
+- content: 10.4271/j2056/2_200002
+  type: DOI
+date:
+- type: approved
+  at: '2000-02-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Architecture For Data Communications Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Information Report is a summary comparison of existing protocols
+    found in manufacturing, automotive, aviation, military, and  computer applications
+    which provide background or may be applicable for Class C application. The intent
+    of this report is to present a summary of each protocol, not an evaluation. This
+    is not intended to be a comprehensive review of all applicable protocols. The
+    form for evaluation of a protocol exists in this paper and new protocols can be
+    submitted on this form to the committee for consideration in future revisions
+    of this report. This report contains a table which provides a side-by-side comparison
+    of each protocol considered. The subsequent section provides a more detailed examination
+    of the protocol attributes. Many of the protocols do not specify a method for
+    one or more of the criteria. In these circumstances 'under defined' or 'not specified'
+    will appear under the heading. Certain protocol specifics or details are omitted
+    for the sake of brevity. Every attempt is made to provide the interest reader
+    with the necessary references for further research.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

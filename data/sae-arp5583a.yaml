@@ -1,0 +1,61 @@
+---
+id: SAEARP5583A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guide to Certification of Aircraft in a High-Intensity Radiated Field (HIRF)
+    Environment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5583a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5583a-guide-certification-aircraft-a-high-intensity-radiated-field-hirf-environment
+docidentifier:
+- content: SAE ARP5583A
+  type: SAE
+  primary: true
+- content: 10.4271/arp5583a
+  type: DOI
+date:
+- type: approved
+  at: '2010-06-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-4 Electromagnetic Compatibility (EMC) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This guide provides detailed information, guidance, and methods related to the Federal Aviation Administration (FAA) Advisory Circular (AC) 20-158 and European Aviation Safety Agency (EASA) draft Advisory Material Joint (AMJ), both titled "The Certification of Aircraft Electrical and Electronic Systems for Operation in the High-Intensity Radiated Fields (HIRF) Environment". The AC provides acceptable means, but not the only means, of compliance with Title 14, Code of Federal Regulations (14 CFR) 23.1308, 25.1317, 27.1317, and 29.1317, High-Intensity Radiated Fields (HIRF) protection for Aircraft Electrical and Electronic Systems, and applicable FAA HIRF Special Conditions to prevent hazards to aircraft electrical and electronic systems due to HIRF produced by external transmitters. It is also intended for this guide to provide the same information, guidance, and methods to the European Aviation Safety Agency (EASA) interim HIRF policies certification requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This guide is neither mandatory nor regulatory in nature and does not constitute a regulation or legal interpretation of the regulation. The information in this guide represents a collection of best engineering practices that have been used to certify aircraft HIRF protection. An applicant may elect to establish an alternative method of compliance that is acceptable to the cognizant airworthiness authorities.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is consistent with the guidance in FAA AC 20-158. The AC 20-158 and draft HIRF AMJ may be referenced in aircraft certification requirements such as JAA/EASA certification review items. While this document is generally consistent with AC 20-158 and draft HIRF AMJ, users of this document should verify that the guidance in this document is acceptable to the cognizant airworthiness authorities.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

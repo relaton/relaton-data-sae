@@ -1,0 +1,56 @@
+---
+id: SAEAIR6168
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Landing Gear Structural Health Monitoring
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6168
+- type: src
+  content: https://saemobilus.sae.org/standards/air6168-landing-gear-structural-health-monitoring
+docidentifier:
+- content: SAE AIR6168
+  type: SAE
+  primary: true
+- content: 10.4271/air6168
+  type: DOI
+date:
+- type: approved
+  at: '2012-04-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) discusses past and present approaches for monitoring the landing gear structure and shock absorber, methods for transient overload detection, techniques for measuring the forces seen by the landing gear structure, and methods for determining the fatigue state of the landing gear structure. This AIR covers the landing gear structure and shock absorber. It does not include the landing gear systems or landing gear wheels, tires and brakes. Landing gear tire condition and pressure monitoring are detailed in AIR4830 and ARP6137, respectively.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

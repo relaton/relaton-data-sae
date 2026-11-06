@@ -1,0 +1,53 @@
+---
+id: SAEAMS4062J
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Drawn Seamless Round Tubing, (1100-H14), Strain Hardened
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4062j
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4062j-aluminum-alloy-drawn-seamless-round-tubing-1100-h14-strain-hardened
+docidentifier:
+- content: SAE AMS4062J
+  type: SAE
+  primary: true
+- content: 10.4271/ams4062j
+  type: DOI
+date:
+- type: approved
+  at: '2007-07-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers an aluminum alloy in the form of drawn seamless
+    round tubing.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

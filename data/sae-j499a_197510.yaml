@@ -1,0 +1,70 @@
+---
+id: SAEJ499A_197510
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PARALLEL SIDE SPLINES FOR SOFT BROACHED HOLES IN FITTINGS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j499a_197510
+- type: src
+  content: https://saemobilus.sae.org/standards/j499a_197510-parallel-side-splines-soft-broached-holes-fittings
+docidentifier:
+- content: SAE J499A_197510
+  type: SAE
+  primary: true
+- content: 10.4271/j499a_197510
+  type: DOI
+date:
+- type: approved
+  at: '1975-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Spline Committee -B92
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Information Report along with SAE J500 and J501 is generally understood to be technically obsolete for the design of new applications. However, it is listed for those existing applications where it may be required. For the design of new applications, consult ANSI B92.1-1970—Involute Splines and Inspections Standard.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;[The dimensions, given in inches, apply only to soft broached holes. The shaft dimensions depend upon the shape and material of the parts, their heat treatment, and methods of machining to give the required fit. The method and amount of "breaking" sharp corners and edges also depend upon the conditions and requirements of each application.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The formula for theoretical torque capacity (pressure on sides of spline) in inch-pounds per inch of bearing length (L) and at 1000 psi pressure is:&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;The tolerances allowed are for good construction and may be readily maintained by usual broaching methods. The tolerances selected for the large and small diameters will depend upon whether the fit between the mating parts, as finally made, is on the large or the small diameter. The other diameter, being designed for clearance may have a wider manufacturing tolerance. If the final fit between the parts is on only the sides of the spline, wider tolerances may be permitted on both the large and small diameters.]&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Radii on corners of splines are not to exceed 0.015 in.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Splines shall not be more than 0.006 in per ft out of parallel with respect to the axis of the shaft.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;No allowance is made for radii on corners or for clearance. Dimensions are intended to apply to only the soft broached hole. Allowance must be made for machining.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For values of D, W, d, h, and T for four-, six-, ten-, and sixteen-spline fittings, &lt;span class="xref"&gt;Table 2&lt;/span&gt;, &lt;span class="xref"&gt;Table 3&lt;/span&gt;, &lt;span class="xref"&gt;Table 4&lt;/span&gt; and &lt;span class="xref"&gt;Table 5&lt;/span&gt;, respectively.&lt;/div&gt;
+
+
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

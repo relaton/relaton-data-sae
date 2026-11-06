@@ -1,0 +1,57 @@
+---
+id: SAEJ266_199601
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steady-State Directional Control Test Procedures for Passenger Cars and
+    Light Trucks
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j266_199601
+- type: src
+  content: https://saemobilus.sae.org/standards/j266_199601-steady-state-directional-control-test-procedures-passenger-cars-light-trucks
+docidentifier:
+- content: SAE J266_199601
+  type: SAE
+  primary: true
+- content: 10.4271/j266_199601
+  type: DOI
+date:
+- type: approved
+  at: '1996-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Dynamics Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes consistent test procedures for determination of steady-state directional control properties for passenger cars and light trucks with single axles. These properties include the &lt;i&gt;gradients&lt;/i&gt; with respect to lateral acceleration of steering wheel angle, understeer/ oversteer, sideslip, roll angle, and steering wheel torque; the &lt;i&gt;gains&lt;/i&gt; with respect to steering wheel angle of yaw velocity, lateral acceleration, and sideslip; the &lt;i&gt;characteristic speed&lt;/i&gt; or &lt;i&gt;critical speed&lt;/i&gt;; and the total, steering, and tire &lt;i&gt;compliances&lt;/i&gt; at the front and rear wheels.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

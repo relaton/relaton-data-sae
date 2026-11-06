@@ -1,0 +1,58 @@
+---
+id: SAEJ1667_199602
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SNAP-ACCELERATION SMOKE TEST PROCEDURE FOR HEAVY-DUTY DIESEL POWERED VEHICLES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1667_199602
+- type: src
+  content: https://saemobilus.sae.org/standards/j1667_199602-snap-acceleration-smoke-test-procedure-heavy-duty-diesel-powered-vehicles
+docidentifier:
+- content: SAE J1667_199602
+  type: SAE
+  primary: true
+- content: 10.4271/j1667_199602
+  type: DOI
+date:
+- type: approved
+  at: '1996-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Powertrain Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice applies to vehicle exhaust smoke measurements made using the Snap-Acceleration test procedure. Because this is a non-moving vehicle test, this test can be conducted along the roadside, in a truck depot, a vehicle repair facility, or other test facilities. The test is intended to be used on heavy-duty trucks and buses powered by diesel engines. It is designed to be used in conjunction with smokemeters using the light extinction principle of smoke measurement.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This procedure describes how the snap-acceleration test is to be performed. It also gives specifications for the smokemeter and other test instrumentation and describes the algorithm for the measurement and quantification of the exhaust smoke produced during the test. Included are discussions of factors which influence snap-acceleration test results and methods to correct for these conditions. Unless otherwise noted, these correction methodologies are to be considered an integral part of the snap-acceleration test procedure.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

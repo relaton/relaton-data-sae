@@ -1,0 +1,68 @@
+---
+id: SAEJ2177_202603
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Chassis Dynamometer Test Procedure - Heavy-Duty Road Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2177_202603
+- type: src
+  content: https://saemobilus.sae.org/standards/j2177_202603-chassis-dynamometer-test-procedure-heavy-duty-road-vehicles
+docidentifier:
+- content: SAE J2177_202603
+  type: SAE
+  primary: true
+- content: 10.4271/j2177_202603
+  type: DOI
+date:
+- type: approved
+  at: '2026-03-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Engine Power Test Code Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This SAE Recommended Practice has been adopted by SAE to specify:&lt;/p&gt;
+    &lt;p&gt;a. A standard procedure for chassis dynamometer testing of heavy-duty road vehicles for the purpose of determining power delivered through the drive tires.&lt;/p&gt;
+    &lt;p&gt;b. A method of correcting observed power to reference test conditions.&lt;/p&gt;
+    &lt;p&gt;c. A method of analyzing the test data to determine if the test results are within expected power ranges.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

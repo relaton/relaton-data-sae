@@ -1,0 +1,58 @@
+---
+id: SAEJ2106_200207
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Token Slot Network for Automotive Control
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2106_200207
+- type: src
+  content: https://saemobilus.sae.org/standards/j2106_200207-token-slot-network-automotive-control
+docidentifier:
+- content: SAE J2106_200207
+  type: SAE
+  primary: true
+- content: 10.4271/j2106_200207
+  type: DOI
+date:
+- type: approved
+  at: '2002-07-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Architecture For Data Communications Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>The Token Slot Data Link is intended to provide periodic, broadcast communications (communication that must occur on a regular, predetermined basis) within a vehicle system. The Token Slot protocol achieves this by implementing a masterless,  deterministic, non-contention Token Slot sequence which is designed to offer a transmit token to all devices (or nodes) without requiring that they respond. After acquiring the token, messages may be sent and verified using a variety of built-in techniques. The token passing slot sequence is then reinitiated by the current token holder.
+
+    Vehicle Architecture for Data Communication Standards Committee voted to cancel document - 7/19/2002
+
+    J2058 and J2106 Rationale
+    Per Jack Volk, Vice Chairperson of Vehicle Architecture for Data Communication Standards Committee, document not being used.  Information may be contained in other documents, (not necessarily SAE documents).</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

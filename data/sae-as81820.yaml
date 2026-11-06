@@ -1,0 +1,57 @@
+---
+id: SAEAS81820
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Bearings, Plain, Self-Aligning, Self-Lubricating, Low Speed Oscillation,
+    General Specification For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as81820
+- type: src
+  content: https://saemobilus.sae.org/standards/as81820-bearings-plain-self-aligning-self-lubricating-low-speed-oscillation-general-specification
+docidentifier:
+- content: SAE AS81820
+  type: SAE
+  primary: true
+- content: 10.4271/as81820
+  type: DOI
+date:
+- type: approved
+  at: '1998-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ACBG Plain Bearing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers plain spherical bearings which are self-aligning and self-lubricating by incorporating polytetrafluoroethylene (PTFE) in a liner between the ball and race (outer ring). PTFE is incorporated in a fabric or composite material bonded to the ID of the outer ring, or in a composite material molded into a pre-formed cavity between the inner and outer ring. These bearings are for use in the temperature range -65°F to +325°F (-54°C to +163°C.)&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

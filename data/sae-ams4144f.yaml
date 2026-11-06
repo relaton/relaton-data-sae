@@ -1,0 +1,58 @@
+---
+id: SAEAMS4144F
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Hand Forgings and Rolled Rings 6.3Cu - 0.30Mn - 0.18Zr
+    - 0.10V - 0.06Ti (2219-T852/T851) Solution Heat Treated, Mechanically Stress Relieved,
+    and Precipitation Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4144f
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4144f-aluminum-alloy-hand-forgings-rolled-rings-63cu-030mn-018zr-010v-006ti-2219-t852-t851-solution-heat-treated-mechanically-stress-relieved-precipitation-heat-treated
+docidentifier:
+- content: SAE AMS4144F
+  type: SAE
+  primary: true
+- content: 10.4271/ams4144f
+  type: DOI
+date:
+- type: approved
+  at: '2011-09-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of hand forgings and rolled rings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

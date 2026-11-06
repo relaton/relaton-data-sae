@@ -1,0 +1,57 @@
+---
+id: SAEJ1811_199501
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: POWER CABLE TERMINALS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1811_199501
+- type: src
+  content: https://saemobilus.sae.org/standards/j1811_199501-power-cable-terminals
+docidentifier:
+- content: SAE J1811_199501
+  type: SAE
+  primary: true
+- content: 10.4271/j1811_199501
+  type: DOI
+date:
+- type: approved
+  at: '1995-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Common Tests Technical Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard defines the terminals that carry the electrical current developed in the main cranking circuit of the starting systems used in off-road machinery as described in SAE J1116. These systems normally use batteries as described in SAE J537 and J930. The terminals addressed by this document are primarily used to connect batteries, cranking motors, solenoids, magnetic switches, and master disconnect switches with power cable assemblies.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEARP5539A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Rotary Plow with Carrier Vehicle
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5539a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5539a-rotary-plow-carrier-vehicle
+docidentifier:
+- content: SAE ARP5539A
+  type: SAE
+  primary: true
+- content: 10.4271/arp5539a
+  type: DOI
+date:
+- type: approved
+  at: '2022-07-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-15 Airport Snow and Ice Control Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) covers specification requirements for a rotary plow with carrier vehicle. The primary use is to cast heavy concentrations of snow approximately perpendicular to carrier vehicles across and away from airport operational areas, such as runways and taxiways. Rotary plows equipped with spot casting, or loading chutes are also used to cast snow in directions through approximately 100 degrees to the left or right of directly in front of the carrier vehicle, and also to load trucks or trailers used to haul snow away from removal area. The term “carrier vehicle” represents the various self-propelled prime movers that provide the power necessary to move snow and ice control equipment during winter operations.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

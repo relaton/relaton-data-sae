@@ -1,0 +1,60 @@
+---
+id: SAEJ1980_200806
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guidelines for Evaluating Out-of-Position Vehicle Occupant Interactions
+    with Deploying Frontal Airbags
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1980_200806
+- type: src
+  content: https://saemobilus.sae.org/standards/j1980_200806-guidelines-evaluating-position-vehicle-occupant-interactions-deploying-frontal-airbags
+docidentifier:
+- content: SAE J1980_200806
+  type: SAE
+  primary: true
+- content: 10.4271/j1980_200806
+  type: DOI
+date:
+- type: approved
+  at: '2008-06-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Human Biomechanics and Simulations Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;An airbag generates a considerable amount of kinetic energy during its inflation process. As a result substantial forces can be developed between the deploying airbag and the out-of-position occupant. Accident data and laboratory test results have indicated a potential for head, neck, chest, abdominal, and leg injuries from these forces. This suggests that mitigating such forces should be considered in the design of airbag restraint systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document outlines a comprehensive set of test guidelines that can be used for investigating the interactions that occur between the deploying airbag and the occupant who is near the module at the time of deployment. Static and dynamic tests to investigate driver and passenger systems are given. Static tests may be used to sort designs on a comparative basis. Designs that make it through the static sorting procedure may be subjected to the appropriate dynamic tests. On a specific vehicle model, engineering judgment based upon prior experience in airbag testing may make it unnecessary to conduct the tests identified by the document or may indicate that different tests should be conducted.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Mild severity and moderate severity crash pulses are described in &lt;span class="xref"&gt;Section 5&lt;/span&gt;. These pulses are not vehicle-specific, but represent a general acceleration-time history that approximates what occurs with a large variety of vehicles. The mild severity crash pulse is near the threshold of many airbag deployments and represents a high-frequency accident event. Since small children are more likely than adults to be out of position due to preimpact braking, this pulse can be used for the child tests. Since preimpact braking has much less of an effect on adults, the moderate severity crash pulse can be used for adult testing. The described pulses or other vehicle specific pulses may be used.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;No performance limits are specified in this document. References &lt;span class="xref"&gt;2.1.4&lt;/span&gt; 2 and 16 gives interpretations of dummy responses relative to human injury potential.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

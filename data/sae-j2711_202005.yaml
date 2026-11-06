@@ -1,0 +1,59 @@
+---
+id: SAEJ2711_202005
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Recommended Practice for Measuring Fuel Economy and Emissions of Hybrid-Electric
+    and Conventional Heavy-Duty Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2711_202005
+- type: src
+  content: https://saemobilus.sae.org/standards/j2711_202005-recommended-practice-measuring-fuel-economy-emissions-hybrid-electric-conventional-heavy-duty-vehicles
+docidentifier:
+- content: SAE J2711_202005
+  type: SAE
+  primary: true
+- content: 10.4271/j2711_202005
+  type: DOI
+date:
+- type: approved
+  at: '2020-05-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Powertrain Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice was established to provide an accurate, uniform, and reproducible procedure for simulating use of MD/HD conventional vehicles (CVs) and hybrid-electric vehicles (HEVs), as well as plug-in hybrid-electric vehicles (PHEVs) and battery electric vehicles (BEVs) on powertrain dynamometers for the purpose of measuring emissions and fuel economy. This document does not specify which emissions constituents to measure (e.g., HC, CO, NOx, PM, CO&lt;sub&gt;2&lt;/sub&gt;), as that decision will depend on the objectives of the tester. While the main focus of this procedure is for calculating fuel and energy consumption, it is anticipated that emissions may also be recorded during execution of this procedure.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It should be noted that most MD/HD powertrains addressed in this document would be powered by engines that are certified separately for emissions. The engine certification procedure appears in the Code of Federal Regulations, Title 40 §86 and §1065.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

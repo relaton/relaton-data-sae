@@ -1,0 +1,58 @@
+---
+id: SAEJ1596_198906
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AUTOMOTIVE V-RIBBED BELT DRIVES AND TEST METHODS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1596_198906
+- type: src
+  content: https://saemobilus.sae.org/standards/j1596_198906-automotive-v-ribbed-belt-drives-test-methods
+docidentifier:
+- content: SAE J1596_198906
+  type: SAE
+  primary: true
+- content: 10.4271/j1596_198906
+  type: DOI
+date:
+- type: approved
+  at: '1989-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Belt Drive (Automotive) Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The following information covers engine accessory drive layout details and testing methods and includes test configurations, pulley diameters, power loads, and guidance for interpreting test data. This information has been prepared from existing literature, including standards and data supplied by both producers and users of V-ribbed belts.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;When the engine is used to drive an external unit equipped with industrial type V-pulleys and belts, it is recommended that the power takeoff pulley on the engine be grooved according to the appropriate industrial standard. These standards are published by RMA-MPTA (Rubber Manufacturers Association - Mechanical Power Transmission Association); ISO (International Standards Organization) and ASAE (American Society of Agricultural Engineers). The grooves in those standards differ from each other in the reference dimensions, and they are not interchangeable with SAE grooves, which are standardized for engine accessory drives as covered in SAE J636 and J1459.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

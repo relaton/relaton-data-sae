@@ -1,0 +1,61 @@
+---
+id: SAEJ111321_201305
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Electronmagnetic Compatibility Measurement Procedure for Vehicle Components
+    - Part 21: Immunity to Electromagnetic Fields, 30 MHz to 18 GHz, Absorber-Lined
+    Chamber'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1113/21_201305
+- type: src
+  content: https://saemobilus.sae.org/standards/j111321_201305-electronmagnetic-compatibility-measurement-procedure-vehicle-components-part-21-immunity-electromagnetic-fields-30-mhz-18-ghz-absorber-lined-chamber
+docidentifier:
+- content: SAE J1113/21_201305
+  type: SAE
+  primary: true
+- content: 10.4271/j1113/21_201305
+  type: DOI
+date:
+- type: approved
+  at: '2013-05-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This part of SAE J1113 specifies test methods and procedures for testing electromagnetic immunity (of vehicle radiation sources) of electronic components for passenger cars and commercial vehicles. To perform this test method, the electronic module along with the wiring harness (prototype or standard test harness) and peripheral devices will be subjected to the electromagnetic disturbance generated inside an absorber-lined chamber. The electromagnetic disturbances considered in this part of SAE J1113 are limited to continuous narrowband electromagnetic fields.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Immunity measurements of complete vehicles are generally only performed at the vehicle manufacturer. The reasons, for example, are high costs of a large absorber-lined chamber, preserving the secrecy of prototypes, or the large number of different vehicle models. Therefore, for research, development and quality control, a laboratory measuring method shall be applied by the manufacturers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Part 1 of SAE J1113 specifies the general, definitions, practical use, and basic principles of the test procedure&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

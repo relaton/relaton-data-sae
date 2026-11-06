@@ -1,0 +1,56 @@
+---
+id: SAEARP5873
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: LED Passenger Reading Light Assembly
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5873
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5873-led-passenger-reading-light-assembly
+docidentifier:
+- content: SAE ARP5873
+  type: SAE
+  primary: true
+- content: 10.4271/arp5873
+  type: DOI
+date:
+- type: approved
+  at: '2007-03-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20C Interior Lighting
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document presents minimum criteria for the design and installation of LED passenger reading light assemblies in commercial aircraft. The use of “shall” in this specification expresses provisions that are binding. Non-mandatory provisions use the term “should.”&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

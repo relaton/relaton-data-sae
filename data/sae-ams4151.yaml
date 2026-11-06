@@ -1,0 +1,48 @@
+---
+id: SAEAMS4151
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY Copper Manganese Magnesium (17S-T) Extruded
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4151
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4151-aluminum-alloy-copper-manganese-magnesium-17s-t-extruded
+docidentifier:
+- content: SAE AMS4151
+  type: SAE
+  primary: true
+- content: 10.4271/ams4151
+  type: DOI
+date:
+- type: approved
+  at: '1943-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

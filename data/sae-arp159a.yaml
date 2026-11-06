@@ -1,0 +1,55 @@
+---
+id: SAEARP159A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: DIELECTRIC TESTING OP SPARK PLUGS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp159a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp159a-dielectric-testing-op-spark-plugs
+docidentifier:
+- content: SAE ARP159A
+  type: SAE
+  primary: true
+- content: 10.4271/arp159a
+  type: DOI
+date:
+- type: approved
+  at: '1994-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-30 Propulsion Ignition Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+    &lt;div class="htmlview paragraph"&gt;This report describes a method of determining the dielectric integrity of a spark plug by subjecting the insulation in the plug to voltage stress.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

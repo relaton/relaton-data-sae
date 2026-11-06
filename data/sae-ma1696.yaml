@@ -1,0 +1,56 @@
+---
+id: SAEMA1696
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SCREW THREADS, METRIC BUTTRESS - MJB PROFILE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma1696
+- type: src
+  content: https://saemobilus.sae.org/standards/ma1696-screw-threads-metric-buttress-mjb-profile
+docidentifier:
+- content: SAE MA1696
+  type: SAE
+  primary: true
+- content: 10.4271/ma1696
+  type: DOI
+date:
+- type: approved
+  at: '1995-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard establishes the basic triangular profile for the MJB thread form, the design profiles, standard pitches, tolerance classes, formulae for tolerances and dimensions, tolerance tables, and a system of designations. Because of the specialized application for buttress threads, no preferred diameter-pitch series have been established for this standard and each application will require use of the thread formulae for dimensions and related tolerances given herein for deriving the thread dimensional requirements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

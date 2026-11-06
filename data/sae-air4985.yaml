@@ -1,0 +1,68 @@
+---
+id: SAEAIR4985
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: A Methodology for Quantifying the Performance of an Engine Monitoring System
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4985
+- type: src
+  content: https://saemobilus.sae.org/standards/air4985-a-methodology-quantifying-performance-engine-monitoring-system
+docidentifier:
+- content: SAE AIR4985
+  type: SAE
+  primary: true
+- content: 10.4271/air4985
+  type: DOI
+date:
+- type: approved
+  at: '2017-10-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Aerospace Information Report (AIR) is to present a quantitative approach for evaluating the performance and capabilities of an Engine Monitoring System (EMS). The value of such a methodology is in providing a systematic means to accomplish the following:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Determine the impact of an EMS on key engine supportability indices such as Fault Detection Rate, Fault Isolation Rate, Mean Time to Diagnose, In-flight Shutdowns (IFSD), Mission Aborts, and Unscheduled Engine Removals (UERs).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Facilitate trade studies during the design process in order to compare performance versus cost for various EMS design strategies, and&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Define a “common language” for specifying EMS requirements and the design features of an EMS in order to reduce ambiguity and, therefore, enhance consistency between specification and implementation.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;The techniques used for this methodology borrow from those used for testability analysis and are modified to apply to the unique aircraft supportability definitions in item 1 above. While the discussion and examples in this document focus on aircraft engines and their components, the methods and terms in this AIR are applicable to other systems. For example starting systems can be considered to be within the scope of the document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It will be noted that many of the terms and measures used in the document reflect a military bias. It is anticipated that the methods described will either apply directly to commercial aviation measures or can be readily adapted.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAMS4501E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Copper Sheet, Strip, and Plate Oxygen-Free, Light Cold Rolled
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4501e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4501e-copper-sheet-strip-plate-oxygen-free-light-cold-rolled
+docidentifier:
+- content: SAE AMS4501E
+  type: SAE
+  primary: true
+- content: 10.4271/ams4501e
+  type: DOI
+date:
+- type: approved
+  at: '2013-09-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers one type of copper in the form of sheet, strip, and plate.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

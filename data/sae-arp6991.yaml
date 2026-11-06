@@ -1,0 +1,56 @@
+---
+id: SAEARP6991
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MPR Micropitting Test Method
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6991
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6991-mpr-micropitting-test-method
+docidentifier:
+- content: SAE ARP6991
+  type: SAE
+  primary: true
+- content: 10.4271/arp6991
+  type: DOI
+date:
+- type: approved
+  at: '2023-05-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-34 Propulsion Lubricants Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This method is designed to evaluate the micropitting performance of currently available and future aviation turbine oil formulations. Drawing on previously performed tests documented in AIR6989, the method comprises of three rings rotating against a rotating central roller configuration using the standard, commercially available PCS Instruments Micropitting Rig (MPR). A test profile has been developed between industry and academia that relies on standard, commercially available test specimens.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

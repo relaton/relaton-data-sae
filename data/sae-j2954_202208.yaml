@@ -1,0 +1,62 @@
+---
+id: SAEJ2954_202208
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Wireless Power Transfer for Light-Duty Plug-in/Electric Vehicles and Alignment
+    Methodology
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2954_202208
+- type: src
+  content: https://saemobilus.sae.org/standards/j2954_202208-wireless-power-transfer-light-duty-plug-electric-vehicles-alignment-methodology
+docidentifier:
+- content: SAE J2954_202208
+  type: SAE
+  primary: true
+- content: 10.4271/j2954_202208
+  type: DOI
+date:
+- type: approved
+  at: '2022-08-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The SAE J2954 standard establishes an industry-wide specification that defines acceptable criteria for interoperability, electromagnetic compatibility, EMF, minimum performance, safety, and testing for wireless power transfer (WPT) of light-duty plug-in electric vehicles. The specification defines various charging levels that are based on the levels defined for SAE J1772 conductive AC charge levels 1, 2, and 3, with some variations. A standard for WPT based on these charge levels enables selection of a charging rate based on vehicle requirements, thus allowing for better vehicle packaging and ease of customer use. The specification supports home (private) charging and public wireless charging.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In the near term, vehicles that are able to be charged wirelessly under SAE J2954 should also be able to be charged conductively by SAE J1772 plug-in chargers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J2954 addresses unidirectional charging, from grid to vehicle; bidirectional energy transfer may be evaluated for a future standard. This standard is intended to be used in stationary applications (charging while vehicle is not in motion); dynamic applications may be considered in the future. In this version, only above-ground (surface mounted) installations are covered; flush mounted installations have been discussed but are not yet ready for inclusion.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J2954 contains requirements for safety, performance, and interoperability. It also contains recommended methods for evaluating electromagnetic emissions, but the requirements and test procedures are controlled by regulatory bodies. Development of the interoperability requirements in this standard employed a performance-based evaluation of candidate designs using a standardized Test Station and procedures, resulting in defining reference devices which are used to determine acceptable performance of products.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

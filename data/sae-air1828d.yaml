@@ -1,0 +1,70 @@
+---
+id: SAEAIR1828D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guide to Engine Lubrication System Monitoring
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1828d
+- type: src
+  content: https://saemobilus.sae.org/standards/air1828d-guide-engine-lubrication-system-monitoring
+docidentifier:
+- content: SAE AIR1828D
+  type: SAE
+  primary: true
+- content: 10.4271/air1828d
+  type: DOI
+date:
+- type: approved
+  at: '2026-05-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides information and guidance for the selection and use of technologies and methods for lubrication system monitoring of gas turbine aircraft engines. This AIR describes technologies and methods covering oil system performance monitoring, oil debris monitoring, and oil condition monitoring. Both on-aircraft and off-aircraft applications are presented. A higher-level view of lubrication system monitoring as part of an overall engine monitoring system (EMS) is discussed in ARP1587.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The scope of this document is limited to those lubrication system monitoring, inspection, and analysis methods and devices that can be considered appropriate for health monitoring and routine maintenance.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This AIR is intended to be used as a technical guide. It is not intended to be used as a legal document or standard.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

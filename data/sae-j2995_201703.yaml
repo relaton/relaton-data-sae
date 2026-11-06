@@ -1,0 +1,80 @@
+---
+id: SAEJ2995_201703
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Strength and Durability Testing for Automotive Hydraulic Brake Components
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2995_201703
+- type: src
+  content: https://saemobilus.sae.org/standards/j2995_201703-strength-durability-testing-automotive-hydraulic-brake-components
+docidentifier:
+- content: SAE J2995_201703
+  type: SAE
+  primary: true
+- content: 10.4271/j2995_201703
+  type: DOI
+date:
+- type: approved
+  at: '2017-03-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hydraulic Brake Components Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;To assess the strength and durability for hydraulic brake components as a function of test conditions. These conditions may include: braking torque, hill-holding, braking forces, hydraulic pressure, brake temperatures, environmental and corrosion effects, vibration, and time. This RP includes a systematic reference to other test methods and provides new test methods for durability life prediction based on the VDA 311 for operating strength for brake calipers. When using AK load collectives from vehicle testing for life prediction, the nominal vehicle life corresponds to 300000 km. Braking torques and forces take into account inputs from non-ABS, ABS, EPB, and ESC systems. It also applies to gasoline, diesel, hybrid, and electric vehicles. This RP applies to vehicles below 4540 kg of GVWR. With the appropriate engineering review and assessment for a given test program, this RP can apply (or be used) to scale the duty cycle (or special collective) to reflect regional, on-road special applications, or vehicles up to 7 tons of GVWR.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Except for the AK load collectives, which have proven correlation to customer usage, the damage content of other procedures requires (a) the quantification with actual laboratory testing to develop the corresponding S/N curves, and (b) the calculation of the equivalent damage at the test conditions for a given load collective.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The hydraulic components covered by this RP include:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Non-vacuum apply system (brake booster and master cylinder)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;ABS modules&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Service, IPB, and EPB calipers&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Proportioning valves&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Wheel cylinders&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;This RP has an accompanying electronic appendix with the tabular presentation as a spreadsheet of different test procedures by type and by component.&lt;/div&gt;
+
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

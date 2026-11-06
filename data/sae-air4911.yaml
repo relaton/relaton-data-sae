@@ -1,0 +1,57 @@
+---
+id: SAEAIR4911
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Requirements Document for Sensor/Video Interconnect Subsystems with Rationale
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4911
+- type: src
+  content: https://saemobilus.sae.org/standards/air4911-requirements-document-sensor-video-interconnect-subsystems-rationale
+docidentifier:
+- content: SAE AIR4911
+  type: SAE
+  primary: true
+- content: 10.4271/air4911
+  type: DOI
+date:
+- type: approved
+  at: '2013-09-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1C Avionic Subsystems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this document is to establish the requirements for sensor/video interconnect subsystems. These requirements have been driven predominantly, but not exclusively, by aerospace-type military platforms and commercial aircraft. These requirements are intended to be used as the criteria to establish a sensor/video interconnection standard that will foster the development of common hardware to simplify the total interconnectivity of future avionics platforms.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

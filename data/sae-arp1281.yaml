@@ -1,0 +1,57 @@
+---
+id: SAEARP1281
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'SERVOACTUATORS: AIRCRAFT FLIGHT CONTROLS, POWER OPERATED, HYDRAULIC, GENERAL
+    SPECIFICATION FOR'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1281
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1281-servoactuators-aircraft-flight-controls-power-operated-hydraulic-general-specification
+docidentifier:
+- content: SAE ARP1281
+  type: SAE
+  primary: true
+- content: 10.4271/arp1281
+  type: DOI
+date:
+- type: approved
+  at: '1974-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6B1 Hydraulic Servo Actuation Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes the requirements for power operated hydraulic servoactuators when used in flight control systems. These servoactuators may be controlled by mechanical, hydraulic or electrical inputs or combinations thereof, and may be powered by one or more hydraulic systems. The complete servoactuator package may incorporate primary components such as control servovalve, input linkage and position feedback lever in addition to the actuating cylinder. Secondary components may also be included such as stability and control augmentation actuators, bypass valves, residual pressure compensators, electrohydraulic servovalves, filters, pressure switches, motor or solenoid operated shut-off valves, thermostatic control valves, hydraulic logic, mechanical locking devices and electrical transducers.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

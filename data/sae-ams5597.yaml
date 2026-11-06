@@ -1,0 +1,50 @@
+---
+id: SAEAMS5597
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALLOY SHEET, STRIP, AND PLATE, CORROSION AND HEAT RESISTANT Nickel Base
+    - 19Cr - 3.1Mo - 5.1(Cb + Ta) - 0.90Ti - 0.50Al Consumable Electrode Melted, Solution
+    Treated at 1950 F (1065.6 C)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5597
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5597-alloy-sheet-strip-plate-corrosion-heat-resistant-nickel-base-19cr-31mo-51-cb-ta-090ti-050al-consumable-electrode-melted-solution-treated-1950-f-10656-c
+docidentifier:
+- content: SAE AMS5597
+  type: SAE
+  primary: true
+- content: 10.4271/ams5597
+  type: DOI
+date:
+- type: approved
+  at: '1965-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

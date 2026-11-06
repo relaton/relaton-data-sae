@@ -1,0 +1,57 @@
+---
+id: SAEJ16994_202112
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: OBD-II Communications Anomaly List
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1699/4_202112
+- type: src
+  content: https://saemobilus.sae.org/standards/j16994_202112-obd-ii-communications-anomaly-list
+docidentifier:
+- content: SAE J1699/4_202112
+  type: SAE
+  primary: true
+- content: 10.4271/j1699/4_202112
+  type: DOI
+date:
+- type: approved
+  at: '2021-12-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;To define a list of anomalies related to OBD Communications. Misinterpretations of various OBD Communications Standards and Recommended Practices have resulted in OBD “no-communications” situations in the field. This Information Report identifies the most prevalent of these.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,60 @@
+---
+id: SAEJ1979DA_202203
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: J1979-DA, Digital Annex of E/E Diagnostic Test Modes
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1979da_202203
+- type: src
+  content: https://saemobilus.sae.org/standards/j1979da_202203-j1979-da-digital-annex-e-e-diagnostic-test-modes
+docidentifier:
+- content: SAE J1979DA_202203
+  type: SAE
+  primary: true
+- content: 10.4271/j1979da_202203
+  type: DOI
+date:
+- type: approved
+  at: '2022-03-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>&lt;p&gt;On-Board Diagnostic (OBD) regulations require passenger cars,
+    and light and medium duty trucks, to support communication of a minimum set of
+    diagnostic information to off-board “generic” test equipment.  This document specifies
+    the diagnostic data which may be required to be supported by motor vehicles and
+    external test equipment for diagnostic purposes which pertain to motor vehicle
+    emission-related data.  SAE J1979 was originally developed to meet U.S. OBD requirements
+    for 1996 and later model year vehicles.  ISO 15031 5 was based on SAE J1979 and
+    was intended to combine the U.S. requirements with European OBD requirements for
+    2000 and later model year vehicles.&lt;/p&gt;</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAMS7730D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: DEPLETED URANIUM CASTINGS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7730d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7730d-depleted-uranium-castings
+docidentifier:
+- content: SAE AMS7730D
+  type: SAE
+  primary: true
+- content: 10.4271/ams7730d
+  type: DOI
+date:
+- type: approved
+  at: '1992-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G Titanium and Refractory Metals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers depleted uranium in the form of castings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

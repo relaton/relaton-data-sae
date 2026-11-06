@@ -1,0 +1,56 @@
+---
+id: SAEAS1560B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Modules and Basic Racks of Metric Spur and Helical Gears
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1560b
+- type: src
+  content: https://saemobilus.sae.org/standards/as1560b-modules-basic-racks-metric-spur-helical-gears
+docidentifier:
+- content: SAE AS1560B
+  type: SAE
+  primary: true
+- content: 10.4271/as1560b
+  type: DOI
+date:
+- type: approved
+  at: '2018-09-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) establishes the standard modules for aerospace metric involute gear teeth and establishes the tooth dimensions of aerospace metric involute gear teeth in terms of the conjugate rack type cutter whose counterpart reference profile is called the basic rack profile of the generated gear, having the tooth dimensions expressed in terms proportional to the module.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

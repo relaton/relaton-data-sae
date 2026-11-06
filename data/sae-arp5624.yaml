@@ -1,0 +1,56 @@
+---
+id: SAEARP5624
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Inflight Icing Terminology
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5624
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5624-aircraft-inflight-icing-terminology
+docidentifier:
+- content: SAE ARP5624
+  type: SAE
+  primary: true
+- content: 10.4271/arp5624
+  type: DOI
+date:
+- type: approved
+  at: '2013-04-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9C Aircraft Icing Technology Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides recommended definitions for terms commonly used in aircraft inflight icing system design and analysis, research, and operations. Some general thermodynamic terms are included that are frequently used in icing analysis, but this document is not meant to be an inclusive list of such terms.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

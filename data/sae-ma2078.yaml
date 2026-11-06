@@ -1,0 +1,58 @@
+---
+id: SAEMA2078
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TEST METHODS, HOSE ASSEMBLIES, TETRAFLUOROETHYENE (TFE)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma2078
+- type: src
+  content: https://saemobilus.sae.org/standards/ma2078-test-methods-hose-assemblies-tetrafluoroethyene-tfe
+docidentifier:
+- content: SAE MA2078
+  type: SAE
+  primary: true
+- content: 10.4271/ma2078
+  type: DOI
+date:
+- type: approved
+  at: '1986-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard describes the test methods for flexible TFE hose and hose assemblies used in aircraft fluid systems in the pressure and temperature ranges covered by pressure classes B, D and E, and temperature types I, II and III of MA 2001 - ISO 6771. It applies to the hose and the hose coupling. The tests and assembly requirements for the connecting end fitting are covered in the procurement specification.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard applies each time that it is referred to in a procurement specification or other definition document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Fluids and materials used for the tests are listed in &lt;span class="xref"&gt;Appendix A&lt;/span&gt;.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

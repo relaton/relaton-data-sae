@@ -1,0 +1,61 @@
+---
+id: SAEAS56431
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: S400 Copper Media Interface Characteristics Over Extended Distances
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5643/1
+- type: src
+  content: https://saemobilus.sae.org/standards/as56431-s400-copper-media-interface-characteristics-extended-distances
+docidentifier:
+- content: SAE AS5643/1
+  type: SAE
+  primary: true
+- content: 10.4271/as5643/1
+  type: DOI
+date:
+- type: approved
+  at: '2004-12-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) establishes guidelines for the use of IEEE-1394b as a data bus network in military and aerospace vehicles. It encompasses the data bus cable and its interface electronics for a system utilizing S400 over copper medium over extended lengths. This document contains extensions/restrictions to “off-the-shelf” IEEE-1394 standards, and assumes that the reader already has a working knowledge of IEEE-1394.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not identify specific environmental requirements (electromagnetic compatibility, temperature, vibration, etc.); such requirements will be vehicle-specific and even LRU-specific. However, the hardware requirements and examples contained herein do address many of the environmental conditions that military and aerospace vehicles may experience. One should reference the appropriate sections of MIL-STD-461E for their particular LRU, and utilize handbooks such as MIL-HDBK-454A and MIL-HDBK-5400 for guidance.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is referred to as a “slash sheet” and accompanies the SAE Sxxxx base standard.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

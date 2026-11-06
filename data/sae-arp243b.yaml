@@ -1,0 +1,55 @@
+---
+id: SAEARP243B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nomenclature, Aircraft Hydraulic and Pneumatic Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp243b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp243b-nomenclature-aircraft-hydraulic-pneumatic-systems
+docidentifier:
+- content: SAE ARP243B
+  type: SAE
+  primary: true
+- content: 10.4271/arp243b
+  type: DOI
+date:
+- type: approved
+  at: '1965-06-10'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The purpose of this nomenclature guide is to promote more uniform and
+    specific nomenclature throughout the airframe industry.  Terms listed and defined
+    are applicable to parts, aspects and characteristics of aircraft hydraulic and
+    pneumatic fluid power systems and their components. Usage of nomenclature, where
+    practicable, which conforms to definitions contained herein will serve to promote
+    clarity and avoid misunderstanding.  Some recommendations are made for restriction
+    of terms which have become somewhat ambiguous or are considered less desirable
+    than recommended nomenclature. Use of terms not defined herein is recommended
+    only where those contained herein may not be applicable or adequate.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

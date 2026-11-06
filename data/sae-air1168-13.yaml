@@ -1,0 +1,68 @@
+---
+id: SAEAIR116813
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Spacecraft Equipment Environmental Control
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1168/13
+- type: src
+  content: https://saemobilus.sae.org/standards/air116813-spacecraft-equipment-environmental-control
+docidentifier:
+- content: SAE AIR1168/13
+  type: SAE
+  primary: true
+- content: 10.4271/air1168/13
+  type: DOI
+date:
+- type: approved
+  at: '2006-03-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This part of the manual presents methods for arriving at a solution to the problem of spacecraft inflight equipment environmental control. The temperature aspect of this problem may be defined as the maintenance of a proper balance and integration of the following thermal loads: equipment-generated, personnel-generated, and transmission through external boundary.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Achievement of such a thermal energy balance involves the investigation of three specific areas:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Establishment of design requirements.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Evaluation of properties of materials.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Development of analytical approach.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;The solution to the problem of vehicle and/or equipment pressurization, which is the second half of major environmental control functions, is also treated in this section. Pressurization in this case may be defined as the task associated with the storage and control of a pressurizing fluid, leakage control, and repressurization. Although secondary to the thermal energy balance, the function of pressure control is nevertheless an important aspect of the overall environmental problem.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

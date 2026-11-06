@@ -1,0 +1,71 @@
+---
+id: SAEAIR5428
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Utility System Characterization, an Overview
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5428
+- type: src
+  content: https://saemobilus.sae.org/standards/air5428-utility-system-characterization-overview
+docidentifier:
+- content: SAE AIR5428
+  type: SAE
+  primary: true
+- content: 10.4271/air5428
+  type: DOI
+date:
+- type: approved
+  at: '2013-05-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A3 Flight Control and Vehicle Management Systems Cmt
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Modern air vehicles consist of many subsystems, traditionally managed as a federation of independent subsystems. Advances in control technologies, digital electronics and electro-mechanical hardware, provide potential opportunities to integrate subsystems for future aircraft. This document does not define any particular integration strategy. Its purpose is to provide information about traditional federated subsystems from the functional, control, resource, and hardware perspective. To be able to integrate subsystems, one must have a basic understanding of the subsystems, and this document provides an introduction or starting point for initiating the integration process.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The focus is on the aircraft subsystems, which includes utility, flight and propulsion control (e.g., electric power, environmental control subsystem (ECS), fuel, etc.) The depth of the information intends to provide an introduction to the subsystems. Trade studies must be performed to maximize the potential benefits of integration. Although this document introduces technical issues, business arrangements must also be addressed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document consists of six sections.&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Section 1&lt;/span&gt; introduces the scope of this document.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Section 2&lt;/span&gt; introduces the references and acronyms of this document.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Section 3&lt;/span&gt; introduces the content of this documents appendix.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Section 4&lt;/span&gt; discusses the typical development approach and considerations for integrating the traditional subsystems.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Section 5&lt;/span&gt; briefly discusses the integration technology trend.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Section 6&lt;/span&gt; suggests an approach to design of integrated subsystems.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

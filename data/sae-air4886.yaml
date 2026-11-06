@@ -1,0 +1,57 @@
+---
+id: SAEAIR4886
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Statement on Requirements for Real-Time Communication Protocols (RTCP)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4886
+- type: src
+  content: https://saemobilus.sae.org/standards/air4886-statement-requirements-real-time-communication-protocols-rtcp
+docidentifier:
+- content: SAE AIR4886
+  type: SAE
+  primary: true
+- content: 10.4271/air4886
+  type: DOI
+date:
+- type: approved
+  at: '2011-11-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this document is to establish the requirements for Real-Time Communication Protocols (RTCP). Systems for real-time applications are characterized by the presence of hard deadlines where failure to meet a deadline must be considered a system fault.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These requirements have been driven predominantly, but not exclusively, by aerospace type military platforms and commercial aircraft, but are generally applicable to any distributed, real-time, control systems. These requirements are primarily targeted for the Transport and Network Layers of peer to peer protocols, as referenced in the Open System Interconnect Reference Model (&lt;span class="xref"&gt;2.2.1&lt;/span&gt; and &lt;span class="xref"&gt;2.2.2&lt;/span&gt;), developed by the International Standards Organization (ISO). These requirements are intended to complement SAE AS4074 (2.1.1) and AS4075 (2.1.2), and future SAE communications standards. Although information transfer objectives herein concentrate primarily on digital data flow attributes, efforts have been made such as not to preclude sensor/video and voice information transfers. This document provides evaluation criteria for selecting viable alternatives for a real-time communications protocol standard.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,49 @@
+---
+id: SAEAS819351
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BEARING, PLAIN, ROD END, SELF-ALIGNING, SELF-LUBRICATING, WIDE, EXTERNALLY
+    THREADED, -65°F TO +325°F
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as81935/1
+- type: src
+  content: https://saemobilus.sae.org/standards/as819351-bearing-plain-rod-end-self-aligning-self-lubricating-wide-externally-threaded-65f-325f
+docidentifier:
+- content: SAE AS81935/1
+  type: SAE
+  primary: true
+- content: 10.4271/as81935/1
+  type: DOI
+date:
+- type: approved
+  at: '1998-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ACBG Plain Bearing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

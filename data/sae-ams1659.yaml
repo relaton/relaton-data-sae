@@ -1,0 +1,56 @@
+---
+id: SAEAMS1659
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: COATING, SOIL BARRIER Semi-Permanent
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams1659
+- type: src
+  content: https://saemobilus.sae.org/standards/ams1659-coating-soil-barrier-semi-permanent
+docidentifier:
+- content: SAE AMS1659
+  type: SAE
+  primary: true
+- content: 10.4271/ams1659
+  type: DOI
+date:
+- type: approved
+  at: '1991-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G8 Aerospace Organic Coatings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a barrier coating in the form of a ready-to-be applied liquid with a consistency suitable for brush, spray, or dip application to exterior surfaces of aircraft.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

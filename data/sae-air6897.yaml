@@ -1,0 +1,58 @@
+---
+id: SAEAIR6897
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Battery Management Systems for Rechargeable Lithium Batteries Used in Aerospace
+    Standards
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6897
+- type: src
+  content: https://saemobilus.sae.org/standards/air6897-battery-management-systems-rechargeable-lithium-batteries-used-aerospace-standards
+docidentifier:
+- content: SAE AIR6897
+  type: SAE
+  primary: true
+- content: 10.4271/air6897
+  type: DOI
+date:
+- type: approved
+  at: '2020-08-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7D Aircraft Energy Storage and Charging Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AIR provides basic background information and guidance for design and development of BMS architectures to be used in RLBs for aerospace applications. This guidance applies to batteries that are considered “installed” equipment and are intended to be part of the original or supplemental type certification or military airframe qualification.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

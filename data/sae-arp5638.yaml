@@ -1,0 +1,58 @@
+---
+id: SAEARP5638
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: RMS Terms and Definitions
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5638
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5638-rms-terms-definitions
+docidentifier:
+- content: SAE ARP5638
+  type: SAE
+  primary: true
+- content: 10.4271/arp5638
+  type: DOI
+date:
+- type: approved
+  at: '2005-03-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-41 Reliability
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The terms used in most engineering technologies tend to be physical characteristics such as speed, rate of turn, and fuel consumption. While they may require very careful definition and control of the way in which they are measured, the terms themselves are not subject to different interpretations. Reliability, Maintainability, and Supportability (RMS) however, use terms that are defined in a variety of ways with multiple interpretations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The variety of definitions given to a single term creates problems when trying to compare the performance of one system to another. To eliminate the confusion, a literature search that listed current and past RMS terms and definitions was conducted. The literature search included input from the US Military, UK Military, NATO, SAE, IEEE, NASA, ISO, University Research, and other publications. The object was to determine the common definition of Reliability Terms from a variety of sources. It is accepted that some of the definitions may be unique because of the nature of the mission, but it is the strong conviction of the Government and Industry practitioners who make up the SAE Reliability Committee under the G-11 Division that there should be some fundamental definitions used for all hardware systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Accordingly, in October of 2003 the task of developing and revising the current SAE AIR4896 publication issued in 1995 of Recommended RMS Terms and Parameters. It is understood by individuals that participated in this project that future editions will update terminology as developments are made within the RMS community. Due to the complexity and nature of Software Reliability, we have specifically excluded “software reliability” terms from this edition. Future updates of this document will continue to reflect the converging of defense and commercial technology and standards.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

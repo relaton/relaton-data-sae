@@ -1,0 +1,58 @@
+---
+id: SAEAS61719
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Techniques for Suspect/Counterfeit EEE Parts Detection by Fourier Transform
+    Infrared Spectroscopy (FTIR) Test Methods
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6171/9
+- type: src
+  content: https://saemobilus.sae.org/standards/as61719-techniques-suspect-counterfeit-eee-parts-detection-fourier-transform-infrared-spectroscopy-ftir-test-methods
+docidentifier:
+- content: SAE AS6171/9
+  type: SAE
+  primary: true
+- content: 10.4271/as6171/9
+  type: DOI
+date:
+- type: approved
+  at: '2022-06-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-19A Test Laboratory Standards Development Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document defines capabilities and limitations of FTIR spectroscopy as it pertains to counterfeit electronic component detection and suggests possible applications to these ends. Additionally, this document outlines requirements associated with the application of FTIR spectroscopy including: operator training, sample preparation, various sampling techniques, data interpretation, computerized spectral matching including pass/fail criteria, equipment maintenance, and reporting of data. The discussion is primarily aimed at analyses performed in the mid-infrared (IR) from 400 to 4000 wavenumbers; however, many of the concepts are applicable to the near and far IR.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;If AS6171/9 is invoked in the contract, the base document, AS6171 General Requirements shall also apply.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

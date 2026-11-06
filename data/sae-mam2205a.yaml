@@ -1,0 +1,57 @@
+---
+id: SAEMAM2205A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Tolerances, Metric, Aluminum Alloy and Magnesium Alloy Extrusions
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/mam2205a
+- type: src
+  content: https://saemobilus.sae.org/standards/mam2205a-tolerances-metric-aluminum-alloy-magnesium-alloy-extrusions
+docidentifier:
+- content: SAE MAM2205A
+  type: SAE
+  primary: true
+- content: 10.4271/mam2205a
+  type: DOI
+date:
+- type: approved
+  at: '1996-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers established metric manufacturing tolerances
+    applicable to aluminum alloy and magnesium alloy extruded bar, rod, wire,  shapes,
+    and tubing ordered to metric dimensions.  Tolerances greater than  standard may
+    be necessary for some shapes; tolerances closer than standard may be possible
+    for others.  Tolerances shown herein, however,  apply unless otherwise agreed
+    upon by purchaser and vendor and apply to  all tempers, unless otherwise noted.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

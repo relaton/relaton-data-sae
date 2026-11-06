@@ -1,0 +1,56 @@
+---
+id: SAEAS428
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Exhaust Gas Temperature Instruments
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as428
+- type: src
+  content: https://saemobilus.sae.org/standards/as428-exhaust-gas-temperature-instruments
+docidentifier:
+- content: SAE AS428
+  type: SAE
+  primary: true
+- content: 10.4271/as428
+  type: DOI
+date:
+- type: approved
+  at: '2008-02-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4 Aircraft Instruments Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The exhaust gas temperature instruments covered by this standard are of the electrical servo null balance type, actuated by a varying emf output of one or more parallel connected Chromel-Alumel thermocouples.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

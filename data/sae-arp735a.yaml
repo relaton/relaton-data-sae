@@ -1,0 +1,55 @@
+---
+id: SAEARP735A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Vehicle Cryogenic Duct Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp735a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp735a-aerospace-vehicle-cryogenic-duct-systems
+docidentifier:
+- content: SAE ARP735A
+  type: SAE
+  primary: true
+- content: 10.4271/arp735a
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice outlines the design, installation, testing and field maintenance criteria for aerospace vehicle cryogenic duct systems. These recommendations are considered currently applicable guides and are subject to revision due to the continuing development within industry.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

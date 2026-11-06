@@ -1,0 +1,56 @@
+---
+id: SAEAMS7819A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MOLYBDENUM ALLOY BARS 0.48Ti - 0.09Zr - 0.02C Arc Cast, Stress Relieved
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7819a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7819a-molybdenum-alloy-bars-048ti-009zr-002c-arc-cast-stress-relieved
+docidentifier:
+- content: SAE AMS7819A
+  type: SAE
+  primary: true
+- content: 10.4271/ams7819a
+  type: DOI
+date:
+- type: approved
+  at: '1978-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G Titanium and Refractory Metals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an arc-cast molybdenum alloy in the form of round bars.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

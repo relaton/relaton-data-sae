@@ -1,0 +1,59 @@
+---
+id: SAEGEIA859B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Data Management
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/geia859b
+- type: src
+  content: https://saemobilus.sae.org/standards/geia859b-data-management
+docidentifier:
+- content: SAE GEIA-859B
+  type: SAE
+  primary: true
+- content: 10.4271/geia859b
+  type: DOI
+date:
+- type: approved
+  at: '2022-08-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EIDM Enterprise Information and Data Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Data is information that has been recorded in a form or format convenient to move or process. It is important to distinguish between data and the format. The format is a structured way to record information, such as engineering drawings and other documents, software, pictures, maps, sound, and animation. Some formats are open source, others proprietary. Regardless of the format, there are three broad types of data. &lt;span class="xref"&gt;Table 1&lt;/span&gt; lists these types of data and provides examples.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;DM, from the perspective of this standard, consists of the disciplined processes and systems utilized to plan for, acquire, and provide management and oversight for product and product-related business data, consistent with requirements, throughout the product and data life cycles. Thus, this standard primarily addresses product data and the business data required for stakeholder collaboration extending through the supply chain during product acquisition and sustainment life cycle. This standard has broader application to business and transactional data recognizing the data addressed by this standard is subject to data administration, metadata management, records management, and other processes applied at the enterprise level.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Data has many purposes, including stating requirements, providing proof of achievement, and establishing a basis for long-term product support. Deliverable data (customer-accessible information) represents only a small fraction of the project data. In general, the developer/producer continues to own the intellectual property for a vast amount of design, development, fabrication, manufacturing and administrative data unless ownership has been transferred via contractual or other agreement. Further, the value of data is not limited to its use in support of a specific product: data may have a life cycle longer than that of the product it describes. For instance, data from previous projects forms part of the foundation for new product and process design. Data also supports the enterprise in process redesign and quality. Thus, data is essential to competitive position. An enterprise’s data, if not properly safeguarded, can also be misused by a competitor to the competitor’s advantage. For these reasons, data is an integral part of an enterprise’s intellectual assets and overall enterprise knowledge.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEAIR1184B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Capacitive Fuel Gauging System Accuracies
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1184b
+- type: src
+  content: https://saemobilus.sae.org/standards/air1184b-capacitive-fuel-gauging-system-accuracies
+docidentifier:
+- content: SAE AIR1184B
+  type: SAE
+  primary: true
+- content: 10.4271/air1184b
+  type: DOI
+date:
+- type: approved
+  at: '2021-04-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5A Aerospace Fuel, Inerting and Lubrication Sys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report is intended to identify the various errors typically encountered in capacitance fuel quantity measurement systems. In addition to identification of error sources, it describes the basic factors which cause the errors. When coupled with appraisals of the relative costs of minimizing the errors, this knowledge will furnish a tool with which to optimize gauging system accuracy, and thus, to obtain the optimum overall system within the constraints imposed by both design and budgetary considerations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Since the subject of fuel measurement accuracy using capacitance based sensing is quite complex, no attempt is made herein to present a fully-comprehensive evaluation of all factors affecting gauging system accuracy. Rather, the major contributors to gauging system inaccuracy are discussed and emphasis is given to simplicity and clarity, somewhat at the expense of completeness.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;An overview of capacitive fuel gauging operation can be found in AIR5691. This document also discusses how to analyze fuel gauging system accuracy as a result of combining the effects of the error sources described here.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

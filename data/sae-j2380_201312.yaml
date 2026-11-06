@@ -1,0 +1,56 @@
+---
+id: SAEJ2380_201312
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Vibration Testing of Electric Vehicle Batteries
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2380_201312
+- type: src
+  content: https://saemobilus.sae.org/standards/j2380_201312-vibration-testing-electric-vehicle-batteries
+docidentifier:
+- content: SAE J2380_201312
+  type: SAE
+  primary: true
+- content: 10.4271/j2380_201312
+  type: DOI
+date:
+- type: approved
+  at: '2013-12-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Battery Standards Testing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice describes the vibration durability testing of a single battery (test unit) consisting of either an electric vehicle battery module or an electric vehicle battery pack. For statistical purposes, multiple samples would normally be subjected to such testing. Additionally, some test units may be subjected to life cycle testing (either after or during vibration testing) to determine the effects of vibration on battery life. Such life testing is not described in this procedure; SAE J2288 may be used for this purpose as applicable. Finally, impact testing, such as crash and pothole, is not included in this procedure.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

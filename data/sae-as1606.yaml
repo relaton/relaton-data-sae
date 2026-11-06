@@ -1,0 +1,57 @@
+---
+id: SAEAS1606
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GAS TURBINE STARTER (JET FUEL STARTER) SPECIFICATION
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1606
+- type: src
+  content: https://saemobilus.sae.org/standards/as1606-gas-turbine-starter-jet-fuel-starter-specification
+docidentifier:
+- content: SAE AS1606
+  type: SAE
+  primary: true
+- content: 10.4271/as1606
+  type: DOI
+date:
+- type: approved
+  at: '1992-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-6 Starting Systems and Auxiliary Power Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes the requirements for the (TBS) jet fuel starter for the (TBS) gas turbine engine used in the (TBS) aircraft.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

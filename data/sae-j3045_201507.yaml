@@ -1,0 +1,57 @@
+---
+id: SAEJ3045_201507
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Truck and Bus Lane Departure Warning Systems Test Procedure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3045_201507
+- type: src
+  content: https://saemobilus.sae.org/standards/j3045_201507-truck-bus-lane-departure-warning-systems-test-procedure
+docidentifier:
+- content: SAE J3045_201507
+  type: SAE
+  primary: true
+- content: 10.4271/j3045_201507
+  type: DOI
+date:
+- type: approved
+  at: '2015-07-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Automation Safety Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE recommended practice establishes a uniform, powered vehicle T.P. for lane departure warning systems used in highway trucks and buses greater than 4,546 kg (10,000 lb) GVW. Systems similar in function but different in scope and complexity, including Lane Keeping/Lane Assist and Merge Assist, are not included in this T.P. This T.P. does not apply to trailers, dollies, etc. This T.P. does not intend to exclude any particular system or sensor technology.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The specification will test the functionality of the LDWS (e.g., ability to detect lane presence, and ability to detect an unintended lane departure), its ability to indicate LDWS engagement, its ability to indicate LDWS disengagement, and determine the point at which the LDWS notifies the Human Machine Interface (HMI) or vehicle control system that a lane departure event is detected. The HMI is not addressed herein, but is considered in SAE Standard J2808.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

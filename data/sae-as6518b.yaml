@@ -1,0 +1,60 @@
+---
+id: SAEAS6518B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: |-
+    Unmanned Systems (UxS) Control Segment (UCS) Architecture: UCS
+                        Architecture Model
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6518b
+- type: src
+  content: https://saemobilus.sae.org/standards/as6518b-unmanned-systems-uxs-control-segment-ucs-architecture-ucs-architecture-model
+docidentifier:
+- content: SAE AS6518B
+  type: SAE
+  primary: true
+- content: 10.4271/as6518b
+  type: DOI
+date:
+- type: approved
+  at: '2022-03-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-4UCS Unmanned Systems Control Segment Architecture
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>&lt;div class=\"section abstract\"&gt;\n            \n            \n
+    \           &lt;div class=\"htmlview paragraph\"&gt;This brief User Guide recaps
+    the content of the AS6518B UCS Architectural Model.&lt;/div&gt;\n            &lt;div
+    class=\"htmlview paragraph\"&gt;The purpose of the UCS Architecture Model is to
+    provide the authoritative source for\n                other models and products
+    within the UCS Architecture as shown in the AS6512B UCS\n                Architecture:
+    Architecture Description.&lt;/div&gt;\n        &lt;/div&gt;</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

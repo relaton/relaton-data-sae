@@ -1,0 +1,59 @@
+---
+id: SAEJ1761_199512
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: INFORMATION REPORT ON ITS TERMS AND DEFINITIONS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1761_199512
+- type: src
+  content: https://saemobilus.sae.org/standards/j1761_199512-information-report-terms-definitions
+docidentifier:
+- content: SAE J1761_199512
+  type: SAE
+  primary: true
+- content: 10.4271/j1761_199512
+  type: DOI
+date:
+- type: approved
+  at: '1995-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ITS Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report defines consistent terminology for Intelligent Transportation Systems (ITS). The list of defined terms is followed by a list of acronyms. Certain criteria were used in selecting terms for this document. Terms in widespread use in the ITS community covering significant services, technologies, and applications were chosen. This document focuses on terms used in the United States, although it covers aspects of worldwide ITS deployment. This document focuses on automotive applications, which include interfaces to and from the automobile. Later versions may include a wider scope.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;ITS includes a wide array of services, applications, and technologies. The Department of Transportation &lt;u&gt;ITS National Program Plan&lt;/u&gt; divides ITS into 29 User Services, which are included in this glossary. The User Services range from Pre-Trip Travel Planning to Fully Automated Highway Systems. Other organizations and experts have divided ITS into a smaller set of more general application types, such as Traveller Information or Advanced Public Transportation. This document, in keeping with the general purpose of SAE, focuses primarily on services, applications, and technologies in or on a vehicle. The field of ITS includes applications, such as communications between traffic management centers, which do not directly interface with the vehicle and therefore are not included in this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Products and commercial systems were excluded. Terms which are used in the ITS community, but are not unique to ITS, such as "hard disk" or "half duplex" were not included. In the interests of keeping the document current, specific project names were not included. (Descriptions of FHWA projects are published annually by the FHWA, and are available from that agency.) Terms of interest only to narrow technical subfields were not included. Names of local agencies were not included.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The overall goal of this document is to provide the reader with basic information on terms relevant to ITS, including relevant technologies, standards, organizations, applications, and acronyms. Definitions are listed alphabetically in &lt;span class="xref"&gt;Section 3&lt;/span&gt;, followed by acronyms in &lt;span class="xref"&gt;Section 4&lt;/span&gt;.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

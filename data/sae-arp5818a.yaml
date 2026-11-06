@@ -1,0 +1,56 @@
+---
+id: SAEARP5818A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Refueling Vehicle Design and Performance Requirements
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5818a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5818a-aircraft-refueling-vehicle-design-performance-requirements
+docidentifier:
+- content: SAE ARP5818A
+  type: SAE
+  primary: true
+- content: 10.4271/arp5818a
+  type: DOI
+date:
+- type: approved
+  at: '2015-08-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5C Aviation Ground Fueling Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is a guideline for the design and operation of Aviation Aircraft Refueling Vehicles and for the materials, components, and systems used thereon. The criteria set forth herein are the minimum recommendations for all types of aircraft refueling vehicles, including tanker vehicles, hydrant service vehicles, towable hydrant carts, fixed refueling cabinets, and any other type of aircraft refueling vehicles used at airports for aircraft refueling operations with nominal operating fuel pressures and flow rates as specified within this document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

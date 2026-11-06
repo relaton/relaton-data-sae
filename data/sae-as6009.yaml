@@ -1,0 +1,80 @@
+---
+id: SAEAS6009
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: JAUS Mobility Service Set
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6009
+- type: src
+  content: https://saemobilus.sae.org/standards/as6009-jaus-mobility-service-set
+docidentifier:
+- content: SAE AS6009
+  type: SAE
+  primary: true
+- content: 10.4271/as6009
+  type: DOI
+date:
+- type: approved
+  at: '2009-04-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-4JAUS Joint Architecture for Unmanned Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document defines a set of standard application layer interfaces called &lt;i&gt;JAUS Mobility Services&lt;/i&gt;. JAUS Services provide the means for software entities in an unmanned system or system of unmanned systems to communicate and coordinate their activities. The Mobility Services represent the platform-independent capabilities commonly found across all domains and types of unmanned systems. At present, 15 services are defined in this document. Some examples include:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Pose Sensors: Determine the instantaneous position and orientation of a platform in global or local coordinates&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Velocity State Sensor: Determines the instantaneous velocity of a platform&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Acceleration State Sensor: Determines the instantaneous acceleration of a platform&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Primitive Driver: Performs basic mobility for a platform based on force/torque efforts&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Vector Drivers: Perform closed loop mobility for straight line travel&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Velocity State Driver: Similar to vector drivers, but with additional degrees of freedom&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Waypoint Drivers: Perform closed loop mobility to a location specified&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Waypoint List Drivers: Performs closed loop mobility using a series of locations&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Path Segment Drivers: Performs closed loop mobility along a specified path&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;Each service is described by a JAUS Service Definition (JSD) which specifies the message set and protocol required for compliance. Each JSD is fully compliant with the JAUS Service Interface Definition Language [JSIDL].&lt;/div&gt;
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

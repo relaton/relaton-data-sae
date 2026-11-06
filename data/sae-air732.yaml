@@ -1,0 +1,56 @@
+---
+id: SAEAIR732
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HEAT TRANSFER PROBLEMS ASSOCIATED WITH AEROSPACE VEHICLES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air732
+- type: src
+  content: https://saemobilus.sae.org/standards/air732-heat-transfer-problems-associated-aerospace-vehicles
+docidentifier:
+- content: SAE AIR732
+  type: SAE
+  primary: true
+- content: 10.4271/air732
+  type: DOI
+date:
+- type: approved
+  at: '1978-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The discipline of heat transfer concerns itself basically with the three modes of transferring thermal energy (convection, conduction, and radiation) and their inter-relations. In any phase of aerospace vehicle design, the importance of any of these basic modes will vary depending upon the natural and induced environment the mission imposes as well as the vehicle configuration.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

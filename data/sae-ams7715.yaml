@@ -1,0 +1,48 @@
+---
+id: SAEAMS7715
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Sheet and Strip, Flat-Rolled Electrical 4.25si Aisi Type M-15, Semiprocessed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7715
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7715-steel-sheet-strip-flat-rolled-electrical-425si-aisi-type-m-15-semiprocessed
+docidentifier:
+- content: SAE AMS7715
+  type: SAE
+  primary: true
+- content: 10.4271/ams7715
+  type: DOI
+date:
+- type: approved
+  at: '2002-12-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

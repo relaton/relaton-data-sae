@@ -1,0 +1,56 @@
+---
+id: SAEJ2800_200706
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Laboratory Corrosion/Fatigue Testing of Vehicle Suspension Coil Springs
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2800_200706
+- type: src
+  content: https://saemobilus.sae.org/standards/j2800_200706-laboratory-corrosion-fatigue-testing-vehicle-suspension-coil-springs
+docidentifier:
+- content: SAE J2800_200706
+  type: SAE
+  primary: true
+- content: 10.4271/j2800_200706
+  type: DOI
+date:
+- type: approved
+  at: '2007-06-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Materials, Processes and Parts Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This lab test procedure should be used when evaluating the combined corrosion and fatigue performance for a particular coating system, substrate, process and design. The test is intended to provide an A to B comparison of a proposed coil spring design versus an existing field validated coil spring when subjected to the combined effects of corrosion and fatigue. The corrosion mechanisms covered by this test include general, cosmetic and pitting corrosion. Fatigue testing covers the maximum design stress and/or stress range of the coil spring design (typically defined as excursion from jounce to rebound positions in a vehicle). The effects of gravel and heat are simulated by pre-conditioning the springs prior to fatigue testing. Time dependant corrosion mechanisms such as stress corrosion cracking are not addressed with this test.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

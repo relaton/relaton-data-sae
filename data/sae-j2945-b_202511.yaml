@@ -1,0 +1,59 @@
+---
+id: SAEJ2945B_202511
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Minimum Requirements to Support Traffic Signal Priority and Preemption
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2945/b_202511
+- type: src
+  content: https://saemobilus.sae.org/standards/j2945b_202511-minimum-requirements-support-traffic-signal-priority-preemption
+docidentifier:
+- content: SAE J2945/B_202511
+  type: SAE
+  primary: true
+- content: 10.4271/j2945/b_202511
+  type: DOI
+date:
+- type: approved
+  at: '2025-11-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Connected Transportation Interoperability Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;When identifying the content of this report, one of the goals was that it supports a nationally interoperable method for connected vehicles (CVs) to make traffic signal priority and/or preemption (TSPP) requests of connected intersections (CIs) that support priority and/or preemption services. Given that, this report specifies the over-the-air (OTA) interface between CVs and CIs to support TSPP applications using updated revisions of the SAE J2735 Signal Request Message (SRM) and Signal Status Message (SSM) and the use of a Wireless Access in Vehicular Environments (WAVE) Service Advertisement (WSA) to advertise support for TSPP at a CI. Included are a concept of operations, requirements, design, and message structure definitions developed using a detailed systems engineering process.&lt;/p&gt;
+
+
+    &lt;p&gt;NOTE 1: During the report development, the concept of the intelligence regarding the need for TSPP residing in the CV or the CI was discussed, e.g., a CV that can determine what it needs to support its current and/or future actions and can provide that information to the CI versus a CV that only provides information about its current actions and the CI determines what the CV needs. In general, the approach taken in this version of the report is of the latter where the CV just provides information to the CI about its current state and the CI makes all the preferential treatment decisions. When more information is available regarding a CV’s ability to know what it needs regarding TSPP and what the data requirements are to provide that information to the CI, future revisions of this report may be made available to provide this functionality.&lt;/p&gt;
+
+
+    &lt;p&gt;NOTE 2: Given that this is the initial version of this report, the possibility exists that items will be uncovered by early adopters that necessitate changes. Should those changes require a break in backward compatibility with this version of the report, a versioning mechanism has been put in place whereby an application will know which version of this report a message is associated with. See 8.1 for the details on how this versioning mechanism is intended to work.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

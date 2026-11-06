@@ -1,0 +1,58 @@
+---
+id: SAEAIR5744
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Thermal Management System Engineering
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5744
+- type: src
+  content: https://saemobilus.sae.org/standards/air5744-aircraft-thermal-management-system-engineering
+docidentifier:
+- content: SAE AIR5744
+  type: SAE
+  primary: true
+- content: 10.4271/air5744
+  type: DOI
+date:
+- type: approved
+  at: '2020-10-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The intent of this report is to encourage that the thermal management system architecture be designed from a global platform perspective. Separate procurements for air vehicle, propulsion system, and avionics have contributed to the development of aircraft that are sub-optimized from a thermal management viewpoint. In order to maximize the capabilities of the aircraft for mission performance and desired growth capability, overall system efficiency and effectiveness should be considered. This document provides general information about aircraft Thermal Management System Engineering (TMSE). The document also discusses approaches to processes and methodologies for validation and verification of thermal management system engineering.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Thermal integration between the air vehicle, propulsion system, and avionics can be particularly important from a thermal management standpoint. Due to these factors, this report is written to encourage the development of a more comprehensive system engineering approach to help eliminate and/or reduce mission limitations as a result of materials and components nearing temperature limits.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

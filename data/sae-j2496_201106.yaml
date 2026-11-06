@@ -1,0 +1,57 @@
+---
+id: SAEJ2496_201106
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Transport Area Network Cabling
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2496_201106
+- type: src
+  content: https://saemobilus.sae.org/standards/j2496_201106-transport-area-network-cabling
+docidentifier:
+- content: SAE J2496_201106
+  type: SAE
+  primary: true
+- content: 10.4271/j2496_201106
+  type: DOI
+date:
+- type: approved
+  at: '2011-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This series of SAE Recommended Practices was developed to provide an open architecture system for on-board electronic systems. It is the intention of these documents to allow electronic devices to communicate with each other by providing a standard architecture. This particular document describes the Network Interface and Cabling which defines the requirements needed for communicating between devices that are on different segments of the SAE J2496 Transport Area Network. While these recommended practices may be used in retrofitting older vehicles, the primary intent is for implementation in new bus procurements.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,61 @@
+---
+id: SAEEIA408
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Interface between Numerical Control Equipment and Data Terminal Equipment
+    Employing Parallel Binary Data Interchange
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/eia408
+- type: src
+  content: https://saemobilus.sae.org/standards/eia408-interface-numerical-control-equipment-data-terminal-equipment-employing-parallel-binary-data-interchange
+docidentifier:
+- content: SAE EIA-408
+  type: SAE
+  primary: true
+- content: 10.4271/eia408
+  type: DOI
+date:
+- type: approved
+  at: '2016-06-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Systems Management Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard applies to the interconnection of data terminal equipment and numerical control equipment at the tape reader interface. The data terminal would typically be connected to a remote data source/sink such as a computer.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard defines:&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;This standard is applicable for the interchange of signals when used in conjunction with electronic equipment, each interchange circuit of which has a single return (signal ground) that can be interconnected at the interface point.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Figure 1.1&lt;/span&gt;, typical installation, shows how this standard should be applied to a typical tape reader interface of numerical control equipment.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,62 @@
+---
+id: SAEAS79284D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TERMINALS, LUG AND SPLICES, CONDUCTOR, CRIMP STYLE, COPPER TERMINAL, LUG,
+    INSULATED, RING TONGUE, BELL-MOUTHED, TYPE II, CLASS 1 (FOR 150 °C TOTAL CONDUCTOR
+    TEMPERATURE)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as7928/4d
+- type: src
+  content: https://saemobilus.sae.org/standards/as79284d-terminals-lug-splices-conductor-crimp-style-copper-terminal-lug-insulated-ring-tongue-bell-mouthed-type-ii-class-1-150-c-total-conductor-temperature
+docidentifier:
+- content: SAE AS7928/4D
+  type: SAE
+  primary: true
+- content: 10.4271/as7928/4d
+  type: DOI
+date:
+- type: approved
+  at: '2025-12-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C2 Terminating Devices and Tooling Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

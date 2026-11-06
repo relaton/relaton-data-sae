@@ -1,0 +1,59 @@
+---
+id: SAEARP6205
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Transport Airplane Fuel System Lightning Protection
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6205
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6205-transport-airplane-fuel-system-lightning-protection
+docidentifier:
+- content: SAE ARP6205
+  type: SAE
+  primary: true
+- content: 10.4271/arp6205
+  type: DOI
+date:
+- type: approved
+  at: '2023-04-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-2 Lightning Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is intended to be a user’s manual to AC 25.954-1 on acceptable means of compliance for applicants with regards to § 25.954 at Amendment 25-146 and to encourage a consistent approach to be applied across industry. This document is also intended to be a user’s manual to AMC 25.954 on acceptable means of compliance for applicants with regards to EASA CS 25.954 at Amendment 26. The FAA &lt;i&gt;Advisory Circular&lt;/i&gt; (AC) and the EASA &lt;i&gt;Acceptable Means of Compliance&lt;/i&gt; (AMC) documents appear to provide equivalent guidance, using identical wording in most sections.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Applicants should coordinate with their certifying authority to ensure that their proposed approach is acceptable, and the means of compliance and compliance data planned are sufficient for certification. It is recommended that the applicant verify that use of the guidance in this document is acceptable to their certifying authority. Further recommendations regarding coordination with the certification authority are provided throughout this ARP.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The section numbering and titles of this document have been structured to match the main section numbers in AC 25.954-1 to allow the user to easily find the supplemental guidance for each individual section relative to the corresponding section of the AC. One exception was necessary; SAE requires that &lt;span class="xref"&gt;Section 2&lt;/span&gt; of ARP be “References,” whereas FAA uses &lt;span class="xref"&gt;Section 2&lt;/span&gt; for “Applicability” (with respect to the AC itself). Guidance regarding “Applicability” of the FAA regulation and associated AC is located in &lt;span class="xref"&gt;3.1&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The section numbering and formatting of the EASA document, AMC 25.954, is different than the AC and this ARP (ED), because the AMC has fewer major sections than the AC, however, the subsection numbering is similar. Where generic reference in this ARP (ED) to the AC and AMC is provided, both document numbers are generally shown. Where specific sections of the AC are referred to, the AMC number and applicable section are omitted; however, it appears to the writers of this document that the regulatory guidance from both the FAA and EASA is equivalent.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

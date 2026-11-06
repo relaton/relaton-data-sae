@@ -1,0 +1,48 @@
+---
+id: SAEAS9902A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PLUG, MACHINE THREAD DRILLED, PREFORMED PACKING MIL-S-8879 THREAD
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9902a
+- type: src
+  content: https://saemobilus.sae.org/standards/as9902a-plug-machine-thread-drilled-preformed-packing-mil-s-8879-thread
+docidentifier:
+- content: SAE AS9902A
+  type: SAE
+  primary: true
+- content: 10.4271/as9902a
+  type: DOI
+date:
+- type: approved
+  at: '2003-10-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

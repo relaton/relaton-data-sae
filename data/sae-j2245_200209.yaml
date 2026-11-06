@@ -1,0 +1,74 @@
+---
+id: SAEJ2245_200209
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Recommended Practice for Splash and Spray Evaluation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2245_200209
+- type: src
+  content: https://saemobilus.sae.org/standards/j2245_200209-recommended-practice-splash-spray-evaluation
+docidentifier:
+- content: SAE J2245_200209
+  type: SAE
+  primary: true
+- content: 10.4271/j2245_200209
+  type: DOI
+date:
+- type: approved
+  at: '2002-09-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Total Vehicle Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice provides general guidelines for measuring the splash and spray produced by vehicles operating over wet pavements. The guidelines describe both the video digitizing and the laser methods of analysis. The video-digitizing method uses video images and contrast measurements between black and white checkerboards when a spray cloud is superimposed on them as a means of measuring the obscuring spray. The laser method uses laser transmittance through the spray cloud as the means of measurement. It is left to the users of this practice to decide which method is best suited to their needs. There is no implied relationship between these two methods, although it is expected that the ranking of relative spray reduction between test vehicle configurations would be approximately the same. All sections listed in this document are to be considered as common to both methods, unless otherwise noted.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;There are complex interactions of variables that affect splash and spray, and by its nature, it is a very chaotic, turbulent phenomenon. This document attempts to address these variables as completely as they are understood at this time. Until they are better understood, it is necessary to limit this recommended test procedure to the following conditions:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;It only applies to “A-B” comparisons done under the “same” conditions as outlined in the test procedure.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Tests done at different sites may not necessarily be comparable, depending on the exact conditions and specific site locations at the time of the tests.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Because uncontrollable variables such as wind speed and direction, water depth, humidity, and temperature can have a profound effect on measured results, small differences (on the order of 10 to 15%) in measured splash and spray may not be meaningful and the relevance of such small measured differences should be viewed with caution.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Results from the testing should be reported as the difference between the 95% confidence bands and not as the differences between averages.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Each configuration tested shall have a separate value with 95% confidence bands reported for each of eight wind conditions using the downwind rule, as outlined in the data reduction.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;This shall ensure that the variability of each wind condition is accounted for with the 95% confidence bands and compared as separate data sets. The results shall in no way be misrepresented as absolute numbers.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

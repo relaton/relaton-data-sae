@@ -1,0 +1,58 @@
+---
+id: SAEAIR6160
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Magnesium Alloys in Aircraft Seats - Developments in Magnesium Alloy Flammability
+    Testing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6160
+- type: src
+  content: https://saemobilus.sae.org/standards/air6160-magnesium-alloys-aircraft-seats-developments-magnesium-alloy-flammability-testing
+docidentifier:
+- content: SAE AIR6160
+  type: SAE
+  primary: true
+- content: 10.4271/air6160
+  type: DOI
+date:
+- type: approved
+  at: '2014-05-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aircraft Seat Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides informational background, rationale and a technical case to allow consideration of the removal of the magnesium alloy restriction in aircraft seat construction as contained in AS8049B. The foundation of this argument is flammability characterization work performed by the FAA at the William J. Hughes Technical Center (FAATC), Fire Safety Branch in Atlantic City, New Jersey, USA. The rationale and detailed testing results are presented along with flammability reports that have concluded that the use of specific types of magnesium alloys in aircraft seat construction does not increase the hazard level potential in the passenger cabin in a post-crash fire scenario. Further, the FAA has developed a lab scale test method, reference DOT/FAA/TC-13/52, to be used as a certification test, or method of compliance (MOC) to allow acceptability of the use of magnesium in the governing TSO-C127 and TSO-C39C.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Other flammability studies are also cited in the AIR document to substantiate the FAA findings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

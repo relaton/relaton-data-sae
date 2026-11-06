@@ -1,0 +1,60 @@
+---
+id: SAEAS13002
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Requirements for Developing and Qualifying Alternate Inspection Frequency
+    Plans
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as13002
+- type: src
+  content: https://saemobilus.sae.org/standards/as13002-requirements-developing-qualifying-alternate-inspection-frequency-plans
+docidentifier:
+- content: SAE AS13002
+  type: SAE
+  primary: true
+- content: 10.4271/as13002
+  type: DOI
+date:
+- type: approved
+  at: '2015-03-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-22 Aerospace Engine Supplier Quality (AESQ) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document covers the process to be applied to design characteristics (as defined in AS9102), parts or inspection processes as defined by the purchaser. Design characteristics not included within the scope include electronic, electromechanical or mechanical systems where alternative means of acceptance are approved such as through acceptance test procedures (ATPs). This document does not define processes for identifying or communicating the classification of the parts or design characteristics.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not define the procedure to qualify a supplier to undertake these requirements. It is expected that each purchaser will have a procedure to manage the flow-down of these requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document applies to suppliers that demonstrate adequate proficiency in applicable process control methods as determined by the purchaser.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

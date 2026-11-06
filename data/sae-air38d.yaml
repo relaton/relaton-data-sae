@@ -1,0 +1,58 @@
+---
+id: SAEAIR38D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guide for the Design of Threaded Screw or Stud Type Electrical Equipment
+    Terminations
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air38d
+- type: src
+  content: https://saemobilus.sae.org/standards/air38d-guide-design-threaded-screw-stud-type-electrical-equipment-terminations
+docidentifier:
+- content: SAE AIR38D
+  type: SAE
+  primary: true
+- content: 10.4271/air38d
+  type: DOI
+date:
+- type: approved
+  at: '2023-06-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C2 Terminating Devices and Tooling Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;To establish design recommendations that will provide a basis for safe and reliable connections to threaded screw-type or stud-type electrical equipment terminations. These recommendations are directed primarily, but not solely, to the aerospace and ground support equipment industries.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Since individual design criteria may alter the details as outlined, it is therefore important that this SAE Aerospace Information Report (AIR) not be considered mandatory but be used only as a design guidance.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

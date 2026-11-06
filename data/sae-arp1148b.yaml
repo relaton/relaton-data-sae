@@ -1,0 +1,64 @@
+---
+id: SAEARP1148B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Ground Electrical Power Unit, Transportable 115/200 Volt AC (Nominal) 400
+    Hertz, 3-Phase 4-Wire (Grounded Neutral) Y-Connected System
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1148b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1148b-ground-electrical-power-unit-transportable-115-200-volt-ac-nominal-400-hertz-3-phase-4-wire-grounded-neutral-y-connected-system
+docidentifier:
+- content: SAE ARP1148B
+  type: SAE
+  primary: true
+- content: 10.4271/arp1148b
+  type: DOI
+date:
+- type: approved
+  at: '2013-10-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: <p>This Recommended Practice outlines the electrical performance characteristics
+    for a continuous duty, diesel or gasoline engine driven brushless alternator unit
+    for supplying 400-Hertz electrical power to  commercial transport aircraft. It
+    is intended to assist the airlines in standardizing recommendations for various
+    sizes and configurations of  equipment and it is a guide for the preparation of
+    detailed specifications. The unit is primarily intended to supply power to the  aircraft
+    during passenger loading and unloading, and during servicing  operations. The
+    combination of the equipment specified herein and the interconnecting cables(s)
+    between the 400-Hertz alternator and the aircraft shall provide power characteristics
+    at the aircraft receptacle which meet MIL-STD-704 requirements for Category "B"
+    equipment. Other  limits which are necessary to meet specific conditions must
+    be specified by the purchaser.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

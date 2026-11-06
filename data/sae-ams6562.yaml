@@ -1,0 +1,57 @@
+---
+id: SAEAMS6562
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Medium Temperature, Out-of-Autoclave, Oven-Vacuum-Bag Cure Epoxy Resin
+    Impregnated Fiber Reinforced Composite Materials
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6562
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6562-medium-temperature-autoclave-oven-vacuum-bag-cure-epoxy-resin-impregnated-fiber-reinforced-composite-materials
+docidentifier:
+- content: SAE AMS6562
+  type: SAE
+  primary: true
+- content: 10.4271/ams6562
+  type: DOI
+date:
+- type: approved
+  at: '2023-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P17 Polymer Matrix Composites Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this specification is to allow procurement of defined carbon fiber and fiberglass epoxy prepreg materials corresponding to their statistically derived material properties published in CMH-17 (formerly MIL-HDBK-17). As a result, no qualification or equivalency threshold values are provided. Users that intend to conduct a new material qualification or equivalency program shall notify the Qualifying Agency per &lt;span class="xref"&gt;4.2.1&lt;/span&gt;.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

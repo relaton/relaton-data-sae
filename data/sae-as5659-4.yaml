@@ -1,0 +1,56 @@
+---
+id: SAEAS56594
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Physical Layer Specification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5659/4
+- type: src
+  content: https://saemobilus.sae.org/standards/as56594-physical-layer-specification
+docidentifier:
+- content: SAE AS5659/4
+  type: SAE
+  primary: true
+- content: 10.4271/as5659/4
+  type: DOI
+date:
+- type: approved
+  at: '2023-11-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Standard (AS) 5659/4 Physical Layer Specification provides guidance for the physical layer of optical networks which use Wavelength Division Multiplexing (WDM), within the AS5659 WDM LAN specification document family. The physical layer consists of the optical interconnections between the functional components of the network. Performance requirements for general interconnections are described. For guidance, standards are identified, corresponding to each of several environments, which describe physical layer design, installation, maintenance, and training.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

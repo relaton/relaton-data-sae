@@ -1,0 +1,88 @@
+---
+id: SAEEIA748D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Earned Value Management Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/eia748d
+- type: src
+  content: https://saemobilus.sae.org/standards/eia748d-earned-value-management-systems
+docidentifier:
+- content: SAE EIA-748D
+  type: SAE
+  primary: true
+- content: 10.4271/eia748d
+  type: DOI
+date:
+- type: approved
+  at: '2019-01-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-47 Systems Engineering
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;An Earned Value Management System (EVMS) for integrated program management will effectively integrate the work scope of a program with the schedule and cost elements for optimum program planning and control. The primary purpose of the system is to support integrated program management. The system is owned by the organization and is governed by the organization’s policies and procedures. The principles of an EVMS are:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Plan all work scope for the program to completion.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Break down the program work scope into finite pieces that are assigned to a responsible person or organization for control of technical, schedule and cost objectives.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Integrate program work scope, schedule, and cost objectives into a performance measurement baseline plan against which accomplishments are measured. Control changes to the baseline.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Use actual costs incurred and recorded in accomplishing the work performed.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Objectively assess accomplishments at the work performance level.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Analyze significant variances from the plan, forecast impacts, and prepare an estimate at completion based on performance to date and the remaining work to be performed.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Use the EVMS information in the organization’s management processes.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;The essence of earned value management is that a target planned value (i.e., budget) is established for each scheduled element of work at a level of detail appropriate for the degree of risk for the technical, schedule, and cost or uncertainty associated with the program. As these elements of work are completed, their target planned values are “earned”. As such, work progress is quantified, and the earned value becomes a representation of accomplishment against which to measure what was spent to perform the work and what was scheduled.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Schedule variances, which cannot be seen in a stand-alone budget versus actual cost tracking system, are isolated and quantified, and the cost variances are true cost variances that are not distorted by schedule performance. This provides for early identification of performance trends and variances from the management plan and allows management decision making while there is adequate time to implement effective corrective actions. Without earned value, one can only compare planned expenditures with how much has been spent, which does not provide an objective indication of how much of the planned work was actually accomplished.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For the benefits of earned value to be fully realized, comprehensive planning at the outset that includes a thorough risk and opportunity analysis, combined with the establishment and disciplined maintenance of a baseline for performance measurement are required. This combination of comprehensive planning, baseline maintenance, and earned value analysis yields earlier and better visibility into program performance than is provided by non-integrated methods of planning and control. This enhances overall program management value through decisions based on the use of EVMS information.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The intent is to provide management information using the organization’s resources and a properly scaled EVMS application that achieves the program requirements and is compliant with the EVMS principles. EVMS scalability is viewed as a spectrum employing the principles of EVMS as fundamental to all programs and the EVMS guidelines (&lt;span class="xref"&gt;Section 2&lt;/span&gt;) as applicable to large complex or high-risk programs. This scalability allows any program, regardless of size and complexity, to realize the benefits of earned value management.&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;Note 1:&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;In the context of this standard, a program is a group of related projects supporting a mission that are managed in a coordinated way to obtain benefits not obtained from managing them individually. As the management principles are the same to achieve success, the two terms, program and project, are used interchangeably in this standard.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;Note 2:&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;An objective of this standard is the planning and performance measurement of program work scope in a manner that enables efficient integrated program management. As the management principles of planning and performance measurement are detailed throughout this standard, the terms “effort”, “scope”, “work,” “work scope,” and “program work scope” are used interchangeably.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;Note 3:&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;In the context of this standard, “organization” is used as a generic term and may include but is not limited to: public and private corporations and companies, Federal government agencies, departments and activities, state and local government entities, Federally Funded Research and Development Centers (FFRDC) and similar organizations, educational institutions, and non-profit entities that are likely to be owners of earned value management systems.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;Note 4:&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;There are occasions where it is beneficial for complementary systems or methodologies (e.g., Enterprise/Manufacturing Resource Planning, Agile Software Development, Theory of Constraints) to interface with the EVM System. These complimentary systems or methodologies can be used to deliver functionality and value to the customer while EVM provides a standardized method for measuring progress and reporting across the contract. The EVMS documentation should describe the interface content as well as the recurring control process to maintain data conformance and system compliance.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

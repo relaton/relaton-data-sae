@@ -1,0 +1,56 @@
+---
+id: SAEAIR6183
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Procedures for the Calculation of Airplane Fuel Consumption
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6183
+- type: src
+  content: https://saemobilus.sae.org/standards/air6183-procedures-calculation-airplane-fuel-consumption
+docidentifier:
+- content: SAE AIR6183
+  type: SAE
+  primary: true
+- content: 10.4271/air6183
+  type: DOI
+date:
+- type: approved
+  at: '2022-09-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-21 Aircraft Noise Measurement Aviation Emission Modeling
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) describes procedures for calculating fuel consumption for civil jet airplanes through all modes of operation for all segments of a flight. Turboprop and piston airplanes, as well as helicopters or unconventional aircraft, are not included in this AIR. The principle purpose of these procedures is to assist model developers in calculating airplane fuel consumption in a consistent and accurate manner that can be used to address various environmental assessments including those related to policy decisions and regulatory requirements. This AIR is intended to directly support the emission calculations documented in AIR5715. The models described in this AIR are intended to be used from the start of the takeoff roll to the end of the ground roll; taxi fuel consumption models are not included. If modelers have access to higher fidelity methods, they should use those methods in lieu of the ones in this AIR.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

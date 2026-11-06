@@ -1,0 +1,71 @@
+---
+id: SAEJ1321_202512
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fuel Consumption Test Procedure - Type II
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1321_202512
+- type: src
+  content: https://saemobilus.sae.org/standards/j1321_202512-fuel-consumption-test-procedure-type-ii
+docidentifier:
+- content: SAE J1321_202512
+  type: SAE
+  primary: true
+- content: 10.4271/j1321_202512
+  type: DOI
+date:
+- type: approved
+  at: '2025-12-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Aerodynamics and Fuel Economy Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes a rigorous-engineering fuel-consumption test procedure that utilizes industry accepted data collection and statistical analysis methods to determine the change in fuel consumption for trucks and buses with gross vehicle weight rating (GVWR) of more than 10000 pounds, equipped with internal combustion engines using diesel, gasoline, or their liquid substitutes. The test procedure may be conducted on a test track or on a public road under controlled conditions and supported by extensive data collection and data analysis constraints. The on-road test procedure is offered as a lower cost alternative to on-track testing, but the user is cautioned that on-road test may result in lower resolution (or precision) data due to a lack of control over the test environment. Test results that do not rigorously follow the method described herein are not intended for public use and dissemination and shall not be represented as an SAE J1321-Type II test result. This document provides information that may be used in concert with SAE Recommended Practices SAE J1252, SAE J1264, SAE J1526, and SAE J2084, as well as additional current and future aerodynamic and vehicle performance SAE Standards.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

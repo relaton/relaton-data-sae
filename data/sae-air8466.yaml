@@ -1,0 +1,62 @@
+---
+id: SAEAIR8466
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hydrogen Fueling Stations for Airports, in Both Gaseous and Liquid Form
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air8466
+- type: src
+  content: https://saemobilus.sae.org/standards/air8466-hydrogen-fueling-stations-airports-gaseous-liquid-form
+docidentifier:
+- content: SAE AIR8466
+  type: SAE
+  primary: true
+- content: 10.4271/air8466
+  type: DOI
+date:
+- type: approved
+  at: '2024-11-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5C Aviation Ground Fueling Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this AIR is to establish a baseline for hydrogen fueling protocol and process limits for both gaseous and liquid hydrogen fueling of aircraft (eCTOL, eRotor, eVTOL, LTA) at the airport from small aircraft to wide-body. A further goal is to harmonize and establish common aircraft fueling safety definitions wherever possible with other SAE and EUROCAE standards and NFPA codes alike.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Hydrogen fueling process limits (including the fuel temperature, the maximum flow rate, time required, etc.) are affected by factors such as ambient temperature, fuel delivery temperature, and initial pressure in the hydrogen storage system. The further goal is to establish basic fueling protocols within these limits as a starting point while evaluating minimum criteria, including evaluation of fueling with or without communications. AIR8466 establishes the protocol and process limits for hydrogen fueling of aircraft and plans to establish fueling protocols starting with small aircraft. Optionally, communications may be used, and a general description will be included.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Gaseous hydrogen fueling and liquid hydrogen fueling at cryogenic temperatures are two very different types of fuel stored in different types of vessels with safety mitigations. The goal is to start with an all-encompassing AIR for hydrogen fueling, both gaseous and liquid, and, after publishing, establish a family of documents covering categories of fueling as determined by the SAE AE-5CH team.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;To minimize storage volumes, compressed hydrogen gas stored under pressure up to 700 bar (70 MPa) achieves 39.5 kg per m&lt;sup&gt;3&lt;/sup&gt;, or as a cryogenic liquid 20 K achieves 71 kg per m&lt;sup&gt;3&lt;/sup&gt;. Other methodologies of liquified hydrogen, such as subcooled liquid or cryo-compressed, offer the potential for higher storage densities (the latter is not covered in this document).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Figure 1&lt;/span&gt; compares the volumetric and gravimetric densities of hydrocarbon fuels as well as the most common hydrogen storage methods in liquid and gaseous hydrogen and three types of hydrogen storage with different hydrogen density versus phases, pressure, and temperature (gaseous hydrogen, liquid hydrogen, and cryo-compressed).&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;Presently, there are established codes and standards for ground vehicles at SAE, ISO, NFPA, etc., that could also be applicable to some applications for hydrogen at the airport. While there are some existing fuel cell and hydrogen standards for aerospace (such as SAE/EUROCAE information reports), there is a need to create new fueling station standardization efforts, which are outlined herein. The volume of hydrogen required will depend on the pressure and phase (ambient gaseous or cryogenic liquid) and the size of aircraft. Therefore, a series of ground standards will be required to cover the phase, thermal, and pressure variables.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

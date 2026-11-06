@@ -1,0 +1,49 @@
+---
+id: SAEAMS7716B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL SHEET AND STRIP, FLAT-ROLLED, ELECTRICAL, ORIENTED 3.15Si AISI Types
+    M-4, M-5, and M-6, Fully Processed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7716b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7716b-steel-sheet-strip-flat-rolled-electrical-oriented-315si-aisi-types-m-4-m-5-m-6-fully-processed
+docidentifier:
+- content: SAE AMS7716B
+  type: SAE
+  primary: true
+- content: 10.4271/ams7716b
+  type: DOI
+date:
+- type: approved
+  at: '1978-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

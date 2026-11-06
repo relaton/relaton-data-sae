@@ -1,0 +1,56 @@
+---
+id: SAECMB6_4
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Configuration Control
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/cmb6_4
+- type: src
+  content: https://saemobilus.sae.org/standards/cmb6_4-configuration-control
+docidentifier:
+- content: SAE CMB6-4
+  type: SAE
+  primary: true
+- content: 10.4271/cmb6_4
+  type: DOI
+date:
+- type: approved
+  at: '2014-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-33 Configuration Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Interface Control Plan establishes a program for interface control among the major segments/equipments of a DoD program. This could be an airborne weapon system, Medium Launch Vehicle System, Space Launch Complex System, etc. The program is based on formal agreements between participating organizations, and includes (1) documentation to establish, define and control interface requirements and to detail interface design definition between system segments, (2) interface management under the purview of the Interface Management Boards (IMB) and (3) interface control, through Interface Control Working Groups (ICWGs). The plan establishes the IMB and ICWG policy and procedures. Furthermore, it sets forth the Government Agencies Program Offices, associate contractors and participating Government Agency responsibilities in support of the Interface Control Program and the conduct of interface management/control through the IMBs, and ICWGs.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

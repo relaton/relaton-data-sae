@@ -1,0 +1,62 @@
+---
+id: SAEAS850498D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CONNECTOR ACCESSORIES, ELECTRICAL, BACKSHELL, ENVIRONMENTAL, CABLE SEALING,
+    90°, SHIELD TERMINATION, CATEGORY 1A (FOR AS50151 CRIMP, MIL-DTL-26482 SERIES
+    2, AS81703 SERIES 3, AND MIL-DTL-83723 SERIES III CONNECTORS)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as85049/8d
+- type: src
+  content: https://saemobilus.sae.org/standards/as850498d-connector-accessories-electrical-backshell-environmental-cable-sealing-90-shield-termination-category-1a-as50151-crimp-mil-dtl-26482-series-2-as81703-series-3-mil-dtl-83723-series-iii-connectors
+docidentifier:
+- content: SAE AS85049/8D
+  type: SAE
+  primary: true
+- content: 10.4271/as85049/8d
+  type: DOI
+date:
+- type: approved
+  at: '2026-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C1 Connectors Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEJ3252_202308
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Process for Developing an Interoperable Cooperative Driving Use Case Test
+    Framework and Test Procedures
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3252_202308
+- type: src
+  content: https://saemobilus.sae.org/standards/j3252_202308-process-developing-interoperable-cooperative-driving-use-case-test-framework-test-procedures
+docidentifier:
+- content: SAE J3252_202308
+  type: SAE
+  primary: true
+- content: 10.4271/j3252_202308
+  type: DOI
+date:
+- type: approved
+  at: '2023-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Cooperative Driving Automation(CDA) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report provides the process for developing a flexible test framework to support the creation of system-level cooperative driving automation (CDA) Feature test procedures, which are intended to be objective, repeatable, and transparent, and enable collaborative testing of the Feature. Utilizing a Feature’s functional and logical scenario details, it provides the building blocks necessary to develop cooperative automated driving system (C-ADS)-equipped vehicle (C-ADS-V) and CDA infrastructure (CDA-I) system diagrams, identify the interfaces to and from the systems, and identify the set of functional test support components specific to the CDA Feature. Utilizing these details, along with the Feature-specific concrete scenarios, a method for developing a test scope and system level use-case-focused test procedures is provided.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

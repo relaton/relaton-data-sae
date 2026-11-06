@@ -1,0 +1,74 @@
+---
+id: SAEAMS3915B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Advanced Composites Prepreg - Nominal 250 °F (121 °C) Cure - Glass Fiber
+    and Epoxy Resin, 7781 Weave Fabric
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3915b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3915b-advanced-composites-prepreg-nominal-250-f-121-c-cure-glass-fiber-epoxy-resin-7781-weave-fabric
+docidentifier:
+- content: SAE AMS3915B
+  type: SAE
+  primary: true
+- content: 10.4271/ams3915b
+  type: DOI
+date:
+- type: approved
+  at: '2026-05-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P17 Polymer Matrix Composites Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The intent of this specification is for the procurement of 7781 glass fabric epoxy prepreg product with 250 °F (121 °C) cure for aerospace applications; therefore, no qualification or equivalency threshold values are provided. Users that intend to conduct a new material qualification or equivalency program must refer to the production quality assurance section (see &lt;span class="xref"&gt;4.3&lt;/span&gt;).&lt;/div&gt;
+
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

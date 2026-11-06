@@ -1,0 +1,57 @@
+---
+id: SAEAS81819A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Bearings, Plain, Self-Aligning, Self-Lubricating, High Speed Oscillation
+    -65 to +160 °F General Specification For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as81819a
+- type: src
+  content: https://saemobilus.sae.org/standards/as81819a-bearings-plain-self-aligning-self-lubricating-high-speed-oscillation-65-160-f-general-specification
+docidentifier:
+- content: SAE AS81819A
+  type: SAE
+  primary: true
+- content: 10.4271/as81819a
+  type: DOI
+date:
+- type: approved
+  at: '2017-11-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ACBG Plain Bearing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard covers the requirements for spherical, self-aligning, self-lubricating bearings which are for use in the ambient temperature range -65 to +160 °F (-54 to +71 °C) at high cyclic speeds. The scope of the standard is to provide a liner system qualification procedure for helicopter sliding bearings defined and controlled by source control drawings. Once a liner system is qualified the source-controlled bearings are further tested under application conditions.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

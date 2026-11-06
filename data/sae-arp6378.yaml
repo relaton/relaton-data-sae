@@ -1,0 +1,60 @@
+---
+id: SAEARP6378
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guidance on Mitigation Strategies Against Laser Illumination Effects
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6378
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6378-guidance-mitigation-strategies-laser-illumination-effects
+docidentifier:
+- content: SAE ARP6378
+  type: SAE
+  primary: true
+- content: 10.4271/arp6378
+  type: DOI
+date:
+- type: approved
+  at: '2018-06-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10OL Operational Laser Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is intended to give guidance to users, regulators and persons in the aviation field who may be affected by the potential visual interference effects of lasers aimed at aircraft by the general public. The potential effects include startle (distraction, disruption, disorientation, and operational incapacitation), glare, and flashblindness. This document provides mitigation strategies against such effects, including operational procedures, pilot education, and the use of Laser Glare Protection.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Prevention of harm from laser eye injuries is discussed but is not a focus of this document, due to the extremely low likelihood of injurious levels of laser light in typical aircraft illumination scenarios.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Devices for detecting and reporting hazardous laser illuminations are briefly described in &lt;span class="xref"&gt;Appendix D&lt;/span&gt;, but are not a focus of this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Some information in this document may also be useful for non-aviation users, such as persons driving vehicles. Additional information can be found in ANSI Z136.6, “Safe Use of Lasers Outdoors”.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

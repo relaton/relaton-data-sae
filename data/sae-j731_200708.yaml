@@ -1,0 +1,57 @@
+---
+id: SAEJ731_200708
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Component Nomenclature--Loader
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j731_200708
+- type: src
+  content: https://saemobilus.sae.org/standards/j731_200708-component-nomenclature-loader
+docidentifier:
+- content: SAE J731_200708
+  type: SAE
+  primary: true
+- content: 10.4271/j731_200708
+  type: DOI
+date:
+- type: approved
+  at: '2007-08-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: MTC1, Earthmoving Machinery
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This standard includes names of major components and parts peculiar to this type machine.
+
+    The illustrations are descriptive of the principles and are not intended to include all existing commercial machines.
+
+    Refer to SAE J1057 (July, 1973)?Identification Terminology of Earthmoving Machines for machine type.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

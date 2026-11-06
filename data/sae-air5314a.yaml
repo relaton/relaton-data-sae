@@ -1,0 +1,60 @@
+---
+id: SAEAIR5314A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Introduction to Generic Open Architecture (GOA) Family of Documents
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5314a
+- type: src
+  content: https://saemobilus.sae.org/standards/air5314a-introduction-generic-open-architecture-goa-family-documents
+docidentifier:
+- content: SAE AIR5314A
+  type: SAE
+  primary: true
+- content: 10.4271/air5314a
+  type: DOI
+date:
+- type: approved
+  at: '2018-05-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-2 Embedded Computing Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The Generic Open Architecture (GOA) Framework family of documents is organized into sets. This is the introductory document for those sets. The GOA family of documents is intended to support the development of affordable systems through the use of open systems concepts.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The GOA family of documents is intended to provide input for the systems engineering process. The documents are applicable to the analysis of existing architectures as well as the development of new system architectures using open systems concepts. The domain specific documents catalog appropriate interface standards and, along with the domain independent documents, define a technical architecture for an associated specific domain. In other words, they provide the “rules and regulations” (i.e., the “building codes”) to be used during the systems engineering process when developing a system architecture for use in that domain. Each domain specific set of documents includes recommended interface standards, rationale for those standards, and guidance in the application of those standards for a given analysis or development.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

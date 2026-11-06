@@ -1,0 +1,52 @@
+---
+id: SAECS1939_042012
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: J1939 Companion Spreadsheet
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/cs1939_042012
+- type: src
+  content: https://saemobilus.sae.org/standards/cs1939_042012-j1939-companion-spreadsheet
+docidentifier:
+- content: SAE CS1939_042012
+  type: SAE
+  primary: true
+- content: 10.4271/cs1939_042012
+  type: DOI
+date:
+- type: approved
+  at: '2013-01-11'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The J1939 Companion Spreadsheet is an easy-to-use Excel document which
+    supplements the J1939 standards family. It consists of parameters and parameter
+    groups contained in J1939 standards, including J1939-71, which can be easily searched
+    and sorted. \n\t\t\t\n\t\t\t\n&lt;ul&gt;&lt;li&gt;Data fields include:&lt;/li&gt;&lt;ul&gt;&lt;li&gt;PGN&lt;/li&gt;&lt;li&gt;Parameter
+    Group Label&lt;/li&gt;&lt;li&gt;PNG Length&lt;/li&gt;&lt;li&gt;Transmission Rate&lt;/li&gt;&lt;li&gt;SPN&lt;/li&gt;&lt;li&gt;SPN
+    Length&lt;/li&gt;&lt;li&gt;Description&lt;/li&gt;&lt;li&gt;Status of SPN&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

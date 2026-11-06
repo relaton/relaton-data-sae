@@ -1,0 +1,82 @@
+---
+id: SAEAS6296
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electronic Flight Instrument System (EFIS) Displays
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6296
+- type: src
+  content: https://saemobilus.sae.org/standards/as6296-electronic-flight-instrument-system-efis-displays
+docidentifier:
+- content: SAE AS6296
+  type: SAE
+  primary: true
+- content: 10.4271/as6296
+  type: DOI
+date:
+- type: approved
+  at: '2016-03-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4EFIS Electronic Flight Instrument System Display
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) specifies minimum performance standards for Electronic Flight Information System (EFIS) displays that are head-down and intended for use in the flight deck by the flight crew in all 14 CFR Part 23, 25, 27, and 29 aircraft. This document is expected to be used by multiple regulatory agencies as the basic requirement for a technical standard order for EFIS displays.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The requirements and recommendations in this document are intended to apply to, but are not limited to, the following types of display functions:
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Primary Flight and Primary Navigation displays, including vertical situation and horizontal situation functions.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Displays that provide flight crew alerts, which may include engine instrument, aircraft systems information/control.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Control displays including communication, navigation and system control displays.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Information displays, which may include navigation displays used for situation awareness only, supplemental data, and maintenance and documentation displays.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Display Systems including a Display Unit (display) and a symbol generator.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The display functions herein were based on the &lt;u&gt;&lt;i&gt;display aspects&lt;/i&gt;&lt;/u&gt; of functions covered by previous TSOs that included an end-to-end system, including sensors.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not address video display terminals or video monitors without the means to generate symbols. The symbol generating function may be contained within the display or may be external to the display unit and part of the display system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is &lt;u&gt;&lt;i&gt;not&lt;/i&gt;&lt;/u&gt; intended to address the display of single function equipment (e.g., airspeed). Two functions are required as a minimum.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not address the sensors or computational engines (e.g., TAWs computer, navigation computer, or TCAS processor) that transmit their data to the EFIS display.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;Functions that are &lt;u&gt;&lt;i&gt;not&lt;/i&gt;&lt;/u&gt; covered in this document include: Overspeed Warning; Air Traffic Control Radar Beacon System (ATCRBS)/Mode Select (Mode S); Automatic Dependent Surveillance - Broadcast (ADS-B); Traffic Information System - Broadcast (TIS-B); Electronic Map Display; Synthetic Vision; Enhanced Vision; Head-Up Displays (HUD); and Head Worn Displays (HWD).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does address the following types of control functions:
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Control functions related to the data presented on the EFIS display(s).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Control means that are integrated into the displays.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: This document is expected to be used for a technical standard order for EFIS displays. This document does not address the hardware, physical, or optical (ocular) requirements of the EFIS displays. Those requirements are addressed in AS8034B. This document is subject to change to keep pace with experience and technical advances.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Many functions often included in an EFIS in existing systems were considered for this MOPS. In general, the functions that were not included here were excluded because it was too complicated to extract and separate the display requirements from the sensor requirements. In other cases, the display requirements in the original MOPS were too extensive to add to this document without essentially replicating the original MOPS. Applicants will need to apply separately for approval for those functions.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

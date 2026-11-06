@@ -1,0 +1,57 @@
+---
+id: SAEJ2789_202304
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Inertia Calculation for Single-Ended Inertia-Dynamometer Testing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2789_202304
+- type: src
+  content: https://saemobilus.sae.org/standards/j2789_202304-inertia-calculation-single-ended-inertia-dynamometer-testing
+docidentifier:
+- content: SAE J2789_202304
+  type: SAE
+  primary: true
+- content: 10.4271/j2789_202304
+  type: DOI
+date:
+- type: approved
+  at: '2023-04-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Brake Dynamometer Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This procedure provides methods to determine the appropriate inertia values for all passenger cars and light trucks up to 4540 kg of GVWR. For the same vehicle application and axle (front or rear), different tests sections or brake applications may use different inertia values to reflect the duty-cycle and loading conditions indicated on the specific test.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

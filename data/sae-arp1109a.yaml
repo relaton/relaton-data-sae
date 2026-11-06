@@ -1,0 +1,58 @@
+---
+id: SAEARP1109A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: DYNAMIC TESTING SYSTEMS FOR OXYGEN BREATHING EQUIPMENT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1109a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1109a-dynamic-testing-systems-oxygen-breathing-equipment
+docidentifier:
+- content: SAE ARP1109A
+  type: SAE
+  primary: true
+- content: 10.4271/arp1109a
+  type: DOI
+date:
+- type: approved
+  at: '1987-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This ARP describes test equipment and methods used for testing continuous flow, demand and pressure demand regulators and their associated masks as well as filtered protective breathing devices; such articles of oxygen breathing or protective breathing equipment may be tested as individual components or as a complete system.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

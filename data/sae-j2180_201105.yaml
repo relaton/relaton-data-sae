@@ -1,0 +1,58 @@
+---
+id: SAEJ2180_201105
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: A Tilt Table Procedure for Measuring the Static Rollover Threshold for
+    Heavy Trucks
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2180_201105
+- type: src
+  content: https://saemobilus.sae.org/standards/j2180_201105-a-tilt-table-procedure-measuring-static-rollover-threshold-heavy-trucks
+docidentifier:
+- content: SAE J2180_201105
+  type: SAE
+  primary: true
+- content: 10.4271/j2180_201105
+  type: DOI
+date:
+- type: approved
+  at: '2011-05-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Total Vehicle Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The test procedure applies to roll coupled units such as straight trucks, tractor semitrailers, full trailers, B-trains, etc. The test is aimed at evaluating the level of lateral acceleration required to rollover a vehicle or a roll-coupled unit of a vehicle in a steady turning situation. Transient, vibratory, or dynamic rollover situations are not simulated by this test. Furthermore, the accuracy of the test decreases as the tilt angle increases, although this is a small effect at the levels of tilt angle used in testing heavy trucks. The test accuracy is accepted for vehicles that will rollover at lateral acceleration levels below 0.5 g corresponding to a tilt table angle of less than approximately 27 degrees. Even so, the results for heavy trucks with rollover thresholds greater than 0.5 g could be used for comparing their relative static roll stability.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

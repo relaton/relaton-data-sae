@@ -1,0 +1,56 @@
+---
+id: SAEAIR1216
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: COMPARISON OF GROUND-RUNUP AND FLYOVER NOISE LEVELS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1216
+- type: src
+  content: https://saemobilus.sae.org/standards/air1216-comparison-ground-runup-flyover-noise-levels
+docidentifier:
+- content: SAE AIR1216
+  type: SAE
+  primary: true
+- content: 10.4271/air1216
+  type: DOI
+date:
+- type: approved
+  at: '2002-12-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-21 Aircraft Noise Measurement Aviation Emission Modeling
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Because of the special circumstances under which these tests were conducted, it is necessary to carefully define the limitations on the validity of the results. The measurements and the comparisons reported here apply only to the specific locations of the noise sources and microphones and only for the specific weather and ground-surface conditions existing at the time of the tests. It cannot be assumed that these conditions are representative of most field measurements of aircraft exterior noise.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

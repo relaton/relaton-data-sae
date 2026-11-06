@@ -1,0 +1,63 @@
+---
+id: SAEJ26022_201211
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: LIN Network for Vehicle Applications Conformance Test
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2602/2_201211
+- type: src
+  content: https://saemobilus.sae.org/standards/j26022_201211-lin-network-vehicle-applications-conformance-test
+docidentifier:
+- content: SAE J2602/2_201211
+  type: SAE
+  primary: true
+- content: 10.4271/j2602/2_201211
+  type: DOI
+date:
+- type: approved
+  at: '2012-11-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Architecture For Data Communications Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document covers the tests to be performed on all SAE J2602-1 defined Master and Slave nodes. Tests described in this document will ensure a minimum standard level of performance to which all compatible Electronic Control Unit (ECUs) and media shall be designed. This will assure full serial data communication among all connected devices regardless of supplier.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The goal of SAE J2602-2 is to improve the interoperability and interchangeability of LIN devices within a network by verifying the devices pass a minimum set of tests.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;To allow for easy cross-reference, this document is arranged such that the conformance test for a given section in SAE J2602-1 is in the same section in SAE J2602-2.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is to be referenced by the particular vehicle Original Equipment Manufacturer (OEM) component technical specification that describes any given ECU in which the LIN data link controller and physical layer interface is located. Primarily, the performance of the physical layer is specified in this document. ECU environmental and other requirements, when provided in the component technical specification, shall supersede the requirements of this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The intended audience includes, but is not limited to, ECU suppliers, LIN controller suppliers, LIN transceiver suppliers, component release engineers and vehicle system engineers.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

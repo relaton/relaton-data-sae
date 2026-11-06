@@ -1,0 +1,48 @@
+---
+id: SAEAS3291A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: NUT, SELF-LOCKING, DOUBLE HEXAGON, AMS5709 (UNS N07001), 180 KSI
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as3291a
+- type: src
+  content: https://saemobilus.sae.org/standards/as3291a-nut-self-locking-double-hexagon-ams5709-uns-n07001-180-ksi
+docidentifier:
+- content: SAE AS3291A
+  type: SAE
+  primary: true
+- content: 10.4271/as3291a
+  type: DOI
+date:
+- type: approved
+  at: '2019-08-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

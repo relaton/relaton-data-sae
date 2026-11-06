@@ -1,0 +1,57 @@
+---
+id: SAEJ2730_201309
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Dynamic Cleat Test with Perpendicular and Inclined Cleats
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2730_201309
+- type: src
+  content: https://saemobilus.sae.org/standards/j2730_201309-dynamic-cleat-test-perpendicular-inclined-cleats
+docidentifier:
+- content: SAE J2730_201309
+  type: SAE
+  primary: true
+- content: 10.4271/j2730_201309
+  type: DOI
+date:
+- type: approved
+  at: '2013-09-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Dynamics Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice describes a test method for measuring the forces and moments generated at a high frequency response spindle when a rolling tire impacts a cleat. The cleat is configured either with its crest perpendicular, 90°, to the path of the tire or optionally with its crest inclined at an angle to the path of the tire. The carriage to which the spindle is attached is rigidly constrained in position during each test condition so as to provide a good approximation to fixed loaded radius operation. The method discussed in this document provides impact force and moment time histories essentially free from variations due to tire non-uniformities. The method applies to any size tire so long as the equipment is properly scaled to conduct the measurements for the intended test tire. The data are suitable for use in determining parameters for road load models and for comparative evaluations of the measured properties in research and development.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: Herein, road load models are models for predicting forces applied to the vehicle spindles during operation over irregular surfaces, paved or otherwise. Within the context of this document, forces applied to the road or terrain surface are not considered.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

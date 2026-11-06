@@ -1,0 +1,59 @@
+---
+id: SAEAMS5622F
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Corrosion-Resistant, Bars, Wire, Forgings, Tubing, and Rings 16Cr
+    - 4.0Ni - 0.30Cb - 4.0Cu Solution Heat Treated, Precipitation Hardenable Consumable
+    Electrode Remelted
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5622f
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5622f-steel-corrosion-resistant-bars-wire-forgings-tubing-rings-16cr-40ni-030cb-40cu-solution-heat-treated-precipitation-hardenable-consumable-electrode-remelted
+docidentifier:
+- content: SAE AMS5622F
+  type: SAE
+  primary: true
+- content: 10.4271/ams5622f
+  type: DOI
+date:
+- type: approved
+  at: '2013-08-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a premium aircraft-quality corrosion-resistant steel in the form of bars, wire, forgings, mechanical tubing, flash welded rings in the solution heat treated condition (See &lt;span class="xref"&gt;8.4&lt;/span&gt;), and stock for forging, flash welded rings, or heading.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

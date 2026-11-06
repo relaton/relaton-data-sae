@@ -1,0 +1,56 @@
+---
+id: SAEEIA681
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Assessment Guide for Process Certification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/eia681
+- type: src
+  content: https://saemobilus.sae.org/standards/eia681-assessment-guide-process-certification
+docidentifier:
+- content: SAE EIA-681
+  type: SAE
+  primary: true
+- content: 10.4271/eia681
+  type: DOI
+date:
+- type: approved
+  at: '2016-05-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Systems Management Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Assessment Guide is applicable to any assessment technique that wishes to embrace the principles and concepts presented in the EIA-599 National Electronic Process Certification Standard.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

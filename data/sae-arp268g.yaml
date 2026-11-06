@@ -1,0 +1,59 @@
+---
+id: SAEARP268G
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Location and Actuation of Flight Deck Controls for Transport Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp268g
+- type: src
+  content: https://saemobilus.sae.org/standards/arp268g-location-actuation-flight-deck-controls-transport-aircraft
+docidentifier:
+- content: SAE ARP268G
+  type: SAE
+  primary: true
+- content: 10.4271/arp268g
+  type: DOI
+date:
+- type: approved
+  at: '1986-11-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The purpose of this document is to set forth the recommendations of
+    SAE Committee S-7 relative to the location and actuation of flight deck controls.
+    These recommendations are intended to minimize confusion and distraction and thereby
+    reduce transition training time, crew errors, fatigue, and other factors detrimental
+    to flight safety and efficiency. In arriving at these recommendations, the committee
+    carefully reviewed the work of the flight deck layout panel of the Aircraft Committee
+    of the Munitions Board, the recommendations and requirements of the Civil Aeronautics
+    Board, the Federal Aviation Agency, the requirements of the airline operators,
+    the aircraft manufacturers, etc.  In cases where conflicting opinions existed,
+    suitable compromises were made. The recommendations of this document apply to
+    commercial type, multi-engine transport aircraft which utilize reciprocating or
+    turbine type powerplants and which are operated in subsonic, transonic, or supersonic
+    speed regimes.  These recommendations are not intended to apply to V/STOL configurations.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

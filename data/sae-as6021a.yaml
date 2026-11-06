@@ -1,0 +1,58 @@
+---
+id: SAEAS6021A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AS6021 Aerospace Fiber Optic Cable Assembly Drawing Specification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6021a
+- type: src
+  content: https://saemobilus.sae.org/standards/as6021a-as6021-aerospace-fiber-optic-cable-assembly-drawing-specification
+docidentifier:
+- content: SAE AS6021A
+  type: SAE
+  primary: true
+- content: 10.4271/as6021a
+  type: DOI
+date:
+- type: approved
+  at: '2020-12-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) defines the items that shall be considered when creating a fiber optic cable assembly specification and source control drawing intended for installation on aerospace platforms.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

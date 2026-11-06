@@ -1,0 +1,57 @@
+---
+id: SAEAS4831
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Software Interfaces for Ground-Based Monitoring Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4831
+- type: src
+  content: https://saemobilus.sae.org/standards/as4831-software-interfaces-ground-based-monitoring-systems
+docidentifier:
+- content: SAE AS4831
+  type: SAE
+  primary: true
+- content: 10.4271/as4831
+  type: DOI
+date:
+- type: approved
+  at: '2001-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;To establish a specification for software input and output interfaces for condition monitoring and performance programs used to monitor equipment from multiple manufacturers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The purpose of standardizing these interfaces is to improve operational flexibility and efficiency of monitoring systems as an aid to cost effectiveness (e.g., easier implementation).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

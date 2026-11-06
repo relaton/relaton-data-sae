@@ -1,0 +1,48 @@
+---
+id: SAEAMS6415D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL 1.8Ni - 0.8Cr - 0.25Mo (0.38-0.43C) (SAE 4340)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6415d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6415d-steel-18ni-08cr-025mo-038-043c-sae-4340
+docidentifier:
+- content: SAE AMS6415D
+  type: SAE
+  primary: true
+- content: 10.4271/ams6415d
+  type: DOI
+date:
+- type: approved
+  at: '1951-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

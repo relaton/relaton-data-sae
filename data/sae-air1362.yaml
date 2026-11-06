@@ -1,0 +1,56 @@
+---
+id: SAEAIR1362
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PHYSICAL PROPERTIES OF HYDRAULIC FLUIDS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1362
+- type: src
+  content: https://saemobilus.sae.org/standards/air1362-physical-properties-hydraulic-fluids
+docidentifier:
+- content: SAE AIR1362
+  type: SAE
+  primary: true
+- content: 10.4271/air1362
+  type: DOI
+date:
+- type: approved
+  at: '1991-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report presents data on hydraulic fluids which are of interest to detail designers of hydraulic systems and components for military flight vehicles. The data pertain to fluids conforming to specifications MIL-H-5606, MIL-H-8446, MIL-H-27601, and MIL-H-83282.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAMSH6875B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Heat Treatment of Steel Raw Materials
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/amsh6875b
+- type: src
+  content: https://saemobilus.sae.org/standards/amsh6875b-heat-treatment-steel-raw-materials
+docidentifier:
+- content: SAE AMS-H-6875B
+  type: SAE
+  primary: true
+- content: 10.4271/amsh6875b
+  type: DOI
+date:
+- type: approved
+  at: '2019-05-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the requirements for heat-treatment of four classes of steel (See &lt;span class="xref"&gt;1.2&lt;/span&gt;) and the requirements for furnace equipment, test procedures and information for heat-treating procedures, heat-treating temperatures and material (See &lt;span class="xref"&gt;6.3&lt;/span&gt;) test procedures. This specification is applicable only to the heat treatment of raw material (See &lt;span class="xref"&gt;6.3.1&lt;/span&gt;); it does not cover the requirements for the heat treatment of steel parts (See &lt;span class="xref"&gt;3.4&lt;/span&gt; and &lt;span class="xref"&gt;6.3.2&lt;/span&gt;). This specification also describes procedures that, when followed, will produce the desired properties and material qualities within the limitations of the respective alloys tabulated in &lt;span class="xref"&gt;Tables 1A&lt;/span&gt;, &lt;span class="xref"&gt;1B&lt;/span&gt;, &lt;span class="xref"&gt;1C&lt;/span&gt; and &lt;span class="xref"&gt;1D&lt;/span&gt;. Alloys other than those specifically covered herein may be heat treated using all applicable requirements of this specification.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

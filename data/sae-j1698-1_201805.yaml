@@ -1,0 +1,57 @@
+---
+id: SAEJ16981_201805
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Event Data Recorder - Output Data Definition
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1698/1_201805
+- type: src
+  content: https://saemobilus.sae.org/standards/j16981_201805-event-data-recorder-output-data-definition
+docidentifier:
+- content: SAE J1698/1_201805
+  type: SAE
+  primary: true
+- content: 10.4271/j1698/1_201805
+  type: DOI
+date:
+- type: approved
+  at: '2018-05-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Event Data Recorder Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Recommended Practice provides common data output formats and definitions for a variety of data elements that may be useful for analyzing vehicle crash and crash-like events that meet specified trigger criteria. The document is intended to govern data element definitions, to provide a minimum data element set,and to specify EDR record format as applicable for light-duty motor vehicle Original Equipment applications.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAS1248
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MINIMUM STANDARD FOR OXYGEN PRESSURE REDUCERS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1248
+- type: src
+  content: https://saemobilus.sae.org/standards/as1248-minimum-standard-oxygen-pressure-reducers
+docidentifier:
+- content: SAE AS1248
+  type: SAE
+  primary: true
+- content: 10.4271/as1248
+  type: DOI
+date:
+- type: approved
+  at: '1991-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard is designed to cover all types of pressure reducers required for oxygen systems and for all performance profiles without regard for a particular inlet pressure or outlet pressure performance curve. Special attention will be given, however, to construction requirements essential in reducers where critical high initial oxygen pressures such as 1850 to 2250 psig (12.76 to 15.51 MN/m&lt;sup&gt;2&lt;/sup&gt; gauge) at 70° F (21.1° C) are involved.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

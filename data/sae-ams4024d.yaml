@@ -1,0 +1,56 @@
+---
+id: SAEAMS4024D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy Sheet And Plate 4.3zn - 3.3mg - 0.60cu - 0.20mn- 0.17cr
+    (7079- - T6 Sheet, - T651 Pla
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4024d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4024d-aluminum-alloy-sheet-plate-43zn-33mg-060cu-020mn-017cr-7079-t6-sheet-t651-pla
+docidentifier:
+- content: SAE AMS4024D
+  type: SAE
+  primary: true
+- content: 10.4271/ams4024d
+  type: DOI
+date:
+- type: approved
+  at: '1991-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>Aluminum Alloy Plate
+    4.3Zn - 3.3Mg - o.6Cu - o.2Mn - 0.17Cr (7o79-T651)
+    Stress-Relief Stretched</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

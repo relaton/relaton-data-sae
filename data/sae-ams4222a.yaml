@@ -1,0 +1,49 @@
+---
+id: SAEAMS4222A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOT CASTINGS, SAND 4 Cu 2 Ni 1.5 Mg (142-T77) Solution Treated
+    and Overaged
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4222a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4222a-aluminum-allot-castings-sand-4-cu-2-ni-15-mg-142-t77-solution-treated-overaged
+docidentifier:
+- content: SAE AMS4222A
+  type: SAE
+  primary: true
+- content: 10.4271/ams4222a
+  type: DOI
+date:
+- type: approved
+  at: '1947-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

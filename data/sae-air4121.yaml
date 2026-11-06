@@ -1,0 +1,56 @@
+---
+id: SAEAIR4121
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Rotorcraft Turboshaft Engine Idle Power Scheduling
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4121
+- type: src
+  content: https://saemobilus.sae.org/standards/air4121-rotorcraft-turboshaft-engine-idle-power-scheduling
+docidentifier:
+- content: SAE AIR4121
+  type: SAE
+  primary: true
+- content: 10.4271/air4121
+  type: DOI
+date:
+- type: approved
+  at: '2024-10-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-12 Powered Lift Propulsion Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Aerospace Information Report (AIR) is to provide rotorcraft and engine designers with a better understanding of turboshaft engine idle power characteristics and objectives to be considered in the design and integration process. For the purpose of this document, idle is the lowest suitable steady-state power setting, most commonly corresponding to a gas generator speed setting or range. In general, a lower engine idle setting is desired by the airframer to reduce noise, fuel consumption, and main rotor downwash when on the ground and to reduce the size requirement of a rotor brake system. In contrast, the engine manufacturer generally prefers a higher engine idle setting, as operation further away from the engine design speed involves more challenges in operability and mechanical design. A variety of rotorcraft and engine factors are described for consideration. Some typical engine power and torque trends are presented for illustrative purposes. The information contained herein may assist in the early design phase to result in a more optimum match between engine and rotorcraft requirements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

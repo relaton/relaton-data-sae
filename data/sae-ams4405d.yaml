@@ -1,0 +1,69 @@
+---
+id: SAEAMS4405D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Alclad Sheet (6156-T4) 1.0Si - 0.90Cu - 0.60Mn - 0.90Mg
+    Solution Heat Treated and Naturally Aged
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4405d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4405d-aluminum-alloy-alclad-sheet-6156-t4-10si-090cu-060mn-090mg-solution-heat-treated-naturally-aged
+docidentifier:
+- content: SAE AMS4405D
+  type: SAE
+  primary: true
+- content: 10.4271/ams4405d
+  type: DOI
+date:
+- type: approved
+  at: '2026-08-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy procured in the form of sheet 0.078 to 0.197 inch (2.00 to 5.00 mm), inclusive, in nominal thickness, Alclad on both sides (see &lt;span class="xref"&gt;8.5&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

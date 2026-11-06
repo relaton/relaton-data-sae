@@ -1,0 +1,58 @@
+---
+id: SAEAMS5932C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Corrosion- and Heat-Resistant, Bars, Forgings, and Mechanical Tubing
+    14.5Cr - 2.3Ni - 12.5Co - 4.0Mo - 0.60V - 0.03Cb(Nb) Carburizing, Premium Aircraft-Quality,
+    Double Vacuum Melted
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5932c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5932c-steel-corrosion-heat-resistant-bars-forgings-mechanical-tubing-145cr-23ni-125co-40mo-060v-003cb-nb-carburizing-premium-aircraft-quality-double-vacuum-melted
+docidentifier:
+- content: SAE AMS5932C
+  type: SAE
+  primary: true
+- content: 10.4271/ams5932c
+  type: DOI
+date:
+- type: approved
+  at: '2022-11-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a premium aircraft-quality corrosion and heat-resistant steel in the form of bars, forgings, mechanical tubing, and forging stock.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

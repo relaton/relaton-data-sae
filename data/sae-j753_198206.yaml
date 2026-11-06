@@ -1,0 +1,57 @@
+---
+id: SAEJ753_198206
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: LUBRICATION CHART—CONSTRUCTION AND INDUSTRIAL MACHINERY
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j753_198206
+- type: src
+  content: https://saemobilus.sae.org/standards/j753_198206-lubrication-chart-construction-industrial-machinery
+docidentifier:
+- content: SAE J753_198206
+  type: SAE
+  primary: true
+- content: 10.4271/j753_198206
+  type: DOI
+date:
+- type: approved
+  at: '1982-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Machine Technical Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+    &lt;div class="htmlview paragraph"&gt;The chart is to include basic maintenance items that the manufacturer considers essential for normal operation of the machine. The chart is not intended to cover all maintenance functions and should refer the user to the manufacturers’ manuals.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Attachments may be included on the chart with the standard machine or covered by separate charts. When preparing a chart, consult SAE J752b, Maintenance Interval and SAE J754a. Lubricant Types.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

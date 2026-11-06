@@ -1,0 +1,57 @@
+---
+id: SAEAMS390113
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: YARN, ORGANIC FIBER (PARA-ARAMID), HIGH MODULUS OY 390 (2689)/22.6 Tensile
+    Strength, 16.5 (114)/840 Tensile Modulus 2450 Denier, 0.6% Finish
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3901/13
+- type: src
+  content: https://saemobilus.sae.org/standards/ams390113-yarn-organic-fiber-para-aramid-high-modulus-oy-390-2689-226-tensile-strength-165-114-840-tensile-modulus-2450-denier-06-finish
+docidentifier:
+- content: SAE AMS3901/13
+  type: SAE
+  primary: true
+- content: 10.4271/ams3901/13
+  type: DOI
+date:
+- type: approved
+  at: '1996-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P Polymeric Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers one type of organic fiber in the form of yarn. The product shall be formed as a multiplicity of filaments drawn together and gathered into an approximately parallel arrangement.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

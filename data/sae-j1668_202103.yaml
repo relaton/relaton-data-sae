@@ -1,0 +1,59 @@
+---
+id: SAEJ1668_202103
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Diesel Engines - Fuel Injection Pump Testing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1668_202103
+- type: src
+  content: https://saemobilus.sae.org/standards/j1668_202103-diesel-engines-fuel-injection-pump-testing
+docidentifier:
+- content: SAE J1668_202103
+  type: SAE
+  primary: true
+- content: 10.4271/j1668_202103
+  type: DOI
+date:
+- type: approved
+  at: '2021-03-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Diesel Fuel Injection Equipment Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The correct setting and adjustment of fuel injection pumps requires standardized testing conditions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard summarizes the design and operating parameters for test benches so that, using certain information supplied by the pump manufacturer, the pump test schedule, and certain information supplied by the test bench manufacturer, it can be determined whether a particular test bench is suitable for driving a particular injection pump.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is in most cases a summary of the ISO Standard 4008, Parts 1, 2, and 3 and is intended to provide its critical aspects. Standard ISO 4008 should be referred to for more details.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

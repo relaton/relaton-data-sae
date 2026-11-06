@@ -1,0 +1,60 @@
+---
+id: SAEJ2684_201812
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FMVSS 105 Inertia Brake Dynamometer Test Procedure for Vehicles Above 4540
+    kg GVWR
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2684_201812
+- type: src
+  content: https://saemobilus.sae.org/standards/j2684_201812-fmvss-105-inertia-brake-dynamometer-test-procedure-vehicles-4540-kg-gvwr
+docidentifier:
+- content: SAE J2684_201812
+  type: SAE
+  primary: true
+- content: 10.4271/j2684_201812
+  type: DOI
+date:
+- type: approved
+  at: '2018-12-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Hydraulic Brake Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Recommended Practice is derived from the FMVSS 105 vehicle test and applies to two-axle multipurpose passenger vehicles, trucks, and buses with a GVWR above 4540 kg (10000 pounds) equipped with hydraulic service brakes. There are two main test sequences: Development Test Sequence for generic test conditions when not all information is available or when an assessment of brake output at different inputs are required, and FMVSS Test Sequence when vehicle parameters for brake pressure as a function of brake pedal input force and vehicle-specific loading and brake distribution are available. The test sequences are derived from the Federal Motor Vehicle Safety Standard 105 (and 121 for optional sections) as single-ended inertia-dynamometer test procedures when using the appropriate brake hardware and test parameters. This recommended practice provides Original Equipment Manufacturers (OEMs), brake and component manufacturers, as well as aftermarket suppliers, results related to brake output, friction material effectiveness, and corner performance in a laboratory-controlled test environment.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The test sequences include different dynamic conditions (braking speeds, temperature, and braking history as outlined in the FMVSS 105); inertia loads equivalent to the vehicle’s LLVW and GVWR; fully operational, partial failure, and failed system conditions. All applicable sections of the FMVSS 105 are included. Optional sections include: parking brake output, water recovery, TP-121D dynamometer retardation, and 32 km/h (20 mph) stops to simulate Federal Motor Carrier Safety Administration (FMCSA) requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This recommended practice does not evaluate or quantify other brake system characteristics such as wear, noise, judder, ABS performance, or braking under extreme temperatures or speeds. Minimum performance requirements are not part of this recommended practice. Consistency and margin of pass/fail of the minimum requirements related to stopping distance or equivalent deceleration levels of the FMVSS 105 vehicle test can be assessed as part of the project in coordination with the test requestor when using the appropriate vehicle information and vehicle dynamics modeling. Nevertheless, this procedure and its results do not replace the vehicle-level test to demonstrate compliance to FMVSS (105 for hydraulic brake systems, or 121 for air-over-hydraulic brake systems), or other mandatory regulations (like ECE R13 or equivalents).&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

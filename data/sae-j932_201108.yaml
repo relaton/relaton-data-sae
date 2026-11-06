@@ -1,0 +1,56 @@
+---
+id: SAEJ932_201108
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Definitions for Macrostrain and Microstrain
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j932_201108
+- type: src
+  content: https://saemobilus.sae.org/standards/j932_201108-definitions-macrostrain-microstrain
+docidentifier:
+- content: SAE J932_201108
+  type: SAE
+  primary: true
+- content: 10.4271/j932_201108
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Surface Enhancement Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;In the analysis and measurement of residual stresses of materials, it has been noted that there are frequently differences in interpretation of the terms "macrostrain" and "microstrain." To assist communication among research personnel in this area, definitions for these two terms are suggested by the Fatigue Design and Evaluation Committee of SAE. Since "macrostress" is commonly computed from "macrostrain" in residual stress analysis, to be consistent, the definitions given are for "macrostrain" and "microstrain."&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

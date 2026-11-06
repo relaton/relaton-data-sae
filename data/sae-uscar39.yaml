@@ -1,0 +1,57 @@
+---
+id: SAEUSCAR39
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STANDARD FOR TIRE TRACEABILITY CONTENT AND FORMAT FOR THE RADIO-FREQUENCY
+    IDENTIFICATION (RFID) TAG AND ASSOCIATED TIRE DATA SET
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar39
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar39-standard-tire-traceability-content-format-radio-frequency-identification-rfid-tag-associated-tire-data-set
+docidentifier:
+- content: SAE USCAR-39
+  type: SAE
+  primary: true
+- content: 10.4271/uscar39
+  type: DOI
+date:
+- type: approved
+  at: '2019-04-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard describes a requirement for automotive tire traceability. It includes a definition of the RFID tag and the associated tire data set that can be accessed using the RFID tag as an identifier. The standard describes a unique identification and the associated data set for each tire produced by the tire fabricator. This data will either be provided or transmitted at the time of shipment to retailers, wholesalers or original equipment vehicle manufacturers. Tire identification code and data may be used for error proofing, determining the tire specifications or supporting any inquiries that occur for the duration of its automotive life.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

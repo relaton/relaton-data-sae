@@ -1,0 +1,56 @@
+---
+id: SAEAMS3109
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Primer, Adhesive, Electrodeposited -55 to +82 °C (-67 to +180 °F)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3109
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3109-primer-adhesive-electrodeposited-55-82-c-67-180-f
+docidentifier:
+- content: SAE AMS3109
+  type: SAE
+  primary: true
+- content: 10.4271/ams3109
+  type: DOI
+date:
+- type: approved
+  at: '2022-08-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P17 Polymer Matrix Composites Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion-inhibiting, water soluble, modified epoxy primer in liquid form.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

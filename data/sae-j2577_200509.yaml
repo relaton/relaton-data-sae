@@ -1,0 +1,80 @@
+---
+id: SAEJ2577_200509
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Heavy Duty Lamp Electrical Connector Standard
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2577_200509
+- type: src
+  content: https://saemobilus.sae.org/standards/j2577_200509-heavy-duty-lamp-electrical-connector-standard
+docidentifier:
+- content: SAE J2577_200509
+  type: SAE
+  primary: true
+- content: 10.4271/j2577_200509
+  type: DOI
+date:
+- type: approved
+  at: '2005-09-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: J2577 Heavy Duty Lamp To Connector Interface Task Force
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard encompasses connectors that form the electrical interface(s) between the heavy duty lighting device(s) and the truck and truck/trailer wiring harness system. This document provides design and performance requirements based upon the mechanical, electrical and environmental conditions and covers applications of connectors for direct current electrical systems of 24 V nominal or less in heavy-duty signaling and marking devices. This standard excludes forward lighting devices (i.e. fog lamps) but includes the following list of lamps:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Stop Lamps&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Tail Lamps&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Turn Signal/Hazard Warning Lamps&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Side Marker Lamps&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Clearance Lamps&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Identification Lamps&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Back Up Lamps&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Side-Turn Signal Lamps&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Work Lamps&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;License Lamps&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Chassis Component Status (ABS) Lamps&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

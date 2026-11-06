@@ -1,0 +1,68 @@
+---
+id: SAEAIR5451
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: A Guide to Landing Gear System Integration
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5451
+- type: src
+  content: https://saemobilus.sae.org/standards/air5451-a-guide-landing-gear-system-integration
+docidentifier:
+- content: SAE AIR5451
+  type: SAE
+  primary: true
+- content: 10.4271/air5451
+  type: DOI
+date:
+- type: approved
+  at: '2016-04-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5 Aerospace Landing Gear Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The landing gear system is a major airframe system that needs to be integrated very efficiently to minimize the penalties of weight, cost, dispatch reliability and maintenance. As the landing gear system business develops and large scale teaming arrangements and acquisitions become increasingly common, it may be desirable in some instances to procure an Integrated Landing Gear System. This document provides guidelines and useful references for developing an integrated landing gear system for an aircraft and is divided into four sections:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Landing Gear Configuration Requirements (&lt;span class="xref"&gt;Section 3&lt;/span&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Landing Gear Functional Requirements (&lt;span class="xref"&gt;Section 4&lt;/span&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Landing Gear System Integrity Requirements (&lt;span class="xref"&gt;Section 5&lt;/span&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Landing Gear Program Requirements (&lt;span class="xref"&gt;Section 6&lt;/span&gt;)&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;The landing gear system encompasses all landing gear structural and subsystem elements. Structural elements include shock struts, braces, fittings, pins, wheels, tires and brakes. The subsystem elements include the retraction/extension system (both normal and alternate), the steering system, the braking system (both normal and alternate, manual and automatic), the indication systems and control systems (mechanical, hydraulic, electrical and electronic).&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

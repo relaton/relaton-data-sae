@@ -1,0 +1,59 @@
+---
+id: SAEAIR4204
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: COMMERCIAL AIRCRAFT AUXILIARY POWER UNIT INSTALLATIONS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4204
+- type: src
+  content: https://saemobilus.sae.org/standards/air4204-commercial-aircraft-auxiliary-power-unit-installations
+docidentifier:
+- content: SAE AIR4204
+  type: SAE
+  primary: true
+- content: 10.4271/air4204
+  type: DOI
+date:
+- type: approved
+  at: '1991-01-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-6 Starting Systems and Auxiliary Power Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Information Report (AIR) reviews the factors to be considered in determining the location and arrangement for auxiliary power unit (APU) installations for airborne applications and reviews requirements for flight suitability.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;As treated in this discussion, the APU normally includes a power section (or engine), a starting system, an electronic control unit (ECU), a gearbox with accessory mounting pads, and an oil cooling system. The accessories that are driven by the APU, such as CSD's (constant speed drives), alternating current (AC) generators, hydraulic pumps, or air compressors, are not covered here except insofar as they make demands on the APU. The various installation components and systems that are covered here are outlined by the table of contents.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Turbine-type APU's are by far the most highly developed and universally used airborne units, so their installation will dominate the discussion in this document. And, though there have been some APU's developed for military applications, many military transports are adaptations of commercial carrier aircraft. The bulk of the discussion will, therefore, be oriented toward APU installation requirements as developed by the civilian sector. Discussions of the internal design aspects of the APU itself are not within the scope of this document.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,78 @@
+---
+id: SAEJ3088_202606
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Active Safety System Sensors
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3088_202606
+- type: src
+  content: https://saemobilus.sae.org/standards/j3088_202606-active-safety-system-sensors
+docidentifier:
+- content: SAE J3088_202606
+  type: SAE
+  primary: true
+- content: 10.4271/j3088_202606
+  type: DOI
+date:
+- type: approved
+  at: '2026-06-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Active Safety and Driver Support Systems Standards Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;The current document is a part of an effort of the Active Safety Systems Committee, Active Safety Systems Sensors Task Force whose objectives are to:&lt;/p&gt;
+
+
+    &lt;ol type="a"&gt;
+    &lt;li&gt;Identify the functionality and performance you could expect from active safety sensors&lt;/li&gt;
+    &lt;li&gt;Establish a basic understanding of how sensors work&lt;/li&gt;
+    &lt;li&gt;Establish a basic understanding of how sensors can be tested&lt;/li&gt;
+    &lt;li&gt;Describe an exemplar set of acceptable requirements and tests associated with each technology&lt;/li&gt;
+    &lt;li&gt;Describe the key requirements/functionality for the test targets&lt;/li&gt;
+    &lt;li&gt;Describe the unique characteristics of the targets or tests&lt;/li&gt;
+    &lt;/ol&gt;
+
+
+    &lt;p&gt;This document will cover items (a) and (b).&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

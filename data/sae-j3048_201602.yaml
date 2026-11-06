@@ -1,0 +1,59 @@
+---
+id: SAEJ3048_201602
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Driver-Vehicle Interface Considerations for Lane Keeping Assistance Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3048_201602
+- type: src
+  content: https://saemobilus.sae.org/standards/j3048_201602-driver-vehicle-interface-considerations-lane-keeping-assistance-systems
+docidentifier:
+- content: SAE J3048_201602
+  type: SAE
+  primary: true
+- content: 10.4271/j3048_201602
+  type: DOI
+date:
+- type: approved
+  at: '2016-02-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Advanced Driver Assistance Systems (ADAS) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this document is to provide guidance for the implementation of driver-vehicle interfaces (DVI) for intervention-type lane keeping assistance systems (LKAS), as defined by ISO 11270.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;LKAS provide support for safe lane keeping operations by drivers via momentary intervention in lane keeping actions, but do not automate part or all of the dynamic driving task on a sustained basis (see SAE J3016). Thus they are not classified as a driving automation system per SAE J3016 - Taxonomy and Definitions for Terms Related to On-Road Motor Vehicle Automated Driving Systems, nor do they prevent possible lane or roadway departures, as drivers can always override an LKAS intervention and road conditions may be such that they cannot support an LKAS intervention (e.g., too slippery, curve to tight, lateral velocity too high, etc.). As used in this document, the term LKAS refers to lateral control driver assistance features that automatically intervene to hinder a lane departure if the driver either fails to signal intent to change lanes (i.e., via turn signal activation) or fails to initiate corrective action to prevent the lane departure. It does not include lane centering-type systems (with or without required minimum steering torque input by the driver), which perform constant steering correction to maintain lane positioning (i.e., within a given lane).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document addresses DVI parameters for intervention-type LKAS equipped on vehicles designed for use on public roadways. The responsibility for the safe operation of the vehicle always remains with the driver. LKAS is intended to operate on highways and equivalent roads.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document applies to original equipment LKAS for light-duty vehicles (i.e., passenger cars and light trucks) with GVWR of less than 10000 pounds. This document does not apply to the installation of LKAS on motorcycles or medium- and heavy-duty vehicles. Finally, this document does not address system or operational requirements for LKAS systems, which are specified by ISO 11270.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

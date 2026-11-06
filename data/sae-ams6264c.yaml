@@ -1,0 +1,48 @@
+---
+id: SAEAMS6264C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL 3.25Ni - 1.2Cr - 0.1Mo (0.14-0.20C) (SAE 9317)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6264c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6264c-steel-325ni-12cr-01mo-014-020c-sae-9317
+docidentifier:
+- content: SAE AMS6264C
+  type: SAE
+  primary: true
+- content: 10.4271/ams6264c
+  type: DOI
+date:
+- type: approved
+  at: '1951-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,48 @@
+---
+id: SAEMA3331
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: INSERT, SCREW THREAD, HELICAL COIL, METRIC SERIES, SCREW LOCKING, CRES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma3331
+- type: src
+  content: https://saemobilus.sae.org/standards/ma3331-insert-screw-thread-helical-coil-metric-series-screw-locking-cres
+docidentifier:
+- content: SAE MA3331
+  type: SAE
+  primary: true
+- content: 10.4271/ma3331
+  type: DOI
+date:
+- type: approved
+  at: '1981-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

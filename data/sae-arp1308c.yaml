@@ -1,0 +1,56 @@
+---
+id: SAEARP1308C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Preferred Electrical Connectors for Aerospace Vehicles and Associated Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1308c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1308c-preferred-electrical-connectors-aerospace-vehicles-associated-equipment
+docidentifier:
+- content: SAE ARP1308C
+  type: SAE
+  primary: true
+- content: 10.4271/arp1308c
+  type: DOI
+date:
+- type: approved
+  at: '2002-03-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C1 Connectors Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The intent of this ARP is to identify selected electrical connectors, their general application characteristics, and associated configuration options recommended for new design, repair, and retrofit purposes (see &lt;span class="xref"&gt;6.1&lt;/span&gt;). It is acknowledged that those connectors listed herein will not completely satisfy all aerospace vehicle and equipment requirements but optimization of the use of these components will facilitate standardization in the form of maximum utilization of a minimum variety of connectors.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

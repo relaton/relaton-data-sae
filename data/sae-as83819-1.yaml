@@ -1,0 +1,49 @@
+---
+id: SAEAS838191
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BEARINGS, PLAIN, SELF-ALIGNING, SELF-LUBRICATING, 1400 CPM (15 FPM) OSCILLATION,
+    -65 TO +160 °F (-54 TO +71 °C)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as83819/1
+- type: src
+  content: https://saemobilus.sae.org/standards/as838191-bearings-plain-self-aligning-self-lubricating-1400-cpm-15-fpm-oscillation-65-160-f-54-71-c
+docidentifier:
+- content: SAE AS83819/1
+  type: SAE
+  primary: true
+- content: 10.4271/as83819/1
+  type: DOI
+date:
+- type: approved
+  at: '2018-08-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ACBG Plain Bearing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

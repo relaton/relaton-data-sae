@@ -1,0 +1,56 @@
+---
+id: SAEAMSR6130
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Rubber, Cellular, Chemically Blown
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/amsr6130
+- type: src
+  content: https://saemobilus.sae.org/standards/amsr6130-rubber-cellular-chemically-blown
+docidentifier:
+- content: SAE AMS-R-6130
+  type: SAE
+  primary: true
+- content: 10.4271/amsr6130
+  type: DOI
+date:
+- type: approved
+  at: '1998-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CE Elastomers Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes requirements for chemically blown cellular rubber.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

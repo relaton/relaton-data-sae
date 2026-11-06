@@ -1,0 +1,54 @@
+---
+id: SAEAMS3326D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fluorosilicone Rubber, Fuel and Oil Resistant, 50-65
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3326d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3326d-fluorosilicone-rubber-fuel-oil-resistant-50-65
+docidentifier:
+- content: SAE AMS3326D
+  type: SAE
+  primary: true
+- content: 10.4271/ams3326d
+  type: DOI
+date:
+- type: approved
+  at: '1995-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CE Elastomers Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: <p>This specification has been declared "SUPERSEDED" by the Aerospace Materials
+    Division, SAE, as of February 1995.  The requirements of this specification are
+    embodied in the latest issue of AMS 3325.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

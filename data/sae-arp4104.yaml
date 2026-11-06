@@ -1,0 +1,56 @@
+---
+id: SAEARP4104
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Design Objectives for Handling Qualities of Transport Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4104
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4104-design-objectives-handling-qualities-transport-aircraft
+docidentifier:
+- content: SAE ARP4104
+  type: SAE
+  primary: true
+- content: 10.4271/arp4104
+  type: DOI
+date:
+- type: approved
+  at: '2007-07-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-7 Flight Deck Handling Qualities Stds for Trans Aircraft
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document specifies the requirements for the design objectives for handling qualities applicable to transport aircraft operating in the subsonic, transonic, and supersonic speed range. These objectives are not necessarily applicable to rotor or VTOL aircraft.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

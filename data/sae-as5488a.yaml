@@ -1,0 +1,57 @@
+---
+id: SAEAS5488A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Regional Aircraft Towbar Attach Fitting Interface
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5488a
+- type: src
+  content: https://saemobilus.sae.org/standards/as5488a-regional-aircraft-towbar-attach-fitting-interface
+docidentifier:
+- content: SAE AS5488A
+  type: SAE
+  primary: true
+- content: 10.4271/as5488a
+  type: DOI
+date:
+- type: approved
+  at: '2011-06-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) specifies the interface requirements for towbar attachment fittings on the nose gear (when towing operations are performed from the nose gear) of conventional tricycle type landing gears of commercial civil transport aircraft with a maximum ramp weight between 8600 kg (19 000 lb) and 50 000 kg (110 000 lb), commonly designated as "regional aircraft".&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Its purpose is to achieve towbar attachment fittings interface standardization by aircraft weight category (which determines towbar forces) in order to ensure that one single type of towbar with a standard connection can be used for all aircraft types within or near that weight category, so as to assist operators and airport handling companies in reducing the number of different towbar types used.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

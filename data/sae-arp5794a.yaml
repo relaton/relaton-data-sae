@@ -1,0 +1,58 @@
+---
+id: SAEARP5794A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Centrifugal Aircraft Fuel Pump Requirements, Design and Testing, Aerospace
+    Standard
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5794a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5794a-centrifugal-aircraft-fuel-pump-requirements-design-testing-aerospace-standard
+docidentifier:
+- content: SAE ARP5794A
+  type: SAE
+  primary: true
+- content: 10.4271/arp5794a
+  type: DOI
+date:
+- type: approved
+  at: '2018-05-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5B Aircraft and Engine Fuel and Lubricant Sys Components
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the general design, testing, and safety requirements for aircraft tank mounted fuel booster pumps used for engine fuel feed, transfer, and jettison.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

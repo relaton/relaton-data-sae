@@ -1,0 +1,49 @@
+---
+id: SAEAMS4412
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Sheet 3.2Cu - 0.52Mg - 0.30Ag - 0.12Zr (2198-T8) Solution
+    Heat Treated, Cold Worked, and Artificially Aged
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4412
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4412-aluminum-alloy-sheet-32cu-052mg-030ag-012zr-2198-t8-solution-heat-treated-cold-worked-artificially-aged
+docidentifier:
+- content: SAE AMS4412
+  type: SAE
+  primary: true
+- content: 10.4271/ams4412
+  type: DOI
+date:
+- type: approved
+  at: '2007-11-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

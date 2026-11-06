@@ -1,0 +1,58 @@
+---
+id: SAEJ2735ASN_201603
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Dedicated Short Range Communications (DSRC) Message Set Dictionary™ ASN
+    file
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2735asn_201603
+- type: src
+  content: https://saemobilus.sae.org/standards/j2735asn_201603-dedicated-short-range-communications-dsrc-message-set-dictionary-asn-file
+docidentifier:
+- content: SAE J2735ASN_201603
+  type: SAE
+  primary: true
+- content: 10.4271/j2735asn_201603
+  type: DOI
+date:
+- type: approved
+  at: '2016-03-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Core Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This Abstract Syntax Notation (ASN.1) File is the precise source code used for SAE International Standard J2735. As part of an international treaty, all US ITS standards are expressed in "ASN.1 syntax". ASN.1 Syntax is used to define the messages or "ASN specifications". Using the ASN.1 specification, a compiler tool produces the ASN library which will then be used to produce encodings (The J2735 message set uses UPER encoding). The library is a set of many separate files that collectively implement the encoding and decoding of the standard. The library is then used by any application (along with the additional logic of that application) to manage the messages. The chosen ASN tool is used to produce a new copy of the library when changes are made, and it is then linked to the final application being developed. The ASN library manages many of the details associated with ASN syntax, allowing for subtle manipulation to make the best advantage of the encoding style.&lt;/p&gt;
+    &lt;p&gt;The J2735 Standard specifies a message set, and its data frames and data elements, specifically for use by applications intended to utilize the 5.9 GHz Dedicated Short Range Communications for Wireless Access in Vehicular Environments (DSRC/WAVE, referenced simply as "DSRC") communications systems. The ASN.1 integrates software for validation of telecommunications and networking. Although the scope of this Standard is focused on DSRC, this message set, and its data frames and data elements, have been designed, to the extent possible, to be of potential use for applications that may be deployed in conjunction with other wireless communications technologies as well. This Standard therefore specifies the definitive message structure and encoding and provides sufficient background information to allow readers to properly interpret the message definitions from the point of view of an application developer implementing the messages according to the DSRC Standards.&lt;/p&gt;
+    &lt;p&gt;You may also be interested in:&lt;/p&gt;
+    &lt;p&gt;&lt;a href="https://www.sae.org/standards/content/j2735_201603/"&gt;Dedicated Short Range Communications (DSRC) Message Set Dictionary™ the J2735 PDF&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href="https://www.sae.org/standards/content/j2735_201603/"/&gt;&lt;a href="https://www.sae.org/standards/content/j2735set_201603/"&gt;Dedicated Short Range Communications (DSRC) Message Set Dictionary™ Set includes the J2735 ASN file and the J2735 PDF (ZIP format) - download purchase only.&lt;/a&gt;&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

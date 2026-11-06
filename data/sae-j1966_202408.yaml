@@ -1,0 +1,58 @@
+---
+id: SAEJ1966_202408
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Lubricating Oils, Aircraft Piston Engine (Non-Dispersant)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1966_202408
+- type: src
+  content: https://saemobilus.sae.org/standards/j1966_202408-lubricating-oils-aircraft-piston-engine-non-dispersant
+docidentifier:
+- content: SAE J1966_202408
+  type: SAE
+  primary: true
+- content: 10.4271/j1966_202408
+  type: DOI
+date:
+- type: approved
+  at: '2024-08-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-38 Aviation Piston Engine Fuels and Lubricants
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard establishes the requirements for non-dispersant lubricating oils to be used in four-stroke cycle piston aircraft engines. This document covers the same lubricating oil requirements as the former military specification MIL-L-6082. Users should consult their airframe or engine manufacturers’ manuals for the latest listing of acceptable lubricants.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Compliance with this specification must be accomplished in accordance with the Performance Review Institute (PRI) product qualification process as described in the documents referenced in 2.2.2. Requests for submittal information may be made to the PRI at the address shown in 2.2.2, referencing this specification. Products qualified to this specification are listed on a Qualified Products List (QPL) managed by the PRI. Approval and/or certification for use of a specific piston engine oil in aerospace applications is the responsibility of the individual equipment builders and/or governmental authorities and may be accomplished by compliance with or qualification to this specification.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

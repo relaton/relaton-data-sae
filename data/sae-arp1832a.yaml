@@ -1,0 +1,56 @@
+---
+id: SAEARP1832A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Color Identification for O-ring Seals
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1832a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1832a-color-identification-o-ring-seals
+docidentifier:
+- content: SAE ARP1832A
+  type: SAE
+  primary: true
+- content: 10.4271/arp1832a
+  type: DOI
+date:
+- type: approved
+  at: '2011-09-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CE Elastomers Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice sets forth the guidelines for the use of non-black O-ring seals. Black is the preferred color for polymer types other than Silicone and Fluorosilicone. When a color other than black is to be used, those established by this document are the preferred.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

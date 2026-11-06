@@ -1,0 +1,55 @@
+---
+id: SAEAMS7720A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Castings Lead Alloy, 6.5sb 0.5sn
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7720a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7720a-castings-lead-alloy-65sb-05sn
+docidentifier:
+- content: SAE AMS7720A
+  type: SAE
+  primary: true
+- content: 10.4271/ams7720a
+  type: DOI
+date:
+- type: approved
+  at: '1990-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification has been CANCELLED by the Aerospace Materials Division,
+    SAE, as of January, 1990.  By this action, the subject specification number and
+    title will be deleted from the active specification index of Aerospace Material
+    Specifications.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

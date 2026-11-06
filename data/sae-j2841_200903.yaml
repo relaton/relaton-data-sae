@@ -1,0 +1,58 @@
+---
+id: SAEJ2841_200903
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Utility Factor Definitions for Plug-In Hybrid Electric Vehicles Using 2001
+    U.S. DOT National Household Travel Survey Data
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2841_200903
+- type: src
+  content: https://saemobilus.sae.org/standards/j2841_200903-utility-factor-definitions-plug-hybrid-electric-vehicles-using-2001-us-dot-national-household-travel-survey-data
+docidentifier:
+- content: SAE J2841_200903
+  type: SAE
+  primary: true
+- content: 10.4271/j2841_200903
+  type: DOI
+date:
+- type: approved
+  at: '2009-03-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report establishes a “Utility Factor” (UF) curve and the method of generating this curve. The UF is used when combining test results from battery charge-depleting and charge-sustaining modes of a Plug-in Hybrid Electric Vehicle (PHEV). This document will define the UF curve(s) by using 2001 United States Department of Transportation (DOT) “National Household Travel Survey” data. The input is daily vehicle miles traveled, and the UF curve output is a percentage fraction that is applied to the charge-depleting mode results.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

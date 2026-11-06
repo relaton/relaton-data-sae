@@ -1,0 +1,61 @@
+---
+id: SAEAIR5450
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Advanced Ducted Propulsor In-Flight Thrust Determination
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5450
+- type: src
+  content: https://saemobilus.sae.org/standards/air5450-advanced-ducted-propulsor-flight-thrust-determination
+docidentifier:
+- content: SAE AIR5450
+  type: SAE
+  primary: true
+- content: 10.4271/air5450
+  type: DOI
+date:
+- type: approved
+  at: '2014-06-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-33 In Flight Propulsion Measurement Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The emerging ultra high bypass ratio ADP engines, with nozzle pressure ratios significantly lower, and bypass ratios significantly higher, than those of the current turbofan engines, may present new in-flight thrust determination challenges that are not specifically covered in AIR1703. This document addresses candidate methods and the additional challenges to the thrust determination for these ADP engines.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These novel challenges result in part from the fact that some large ADP engines exceed present altitude test facility capabilities. The traditional methods of nozzle coefficient extrapolation may not be most satisfactory because of the increased error due to the ADP higher ratio of gross to net thrust, and because of the increased sensitivity of in-flight thrust uncertainty at the lower fan nozzle pressure ratio. An additional challenge covered by this document is the higher sensitivity of ADP in-flight thrust uncertainty to the external flow field around the engine, and the changes in this flow field due to aircraft configuration and operations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Calibrations for in-flight thrust determination for these ADP engines may have to be based on other alternate methods. Recently, large size turbo powered simulators (TPS) of propulsion systems (including the nacelle) have been developed and thus provide a new capability for in-flight thrust determination. Furthermore Computational Fluid Dynamic (CFD) analysis may prove to be a viable supplement to ground (sea level) engine testing and sub-scale model coefficient extrapolations to cruise conditions. These recent developments are described within along with their associated error assessments.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The candidate thrust methods build on the work presented in AIR1703. The document includes a comprehensive uncertainty assessment conducted per AIR1678 to identify the major thrust determination options. Fundamental to this uncertainty assessment are the influence coefficients relating in-flight thrust calculation uncertainty to the measured parameters and derived coefficients. These influence coefficients were developed from three typical public domain, generic engine cycle models.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For the major potential thrust determination options, the overall thrust and airflow calibration processes are defined in detail. Road maps are included showing model, engine and flight-tests, measurements and correlations, calibration procedures and analyses. The document addresses the pros and cons of each of the major thrust determination options, including a discussion of the key assumptions and expected uncertainties.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

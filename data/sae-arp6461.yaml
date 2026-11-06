@@ -1,0 +1,61 @@
+---
+id: SAEARP6461
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guidelines for Implementation of Structural Health Monitoring on Fixed
+    Wing Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6461
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6461-guidelines-implementation-structural-health-monitoring-fixed-wing-aircraft
+docidentifier:
+- content: SAE ARP6461
+  type: SAE
+  primary: true
+- content: 10.4271/arp6461
+  type: DOI
+date:
+- type: approved
+  at: '2013-09-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aerospace Industry Steering Committee on Structural Health
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is applicable to civil aerospace airframe structural applications where stakeholders are seeking guidance on the definition, development and certification of Structural Health Monitoring (SHM) technologies for aircraft health management applications.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For the purpose of this document, SHM is defined as “the process of acquiring and analyzing data from on-board sensors to evaluate the health of a structure.” The suite of on-board sensors could include any presently installed aircraft sensors as well as new sensors to be defined in the future.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAMS4128E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy Bars, Rolled or Cold Finished 1.0Mg - 0.60Si - 0.30Cu -
+    0.20Cr (6061-T451) Solution Heat Treated and Stress Relieved by Stretching
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4128e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4128e-aluminum-alloy-bars-rolled-cold-finished-10mg-060si-030cu-020cr-6061-t451-solution-heat-treated-stress-relieved-stretching
+docidentifier:
+- content: SAE AMS4128E
+  type: SAE
+  primary: true
+- content: 10.4271/ams4128e
+  type: DOI
+date:
+- type: approved
+  at: '2021-06-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of bars and rods 0.500 inch (12.7 mm) to 8.000 inches (203.2 mm) in nominal diameter or least difference between parallel sides and up to 50 square inches (322.6 square centimeters) in cross-sectional area (see &lt;span class="xref"&gt;8.7&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

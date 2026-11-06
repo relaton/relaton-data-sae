@@ -1,0 +1,57 @@
+---
+id: SAEAIR1800A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Tail Bumpers
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1800a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1800a-aircraft-tail-bumpers
+docidentifier:
+- content: SAE AIR1800A
+  type: SAE
+  primary: true
+- content: 10.4271/air1800a
+  type: DOI
+date:
+- type: approved
+  at: '2021-02-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) covers the field of civilian, commercial and military airplanes and helicopters. This summary of tail bumper design approaches may be used by design personnel as a reference and guide for future airplanes and helicopters that require tail bumpers. Those described herein will consist of simple rub strips, structural loops with a wear surface for runway contact, retractable installations with replaceable shock absorbers and wear surfaces and complicated retractable tail landing gears with shock strut, wheels and tires. The information will be presented as a general description of the installation, its components and their functions.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

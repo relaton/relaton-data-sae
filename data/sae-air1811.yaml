@@ -1,0 +1,56 @@
+---
+id: SAEAIR1811
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: LIQUID COOLING SYSTEMS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1811
+- type: src
+  content: https://saemobilus.sae.org/standards/air1811-liquid-cooling-systems
+docidentifier:
+- content: SAE AIR1811
+  type: SAE
+  primary: true
+- content: 10.4271/air1811
+  type: DOI
+date:
+- type: approved
+  at: '1985-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This publication is applicable to liquid cooling systems of the closed loop type and the expendable coolant type in which the &lt;u&gt;primary&lt;/u&gt; function is transporting of heat from its source to a heat sink. Most liquid cooling system applications are oriented toward the cooling of electronics. Liquid cooling techniques, heat sinks, design features, selection of coolants, corrosion control, and servicing requirements for these systems are presented. Information on vapor compression refrigeration systems, which are a type of cooling system, is found in Reference 1.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

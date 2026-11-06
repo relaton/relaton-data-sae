@@ -1,0 +1,43 @@
+---
+id: SAEARP494A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TERMINALS - INPUT AND OUTPUT - IGNITION EXCITERS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp494a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp494a-terminals-input-output-ignition-exciters
+docidentifier:
+- content: SAE ARP494A
+  type: SAE
+  primary: true
+- content: 10.4271/arp494a
+  type: DOI
+date:
+- type: approved
+  at: '1957-11-15'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

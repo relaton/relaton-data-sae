@@ -1,0 +1,58 @@
+---
+id: SAEJ2208_200710
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Park Standard for Automatic Transmissions
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2208_200710
+- type: src
+  content: https://saemobilus.sae.org/standards/j2208_200710-park-standard-automatic-transmissions
+docidentifier:
+- content: SAE J2208_200710
+  type: SAE
+  primary: true
+- content: 10.4271/j2208_200710
+  type: DOI
+date:
+- type: approved
+  at: '2007-10-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Automatic Transmission and Transaxle Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;To provide a Recommended Practice for validating the function and integrity of an automatic transmission park mechanism with its associated control system and environment.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

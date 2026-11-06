@@ -1,0 +1,58 @@
+---
+id: SAEJ19391_201211
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: On-Highway Equipment Control and Communication Network
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939/1_201211
+- type: src
+  content: https://saemobilus.sae.org/standards/j19391_201211-highway-equipment-control-communication-network
+docidentifier:
+- content: SAE J1939/1_201211
+  type: SAE
+  primary: true
+- content: 10.4271/j1939/1_201211
+  type: DOI
+date:
+- type: approved
+  at: '2012-11-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE J1939-1 On-Highway Equipment Control and Communication Network specifies the minimum set of SAE J1939 documents that define the Truck and Bus Control and Communications Vehicle Network as it applies to on-highway equipment. Vehicles covered include all on-highway straight trucks and road trains. A road train consists of one towing vehicle (tractor) and one or more towed vehicles (trailers and dollies). Dolly axles within the road train are considered to be towed vehicles.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

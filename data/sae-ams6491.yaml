@@ -1,0 +1,57 @@
+---
+id: SAEAMS6491
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS, FORGINGS, AND TUBING 4.1Cr - 4.2 Mo - 1.0V (0.80 - 0.85C) Premium
+    Bearing Quality, Double Vacuum Melted
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6491
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6491-steel-bars-forgings-tubing-41cr-42-mo-10v-080-085c-premium-bearing-quality-double-vacuum-melted
+docidentifier:
+- content: SAE AMS6491
+  type: SAE
+  primary: true
+- content: 10.4271/ams6491
+  type: DOI
+date:
+- type: approved
+  at: '1976-01-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a premium-bearing-quality, low-alloy steel in the form of bars, forgings, mechanical tubing, and forging stock.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

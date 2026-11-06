@@ -1,0 +1,57 @@
+---
+id: SAEAS1197
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CONTINUOUS FLOW OXYGEN REGULATOR
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1197
+- type: src
+  content: https://saemobilus.sae.org/standards/as1197-continuous-flow-oxygen-regulator
+docidentifier:
+- content: SAE AS1197
+  type: SAE
+  primary: true
+- content: 10.4271/as1197
+  type: DOI
+date:
+- type: approved
+  at: '1993-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard covers regulators of the following types:&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

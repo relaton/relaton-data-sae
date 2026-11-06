@@ -1,0 +1,57 @@
+---
+id: SAEJ3040_201512
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electric Vehicle (E-Vehicle) Crash Test Lab Safety Guidelines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3040_201512
+- type: src
+  content: https://saemobilus.sae.org/standards/j3040_201512-electric-vehicle-e-vehicle-crash-test-lab-safety-guidelines
+docidentifier:
+- content: SAE J3040_201512
+  type: SAE
+  primary: true
+- content: 10.4271/j3040_201512
+  type: DOI
+date:
+- type: approved
+  at: '2015-12-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Impact and Rollover Test Procedures Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The special risks associated with conducting crash tests on E-Vehicles can be divided into two main categories; 1) thermal activity inside the battery (resulting from electrical or mechanical abuse) may lead to energetic emission of harmful and/or flammable gases, thermal runaway, and potentially fire, and 2) the risk of electrocution. Procedures to ensure protection from all types of risk must be integrated into the entire crash test process. This informational report is intended to provide guidance in this endeavor using current best practices at the time of this publication. As both battery technology and battery management system technology is in a phase of expansion, the contents of this report must then be gaged against current technology of the time, and updated periodically to retain its applicability and usefulness.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The scope of this document is to provide an understanding of the risks and an overview of the techniques established to reduce the likelihood that an event would cause harm to laboratory personnel and/or property. A laboratory considering E-Vehicle crash testing should work closely with the E-Vehicle manufacturer to identify and understand the risks associated with shipping and handling of their vehicle (pre and post-crash), storage of the vehicle (pre and post-crash), battery system diagnostics procedures, and operation of the vehicle.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

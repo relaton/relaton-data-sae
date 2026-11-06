@@ -1,0 +1,56 @@
+---
+id: SAEJ193981_201602
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Network Management
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939/81_201602
+- type: src
+  content: https://saemobilus.sae.org/standards/j193981_201602-network-management
+docidentifier:
+- content: SAE J1939/81_201602
+  type: SAE
+  primary: true
+- content: 10.4271/j1939/81_201602
+  type: DOI
+date:
+- type: approved
+  at: '2016-02-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE J1939-81 Network Management defines the processes and messages associated with managing the source addresses of applications communicating on an SAE J1939 network. Network management is concerned with the management of source addresses and the association of those addresses with an actual function and with the detection and reporting of network related errors. Due to the nature of management of source addresses, network management also specifies initialization processes, requirements for reaction to brief power outages and minimum requirements for ECUs on the network.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

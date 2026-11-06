@@ -1,0 +1,54 @@
+---
+id: SAEAMS5748A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Bars, Forgins, and Rings, Corrosion Resistant 14cr 13.5co 5.0mo 0.50ni
+    0.20v Premium Quality, Consumable Electrode Melted
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5748a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5748a-steel-bars-forgins-rings-corrosion-resistant-14cr-135co-50mo-050ni-020v-premium-quality-consumable-electrode-melted
+docidentifier:
+- content: SAE AMS5748A
+  type: SAE
+  primary: true
+- content: 10.4271/ams5748a
+  type: DOI
+date:
+- type: approved
+  at: '1992-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: <p>This specification has been "CANCELLED" by the Aerospace Materials Division,
+    SAE, as of October, 1991.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

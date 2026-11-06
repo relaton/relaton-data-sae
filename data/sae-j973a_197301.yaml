@@ -1,0 +1,56 @@
+---
+id: SAEJ973A_197301
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Ignition System Measurements Procedure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j973a_197301
+- type: src
+  content: https://saemobilus.sae.org/standards/j973a_197301-ignition-system-measurements-procedure
+docidentifier:
+- content: SAE J973A_197301
+  type: SAE
+  primary: true
+- content: 10.4271/j973a_197301
+  type: DOI
+date:
+- type: approved
+  at: '1973-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Ignition Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Recommended Practice is intended to provide any technical
+    person or group interested in ignition system design and/or evaluation with the
+    specific equipment, conditions, and methods which will produce test results definitive
+    and reproducible for his own work and yet sufficiently standardized to be acceptable
+    to other groups working on battery ignition systems for automotive engines.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

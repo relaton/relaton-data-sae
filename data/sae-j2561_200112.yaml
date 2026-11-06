@@ -1,0 +1,61 @@
+---
+id: SAEJ2561_200112
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Bluetooth™ Wireless Protocol for Automotive Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2561_200112
+- type: src
+  content: https://saemobilus.sae.org/standards/j2561_200112-bluetooth-wireless-protocol-automotive-applications
+docidentifier:
+- content: SAE J2561_200112
+  type: SAE
+  primary: true
+- content: 10.4271/j2561_200112
+  type: DOI
+date:
+- type: approved
+  at: '2001-12-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Architecture For Data Communications Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report defines the functionality of typical Bluetooth applications used for remotely accessing in-vehicle automotive installations of electronic devices. Remote access may be achieved directly with on-board Bluetooth modules, or indirectly via a custom designed gateway that communicates with Bluetooth and non-Bluetooth modules alike.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Access to the vehicle, in the form of two-way communications, may be made via a single master port, or via multiple ports on the vehicle. The Bluetooth technology may also be used in conjunction with other types of off-board wireless technology.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This report recommends using a message strategy that is already defined in one or more of the documents listed in &lt;span class="xref"&gt;2.1.1&lt;/span&gt;, &lt;span class="xref"&gt;2.1.4&lt;/span&gt;, &lt;span class="xref"&gt;2.1.5&lt;/span&gt;, and &lt;span class="xref"&gt;2.1.6&lt;/span&gt;. Those strategies may be used for some of the typical remote communications with a vehicle. It is recognized, however, that there may be specific applications requiring a unique message strategy or structure.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document depicts five different levels of security measures that may be required for the various types of communication.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The EMC test requirements for the implementation of this protocol are recommended.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This report makes no attempt to define all of the applications wherein the Bluetooth protocol may be utilized. A number of use cases are listed in &lt;span class="xref"&gt;Section B.1&lt;/span&gt; of the appendix to serve as representative applications, e.g., credit card transactions, vehicle diagnostics, toll booth collection, flash reprogramming, etc.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

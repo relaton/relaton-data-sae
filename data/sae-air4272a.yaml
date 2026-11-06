@@ -1,0 +1,60 @@
+---
+id: SAEAIR4272A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Power Controllers:  Signal Interface Applications and Considerations'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4272a
+- type: src
+  content: https://saemobilus.sae.org/standards/air4272a-power-controllers-signal-interface-applications-considerations
+docidentifier:
+- content: SAE AIR4272A
+  type: SAE
+  primary: true
+- content: 10.4271/air4272a
+  type: DOI
+date:
+- type: approved
+  at: '2006-05-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This AIR is applicable to SSPCs, EMPCs, and hybrid power controllers. It covers the control, status, BIT, etc., interfaces, other than electrical power. For the purpose of this document, a power controller shall have, as a minimum, the following characteristics:
+
+    a. Power switching function
+    b. Control input
+    c. Overload protection
+    d. Status feedback
+
+    To accomplish the goals set forth in the Foreword, the interfaces are first categorized by function. Next, examples of actual implementations are given.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

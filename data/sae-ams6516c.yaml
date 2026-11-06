@@ -1,0 +1,58 @@
+---
+id: SAEAMS6516C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Bars and Forgings and Forging Stock 1Cr - 10Ni - 7Co - 2Mo - 1.3W
+    - 0.1V - (0.28 - 0.32C) Vacuum Induction Melted, Vacuum Arc Remelted, Normalized
+    and Annealed Precipitation Hardenable
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6516c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6516c-steel-bars-forgings-forging-stock-1cr-10ni-7co-2mo-13w-01v-028-032c-vacuum-induction-melted-vacuum-arc-remelted-normalized-annealed-precipitation-hardenable
+docidentifier:
+- content: SAE AMS6516C
+  type: SAE
+  primary: true
+- content: 10.4271/ams6516c
+  type: DOI
+date:
+- type: approved
+  at: '2021-11-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a premium aircraft-quality alloy steel in the form of bars and forgings 189 in&lt;sup&gt;2&lt;/sup&gt; (1219 cm&lt;sup&gt;2&lt;/sup&gt;) and under in cross-sectional area and forging stock of any size.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

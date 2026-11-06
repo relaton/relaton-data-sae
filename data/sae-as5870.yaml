@@ -1,0 +1,59 @@
+---
+id: SAEAS5870
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Thread Inspection Practices
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5870
+- type: src
+  content: https://saemobilus.sae.org/standards/as5870-thread-inspection-practices
+docidentifier:
+- content: SAE AS5870
+  type: SAE
+  primary: true
+- content: 10.4271/as5870
+  type: DOI
+date:
+- type: approved
+  at: '2020-02-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document addresses AS8879 thread inspection issues relating to selection, usage and capability of gages. It addresses the selection of calibrated measurement gages, the need for defined quality metrics, the methodology of determining the appropriate guardband factors, and the minimum inspection requirements for single element pitch diameter gages.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Users of this document shall apply the information described herein for the evaluation of the capability of their measurements based on the measurement consumer risk. It involves the analysis of the measurement (product) distribution and biases of both the product and measurement system distributions. It protects the consumer from the worst case distribution results.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A whitepaper has been developed to provide supporting documentation and the rationale used in the development of this standard. This whitepaper will be published by the SAE as an Aerospace Information Report (AIR6553).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document recommends the use of ASME B1.2 “Gages and Gaging for Unified Inch Screw Threads” or IFI 301 “Gage Calibration Requirements and Procedures for Thread Gages” as guides for establishing the minimum calibration requirements for all types of thread gages.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

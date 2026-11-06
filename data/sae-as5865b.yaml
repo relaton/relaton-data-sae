@@ -1,0 +1,61 @@
+---
+id: SAEAS5865B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FITTING REDUCER ASSEMBLY, RING LOCKED, ADAPTER, FLARELESS TO PORT, EXTRA
+    FINE THREADS, 5080 PSI
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5865b
+- type: src
+  content: https://saemobilus.sae.org/standards/as5865b-fitting-reducer-assembly-ring-locked-adapter-flareless-port-extra-fine-threads-5080-psi
+docidentifier:
+- content: SAE AS5865B
+  type: SAE
+  primary: true
+- content: 10.4271/as5865b
+  type: DOI
+date:
+- type: approved
+  at: '2026-03-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

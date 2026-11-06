@@ -1,0 +1,63 @@
+---
+id: SAEJ32771_202501
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Liquid Leak Tightness Standards for Propulsion Battery Packs Recommended
+    Practice
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3277/1_202501
+- type: src
+  content: https://saemobilus.sae.org/standards/j32771_202501-liquid-leak-tightness-standards-propulsion-battery-packs-recommended-practice
+docidentifier:
+- content: SAE J3277/1_202501
+  type: SAE
+  primary: true
+- content: 10.4271/j3277/1_202501
+  type: DOI
+date:
+- type: approved
+  at: '2025-01-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Battery Standards Testing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice (RP) establishes nondestructive in-line production test methods for evaluating the water leak tightness of propulsion battery packs. It aims to achieve results equivalent to the IEC 60529 standard’s IPX7 level using the Selected Equivalent Channel (EC) method defined in SAE J3277. This RP provides guidance for system setup, tooling design, validation, and leak test procedures. It acknowledges the limitations of certain battery pack designs and recommends appropriate air or tracer gas leak tightness technologies.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Specifically, this RP covers nondestructive end-of-line leak testing for:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Battery pack assembly: Ensuring protection against water ingress into the battery pack.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Coolant system: Verifying the integrity of the coolant system and preventing coolant leaks into the battery pack.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

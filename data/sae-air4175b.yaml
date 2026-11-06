@@ -1,0 +1,54 @@
+---
+id: SAEAIR4175B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: A Guide to the Development of a Ground Station for Engine Condition Monitoring
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4175b
+- type: src
+  content: https://saemobilus.sae.org/standards/air4175b-a-guide-development-a-ground-station-engine-condition-monitoring
+docidentifier:
+- content: SAE AIR4175B
+  type: SAE
+  primary: true
+- content: 10.4271/air4175b
+  type: DOI
+date:
+- type: approved
+  at: '2016-11-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;An effective GSS is vital to the successful implementation of an EMS and is a fundamental part of the total monitoring system design, including asset management. Unlike the on-board part of the EMS which principally uses real time data to indicate when engine maintenance is required, a GSS can offer much greater processing power to comprehensively analyze and manipulate EMS data for both maintenance and logistics purposes.&lt;/p&gt;
+    &lt;p&gt;This document reviews the main EMS functions and discusses the operating requirements used to determine the basis design of a GSS, including the interfaces with other maintenance or logistic systems. A brief discussion is also included on some of the more recent advances in GSS technology that have been specifically developed to provide more effective diagnostic capabilities for gas turbine engines.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

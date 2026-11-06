@@ -1,0 +1,56 @@
+---
+id: SAEAS402
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AUTOMATIC PILOTS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as402
+- type: src
+  content: https://saemobilus.sae.org/standards/as402-automatic-pilots
+docidentifier:
+- content: SAE AS402
+  type: SAE
+  primary: true
+- content: 10.4271/as402
+  type: DOI
+date:
+- type: approved
+  at: '1947-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4 Aircraft Instruments Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers all gyroscopic and servo control types of automatic pilots intended for use on aircraft to operate automatically the control surfaces of the aircraft to maintain a stabilized flight attitude with respect to the longitudinal, lateral and vertical axes, and to provide for maneuvering the airplane through servo control.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEARP5062A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Recommended Test Fluids for Electrical Components Used on Aircraft Exterior
+    or for Ground Support Near Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5062a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5062a-recommended-test-fluids-electrical-components-used-aircraft-exterior-ground-support-near-aircraft
+docidentifier:
+- content: SAE ARP5062A
+  type: SAE
+  primary: true
+- content: 10.4271/arp5062a
+  type: DOI
+date:
+- type: approved
+  at: '2012-11-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8A Elec Wiring and Fiber Optic Interconnect Sys Install
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Aerospace Recommended Practice (ARP) is to provide recommended test fluids for testing of electrical components used on aircraft exterior or for ground support near aircraft. These fluids were selected based on a consolidation of test fluids used by military and commercial sources and on review of national and international component specifications.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These recommendations are general guidelines. Safety factors for any unusual testing applications or operating conditions should be given special consideration by the designer.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The test fluids provided are intended to be recommendations and are not intended to limit or supersede those recommended by aircraft or ground support equipment manufacturers.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

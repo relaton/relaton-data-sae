@@ -1,0 +1,53 @@
+---
+id: SAEAS1508A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Undercuts for Straight Screw Threads - Metric
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1508a
+- type: src
+  content: https://saemobilus.sae.org/standards/as1508a-undercuts-straight-screw-threads-metric
+docidentifier:
+- content: SAE AS1508A
+  type: SAE
+  primary: true
+- content: 10.4271/as1508a
+  type: DOI
+date:
+- type: approved
+  at: '2019-06-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>&lt;p&gt;This standard provides recommended dimensional data for screw
+    thread undercuts for straight 'MJ' metric screw threads in accordance with AS1370.&lt;/p&gt;</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

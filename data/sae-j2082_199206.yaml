@@ -1,0 +1,60 @@
+---
+id: SAEJ2082_199206
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: COOLING FLOW MEASUREMENT TECHNIQUES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2082_199206
+- type: src
+  content: https://saemobilus.sae.org/standards/j2082_199206-cooling-flow-measurement-techniques
+docidentifier:
+- content: SAE J2082_199206
+  type: SAE
+  primary: true
+- content: 10.4271/j2082_199206
+  type: DOI
+date:
+- type: approved
+  at: '1992-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Road Vehicle Aerodynamics Forum Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report has been prepared by the Standards Committee on Cooling Flow Measurement (CFM) at the request of the SAE Road Vehicle Aerodynamics Forum Committee (RVAC). The committee was formed in January 1985 for the purpose of investigating what measuring techniques are used by automotive product manufacturers to determine air cooling air flow rates and, if possible, to synthesize these into a recommended practice report.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Although a great deal is already known about engine cooling, recent concern with fuel conservation has resulted in generally smaller air intakes whose shape and location are dictated primarily by low vehicle drag/high forward speed requirements. The new vehicle intake configurations make it more difficult to achieve adequate cooling under all conditions. They cause cooling flow velocity profiles to become distorted and underhood temperatures to be excessively high. Such problems make it necessary to achieve much better accuracy in measuring cooling flows.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;As the following descriptions show, each company or institution concerned with this problem has invested a lot of time and as a result gained considerable experience in developing measuring techniques that appear to achieve reliable results. There is, however, little uniformity at the present time among the methods used by different companies and no indication at this time of a trend towards a simple and universally acceptable measuring technique. If one can make generalizations, it seems that the North American industry appears to use vane anemometers, whereas the European industry appears to favor pressure measurements for determining cooling air flows.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Usually cooling flow measurement makes use of ensemble average calibrations of arrayed sensors. The major drawback of ensemble averaging usage of sensors appears to be the need for prior calibration of each combination of sensor array and radiator/vehicle front-end configuration. While there appears to be a growing interest in also knowing flow distributions—which necessitates the use of a plurality of sensing devices—very little is made of area-averaging techniques.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Given the present state of the technology, this report covers simply an overview of the different measuring techniques deployed in the industry, and it is left to the future to report on developments towards a unified cooling flow measurement method. &lt;span class="xref"&gt;Appendices A&lt;/span&gt; and &lt;span class="xref"&gt;B&lt;/span&gt; present a number of problem statements that were identified during the present CFM review and whose solution would promote a better understanding of cooling flow measurement generally.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

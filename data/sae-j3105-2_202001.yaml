@@ -1,0 +1,58 @@
+---
+id: SAEJ31052_202001
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electric Vehicle Power Transfer System Using Conductive Automated Connection
+    Devices Vehicle-Mounted Pantograph (Bus-Up)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3105/2_202001
+- type: src
+  content: https://saemobilus.sae.org/standards/j31052_202001-electric-vehicle-power-transfer-system-using-conductive-automated-connection-devices-vehicle-mounted-pantograph-bus
+docidentifier:
+- content: SAE J3105/2_202001
+  type: SAE
+  primary: true
+- content: 10.4271/j3105/2_202001
+  type: DOI
+date:
+- type: approved
+  at: '2020-01-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document details one of the connections of the SAE J3105 document. The connections are referenced in the scope of the main document SAE J3105. SAE J3105/2 details the vehicle-mounted pantograph, or the bus-up connection. All the common requirements are defined in the main document; the current document provides the details of the connection.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document covers the connection interface relevant requirements for an electric vehicle power transfer system using a conductive automated charging device based on a conventional rail vehicle pantograph design. To allow interoperability for on-road vehicles (in particular, buses and coaches), one configuration is described in this document. Other configurations may be used for non-standard applications (for example, mining trucks or port vehicles).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,48 @@
+---
+id: SAEAS44B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STARTER, MOUNTING PADS AND DRIVES - TYPES I, II, III & IV
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as44b
+- type: src
+  content: https://saemobilus.sae.org/standards/as44b-starter-mounting-pads-drives-types-i-ii-iii-iv
+docidentifier:
+- content: SAE AS44B
+  type: SAE
+  primary: true
+- content: 10.4271/as44b
+  type: DOI
+date:
+- type: approved
+  at: '2013-01-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

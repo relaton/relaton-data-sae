@@ -1,0 +1,61 @@
+---
+id: SAEARP4176A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Determination of Costs and Benefits from Implementing an Engine Health
+    Management System
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4176a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4176a-determination-costs-benefits-implementing-engine-health-management-system
+docidentifier:
+- content: SAE ARP4176A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4176a
+  type: DOI
+date:
+- type: approved
+  at: '2020-04-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>&lt;p&gt;This ARP provides an insight into how to approach a cost benefit
+    analysis (CBA) to determine the return on investment (ROI) that would result from
+    implementing a propulsion Prognostics and Health Management (PHM) system on an
+    air vehicle.  It describes the complexity of features that can be considered in
+    the analysis, the different tools and approaches for conducting a CBA and differentiates
+    between military and commercial applications.  This document is intended to help
+    those who might not necessarily have a deep technical understanding or familiarity
+    with PHM systems but want to either quantify or understand the economic benefits
+    (i.e., the value proposition) that a PHM system could provide.&lt;/p&gt;</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

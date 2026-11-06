@@ -1,0 +1,58 @@
+---
+id: SAEAS8660A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Silicone Compound, NATO Code Number S-736
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8660a
+- type: src
+  content: https://saemobilus.sae.org/standards/as8660a-silicone-compound-nato-code-number-s-736
+docidentifier:
+- content: SAE AS8660A
+  type: SAE
+  primary: true
+- content: 10.4271/as8660a
+  type: DOI
+date:
+- type: approved
+  at: '2020-09-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS M Aerospace Greases Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>&lt;p&gt;This specification covers one type of a nonmelting, heat stable
+    silicone compound for use in high tension electrical connections, ignition systems
+    and electronics equipment; for application to unpainted mating threaded or non-threaded
+    surfaces, and as a lubricant for components fabricated from rubber.  This compound
+    is effective in the temperature range from -54°C (-65°F) to +204°C (+400°F) for
+    extended periods and to 260°C (500°F) for short periods.  This compound is identified
+    by NATO symbol S-736 (see 6.5).&lt;/p&gt;</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

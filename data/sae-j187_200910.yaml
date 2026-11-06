@@ -1,0 +1,55 @@
+---
+id: SAEJ187_200910
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Truck Vehicle Identification Numbers
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j187_200910
+- type: src
+  content: https://saemobilus.sae.org/standards/j187_200910-truck-vehicle-identification-numbers
+docidentifier:
+- content: SAE J187_200910
+  type: SAE
+  primary: true
+- content: 10.4271/j187_200910
+  type: DOI
+date:
+- type: approved
+  at: '2009-10-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: VIN - WMI Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Recommended Practice has been established to provide  direction
+    for the design and installation of a vehicle identification  number assigned to
+    a truck or truck-tractor.  In adhering to these standards, facility of application
+    in factory production and appearance are matters for manufacturer control.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

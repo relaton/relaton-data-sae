@@ -1,0 +1,80 @@
+---
+id: SAEARP588
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FORCE BALANCING MACHINES FOR JET ENGINE COMPRESSOR AND TURBINE COMPONENTS
+    - ROTATING TYPE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp588
+- type: src
+  content: https://saemobilus.sae.org/standards/arp588-force-balancing-machines-jet-engine-compressor-turbine-components-rotating-type
+docidentifier:
+- content: SAE ARP588
+  type: SAE
+  primary: true
+- content: 10.4271/arp588
+  type: DOI
+date:
+- type: approved
+  at: '1965-10-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EG-1A Balancing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice specifies those requirements of balancing equipment which make it suitable for the subject class of work.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It will specify:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Sensitivity&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Accuracy of indication of amount and location of unbalance&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Ability to measure force unbalance unaffected by couple unbalance&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Machine capacity relating to weight and physical dimensions of the rotors which can be balanced&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Balancing speed of rotation&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;f&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Standard balancing-machine drive-adapter flange dimensions&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;g&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Power requirements&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

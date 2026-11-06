@@ -1,0 +1,56 @@
+---
+id: SAEARP5289
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electronic Aeronautical Symbols
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5289
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5289-electronic-aeronautical-symbols
+docidentifier:
+- content: SAE ARP5289
+  type: SAE
+  primary: true
+- content: 10.4271/arp5289
+  type: DOI
+date:
+- type: approved
+  at: '2008-02-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10J Charting Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document sets forth design and operational recommendations concerning human factors issues and criteria for the standardization of electronic charting symbology.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

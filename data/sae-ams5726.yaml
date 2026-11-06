@@ -1,0 +1,58 @@
+---
+id: SAEAMS5726
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS, CORROSION AND HEAT RESISTANT 15Cr - 25.5Ni - 1.25Mo - 2.1Ti
+    - 0.006B - 0.30V 1800°F (982°C) Solution Treated and Work-Strengthened Consumable
+    Electrode Melted
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5726
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5726-steel-bars-corrosion-heat-resistant-15cr-255ni-125mo-21ti-0006b-030v-1800f-982c-solution-treated-work-strengthened-consumable-electrode-melted
+docidentifier:
+- content: SAE AMS5726
+  type: SAE
+  primary: true
+- content: 10.4271/ams5726
+  type: DOI
+date:
+- type: approved
+  at: '1977-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a precipitation-hardenable corrosion and heat resistant steel in the form of work-strengthened bars and wire.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAS8055
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Minimum Performance Standard for Airborne Head Up Display (HUD)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8055
+- type: src
+  content: https://saemobilus.sae.org/standards/as8055-minimum-performance-standard-airborne-head-display-hud
+docidentifier:
+- content: SAE AS8055
+  type: SAE
+  primary: true
+- content: 10.4271/as8055
+  type: DOI
+date:
+- type: approved
+  at: '2008-01-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4HUD Head-up Display Subcommittee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) specifies minimum performance standards for airborne binocular Head Up Displays (HUDs) in fixed wing aircraft. This document covers criteria for conformal and non-conformal HUD systems that are intended for use in the cockpit by the pilot or copilot. Display minimum performance characteristics are specified for standard and other environmental conditions for the purpose of product qualification.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not address sensor imaging systems, displays worn by the pilot (goggles, helmet mounted displays) or specific symbology to be displayed.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

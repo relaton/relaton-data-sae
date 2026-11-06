@@ -1,0 +1,58 @@
+---
+id: SAEARP5088C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Test Method for the Determination of Total Acidity in Polyol Ester and
+    Diester Gas Turbine Lubricants by Automatic Potentiometric Titration
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5088c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5088c-test-method-determination-total-acidity-polyol-ester-diester-gas-turbine-lubricants-automatic-potentiometric-titration
+docidentifier:
+- content: SAE ARP5088C
+  type: SAE
+  primary: true
+- content: 10.4271/arp5088c
+  type: DOI
+date:
+- type: approved
+  at: '2024-03-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-34 Propulsion Lubricants Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The test method describes the procedure for determination of the total acid number (TAN) of new and degraded polyol ester and diester-based gas turbine lubricants by the potentiometric titration technique. The method was validated to cover an acidity range of 0.05 to 6.0 mg KOH g&lt;sup&gt;-1&lt;/sup&gt;. The method may also be suitable for the determination of acidities outside of this range and for other classes of lubricants.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

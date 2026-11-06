@@ -1,0 +1,57 @@
+---
+id: SAEAS84382
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Terminus, Fiber Optic, Expanded Beam, Single-Mode, Ball Lens, Removable,
+    Rear Release Socket, Size 16, Harsh Environment, General Specification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8438/2
+- type: src
+  content: https://saemobilus.sae.org/standards/as84382-terminus-fiber-optic-expanded-beam-single-mode-ball-lens-removable-rear-release-socket-size-16-harsh-environment-general-specification
+docidentifier:
+- content: SAE AS8438/2
+  type: SAE
+  primary: true
+- content: 10.4271/as8438/2
+  type: DOI
+date:
+- type: approved
+  at: '2022-06-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This slash sheet defines the design, performance, and interoperability requirements for fiber optic expanded beam, ball lens, single-mode socket termini installed in size 16 cavity connectors.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

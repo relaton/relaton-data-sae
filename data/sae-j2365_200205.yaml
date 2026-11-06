@@ -1,0 +1,57 @@
+---
+id: SAEJ2365_200205
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Calculation of the Time to Complete In-Vehicle Navigation and Route Guidance
+    Tasks
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2365_200205
+- type: src
+  content: https://saemobilus.sae.org/standards/j2365_200205-calculation-time-complete-vehicle-navigation-route-guidance-tasks
+docidentifier:
+- content: SAE J2365_200205
+  type: SAE
+  primary: true
+- content: 10.4271/j2365_200205
+  type: DOI
+date:
+- type: approved
+  at: '2002-05-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Safety and Human Factors Standards Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice applies to both Original Equipment Manufacturer (OEM) and aftermarket route-guidance and navigation system functions for passenger vehicles. This recommended practice provides a method for calculating the time required to complete navigation system-related tasks. These estimates may be used as an aid to assess the safety and usability of alternative navigation and route guidance system interfaces to assist in their design. This document does not consider voice-activated controls, voice output from the navigation system, communication between the driver and others, or passenger operation.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,62 @@
+---
+id: SAEARP4148A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GAS TURBINE ENGINE REAL TIME PERFORMANCE MODEL PRESENTATION FOR DIGITAL
+    COMPUTERS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4148a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4148a-gas-turbine-engine-real-time-performance-model-presentation-digital-computers
+docidentifier:
+- content: SAE ARP4148A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4148a
+  type: DOI
+date:
+- type: approved
+  at: '1993-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-15 Gas Turbine Perf Simulation Nomenclature and Interfaces
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides guidance for the presentation of gas turbine engine transient performance models with the capacity to be implemented as digital computer programs operating in real time and is intended to complement AS681.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Such models will be used in those applications where a transient program must interface with physical systems. These applications are characterized by the requirement for real time transient response.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These models require attention to unique characteristics that are beyond the scope of AS681. This document is intended to facilitate the development of mathematical models and the coordination of their requirements with the user. It will not unduly restrict the modeling methodology used by the supplier.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The objective of this document is to define a recommended practice for the delivery of mathematical models intended for real time use. Models used in this application may also be contained in deliverable computer programs covered by AS681.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

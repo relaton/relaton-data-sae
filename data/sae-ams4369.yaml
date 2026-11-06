@@ -1,0 +1,57 @@
+---
+id: SAEAMS4369
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Discontinuously Reinforced Extruded Bar, Rod, Wire and
+    Shapes (2124A/SiC/25p (0.7 µm) (T1P)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4369
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4369-aluminum-alloy-discontinuously-reinforced-extruded-bar-rod-wire-shapes-2124a-sic-25p-07-m-t1p
+docidentifier:
+- content: SAE AMS4369
+  type: SAE
+  primary: true
+- content: 10.4271/ams4369
+  type: DOI
+date:
+- type: approved
+  at: '2018-07-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a discontinuously reinforced aluminum alloy (DRA) made by mechanical alloying 2124A aluminum powder and SiC particulate. It is produced in the form of extruded bar, rod, wire and shapes with cross section inclusive of 1 inch (25.4 mm) diameter or less.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

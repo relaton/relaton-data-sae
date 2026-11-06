@@ -1,0 +1,62 @@
+---
+id: SAEARP4946
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace - Valves, Check, Hydraulic, Aircraft and Missile
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4946
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4946-aerospace-valves-check-hydraulic-aircraft-missile
+docidentifier:
+- content: SAE ARP4946
+  type: SAE
+  primary: true
+- content: 10.4271/arp4946
+  type: DOI
+date:
+- type: approved
+  at: '2000-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C5 Components Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) establishes the general requirements for spring-loaded, normally closed check valves for use in Type I, Type II, or Type III aircraft and missile hydraulic systems having nominal operating pressure shown in &lt;span class="xref"&gt;Table 1&lt;/span&gt;.&lt;/div&gt;
+
+
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

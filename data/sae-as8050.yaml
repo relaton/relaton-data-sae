@@ -1,0 +1,57 @@
+---
+id: SAEAS8050
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Connectors, Fiber Optic, Advanced, Circular, Modular or Rectangular, Plug
+    and Receptacle, Harsh Environment, Removable Termini, General Specification for
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8050
+- type: src
+  content: https://saemobilus.sae.org/standards/as8050-connectors-fiber-optic-advanced-circular-modular-rectangular-plug-receptacle-harsh-environment-removable-termini-general-specification
+docidentifier:
+- content: SAE AS8050
+  type: SAE
+  primary: true
+- content: 10.4271/as8050
+  type: DOI
+date:
+- type: approved
+  at: '2020-12-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The AS8050 master document contains general information for qualification of aerospace fiber optic, circular, modular, and rectangular connectors as part of a fiber optic interconnect assembly comprising of a connector, fiber optic cable, and fiber optic terminus. The product specifications (slash sheets) contain dimensional, mechanical, and operating performance requirements for aerospace fiber optic, circular, and rectangular connectors. The product specifications (slash sheets) reference associated aerospace fiber optic termini and cables suitable for use with AS8050 connectors.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

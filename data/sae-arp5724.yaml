@@ -1,0 +1,61 @@
+---
+id: SAEARP5724
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace - Testing of Electromechanical Actuators, General Guidelines
+    For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5724
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5724-aerospace-testing-electromechanical-actuators-general-guidelines
+docidentifier:
+- content: SAE ARP5724
+  type: SAE
+  primary: true
+- content: 10.4271/arp5724
+  type: DOI
+date:
+- type: approved
+  at: '2013-10-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6B3 Electro-Mechanical Actuation Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides an overview of the tests, and issues related to testing, that are unique to Electromechanical Actuators (EMAs). The tests, and issues documented, are not necessarily all-inclusive. This document discusses both the tests applicable to EMAs and the test methodologies to accomplish the test objectives.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;EMAs may be used in a wide variety of applications such as utility, secondary flight controls and primary flight controls, in a wide variety of markets including manned and unmanned civil and military aircraft, small missile fin and thrust vector control applications up to high powered utility and flight controls. EMAs may also have either a rotary or a linear output, be servo controlled or use simple open loop point-to-point or other control topologies. As such this document covers a wide range of potential applications, the application of any given test requirement is determined by the application and the user. This document attempts to provide basic guidance on which tests should be considered for various applications. This document also lists tests that are not unique to EMAs, but are still applicable to EMAs. In these instances a discussion of such tests is not contained in this document, and as applicable, the reader may reference the appropriate documents as indicated in the text.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;While many EMA configurations include digital power drive electronics (PDE), the specific tests required for the electronic hardware, software, or firmware are outside the scope of this document.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,49 @@
+---
+id: SAEAMS6512
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS, FORGINGS, TUBING, AND RINGS 18Ni - 7.8Co - 4.9Mo - 0.40Ti -
+    0.10Al Consumable Electrode Melted, Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6512
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6512-steel-bars-forgings-tubing-rings-18ni-78co-49mo-040ti-010al-consumable-electrode-melted-annealed
+docidentifier:
+- content: SAE AMS6512
+  type: SAE
+  primary: true
+- content: 10.4271/ams6512
+  type: DOI
+date:
+- type: approved
+  at: '1970-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

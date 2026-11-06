@@ -1,0 +1,72 @@
+---
+id: SAEJ2490_202509
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SAE No. 2 Friction Test Machine µPVT Test
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2490_202509
+- type: src
+  content: https://saemobilus.sae.org/standards/j2490_202509-sae-no-2-friction-test-machine-pvt-test
+docidentifier:
+- content: SAE J2490_202509
+  type: SAE
+  primary: true
+- content: 10.4271/j2490_202509
+  type: DOI
+date:
+- type: approved
+  at: '2025-09-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Automatic Transmission and Transaxle Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice is intended as the definition of a standard test, which may be subject to frequent change to keep pace with experience and technical advances. This should be kept in mind when considering its use.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The SAE No. 2 Friction Test Machine is used to evaluate the friction characteristics of automatic transmission plate clutches with automotive transmission fluids. It can also be used to conduct durability tests on wet friction systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The specific purpose of this document is to define a µPVT Test for the evaluation of the variation of wet friction system performance as a function of speed, temperature, and pressure. This procedure is intended as a standard for both suppliers and end users.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The only variables selected by the supplier or user of the friction system are:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Friction material&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Fluid&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Reaction plates&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;These three variables must be clearly identified when reporting the results of this test. If any of the test parameters or system hardware as described in this document are changed, other than the friction material, test fluid, or reaction plates, the data may not be reported as having been obtained using this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This procedure is intended to evaluate the midpoint, endpoint, and breakaway coefficients and endpoint/midpoint ratios. The procedure can be used to demonstrate changes that occur between the different levels of engagement speed, sump temperature, and apply pressure. Refer to SAE J2487, SAE J2488, or SAE J2489 for coefficient variations due to changes in power level.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The procedure, as described in detail in &lt;span class="xref"&gt;Table 1&lt;/span&gt;, consists of four 50 cycle break-in levels at 3500 rpm with increasing steps of apply pressure, followed by 16 levels consisting of 25 dynamic engagements, and one breakaway following completion of the 25th dynamic cycle. The 16 levels are achieved by varying initial engagement speed, apply pressure, and oil sump temperature while the inertia is kept constant at 0.701 kg/m&lt;sup&gt;2&lt;/sup&gt;.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

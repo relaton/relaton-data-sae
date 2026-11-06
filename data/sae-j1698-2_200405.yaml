@@ -1,0 +1,57 @@
+---
+id: SAEJ16982_200405
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Vehicle Event Data Interface—Vehicular Data Extraction
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1698/2_200405
+- type: src
+  content: https://saemobilus.sae.org/standards/j16982_200405-vehicle-event-data-interface-vehicular-data-extraction
+docidentifier:
+- content: SAE J1698/2_200405
+  type: SAE
+  primary: true
+- content: 10.4271/j1698/2_200405
+  type: DOI
+date:
+- type: approved
+  at: '2004-05-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Event Data Recorder Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Recommended Practice aims to utilize existing industry standards to define a common physical interface and the protocols necessary for Event Data Set extraction. To accomplish this, the SAE J1962 Diagnostics Connector has been designated the primary physical interface and associated industry standard diagnostic protocols have been designated for communications.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

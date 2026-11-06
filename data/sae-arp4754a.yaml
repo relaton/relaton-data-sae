@@ -1,0 +1,62 @@
+---
+id: SAEARP4754A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guidelines for Development of Civil Aircraft and Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4754a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4754a-guidelines-development-civil-aircraft-systems
+docidentifier:
+- content: SAE ARP4754A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4754a
+  type: DOI
+date:
+- type: approved
+  at: '2010-12-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-18 Aircraft and Sys Dev and Safety Assessment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document discusses the development of aircraft systems taking into account the overall aircraft operating environment and functions. This includes validation of requirements and verification of the design implementation for certification and product assurance. It provides practices for showing compliance with the regulations and serves to assist a company in developing and meeting its own internal standards by considering the guidelines herein.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The guidelines in this document were developed in the context of Title 14 Code of Federal Regulations (14CFR) Part 25 and European Aviation Safety Agency (EASA) Certification Specification (CS) CS-25. It may be applicable to other regulations, such as Parts 23, 27, 29, 33, and 35 (CS-23, CS-27, CS-29, CS-E, CS-P).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document addresses the development cycle for aircraft and systems that implement aircraft functions. It does not include specific coverage of detailed software or electronic hardware development, safety assessment processes, in-service safety activities, aircraft structural development nor does it address the development of the Master Minimum Equipment List (MMEL) or Configuration Deviation List (CDL). More detailed coverage of the software aspects of development are found in RTCA document DO-178B, “Software Considerations in Airborne Systems and Equipment Certification” and its EUROCAE counterpart, ED-12B. Coverage of electronic hardware aspects of development are found in RTCA document DO-254/EUROCAE ED-80, “Design Assurance Guidance for Airborne Electronic Hardware”. Design guidance and certification considerations for integrated modular avionics are found in appropriate RTCA/EUROCAE document DO-297/ED-124. Methodologies for safety assessment processes are outlined in SAE document ARP4761, “Guidelines and Methods for Conducting the Safety Assessment Process on Civil Airborne Systems and Equipment”. Details for in-service safety assessment are found in ARP5150, “Safety Assessment of Transport Airplanes In Commercial Service” and ARP5151 Safety Assessment of General Aviation Airplanes and Rotorcraft In Commercial Service.“ Post-certification activities (modification to a certificated product) are covered in &lt;span class="xref"&gt;section 6&lt;/span&gt; of this document. The regulations and processes used to develop and approve the MMEL vary throughout the world. Guidance for the development of the MMEL should be sought from the local airworthiness authority.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Figure  1&lt;/span&gt; outlines the relationships between the various development documents, which provide guidelines for safety assessment, electronic hardware and software life-cycle processes and the system development process described herein.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

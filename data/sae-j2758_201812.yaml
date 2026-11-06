@@ -1,0 +1,58 @@
+---
+id: SAEJ2758_201812
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Determination of the Maximum Available Power from a Rechargeable Energy
+    Storage System on a Hybrid Electric Vehicle
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2758_201812
+- type: src
+  content: https://saemobilus.sae.org/standards/j2758_201812-determination-maximum-available-power-a-rechargeable-energy-storage-system-a-hybrid-electric-vehicle
+docidentifier:
+- content: SAE J2758_201812
+  type: SAE
+  primary: true
+- content: 10.4271/j2758_201812
+  type: DOI
+date:
+- type: approved
+  at: '2018-12-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Battery Standards Testing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes a test procedure for rating peak power of the Rechargeable Energy Storage System (RESS) used in a combustion engine Hybrid Electric Vehicle (HEV). Other types of vehicles with non fossil fuel primary engines, such as fuel cells, are not intended to use this test procedure.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

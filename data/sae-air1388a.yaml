@@ -1,0 +1,56 @@
+---
+id: SAEAIR1388A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SERVICE DAMAGE LIMITS FOR AIRCRAFT HYDRAULIC TUBING
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1388a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1388a-service-damage-limits-aircraft-hydraulic-tubing
+docidentifier:
+- content: SAE AIR1388A
+  type: SAE
+  primary: true
+- content: 10.4271/air1388a
+  type: DOI
+date:
+- type: approved
+  at: '1984-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AIR is intended to assist in evaluating the serviceability of damaged hydraulic tubing lines. The performance requirements are outlined to which the defect samples were tested. Test methods and data are described and summarized. Permissible defect limits are listed for 6061T6 aluminum return lines, 3000 psi hydraulic tubing of 21Cr-6Ni-9Mn SS, 304 1/8 hard, corrosion resistant steel (CRES), as well as 3Al-2.5V CW and 3Al-2.5V annealed, seamless titanium tubing.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

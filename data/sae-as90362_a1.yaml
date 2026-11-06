@@ -1,0 +1,49 @@
+---
+id: SAEAS90362_A1
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Connector, Receptacle, External Electric Power, Aircraft, 115/200 Volt,
+    400 Hertz
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as90362_a1
+- type: src
+  content: https://www.sae.org/content/as90362_a1
+docidentifier:
+- content: SAE AS90362_A1
+  type: SAE
+  primary: true
+- content: 10.4271/as90362_a1
+  type: DOI
+date:
+- type: approved
+  at: 2004-09
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C1 Connectors Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

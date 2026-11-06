@@ -1,0 +1,56 @@
+---
+id: SAEJ1253_199306
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: LOW-TEMPERATURE CRANKING LOAD REQUIREMENTS OF AN ENGINE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1253_199306
+- type: src
+  content: https://saemobilus.sae.org/standards/j1253_199306-low-temperature-cranking-load-requirements-engine
+docidentifier:
+- content: SAE J1253_199306
+  type: SAE
+  primary: true
+- content: 10.4271/j1253_199306
+  type: DOI
+date:
+- type: approved
+  at: '1993-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electrical Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The electrical cranking system components, which include the battery, cables, and cranking motor, must be carefully selected to provide the necessary speed to start an engine under the most severe climatic conditions for which the system is intended. Engine cranking loads increase with cold temperatures, therefore, the initial selection of these components needs to consider low-temperature engine torque requirements. To insure an adequate electrical cranking system is obtained, it is important that proper test procedures are used for obtaining the cranking load requirements of the engine.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

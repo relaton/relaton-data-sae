@@ -1,0 +1,56 @@
+---
+id: SAEARP5507
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Tire-to-Wheel Performance Characteristics
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5507
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5507-aircraft-tire-wheel-performance-characteristics
+docidentifier:
+- content: SAE ARP5507
+  type: SAE
+  primary: true
+- content: 10.4271/arp5507
+  type: DOI
+date:
+- type: approved
+  at: '2017-09-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5C Aircraft Tires Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The performance of an aircraft tire/wheel assembly in service is dependent on the geometrical fit, load distribution, and performance at the tire/wheel interface while rolling. This document focuses on the tire-to-wheel circumferential movement for a new tubeless tire.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

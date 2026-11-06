@@ -1,0 +1,57 @@
+---
+id: SAEAS6500A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Manufacturing Management Program
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6500a
+- type: src
+  content: https://saemobilus.sae.org/standards/as6500a-manufacturing-management-program
+docidentifier:
+- content: SAE AS6500A
+  type: SAE
+  primary: true
+- content: 10.4271/as6500a
+  type: DOI
+date:
+- type: approved
+  at: '2021-07-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-23 Manufacturing Management Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard is applicable to all phases of the system acquisition life cycle. It is intended for use on all programs with manufacturing content. It requires proven manufacturing management practices with the goal of delivering affordable and capable systems to the extent that it is invoked contractually. The term “organization” as used in this document refers to the company or facility that is implementing this standard, such as when imposed contractually by the customer.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

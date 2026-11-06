@@ -1,0 +1,57 @@
+---
+id: SAEAS954
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: DESIGN DATA AND STANDARDIZATION of THIN WALL 12-POINT SOCKETS AND BOX WRENCHES
+    for AEROSPACE ENGINE USE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as954
+- type: src
+  content: https://saemobilus.sae.org/standards/as954-design-data-standardization-thin-wall-12-point-sockets-box-wrenches-aerospace-engine-use
+docidentifier:
+- content: SAE AS954
+  type: SAE
+  primary: true
+- content: 10.4271/as954
+  type: DOI
+date:
+- type: approved
+  at: '1967-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EG-1B Hand Tools Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The thin wall series sockets and box wrenches covered herein are those designed for general usage on aerospace engine 12-point threaded fastener hardware. Standardized wrench clearance dimensions are given, as well as a stringent test procedure to ensure reliability.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

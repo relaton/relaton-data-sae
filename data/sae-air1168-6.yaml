@@ -1,0 +1,57 @@
+---
+id: SAEAIR11686
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Characteristics of Equipment Components, Equipment Cooling System Design,
+    and Temperature Control System Design
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1168/6
+- type: src
+  content: https://saemobilus.sae.org/standards/air11686-characteristics-equipment-components-equipment-cooling-system-design-temperature-control-system-design
+docidentifier:
+- content: SAE AIR1168/6
+  type: SAE
+  primary: true
+- content: 10.4271/air1168/6
+  type: DOI
+date:
+- type: approved
+  at: '2004-06-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This section relates the engineering fundamentals and thermophysical property material of the previous sections to the airborne equipment for which thermodynamic considerations apply. For each generic classification of equipment, information is presented for the types of equipment included in these categories, and the thermodynamic design considerations with respect to performance, sizing, and selection of this equipment.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

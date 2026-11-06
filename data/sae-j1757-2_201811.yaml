@@ -1,0 +1,56 @@
+---
+id: SAEJ17572_201811
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standard - Optical System HUD for Automotive
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1757-2_201811
+- type: src
+  content: https://saemobilus.sae.org/standards/j1757-2_201811-standard-optical-system-hud-automotive
+docidentifier:
+- content: SAE J1757-2_201811
+  type: SAE
+  primary: true
+- content: 10.4271/j1757-2_201811
+  type: DOI
+date:
+- type: approved
+  at: '2018-11-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicular Flat Panel Display Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard provides measurement methods to determine HUD optical performance in typical automotive ambient lighting conditions. It covers indoor measurements with simulated outdoor lighting for the measurement of HUD virtual images. HUD types addressed by this standard includes w-HUD (windshield HUD) and c-HUD (combiner HUD) with references to Augmented Reality (AR) HUD as needed. It is not the scope of this document to set threshold values for automotive compliance; however, some recommended values are presented for reference.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

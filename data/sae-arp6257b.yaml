@@ -1,0 +1,61 @@
+---
+id: SAEARP6257B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Ground Deicing/Anti-Icing Communication Phraseology for Flightcrew
+    and Groundcrew
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6257b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6257b-aircraft-ground-deicing-anti-icing-communication-phraseology-flightcrew-groundcrew
+docidentifier:
+- content: SAE ARP6257B
+  type: SAE
+  primary: true
+- content: 10.4271/arp6257b
+  type: DOI
+date:
+- type: approved
+  at: '2023-09-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12M Methods Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>&lt;p&gt;This SAE Aerospace Recommended Practice (ARP) establishes
+    standard phraseology for the communication procedures during aircraft ground deicing/anti-icing
+    operations.NOTE: The minimum requirements to accomplish an aircraft deicing/anti-icing
+    operation are specified in AS6285.Clear concise standard phraseology between the
+    groundcrew and flightcrew is an important part of the deicing/anti-icing process.
+    It plays a key role in the overall safety of the deicing program. Historically,
+    flightcrew and groundcrew have had to deal with differing communication scripts
+    at multiple airport locations. This has led to unsafe situations, including aircraft
+    moving before the deicing process has been fully completed.&lt;/p&gt;</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAIR5648A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Fuel Versus Oxygen: Evaluations and Considerations'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5648a
+- type: src
+  content: https://saemobilus.sae.org/standards/air5648a-fuel-versus-oxygen-evaluations-considerations
+docidentifier:
+- content: SAE AIR5648A
+  type: SAE
+  primary: true
+- content: 10.4271/air5648a
+  type: DOI
+date:
+- type: approved
+  at: '2018-10-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Specific federal aviation regulations (Titled 14 of the United States Code of Federal Regulations, or 14 CFR) define oxygen system requirements for an in-flight decompression incident. This AIR addresses the operational oxygen system requirements for a decompression incident that may occur at any point during a long-range flight, with an emphasis for a decompression at the equal time point (ETP). This AIR identifies fuel and oxygen management contingencies, and presents possible solutions for the efficient, safe, and optimum fuel/oxygen flight continuation. Oxygen management is a concern to all aircraft, such as single engine types that fly above 10 000 feet and use supplemental oxygen. This document provides a method which can help guide users in developing an oxygen solution for their aircraft.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

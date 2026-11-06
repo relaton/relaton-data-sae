@@ -1,0 +1,66 @@
+---
+id: SAEEIA649B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Configuration Management Standard
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/eia649b
+- type: src
+  content: https://saemobilus.sae.org/standards/eia649b-configuration-management-standard
+docidentifier:
+- content: SAE EIA-649B
+  type: SAE
+  primary: true
+- content: 10.4271/eia649b
+  type: DOI
+date:
+- type: approved
+  at: '2011-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-33 Configuration Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard defines five CM functions and their underlying principles. The functions are detailed in &lt;span class="xref"&gt;Section 5&lt;/span&gt;. The principles, highlighted in text boxes, are designed to individually identify the essence of the related CM function, and can be used to collectively create a checklist of criteria to evaluate a CM program.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In describing each CM function and its principles, this standard utilizes neutral Configuration Management terminology, while also providing equivalent terms, that have historically been used in various product environments (see &lt;span class="xref"&gt;Table 2&lt;/span&gt;). There is no intent to express preference for any particular set of terminology.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Similarly, this standard uses a neutral set of names for the phases of a product’s life cycle, which are generic enough to be easily mapped to the myriad of different life cycle models in use. &lt;span class="xref"&gt;Table 1&lt;/span&gt; illustrates some of the aliases for each phase name and identifies characteristics that apply in each one.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Regardless of the titles chosen for these phases, or whether the product is a facility, software, an airplane or a machine screw, at some time in its history a product will go through all or most of these phases. The phases can have considerable overlap, or the sequence of the phases might change or be repeated, e.g., for product improvements and enhancements. Approved configurations of a product can be in the build, distribution, operation, and disposal phases simultaneously, and changes to those configurations may occur during all life cycle phases.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Appropriate application of CM functions enables a user of this standard to plan and implement a CM program for a product, project, or enterprise. The degree to which each of the CM principles applies to a product varies over the product’s life cycle. Some principles do not apply during every phase of the product’s life cycle, e.g., configuration verification and audit principles are not applicable in the conception or definition phases. The degree of rigor and techniques used in implementing CM is commensurate with the type of product and its application environment as defined by program requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;All five CM functions are necessary to some degree for all products. A robust CM approach is required for a complex product, such as an electronic system, a military weapon, or other product that must be&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;supported over the complete product’s life cycle. Simpler CM techniques may be applied to non-complex products as long as they maintain the needed consistency between essential requirements, product configuration information and the product.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;An organization that has the responsibility for performing Configuration Management for a product during some period of its life cycle could be a commercial enterprise, e.g., a contractor, a subcontractor, a supplier, or a government agency. References in this standard to the customer should be interpreted as the entity that specifies requirements (performance attributes) for the product or that acquires and uses the product. A customer may be external to the developing and producing organization, or may be an internal customer such as marketing, management, or the using department.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Configuration Management functions related to a product may be the responsibility of several organizations during its life cycle. For example, one organization with the responsibility to design and build a product will perform Configuration Management during the definition and build phases; other organizations or government activities with responsibility for upgrading the product and servicing units will perform Configuration Management during the operation phase.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;GEIA-HB-649, “Implementation Guide for Configuration Management”, provides additional “how to” guidance for planning, managing, and implementing CM functions and principles.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

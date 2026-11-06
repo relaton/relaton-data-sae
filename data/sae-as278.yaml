@@ -1,0 +1,53 @@
+---
+id: SAEAS278
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: COCKPIT FLIGHT INSTRUMENT PANEL ARRANGEMENT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as278
+- type: src
+  content: https://saemobilus.sae.org/standards/as278-cockpit-flight-instrument-panel-arrangement
+docidentifier:
+- content: SAE AS278
+  type: SAE
+  primary: true
+- content: 10.4271/as278
+  type: DOI
+date:
+- type: approved
+  at: '1953-03-15'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The recommendations cover the type of flight instrumentation in use today or planned for use in the near future on transport category aircraft. Four instrument panel arrangements are shown based on the use of flight instruments presently available.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Systems 1 &amp;amp; 2 show layouts adaptable to transport aircraft employing flight instruments in general use today.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The arrangements shown in Systems 3 &amp;amp; 4 using computer type instruments dictate the use of an instrument combining the Direction and ADF functions - the RMI. It was felt that this was necessary in order to arrive at a better all-around standard layout and to conserve instrument panel space.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

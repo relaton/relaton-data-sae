@@ -1,0 +1,57 @@
+---
+id: SAEAIR4094A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Flight Control Systems Descriptions
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4094a
+- type: src
+  content: https://saemobilus.sae.org/standards/air4094a-aircraft-flight-control-systems-descriptions
+docidentifier:
+- content: SAE AIR4094A
+  type: SAE
+  primary: true
+- content: 10.4271/air4094a
+  type: DOI
+date:
+- type: approved
+  at: '2016-07-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A3 Flight Control and Vehicle Management Systems Cmt
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) supplies information on the flight control systems incorporated on various current and historic fixed wing, rotary wing, and tilt rotor aircraft. A brief description of the aircraft is followed by a description of the flight control system, some specific components, drawings of the internal arrangement, block diagrams, and schematics. System operation redundancy management is also presented.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

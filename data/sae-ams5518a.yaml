@@ -1,0 +1,49 @@
+---
+id: SAEAMS5518A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL SHEET AND STRIP, CORROSION RESISTANT Cold Rolled High Ductility Type
+    18 Chromium - 8 Nickel (150,000 T.S.)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5518a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5518a-steel-sheet-strip-corrosion-resistant-cold-rolled-high-ductility-type-18-chromium-8-nickel-150000-ts
+docidentifier:
+- content: SAE AMS5518A
+  type: SAE
+  primary: true
+- content: 10.4271/ams5518a
+  type: DOI
+date:
+- type: approved
+  at: '1942-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

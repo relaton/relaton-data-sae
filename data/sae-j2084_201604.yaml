@@ -1,0 +1,60 @@
+---
+id: SAEJ2084_201604
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerodynamic Testing of Road Vehicles - Testing Methods and Procedures
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2084_201604
+- type: src
+  content: https://saemobilus.sae.org/standards/j2084_201604-aerodynamic-testing-road-vehicles-testing-methods-procedures
+docidentifier:
+- content: SAE J2084_201604
+  type: SAE
+  primary: true
+- content: 10.4271/j2084_201604
+  type: DOI
+date:
+- type: approved
+  at: '2016-04-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Road Vehicle Aerodynamics Forum Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this SAE Information Report is confined to wind-tunnel testing, although it is recognized that many aspects of the aerodynamic characteristics of road vehicles can be investigated in other test facilities (such as water-tanks) or, especially, on the road. For example, coastdown testing is often used to determine aerodynamic drag (either in isolation or as part of the total resistance), and artificial gust generators are used to investigate the sensitivity of vehicles to cross-wind gusts.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Also excluded from the present Report are climatic wind-tunnel tests of road vehicles, which are defined in more detail in &lt;span class="xref"&gt;Section 3&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The Report covers the aerodynamic requirements of a wind-tunnel for automotive testing, together with the facility equipment needed and the requirements affecting the test vehicle or model. The test methods and procedures described here include those for six-component force measurements and measurements of pressures and velocities both on the vehicle/model surface and in the surrounding flow-field.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Flow visualization techniques are outlined, with reference to the detailed coverage in a related SAE Information Report (2). In addition, the reduction, analysis, and presentation of wind-tunnel data are considered, with further references to associated SAE Information Reports (3,4) on corrections to be applied for wind-tunnel blockage effects. Finally, methods are discussed for the validation of the wind-tunnel data, e.g., by tunnel-to-road correlation studies.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;As already indicated, this document has been prepared in conjunction with a number of other SAE Information Reports and Recommended Practices (1-5), each of which provides greater detail than is given here on its particular aspect of automotive aerodynamic testing.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

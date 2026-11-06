@@ -1,0 +1,56 @@
+---
+id: SAEAIR887A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: LIQUID FILTER RATINGS, PARAMETERS AND TESTS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air887a
+- type: src
+  content: https://saemobilus.sae.org/standards/air887a-liquid-filter-ratings-parameters-tests
+docidentifier:
+- content: SAE AIR887A
+  type: SAE
+  primary: true
+- content: 10.4271/air887a
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AIR identifies and explains the meaning of various ratings and terms used to describe the physical characteristics of liquid filter elements. The significance of various filter parameters are discussed. In addition, a number of filter test methods are briefly described. This AIR and the data presented are only applicable to filters in which the system liquid wets the filter elements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

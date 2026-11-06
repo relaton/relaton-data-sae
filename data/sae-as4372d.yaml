@@ -1,0 +1,70 @@
+---
+id: SAEAS4372D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Performance Requirements for Wire, Electric, Insulated Copper or Copper
+    Alloy
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4372d
+- type: src
+  content: https://saemobilus.sae.org/standards/as4372d-performance-requirements-wire-electric-insulated-copper-copper-alloy
+docidentifier:
+- content: SAE AS4372D
+  type: SAE
+  primary: true
+- content: 10.4271/as4372d
+  type: DOI
+date:
+- type: approved
+  at: '2026-10-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8D Wire and Cable Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document covers the requirements for insulated, single-conductor, electric wires with tin-coated, silver-coated, or nickel-coated conductors of copper or copper alloy as specified in an applicable generated performance sheet (see &lt;span class="xref"&gt;Appendix A&lt;/span&gt; for sample). It provides general performance requirements, ratings, and information for various characteristics of insulated wire systems used in aerospace applications. Numerical test requirements, or parameters, were originally developed using either English or metric units. The original, primary, units are shown first with the secondary (converted) units in parentheses. Secondary units are listed for information only and are not to be considered requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Wire will be assigned a level of performance for many requirements set forth in this standard. These performance levels, in addition to numerical test results, shall be listed in the applicable performance sheet. This standard contains some tests and referenced AS4373 Test Methods that have not been rigorously confirmed as reproducible. Such methods are identified under the Precision and Bias Statements in the individual AS4373 Test Methods. Many requirements have multiple levels of performance. The wire with base level of performance is acceptable for general use; however, there may be special applications that will require wire with higher performance levels.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

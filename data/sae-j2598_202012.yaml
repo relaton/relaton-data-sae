@@ -1,0 +1,57 @@
+---
+id: SAEJ2598_202012
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Automotive Disc Brake Pad Natural Frequency and Damping Test
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2598_202012
+- type: src
+  content: https://saemobilus.sae.org/standards/j2598_202012-automotive-disc-brake-pad-natural-frequency-damping-test
+docidentifier:
+- content: SAE J2598_202012
+  type: SAE
+  primary: true
+- content: 10.4271/j2598_202012
+  type: DOI
+date:
+- type: approved
+  at: '2020-12-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Brake NVH Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This procedure is applicable to brake pad modes between 500 Hz and 16 kHz. The parameters measured with this procedure are defined as the first three natural frequencies, f&lt;sub&gt;n&lt;/sub&gt; (n = 1, 2, 3), and the corresponding loss factors, η.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

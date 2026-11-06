@@ -1,0 +1,58 @@
+---
+id: SAEJ3083_201703
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Reliability Prediction for Automotive Electronics Based on Field Return
+    Data
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3083_201703
+- type: src
+  content: https://saemobilus.sae.org/standards/j3083_201703-reliability-prediction-automotive-electronics-based-field-return-data
+docidentifier:
+- content: SAE J3083_201703
+  type: SAE
+  primary: true
+- content: 10.4271/j3083_201703
+  type: DOI
+date:
+- type: approved
+  at: '2017-03-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Automotive Electronic Systems Reliability Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document should be used as guidance for non-handbook based reliability predictions conducted on automotive electronics products. It presents a method that utilizes warranty and field repair data to calculate the failure rates of individual electronic components and predict the reliability of the entire electronic system. It assumes that the user has access to a database containing field return data with classification of components, times to failure, and a total number of components operating in the field.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

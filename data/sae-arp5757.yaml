@@ -1,0 +1,59 @@
+---
+id: SAEARP5757
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guidelines for Engine Component Tests
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5757
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5757-guidelines-engine-component-tests
+docidentifier:
+- content: SAE ARP5757
+  type: SAE
+  primary: true
+- content: 10.4271/arp5757
+  type: DOI
+date:
+- type: approved
+  at: '2008-03-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-36 Electronic Engine Controls Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides guidance for substantiating the airworthiness of aircraft engine components. Generally these components are associated with the engine control system, the system or systems that allow the engine to provide thrust or power as demanded by the pilot of the aircraft while also ensuring the engine operates within acceptable operating limits. But these components may also include hardware and systems associated with engine lubrication, engine or aircraft hydraulic or electrical systems, aircraft environmental control systems, thrust reverser control, or similar aircraft or engine propulsion system functions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This paper develops the concept of using a 26 item matrix of environmental conditions for evaluating aircraft engine component airworthiness. This approach is compatible with current practices used in the industry and has been accepted by engine certification authorities as part of engine certification programs.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

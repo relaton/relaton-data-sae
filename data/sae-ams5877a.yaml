@@ -1,0 +1,58 @@
+---
+id: SAEAMS5877A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: IRON ALLOY, CORROSION AND HEAT RESISTANT, BARS, FORGINGS, AND RINGS 29Fe
+    - 22Cr - 21Ni - 18.5Co - 3.2Mo - 2.8W - 0.78Ta - 0.30Al - 0.05La - 0.20N Solution
+    Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5877a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5877a-iron-alloy-corrosion-heat-resistant-bars-forgings-rings-29fe-22cr-21ni-185co-32mo-28w-078ta-030al-005la-020n-solution-heat-treated
+docidentifier:
+- content: SAE AMS5877A
+  type: SAE
+  primary: true
+- content: 10.4271/ams5877a
+  type: DOI
+date:
+- type: approved
+  at: '1996-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat resistant iron alloy in the form of bars, forgings, flash welded rings, and stock for forging, flash welded rings, or heading.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

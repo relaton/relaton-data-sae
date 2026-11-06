@@ -1,0 +1,58 @@
+---
+id: SAEARP5936
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Landing Gear Storage
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5936
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5936-landing-gear-storage
+docidentifier:
+- content: SAE ARP5936
+  type: SAE
+  primary: true
+- content: 10.4271/arp5936
+  type: DOI
+date:
+- type: approved
+  at: '2021-04-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5 Aerospace Landing Gear Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document categorizes the different types of storage requirements, either on the aircraft or new unused or overhauled on the shelf, for aircraft landing gears/components.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Recommendations and examples of proper landing gear storage are outlined.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Reclamation recommendations are provided for aircraft landing gear returning from long-term storage.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

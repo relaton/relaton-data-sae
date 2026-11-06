@@ -1,0 +1,60 @@
+---
+id: SAEJ3240_202312
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Passenger Vehicle Lane Departure Warning, Lane Keeping Assistance, and
+    Lane Centering Assistance Systems Test Procedure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3240_202312
+- type: src
+  content: https://saemobilus.sae.org/standards/j3240_202312-passenger-vehicle-lane-departure-warning-lane-keeping-assistance-lane-centering-assistance-systems-test-procedure
+docidentifier:
+- content: SAE J3240_202312
+  type: SAE
+  primary: true
+- content: 10.4271/j3240_202312
+  type: DOI
+date:
+- type: approved
+  at: '2023-12-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Active Safety and Driver Support Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes a test procedure for the evaluation of lane departure warning (LDW), lane keeping assistance (LKA), and lane centering assistance systems used in passenger vehicles and light trucks. This test procedure does not intend to exclude any particular system or sensing technology.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The recommended practice can be used to test the functionality and performance of LDW, LKA, and lane centering assistance systems by assessing their ability to (1) warn (LDW) or control (LKA, lane centering assistance) in response to an unintended lane departure, and (2) the ability to indicate a system disengagement. The human machine interface (HMI) is not addressed herein but is considered in SAE J2808.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The recommended practice specifies lane markers to enable lane departure testing, or road edges, to enable testing of road departure mitigation systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The document is separated into two tiers. Tier One establishes a recommended minimum set of performance criteria for LDW, LKA, or lane centering assistance system operation. Tier Two defines additional tests to provide a measure of the system’s anticipated performance in more challenging environments.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

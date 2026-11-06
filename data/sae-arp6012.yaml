@@ -1,0 +1,56 @@
+---
+id: SAEARP6012
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: JAUS Compliance and Interoperability Policy
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6012
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6012-jaus-compliance-interoperability-policy
+docidentifier:
+- content: SAE ARP6012
+  type: SAE
+  primary: true
+- content: 10.4271/arp6012
+  type: DOI
+date:
+- type: approved
+  at: '2009-04-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-4JAUS Joint Architecture for Unmanned Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document, the &lt;i&gt;JAUS Compliance and Interoperability Policy&lt;/i&gt; (ARP6012), recommends an approach to documenting the complete interface of an unmanned system or component in regard to the application of the standard set. While non-SAE AS-4 JAUS documents are referenced in this ARP they are not within the scope of this document and should be viewed as examples only.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

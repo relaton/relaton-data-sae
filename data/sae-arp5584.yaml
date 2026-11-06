@@ -1,0 +1,56 @@
+---
+id: SAEARP5584
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Document for Electric Power Management
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5584
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5584-document-electric-power-management
+docidentifier:
+- content: SAE ARP5584
+  type: SAE
+  primary: true
+- content: 10.4271/arp5584
+  type: DOI
+date:
+- type: approved
+  at: '2011-05-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7B Power Management, Distribution and Storage
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practices (ARP) covers the definitions, functions and broad application guidelines of modern aerospace vehicle electric power management systems. As aerospace control systems have become more sophisticated and autonomous, the electric power subsystem no longer is just a generation and distribution bus control system. New electric power systems include integration of individual load logic control, protection, generation, distribution, and load management. This system can report to a higher level control system, typically a vehicle management system, or can be an autonomous system within itself reporting and responding to operator commands.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

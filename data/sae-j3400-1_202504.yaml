@@ -1,0 +1,56 @@
+---
+id: SAEJ34001_202504
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electric Vehicle Charging Adapter Safety and OEM-Qualified Device Designation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3400/1_202504
+- type: src
+  content: https://saemobilus.sae.org/standards/j34001_202504-electric-vehicle-charging-adapter-safety-oem-qualified-device-designation
+docidentifier:
+- content: SAE J3400/1_202504
+  type: SAE
+  primary: true
+- content: 10.4271/j3400/1_202504
+  type: DOI
+date:
+- type: approved
+  at: '2025-04-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document covers the general physical, electrical, functional, and performance requirements for adapters connected to standards conforming conductive power transfer via handheld conductive coupler capable of transferring either DC or single-phase power using two current-carrying contacts. The focus is on defining the process to evaluate the suitability of adapters for NACS couplers. This edition only covers adapters used between SAE J3400 and SAE J1772.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

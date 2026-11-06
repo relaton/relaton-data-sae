@@ -1,0 +1,70 @@
+---
+id: SAEARP6481A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Procedure for the Calculation of Non-Volatile Particulate Matter Sampling
+    and Measurement System Losses and System Loss Correction Factors
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6481a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6481a-procedure-calculation-non-volatile-particulate-matter-sampling-measurement-system-losses-system-loss-correction-factors
+docidentifier:
+- content: SAE ARP6481A
+  type: SAE
+  primary: true
+- content: 10.4271/arp6481a
+  type: DOI
+date:
+- type: approved
+  at: '2024-09-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-31P Particulate Matter Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) details the recommended process for correcting measured non-volatile particulate matter (nvPM) mass and number data for particle losses in the sampling and measurement system specified in ARP6320B. This technique is only recommended for conditions where both nvPM mass and number concentration measurements are in the valid measurement ranges of the instruments that are discussed in the tool limitations section. This ARP also supplies an Excel software tool with documentation to automate the process.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The body of this ARP details the recommended calculation method, uncertainties, and limitations of the system loss correction factors. It explains, in detail, the required inputs and outputs from the supplied Excel software tool (developed on Windows 7, Excel 2016). Also included are:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;The Excel correction tools (refer to Attachments I and V).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Installation instructions for a Windows-based computer (refer to Attachment II).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;A user technical manual (refer to Attachment III) describing functions used within the tool and optional Excel add-in (refer to Attachment VI).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Multiple sample test cases (refer to Attachment IV).&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;The Excel tools are intended to do the full calculation described in AIR6504. This ARP provides documentation for the Excel spreadsheet system loss tool lite version (nvPM System Loss Tool _Lite v2_6 Release.xlsm). The difference between the full tool and lite tool is described in &lt;span class="xref"&gt;Appendix C&lt;/span&gt;. Attachments III and VI are also described in &lt;span class="xref"&gt;Appendix C&lt;/span&gt;. If the user has produced their own software for the AIR6504 correction, comparison of results from this tool may be used to verify that software.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This ARP does not contain the full description of the sampling and measurement system described in ARP6320B. The correction technique is only briefly discussed in this ARP. More detailed information is provided in AIR6504.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;At this time, nvPM size measurement is not within the scope of this ARP, but it may be considered in the future.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

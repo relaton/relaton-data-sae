@@ -1,0 +1,56 @@
+---
+id: SAEAS82B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Screw Thread Form, American National, Modified (National Round - NR)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as82b
+- type: src
+  content: https://saemobilus.sae.org/standards/as82b-screw-thread-form-american-national-modified-national-round-nr
+docidentifier:
+- content: SAE AS82B
+  type: SAE
+  primary: true
+- content: 10.4271/as82b
+  type: DOI
+date:
+- type: approved
+  at: '2012-11-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) defines an external thread with a rounded root radius based on a minimum root radius of .108 × Pitch.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

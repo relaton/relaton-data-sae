@@ -1,0 +1,58 @@
+---
+id: SAEJ3251_202308
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Cooperative Driving Automation (CDA) Feature: Perception Status Sharing
+    for Occluded Pedestrian Collision Avoidance'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3251_202308
+- type: src
+  content: https://saemobilus.sae.org/standards/j3251_202308-cooperative-driving-automation-cda-feature-perception-status-sharing-occluded-pedestrian-collision-avoidance
+docidentifier:
+- content: SAE J3251_202308
+  type: SAE
+  primary: true
+- content: 10.4271/j3251_202308
+  type: DOI
+date:
+- type: approved
+  at: '2023-08-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Cooperative Driving Automation(CDA) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report develops a concept of operations (ConOps) to evaluate a cooperative driving automation (CDA) Feature for occluded pedestrian collision avoidance using perception status sharing. It provides a test procedure to evaluate this CDA Feature, which is suitable for proof-of-concept testing in both virtual and test track settings.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

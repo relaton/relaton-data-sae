@@ -1,0 +1,54 @@
+---
+id: SAEJ1150_200305
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Terminology for Agricultural Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1150_200305
+- type: src
+  content: https://saemobilus.sae.org/standards/j1150_200305-terminology-agricultural-equipment
+docidentifier:
+- content: SAE J1150_200305
+  type: SAE
+  primary: true
+- content: 10.4271/j1150_200305
+  type: DOI
+date:
+- type: approved
+  at: '2003-05-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Agricultural Tractor Standards Committee (ATSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Standard specifies terminology for agricultural equipment
+    designed primarily for use in agricultural operations fo rthe production of food
+    and fiber.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

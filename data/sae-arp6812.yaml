@@ -1,0 +1,65 @@
+---
+id: SAEARP6812
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Brake Temperature Monitoring
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6812
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6812-aircraft-brake-temperature-monitoring
+docidentifier:
+- content: SAE ARP6812
+  type: SAE
+  primary: true
+- content: 10.4271/arp6812
+  type: DOI
+date:
+- type: approved
+  at: '2021-10-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5A Wheels, Brakes and Skid Controls Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides recommendations for the function, design, construction, and testing of an on-aircraft Brake Temperature Monitoring System (BTMS), sometimes referred to as a Brake Temperature Indication System (BTIS).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: This ARP does not address:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Cockpit ergonomics and Aircraft operating procedures.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Various handheld methods of temperature sensing or readouts, as these are not associated with transport aircraft during normal operation.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Temperature sensitive paints as a means to indicate exceedance of a landing gear axle temperature threshold due to brake temperature.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEJ29458_202411
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Surrogate Basic Safety Messages for Testing and Evaluation Purposes Only
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2945/8_202411
+- type: src
+  content: https://saemobilus.sae.org/standards/j29458_202411-surrogate-basic-safety-messages-testing-evaluation-purposes
+docidentifier:
+- content: SAE J2945/8_202411
+  type: SAE
+  primary: true
+- content: 10.4271/j2945/8_202411
+  type: DOI
+date:
+- type: approved
+  at: '2024-11-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Vehicular Applications Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document includes the initial recommendations for a V2X-equipped host vehicle (eHV) or Roadside Equipment (RSE) that can broadcast a surrogate basic safety message (SBSM) on behalf of an unequipped remote vehicle (uRV). This document is published for testing only, using a Test PSID (e.g., 0x7f) and not the PSID used by SAE J2945/1 and SAE J3161/1 for standard basic safety message (BSM) transmission (0x20).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The basic principle is that the host system of the V2X capable device, whether on a host vehicle or an RSE, can determine whether detected vehicles are V2X enabled or not, and if not, formulate and broadcast messages on their behalf that describe their status to other V2X enabled devices. This document is based extensively on the V2V safety communication requirements in SAE J2945/1 and SAE J3161/1 and the supporting message set details in SAE J2735.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The initial version of this document is an information report. If feedback from implementations, testing, and simulation becomes available, this report may be updated to a recommended practice or standard. The performance, data quality, and corresponding population of message data fields need more consideration.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

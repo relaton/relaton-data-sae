@@ -1,0 +1,61 @@
+---
+id: SAEJ1211_201211
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Handbook for Robustness Validation of Automotive Electrical/Electronic
+    Modules
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1211_201211
+- type: src
+  content: https://saemobilus.sae.org/standards/j1211_201211-handbook-robustness-validation-automotive-electrical-electronic-modules
+docidentifier:
+- content: SAE J1211_201211
+  type: SAE
+  primary: true
+- content: 10.4271/j1211_201211
+  type: DOI
+date:
+- type: approved
+  at: '2012-11-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Automotive Electronic Systems Reliability Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document addresses robustness of electrical/electronic modules for use in automotive applications. Where practical, methods of extrinsic reliability detection and prevention will also be addressed. This document primarily deals with electrical/electronic modules (EEMs), but can easily be adapted for use on mechatronics, sensors, actuators and switches. EEM qualification is the main scope of this document. Other procedures addressing random failures are specifically addressed in the CPI (Component Process Interaction) section &lt;span class="xref"&gt;10&lt;/span&gt;. This document is to be used within the context of the Zero Defect concept for component manufacturing and product use.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is recommended that the robustness of semiconductor devices and other components used in the EEM be assured using SAE J1879 OCT2007, Handbook for Robustness Validation of Semiconductor Devices in Automotive Applications.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The emphasis of this document is on hardware and manufacturing failure mechanisms, however, other contemporary issues as shown in &lt;span class="xref"&gt;Figure 1&lt;/span&gt; need to be addressed for a thorough Robustness Validation. A Pareto of contemporary issues is shown in &lt;span class="xref"&gt;Figure 1&lt;/span&gt;. Although this document addresses many of the issues shown, however some are outside the scope of this document and will need to be addressed for a thorough RV process application. Examples of issues outside the scope of this document are system interactions, interfaces, functionality, HMI (Human-Machine Interface) and software. At the time of publication of this handbook, a system level Robustness Validation handbook, which addresses these issues, had been initiated.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

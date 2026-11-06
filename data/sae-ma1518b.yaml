@@ -1,0 +1,92 @@
+---
+id: SAEMA1518B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Bolts, Screws and Nuts - External Wrenching, Metric Threads - Design Parameters
+    for
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma1518b
+- type: src
+  content: https://saemobilus.sae.org/standards/ma1518b-bolts-screws-nuts-external-wrenching-metric-threads-design-parameters
+docidentifier:
+- content: SAE MA1518B
+  type: SAE
+  primary: true
+- content: 10.4271/ma1518b
+  type: DOI
+date:
+- type: approved
+  at: '2018-08-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;To fully define the following requirements for bolts with spline and hexagon heads of strength class up to but not including 1250 MPa:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Head dimensions (see &lt;span class="xref"&gt;3.1&lt;/span&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Shank dimensions (see &lt;span class="xref"&gt;3.2&lt;/span&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Geometric control (see &lt;span class="xref"&gt;3.3&lt;/span&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Surface texture (see &lt;span class="xref"&gt;3.4&lt;/span&gt;)&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is based on one class of thread after all processing, including coating or plating, has been completed as follows: tolerance class 4h6h.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For particulars of thread, see AS1370. For thread runout and lead threads, see AS3062.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;To fully define the following requirements for nuts with spline, plain hexagon and castellated configurations of strength class up to and including 1100 MPa:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Nut dimensions (see &lt;span class="xref"&gt;4.1&lt;/span&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Geometric control (see &lt;span class="xref"&gt;4.2&lt;/span&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Surface texture (see &lt;span class="xref"&gt;4.3&lt;/span&gt;)&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;For particulars of threads, see AS1370.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is based on the following classes of internal threads after all processing, including coating or plating, has been completed:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Tolerance class 4H6H for sizes up to and including 5 mm&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Tolerance class 4H5H for size 6 mm and larger&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;For particulars of thread, see AS1370.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

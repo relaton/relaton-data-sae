@@ -1,0 +1,56 @@
+---
+id: SAEAS5659
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: WDM LAN Standard
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5659
+- type: src
+  content: https://saemobilus.sae.org/standards/as5659-wdm-lan-standard
+docidentifier:
+- content: SAE AS5659
+  type: SAE
+  primary: true
+- content: 10.4271/as5659
+  type: DOI
+date:
+- type: approved
+  at: '2023-11-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard, consisting of five documents, applies to designers, suppliers, and users of optical network services, systems, and components within mobile military and commercial aerospace platforms. The standard applies to any optical network which uses Wavelength Division Multiplexing in any optical media.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

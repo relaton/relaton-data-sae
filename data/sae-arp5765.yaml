@@ -1,0 +1,59 @@
+---
+id: SAEARP5765
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Analytical Methods for Aircraft Seat Design and Evaluation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5765
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5765-analytical-methods-aircraft-seat-design-evaluation
+docidentifier:
+- content: SAE ARP5765
+  type: SAE
+  primary: true
+- content: 10.4271/arp5765
+  type: DOI
+date:
+- type: approved
+  at: '2012-10-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aircraft Seat Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) defines a means of assessing the credibility of computer models of aircraft seating systems used to simulate dynamic impact conditions set forth in Federal Regulations 14 CFR Part 23.562, 25.562, 27.562, and 29.562. The ARP is applicable to lumped mass and detailed finite element seat models. This includes specifications and performance criteria for aviation specific virtual anthropomorphic test devices (v-ATDs). A methodology to evaluate the degree of correlation between a seat model and dynamic impact tests is recommended. This ARP also provides testing and modeling best practices specific to support the implementation of analytical models of aircraft seat systems. Supporting information within this document includes procedures for the quantitative comparison of test and simulation results, as well as test reports for data generated to support the development of v-ATDs and a sample report. For this revision, &lt;span class="xref"&gt;Section 4&lt;/span&gt;, Seat System Validation is held in reserve.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

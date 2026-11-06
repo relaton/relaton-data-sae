@@ -1,0 +1,78 @@
+---
+id: SAEUSCAR21
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PERFORMANCE SPECIFICATION FOR CABLE-TO-TERMINAL ELECTRICAL CRIMPS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar21
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar21-performance-specification-cable-terminal-electrical-crimps
+docidentifier:
+- content: SAE USCAR-21
+  type: SAE
+  primary: true
+- content: 10.4271/uscar21
+  type: DOI
+date:
+- type: approved
+  at: '2002-05-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+    &lt;div class="htmlview paragraph"&gt;In any intended vehicle application, if the products covered by this specification are, or may be, subjected to conditions beyond those described in this document, they must pass special tests simulating the actual conditions to be encountered before they can be considered acceptable for actual vehicle application. Products certified by their supplier as having passed specific applicable portions of this specification are not to be used in applications where conditions may exceed those for which the product has been satisfactorily tested.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The Authorized Person is the final authority as to what tests are to be performed on his or her parts and for what purpose these tests are required. He or she is also the final authority for resolving any questions related to testing to this specification and to authorizing any deviations to the equipment or procedures contained in this specification. Any such deviation must be documented and included in the final test report.&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;This specification defines basic test methods and requirements for solder-less crimped connections.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Crimp applications validated to this specification supercede any crimp information on Ford, GM, or DaimlerChrysler component prints. It is preferred that the terminal supplier do testing and selection of crimp tooling and supply detailed crimp information or make crimp tooling available to the wiring assembly supplier actually doing the production crimping. If the wiring supplier deviates from this information or it is not available, then the responsibility for testing to this specification or getting approval from the customer with appropriate test data showing that the crimp will function in it’s intended circuit lies with the wiring harness supplier&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;New or revised terminals shall be designed to meet this specification.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;4&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;All new crimp applications shall meet this specification. New crimp applications are defined as terminal/wire crimp combinations not previously specified on Ford, GM, or DaimlerChrysler vehicle wiring harness assemblies. Existing crimp applications may be carried over if approved by the customer engineering department.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;5&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Electrical tests in this specification have been proven by past experience to ensure that crimps will meet the requirements in SAE/USCAR-2 and SAE/USCAR-20 by including Thermal Shock, Temperature Humidity, and Power Current Cycling. Testing and electrical acceptance criteria will detect defects in crimp tooling geometry, plating quality, inadequate strand distribution in the grip, or cable stranding. Crimp applications that have passed SAE/USCAR-2 and SAE/USCAR-20 normally have only passed the nominal crimp height and usually only with the largest gauge size. Therefore, crimps within the production crimp height range may not necessarily pass this test.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;6&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Procedures included within this specification are intended to cover performance testing at development of electrical terminal crimps that are part of the electrical connection systems in low voltage (0 - 48 VDC) road vehicle applications at ambient temperatures of 125°C maximum. The OEM customer must approve use of these test procedures for use at voltages and temperatures beyond these limits.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;7&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;These procedures are applicable only to terminals used for in-line, header, edge board, and device connector systems.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

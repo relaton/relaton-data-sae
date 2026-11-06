@@ -1,0 +1,57 @@
+---
+id: SAEARP461
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Synchros
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp461
+- type: src
+  content: https://saemobilus.sae.org/standards/arp461-synchros
+docidentifier:
+- content: SAE ARP461
+  type: SAE
+  primary: true
+- content: 10.4271/arp461
+  type: DOI
+date:
+- type: approved
+  at: '1955-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4 Aircraft Instruments Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This document is limited to units meeting the definitions of para. 1.3 and covers the following general class of synchros:
+
+    26 volt, 400 cycle synchros
+    115 volt, 400 cycle synchros
+    115 volt, 60 cycle synchros</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,74 @@
+---
+id: SAEJ31012_202511
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hardware Protected Security Environment – Trusted Application Isolation
+    Security Models
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3101-2_202511
+- type: src
+  content: https://saemobilus.sae.org/standards/j3101-2_202511-hardware-protected-security-environment-trusted-application-isolation-security-models
+docidentifier:
+- content: SAE J3101-2_202511
+  type: SAE
+  primary: true
+- content: 10.4271/j3101-2_202511
+  type: DOI
+date:
+- type: approved
+  at: '2025-11-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Electrical System Security Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This information report identifies and evaluates isolation building blocks applicable to TA sandboxing within a HPSE. These building blocks can be used to support SAE J3101 TA requirements for sandboxing of TAs and secure communication between TAs. TAs must execute within their own trust domain to prevent compromise of the HPSE and other TAs. TA trust domain isolation strength may vary depending on the risk profile of the TA deployed, hence the requirement for isolation building blocks to match the risk profile. A multitenancy TA HPSE has a higher risk profile than multiple TAs from the same source (e.g., OEM). TA multitenancy must not compromise the security properties of the HPSE (the secure integration and execution of trusted multi-vendor code). In this report, we provide information on the following:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;HPSE TA use cases and risk profiles&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;HPSE TA isolation building blocks for manufacturers&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Threat analysis to determine the effectiveness of isolation security models&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;As the ECU E/E architecture continues to evolve, we must consider the following classification of ECUs and System on Chips (SoCs) for which isolation building blocks apply:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Application Processor Core(s)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Realtime Processor Core(s)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Microcontroller Core(s)&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;An ECU can be composed of a Normal Environment and Protected Environment (HPSE). Normal Environment is typically separated into user and kernel level privileges, with applications executing at the user privilege level. TAs only execute within the HPSE, and the HPSE is typically divided into user and kernel level privileges which are orthogonal to Normal Environment privileges. The TAs will execute at the same user privilege level within the HPSE; therefore, the isolation building blocks must be implemented at a higher privilege level, such as the HPSE kernel, to ensure that the sandboxing policy can be enforced. The TAs access to HPSE resources is restricted at load time by the sandbox policy which operates at a higher privilege level to the TAs.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This report also differentiates between isolation methods which are applied within the HPSE and isolation methods applied at the ECU level when there is consolidation of ECUs into domain controller or HPC, i.e., isolation abstraction.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

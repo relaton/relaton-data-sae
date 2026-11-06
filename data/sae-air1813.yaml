@@ -1,0 +1,56 @@
+---
+id: SAEAIR1813
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: THE COANDA/REFRACTION CONCEPT FOR GAS TURBINE ENGINE TEST CELL NOISE SUPPRESSION
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1813
+- type: src
+  content: https://saemobilus.sae.org/standards/air1813-coanda-refraction-concept-gas-turbine-engine-test-cell-noise-suppression
+docidentifier:
+- content: SAE AIR1813
+  type: SAE
+  primary: true
+- content: 10.4271/air1813
+  type: DOI
+date:
+- type: approved
+  at: '1982-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EG-1E Gas Turbine Test Facilities and Equipment
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Document provides information on how military/commercial/gas turbine engine test cell/system users may benefit from this unique Coanda/Refraction concept.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

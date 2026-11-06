@@ -1,0 +1,60 @@
+---
+id: SAEJ2289_202108
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Electric-Drive Battery Pack System: Functional Guidelines'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2289_202108
+- type: src
+  content: https://saemobilus.sae.org/standards/j2289_202108-electric-drive-battery-pack-system-functional-guidelines
+docidentifier:
+- content: SAE J2289_202108
+  type: SAE
+  primary: true
+- content: 10.4271/j2289_202108
+  type: DOI
+date:
+- type: approved
+  at: '2021-08-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Battery Standards Testing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report describes common practices for design of battery systems for vehicles that utilize a rechargeable battery to provide or recover all or some traction energy for an electric drive system. It includes product description, physical requirements, electrical requirements, environmental requirements, safety requirements, storage and shipment characteristics, and labeling requirements. It also covers termination, retention, venting system, thermal management, and other features. This document does describe guidelines in proper packaging of the battery to meet the crash performance criteria detailed in SAE J1766. Also described are the normal and abnormal conditions that may be encountered in operation of a battery pack system&lt;/div&gt;
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

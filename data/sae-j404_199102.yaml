@@ -1,0 +1,69 @@
+---
+id: SAEJ404_199102
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CHEMICAL COMPOSITIONS OF SAE ALLOY STEELS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j404_199102
+- type: src
+  content: https://saemobilus.sae.org/standards/j404_199102-chemical-compositions-sae-alloy-steels
+docidentifier:
+- content: SAE J404_199102
+  type: SAE
+  primary: true
+- content: 10.4271/j404_199102
+  type: DOI
+date:
+- type: approved
+  at: '1991-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Carbon and Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;In 1941, the SAE Iron and Steel Division in collaboration with the American Iron and Steel Institute made a major change in the method of expressing composition ranges for the SAE steels. The plan, as now applied, is based in general on narrower ladle analysis ranges plus certain product (check) analysis allowances on individual samples, in place of the fixed ranges and limits without tolerances formerly provided for carbon and other elements in SAE steels (reference J408). To avoid the possibility of confusion and conflict between SAE and AISI steel designations, all proposed changes in compositions, additions, or deletions of numbers will be coordinated between the two organizations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The compositions in this SAE Standard may apply to open hearth and basic oxygen, or electric furnace steels. Grades shown in &lt;span class="xref"&gt;Tables 1A&lt;/span&gt; and &lt;span class="xref"&gt;1B&lt;/span&gt; with prefix letter E are normally made by the electric furnace process with maximum limits of 0.035% phosphorus and 0.040% sulfur. The nominal chemical limits or ranges in the compositions given in &lt;span class="xref"&gt;Table 1A&lt;/span&gt; are subject to standard variations in check analysis given in SAE J409.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Table 1A&lt;/span&gt; is applicable to billets, blooms, slabs, and hot-rolled and cold-finished bars. This table is applicable also to wire rods, but there are additional grades in J1249 Table 1 (refer to footnote c) which also are standard for wire rods.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;J404 is not applicable to the following product forms:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Structural shapes: Not normally furnished to alloy chemistries.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Sheet and strip, hot rolled and cold rolled: Refer to ASTM A 506 and A 507.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Seamless and welded mechanical tubing: Refer to ASTM A 513 and A 519.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEARP5485B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Endurance Time Test Procedures for SAE Type II/III/IV Aircraft Deicing/Anti-Icing
+    Fluids
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5485b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5485b-endurance-time-test-procedures-sae-type-ii-iii-iv-aircraft-deicing-anti-icing-fluids
+docidentifier:
+- content: SAE ARP5485B
+  type: SAE
+  primary: true
+- content: 10.4271/arp5485b
+  type: DOI
+date:
+- type: approved
+  at: '2017-10-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12HOT Holdover Time Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this Aerospace Recommended Practice (ARP) is to provide the sample selection and endurance time test procedures for SAE Type II, III, and IV aircraft deicing/anti-icing fluids, required for the generation of endurance time data of acceptable quality for review by the SAE G-12 Holdover Time Committee.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The related standard ARP5718 provides the process by which endurance time data is converted to holdover times for publication by regulators and subsequent use by aircraft operators.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEJ3164_202301
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Ontology and Lexicon for Automated Driving System (ADS)-Operated Vehicle
+    Behaviors and Maneuvers in Routine/Normal Operating Scenarios
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3164_202301
+- type: src
+  content: https://saemobilus.sae.org/standards/j3164_202301-ontology-lexicon-automated-driving-system-ads-operated-vehicle-behaviors-maneuvers-routine-normal-operating-scenarios
+docidentifier:
+- content: SAE J3164_202301
+  type: SAE
+  primary: true
+- content: 10.4271/j3164_202301
+  type: DOI
+date:
+- type: approved
+  at: '2023-01-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: On-Road Automated Driving (ORAD) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides a high-level ontology and lexicon for describing on-road ADS-operated vehicle behavioral competencies and driving maneuvers that comprise routine/normal performance of the complete DDT, as defined in SAE J3016. It provides definitions of behavior, maneuver, scenario, and scene. This initial high-level lexicon and ontology are developed for ADS driving behaviors, including considerations for hierarchy of behaviors, and relationships among maneuvers, operational design domain (ODD) elements, and object and event detection and response (OEDR). Considerations for describing scenarios using this lexicon and ontology are discussed. This document describes ADS-operated vehicle motion control maneuvers during routine/normal operation. Maneuvers of other road users are not evaluated. This document assumes left-hand drive vehicles and road infrastructure. Applicability to right-hand drive vehicles and roadway infrastructure would require adjustment to such vehicles and conditions.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEARP6073
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Webbing Service Life for Occupant Restraints
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6073
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6073-webbing-service-life-occupant-restraints
+docidentifier:
+- content: SAE ARP6073
+  type: SAE
+  primary: true
+- content: 10.4271/arp6073
+  type: DOI
+date:
+- type: approved
+  at: '2021-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aircraft Seat Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document applies to webbing used on occupant restraint systems in service on 14 CFR/CS part 23, part 25, part 27, and part 29 aircraft applications. The guidelines presented within this document are intended to be supplemental to the requirements supplied by the OEM in the CMM, ICA, or like document. In cases of conflict between this ARP and the OEM’s requirements, the requirements of the OEM shall be followed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The objective of this document is to establish practical guidelines to help operators in the determining if restraint webbing has reached the end of its service life. The recommendations contained herein are based on test data from in service restraint systems and the continued airworthiness guidelines recommended by restraint system OEMs.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

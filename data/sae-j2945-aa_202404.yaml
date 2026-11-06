@@ -1,0 +1,57 @@
+---
+id: SAEJ2945AA_202404
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Minimum Requirements for Road Geometry and Attributes Definition™ ASN File
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2945/aa_202404
+- type: src
+  content: https://saemobilus.sae.org/standards/j2945aa_202404-minimum-requirements-road-geometry-attributes-definition-asn-file
+docidentifier:
+- content: SAE J2945/AA_202404
+  type: SAE
+  primary: true
+- content: 10.4271/j2945/aa_202404
+  type: DOI
+date:
+- type: approved
+  at: '2024-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Core Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;SAE J2945/A and this Abstract Syntax Notation (ASN.1) file precisely define the structure of the data used to implement applications conformant to the Recommended Practice. Using the ASN.1 specification, a compiler tool can be used to produce encodings using encoding rules identified in J2945/A. Both this ASN.1 file and the SAE J2735 ASN.1 files are necessary to collectively implement the data structures described in the J2945/A. The combined library can be used by any receiving application (along with the additional logic of the application).&lt;/p&gt;
+    &lt;p&gt;SAE J2945/A also provides recommendations for the interface for sending and receiving Road Geometry and Attributes (RGA) messages. It provides the information necessary to build interoperable applications that rely on RGA messages.&lt;/p&gt;
+    &lt;p&gt;You may also be interested in:&lt;/p&gt;
+    &lt;p&gt;&lt;a href="https://www.sae.org/standards/content/j2945/A_202404/"&gt;Minimum Requirements for Road Geometry and Attributes Definition™ the J2945/A PDF.&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href="https://www.sae.org/standards/content/j2945/A_202404/"/&gt;&lt;a href="https://www.sae.org/standards/content/j2945/as_202404/"&gt;Minimum Requirements for Road Geometry and Attributes Definition™ SET File that includes the J2945/AA ASN File and the J2945/A PDF (ZIP format) - download purchase only.&lt;/a&gt;&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

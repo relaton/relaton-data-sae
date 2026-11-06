@@ -1,0 +1,48 @@
+---
+id: SAEAS55901A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CONNECTOR, FIBER OPTIC, CIRCULAR, ENVIRONMENT RESISTANT, REMOVEABLE TERMINI
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5590/1a
+- type: src
+  content: https://saemobilus.sae.org/standards/as55901a-connector-fiber-optic-circular-environment-resistant-removeable-termini
+docidentifier:
+- content: SAE AS5590/1A
+  type: SAE
+  primary: true
+- content: 10.4271/as5590/1a
+  type: DOI
+date:
+- type: approved
+  at: '2020-11-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

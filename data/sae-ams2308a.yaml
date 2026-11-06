@@ -1,0 +1,53 @@
+---
+id: SAEAMS2308A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Magnetic Rubber Inspection
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2308a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2308a-magnetic-rubber-inspection
+docidentifier:
+- content: SAE AMS2308A
+  type: SAE
+  primary: true
+- content: 10.4271/ams2308a
+  type: DOI
+date:
+- type: approved
+  at: '2005-04-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS K Non Destructive Methods and Processes Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers the procedural requirements necessary for
+    the performance of magnetic rubber inspection.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

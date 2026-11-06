@@ -1,0 +1,48 @@
+---
+id: SAEAMS7211
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: COTTER PINS, STEEL, CORROSION AND HEAT RESISTANT 18Cr - 9.5Ni - Ti
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7211
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7211-cotter-pins-steel-corrosion-heat-resistant-18cr-95ni-ti
+docidentifier:
+- content: SAE AMS7211
+  type: SAE
+  primary: true
+- content: 10.4271/ams7211
+  type: DOI
+date:
+- type: approved
+  at: '1952-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

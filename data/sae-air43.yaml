@@ -1,0 +1,58 @@
+---
+id: SAEAIR43
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Low Temperature Torque Test for Aircraft Greases
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air43
+- type: src
+  content: https://saemobilus.sae.org/standards/air43-low-temperature-torque-test-aircraft-greases
+docidentifier:
+- content: SAE AIR43
+  type: SAE
+  primary: true
+- content: 10.4271/air43
+  type: DOI
+date:
+- type: approved
+  at: '1995-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The objective of this investigation was to develop a test method for
+    measuring the resistance to rotation of a ball bearing, caused by the  grease
+    in that bearing, as a function of temperature. Low temperatures were of particular
+    interest, and it was desired that the test results be expressed in terms which
+    could be used in mechanism design by proper correction for bearing size, etc.
+    It was also desired that the method be capable of measuring 'break away' as well
+    as the running torque of a bearing filled with grease.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

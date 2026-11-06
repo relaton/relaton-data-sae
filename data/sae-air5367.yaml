@@ -1,0 +1,57 @@
+---
+id: SAEAIR5367
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Machining of Composite Materials, Components and Structures
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5367
+- type: src
+  content: https://saemobilus.sae.org/standards/air5367-machining-composite-materials-components-structures
+docidentifier:
+- content: SAE AIR5367
+  type: SAE
+  primary: true
+- content: 10.4271/air5367
+  type: DOI
+date:
+- type: approved
+  at: '2015-04-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CACRC Commercial Aircraft Composite Repair Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides information related to machining of composite materials, components and structures. This document is intended to supplement the machining processes and guidelines provided in OEM repair manuals and structural repair manuals. It is not intended to supersede the approved data provided in OEM repair documents.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

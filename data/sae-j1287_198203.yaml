@@ -1,0 +1,56 @@
+---
+id: SAEJ1287_198203
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MEASUREMENT OF EXHAUST SOUND LEVELS OF STATIONARY MOTORCYCLES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1287_198203
+- type: src
+  content: https://saemobilus.sae.org/standards/j1287_198203-measurement-exhaust-sound-levels-stationary-motorcycles
+docidentifier:
+- content: SAE J1287_198203
+  type: SAE
+  primary: true
+- content: 10.4271/j1287_198203
+  type: DOI
+date:
+- type: approved
+  at: '1982-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Motorcycle Technical Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document establishes the test procedure, environment, and instrumentation for determining the sound levels of motorcycles under stationary conditions. This test will measure primarily exhaust noise, but does not represent the best procedure for evaluating total vehicle noise. For this purpose, SAE Recommended Practice J331a, Sound Levels for Motorcycles, or SAE Recommended Practice J47, Maximum Sound Level Potential for Motorcycles, are recommended.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

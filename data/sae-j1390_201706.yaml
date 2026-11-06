@@ -1,0 +1,73 @@
+---
+id: SAEJ1390_201706
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Engine Cooling Fan Structural Analysis
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1390_201706
+- type: src
+  content: https://saemobilus.sae.org/standards/j1390_201706-engine-cooling-fan-structural-analysis
+docidentifier:
+- content: SAE J1390_201706
+  type: SAE
+  primary: true
+- content: 10.4271/j1390_201706
+  type: DOI
+date:
+- type: approved
+  at: '2017-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Cooling Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Three levels of fan structural analysis are included in this practice:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Initial Structural Integrity&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;In-vehicle Testing&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Durability (Laboratory) Test Methods&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The Initial Structural Integrity section describes analytical and test methods used to predict potential resonance and, therefore, possible fatigue accumulation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The In-vehicle (or machine) section enumerates the general procedure used to conduct a fan strain gage test. Various considerations that may affect the outcome of strain gage data have been described for the user of this procedure to adapt/discard depending on the particular application.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The Durability Test Methods section describes the detailed test procedures for a laboratory environment that may be used depending on type of fan, equipment availability, and end objective.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The second and third levels build upon information derived from the previous level. Engineering judgment is required as to the applicability of each level to a different vehicle environment or a new fan design.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice is applicable to any engine cooling fan application including medium and heavy-duty trucks, buses, construction equipment, industrial, and agricultural equipment. Some sections are more applicable to engine-driven fans than to hydraulic-driven or electric-motor-driven fans, especially with respect to speed control. Fan failure modes, however, are generally the same regardless of driving modes.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The usage of non-metallic construction necessitates areas of evaluation not required by metallic designs. Chief among these are temperature extremes, moisture content, impact resistance, chemical attack, material purity/homogeneity, and aging/weathering. Areas of evaluation affecting both metallic and non-metallic fans, but requiring somewhat different approaches with non-metallic parts, include natural frequency determination and durability testing.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

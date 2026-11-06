@@ -1,0 +1,54 @@
+---
+id: SAEAMSC83873A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Cleaning Compound, Precoating Surface, Aircraft and Aerospace Ground  Equipment
+    (AGE)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/amsc83873a
+- type: src
+  content: https://saemobilus.sae.org/standards/amsc83873a-cleaning-compound-precoating-surface-aircraft-aerospace-ground-equipment-age
+docidentifier:
+- content: SAE AMS-C-83873A
+  type: SAE
+  primary: true
+- content: 10.4271/amsc83873a
+  type: DOI
+date:
+- type: approved
+  at: '2010-12-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS J Aircraft Maintenance Chemicals and Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification establishes the requirements for biodegradable,
+    enzyme based, precoating surface cleaners.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

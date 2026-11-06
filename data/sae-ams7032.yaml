@@ -1,0 +1,67 @@
+---
+id: SAEAMS7032
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Machine Qualification for Fusion-Based Metal Additive Manufacturing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7032
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7032-machine-qualification-fusion-based-metal-additive-manufacturing
+docidentifier:
+- content: SAE AMS7032
+  type: SAE
+  primary: true
+- content: 10.4271/ams7032
+  type: DOI
+date:
+- type: approved
+  at: '2022-08-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS AM Additive Manufacturing Metals
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard has notes/guidance narratives interspersed throughout. These notes/guidance narratives are identified by a header and by text in &lt;i&gt;italics&lt;/i&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard defines a series of requirements that results in a specific AM machine qualified to produce material (see &lt;i&gt;GN1&lt;/i&gt;) in compliance to an aerospace materials specification. The machine control and/or configuration types are discussed in the next sections. The industry (including AIA and ASTM) generally acknowledges that there are three qualification milestones for AM machines; nevertheless, this document will focus only on the initial two stages, namely:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Installation Qualification (IQ): Producing objective evidence to show that all key aspects of the process equipment and ancillary system installation adhere to the AM Part Producer’s specification and that the recommendations of the supplier of the equipment are suitably considered; this is tied to a specific machine serial number.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Operational Qualification (OQ): Establishing sufficient process control to maintain stable material performance and demonstrating that the material specification requirements can be met; this is also tied to a specific machine serial number (see &lt;i&gt;GN2&lt;/i&gt;).&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,65 @@
+---
+id: SAEAIR6900
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Applicable Aircraft Integrated Vehicle Health Management (IVHM) Regulations,
+    Policy, and Guidance
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6900
+- type: src
+  content: https://saemobilus.sae.org/standards/air6900-applicable-aircraft-integrated-vehicle-health-management-ivhm-regulations-policy-guidance
+docidentifier:
+- content: SAE AIR6900
+  type: SAE
+  primary: true
+- content: 10.4271/air6900
+  type: DOI
+date:
+- type: approved
+  at: '2019-01-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: HM-1 Integrated Vehicle Health Management Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AIR lists and describes a collection of regulations, policy, and guidance documents applicable to design approval applicants, aircraft operating certificate holders, and maintenance repair and overhaul (MRO) organizations. The aircraft industry should consider these rules when installing IVHM technology for use in aircraft maintenance. This is a starting basis and should not be considered as complete when certification of an IVHM system is expected. The AIR’s objectives are:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;To set the foundation for aircraft certification applicants seeking to design IVHM solutions as part of the type certificate (TC), supplemental type certificate (STC), amended TC, or amended STC activities; and&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;To set the foundation for aircraft operating certificate holders to engage with regulators to get authorization for using IVHM applications as part of an aircraft maintenance program.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: This AIR’s scope is limited to the United States (U.S.) Federal Aviation Administration (FAA) information only in this version, but future revisions intend to include other regulator input.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

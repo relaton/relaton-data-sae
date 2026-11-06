@@ -1,0 +1,59 @@
+---
+id: SAEJ3151_201810
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Relating Experimental Drive Distraction and Driving Performance Metrics
+    to Crash Involvement - Definitions of Terms and Concepts
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3151_201810
+- type: src
+  content: https://saemobilus.sae.org/standards/j3151_201810-relating-experimental-drive-distraction-driving-performance-metrics-crash-involvement-definitions-terms-concepts
+docidentifier:
+- content: SAE J3151_201810
+  type: SAE
+  primary: true
+- content: 10.4271/j3151_201810
+  type: DOI
+date:
+- type: approved
+  at: '2018-10-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Driver Metrics, Performance, Behaviors and States Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Information Report provides functional definitions and discussions of key terms and concepts for relating the experimental evaluation of driver distraction to real-world crash involvement. Examples of driver distraction and driving performance metrics include those related to vehicle control, object and event detection and response (OEDR), physiological indicators, subjective assessments, or combinations thereof. Examples of real-world crash involvement metrics include the epidemiological effect size measures of risk ratio, rate ratio, and odds ratio. The terms and concepts defined in this document are not intended to contribute to methodologies for assessing the individual metrics within a domain; these are covered in other SAE documents (e.g., SAE J2944) and SAE technical reports. For any measure chosen in one domain or the other, the goal is to give general definitions of key terms and concepts that relate metrics in one domain to those in the other. Issues of repeatability and validity are discussed in relation to these methods and metrics for relating the two domains. However, the actual specification of a particular methodology for predicting crash involvement from experimental studies is outside the scope of the present document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This informational report applies to all motorized on-road road vehicles including passenger cars, trucks, buses, and powered two-wheelers. Driver distraction may be related to any activity that competes with the driving task and diverts attention away from activities critical for safe driving.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Note that the terms and concepts described herein may also be general enough to suggest methods to estimate crash involvement of real-world automated vehicles from simulation metrics. The intended users of the document are practitioners and researchers in the industry, academia, and other organizations with interest in driver distraction and driving performance assessment and road safety.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

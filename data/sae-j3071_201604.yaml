@@ -1,0 +1,58 @@
+---
+id: SAEJ3071_201604
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Automotive Battery Recycling Identification and Cross Contamination Prevention
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3071_201604
+- type: src
+  content: https://saemobilus.sae.org/standards/j3071_201604-automotive-battery-recycling-identification-cross-contamination-prevention
+docidentifier:
+- content: SAE J3071_201604
+  type: SAE
+  primary: true
+- content: 10.4271/j3071_201604
+  type: DOI
+date:
+- type: approved
+  at: '2016-04-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Battery Standards Recycling Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Battery Identification and Cross Contamination Prevention document is intended to provide information that may be applicable to all types of Rechargeable Energy Storage System (RESS) devices. It is important to develop a system that can facilitate sorting by chemistry. The recycler is interested in the chemistry of the RESS. This is true for the recyclers of Lead Acid, Lithium Ion, Nickel Cadmium etc.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Thus recyclers of RESS will receive RESS from automotive, commercial, and industrial applications. These RESS have the potential to be contaminated with a RESS of an incompatible chemistry. It is recognized that mitigation methods to reduce or eliminate the introduction of incompatible chemistries into a given recycling stream would also benefit safety and the environment.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

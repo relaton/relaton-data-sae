@@ -1,0 +1,61 @@
+---
+id: SAEAIR1244B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace, Slipper Seals, Selection for Fluid Power Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1244b
+- type: src
+  content: https://saemobilus.sae.org/standards/air1244b-aerospace-slipper-seals-selection-fluid-power-applications
+docidentifier:
+- content: SAE AIR1244B
+  type: SAE
+  primary: true
+- content: 10.4271/air1244b
+  type: DOI
+date:
+- type: approved
+  at: '2022-08-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C2 Seals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides basic information on the use of slipper seal sealing devices when used as piston (OD) and rod (ID) seals in aerospace fluid power components such as actuators, valves, and swivel joints, including:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;The definition of a slipper seal and the description of the basic types in use.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Guidelines for selecting the type of slipper seal for a given design requirement are provided in terms of friction, leakage, service life, installation characteristics, and interchangeability.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEJ1052_199704
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MOTOR VEHICLE DRIVER AND PASSENGER HEAD POSITION
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1052_199704
+- type: src
+  content: https://saemobilus.sae.org/standards/j1052_199704-motor-vehicle-driver-passenger-head-position
+docidentifier:
+- content: SAE J1052_199704
+  type: SAE
+  primary: true
+- content: 10.4271/j1052_199704
+  type: DOI
+date:
+- type: approved
+  at: '1997-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Human Accom and Design Devices Stds Comm
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes the location of both driver and passenger heads inside a vehicle for the purpose of describing spatial requirements. Driver lateral head position includes head movement looking to the left and right while driving. Elliptical (head position contour) models in both two and three dimensions are used to represent 95th and 99th percentiles of driver and passenger head locations. This document describes two different procedures for locating driver head position contours, depending on whether or not the driver workspace is like that found in a passenger car or a heavy truck. The need for two different procedures has led to a vehicle classification scheme which labels vehicles as either Class A (passenger cars) or Class B (heavy trucks) according to definitions given in SAE J1100 APR97.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,53 @@
+---
+id: SAEAMS5626E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Tool, High Speed Bars and Forgings
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5626e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5626e-steel-tool-high-speed-bars-forgings
+docidentifier:
+- content: SAE AMS5626E
+  type: SAE
+  primary: true
+- content: 10.4271/ams5626e
+  type: DOI
+date:
+- type: approved
+  at: '1997-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification has been 'Cancelled' by the Aerospace Materials
+    \ Division, SAE, as of January 1997. Alloy: T1  UNS Number: T12001</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

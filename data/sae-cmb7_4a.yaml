@@ -1,0 +1,55 @@
+---
+id: SAECMB7_4A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Glossary of Terms, Acronyms, and Definitions
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/cmb7_4a
+- type: src
+  content: https://saemobilus.sae.org/standards/cmb7_4a-glossary-terms-acronyms-definitions
+docidentifier:
+- content: SAE CMB7-4A
+  type: SAE
+  primary: true
+- content: 10.4271/cmb7_4a
+  type: DOI
+date:
+- type: approved
+  at: '2014-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-47 Systems Engineering
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+    &lt;div class="htmlview paragraph"&gt;This Bulletin provides a comprehensive list of Terms and Definitions used in or related to TechAmerica prepared standards/documents. The information in these listings was extracted from standards and documents prepared by the Systems Engineering (G47), Configuration Management (G33), Life Cycle Logistics Supportability and Enterprise Information Management Interoperability Committees along with other pertinent international, industry and government standards. It is intended that this bulletin be used as a resource to help with harmonization of terms and definitions across standards. One should be cognizant of the release date of this Bulletin and understand that updates to the included standards and handbooks after this Bulletin was released may affect its accuracy.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

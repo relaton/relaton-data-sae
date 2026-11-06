@@ -1,0 +1,57 @@
+---
+id: SAEAIR7209
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Development Assurance Principles for Aerospace Vehicles and Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air7209
+- type: src
+  content: https://saemobilus.sae.org/standards/air7209-development-assurance-principles-aerospace-vehicles-systems
+docidentifier:
+- content: SAE AIR7209
+  type: SAE
+  primary: true
+- content: 10.4271/air7209
+  type: DOI
+date:
+- type: approved
+  at: '2022-10-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-18 Aircraft and Sys Dev and Safety Assessment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Aerospace Information Report (AIR) is to provide a high-level set of principles to support aerospace projects required to use a formal development assurance process, such as ARP4754/ED-79 (at latest revision), to show regulatory compliance. Examples of projects where a formal development assurance process is needed are those that have significant functional interactions or whose products cannot be fully analyzed or tested. Development assurance techniques reduce the likelihood of undetected errors that could have safety impacts in the operation of the product. Design and analysis techniques traditionally applied to deterministic risks or to conventional, non-complex systems may not provide adequate safety coverage for more complex systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not mandate specific processes to meet each development assurance principle. These principles are written at a high level to allow flexibility so that users can develop and evaluate their own compliant development assurance processes. Users are responsible for presenting their development assurance approach to certification authorities and obtaining agreement. The framework in this document can assist with this coordination.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

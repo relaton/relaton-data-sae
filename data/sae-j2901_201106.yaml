@@ -1,0 +1,58 @@
+---
+id: SAEJ2901_201106
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Misfire Generator Functional Requirements
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2901_201106
+- type: src
+  content: https://saemobilus.sae.org/standards/j2901_201106-misfire-generator-functional-requirements
+docidentifier:
+- content: SAE J2901_201106
+  type: SAE
+  primary: true
+- content: 10.4271/j2901_201106
+  type: DOI
+date:
+- type: approved
+  at: '2011-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The intent of the specification is to present a functional set of requirements which define the user and hardware interfaces while providing sufficient capability to meet the misfire patterns for compliance demonstration and engineering development. The misfire generator behaves as a spark-defeat device which induces misfires by inhibiting normal ignition coil discharge. It does so by monitoring the vehicle’s ignition timing signals and suspends ignition coil saturation for selected cylinder firing events. The misfire generator will thereby induce engine misfire in spark ignited gasoline internal combustion engines; including rotary engines.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This requirement assumes that the user has a fundamental understanding of misfire diagnostics as well as ignition controls. This requirement is not intended to be an introductory misfire guideline or interpretation of regulatory requirements.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

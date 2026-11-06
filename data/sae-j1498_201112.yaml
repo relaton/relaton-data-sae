@@ -1,0 +1,64 @@
+---
+id: SAEJ1498_201112
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Heating Value of Fuels
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1498_201112
+- type: src
+  content: https://saemobilus.sae.org/standards/j1498_201112-heating-value-fuels
+docidentifier:
+- content: SAE J1498_201112
+  type: SAE
+  primary: true
+- content: 10.4271/j1498_201112
+  type: DOI
+date:
+- type: approved
+  at: '2011-12-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuels and Lubricants TC 7 Fuels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The heating value or heat of combustion is a measure of the energy available from the fuel. The fraction or percentage of the heat of combustion that is converted to useful work is a measure of the thermal efficiency of an engine. Thus, a knowledge of the heat of combustion of the fuel is basic to the engineering of automotive engines. This SAE Information Report provides information on the standardized procedures for determining the heat of combustion of fuels that may be used for automotive engines.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The changes to SAE J1498 include:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE Publications - Added SAE Paper 2010-01-1517&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Other Publications and &lt;span class="xref"&gt;Sections 5&lt;/span&gt;, &lt;span class="xref"&gt;9&lt;/span&gt;, and &lt;span class="xref"&gt;10&lt;/span&gt; - Updated ASTM alphanumeric designations and titles.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Section 10&lt;/span&gt; - Added discussion of a method to calculate net heating value for gasoline-ethanol blends using ASTM D3338.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

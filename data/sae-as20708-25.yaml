@@ -1,0 +1,56 @@
+---
+id: SAEAS2070825
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Synchro, Control Transformer, Type 16CTB4b
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as20708/25
+- type: src
+  content: https://saemobilus.sae.org/standards/as2070825-synchro-control-transformer-type-16ctb4b
+docidentifier:
+- content: SAE AS20708/25
+  type: SAE
+  primary: true
+- content: 10.4271/as20708/25
+  type: DOI
+date:
+- type: approved
+  at: '2004-05-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7A Generators and Controls Motors and Magnetic Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the detail requirements for control transformer synchro, type 16CTB4b, 90 volt, 400 cycle.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

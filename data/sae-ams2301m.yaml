@@ -1,0 +1,68 @@
+---
+id: SAEAMS2301M
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Cleanliness, Aircraft-Quality, Magnetic Particle Inspection Procedure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2301m
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2301m-steel-cleanliness-aircraft-quality-magnetic-particle-inspection-procedure
+docidentifier:
+- content: SAE AMS2301M
+  type: SAE
+  primary: true
+- content: 10.4271/ams2301m
+  type: DOI
+date:
+- type: approved
+  at: '2026-03-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers steel cleanliness requirements for aircraft-quality ferromagnetic steels, other than hardenable corrosion-resistant steels (refer to AMS2303), by magnetic particle inspection methods. This specification contains sampling, specimen preparation, inspection procedures, and cleanliness rating criteria (see &lt;span class="xref"&gt;8.2&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

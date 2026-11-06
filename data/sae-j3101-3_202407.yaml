@@ -1,0 +1,56 @@
+---
+id: SAEJ31013_202407
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hardware Protected Security Environment Management of Confidential Data
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3101-3_202407
+- type: src
+  content: https://saemobilus.sae.org/standards/j3101-3_202407-hardware-protected-security-environment-management-confidential-data
+docidentifier:
+- content: SAE J3101-3_202407
+  type: SAE
+  primary: true
+- content: 10.4271/j3101-3_202407
+  type: DOI
+date:
+- type: approved
+  at: '2024-07-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Electrical System Security Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides an information report to the readers for the management of confidential data associated with hardware protected security environment (HPSE). The scope of the present document is common principles of confidential data, methodologies, conformance of SAE J3101 with regulations and standards, and use cases.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,49 @@
+---
+id: SAEAMS7716D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL SHEET AND STRIP, FLAT-ROLLED, ELECTRICAL, GRAIN-ORIENTED 3.15Si Type
+    27G053, Type 30G058, or Type 35G066, Fully-Processed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7716d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7716d-steel-sheet-strip-flat-rolled-electrical-grain-oriented-315si-type-27g053-type-30g058-type-35g066-fully-processed
+docidentifier:
+- content: SAE AMS7716D
+  type: SAE
+  primary: true
+- content: 10.4271/ams7716d
+  type: DOI
+date:
+- type: approved
+  at: '1992-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

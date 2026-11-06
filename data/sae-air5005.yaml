@@ -1,0 +1,101 @@
+---
+id: SAEAIR5005
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace - Commercial Aircraft Hydraulic Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5005
+- type: src
+  content: https://saemobilus.sae.org/standards/air5005-aerospace-commercial-aircraft-hydraulic-systems
+docidentifier:
+- content: SAE AIR5005
+  type: SAE
+  primary: true
+- content: 10.4271/air5005
+  type: DOI
+date:
+- type: approved
+  at: '2000-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A1 Commercial Aircraft Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) has been compiled to provide information on hydraulic systems fitted to commercial aircraft.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Data has been provided for the following aircraft types:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Wide body jet airliners;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Narrow body jet airliners;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Turboprop/commuter aircraft.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;The aircraft that have been included in this document are in operational service with either airlines or cargo operators. No information is presented for aircraft that are currently being developed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The following information is provided for each aircraft:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Design requirements: Governing airworthiness regulations&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;System pressure: Fluid power system operating pressure&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Hydraulic fluid: Type of fluid system is designed for&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Number of hydraulic systems: Number and identification of independent hydraulic systems&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;System temperature: Minimum and maximum design operating temperatures&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Main hydraulic pump data: Flow, pressure, displacement&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Auxiliary pump data: System auxiliary pump or back-up data&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Hydraulic motor data: System hydraulic motor requirements&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Accumulator data: Usage, volume and precharge requirements&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Reservoir data: Type, volume and pressure&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Relief valve data: Usage, crack and reseat pressures, rated flow&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Filtration: Usage, filtration rating&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Tubing data: Materials, sizes, wall thicknesses&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Fitting data: Type, size range, material&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Schematic diagram: System architecture, services supplied and details of power pressure and supply systems&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,73 @@
+---
+id: SAEARP4900
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: LIQUID ROCKET ENGINE RELIABILITY CERTIFICATION
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4900
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4900-liquid-rocket-engine-reliability-certification
+docidentifier:
+- content: SAE ARP4900
+  type: SAE
+  primary: true
+- content: 10.4271/arp4900
+  type: DOI
+date:
+- type: approved
+  at: '1996-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-11 Probabilistic Methods and Uncertainty Quantification
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Current design and development practices leading to formal liquid rocket engine qualification (USAF) or certification (NASA) will not achieve the specific reliability objectives of future programs. New rocket engine programs are dictating quantified requirements for high reliability in parallel with a cost-constrained procurement environment. These specified reliability levels cannot be validated with the necessary confidence in a timely or cost-effective manner by present methods. Therefore, a new improved process is needed and has been developed. This new reliability certification methodology will be discussed in detail in the five sections that comprise this document. Primary purposes of this report are to:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Define and illustrate this process&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Point out its strengths and weaknesses&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Provide guidelines for its application on programs which have specified reliability requirements&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;Increased emphasis on rocket engine reliability and cost has prompted the Liquid Rocket Certification Subcommittee (Society of Automotive Engineers for Reliability, Maintainability, and Supportability) to thoroughly examine current methodologies to qualify or certify liquid rocket engine systems. For example, new liquid rocket engine programs, such as the joint NASA/Air Force effort for the National Launch System (NLS) or the Air Force XLR-132 storable propellant upper stage engine, include documented requirements for high levels of reliability. These new requirements exceed those historically demonstrated over the operational life of most current rocket propulsion systems. Certification of reliability was not required for past liquid rocket engines developed for the Air Force or NASA. The importance of demonstrated reliability was low, relative to such requirements as performance, schedule, and cost. Engines were formally qualified or certified by test programs aimed primarily at demonstrating design maturity and operational readiness in terms of performance and durability. In general, relatively little propulsion system testing, as distinguished from engine system testing, was implemented on past flight hardware for launch vehicles.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Reliability estimates prior to the first flight of a new engine historically have been based largely upon results from qualification or certification tests which formally declared the engine ready to fly. Many changes typically were made during the engine development period, until the engine was considered mature enough to qualify or certify. The process, therefore, precluded the gathering of test results applicable to reliability assessment during this development phase of a program. As a consequence, predicted reliability levels, at high confidence, prior to the first flight of a new engine have been consistently low. This was due to the small number of engines tested, especially identical units, and the limited number and type of tests performed on each engine during a typical qualification or certification test program. Reliability levels for current operational rocket engines are based upon a combination of ground test experience supplemented by the accumulation of data derived from actual flights. This process typically takes years and hundreds to perhaps thousands of tests to develop a satisfactory level of reliability and confidence for a particular engine system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The Liquid Rocket Certification Subcommittee advocates a new approach to rocket engine reliability certification as a result of reviewing current methods to qualify or certify engines. It is felt that this new approach is an improvement over current qualification/certification methods. The recommended new approach, described in the following sections of this report, involves a judicious combination of analysis and test efforts that begin at an early stage of the design prior to formal certification. This methodology quantifies reliability estimates by focusing upon early identified weak links in the design and system reliability drivers. The recommended approach includes development tests that assist in establishing the necessary information base for probabilistic analyses and engine system certification testing to demonstrate structural, thermal, and dynamic capabilities, as well as the more typical performance and life requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The new approach begins with a traditional deterministic preliminary design of the engine. A failure modes and effects analysis and a fault tree analysis are then conducted. At this point, the improved approach departs from typical methodology by screening engine components for criticality. A critical component has one or more critical failure modes. This screening is based upon the accumulated knowledge which impacts the design at this point. Critical components typically are complex in geometry, difficult to analyze, susceptible to catastrophic failure, and sensitive to such things as environments, loads, or material properties. Experience has shown that a majority (about 80 to 90%) of the components of a rocket engine can be classified as noncritical, and their reliability is essentially unity. Therefore, a conventional deterministic design approach is satisfactory for these components. However, probabilistic analysis may be desirable for these noncritical components to realize other benefits such as weight savings. The remaining engine components have a higher probability of failure as well as being engine system critical and require the more intensive probabilistic analysis. A probabilistic analysis recognizes dimensional tolerances, variability in material properties, inadequacies in modeling techniques, load distributions, manufacturing variabilities, and so forth, involved in each critical failure mode.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Components that utilize the more intensive probabilistic analysis techniques will yield quantified reliability estimates, while those designed deterministically are assessed only for serviceability. The process is iterative and continuous in nature, whether the component follows the deterministic or probabilistic path, and utilizes the best information available at the time of the analysis. Data deficiencies identified by the probabilistic analysis approach provide guidance for establishing a cost-effective test program during the development phase of the engine program.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The final step in the recommended new approach is a formal, hot firing, test of the engine system which simulates, to the maximum extent possible, the complete propulsion system. Tests will be conducted to engine operational limits to validate structural, thermal, and dynamic margins. A careful review of earlier rocket engine certification and re-certification test programs revealed a number of weaknesses in these formal programs. For example, tests were implemented on a very limited number of like engines. Similarly, most tests were conducted at nominal engine operating conditions with little or no testing at or near anticipated flight operational boundaries. Few attempts were made to demonstrate structural, dynamic, or thermal margins. Duration typically was stressed by multiple full-term firings as suggested in MIL-R-5149 (1969). However, margins in duration frequently were compromised by engine rework. Early test programs failed to provide adequate reliability data because of the many shortcomings indicated above. &lt;span class="xref"&gt;Sections 5&lt;/span&gt; and &lt;span class="xref"&gt;6&lt;/span&gt; of this report will be devoted to reliability validation for the application of this new approach on programs that have specified requirements for engine reliability.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In summary, an examination of weaknesses in past programs to qualify or certify liquid rocket engines, combined with recent strong emphasis on high engine reliability, has led to this recommendation of a new improved approach for the entire process. It is hoped that this new approach will be adopted by and satisfy the future needs of the military, NASA, and commercial users of liquid rocket engines because of the many advantages that will accrue from this approach. For example, it elevates reliability to a status typical of performance, schedule, and cost. It provides early identification of weak components and mitigates nonbeneficial conservatism due to compounding of margins and factors of safety on some components. The approach also guides cost-effective test programs to validate analytic models, confirm environmental predictions, and define system interactions. It provides continuous quantified estimates of component and engine reliability and validates the required level of reliability prior to commitment to flight. It demonstrates structural, thermal, and dynamic capability to operational limits. Finally, the new approach reduces total costs of development, certification, and flight, at some affordable increase to the initial design costs.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

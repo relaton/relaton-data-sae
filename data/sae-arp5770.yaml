@@ -1,0 +1,56 @@
+---
+id: SAEARP5770
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Mechanical Control Design Guide
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5770
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5770-mechanical-control-design-guide
+docidentifier:
+- content: SAE ARP5770
+  type: SAE
+  primary: true
+- content: 10.4271/arp5770
+  type: DOI
+date:
+- type: approved
+  at: '2012-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A3 Flight Control and Vehicle Management Systems Cmt
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides guidelines for the configuration and design of mechanical control signal transmission systems and subsystems. It is focused on the recommended practices for designing cable and pulley, pushrod and bellcrank and push-pull flexible cable control systems. These systems are typically used in some combination to transmit pilot commands into primary, secondary and utility control system commands (mechanical or electrical) or aircraft surface commands. On mechanically controlled aircraft, most pilot control commands are initiated through cockpit mounted wheels, sticks, levers, pedals or cranks that are coupled by pushrods or links to cable systems. The cable systems are routed throughout the aircraft and terminated in close proximity to the commanded surface or function where cranks and pushrods are again used to control the commanded function.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

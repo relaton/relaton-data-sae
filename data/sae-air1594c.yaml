@@ -1,0 +1,63 @@
+---
+id: SAEAIR1594C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Plain Bearing Selection for Landing Gear Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1594c
+- type: src
+  content: https://saemobilus.sae.org/standards/air1594c-plain-bearing-selection-landing-gear-applications
+docidentifier:
+- content: SAE AIR1594C
+  type: SAE
+  primary: true
+- content: 10.4271/air1594c
+  type: DOI
+date:
+- type: approved
+  at: '2015-11-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is intended to give advisory information for the selection of plain bearings and bearing materials most suitable for aircraft landing gear applications. Information included herein was derived from bearing tests and service experience/reports. Airframe/landing gear manufacturers, commercial airlines, the U.S. Air Force and Naval Air Systems Command provided input for the document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Information is given on bearing installation methods and fits that have given satisfactory performance and service life.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Base metal corrosion is a major cause of problems in bearing installations for landing gears. Therefore, methods of corrosion prevention are discussed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Effort is directed toward minimizing maintenance and maximizing life expectancy of landing gear bearings. Lubricated and self-lubricating bearings are also discussed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;There are wide ranges of bearing load and motion requirements for applications in aircraft landing gears. For this reason, it is the responsibility of the designer to select that information which pertains to the particular application.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Anti-friction bearings, defined as rolling element bearings generally used in wheel and live axle applications, will not be discussed in this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Landing gear shock strut bearing design and selection criteria are covered in AIR5883 and, therefore, are not discussed in detail in this document.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

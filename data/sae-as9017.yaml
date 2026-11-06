@@ -1,0 +1,56 @@
+---
+id: SAEAS9017
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Control of Aviation Critical Safety Items
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9017
+- type: src
+  content: https://saemobilus.sae.org/standards/as9017-control-aviation-critical-safety-items
+docidentifier:
+- content: SAE AS9017
+  type: SAE
+  primary: true
+- content: 10.4271/as9017
+  type: DOI
+date:
+- type: approved
+  at: '2017-03-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is intended to prescribe consistent requirements for CSI management for organizations and suppliers who perform work for prime contractors receiving direct contracts from U.S. government agencies (i.e., first-tier or prime suppliers).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

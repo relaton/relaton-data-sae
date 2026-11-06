@@ -1,0 +1,56 @@
+---
+id: SAEAMS7713B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Iron, Electrical, Bar and Strip Cold Finished, Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7713b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7713b-iron-electrical-bar-strip-cold-finished-annealed
+docidentifier:
+- content: SAE AMS7713B
+  type: SAE
+  primary: true
+- content: 10.4271/ams7713b
+  type: DOI
+date:
+- type: approved
+  at: '2011-05-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers electrical iron in the form of bar and strip.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

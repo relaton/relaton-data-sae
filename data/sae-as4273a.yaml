@@ -1,0 +1,61 @@
+---
+id: SAEAS4273A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fire Testing of Fluid Handling Components for Aircraft Engines and Aircraft
+    Engine Installations
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4273a
+- type: src
+  content: https://saemobilus.sae.org/standards/as4273a-fire-testing-fluid-handling-components-aircraft-engines-aircraft-engine-installations
+docidentifier:
+- content: SAE AS4273A
+  type: SAE
+  primary: true
+- content: 10.4271/as4273a
+  type: DOI
+date:
+- type: approved
+  at: '2007-02-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-22 Fire Protection and Flammability Testing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document establishes requirements, test procedures, and acceptance criteria for the fire testing of fluid handling components and materials used in aircraft fluid systems. It is applicable to fluid handling components other than those prescribed by AS1055 (e.g., hoses, tube assemblies, coils, and fittings).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It also is applicable to materials, wiring, and components such as reservoirs, valves, gearboxes, pumps, filter assemblies, accumulators, fluid-cooled electrical/electronic components, in-flight fluid system instrumentation, hydromechanical controls, actuators, heat exchangers, and manifolds. These components may be used in fuel, lubrication, hydraulic, or pneumatic systems.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,61 @@
+---
+id: SAEAIR4713A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace - Chlorinated Solvent Contamination of MIL-H-5606/MIL-H-83282
+    Vehicle Hydraulic Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4713a
+- type: src
+  content: https://saemobilus.sae.org/standards/air4713a-aerospace-chlorinated-solvent-contamination-mil-h-5606-mil-h-83282-vehicle-hydraulic-systems
+docidentifier:
+- content: SAE AIR4713A
+  type: SAE
+  primary: true
+- content: 10.4271/air4713a
+  type: DOI
+date:
+- type: approved
+  at: '2013-06-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Although there is controversy regarding the chemical form of chlorine and its relation to harmful effects in the hydraulic fluid (i.e., chloride ions versus organic chloro-compounds versus total chlorine in all forms), it is generally agreed that total chlorine content should be measured and controlled. In the near future, the ban on the manufacture of chlorinated solvents, out of concern for depletion of the ozone layer, may in itself diminish or eliminate chlorine contamination related aircraft malfunctions. It is generally accepted that hydraulic fluid contamination should be held to a minimum under all conditions. The benefits of low contamination levels are improved performance, lower maintenance due to lower wear, corrosion and erosion, longer fluid life, longer component life, etc.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Contaminants can be classified into two general types: those that are insoluble and those that are soluble in the hydraulic fluid. The insoluble solid type is most common and is usually referred to as particulate matter. Its measurement and removal have been the subject of much investigation and standardization which is well documented in technical literature. The insoluble liquid type contaminant is much less common. The resulting two phase system is often observed as hazy or cloudy fluid appearance and the recommended action is to remove the contaminated hydraulic fluid from the system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Soluble type contaminants are more difficult to detect and to determine quantitatively. They can easily escape notice, particularly when present in small amounts. Gross contamination usually results in significant changes in fluid physical properties and can be determined by such changes. Smaller amounts are difficult to detect and measure and usually require sophisticated analytical techniques - such as infrared and other spectral techniques, gas chromatography (both head space and electron capture), microcoulometry, x-ray fluorescence, etc.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Generally, the presence of undesirable soluble contaminants is unknown until they have been shown to cause performance problems. Hydraulic fluid formulations contain soluble additives in base stocks giving beneficial effects on performance. The range of possible undesirable soluble contaminants can encompass innumerable materials - solids, liquids or gases.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAMS5764F
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Corrosion-Resistant, Bars, Wire, Forgings, Extrusions, and Rings
+    5.0Mn - 22Cr - 12.5Ni - 2.2Mo - 0.20Cb - 0.30N - 0.20V Solution Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5764f
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5764f-steel-corrosion-resistant-bars-wire-forgings-extrusions-rings-50mn-22cr-125ni-22mo-020cb-030n-020v-solution-heat-treated
+docidentifier:
+- content: SAE AMS5764F
+  type: SAE
+  primary: true
+- content: 10.4271/ams5764f
+  type: DOI
+date:
+- type: approved
+  at: '2020-05-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion-resistant steel in the form of bars, wire, forgings, extrusions, flash welded rings, and stock for forging, extruding, or flash welded rings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

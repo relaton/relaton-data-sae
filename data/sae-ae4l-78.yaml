@@ -1,0 +1,43 @@
+---
+id: SAEAE4L78
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Lightning Test Waveforms and Techniques for Aerospace Vehicles and Hardware
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ae4l-78
+- type: src
+  content: https://saemobilus.sae.org/standards/ae4l-78-lightning-test-waveforms-techniques-aerospace-vehicles-hardware
+docidentifier:
+- content: SAE AE4L-78
+  type: SAE
+  primary: true
+- content: 10.4271/ae4l-78
+  type: DOI
+date:
+- type: approved
+  at: '1978-04-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

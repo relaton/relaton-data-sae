@@ -1,0 +1,56 @@
+---
+id: SAEAS8438
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Terminus, Fiber Optic, Harsh Environment, General Specification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8438
+- type: src
+  content: https://saemobilus.sae.org/standards/as8438-terminus-fiber-optic-harsh-environment-general-specification
+docidentifier:
+- content: SAE AS8438
+  type: SAE
+  primary: true
+- content: 10.4271/as8438
+  type: DOI
+date:
+- type: approved
+  at: '2021-11-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides details of test methods that should be taken into consideration when qualifying fiber optic termini to the product specifications (slash sheets). The product specifications (slash sheets) provide pass/fail criteria, optical and physical intermatability, and interoperability requirements for fiber optic termini in circular, rectangular, and modular type aerospace connectors.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

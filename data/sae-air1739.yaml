@@ -1,0 +1,56 @@
+---
+id: SAEAIR1739
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: INFORMATION ON ANTISKID SYSTEMS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1739
+- type: src
+  content: https://saemobilus.sae.org/standards/air1739-information-antiskid-systems
+docidentifier:
+- content: SAE AIR1739
+  type: SAE
+  primary: true
+- content: 10.4271/air1739
+  type: DOI
+date:
+- type: approved
+  at: '1988-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5A Wheels, Brakes and Skid Controls Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Information Report (AIR) has been prepared by a panel of the SAE A-5 Committee and is presented to document the design approaches and service experience from various applications of antiskid systems. This experience includes commercial and military applications.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

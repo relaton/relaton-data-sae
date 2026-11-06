@@ -1,0 +1,58 @@
+---
+id: SAEAS5684B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: JAUS Service Interface Definition Language
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5684b
+- type: src
+  content: https://saemobilus.sae.org/standards/as5684b-jaus-service-interface-definition-language
+docidentifier:
+- content: SAE AS5684B
+  type: SAE
+  primary: true
+- content: 10.4271/as5684b
+  type: DOI
+date:
+- type: approved
+  at: '2025-04-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-4JAUS Joint Architecture for Unmanned Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The SAE Aerospace Information Report AIR5315 – Generic Open Architecture (GOA) defines “a framework to identify interface classes for applying open systems to the design of a specific hardware/software system.” &lt;u&gt;[sae]&lt;/u&gt; JAUS Service (Interface) Definition Language defines an XML &lt;span class="xref"&gt;schema&lt;/span&gt; for the interface definition of services at the Class 4L, or Application Layer, and Class 3L, or System Services Layer, of the Generic Open Architecture stack (see &lt;span class="xref"&gt;Figure 1&lt;/span&gt;). The specification of JAUS services shall be defined according to the JAUS Service (Interface) Definition Language document.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

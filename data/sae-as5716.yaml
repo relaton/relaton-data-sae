@@ -1,0 +1,57 @@
+---
+id: SAEAS5716
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standard Electrical and Logical Interface for Airborne Fuzing Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5716
+- type: src
+  content: https://saemobilus.sae.org/standards/as5716-standard-electrical-logical-interface-airborne-fuzing-systems
+docidentifier:
+- content: SAE AS5716
+  type: SAE
+  primary: true
+- content: 10.4271/as5716
+  type: DOI
+date:
+- type: approved
+  at: '2010-02-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1B Aircraft Store Integration Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This interface standard applies to fuzes/fuzing systems (referred to as fuzing system hereafter) in airborne weapons that use a MIL-STD-1760 interface. It defines the powers, the discrete signals and the serial data interface for the communications at the interface between the fuzing system and the remainder of the weapon, including the weapon control unit, for Class 1 interfaces. Future issues of the standard will provide for additional fuzing system related functionality defined as Class 2 and Class 3 interfaces. For future issues of this standard, the connector definition is contained in AS5680.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard does not impose any safety requirements and does not supersede or replace any existing applicable safety standards.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

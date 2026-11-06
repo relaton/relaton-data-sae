@@ -1,0 +1,56 @@
+---
+id: SAEAS8037
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MINIMUM PERFORMANCE STANDARD FOR AIRCRAFT POSITION LIGHTS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8037
+- type: src
+  content: https://saemobilus.sae.org/standards/as8037-minimum-performance-standard-aircraft-position-lights
+docidentifier:
+- content: SAE AS8037
+  type: SAE
+  primary: true
+- content: 10.4271/as8037
+  type: DOI
+date:
+- type: approved
+  at: '1991-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20B Exterior Lighting Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Standard defines minimum light intensity in terms of candelas in vertical and horizontal-directions about the longitudinal, vertical and lateral axes of the aircraft. It also defines color tolerances in terms of limiting chromaticities for the light emitted from the position lights.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

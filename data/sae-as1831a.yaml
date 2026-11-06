@@ -1,0 +1,57 @@
+---
+id: SAEAS1831A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electrical Power, 270 VDC, Aircraft, Characteristics and Utilization of
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1831a
+- type: src
+  content: https://saemobilus.sae.org/standards/as1831a-electrical-power-270-vdc-aircraft-characteristics-utilization
+docidentifier:
+- content: SAE AS1831A
+  type: SAE
+  primary: true
+- content: 10.4271/as1831a
+  type: DOI
+date:
+- type: approved
+  at: '2023-04-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7C Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) establishes the characteristics and utilization of 270 V DC electric power at the utilization equipment interface and the constraints of the utilization equipment based on practical experience. These characteristics shall be applicable for both airborne and ground support power systems. This document also defines the related distribution and installation considerations. Utilization equipment designed for a specific application may not deviate from these requirements without the approval of the procuring activity.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

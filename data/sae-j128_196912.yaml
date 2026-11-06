@@ -1,0 +1,56 @@
+---
+id: SAEJ128_196912
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: OCCUPANT RESTRAINT SYSTEM EVALUATION - PASSENGER CARS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j128_196912
+- type: src
+  content: https://saemobilus.sae.org/standards/j128_196912-occupant-restraint-system-evaluation-passenger-cars
+docidentifier:
+- content: SAE J128_196912
+  type: SAE
+  primary: true
+- content: 10.4271/j128_196912
+  type: DOI
+date:
+- type: approved
+  at: '1969-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Restraint Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This information report encompasses the significant factors which determine the effectiveness of the total occupant restraint system in all commonly encountered collision configurations. The total system includes all components which affect occupant injury by influencing the manner in which the collision energy exchange is performed. In addition to the elements that contribute to impact attenuation, consideration must be given to factors that encourage maximum use, such as comfort, reliability, appearance, and convenience. Hence, system evaluation necessarily involves consideration of the complete vehicle.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

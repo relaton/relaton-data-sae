@@ -1,0 +1,58 @@
+---
+id: SAEJ986_198111
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SOUND LEVEL FOR PASSENGER CARS AND LIGHT TRUCKS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j986_198111
+- type: src
+  content: https://saemobilus.sae.org/standards/j986_198111-sound-level-passenger-cars-light-trucks
+docidentifier:
+- content: SAE J986_198111
+  type: SAE
+  primary: true
+- content: 10.4271/j986_198111
+  type: DOI
+date:
+- type: approved
+  at: '1981-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Light Vehicle Exterior Sound Level Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard establishes the test procedure, environment, and instrumentation for determining the exterior sound level for passenger cars, multipurpose vehicles, and light trucks having a gross vehicle mass (weight) rating of 4540 kg (10 000 lb) or less.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The test procedure of this standard is characterized by having fixed initial conditions (specified initial vehicle speed and gear selection at a fixed start point on the test site) in contrast to the procedure of SAE Recommended Practice J1030, Maximum Sound Level for Passenger Cars and Light Trucks, which has fixed terminal conditions (attainment of rated engine speed at a fixed end point on the test site). Full-throttle acceleration and closed-throttle deceleration of the vehicle are included in both procedures.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Sound levels determined in accordance with this standard are dependent on the performance capability of the test vehicle, as influenced by power-to-mass ratio and overall power train gear ratio. Thus, this standard is particularly applicable for emphasizing sound emission of vehicles with large power-to-mass ratio or high overall gear ratio within the overall light vehicle population.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEJ31173_202409
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 2.5/5/10GBASE-T1 Shielded Balanced Single Pair Ethernet Cable
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3117/3_202409
+- type: src
+  content: https://saemobilus.sae.org/standards/j31173_202409-25-5-10gbase-t1-shielded-balanced-single-pair-ethernet-cable
+docidentifier:
+- content: SAE J3117/3_202409
+  type: SAE
+  primary: true
+- content: 10.4271/j3117/3_202409
+  type: DOI
+date:
+- type: approved
+  at: '2024-09-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Cable Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard covers a single shielded balanced pair (twisted or parallel) jacketed data cable intended for use in surface vehicle cables for 2.5, 5, and 10 Gb/s Ethernet applications. The tests in this standard are intended to qualify cables for normal operation in an automotive environment while maintaining the necessary electrical properties for reliable data transmission.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

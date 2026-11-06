@@ -1,0 +1,62 @@
+---
+id: SAEARP4107
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AEROSPACE GLOSSARY FOR HUMAN FACTORS ENGINEERS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4107
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4107-aerospace-glossary-human-factors-engineers
+docidentifier:
+- content: SAE ARP4107
+  type: SAE
+  primary: true
+- content: 10.4271/arp4107
+  type: DOI
+date:
+- type: approved
+  at: '2008-02-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10EAB Executive Advisory Group
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Glossary is designed to serve persons who need to know the accepted meanings, within specific contexts, of the terminology used in reports, articles, regulations, and other materials dealing with aviation safety -- with particular reference to terms specific to human factors in aviation safety. It is assumed that some users of the Glossary will be familiar with the nomenclature of aviation, but will need information on the language of human factors in engineering as they apply to aviation safety. Others (for example, engineers and psychologists) will have fairly extensive knowledge of the terminology of their own and related disciplines, but will need authoritative definitions of technical terms specific to aviation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Within the foregoing general framework, the following guidelines for the inclusion of terms to be defined have been observed:&lt;/div&gt;
+
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

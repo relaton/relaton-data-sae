@@ -1,0 +1,56 @@
+---
+id: SAEAMS4300B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BORON-ALUMINUM COMPOSITE SHEET 50 v/o 5.6B, 6061-0, For Diffusion Bonding
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4300b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4300b-boron-aluminum-composite-sheet-50-v-o-56b-6061-0-diffusion-bonding
+docidentifier:
+- content: SAE AMS4300B
+  type: SAE
+  primary: true
+- content: 10.4271/ams4300b
+  type: DOI
+date:
+- type: approved
+  at: '1994-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers boron filaments and 6061-0 aluminum alloy foil laminated and bonded into a composite sheet.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

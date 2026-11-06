@@ -1,0 +1,56 @@
+---
+id: SAEARP5486
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Air Cargo Pallets - Utilization Guidelines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5486
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5486-air-cargo-pallets-utilization-guidelines
+docidentifier:
+- content: SAE ARP5486
+  type: SAE
+  primary: true
+- content: 10.4271/arp5486
+  type: DOI
+date:
+- type: approved
+  at: '2019-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Air cargo pallets and their cargo restraint nets constitute aircraft Unit Load Devices, defined by industry standards and airworthiness certified based on Technical Standard Order (TSO) C90c in accordance with the requirements of NAS 3610. This guarantees their design to be intrinsically safe for flight on board compatible aircraft types. However, actual flight safety also requires these certified pieces of equipment to be properly used: numerous occurrences have demonstrated a certified ULD can nevertheless jeopardize flight safety if loaded or restrained in an inadequate manner.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

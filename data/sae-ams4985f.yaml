@@ -1,0 +1,69 @@
+---
+id: SAEAMS4985F
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Titanium Alloy, Investment Castings 6Al - 4V, 130 UTS, 120 YS,6% EL, Hot
+    Isostatically Pressed, Anneal Optional or When Specified
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4985f
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4985f-titanium-alloy-investment-castings-6al-4v-130-uts-120-ys6-el-hot-isostatically-pressed-anneal-optional-specified
+docidentifier:
+- content: SAE AMS4985F
+  type: SAE
+  primary: true
+- content: 10.4271/ams4985f
+  type: DOI
+date:
+- type: approved
+  at: '2026-09-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G Titanium and Refractory Metals Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a titanium alloy in the form of investment castings (see &lt;span class="xref"&gt;8.6&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAMS4640D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM BRONZE BARS, RODS, SHAPES, TUBE, AND FORGINGS 81.5Cu - 10.0A1
+    - 4.8Ni - 3.0Fe
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4640d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4640d-aluminum-bronze-bars-rods-shapes-tube-forgings-815cu-100a1-48ni-30fe
+docidentifier:
+- content: SAE AMS4640D
+  type: SAE
+  primary: true
+- content: 10.4271/ams4640d
+  type: DOI
+date:
+- type: approved
+  at: '1984-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers one type of aluminum bronze in the form of bars, rods, shapes, tubes, forgings, and forging stock.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

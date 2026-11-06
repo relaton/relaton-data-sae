@@ -1,0 +1,58 @@
+---
+id: SAEAMS7000A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Laser-Powder Bed Fusion (L-PBF) Produced Parts, Nickel Alloy, Corrosion-
+    and Heat-Resistant, 62Ni - 21.5Cr - 9.0Mo - 3.65Nb Stress Relieved, Hot Isostatic
+    Pressed and Solution Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7000a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7000a-laser-powder-bed-fusion-l-pbf-produced-parts-nickel-alloy-corrosion-heat-resistant-62ni-215cr-90mo-365nb-stress-relieved-hot-isostatic-pressed-solution-annealed
+docidentifier:
+- content: SAE AMS7000A
+  type: SAE
+  primary: true
+- content: 10.4271/ams7000a
+  type: DOI
+date:
+- type: approved
+  at: '2022-05-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS AM Additive Manufacturing Metals
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat-resistant nickel alloy in the form of parts produced by laser-powder bed fusion (L-PBF) that are subjected to post-deposition stress relief (SR), hot isostatic press (HIP) and solution anneal operations. Parts may require subsequent machining or surface finishing to meet specific application requirements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

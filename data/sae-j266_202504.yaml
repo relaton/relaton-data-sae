@@ -1,0 +1,57 @@
+---
+id: SAEJ266_202504
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steady-State Directional Control Test Procedures for Passenger Cars and
+    Light Trucks
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j266_202504
+- type: src
+  content: https://saemobilus.sae.org/standards/j266_202504-steady-state-directional-control-test-procedures-passenger-cars-light-trucks
+docidentifier:
+- content: SAE J266_202504
+  type: SAE
+  primary: true
+- content: 10.4271/j266_202504
+  type: DOI
+date:
+- type: approved
+  at: '2025-04-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Dynamics Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes consistent test procedures for determination of steady-state directional control properties for passenger cars and light trucks with two axles. These properties include the steering-wheel angle gradient, reference steer angle gradient, sideslip angle gradient, vehicle roll angle gradient, and steering-wheel torque gradient with respect to lateral acceleration. They also include the yaw velocity gain, lateral acceleration gain, and sideslip angle gain with respect to steering-wheel angle. Additionally, the characteristic or critical speed and the front and rear wheel steer compliances may be determined.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,69 @@
+---
+id: SAEARP1270A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Cabin Pressurization Control Criteria
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1270a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1270a-aircraft-cabin-pressurization-control-criteria
+docidentifier:
+- content: SAE ARP1270A
+  type: SAE
+  primary: true
+- content: 10.4271/arp1270a
+  type: DOI
+date:
+- type: approved
+  at: '2006-06-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;These recommendations cover the basic criteria for the design of aircraft cabin pressurization control systems as follows:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(1)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;To ensure aircraft safety.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(2)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Physiology and limits which govern maximum permissible pressure time relations as related to aircraft passenger comfort.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(3)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;General pressurization control system performance requirements designed to satisfy (2).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(4)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Technical considerations relevant to satisfying (3).&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

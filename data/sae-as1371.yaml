@@ -1,0 +1,57 @@
+---
+id: SAEAS1371
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nuts, Self-Locking, Corrosion Resistant Steel High Strength, Prevailing
+    Torque, All Metal 800°F (427°C) Use, UNJ Thread Form
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1371
+- type: src
+  content: https://saemobilus.sae.org/standards/as1371-nuts-self-locking-corrosion-resistant-steel-high-strength-prevailing-torque-metal-800f-427c-use-unj-thread-form
+docidentifier:
+- content: SAE AS1371
+  type: SAE
+  primary: true
+- content: 10.4271/as1371
+  type: DOI
+date:
+- type: approved
+  at: '2004-07-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard covers all-metal, self-locking, prevailing torque nuts made of corrosion resistant steel.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

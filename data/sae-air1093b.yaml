@@ -1,0 +1,58 @@
+---
+id: SAEAIR1093B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Numeral, Letter and Symbol Dimensions for Aircraft Instrument Displays
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1093b
+- type: src
+  content: https://saemobilus.sae.org/standards/air1093b-numeral-letter-symbol-dimensions-aircraft-instrument-displays
+docidentifier:
+- content: SAE AIR1093B
+  type: SAE
+  primary: true
+- content: 10.4271/air1093b
+  type: DOI
+date:
+- type: approved
+  at: '2020-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4 Aircraft Instruments Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this AIR is to provide recommendations for the minimum dimensions of characters and symbols used in aircraft instrument dials and panel displays as related to the conditions stated in para. &lt;span class="xref"&gt;3&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Numerous variables influence the legibility of aircraft instrument dial characters. This situation makes it very difficult, if not impossible, to establish an exact act of rules for optimizing all installations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Character size, one of the important considerations, can be optimized where adequate dial space exists. Usually this is not the case and the designer is faced with placing the information in a limited space while continuing to strive for error-free legibility. Appropriate minimum size requirements have been stated herein for guidance in air transport use.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

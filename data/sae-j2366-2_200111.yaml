@@ -1,0 +1,62 @@
+---
+id: SAEJ23662_200111
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Link Layer
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2366/2_200111
+- type: src
+  content: https://saemobilus.sae.org/standards/j23662_200111-link-layer
+docidentifier:
+- content: SAE J2366/2_200111
+  type: SAE
+  primary: true
+- content: 10.4271/j2366/2_200111
+  type: DOI
+date:
+- type: approved
+  at: '2001-11-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ITS Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice details the Link Layer of the Intelligent Transportation Systems (ITS) Data Bus, which is generally intended for in-vehicle use.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The ITS Data Bus (IDB) is a non-proprietary token passing bus, designed to allow disparate consumer, vehicle, and commercial electronic components to communicate and share information across a standard, open data bus. This first version of the IDB is called IDB-C.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This Recommended Practice describes the Link Layer of the IDB-C, as shown in &lt;span class="xref"&gt;Section 1&lt;/span&gt;. Below the Link Layer of the IDB-C is the CAN 2.0B Link Layer. The Physical Layer of the IDB-C incorporates the Physical Layer as specified by SAE J2366-1 and J2590.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;The IDB-C Link Layer is logically divided into two functional sub-layers, viz., Logical Link Control (LLC) and Media Access Control (MAC). However, these are logical groupings that re-use some of the same bits within the CAN 2.0B frame for efficiency.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The MAC sub-layer handles all media access functions, such as virtual token handling, addressing, and notifications of IDB-C configuration changes to other MAC layers on the IDB-C.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The LLC sub-layer provides the mechanisms to send and receive point-to-point or broadcast frames to other LLC sub-layers on the IDB-C. In addition, the LLC provides an Alternate Transport Identifier (ATID) allowing more than one set of higher layer protocols to be used on a single Node.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

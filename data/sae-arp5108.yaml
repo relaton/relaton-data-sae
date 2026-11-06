@@ -1,0 +1,57 @@
+---
+id: SAEARP5108
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Human Interface Criteria for Terrain Separation Assurance Display Technology
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5108
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5108-human-interface-criteria-terrain-separation-assurance-display-technology
+docidentifier:
+- content: SAE ARP5108
+  type: SAE
+  primary: true
+- content: 10.4271/arp5108
+  type: DOI
+date:
+- type: approved
+  at: '2006-08-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10 Aerospace Behavioral Engineering Technology
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document sets forth design and operational recommendations concerning the human factors issues and criteria for airborne terrain separation assurance systems. The visual and aural characteristics are covered for both the alerting components and terrain depiction/situation components. The display system may contain any one or a combination of these components. Although the system functionality assumed for this document exemplifies commercial aircraft implementation, the recommendations do not exclude other fixed wing aircraft types. Because of their unique operations with respect to terrain, rotorcraft will be addressed in a separate document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The assumptions about the system that guided and bounded the recommendations included: the system will have a human centered design based on the "lessons learned" from past systems; the system is not intended to replace the Ground Proximity Warning System (GPWS) function; the system is an on-board system that is not dependent on ground systems (except possibly navigation sensors) for operation; the system is intended to be used for terrain separation rather than navigation; there will be pilot in the loop/manual involvement in any flight path changes; information will be accessible by all flight crew members; the system will be based on the English language, but other languages may have to be considered; the system will address all fixed wing airplane types; the system will be operational full time in all flight phases; and the system will meet harmonized certification requirements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

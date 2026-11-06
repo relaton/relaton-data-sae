@@ -1,0 +1,58 @@
+---
+id: SAEJ2103_200306
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Acoustics--Measurement of Airborne Noise Emitted By Earthmoving Machinery--Operator's
+    Position--Stationary Testing Condition
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2103_200306
+- type: src
+  content: https://saemobilus.sae.org/standards/j2103_200306-acoustics-measurement-airborne-noise-emitted-earthmoving-machinery-operators-position-stationary-testing-condition
+docidentifier:
+- content: SAE J2103_200306
+  type: SAE
+  primary: true
+- content: 10.4271/j2103_200306
+  type: DOI
+date:
+- type: approved
+  at: '2003-06-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: SLTC - Earth Moving Machinery Sound Level
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This SAE Standard describes a method for determining the noise emitted by earthmoving machinery at the operator's position in terms of the equivalent continuous A-weighted sound pressure level while the machine is in a stationary test condition.&lt;/p&gt;
+    &lt;p&gt;This SAE Standard is a special test code for specific types of earthmoving machinery. It is an extension of ISO 6081 which contains the general requirements for many types of machinery and equipment.&lt;/p&gt;
+    &lt;p&gt;Specific requirements are provided in this special test code to enable the sound pressure level at the operator's position, with the machine in a stationary test condition, to be determined in a manner which is repeatable. Attachments (bucket, dozer, etc.) for the manufacturer's production version shall be fitted since this is the configuration most likely to exist when the machine is in actual use.&lt;/p&gt;
+    &lt;p&gt;This document will enable compliance with noise limits to be determined. It can also be used for evaluation purposes in noice reduction investigations.&lt;/p&gt;
+    &lt;p&gt;An additional special test code is given in SAE J2102/ISO 6393. This other special test code shall be used to determine the exterior noise emitted by earthmoving machinery in terms of the A-weighted sound power level while the machine is in a stationary test condition.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,61 @@
+---
+id: SAEJ2746_200904
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Software Assessment Repository
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2746_200904
+- type: src
+  content: https://saemobilus.sae.org/standards/j2746_200904-software-assessment-repository
+docidentifier:
+- content: SAE J2746_200904
+  type: SAE
+  primary: true
+- content: 10.4271/j2746_200904
+  type: DOI
+date:
+- type: approved
+  at: '2009-04-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Embedded Software Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard is intended to provide corporations that develop embedded software for the automotive industry direction on how to effectively publish and promote their organization’s development capabilities. The organization’s maturity may be measured through several capability assessment methods; this document addresses how the results of those assessments are shared within the SAE J2746 Software Assessment Repository. The repository is the online database system utilized by the SAE to facilitate accurate and secure sharing of corporations’ software development capabilities.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The SAE Software Assessment Repository is a web-based repository that allows organizations that develop embedded software to post and share their assessments in a uniform, disciplined manner. The repository does not mandate the use of one assessment method over another; rather, it reports the salient results from industry accepted assessment methods. It is important to recognize that both OEM’s and suppliers developing software which goes into vehicles should participate in the SAE J2746 Repository and follow improved practices of software engineering. Since car manufacturers OEMs (Original Equipment Manufacturer) also develop embedded software, they should participate in the Software Assessment Repository in addition to the supply base.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In order to better focus software improvements in the industry, the intent of Software Process Improvement (SPI) and related assessments must be focused upon industry specific technologies. When a customer is interested in the capabilities of a supplier, the relevance of those capabilities to the customer’s need is critical. SAE J2746 proposes to utilize the Functional Domains of the automotive electronics systems as defined by AutoSAR to partition suppliers’ capabilities. The six functional domains as defined by AutoSAR are Chassis, Powertrain, Safety, Multimedia/Telematics, Body/Comfort and Human Machine Interface.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;These functional domains provide the repository the ability to better define the capabilities of OEMs and Suppliers for creating specific types of product software. Furthermore, by also understanding the geographic locations of OEM’s and Supplier’s engineering facilities, it is possible to understand the capability of a specific team, in a specific location to create a product of a specific Functional Domain. Instead of a blanket statement that Company Y is Level 3, a more precise statement of; “Company Y’s engineering team located in Facility X and engineering products of Functional Domain Z is Level 3” would be found within the SAE J2746 Software Assessment Repository (SAR), and offer a higher fidelity of insight into a company’s capabilities.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

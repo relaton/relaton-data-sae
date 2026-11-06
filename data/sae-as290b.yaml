@@ -1,0 +1,43 @@
+---
+id: SAEAS290B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Seats for Flight Deck Crewman - Transport Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as290b
+- type: src
+  content: https://saemobilus.sae.org/standards/as290b-seats-flight-deck-crewman-transport-aircraft
+docidentifier:
+- content: SAE AS290B
+  type: SAE
+  primary: true
+- content: 10.4271/as290b
+  type: DOI
+date:
+- type: approved
+  at: '1965-07-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

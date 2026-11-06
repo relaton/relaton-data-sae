@@ -1,0 +1,60 @@
+---
+id: SAEARP4191D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Gas Turbine Engine Performance Presentation for Digital Computer Programs
+    Using Fortran 77
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4191d
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4191d-gas-turbine-engine-performance-presentation-digital-computer-programs-using-fortran-77
+docidentifier:
+- content: SAE ARP4191D
+  type: SAE
+  primary: true
+- content: 10.4271/arp4191d
+  type: DOI
+date:
+- type: approved
+  at: '2009-05-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-15 Gas Turbine Perf Simulation Nomenclature and Interfaces
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This SAE Aerospace Recommended Paractice (ARP) provides a method for digital computer programs for gas turbine engine performance, steady-state or transient, performance to be written using the FORTRAN 77 language.
+
+    When it is agreed between the program User and Supplier that a particular program shall be supplied in FORTRAN 77, it is recommended that this ARP be used in conjunction with AS681 for steady-state and transient programs.
+
+    This ARP also describes how to take advantage of the FORTRAN 77 CHARACTER storage to extend the information interface between the calling program and the engine subroutine.
+
+    The ARP has the same major section numbers as AS681 to facilitate its use with this document. The information given in each section of this ARP is additional to that given in AS 681.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

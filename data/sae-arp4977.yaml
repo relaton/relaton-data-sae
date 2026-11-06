@@ -1,0 +1,58 @@
+---
+id: SAEARP4977
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: DRYING OF THERMOSETTING COMPOSITE MATERIALS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4977
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4977-drying-thermosetting-composite-materials
+docidentifier:
+- content: SAE ARP4977
+  type: SAE
+  primary: true
+- content: 10.4271/arp4977
+  type: DOI
+date:
+- type: approved
+  at: '2021-05-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CACRC Commercial Aircraft Composite Repair Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) describes standard methods for drying commercial aircraft composite structures prior to repair and gives general guidelines on use and applicability.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It addresses the removal of liquids that have collected inside the structures through open damage, microcracks, or porosity and the removal of absorbed moisture from the composite material. The methods described in this document shall only be used when specified in an approved repair document or with the agreement of the original equipment manufacturer (OEM) or regulatory authority. If this document is used for the drying of materials other than thermosetting composite materials, the fitness for this purpose must be determined by the user.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

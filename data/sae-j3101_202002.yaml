@@ -1,0 +1,101 @@
+---
+id: SAEJ3101_202002
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hardware Protected Security for Ground Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3101_202002
+- type: src
+  content: https://saemobilus.sae.org/standards/j3101_202002-hardware-protected-security-ground-vehicles
+docidentifier:
+- content: SAE J3101_202002
+  type: SAE
+  primary: true
+- content: 10.4271/j3101_202002
+  type: DOI
+date:
+- type: approved
+  at: '2020-02-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Electrical System Security Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Access mechanisms to system data and/or control is a primary use case of the hardware protected security environment (hardware protected security environment) during different uses and stages of the system. The hardware protected security environment acts as a gatekeeper for these use cases and not necessarily as the executor of the function. This section is a generalization of such use cases in an attempt to extract common requirements for the hardware protected security environment that enable it to be a gatekeeper.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Examples are:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Creating a new key fob&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Re-flashing ECU firmware&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Reading/exporting PII out of the ECU&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Using a subscription-based feature&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Performing some service on an ECU&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Transferring ownership of the vehicle&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;Some of these examples are discussed later in this section and some have detailed sections of their own. This list is by no means comprehensive. Other use cases that require hardware protected security environment-based access control may be used by each manufacturer/service provider based on vehicle capabilities, architecture, and business model.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This section describes how the hardware protected security environment provides a platform to implement access control by enabling secure authentication, authorization and access enforcement. It does not define any specific access control system (DAC/MAC/capability-based/role-based/etc.), models, or polices.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A general access control system is based on the following stages:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Identifying and authenticating the user.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Authorizing access to the resource.
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Comparing authenticated user to policies (database/certificates/other).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Comparing other conditions (temporal/spatial/other) to policies database.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Unlocking access to the resource.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Using the resource.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;4&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;(Optional) Removing access to the resource based on temporal or other conditions.
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Locking access to the resource.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;The hardware protected security environment can be involved to different extents in each of the stages listed above. The main two types of hardware protected security environment involvements are full control and partial control. In partial control, the hardware protected security environment is responsible to authenticate and authorize the access, while the normal environment is responsible to lock/unlock the resource. In full control, the hardware protected security environment is responsible for both.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

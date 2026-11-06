@@ -1,0 +1,49 @@
+---
+id: SAEAS1913D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HOSE ASSEMBLY, POLYTETRAFLUOROETHYLENE, CRES REINFORCED, 400 °F, 3000 PSI,
+    LIGHTWEIGHT, BEAM SEAL, 45 TO 90 DEGREES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1913d
+- type: src
+  content: https://saemobilus.sae.org/standards/as1913d-hose-assembly-polytetrafluoroethylene-cres-reinforced-400-f-3000-psi-lightweight-beam-seal-45-90-degrees
+docidentifier:
+- content: SAE AS1913D
+  type: SAE
+  primary: true
+- content: 10.4271/as1913d
+  type: DOI
+date:
+- type: approved
+  at: '2022-12-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

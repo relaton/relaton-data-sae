@@ -1,0 +1,57 @@
+---
+id: SAEAIR5938A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Information on Hard Landings and Abnormal Landing Gear Loading Events
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5938a
+- type: src
+  content: https://saemobilus.sae.org/standards/air5938a-information-hard-landings-abnormal-landing-gear-loading-events
+docidentifier:
+- content: SAE AIR5938A
+  type: SAE
+  primary: true
+- content: 10.4271/air5938a
+  type: DOI
+date:
+- type: approved
+  at: '2022-12-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The primary focus of this document is to provide information on the impacts hard landings and abnormal load conditions on landing gear and related systems. However, because hard landings potentially affect the entire aircraft, this document also includes information for non-landing gear areas. The document may be considered to be applicable to all types of aircraft. This document does NOT provide recommended practices for hard landing inspections, nor does it provide recommendations on the disposition of damaged equipment. Refer to ARP4915 and ARP5600 for information on dispositions relating to landing gear components or wheels involved in accidents/incidents.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

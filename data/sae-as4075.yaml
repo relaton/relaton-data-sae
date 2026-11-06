@@ -1,0 +1,56 @@
+---
+id: SAEAS4075
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HIGH SPEED RING BUS (HSRB) STANDARD
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4075
+- type: src
+  content: https://saemobilus.sae.org/standards/as4075-high-speed-ring-bus-hsrb-standard
+docidentifier:
+- content: SAE AS4075
+  type: SAE
+  primary: true
+- content: 10.4271/as4075
+  type: DOI
+date:
+- type: approved
+  at: '1988-08-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;A fault tolerant, real time high speed data communication standard is defined based on a ring topology and the use of a Token passing access method with distributed control. The requirements for the HSRB standard have been driven predominantly, but not exclusively, by military applications. Particular attention has been given to the need for low message latency, deterministic message priority and comprehensive reconfiguration capabilities. This document contains a definition of the semantics and protocol including delimiters, tokens, message priority, addressing, error detection and recovery schemes; and is written to be independent of bit rate and media. Parameters related to particular media and bit rates are defined in separate documents, the AS4075 slash sheets.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,71 @@
+---
+id: SAEARP5932
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Oxygen Systems and Components Maintenance and Service Practices
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5932
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5932-oxygen-systems-components-maintenance-service-practices
+docidentifier:
+- content: SAE ARP5932
+  type: SAE
+  primary: true
+- content: 10.4271/arp5932
+  type: DOI
+date:
+- type: approved
+  at: '2025-12-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides general guidelines and procedures for servicing and maintaining oxygen systems. These methods may apply to gaseous, liquid, chemical, and portable oxygen systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is not intended to replace manufacturer or airline maintenance manuals but rather to emphasize the importance of the adherence to such practices and that they be followed. Attention is given to ensure the cleanliness of oxygen systems and components are respected and appropriate practices are followed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document provides guidance and recommendations, for engineering and maintenance personnel for airlines, modification centers, and third-party maintenance contractors, to be used while performing maintenance on oxygen systems and components. This document is intended as guidance only and may not be cited as a requirement.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

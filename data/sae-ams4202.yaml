@@ -1,0 +1,56 @@
+---
+id: SAEAMS4202
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY PLATE 5.7Zn - 2.2Mg - 1.6Cu - 0.22Cr (7475-T7351)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4202
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4202-aluminum-alloy-plate-57zn-22mg-16cu-022cr-7475-t7351
+docidentifier:
+- content: SAE AMS4202
+  type: SAE
+  primary: true
+- content: 10.4271/ams4202
+  type: DOI
+date:
+- type: approved
+  at: '1978-07-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of plate.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

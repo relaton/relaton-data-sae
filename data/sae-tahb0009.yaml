@@ -1,0 +1,71 @@
+---
+id: SAETAHB0009
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Reliability Program Handbook
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/tahb0009
+- type: src
+  content: https://saemobilus.sae.org/standards/tahb0009-reliability-program-handbook
+docidentifier:
+- content: SAE TAHB0009
+  type: SAE
+  primary: true
+- content: 10.4271/tahb0009
+  type: DOI
+date:
+- type: approved
+  at: '2013-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-41 Reliability
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This handbook provides “how to” guidance to industry and government for the reliability Activities and Methods contained in ANSI/GEIA-STD-0009 for developing reliable products and systems, successfully demonstrating them during test and evaluation, and sustaining them throughout the system/product life cycle.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;ANSI/GEIA-STD-0009 requires the developers and customer/users working as a team to plan and implement a reliability program that provides systems/products that satisfy the user’s requirements and expectations using a systems engineering approach. The four Objectives of ANSI/GEIA-STD-0009 are listed below:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;Objective 1&lt;/b&gt;: Understand Customer/User Requirements and constraints. The team (developer, customer, and user), includes the Activities necessary to ensure that the user’s requirements and product needs are fully understood and defined, so that a comprehensive design specification and Reliability Program Plan are generated.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;Objective 2&lt;/b&gt;: Design and redesign for reliability. The developer implements a set of engineering Activities so that the resulting system/product satisfies the customer’s documented requirements and needs.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;Objective 3&lt;/b&gt;: Produce reliable systems/products. The developer performs the Activities that assure the customer that the reliability requirements and product needs have been satisfied.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;Objective 4:&lt;/b&gt; Monitor and assess user reliability. The team establishes a closed-loop feedback method for continuous monitoring of reliability trends and incorporation of recommended improvements (corrective actions).&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;ANSI/GEIA-STD-0009 and this Handbook define a systematic approach to engineering a system/product, incorporating best practices that have evolved considerably in recent years.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Figure 1.1-1&lt;/span&gt; shows the four objectives, defined in Section 1.4.2 of ANSI/GEIA-STD-0009, and is a defense industry example of the interaction of the Objectives, supporting Activities and Methods, and strategies for reliable system design in the acquisition cycle.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;The four Objectives in ANSI/GEIA-STD-0009 have Activities associated with them. These Activities are further developed in this Handbook as shown in &lt;span class="xref"&gt;Figure 1.1-2&lt;/span&gt;. The four objectives of the standard are shown on the left and the derived activities in the handbook are on the right.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

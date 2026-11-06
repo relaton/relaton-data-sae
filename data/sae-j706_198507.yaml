@@ -1,0 +1,56 @@
+---
+id: SAEJ706_198507
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: RATING OF WINCHES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j706_198507
+- type: src
+  content: https://saemobilus.sae.org/standards/j706_198507-rating-winches
+docidentifier:
+- content: SAE J706_198507
+  type: SAE
+  primary: true
+- content: 10.4271/j706_198507
+  type: DOI
+date:
+- type: approved
+  at: '1985-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Powertrain Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard applies only to new winches which are primarily designed for intermittent pulls and lifts and whose configuration and condition are the same as when they were shipped by the manufacturer. They are not intended to be used in any manner for the movement of personnel. They may be driven by any power source recommended by the manufacturer and will be capable of being powered in either direction. They will be equipped with an automatic safety brake system to control a load when lowering under power and positively hold a load when power is not being delivered to the winch. A hydraulic flow control valve or similar device may be used in the brake system to control a load when lowering under power. A clutch to release the drum for "free-spooling" may be provided and will be designed not to disengage itself under load. A drag brake may be provided to control "free-spooling," but will not be relied on to control or hold a load. Power sources, such as hydraulic motors, even though they may be supplied or recommended by the winch manufacturer, are not considered a part of the winch so far as this standard is concerned, except to whatever extent they are a part of the brake system.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

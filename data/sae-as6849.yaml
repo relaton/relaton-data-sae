@@ -1,0 +1,59 @@
+---
+id: SAEAS6849
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Performance Standards for Passenger and Crew Seats in Advanced Air Mobility
+    (AAM) Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6849
+- type: src
+  content: https://saemobilus.sae.org/standards/as6849-performance-standards-passenger-crew-seats-advanced-air-mobility-aam-aircraft
+docidentifier:
+- content: SAE AS6849
+  type: SAE
+  primary: true
+- content: 10.4271/as6849
+  type: DOI
+date:
+- type: approved
+  at: '2022-10-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aircraft Seat Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) defines qualification requirements, and minimum documentation requirements for forward and aft facing seats in Advanced Air Mobility aircraft. The goal is to achieve occupant protection under normal operational loads and to define test and evaluation criteria to demonstrate occupant protection when the seat is subjected to statically applied ultimate loads and to dynamic test conditions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;While this document addresses system performance, responsibility for the seating system is divided between the seat manufacturer and the installation applicant. The seat manufacturer’s responsibility consists of meeting all the seat system performance requirements. The installation applicant has the ultimate system responsibility in assuring that all requirements for safe seat installation have been met.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This AS is dependent on AS8049D and cannot be used without it. This AS provides revisions to the corresponding sections of AS8049D to incorporate new material specific to AAM aircraft seats. Sections beginning “Modify…” change the current wording of AS8049D by incorporating text applicable to the new seat category. Sections beginning “Add…” incorporate new sections into AS8049D. All other sections of AS8049D are unmodified and are applicable, as appropriate. Test pulse evaluation shall use the method defined in AS8049D, Appendix A.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

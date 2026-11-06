@@ -1,0 +1,79 @@
+---
+id: SAEJ1634_199305
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ELECTRIC VEHICLE ENERGY CONSUMPTION AND RANGE TEST PROCEDURE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1634_199305
+- type: src
+  content: https://saemobilus.sae.org/standards/j1634_199305-electric-vehicle-energy-consumption-range-test-procedure
+docidentifier:
+- content: SAE J1634_199305
+  type: SAE
+  primary: true
+- content: 10.4271/j1634_199305
+  type: DOI
+date:
+- type: approved
+  at: '1993-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Light Duty Vehicle Performance and Economy Measure Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes uniform procedures for testing electric battery-powered vehicles which are capable of being operated on public and private roads, and is to replace the range and vehicle energy economy sections SAE J227a. The procedure addresses electric vehicles (EVs) only. It is the intent of this practice to provide standard tests which will allow for determination of energy consumption and range based on the Federal Emission Test Procedure (FTP) and the Highway Fuel Economy Test Procedure (HWFET). Realistic alternatives should be allowed for new technology. Performance is judged on the total vehicle system and the battery.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Dynamometer test procedures are specified in this document in order to minimize the test-to-test variations inherent with track testing and to adhere to standard industry practice for energy consumption and range testing.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Section 2&lt;/span&gt; provides definitions of terminology used in this document. &lt;span class="xref"&gt;Section 3&lt;/span&gt; specifies test conditions and general instrumentation which are to be used for tests specified in this document. &lt;span class="xref"&gt;Section 4&lt;/span&gt; identifies the data which are to be recorded. &lt;span class="xref"&gt;Section 5&lt;/span&gt; specifies standard driving cycles. The specific tests covered by this document are:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Vehicle Energy Consumption According to a Selected Driving Pattern (&lt;span class="xref"&gt;Section 6&lt;/span&gt;)
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(1)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;EPA Urban Driving Schedule (UDS)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(2)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Highway Fuel Economy Test Procedure (HWFET)&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Vehicle Range When Operated According to Selected Driving Patterns (&lt;span class="xref"&gt;Section 7&lt;/span&gt;)
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(1)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Combined EPA Urban Driving Schedule (UDS) and Highway Fuel Economy Test Procedure (HWFET)&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Coastdown Testing (&lt;span class="xref"&gt;Section 8&lt;/span&gt;)&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

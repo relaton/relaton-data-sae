@@ -1,0 +1,59 @@
+---
+id: SAEJ226_199506
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ENGINE PREHEATERS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j226_199506
+- type: src
+  content: https://saemobilus.sae.org/standards/j226_199506-engine-preheaters
+docidentifier:
+- content: SAE J226_199506
+  type: SAE
+  primary: true
+- content: 10.4271/j226_199506
+  type: DOI
+date:
+- type: approved
+  at: '1995-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CTTC C4, Cold Weather Operation
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard describes electric immersion engine preheaters for use in the coolant jacket of heavy-duty and intermediate size diesel engines. This document gives the dimensional information on the four basic styles of engine preheaters. The tables for each style will list the wattage commonly used.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Small engines that typically require less than 600 W of preheat for cold weather starting are not covered by this document. These types of engines generally have very little space available to accommodate an immersion heater of the styles presented in this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;No related ISO standards were found.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

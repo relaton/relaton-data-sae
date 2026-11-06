@@ -1,0 +1,67 @@
+---
+id: SAEJ3138_201806
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Diagnostic Link Connector Security
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3138_201806
+- type: src
+  content: https://saemobilus.sae.org/standards/j3138_201806-diagnostic-link-connector-security
+docidentifier:
+- content: SAE J3138_201806
+  type: SAE
+  primary: true
+- content: 10.4271/j3138_201806
+  type: DOI
+date:
+- type: approved
+  at: '2018-06-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Data Link Connector Vehicle Security Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes some of the actions that should be taken to help ensure safe vehicle operation in the case that any such connected device (external test equipment, connected data collection device) has been compromised by a source external to the vehicle. In particular, this document describes those actions specifically related to SAE J1979, ISO 15765, and ISO 14229 standardized diagnostic services.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Generally, the following forms of communication bus connection topologies are used in current vehicles:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Open access to communication buses&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Communication buses isolated via a gateway&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Hybrid combinations of a. and b.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

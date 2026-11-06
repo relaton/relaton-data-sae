@@ -1,0 +1,74 @@
+---
+id: SAEAIR4281A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Oil Systems for Helicopter Powerplants
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4281a
+- type: src
+  content: https://saemobilus.sae.org/standards/air4281a-oil-systems-helicopter-powerplants
+docidentifier:
+- content: SAE AIR4281A
+  type: SAE
+  primary: true
+- content: 10.4271/air4281a
+  type: DOI
+date:
+- type: approved
+  at: '2026-03-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-12 Powered Lift Propulsion Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Turbine engines installed in helicopters require a highly sophisticated oil system to fulfill two primary tasks:&lt;/div&gt;
+    &lt;ul class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Cooling/oil supply&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Lubrication of rotating components (bearings, shafts, gears, etc.)&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;While lubrication is an engine internal operation, depending on the engine oil system configuration, cooling and oil supply may require more or less design activity on the aircraft side of the engine/airframe interface for proper engine function. The necessity for engine cooling and oil supply provisions on the airframe can lead to interface problems because the helicopter manufacturer can influence engine related functions due to the design of corresponding oil system components.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

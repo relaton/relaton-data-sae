@@ -1,0 +1,73 @@
+---
+id: SAEJ2382_200009
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Video Based Light Measurement Techniques
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2382_200009
+- type: src
+  content: https://saemobilus.sae.org/standards/j2382_200009-video-based-light-measurement-techniques
+docidentifier:
+- content: SAE J2382_200009
+  type: SAE
+  primary: true
+- content: 10.4271/j2382_200009
+  type: DOI
+date:
+- type: approved
+  at: '2000-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Test Methods and Equipment Stds Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Traditional methods of photometry rely on the use of a goniometer to rotate the test item around two axes at right angles. This method is satisfactory for most situations but has certain disadvantages:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Point-by-point measurements with a goniometer may be slow. With more advanced requirements, particularly for headlamps, where the entire beam pattern is of concern, isocandela measurements are becoming increasingly needed. Such testing can be very time consuming.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;For production quality assurance, the speed of a goniometer may not allow testing to keep pace with the production line if a large quantity of lamps must be sampled.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;High Intensity Discharge (HID) lamps are becoming commonly used. Such lamps are orientation sensitive, changing in both lumen output and intensity distribution when tilted. This can introduce significant inaccuracies in test results when testing is performed using a goniometer.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;There is a need for alternative test techniques which can achieve very high speed data acquisition, the capture of full isocandela distribution, and the elimination of lamp tilting. This SAE Informational Report describes fundamentals of video-based testing to address these concerns. Further information is required to provide all details needed to set up a laboratory using these techniques.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;With the video-based system, the lamp is fixed in position and aimed at a receiving screen. A camera, of particular type and grade, views the screen and is able to perform measurement of the reflected light (luminance) at each point on the screen. Proper calibration of the system can provide the luminous intensity distribution of the light under test from the measured luminance values.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Numerous factors must be taken into account to produce an accurate measurement system. Under controlled conditions, it has been shown that the system can produce measurement of absolute intensity distributions with good accuracy. (Reference &lt;span class="xref"&gt;2.1.1&lt;/span&gt; and &lt;span class="xref"&gt;2.1.2&lt;/span&gt;.)&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The great advantage of this form of photometry is its extremely high speed, allowing the collection of isocandela diagrams in less than one minute. There are some accompanying disadvantages which are discussed later.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document describes the basic techniques and the controls which are necessary for accuracy.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Comments are also provided comparing video based technology to conventional goniometer methods.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

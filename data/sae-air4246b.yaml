@@ -1,0 +1,56 @@
+---
+id: SAEAIR4246B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Contaminants for Aircraft Turbine Engine Fuel System Component Testing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4246b
+- type: src
+  content: https://saemobilus.sae.org/standards/air4246b-contaminants-aircraft-turbine-engine-fuel-system-component-testing
+docidentifier:
+- content: SAE AIR4246B
+  type: SAE
+  primary: true
+- content: 10.4271/air4246b
+  type: DOI
+date:
+- type: approved
+  at: '2002-04-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5B Aircraft and Engine Fuel and Lubricant Sys Components
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document discusses descriptions of fluid contamination products. These contaminants are used for design evaluation and formal component qualification/certification testing. Such tests are routinely performed on candidate aircraft engine fuel and pneumatic system components. Typical of these components are fuel pumps, fuel filters, fuel controls, pressurizing valves, flow dividers, selector valves, and combustor nozzles. The purpose of this document is to recommend standard descriptions to be used by specification writers.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

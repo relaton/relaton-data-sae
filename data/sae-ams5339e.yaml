@@ -1,0 +1,57 @@
+---
+id: SAEAMS5339E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Maraging, Investment Castings 17Ni - 10Co - 4.6Mo - 0.30Ti - 0.06Al
+    Vacuum Melted Homogenized, Overaged, and Solution Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5339e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5339e-steel-maraging-investment-castings-17ni-10co-46mo-030ti-006al-vacuum-melted-homogenized-overaged-solution-heat-treated
+docidentifier:
+- content: SAE AMS5339E
+  type: SAE
+  primary: true
+- content: 10.4271/ams5339e
+  type: DOI
+date:
+- type: approved
+  at: '2000-07-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an alloy steel in the form of investment castings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

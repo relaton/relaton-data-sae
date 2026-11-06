@@ -1,0 +1,56 @@
+---
+id: SAEJ3287SET_202408
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: V2X Misbehavior Reporting™ SET File
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3287set_202408
+- type: src
+  content: https://saemobilus.sae.org/standards/j3287set_202408-v2x-misbehavior-reporting-set-file
+docidentifier:
+- content: SAE J3287SET_202408
+  type: SAE
+  primary: true
+- content: 10.4271/j3287set_202408
+  type: DOI
+date:
+- type: approved
+  at: '2024-08-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Security Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This set of Abstract Syntax Notation (ASN.1) modules contains the precise definitions of data structures used in the SAE J3287 standard. Using the ASN.1 specification, a compiler tool can produce libraries that enable software applications to use the data structures and produce corresponding encodings using the Octet Encoding Rules (OER). For further information see the body of SAE J3287.&lt;/p&gt;
+    &lt;p&gt;You may also be interested in:&lt;/p&gt;
+    &lt;p&gt;&lt;a href="https://www.sae.org/standards/content/j3287_202408/"&gt;V2X Misbehavior Reporting™ the J3287 PDF.&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href="https://www.sae.org/standards/content/j3287_202408/"/&gt;&lt;a href="https://www.sae.org/standards/content/j3287asn_202408/"&gt;V2X Misbehavior Reporting™ J3287 ASN File that includes the ASN file (ZIP format) - download purchase only.&lt;/a&gt;&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

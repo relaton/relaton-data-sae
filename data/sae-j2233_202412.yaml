@@ -1,0 +1,60 @@
+---
+id: SAEJ2233_202412
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Bus Body Heating System Test
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2233_202412
+- type: src
+  content: https://saemobilus.sae.org/standards/j2233_202412-bus-body-heating-system-test
+docidentifier:
+- content: SAE J2233_202412
+  type: SAE
+  primary: true
+- content: 10.4271/j2233_202412
+  type: DOI
+date:
+- type: approved
+  at: '2024-12-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Windshield Wipers and Climate Control Comm
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes uniform cold weather test procedures and performance requirements for engine coolant type heating systems of bus that are all vehicles designed to transport 10 or more passengers. The intent is to provide a test that will ensure acceptable comfort for bus occupants. It is limited to a test that can be conducted on uniform test equipment in commercially available laboratory facilities. Required test equipment, facilities, and definitions are included.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;There are two options for producing hot coolant in this recommended practice. Testing using these two approaches on the same vehicle will not necessarily provide identical results. Many vehicle models are offered with optional engines, and each engine has varying coolant temperatures and flow rates. If the test is being conducted to compare the performance of one heater design to another heater design, then the external coolant source approach (Test A) will yield the most comparable results. If the test is being conducted to validate the heater installation on a specific vehicle model with a specific engine, then using the engine to heat the coolant (Test B) will be more appropriate.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Defrosting and defogging procedures and requirements are established by SAE J381 which is hereby included by reference.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document will be reviewed and revised as required with advancements in technology and changes in environmental laws.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

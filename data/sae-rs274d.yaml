@@ -1,0 +1,57 @@
+---
+id: SAERS274D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: INTERCHANGEABLE VARIABLE BLOCK DATA FORMAT FOR POSITIONING, CONTOURING,
+    AND CONTOURING/POSITIONING, NUMERICALLY CONTROLLED MACHINES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/rs274d
+- type: src
+  content: https://saemobilus.sae.org/standards/rs274d-interchangeable-variable-block-data-format-positioning-contouring-contouring-positioning-numerically-controlled-machines
+docidentifier:
+- content: SAE RS274D
+  type: SAE
+  primary: true
+- content: 10.4271/rs274d
+  type: DOI
+date:
+- type: approved
+  at: '2016-06-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Systems Management Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard is intended to serve as a guide in the coordination of system design, to minimize the variety of program manuscripts required, to promote uniformity of programming techniques, and to foster interchangeability of input data between numerically controlled machines of the same classification by type, process function, size, and accuracy. It is intended that simple numerically controlled machines be programmed using a simple format, which is systematically expandable for more complex machines.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

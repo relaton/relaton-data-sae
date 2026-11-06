@@ -1,0 +1,58 @@
+---
+id: SAEJ2517_200006
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hybrid III Family Chest Potentiometer Calibration Procedure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2517_200006
+- type: src
+  content: https://saemobilus.sae.org/standards/j2517_200006-hybrid-iii-family-chest-potentiometer-calibration-procedure
+docidentifier:
+- content: SAE J2517_200006
+  type: SAE
+  primary: true
+- content: 10.4271/j2517_200006
+  type: DOI
+date:
+- type: approved
+  at: '2000-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Dummy Testing and  Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This procedure establishes a recommended practice for establishing the sensitivity of the chest displacement potentiometer assembly used in the Hybrid III family of Anthropomorphic Test Devices (ATDs, or crash dummies). This potentiometer assembly is used in the Hybrid III family to measure the linear displacement of the sternum relative to the spine (referred to as chest compression). An inherent non-linearity exists in this measurement because a rotary potentiometer is being used to measure a generally linear displacement. As the chest cavity is compressed the potentiometer rotates, however the relationship between the compression and the potentiometer rotation (and voltage output) is non-linear.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Crash testing facilities have in the past used a variety of techniques to calibrate the chest potentiometer, that is to establish a sensitivity value (mm/(volt/volt) or mm/(mvolt/volt)). These sensitivity values are used to convert recorded voltage measurements to engineering units, in this case chest compression in mm. Some of these techniques intended to correct for the non-linearity and others did not. Of those that did correct for the non-linearity, there was a variation in techniques used. This variation in calibration procedures was in part identified by the SAE Dummy Testing Equipment Subcommittee (DTES), and led to overall variability in chest compression measurements between laboratories.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The intent of this SAE Recommended Practice is to minimize the variations in chest deflection measurements between crash testing laboratories. Before this procedure was written, a round robin showed variations for the Small Female of 10% among 8 labs for the chest pot sensitivity value. A follow-up round robin to test this procedure showed a worst case variation of 2.7% among 10 labs, with a standard deviation of 0.9%. The calibration procedure recommended here uses a two-point calibration and is not intended to correct for the non-linearity (which, for example, is as large as 3% for the Small Female but is small near the peak). It also does not require the measurement of a starting position of the potentiometer before each crash test, thus it does not correct for the difference in starting chest geometry between a subject dummy and its design intent. It is intended to be a simple and reproducible calibration procedure which crash test facilities can easily adopt with little or no modifications to their facilities. More complex procedures could in fact address the non-linearity, but at the likely cost of non-adoption by some facilities.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

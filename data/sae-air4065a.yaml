@@ -1,0 +1,56 @@
+---
+id: SAEAIR4065A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Propeller/Propfan In-Flight Thrust Determination
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4065a
+- type: src
+  content: https://saemobilus.sae.org/standards/air4065a-propeller-propfan-flight-thrust-determination
+docidentifier:
+- content: SAE AIR4065A
+  type: SAE
+  primary: true
+- content: 10.4271/air4065a
+  type: DOI
+date:
+- type: approved
+  at: '2012-05-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-33 In Flight Propulsion Measurement Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;AIR 4065, "Propeller/Propfan In-Flight Thrust Determination" addresses steady state propeller thrust as applied to aircraft which are usually powered by gas turbine engines. It includes theory, examples and methods which have been used. Specifically two methods are discussed, the "J" or traditional J,C&lt;sub&gt;p&lt;/sub&gt;,C&lt;sub&gt;t&lt;/sub&gt;, η method including the SBAC variation and a new method we call the "Theta" method which is dependent on knowing blade angle, power/torque and flight Mach number. Implementation guidelines are offered as well as overall approaches to flight testing. Appendices include expansions on theory and testing as well as examples.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

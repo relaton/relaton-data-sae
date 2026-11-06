@@ -1,0 +1,57 @@
+---
+id: SAEJ2669_200601
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Voltage Regulators for Automotive-Type Generators
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2669_200601
+- type: src
+  content: https://saemobilus.sae.org/standards/j2669_200601-voltage-regulators-automotive-type-generators
+docidentifier:
+- content: SAE J2669_200601
+  type: SAE
+  primary: true
+- content: 10.4271/j2669_200601
+  type: DOI
+date:
+- type: approved
+  at: '2006-01-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle  Electric  Power Supply Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Definition Document contains historic voltage regulation methods and test requirements that have not been previously published. The purpose of this document is to recommend a set of definitions and practices for use on current and future 12 V vehicle electric power regulation and control systems in internal combustion engine road vehicles. This document is not intended to include nor exclude regulators used in higher voltage vehicle electrical systems. The term “generator” rather than “alternator” will be used even though these terms may be used interchangeably in practice.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

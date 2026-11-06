@@ -1,0 +1,56 @@
+---
+id: SAEAS5363
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electromechanical Power Controller/Relay, General Specification For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5363
+- type: src
+  content: https://saemobilus.sae.org/standards/as5363-electromechanical-power-controller-relay-general-specification
+docidentifier:
+- content: SAE AS5363
+  type: SAE
+  primary: true
+- content: 10.4271/as5363
+  type: DOI
+date:
+- type: approved
+  at: '2010-01-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7P Protective and Control Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes general requirements for a family of trip-free Electromechanical Power Controller/Relays (EMPC) with electronic overcurrent sensing and control, intended for use in electrical systems conforming to RTCA, D0160 Revision C. These devices will be utilized for the protection of ac and/or dc electrical systems, bus feeders, and electrical equipment.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

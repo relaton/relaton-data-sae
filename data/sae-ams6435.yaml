@@ -1,0 +1,49 @@
+---
+id: SAEAMS6435
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL SHEET AND STRIP 1.8Ni - 0.8Cr - 0.35Mo - 0.2V (0.33 - 0.38C) Vacuum
+    Melted
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6435
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6435-steel-sheet-strip-18ni-08cr-035mo-02v-033-038c-vacuum-melted
+docidentifier:
+- content: SAE AMS6435
+  type: SAE
+  primary: true
+- content: 10.4271/ams6435
+  type: DOI
+date:
+- type: approved
+  at: '1960-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

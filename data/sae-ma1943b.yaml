@@ -1,0 +1,58 @@
+---
+id: SAEMA1943B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nuts, Self-Locking, UNS N07001 730 °C, 1100 MPa, and 1210 MPa Procurement
+    Specification for, Metric
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma1943b
+- type: src
+  content: https://saemobilus.sae.org/standards/ma1943b-nuts-self-locking-uns-n07001-730-c-1100-mpa-1210-mpa-procurement-specification-for-metric
+docidentifier:
+- content: SAE MA1943B
+  type: SAE
+  primary: true
+- content: 10.4271/ma1943b
+  type: DOI
+date:
+- type: approved
+  at: '2018-10-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This procurement specification covers aircraft quality self-locking nuts for wrenching (hex, spline) and anchor (plate, gang channel, shank) types of nuts made from a corrosion and heat-resistant nickel-base alloy of the type identified under the Unified Numbering System as UNS N07001. Tension height nuts having overall length of threaded portion not less than 1.2 times the nominal thread diameter have 1210 MPa minimum tensile strength at room temperature. Shear height nuts having shorter threaded portion have 1100 MPa minimum tensile strength at room temperature. Maximum test temperature of parts is 730 °C.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

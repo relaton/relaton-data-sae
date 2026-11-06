@@ -1,0 +1,56 @@
+---
+id: SAEAIR4543
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AEROSPACE HYDRAULICS AND ACTUATION LESSONS LEARNED
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4543
+- type: src
+  content: https://saemobilus.sae.org/standards/air4543-aerospace-hydraulics-actuation-lessons-learned
+docidentifier:
+- content: SAE AIR4543
+  type: SAE
+  primary: true
+- content: 10.4271/air4543
+  type: DOI
+date:
+- type: approved
+  at: '1992-01-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6 Aerospace Actuation, Control and Fluid Power Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Information Report (AIR) contains technical information on aerospace hydraulic and actuation technologies lessons learned. The lessons learned were prepared by system designers and hydraulic engineers from the aerospace industry and government services as part of SAE Committee A-6, Aerospace Fluid Power, Actuation, and Control Technologies, and were presented at three Lessons Learned Symposia in 1989 and 1990 held during A-6 Committee meetings. The technical topics represent many years of design experience in hydraulics and actuation, which it is felt is a resource for learning that should be documented and made available to current and future aerospace hydraulic engineers and designers. The document is organized into two sections; systems and components, with further categories within the components section. The information topics are presented in a concise format of problem, issue, and solution, with accompanying descriptive diagrams and illustrations for clarity and understanding.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

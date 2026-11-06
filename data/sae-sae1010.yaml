@@ -1,0 +1,92 @@
+---
+id: SAESAE1010
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standard Practice for Manpower and Personnel
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/sae1010
+- type: src
+  content: https://saemobilus.sae.org/standards/sae1010-standard-practice-manpower-personnel
+docidentifier:
+- content: SAE SAE1010
+  type: SAE
+  primary: true
+- content: 10.4271/sae1010
+  type: DOI
+date:
+- type: approved
+  at: '2020-09-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-45 Human Systems Integration
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Standard covers Manpower and Personnel (M&amp;amp;P) processes throughout planning, design, development, test, production, use, and disposal of a system. Depending on contract phase and/or complexity of the program, tailoring can be applied. The scope of this standard includes Prime and Sub-contractor M&amp;amp;P activities; it does not include Government M&amp;amp;P activities.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The primary goals of a contractor M&amp;amp;P program typically include:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Ensuring that the system design complies with the latest customer manpower estimates (numbers and mix of personnel, plus availability) and that discrepancies are reported to management and the customer.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Ensuring that the system design is regularly compared to the latest customer Personnel estimates (capabilities and limitations) and that discrepancies are reported to management and the customer.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Identifying, coordinating, tracking, and resolving M&amp;amp;P risks and issues and ensuring that they are:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Reflected in the contractor proposal, budgets, and plans.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Raised at design, management, and program reviews.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Debated in Working Group meetings.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Coordinated with Training, Logistics, and the other HSI disciplines.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Included appropriately in documentation and deliverable data items.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Identifying and pursuing opportunities to reduce Manpower and Personnel demands and costs.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Ensuring that M&amp;amp;P considerations are addressed in analyses, design decisions, trade-offs, and design changes (e.g., ECPs).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Conducting Manpower and Personnel analysis activities and supporting human factors analyses (e.g., workload analysis) and other HSI domain analyses to provide evidence to support design decisions and trade-offs and to coordinate shared data (e.g., task analyses).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Ensuring that M&amp;amp;P analyses and results are timely, technically competent/complete, and in a format that enables them to be included in design decisions, tradeoffs, and changes.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Ensuring that M&amp;amp;P issues discovered in test, evaluation, demonstration, Operational Test and Evaluation (OT&amp;amp;E), and operations are tracked and resolved in a technically competent/complete and timely manner.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Ensuring that the subjects used in experiments, simulations, tests, evaluations, and demonstrations are consistent with the customer’s latest projected target audiences.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

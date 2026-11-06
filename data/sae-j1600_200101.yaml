@@ -1,0 +1,55 @@
+---
+id: SAEJ1600_200101
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Method for Evaluating the Adhesion Characteristics of Automotive Sealers
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1600_200101
+- type: src
+  content: https://saemobilus.sae.org/standards/j1600_200101-method-evaluating-adhesion-characteristics-automotive-sealers
+docidentifier:
+- content: SAE J1600_200101
+  type: SAE
+  primary: true
+- content: 10.4271/j1600_200101
+  type: DOI
+date:
+- type: approved
+  at: '2001-01-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Materials, Processes and Parts Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Recommended Practice describes a method for evaluating the
+    adhesion characteristics of automotive sealers including the determination of
+    the minimum film thickness necessary to cohesive failure and the measurement of
+    peel strength.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

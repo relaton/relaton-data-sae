@@ -1,0 +1,56 @@
+---
+id: SAEMAM2201A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Tolerances, Metric, Aluminum and Aluminum Alloy Bar, Rod, Wire, and Forging
+    Stock, Rolled, Drawn, Or Cold Finished
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/mam2201a
+- type: src
+  content: https://saemobilus.sae.org/standards/mam2201a-tolerances-metric-aluminum-aluminum-alloy-bar-rod-wire-forging-stock-rolled-drawn-cold-finished
+docidentifier:
+- content: SAE MAM2201A
+  type: SAE
+  primary: true
+- content: 10.4271/mam2201a
+  type: DOI
+date:
+- type: approved
+  at: '2002-01-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers established metric manufacturing tolerances
+    applicable to aluminum alloy rolled, drawn, or cold finished bar, rod, wire, and
+    forging stock ordered to metric dimensions.  These tolerances  apply to all conditions,
+    unless otherwise noted.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

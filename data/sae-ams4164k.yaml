@@ -1,0 +1,58 @@
+---
+id: SAEAMS4164K
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Extrusions, 4.4Cu - 1.5Mg - 0.60Mn (2024-T3510), Solution
+    Heat Treated, Cold Worked, Stress-Relieved by Stretching, Unstraightened
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4164k
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4164k-aluminum-alloy-extrusions-44cu-15mg-060mn-2024-t3510-solution-heat-treated-cold-worked-stress-relieved-stretching-unstraightened
+docidentifier:
+- content: SAE AMS4164K
+  type: SAE
+  primary: true
+- content: 10.4271/ams4164k
+  type: DOI
+date:
+- type: approved
+  at: '2025-03-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of extruded bars, rods, wire, profiles, and tubing produced with cross-sectional area of 32 square inches (206 cm&lt;sup&gt;2&lt;/sup&gt;), maximum (see &lt;span class="xref"&gt;8.6&lt;/span&gt;).&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

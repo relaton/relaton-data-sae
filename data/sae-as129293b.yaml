@@ -1,0 +1,49 @@
+---
+id: SAEAS129293B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STUD - STRAIGHT, DRILLED, STEEL (SAE 8740), CADMIUM PLATED, .3750-16UNS
+    X .3750-24UNF-3A
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as129293b
+- type: src
+  content: https://saemobilus.sae.org/standards/as129293b-stud-straight-drilled-steel-sae-8740-cadmium-plated-3750-16uns-x-3750-24unf-3a
+docidentifier:
+- content: SAE AS129293B
+  type: SAE
+  primary: true
+- content: 10.4271/as129293b
+  type: DOI
+date:
+- type: approved
+  at: '2019-05-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

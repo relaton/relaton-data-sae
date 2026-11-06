@@ -1,0 +1,59 @@
+---
+id: SAEJ2705_201211
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Tire Quasi-Static Envelopment of Triangular/Step Cleats Test
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2705_201211
+- type: src
+  content: https://saemobilus.sae.org/standards/j2705_201211-tire-quasi-static-envelopment-triangular-step-cleats-test
+docidentifier:
+- content: SAE J2705_201211
+  type: SAE
+  primary: true
+- content: 10.4271/j2705_201211
+  type: DOI
+date:
+- type: approved
+  at: '2012-11-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Dynamics Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice describes a test method for determining properties of a non-rolling tire quasi-statically enveloping either a set of triangular cleats or a single step cleat. In the case of the triangular cleats the normal force and vertical deflection of the non-rolling tire are determined. In the case of the step cleats the normal force, longitudinal force, and vertical deflection of the non-rolling tire are determined. The method applies to any tire so long as the equipment is properly sized to correctly conduct the measurements for the intended test tire.&lt;sup&gt;&lt;span class="xref"&gt;1&lt;/span&gt;&lt;/sup&gt; The data are intended for use in determining parameters for road load models and for comparative evaluations of the measured properties in research and development.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: Herein, road load models are models for predicting forces applied to the vehicle spindles during operation over irregular pavements. Within the context of this document, forces applied to the pavement are not considered.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

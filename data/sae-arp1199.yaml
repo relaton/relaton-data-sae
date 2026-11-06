@@ -1,0 +1,57 @@
+---
+id: SAEARP1199
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SELECTION, APPLICATION, and INSPECTION of ELECTRIC OVERCURRENT PROTECTIVE
+    DEVICES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1199
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1199-selection-application-inspection-electric-overcurrent-protective-devices
+docidentifier:
+- content: SAE ARP1199
+  type: SAE
+  primary: true
+- content: 10.4271/arp1199
+  type: DOI
+date:
+- type: approved
+  at: '1972-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7P Protective and Control Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice provides technical and application information needed by the designers of aircraft electric systems and support equipment for the selection of overcurrent protective devices. It provides definitions to permit comparisons of various electric circuit protective devices. Included also are recommended procedures for periodic inspection.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

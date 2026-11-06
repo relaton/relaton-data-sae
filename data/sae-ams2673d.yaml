@@ -1,0 +1,56 @@
+---
+id: SAEAMS2673D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Brazing, Aluminum and Aluminum Alloys Molten Flux (Dip)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2673d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2673d-brazing-aluminum-aluminum-alloys-molten-flux-dip
+docidentifier:
+- content: SAE AMS2673D
+  type: SAE
+  primary: true
+- content: 10.4271/ams2673d
+  type: DOI
+date:
+- type: approved
+  at: '2006-04-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the engineering requirements for producing brazed joints of aluminum and aluminum alloys by immersion in a molten flux bath.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

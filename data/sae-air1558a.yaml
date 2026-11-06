@@ -1,0 +1,57 @@
+---
+id: SAEAIR1558A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Interface Protective Devices - Ground Equipment to Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1558a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1558a-interface-protective-devices-ground-equipment-aircraft
+docidentifier:
+- content: SAE AIR1558A
+  type: SAE
+  primary: true
+- content: 10.4271/air1558a
+  type: DOI
+date:
+- type: approved
+  at: '2005-02-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The protective device hereinafter called a “fender” is intended to serve its purpose during normal aircraft servicing and prevent damage during docking contact rather than aggressive impact.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

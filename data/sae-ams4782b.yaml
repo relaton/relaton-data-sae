@@ -1,0 +1,57 @@
+---
+id: SAEAMS4782B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BRAZING FILLER METAL, NICKEL 71Ni - 10Si - 19Cr 1975° - 2075°F (1080° -
+    1135°C) Solidus-Liquidus Range
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4782b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4782b-brazing-filler-metal-nickel-71ni-10si-19cr-1975-2075f-1080-1135c-solidus-liquidus-range
+docidentifier:
+- content: SAE AMS4782B
+  type: SAE
+  primary: true
+- content: 10.4271/ams4782b
+  type: DOI
+date:
+- type: approved
+  at: '1985-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a nickel alloy in the form of wire, rod, strip, foil, and powder and a viscous mixture (paste) of powder in a suitable binder.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

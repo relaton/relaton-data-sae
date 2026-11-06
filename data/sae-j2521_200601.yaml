@@ -1,0 +1,59 @@
+---
+id: SAEJ2521_200601
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Disc and Drum Brake Dynamometer Squeal Noise Matrix
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2521_200601
+- type: src
+  content: https://saemobilus.sae.org/standards/j2521_200601-disc-drum-brake-dynamometer-squeal-noise-matrix
+docidentifier:
+- content: SAE J2521_200601
+  type: SAE
+  primary: true
+- content: 10.4271/j2521_200601
+  type: DOI
+date:
+- type: approved
+  at: '2006-01-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Brake NVH Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The SAEJ2521 procedure is applicable to high frequency squeal type noise occurrences for passenger car and light truck type vehicles that are used under conventional operating conditions. The procedure incorporates high temperature and low temperature test matrices, but does not fully account for the effects of the environment on brake squeal. Much research is currently underway in this area and can potentially be incorporated in future revisions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SAEJ2521 procedure is applicable to high frequency squeal type noise occurrences for passenger car and light truck type vehicles that are used under conventional operating conditions. For the purposes of this test procedure, squeal is defined as occurring between 900 and 17,000 Hz for disc brake tests utilizing a full suspension corner assembly, between 2000 and 17,000 Hz for disc brakes not utilizing a full suspension corner assembly and between 500 and 17,000 Hz for drum brakes.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

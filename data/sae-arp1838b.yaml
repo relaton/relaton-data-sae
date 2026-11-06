@@ -1,0 +1,59 @@
+---
+id: SAEARP1838B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Pictograms for Ground Support Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1838b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1838b-pictograms-ground-support-equipment
+docidentifier:
+- content: SAE ARP1838B
+  type: SAE
+  primary: true
+- content: 10.4271/arp1838b
+  type: DOI
+date:
+- type: approved
+  at: '2012-03-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This SAE Aerospace Recommended Practice (ARP) specifies pictographic symbols for ground support equipment.
+
+    They have been compiled for the benefit of those who deal with such equipment like airlines, airport authorities, manufacturers etc. in order to facilitate fast and accurate identification of controls, indicators, and decals of powered and unpowered equipment.
+
+    This document shall promote standardization of terms for controls, indicators etc. of ground support equipment and eliminate language problems.
+
+    It is recommended to put these pictograms on all future equipment and to retrofit all existing equipment as far as possible.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

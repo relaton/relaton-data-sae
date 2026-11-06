@@ -1,0 +1,59 @@
+---
+id: SAEJ2312_202106
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Automatic Transmission Intake Filter Test Procedure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2312_202106
+- type: src
+  content: https://saemobilus.sae.org/standards/j2312_202106-automatic-transmission-intake-filter-test-procedure
+docidentifier:
+- content: SAE J2312_202106
+  type: SAE
+  primary: true
+- content: 10.4271/j2312_202106
+  type: DOI
+date:
+- type: approved
+  at: '2021-06-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Automatic Transmission and Transaxle Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This test procedure is intended to apply to hydraulic pump suction filters and strainers used in automotive automatic transmissions that include hydraulic power pumps. The various paragraphs of &lt;span class="xref"&gt;Section 5&lt;/span&gt; include a variety of tests and alternative tests that are not applicable to all filters and applications, so the engineer must specify which tests are to be performed for a particular application. These test procedures are intended to evaluate filter functional performance characteristics only, durability is not evaluated under this standard.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Filter design requirements must be specified by the engineer on the filter assembly drawing, an applicable engineering specification, or summarized on an application data sheet similar to that found in this recommended practice. See &lt;span class="xref"&gt;Figure 6&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Pressure circuit filters, both barrier and system contamination control types, are not covered under this standard. They are similar in design and construction to filters used in many hydraulic and lubricating applications. Testing for pressure filters are covered by the ISO and SAE standards listed under references in &lt;span class="xref"&gt;Section 2&lt;/span&gt;.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

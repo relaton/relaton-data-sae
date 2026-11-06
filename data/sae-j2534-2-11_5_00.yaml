@@ -1,0 +1,58 @@
+---
+id: SAEJ2534211_5_00
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Pass-Thru Extended Features - CAN with Flexible Data Rate
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2534-2/11_5_00
+- type: src
+  content: https://saemobilus.sae.org/standards/j2534-211_5_00-pass-thru-extended-features-flexible-data-rate
+docidentifier:
+- content: SAE J2534-2/11_5_00
+  type: SAE
+  primary: true
+- content: 10.4271/j2534-2/11_5_00
+  type: DOI
+date:
+- type: approved
+  at: '2022-01-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice is part of the SAE J2534-2/X_0500 set of documents that extends the SAE J2534-1_0500 API (version 05.00) specification, and defines how to implement CAN with flexible data rate (CAN FD) within the SAE J2534 API framework. This document details only the changes from SAE J2534-1_0500 and items not specifically detailed in this document are assumed to have not changed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;An SAE J2534-2/11_0500 interface shall be compliant to the CAN with flexible data rate (CAN FD) feature only when all the required functionality in this SAE Recommended Practice is implemented. Any functionality not required for compliance will be specifically marked as “optional” in this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document must be used in conjunction with the SAE J2534-2/BA_0500 and SAE J2534-2/RE_0500 documents.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

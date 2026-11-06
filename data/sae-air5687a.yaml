@@ -1,0 +1,58 @@
+---
+id: SAEAIR5687A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Inlet/Engine Compatibility - From Model to Full Scale Development
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5687a
+- type: src
+  content: https://saemobilus.sae.org/standards/air5687a-inlet-engine-compatibility-model-full-scale-development
+docidentifier:
+- content: SAE AIR5687A
+  type: SAE
+  primary: true
+- content: 10.4271/air5687a
+  type: DOI
+date:
+- type: approved
+  at: '2016-02-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-16 Turbine Engine Inlet Flow Distortion  Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document reviews the state of the art for data scaling issues associated with air induction system development for turbine-engine-powered aircraft. In particular, the document addresses issues with obtaining high quality aerodynamic data when testing inlets. These data are used in performance and inlet-engine compatibility analyses. Examples of such data are: inlet recovery, inlet turbulence, and steady-state and dynamic total-pressure inlet distortion indices. Achieving full-scale inlet/engine compatibility requires a deep understanding of three areas: 1) geometric scaling fidelity (referred to here as just “scaling”), 2) impact of Reynolds number, and 3) ground and flight-test techniques (including relevant environment simulation, data acquisition, and data reduction practices). The Model-to-Full Scale Subcommittee of the S-16 Turbine Engine Inlet Flow Distortion Committee has examined archives and has obtained recollections of experts regarding air induction system development experience to produce this document.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

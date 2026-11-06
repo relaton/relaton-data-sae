@@ -1,0 +1,59 @@
+---
+id: SAEJ3150_202504
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Taxonomy and Definitions for Truck and Bus Automated Vehicle Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3150_202504
+- type: src
+  content: https://saemobilus.sae.org/standards/j3150_202504-taxonomy-definitions-truck-bus-automated-vehicle-systems
+docidentifier:
+- content: SAE J3150_202504
+  type: SAE
+  primary: true
+- content: 10.4271/j3150_202504
+  type: DOI
+date:
+- type: approved
+  at: '2025-04-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Automation Safety Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides definitions, terminology, and classifications for automated truck and bus vehicle applications. Vehicles covered by this document are those with a GVWR of more than 10000 pounds and where each vehicle utilizes driving automation systems that perform part or all of the driving task on a sustained basis and that range in level from some driving automation to full driving automation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The document also provides levels of driving automation that apply to the driving automation feature engaged in any given instance of operation of an equipped vehicle. A vehicle may be equipped with a driving automation system that is capable of delivering multiple driving automation features that perform at different levels; the level of driving automation exhibited in any given instance is determined by the feature(s) that are engaged.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document provides guidance for the elements of the dynamic driving task (DDT) for a truck or bus equipped with an Automated Driving System (ADS).&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

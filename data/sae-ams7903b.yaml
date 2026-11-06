@@ -1,0 +1,54 @@
+---
+id: SAEAMS7903B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Beryllium Bars, Rods, Tubing, and Shapes, 4.25Be0 - 94Be, High Micro-Yield
+    Strength
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7903b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7903b-beryllium-bars-rods-tubing-shapes-425be0-94be-high-micro-yield-strength
+docidentifier:
+- content: SAE AMS7903B
+  type: SAE
+  primary: true
+- content: 10.4271/ams7903b
+  type: DOI
+date:
+- type: approved
+  at: '2006-05-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G Titanium and Refractory Metals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers beryllium in the form of bars, rods, tubing,
+    and machined shapes from vacuum hot pressed powder.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

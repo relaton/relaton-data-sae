@@ -1,0 +1,54 @@
+---
+id: SAEARP4258A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Application of Low Speed Avionic System Discrete Signal Interfaces
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4258a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4258a-application-low-speed-avionic-system-discrete-signal-interfaces
+docidentifier:
+- content: SAE ARP4258A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4258a
+  type: DOI
+date:
+- type: approved
+  at: '2006-05-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The purpose of this Aerospace Recommended Practice (ARP) is to provide
+    recommendations on the use of four types of discrete signal interfaces for unidirectional,
+    low power, low frequency transmission of discrete information.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

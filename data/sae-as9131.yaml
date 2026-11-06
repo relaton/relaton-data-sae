@@ -1,0 +1,57 @@
+---
+id: SAEAS9131
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Quality Systems Non-Conformance Documentation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9131
+- type: src
+  content: https://saemobilus.sae.org/standards/as9131-quality-systems-non-conformance-documentation
+docidentifier:
+- content: SAE AS9131
+  type: SAE
+  primary: true
+- content: 10.4271/as9131
+  type: DOI
+date:
+- type: approved
+  at: '2001-12-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document defines to supplier/subcontractor common information and documentation required to inform Customers, when applicable about nonconformity (Customer-provider use). It does not apply to the reporting of a nonconformity to the product owner/operator.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Reporting of Product Quality Escapes and use of Waiver/Concession is subject to the terms and conditions of the contractual requirements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

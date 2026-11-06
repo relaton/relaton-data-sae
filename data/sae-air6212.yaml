@@ -1,0 +1,58 @@
+---
+id: SAEAIR6212
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Use of Health Monitoring Systems to Detect Aircraft Exposure to Volcanic
+    Events
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6212
+- type: src
+  content: https://saemobilus.sae.org/standards/air6212-use-health-monitoring-systems-detect-aircraft-exposure-volcanic-events
+docidentifier:
+- content: SAE AIR6212
+  type: SAE
+  primary: true
+- content: 10.4271/air6212
+  type: DOI
+date:
+- type: approved
+  at: '2021-05-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: HM-1 Integrated Vehicle Health Management Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document collates the ways and means that existing sensors can identify the platform’s exposure to volcanic ash. The capabilities include real-time detection and estimation, and post flight determinations of exposure and intensity. The document includes results of initiatives with the Federal Aviation Administration (FAA), the European Aviation Safety Agency (EASA), the International Civil Aviation Organization (ICAO), Transport Canada, various research organizations, Industry and other subject matter experts. The document illustrates the ways that an aircraft can use existing sensors to act as health monitoring tools so as to assess the operational and maintenance effects related to volcanic ash incidents and possibly help determine what remedial action to take after encountering a volcanic ash (VA) event. Finally, the document provides insight into emerging technologies and capabilities that have been specifically pursued to detect volcanic ash encounters but are not yet a part of an airplane’s standard fit.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

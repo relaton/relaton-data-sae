@@ -1,0 +1,57 @@
+---
+id: SAEJ2450_200112
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Translation Quality Metric
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2450_200112
+- type: src
+  content: https://saemobilus.sae.org/standards/j2450_200112-translation-quality-metric
+docidentifier:
+- content: SAE J2450_200112
+  type: SAE
+  primary: true
+- content: 10.4271/j2450_200112
+  type: DOI
+date:
+- type: approved
+  at: '2001-12-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice is applicable to translations of automotive service information into any target language. The metric may be applied regardless of the source language or the method of translation (i.e., human translation, computer assisted translation or machine translation).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Note that the current version of the metric does not measure errors in style, making it unsuitable for evaluations of material in which style is important (e.g., owner's manuals or marketing literature). The metric can be expanded to accommodate style and other requirements of particular new media.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

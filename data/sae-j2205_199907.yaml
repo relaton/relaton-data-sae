@@ -1,0 +1,55 @@
+---
+id: SAEJ2205_199907
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Expanded Diagnostic Protocol for OBD II Scan Tools
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2205_199907
+- type: src
+  content: https://saemobilus.sae.org/standards/j2205_199907-expanded-diagnostic-protocol-obd-ii-scan-tools
+docidentifier:
+- content: SAE J2205_199907
+  type: SAE
+  primary: true
+- content: 10.4271/j2205_199907
+  type: DOI
+date:
+- type: approved
+  at: '1999-07-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This SAE Recommended Practice defines the Expanded Diagnostic Protocol (EDP), the requirements for the SAE J1978 OBD II Scan Tool for supporting the EDP protocol, and associated requirements for diagnosis and service information to be provided by motor vehicle manufacturers.
+
+    Appendix A includes worked examples of the use of the protocol.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

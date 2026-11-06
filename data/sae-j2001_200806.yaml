@@ -1,0 +1,61 @@
+---
+id: SAEJ2001_200806
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Internal Combustion Engines--Piston Rings--Half Keystone Rings
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2001_200806
+- type: src
+  content: https://saemobilus.sae.org/standards/j2001_200806-internal-combustion-engines-piston-rings-half-keystone-rings
+docidentifier:
+- content: SAE J2001_200806
+  type: SAE
+  primary: true
+- content: 10.4271/j2001_200806
+  type: DOI
+date:
+- type: approved
+  at: '2008-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Piston and Ring Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This SAE Standard is equivalent to ISO Standard 6624/2 TR.
+
+    Differences, where they exist, are shown in Appendix A.
+
+    This SAE Standard specifies the essential dimensional features of HK- and HKB- half keystone rings with narrow ring width types.
+
+    Dimensional and allow for the use of cast iron (Table 6) or steel (Table 7).  Since the modulus of elasticity of steel rings is higher than that of cast iron rings, the fluctuation in the surface pressure will become greater if the free gap is set as the reference for forces.  Therefore, forces are set using the surface pressure as the reference in order to minimize the effect of the fluctuation.
+
+    The requirements of this document apply to half keystone rings of reciprocating internal combustion engines up to and including 70 mm diameter for cast iron rings and up to and including 100 mm diameter for steel rings.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

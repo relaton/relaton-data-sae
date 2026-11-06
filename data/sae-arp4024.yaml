@@ -1,0 +1,59 @@
+---
+id: SAEARP4024
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft/Engine Fuel Pump Net Positive Suction Pressure Performance Test
+    and Evaluation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4024
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4024-aircraft-engine-fuel-pump-net-positive-suction-pressure-performance-test-evaluation
+docidentifier:
+- content: SAE ARP4024
+  type: SAE
+  primary: true
+- content: 10.4271/arp4024
+  type: DOI
+date:
+- type: approved
+  at: '2020-04-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5B Aircraft and Engine Fuel and Lubricant Sys Components
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This procedure applies to engine or airframe-mounted fuel pumps. The procedure recommends single-pass operation to minimize changes in fuel properties affecting NPSP capability. An optional method using a recirculation system is also included and may be specified at the discretion of the equipment specification.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This procedure defines the recommended test setup, test procedure, data acquisition, and data presentation.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

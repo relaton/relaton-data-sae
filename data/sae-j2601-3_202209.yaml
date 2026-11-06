@@ -1,0 +1,72 @@
+---
+id: SAEJ26013_202209
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fueling Protocol for Gaseous Hydrogen Powered Industrial Trucks
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2601/3_202209
+- type: src
+  content: https://saemobilus.sae.org/standards/j26013_202209-fueling-protocol-gaseous-hydrogen-powered-industrial-trucks
+docidentifier:
+- content: SAE J2601/3_202209
+  type: SAE
+  primary: true
+- content: 10.4271/j2601/3_202209
+  type: DOI
+date:
+- type: approved
+  at: '2022-09-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Cell Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document establishes safety limits and performance requirements for gaseous hydrogen fuel dispensers used to fuel Hydrogen Powered Industrial Trucks (HPITs). It also describes several example fueling methods for gaseous hydrogen dispensers serving HPIT vehicles.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J2601-3 offers performance based fueling methods and provides guidance to fueling system builders as well as suppliers of hydrogen powered industrial trucks and operators of the hydrogen powered vehicle fleet(s). This fueling protocol for HPITs can support a wide range of hydrogen fuel cell hybrid electric vehicles including fork lifts, tractors, pallet jacks, on and off road utility, and specialty vehicles of all types.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The mechanical connector geometry for H25 and H35 connectors are defined in SAE J2600 Compressed Hydrogen Surface Vehicle Refueling Connection Devices.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Multiple fueling methods are described in this document and include:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Fill to Service Pressure with fixed area flow-limiting device&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Fill to Target Pressure with fixed area flow-limiting device&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Fill to Target Pressure with variable area flow-limiting device&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These three dispensing methods are detailed in &lt;span class="xref"&gt;Section 6&lt;/span&gt; and include a schematic of control components for vehicle fueling. These methods allow for market differentiation with varied target fill pressures relative to 100% SOC. These methods are examples of how dispensers may function but are not intended to limit options for new dispenser technologies or fueling methods, provided they meet the performance based requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is suitable for all vehicle tank fueling systems above 18 L water volume and may be used for fueling of all types of Hydrogen Powered Industrial Trucks (HPIT’s), and Battery Replacement modules (BRM’s).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The fueling limits shown in &lt;span class="xref"&gt;Section 5&lt;/span&gt; are harmonized with the fueling assumptions used for on-board fuel systems that comply with CSA HPIT-1.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,54 @@
+---
+id: SAEARP1616B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Self-Sealing Breakaway Valves for Crash-Resistant Aircraft Fuel and Oil
+    Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1616b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1616b-self-sealing-breakaway-valves-crash-resistant-aircraft-fuel-oil-systems
+docidentifier:
+- content: SAE ARP1616B
+  type: SAE
+  primary: true
+- content: 10.4271/arp1616b
+  type: DOI
+date:
+- type: approved
+  at: '2017-08-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5A Aerospace Fuel, Inerting and Lubrication Sys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This document defines design, performance, and test criteria for self-sealing
+    breakaway valves for use in crash-resistant aircraft fuel systems.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

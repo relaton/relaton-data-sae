@@ -1,0 +1,57 @@
+---
+id: SAEAIR171D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Glossary of Technical and Physiological Terms Related to Aerospace Oxygen
+    Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air171d
+- type: src
+  content: https://saemobilus.sae.org/standards/air171d-glossary-technical-physiological-terms-related-aerospace-oxygen-systems
+docidentifier:
+- content: SAE AIR171D
+  type: SAE
+  primary: true
+- content: 10.4271/air171d
+  type: DOI
+date:
+- type: approved
+  at: '2012-10-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this document is to provide a list of specialized terms with their meanings. The glossary will assist the use of other documents related to aircraft oxygen equipment by defining ubiquitous terminology in context of this specialized field. The glossary contains terms of primary importance in the areas of chemistry, equipment, and physiology.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

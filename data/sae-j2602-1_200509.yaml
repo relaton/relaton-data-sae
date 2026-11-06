@@ -1,0 +1,48 @@
+---
+id: SAEJ26021_200509
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: LIN Network for Vehicle Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2602/1_200509
+- type: src
+  content: https://saemobilus.sae.org/standards/j26021_200509-lin-network-vehicle-applications
+docidentifier:
+- content: SAE J2602/1_200509
+  type: SAE
+  primary: true
+- content: 10.4271/j2602/1_200509
+  type: DOI
+date:
+- type: approved
+  at: '2005-09-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Architecture For Data Communications Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

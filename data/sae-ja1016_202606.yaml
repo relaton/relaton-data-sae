@@ -1,0 +1,69 @@
+---
+id: SAEJA1016_202606
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Dimensional and Performance Testing Specifications for Secondary Pouch
+    Cells for Group 1 Small Uncrewed Aerial Vehicle(s) (sUAV)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ja1016_202606
+- type: src
+  content: https://saemobilus.sae.org/standards/ja1016_202606-dimensional-performance-testing-specifications-secondary-pouch-cells-group-1-small-uncrewed-aerial-vehicle-s-suav
+docidentifier:
+- content: SAE JA1016_202606
+  type: SAE
+  primary: true
+- content: 10.4271/ja1016_202606
+  type: DOI
+date:
+- type: approved
+  at: '2026-06-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Battery Cell Size Standardization Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>&lt;p&gt;This document establishes standardized dimensional cell geometry,
+    performance-test procedures, and reporting requirements for secondary (i.e., rechargeable)
+    pouch cells used in Group 1 sUAV. It defines reference geometries, test conditions,
+    and uniform data formats to allow direct comparison of pouch-cell performance
+    across manufacturers and to improve interoperability within the sUAV ecosystem.&lt;/p&gt;</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

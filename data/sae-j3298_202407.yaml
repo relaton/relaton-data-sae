@@ -1,0 +1,58 @@
+---
+id: SAEJ3298_202407
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Artificial Intelligence Data for Ground Vehicle Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3298_202407
+- type: src
+  content: https://saemobilus.sae.org/standards/j3298_202407-artificial-intelligence-data-ground-vehicle-applications
+docidentifier:
+- content: SAE J3298_202407
+  type: SAE
+  primary: true
+- content: 10.4271/j3298_202407
+  type: DOI
+date:
+- type: approved
+  at: '2024-07-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Artificial Intelligence
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Technical Information Report provides preliminary information regarding the current state of data collection, data processing methods, and usage for developing AI and its enabled systems and applications in the ground vehicle domain. This information report is a survey of topics highlighting data’s impact on AI solutions and methods that may be used to develop or improve data-related processes.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This report may offer insights that can drive innovation, improve safety, optimize performance, and develop regulatory compliance methods. Solution providers may find this information insightful and realize the potential for collaborative measures in development of their AI-enabled systems. Developers of standards and lawmakers may gain a better understanding of the current state of the industry and find opportunities to develop policies to guide the future of transportation, which in turn directly impacts the public. Other committees and academic affiliates may see links between data for AI in the ground vehicle domain and their domains of interest, which could spawn novel research, development, and standards.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

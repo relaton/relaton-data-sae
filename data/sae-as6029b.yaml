@@ -1,0 +1,59 @@
+---
+id: SAEAS6029B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Criteria for Laser Control Measures for Aviation Safety
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6029b
+- type: src
+  content: https://saemobilus.sae.org/standards/as6029b-criteria-laser-control-measures-aviation-safety
+docidentifier:
+- content: SAE AS6029B
+  type: SAE
+  primary: true
+- content: 10.4271/as6029b
+  type: DOI
+date:
+- type: approved
+  at: '2023-07-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10T Laser Safety Hazards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides requirements and guidance for laser proponents and aviation authorities to determine the criteria that laser hazard control measures shall meet for the operation of an outdoor laser system in navigable airspace. This document has been developed to be used for a wide range of outdoor laser hazard control measures from completely manual systems to those with various levels of automation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document applies to laser propagation which may expose persons in navigable airspace to laser energy above the applicable maximum permissible exposure limit or which emits visible light in excess of the visual interference limits in the applicable Laser-Free, Critical, and Sensitive Hazard Zones.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The document does not cover systems intended to deliberately aim and or track lasers at aircraft, such as Federal Aviation Administration (FAA) approved purposes, including visual warning systems, search and rescue, etc. Additionally, laser-affected airspace above 60000 feet mean sea level (MSL) is outside the scope of the performance criteria contained herein.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

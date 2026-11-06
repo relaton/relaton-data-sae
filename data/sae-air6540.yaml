@@ -1,0 +1,59 @@
+---
+id: SAEAIR6540
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fundamentals in Wire Selection and Sizing for Aerospace Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6540
+- type: src
+  content: https://saemobilus.sae.org/standards/air6540-fundamentals-wire-selection-sizing-aerospace-applications
+docidentifier:
+- content: SAE AIR6540
+  type: SAE
+  primary: true
+- content: 10.4271/air6540
+  type: DOI
+date:
+- type: approved
+  at: '2019-01-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7C Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this report is to capture fundamental principles of selecting a wire size for an aerospace application using the method prescribed in the AS50881 standard and additional calculations, not found in AS50881, to ensure the wire selection will adequately perform in the specific physical and environment conditions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This report covers wire selection and sizing as part of the electrical wire interconnection systems (EWIS) used in aerospace vehicles. Aerospace vehicles include manned and unmanned airplanes, helicopters, lighter-than-air vehicles, missiles, and external pods. This document does not apply to wiring inside of airborne electronic equipment but shall apply to wiring externally attached to such equipment.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Wire selection must consider physical and environmental factors to size wires such that they have sufficient mechanical strength, do not exceed allowable voltage drop levels, are protected by materials or circuit protection devices, and meet circuit current carrying requirements. For electrical power feeders and distribution, or EWIS applications, other information and environmental and installation limitations are also needed to adequately evaluate and select the correct wire size for a specific application and meet design requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The report presents only fundamental principles and guidelines and cannot adequately cover all aspects and complexities associated with wire selection and sizing. Some of the calculations in this report have been simplified to demonstrate the process for validating a wire size selection for a design application. More precise calculations should be investigated and evaluated to ensure proper assessment of each individual calculation in this report.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

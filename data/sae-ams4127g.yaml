@@ -1,0 +1,57 @@
+---
+id: SAEAMS4127G
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY FORGINGS AND ROLLED OR FORGED RINGS 1.0Mg - 0.6Si - 0.2aCu
+    - 0.20Cr (6061-T6) Solution and Precipitation Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4127g
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4127g-aluminum-alloy-forgings-rolled-forged-rings-10mg-06si-02acu-020cr-6061-t6-solution-precipitation-heat-treated
+docidentifier:
+- content: SAE AMS4127G
+  type: SAE
+  primary: true
+- content: 10.4271/ams4127g
+  type: DOI
+date:
+- type: approved
+  at: '1999-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of die forgings, hand forgings, forged rings, rolled rings, and stock for forgings and rings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

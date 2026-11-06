@@ -1,0 +1,59 @@
+---
+id: SAEARP5910
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Ramp Markings
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5910
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5910-ramp-markings
+docidentifier:
+- content: SAE ARP5910
+  type: SAE
+  primary: true
+- content: 10.4271/arp5910
+  type: DOI
+date:
+- type: approved
+  at: '2002-12-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) outlines recommended ramp pavement marking standards for proper guidance and positioning of GSE on commercial transport aircraft parking and handling stands (gates), in line with International Civil Aviation (ICAO) recommendations applicable to airport aprons.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Throughout this document, the minimum essential criteria are identified by use of the key word "shall". Recommended criteria are identified by use of the key word "should" and, while not mandatory, are considered to be of primary importance in providing safety effective ramp markings. Deviation from recommended criteria should only occur after careful consideration and thorough service evaluation have shown alternate methods to provide an equivalent level of safety.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

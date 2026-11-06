@@ -1,0 +1,57 @@
+---
+id: SAEARP1148
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GROUND ELECTRICAL POWER UNIT, TRANSPORTABLE 115/200 VOLT AC (NOMINAL) 400
+    HERTZ, 3-PHASE 4-WIRE (GROUNDED NEUTRAL) Y-CONNECTED SYSTEM
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1148
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1148-ground-electrical-power-unit-transportable-115-200-volt-ac-nominal-400-hertz-3-phase-4-wire-grounded-neutral-y-connected-system
+docidentifier:
+- content: SAE ARP1148
+  type: SAE
+  primary: true
+- content: 10.4271/arp1148
+  type: DOI
+date:
+- type: approved
+  at: '1970-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Recommended Practice outlines the general requirements for a transportable self-contained, continuous duty, diesel engine driven brushless alternator unit for supplying 400-Hertz electrical power to high performance commercial transport aircraft. It is intended to assist the airlines in standardardizing recommendations for various sizes and configurations of equipment and it is a guide for the preparation of detailed specifications by the purchaser. The unit is primarily intended to supply power to the aircraft during passenger loading and unloading, and during servicing operations at airports throughout the world. The combination of the equipment specified herein and the interconnecting cable(s) between the 400-Hertz alternator and the aircraft shall provide power characteristics at the aircraft receptacle which meet MIL-STD-704A requirements for Category "B" equipment. Other limits which are necessary to meet specific conditions must be specified by the purchaser.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

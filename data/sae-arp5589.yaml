@@ -1,0 +1,59 @@
+---
+id: SAEARP5589
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Human Engineering Considerations for Design and Implementation of Perspective
+    Flight Guidance Displays
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5589
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5589-human-engineering-considerations-design-implementation-perspective-flight-guidance-displays
+docidentifier:
+- content: SAE ARP5589
+  type: SAE
+  primary: true
+- content: 10.4271/arp5589
+  type: DOI
+date:
+- type: approved
+  at: '2005-01-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10P Perspective Flight Guidance Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The document focuses on perspective flight displays with or without guidance and is intended for flight deck display applications. Further, this document does not directly address the presence or absence of background information, e.g., synthetic and/or enhanced imagery. Such issues are addressed in a separate E/SVS document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Since this document provides recommendations, the guidance is provided in the form of “should” statements as opposed to the “shall” statements that appear in standards and regulations. When “shall” statements are used, the regulation or standard is referenced (where applicable).&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

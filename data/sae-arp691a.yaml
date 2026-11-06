@@ -1,0 +1,68 @@
+---
+id: SAEARP691A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Recommended Ice Bath for Reference Junctions
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp691a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp691a-recommended-ice-bath-reference-junctions
+docidentifier:
+- content: SAE ARP691A
+  type: SAE
+  primary: true
+- content: 10.4271/arp691a
+  type: DOI
+date:
+- type: approved
+  at: '2026-05-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The ice bath recommended herein is similar to that described in SAE AIR 46.&lt;span class="xref"&gt;*&lt;/span&gt; Some material not presented in AIR 46, including preferred dimensions, has been added.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

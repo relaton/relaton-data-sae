@@ -1,0 +1,59 @@
+---
+id: SAEARP450D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Flight Deck Visual, Audible, and Tactile Signals
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp450d
+- type: src
+  content: https://saemobilus.sae.org/standards/arp450d-flight-deck-visual-audible-tactile-signals
+docidentifier:
+- content: SAE ARP450D
+  type: SAE
+  primary: true
+- content: 10.4271/arp450d
+  type: DOI
+date:
+- type: approved
+  at: '1980-12-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This ARP sets forth design and operational recommendations relative
+    to the integrated alerting system to be implemented on the flight deck. It is
+    intended that through the adoption of the design objectives and recommendations
+    incorporated herein, a consistent and effective industry standard will result.
+    Safety of flight is greatly enhanced by an alerting system designed to provide
+    early crew recognition of flight crew operational error as well as aircraft system
+    or component status or malfunction. The alerting system therefore relates to aircraft
+    configuration and flight regime as well as the aircraft systems. To fulfill this
+    objective, the flight deck alerting system must attract the attention of the crew,
+    must state with clarity the nature and location of the problem, must be highly
+    reliable and thoroughly responsive to the operational requirements and environment.
+    \ The system should incorporate careful design logic to assure that warning or
+    caution signals never occur when operations are normal and always occur when required.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

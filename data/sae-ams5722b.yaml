@@ -1,0 +1,49 @@
+---
+id: SAEAMS5722B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS, FORGINGS, AND RINGS, CORROSION AND HEAT RESISTANT 19.5Cr -
+    9.5Ni - 1.4Mo - 1.4W - 0.42(Cb + Ta) - 0.22Ti
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5722b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5722b-steel-bars-forgings-rings-corrosion-heat-resistant-195cr-95ni-14mo-14w-042-cb-ta-022ti
+docidentifier:
+- content: SAE AMS5722B
+  type: SAE
+  primary: true
+- content: 10.4271/ams5722b
+  type: DOI
+date:
+- type: approved
+  at: '1966-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,48 @@
+---
+id: SAEAMS2601B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PRESSURE TESTING 10 psi
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2601b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2601b-pressure-testing-10-psi
+docidentifier:
+- content: SAE AMS2601B
+  type: SAE
+  primary: true
+- content: 10.4271/ams2601b
+  type: DOI
+date:
+- type: approved
+  at: '1944-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

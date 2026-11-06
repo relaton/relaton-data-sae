@@ -1,0 +1,59 @@
+---
+id: SAEAIR5788A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Common Launch Acceptability Region (CLAR) Truth Data Generator Interface
+    Control Document (ICD) for the CLAR Approach (CLARA)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5788a
+- type: src
+  content: https://saemobilus.sae.org/standards/air5788a-common-launch-acceptability-region-clar-truth-data-generator-interface-control-document-icd-clar-approach-clara
+docidentifier:
+- content: SAE AIR5788A
+  type: SAE
+  primary: true
+- content: 10.4271/air5788a
+  type: DOI
+date:
+- type: approved
+  at: '2012-08-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1B Aircraft Store Integration Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document specifies the CLARA interfaces of the CLAR Truth Data Generator as shown in &lt;span class="xref"&gt;Figure 1&lt;/span&gt;. The solid bold arrows are defined in &lt;span class="xref"&gt;Table 1&lt;/span&gt; and &lt;span class="xref"&gt;Table 2&lt;/span&gt;. The dashed arrows from the CLAR Coefficient Generator and Truth Database to the CLAR Data Space Generator indicate a feedback loop and are defined in the CLAR Data Space Generator ICD (Reference 1). The dashed arrow from the Truth Database to the CLAR Coefficient Generator is defined in the CLAR Coefficient Generator ICD (Reference 2).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The objective for the CLAR Truth Data Generator is to produce impact data sets to be used in the CLAR Coefficient Generator first to score and form LAR boundaries, and then to generate coefficients. A model of the weapon system that predicts weapon delivery performance to a predefined accuracy is to be used for this purpose. The model can be the Six-Degree-Of-Freedom (6DOF) equations of motion or another mathematical representation that meets the objective for the weapon system LAR.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

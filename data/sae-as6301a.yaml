@@ -1,0 +1,58 @@
+---
+id: SAEAS6301A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Compliance Verification Criterion Standard for AS6081A Counterfeit Electrical,
+    Electronic, and Electromechanical (EEE) Parts: Avoidance, Detection, Mitigation,
+    and Disposition - Independent Distribution'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6301a
+- type: src
+  content: https://saemobilus.sae.org/standards/as6301a-compliance-verification-criterion-standard-as6081a-counterfeit-electrical-electronic-electromechanical-eee-parts-avoidance-detection-mitigation-disposition-independent-distribution
+docidentifier:
+- content: SAE AS6301A
+  type: SAE
+  primary: true
+- content: 10.4271/as6301a
+  type: DOI
+date:
+- type: approved
+  at: '2024-09-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-19 Counterfeit Electronic Parts Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This set of criteria is intended for use by accredited Certification Bodies (CBs) to establish compliance and grant certification to AS6081A. It may also be used by others to assess compliance to AS6081A requirements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

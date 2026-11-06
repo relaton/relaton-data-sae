@@ -1,0 +1,57 @@
+---
+id: SAEAIR1812B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Environmental Control Systems Life Cycle Cost
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1812b
+- type: src
+  content: https://saemobilus.sae.org/standards/air1812b-environmental-control-systems-life-cycle-cost
+docidentifier:
+- content: SAE AIR1812B
+  type: SAE
+  primary: true
+- content: 10.4271/air1812b
+  type: DOI
+date:
+- type: approved
+  at: '2017-02-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report contains background information on life cycle cost elements and key ECS cost factors. Elements of life cycle costs are defined from initial design phases through operational use. Information on how ECS designs affect overall aircraft cost and information on primary factors affecting ECS costs are discussed. Key steps or efforts for comparing ECS designs on the basis of LCC are outlined. Brief descriptions of two computer programs for estimating LCC of total aircraft programs and their use to estimate ECS LCC, are included.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,49 @@
+---
+id: SAEAIR1963
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: COCKPIT INFORMATION REQUIRED FOR HELICOPTER TURBINE ENGINE OPERATION AND
+    MAINTENANCE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1963
+- type: src
+  content: https://saemobilus.sae.org/standards/air1963-cockpit-information-required-helicopter-turbine-engine-operation-maintenance
+docidentifier:
+- content: SAE AIR1963
+  type: SAE
+  primary: true
+- content: 10.4271/air1963
+  type: DOI
+date:
+- type: approved
+  at: '1987-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-12 Powered Lift Propulsion Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

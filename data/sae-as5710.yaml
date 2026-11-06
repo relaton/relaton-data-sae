@@ -1,0 +1,82 @@
+---
+id: SAEAS5710
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: JAUS Core Service Set
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5710
+- type: src
+  content: https://saemobilus.sae.org/standards/as5710-jaus-core-service-set
+docidentifier:
+- content: SAE AS5710
+  type: SAE
+  primary: true
+- content: 10.4271/as5710
+  type: DOI
+date:
+- type: approved
+  at: '2008-12-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-4JAUS Joint Architecture for Unmanned Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document defines a set of standard application layer interfaces called &lt;i&gt;JAUS Core Services&lt;/i&gt;. JAUS Services provide the means for software entities in an unmanned system or system of unmanned systems to communicate and coordinate their activities. The Core Services represent the infrastructure commonly found across all domains and types of unmanned systems. At present, seven services are defined in this document:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Transport Service: Abstracts the functionality of the underlying communication transport layer&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Events Service: Establishes a publish/subscribe mechanism for automatic messaging&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Access Control: Manages preemptable exclusive control for safety critical operations&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Management: Defines component life-cycle management&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Time: Allows clients to query and set the system time for the component&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Liveness: Provides a means to maintain connection liveness between communicating components&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Discovery: Governs automatic discovery of remote entities and their capabilities&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Each service is described by a JAUS Service Definition (JSD) which specifies the message set and protocol required for compliance. Each JSD is fully compliant with the JAUS Service Interface Definition Language [JSIDL].&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

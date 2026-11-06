@@ -1,0 +1,57 @@
+---
+id: SAEJ1634_202508
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Battery Electric Vehicle Energy Consumption and Range Test Procedure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1634_202508
+- type: src
+  content: https://saemobilus.sae.org/standards/j1634_202508-battery-electric-vehicle-energy-consumption-range-test-procedure
+docidentifier:
+- content: SAE J1634_202508
+  type: SAE
+  primary: true
+- content: 10.4271/j1634_202508
+  type: DOI
+date:
+- type: approved
+  at: '2025-08-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Light Duty Vehicle Performance and Economy Measure Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes uniform procedures for testing BEVs that are capable of being operated on public and private roads. The procedure applies only to vehicles using batteries as their sole source of power. It is the intent of this document to provide standard tests that will allow for the determination of energy consumption and range for light-duty vehicles (LDVs) based on the federal test procedure (FTP) using the urban dynamometer driving cycle (UDDS) and the highway fuel economy driving schedule (HFEDS) and provide a flexible testing methodology that is capable of accommodating additional test cycles as needed. Additionally, this SAE Recommended Practice provides five-cycle testing guidelines for vehicles performing supplementary testing on the US06, SC03, and cold FTP procedures. Realistic alternatives should be allowed for new technology. Evaluations are based on the total vehicle system’s performance and not on subsystems apart from the vehicle.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEAIR6811
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Equivalence of Equipment Environmental Qualification Standards for Civil
+    and Military Aircraft Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6811
+- type: src
+  content: https://saemobilus.sae.org/standards/air6811-equivalence-equipment-environmental-qualification-standards-civil-military-aircraft-equipment
+docidentifier:
+- content: SAE AIR6811
+  type: SAE
+  primary: true
+- content: 10.4271/air6811
+  type: DOI
+date:
+- type: approved
+  at: '2021-06-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-4 Electromagnetic Compatibility (EMC) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides guidance for applying aircraft equipment electromagnetic, electrical, and mechanical qualification standards (i.e., DO-160, MIL-STD-461, MIL-STD-704, and MIL-STD-810) to civil aircraft certification intended for military use and for military aircraft equipment installed on civil aircraft. The guidance identifies where the equipment environmental qualification standards meet the intent of both the civil or military aircraft certification requirements. Conversely, the guidance will identify where the equipment environmental qualification standards have differences that do not meet the intent of the civil or military aircraft certification requirements and when these differences matter based on equipment criticality, installation location, and/or other variables.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

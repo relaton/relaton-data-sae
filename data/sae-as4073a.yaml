@@ -1,0 +1,57 @@
+---
+id: SAEAS4073A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Air Cycle Air Conditioning Systems for Military Air Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4073a
+- type: src
+  content: https://saemobilus.sae.org/standards/as4073a-air-cycle-air-conditioning-systems-military-air-vehicles
+docidentifier:
+- content: SAE AS4073A
+  type: SAE
+  primary: true
+- content: 10.4271/as4073a
+  type: DOI
+date:
+- type: approved
+  at: '2018-08-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) defines the requirements for air cycle air conditioning systems used on military air vehicles for cooling, heating, ventilation, and moisture and contamination control. General recommendations for an air conditioning system, which may include an air cycle system as a cooling source, are included in MIL-E-18927E (AS) and JSSG-2009.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Air cycle air conditioning systems include those components which condition high temperature and high pressure air for delivery to occupied and equipment compartments and to electrical and electronic equipment. This document is applicable to open and closed loop air cycle systems. Definitions are contained in &lt;span class="xref"&gt;Section 5&lt;/span&gt; of this document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

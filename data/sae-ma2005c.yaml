@@ -1,0 +1,59 @@
+---
+id: SAEMA2005C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Tube Fittings, Aerospace Fluid Systems, Separable, for 24 Degree Cone,
+    General Specification, Metric (ISO 7169)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma2005c
+- type: src
+  content: https://saemobilus.sae.org/standards/ma2005c-tube-fittings-aerospace-fluid-systems-separable-24-degree-cone-general-specification-metric-iso-7169
+docidentifier:
+- content: SAE MA2005C
+  type: SAE
+  primary: true
+- content: 10.4271/ma2005c
+  type: DOI
+date:
+- type: approved
+  at: '2021-06-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document specifies performance and quality requirements for the qualification and manufacture of 24 degree cone fittings to ensure reliable performance in aircraft hydraulic systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document specifies baseline criteria for the design and manufacture of system fittings that are qualification tested on engines.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document covers fittings of temperature types and pressure classes specified in MA2001.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

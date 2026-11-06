@@ -1,0 +1,61 @@
+---
+id: SAEJ3309_202410
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Tire Pressure and Temperature Monitoring Systems for Trailers under 26000
+    Pounds GVWR
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3309_202410
+- type: src
+  content: https://saemobilus.sae.org/standards/j3309_202410-tire-pressure-temperature-monitoring-systems-trailers-26000-pounds-gvwr
+docidentifier:
+- content: SAE J3309_202410
+  type: SAE
+  primary: true
+- content: 10.4271/j3309_202410
+  type: DOI
+date:
+- type: approved
+  at: '2024-10-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Trailer Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice defines the system and component functions, measurement metrics, and testing methodologies for evaluating the functionality and performance of tire pressure systems for use on trailers under 26000 pounds GVWR within the known operating environments.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is applicable to all towed trailers under 26000 pounds GVWR. Examples of towed trailers are recreational vehicle travel trailers and fifth wheels, utility trailers, cargo trailers, livestock trailers, flatbed trailers, boat trailers, and snowmobile trailers. These trailers can be equipped with one, two, or three axles with each axle supporting either two or four tires.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These systems are recommended to address all tires in service as originally installed on a trailer by the OEM. This recommended practice can also be applied to external TPMS that also cover tow vehicles and trailers simultaneously.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document will focus on tire pressure systems of the monitoring type.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

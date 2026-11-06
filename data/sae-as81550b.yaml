@@ -1,0 +1,58 @@
+---
+id: SAEAS81550B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Insulating Compound, Electrical, Embedding, Reversion Resistant Silicone
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as81550b
+- type: src
+  content: https://saemobilus.sae.org/standards/as81550b-insulating-compound-electrical-embedding-reversion-resistant-silicone
+docidentifier:
+- content: SAE AS81550B
+  type: SAE
+  primary: true
+- content: 10.4271/as81550b
+  type: DOI
+date:
+- type: approved
+  at: '2021-03-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G9 Aerospace Sealing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the requirements for two types of a two-part, transparent, reversion resistant flexible insulating compound, to provide resilient, environmental, and electrical insulation of components in systems in temperature range -85 to 392 °F (-65 to 200 °C). These insulating compounds are intended for embedding, potting or encapsulation of electrical and electronic components in systems where tear resistance is not critical, but their use is not limited to such applications. These transparent compounds allow visual circuit and part identification and facilitate part replacement and repairs. The insulating compound shall cure in sections of unlimited thickness, either exposed to air or completely sealed.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

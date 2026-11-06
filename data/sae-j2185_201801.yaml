@@ -1,0 +1,74 @@
+---
+id: SAEJ2185_201801
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Life Test for Heavy-Duty Storage Batteries (Lead Acid Type only)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2185_201801
+- type: src
+  content: https://saemobilus.sae.org/standards/j2185_201801-life-test-heavy-duty-storage-batteries-lead-acid-type
+docidentifier:
+- content: SAE J2185_201801
+  type: SAE
+  primary: true
+- content: 10.4271/j2185_201801
+  type: DOI
+date:
+- type: approved
+  at: '2018-01-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Starter Battery Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard applies to lead-acid 12 V heavy-duty storage batteries as described in SAE J537 and SAE J930 for uses in starting, lighting and ignition (SLI) applications on motor vehicles and/or off-road machines. These applications have some of the following characteristics:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;High levels of power are required to start the vehicle’s internal combustion engine. The need to supply this power limits the maximum depth of discharge to a fraction of the total capacity of the battery. The battery must be maintained at a charge level sufficient to perform this primary function by vehicle’s voltage-regulated charging system.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The vehicle’s engine powers a voltage regulated charging system that limits the charging voltage when spinning at sufficient speed and when total loads do not exceed its output limits.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The battery is subject to deeper discharging than a typical automotive application as a result of the following conditions:
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;High daily hours of use&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;High numbers of starts per day&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Electrical loads often exceeding charging system output (at idle)&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;Batteries will be classified into two types for this life test. Type 1 applies to BCI group sizes typically with reserve capacity (RC) rating of 250 minutes or less. Type 2 applies to larger batteries typically with reserve capacity greater than 250 minutes.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

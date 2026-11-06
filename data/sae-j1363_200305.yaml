@@ -1,0 +1,56 @@
+---
+id: SAEJ1363_200305
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Capacity Rating--Dumper Body and Trailer Body
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1363_200305
+- type: src
+  content: https://saemobilus.sae.org/standards/j1363_200305-capacity-rating-dumper-body-trailer-body
+docidentifier:
+- content: SAE J1363_200305
+  type: SAE
+  primary: true
+- content: 10.4271/j1363_200305
+  type: DOI
+date:
+- type: approved
+  at: '2003-05-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: MTC1, Earthmoving Machinery
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This SAE Standard applies to dumper bodies as defined in SAE J1016 and dumper trailers as defined in SAE J734.  It is similar to ISO 6483.
+
+    Purpose
+    The purpose of this document is to provide a uniform method for calculating the SAE rated volumetric capacity.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

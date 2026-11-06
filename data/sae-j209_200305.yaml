@@ -1,0 +1,54 @@
+---
+id: SAEJ209_200305
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Instrument Face Design and Location for Construction and Industrial Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j209_200305
+- type: src
+  content: https://saemobilus.sae.org/standards/j209_200305-instrument-face-design-location-construction-industrial-equipment
+docidentifier:
+- content: SAE J209_200305
+  type: SAE
+  primary: true
+- content: 10.4271/j209_200305
+  type: DOI
+date:
+- type: approved
+  at: '2003-05-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: HFTC2, Machine Displays and Symbols
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>The instrument design criteria and grouping described are recommended to manufacturers of construction and industrial equipment for all new designs.
+    Adherence to these recommendations will promote improved performance and ease of machine operation, protect machine and operator, and simplify instrument design and production.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

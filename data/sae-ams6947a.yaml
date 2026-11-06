@@ -1,0 +1,57 @@
+---
+id: SAEAMS6947A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Titanium Alloy, Bars, Wire, Forgings, Rings, and Drawn Shapes 4Al - 2.5V
+    -1.5 Fe Annealed, Heat Treatable
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6947a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6947a-titanium-alloy-bars-wire-forgings-rings-drawn-shapes-4al-25v-15-fe-annealed-heat-treatable
+docidentifier:
+- content: SAE AMS6947A
+  type: SAE
+  primary: true
+- content: 10.4271/ams6947a
+  type: DOI
+date:
+- type: approved
+  at: '2015-07-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G Titanium and Refractory Metals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a titanium alloy in the form of bars, wire, forgings, flash welded rings, drawn shapes 4.000 inches (101.60 mm) and under, and stock for forging, heading, or flash welded rings of any size.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

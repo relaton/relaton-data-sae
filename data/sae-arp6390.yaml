@@ -1,0 +1,61 @@
+---
+id: SAEARP6390
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Location of Crew and Passenger Oxygen Masks, Portable Oxygen System, and
+    Protective Breathing Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6390
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6390-location-crew-passenger-oxygen-masks-portable-oxygen-system-protective-breathing-equipment
+docidentifier:
+- content: SAE ARP6390
+  type: SAE
+  primary: true
+- content: 10.4271/arp6390
+  type: DOI
+date:
+- type: approved
+  at: '2021-08-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Various emergency situations may require the dispensing of oxygen to all occupants of aircraft during flight. During an emergency event, depending on the aircraft operational flight capability, all cabin occupants must be serviced by a mask presentation system connected to an operational oxygen source.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Several regulations specify the functional characteristics and requirements of the oxygen systems for aircraft in support of different missions. These should be referred to for the exact functional performance requirements. It is not the intent of this document to ensure conformance with these regulations, but only to recommend general concepts for the location of the oxygen masks and oxygen system outlets for proper accessibility by the aircraft occupants, whether cabin occupants or crew members. Different requirements may apply when the mission of the pressurized aircraft or the operational altitude of the aircraft is not in excess of FL250. When the aircraft is operating above FL100, oxygen masks, either distributed to each cabin occupant or stowed and readily accessible, must be available in the event of a pressurization failure. Oxygen masks must also be connected to an operational source, available and within easy reach of each seated flight deck crew member and observer.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For unpressurized aircraft, during flight operations above FL125, oxygen masks connected to an operational oxygen source must be available to all occupants.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document defines the accessibility requirements that should be considered in the placement of oxygen masks for presentation to the user and the connections for such oxygen masks to the operational oxygen systems. This is of interest when designing the interior of the aircraft, placing the seats in relationship to such outlets and mask connections, or placing oxygen mask outlets in relation to the seats. The accessibility requirements contained in this document are applicable to installation and arrangement of such equipment in different locations in the aircraft as shown on typical examples of installation areas as shown in &lt;span class="xref"&gt;Figures 3&lt;/span&gt; through &lt;span class="xref"&gt;15&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Furthermore, this document does not discuss operational needs with respect to oxygen supply duration, nor the detail design of portable oxygen system or protective breathing equipment. Please refer to other SAE documents for such information. Portable Oxygen System and Protective Breathing Equipment are to be installed to meet the requirements of 25.1447(c) and 25.1439. Also, if portable oxygen equipment is installed, they need to meet the requirements of 14 CFR Part 25, Section 25.1443(d)&amp;amp; (e).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

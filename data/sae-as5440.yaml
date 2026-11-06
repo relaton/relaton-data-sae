@@ -1,0 +1,51 @@
+---
+id: SAEAS5440
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hydraulic Systems, Aircraft, Design and Installation Requirements For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5440
+- type: src
+  content: https://saemobilus.sae.org/standards/as5440-hydraulic-systems-aircraft-design-installation-requirements
+docidentifier:
+- content: SAE AS5440
+  type: SAE
+  primary: true
+- content: 10.4271/as5440
+  type: DOI
+date:
+- type: approved
+  at: '1998-04-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the design and installation requirements for Types I and II aircraft hydraulic systems.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

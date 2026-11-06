@@ -1,0 +1,56 @@
+---
+id: SAEAS1614
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: COMMERCIAL AIRCRAFT TOWBAR ATTACH FITTING INTERFACE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1614
+- type: src
+  content: https://saemobilus.sae.org/standards/as1614-commercial-aircraft-towbar-attach-fitting-interface
+docidentifier:
+- content: SAE AS1614
+  type: SAE
+  primary: true
+- content: 10.4271/as1614
+  type: DOI
+date:
+- type: approved
+  at: '1981-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Operators of commercial passenger and cargo aircraft in unanimity will request aircraft manufacturers to follow this standard in the design of the nose gear (when towing operations are normally done from the nose gear) in conventional tricycle type landing gears.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

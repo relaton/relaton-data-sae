@@ -1,0 +1,53 @@
+---
+id: SAEAMS4008K
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Sheet and Plate, 1.25Mn - 0.12Cu (3003-H14) Strain Hardened
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4008k
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4008k-aluminum-alloy-sheet-plate-125mn-012cu-3003-h14-strain-hardened
+docidentifier:
+- content: SAE AMS4008K
+  type: SAE
+  primary: true
+- content: 10.4271/ams4008k
+  type: DOI
+date:
+- type: approved
+  at: '2006-10-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers an aluminum alloy in the form of sheet and
+    plate.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAS7229A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Rivets, Steel, Corrosion and Heat Resistant 18Cr - 10.5Ni - 0.70(Cb+Ta)
+    Solution Heat Treated Procurement Specification For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as7229a
+- type: src
+  content: https://saemobilus.sae.org/standards/as7229a-rivets-steel-corrosion-heat-resistant-18cr-105ni-070-cb-ta-solution-heat-treated-procurement-specification
+docidentifier:
+- content: SAE AS7229A
+  type: SAE
+  primary: true
+- content: 10.4271/as7229a
+  type: DOI
+date:
+- type: approved
+  at: '2024-08-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This procurement specification covers aircraft-quality solid rivets and tubular end rivets made from a corrosion-resistant steel of the type identified under the Unified Numbering System as UNS S34700.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

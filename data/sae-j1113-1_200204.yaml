@@ -1,0 +1,58 @@
+---
+id: SAEJ11131_200204
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electromagnetic Compatibility Measurement Procedures and Limits for Components
+    of Vehicles, Boats (up to 15 m), and Machines (Except Aircraft) (50 Hz to 18 GHz)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1113/1_200204
+- type: src
+  content: https://saemobilus.sae.org/standards/j11131_200204-electromagnetic-compatibility-measurement-procedures-limits-components-vehicles-boats-15-m-machines-except-aircraft-50-hz-18-ghz
+docidentifier:
+- content: SAE J1113/1_200204
+  type: SAE
+  primary: true
+- content: 10.4271/j1113/1_200204
+  type: DOI
+date:
+- type: approved
+  at: '2002-04-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard covers the measurement of voltage transient immunity and within the applicable frequency ranges, audio (AF) and radio frequency (RF) immunity, and conducted and radiated emissions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Emissions from intentional radiators are not controlled by this document. (See applicable appropriate regulatory documents.) The immunity of commercial mains powered equipment to over voltages and line transients is not covered by this document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

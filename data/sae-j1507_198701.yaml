@@ -1,0 +1,57 @@
+---
+id: SAEJ1507_198701
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ANECHOIC TEST FACILITY RADIATED SUSCEPTIBILITY 20 MHz TO 18 GHz ELECTROMAGNETIC
+    FIELD
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1507_198701
+- type: src
+  content: https://saemobilus.sae.org/standards/j1507_198701-anechoic-test-facility-radiated-susceptibility-20-mhz-18-ghz-electromagnetic-field
+docidentifier:
+- content: SAE J1507_198701
+  type: SAE
+  primary: true
+- content: 10.4271/j1507_198701
+  type: DOI
+date:
+- type: approved
+  at: '1987-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This information report gives typical requirements for an anechoic chamber in which the system susceptibility of an operating motor vehicle to electromagnetic fields can be determined in the frequency range of 20 MHz to 18 GHz. Because of the large cone sizes required for 20 MHz cut-off, several anechoic facilities have been designed with lower cut-off frequencies of 200 MHz or greater. Testing below cut-off is then accomplished using customized antennas at reduced accuracy. Users should carefully review their testing requirements before undertaking the construction of a test facility the magnitude of an anechoic chamber. Other test approaches include, but are not limited to, open field testing per SAE J1338 and mode stirred reverberation chambers.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

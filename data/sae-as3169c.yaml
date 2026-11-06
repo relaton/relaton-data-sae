@@ -1,0 +1,61 @@
+---
+id: SAEAS3169C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BOLT, MACHINE - DOUBLE HEX EXTENDED WASHER HEAD, CLOSE TOLERANCE SHANK,
+    CORROSION-RESISTANT STEEL (UNS S17400), 140KSI UTS MIN, .3125-24, UNJF-3A
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as3169c
+- type: src
+  content: https://saemobilus.sae.org/standards/as3169c-bolt-machine-double-hex-extended-washer-head-close-tolerance-shank-corrosion-resistant-steel-uns-s17400-140ksi-uts-min-3125-24-unjf-3a
+docidentifier:
+- content: SAE AS3169C
+  type: SAE
+  primary: true
+- content: 10.4271/as3169c
+  type: DOI
+date:
+- type: approved
+  at: '2026-08-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

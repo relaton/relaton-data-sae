@@ -1,0 +1,58 @@
+---
+id: SAEAS4283B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Handles and Attachments for Hand Socket Wrenches
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4283b
+- type: src
+  content: https://saemobilus.sae.org/standards/as4283b-handles-attachments-hand-socket-wrenches
+docidentifier:
+- content: SAE AS4283B
+  type: SAE
+  primary: true
+- content: 10.4271/as4283b
+  type: DOI
+date:
+- type: approved
+  at: '2011-12-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EG-1B Hand Tools Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE International Standard covers handles and attachments for use with sockets and crowfoot wrenches in aerospace applications involving high torque, limited clearances, and generally clean conditions. This document provides additional requirements beyond ASME B107.10 appropriate for aerospace use.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Inclusion of dimensional data in this document is not intended to imply all of the products described therein are stock production sizes. Consumers are requested to consult with manufacturers concerning lists of stock production sizes.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

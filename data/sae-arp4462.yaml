@@ -1,0 +1,57 @@
+---
+id: SAEARP4462
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BARKHAUSEN NOISE INSPECTION FOR DETECTING GRINDING BURNS IN HIGH STRENGTH
+    STEEL PARTS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4462
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4462-barkhausen-noise-inspection-detecting-grinding-burns-high-strength-steel-parts
+docidentifier:
+- content: SAE ARP4462
+  type: SAE
+  primary: true
+- content: 10.4271/arp4462
+  type: DOI
+date:
+- type: approved
+  at: '2010-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS K Non Destructive Methods and Processes Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice covers the procedures and method for establishing acceptance criteria when performing Barkhausen noise testing of surface-hardened steel components to detect grinding burns (metallurgical damage caused by over-heating) in bare or chromium-plated parts.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

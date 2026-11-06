@@ -1,0 +1,57 @@
+---
+id: SAEJ31015_202509
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hardware Protected Security Environment - GlobalPlatform Technologies Information
+    Report
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3101-5_202509
+- type: src
+  content: https://saemobilus.sae.org/standards/j3101-5_202509-hardware-protected-security-environment-globalplatform-technologies-information-report
+docidentifier:
+- content: SAE J3101-5_202509
+  type: SAE
+  primary: true
+- content: 10.4271/j3101-5_202509
+  type: DOI
+date:
+- type: approved
+  at: '2025-09-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Electrical System Security Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of the analysis is on the GlobalPlatform Secure Element (SE) and Trusted Execution Environment (TEE) standard specifications correspondence to SAE J3101 recommended practices. This analysis includes focuses on the platform specifications but not the scope of any future security application/applets. Both of these GlobalPlatform specifications have associated protection profiles to validate compliance, although GlobalPlatform does not currently have any specific SAE J3101 protection profiles. GlobalPlatform has communicated that it is assessing whether or not to develop application-level protection profiles to more explicitly cover the remaining requirements of SAE J3101 in order to allow for standardized testing and certification of complete solutions.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

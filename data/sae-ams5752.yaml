@@ -1,0 +1,59 @@
+---
+id: SAEAMS5752
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Alloy, Corrosion and Heat Resistant
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5752
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5752-alloy-corrosion-heat-resistant
+docidentifier:
+- content: SAE AMS5752
+  type: SAE
+  primary: true
+- content: 10.4271/ams5752
+  type: DOI
+date:
+- type: approved
+  at: '1948-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>1. ACKNOWLEDGMENT: A vendor shall mention this specification number in all
+    quotetione and when acknowledging purchase orders.
+
+    2. FORM: Bars, billets, and forgings.
+
+    3. APPLICATION: Parts and assemblies, such as shafts, buckets, blades, and bolts,
+    requiring high strength and oxidation resistance up to 1400 F.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

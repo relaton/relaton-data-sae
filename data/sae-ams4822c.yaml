@@ -1,0 +1,56 @@
+---
+id: SAEAMS4822C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BEARINGS, LEADED BRONZE 71.5Cu - 25Pb - 3.0Sn Steel Back
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4822c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4822c-bearings-leaded-bronze-715cu-25pb-30sn-steel-back
+docidentifier:
+- content: SAE AMS4822C
+  type: SAE
+  primary: true
+- content: 10.4271/ams4822c
+  type: DOI
+date:
+- type: approved
+  at: '1979-10-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers bearings of a leaded bronze cast on one or both faces of a steel backing.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

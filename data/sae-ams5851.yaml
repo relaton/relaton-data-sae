@@ -1,0 +1,57 @@
+---
+id: SAEAMS5851
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALLOY POWDER, CORROSION AND HEAT RESISTANT 55Ni - 15Cr - 17Co - 5.0Mo -
+    3.5Ti - 4.0Al - 0.025B
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5851
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5851-alloy-powder-corrosion-heat-resistant-55ni-15cr-17co-50mo-35ti-40al-0025b
+docidentifier:
+- content: SAE AMS5851
+  type: SAE
+  primary: true
+- content: 10.4271/ams5851
+  type: DOI
+date:
+- type: approved
+  at: '1977-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat resistant nickel alloy in the form of prealloyed powder.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

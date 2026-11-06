@@ -1,0 +1,56 @@
+---
+id: SAEAMS7733C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Wire, Copper Clad, Round 99Fe - 0.45Mn (0.13C max) Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7733c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7733c-steel-wire-copper-clad-round-99fe-045mn-013c-max-annealed
+docidentifier:
+- content: SAE AMS7733C
+  type: SAE
+  primary: true
+- content: 10.4271/ams7733c
+  type: DOI
+date:
+- type: approved
+  at: '2007-09-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a low-carbon steel in the form of round wire clad with phosphorusdeoxidized copper.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

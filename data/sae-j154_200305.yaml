@@ -1,0 +1,56 @@
+---
+id: SAEJ154_200305
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Operator Space Envelope Dimensions for Off-Road Machines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j154_200305
+- type: src
+  content: https://saemobilus.sae.org/standards/j154_200305-operator-space-envelope-dimensions-off-road-machines
+docidentifier:
+- content: SAE J154_200305
+  type: SAE
+  primary: true
+- content: 10.4271/j154_200305
+  type: DOI
+date:
+- type: approved
+  at: '2003-05-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: HFTC1, Controls, Visibility, Anthropometrics, Accessibility
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This SAE Standard defines the minimum normal operating space envelope for clothed seated (SAE J899 seat configuration) and standing operators (95th percentile operator, SAE J833).
+    This document applies to off-road, self-propelled work machines used in construction, general purpose industrial, agricultural, and forestry as identified in SAE J1116.
+    Purpose
+    This document defines dimensions for the minimum normal operating space envelope around the operator for operator enclosures (cabs, ROPS, FOPS) on off-road machines.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

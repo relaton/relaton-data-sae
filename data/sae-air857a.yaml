@@ -1,0 +1,58 @@
+---
+id: SAEAIR857A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Speed Variation of D-C Motors
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air857a
+- type: src
+  content: https://saemobilus.sae.org/standards/air857a-speed-variation-d-c-motors
+docidentifier:
+- content: SAE AIR857A
+  type: SAE
+  primary: true
+- content: 10.4271/air857a
+  type: DOI
+date:
+- type: approved
+  at: '2017-10-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7A Generators and Controls Motors and Magnetic Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this SAE Aerospace Information Report (AIR) is a review of the factors contributing to speed variation of d-c motors, a presentation of typical data showing speed variation as a function of certain variables for representative motors, and a recommendation of a means of improving communications between motor users and manufacturers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The following analysis is limited to variations in voltage, torque, temperature, and altitude of the same magnitude as in MIL-M-8609.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

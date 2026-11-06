@@ -1,0 +1,57 @@
+---
+id: SAEAIR4906
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Droplet Sizing Instrumentation Used in Icing Facilities
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4906
+- type: src
+  content: https://saemobilus.sae.org/standards/air4906-droplet-sizing-instrumentation-used-icing-facilities
+docidentifier:
+- content: SAE AIR4906
+  type: SAE
+  primary: true
+- content: 10.4271/air4906
+  type: DOI
+date:
+- type: approved
+  at: '2013-04-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9C Aircraft Icing Technology Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;A review of droplet sizing instruments used for icing research is presented. These instruments include the Forward Scattering Spectrometer Probe, the Optical Array Probe, the Phase Doppler Particle Analyzer, the Malvern Particle Size Analyzer, the oil slide technique, and the rotating multicylinder. The report focuses on the theory of operation of these instruments and practical considerations when using them in icing facilities.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

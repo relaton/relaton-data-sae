@@ -1,0 +1,56 @@
+---
+id: SAEMAM5401B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nickel Alloy, Corrosion and Heat Resistant, Investment Castings 62ni 21.5cr
+    9.0mo 3.6cb Vacuum Melted, Vacuum Cast as Cast
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/mam5401b
+- type: src
+  content: https://saemobilus.sae.org/standards/mam5401b-nickel-alloy-corrosion-heat-resistant-investment-castings-62ni-215cr-90mo-36cb-vacuum-melted-vacuum-cast-cast
+docidentifier:
+- content: SAE MAM5401B
+  type: SAE
+  primary: true
+- content: 10.4271/mam5401b
+  type: DOI
+date:
+- type: approved
+  at: '2003-03-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This specification covers a corrosion and heat resistant, vacuum melted, nickel alloy in the form of investment castings.&lt;/p&gt;
+    &lt;p&gt;AMS 5401 is the inch/pound version of this MAM.&lt;/p&gt;
+    &lt;p&gt;These castings have been used typically for structural parts requiring moderate strength up to 870 degrees C and oxidation and corrosion resistance up to 980 degrees C, but usage is not limited to such applications.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEARP868
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PRESSURE DROP TEST FOR FUEL SYSTEM COMPONENTS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp868
+- type: src
+  content: https://saemobilus.sae.org/standards/arp868-pressure-drop-test-fuel-system-components
+docidentifier:
+- content: SAE ARP868
+  type: SAE
+  primary: true
+- content: 10.4271/arp868
+  type: DOI
+date:
+- type: approved
+  at: '1966-06-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5A Aerospace Fuel, Inerting and Lubrication Sys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This method of pressure drop test is applicable to any system component using the appropriate fluid under usage consideration.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

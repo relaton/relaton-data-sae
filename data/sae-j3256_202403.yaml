@@ -1,0 +1,58 @@
+---
+id: SAEJ3256_202403
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Cooperative Driving Automation (CDA) Feature - Infrastructure-Based Prescriptive
+    Cooperative Merge
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3256_202403
+- type: src
+  content: https://saemobilus.sae.org/standards/j3256_202403-cooperative-driving-automation-cda-feature-infrastructure-based-prescriptive-cooperative-merge
+docidentifier:
+- content: SAE J3256_202403
+  type: SAE
+  primary: true
+- content: 10.4271/j3256_202403
+  type: DOI
+date:
+- type: approved
+  at: '2024-03-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Cooperative Driving Automation(CDA) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report describes a concept of operations (CONOPS) for a Cooperative Driving Automation (CDA) Feature for infrastructure-based prescriptive cooperative merge. This work focuses on a Class D (Prescriptive; refer to J3216) CDA infrastructure-based cooperative merge Feature, supported by Class A (Status-Sharing) or Class C (Agreement-Seeking) messages among the merging cooperative automated driving system-operated vehicles (C-ADS-equipped vehicles). This document also provides a test procedure to evaluate this CDA Feature, which is suitable for proof-of-concept testing in both virtual and test track settings.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

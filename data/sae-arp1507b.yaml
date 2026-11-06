@@ -1,0 +1,57 @@
+---
+id: SAEARP1507B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Helicopter Engine/Airframe Interface Document and Checklist
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1507b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1507b-helicopter-engine-airframe-interface-document-checklist
+docidentifier:
+- content: SAE ARP1507B
+  type: SAE
+  primary: true
+- content: 10.4271/arp1507b
+  type: DOI
+date:
+- type: approved
+  at: '2022-06-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-12 Powered Lift Propulsion Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides a guide for the preparation of a helicopter engine/airframe interface document and checklist. This document and checklist should identify the information needed by the engine manufacturer and the aircraft manufacturer to integrate the engine design with the aircraft design and either provide this information or give reference to where this information is located. The intent is to assure that the engine manufacturer and the airframe manufacturer identify and make provision for this information so it can be easily accessible to either manufacturer as needed in the development stages of an engine-airframe integration project.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A related document, SAE Aerospace Information Report AIR6181, provides guidance on creating an interface control document (ICD) which addresses a subset of the aircraft-engine interface information concerning the physical and functional interfaces of the electronic engine control system (EECS) with the aircraft systems. This would include signal interfaces, digital data busses and integrated functionality with the aircraft electronic systems and avionics displays. The engine/airframe interface document should reference this EECS ICD rather than duplicate its information. Similarly, as information is documented in the engine installation manual or engine installation drawings, the engine/airframe interface document should make references to the engine installation manual or engine installation drawings, rather than duplicate the information. Typically, the engine/airframe interface document will be the initial document in the project to capture the interface information which can then transition to referenced information as the engine installation manual, EECS ICD, and engine installation drawings are developed.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

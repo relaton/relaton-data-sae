@@ -1,0 +1,96 @@
+---
+id: SAEJ2937_201604
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Linear Impact Procedure for Occupant Ejection Protection
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2937_201604
+- type: src
+  content: https://saemobilus.sae.org/standards/j2937_201604-linear-impact-procedure-occupant-ejection-protection
+docidentifier:
+- content: SAE J2937_201604
+  type: SAE
+  primary: true
+- content: 10.4271/j2937_201604
+  type: DOI
+date:
+- type: approved
+  at: '2016-04-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Impact and Rollover Test Procedures Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The objective of this document is to enhance the test procedure that is used for ejection mitigation testing per the NHTSA guidelines as mentioned in the FMVSS226 Final Rule document (NHTSA Docket No. NHTSA-2011-0004).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The countermeasure for occupant ejection testing is to be tested with an 18kg mass on a guided linear impactor using the featureless headform specifically designed for ejection mitigation testing.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE does not endorse any particular countermeasure for ejection mitigation testing. However, the document reflects guidelines that should be followed to maintain consistency in the test results. Examples of currently used countermeasures include the Inflatable Curtain airbags and Laminated Glass.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The testing procedure is as follows:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Determine the daylight opening&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Identify target locations per the FMVSS226 Final Rule §5.2
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Target locations for all windows and daylight openings&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Perform the target elimination process&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Reconstitute the targets&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Determine the zero-plane&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;4&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;In case of advanced glazing, determine if the glazing has to be part of the test and pre-brake it at a 75mm offset
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;If yes, than follow the procedure for pre-breaking the laminated glazing&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;5&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Run the test
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;At 5.6m/s with a 1.5s delay&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;At 4.4m/s with a 6.0s delay&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

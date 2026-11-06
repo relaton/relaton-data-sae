@@ -1,0 +1,52 @@
+---
+id: SAECPFC1_07SEBAVG
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: J1349 Certified Power Engine Data for 2.4L World Engine as used in 2007
+    Chrysler Sebring, 2008 Chrysler Sebring Convertible, 2008 Dodge Avenger - Level
+    1
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/cpfc1_07sebavg
+- type: src
+  content: https://saemobilus.sae.org/services/cpfc1_07sebavg-j1349-certified-power-engine-data-24l-world-engine-used-2007-chrysler-sebring-2008-chrysler-sebring-convertible-2008-dodge-avenger-level-1
+docidentifier:
+- content: SAE CPFC1_07SEBAVG
+  type: SAE
+  primary: true
+- content: 10.4271/cpfc1_07sebavg
+  type: DOI
+date:
+- type: approved
+  at: '2014-03-06'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This product includes information on the manufacturer, engine, application,
+    testing location, certified maximum horsepower, certified maximum torque along
+    with the certified curves of horsepower and torque over a wide range of engine
+    RPM speeds.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEJ31611_202409
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Onboard System Requirements for LTE-V2X V2V Safety Communications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3161/1_202409
+- type: src
+  content: https://saemobilus.sae.org/standards/j31611_202409-onboard-system-requirements-lte-v2x-v2v-safety-communications
+docidentifier:
+- content: SAE J3161/1_202409
+  type: SAE
+  primary: true
+- content: 10.4271/j3161/1_202409
+  type: DOI
+date:
+- type: approved
+  at: '2024-09-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: C-V2X Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard specifies system requirements for an onboard vehicle-to-vehicle (V2V) safety communications system for vehicle classes of 2, 3, 4, and 5&lt;span class="xref"&gt;1&lt;/span&gt;, including standards profiles, functional requirements, and performance requirements. The system is capable of transmitting and receiving the SAE J2735-defined basic safety message (BSM) over a PC5 Sidelink V2X (mode 4) communications link as defined in ETSI Release 14&lt;span class="xref"&gt;2&lt;/span&gt;,&lt;span class="xref"&gt;3&lt;/span&gt;. The system uses Institute of Electrical and Electronics Engineers (IEEE) 1609 standards for network and transport layer communciations, as well as security.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

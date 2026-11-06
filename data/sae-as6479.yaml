@@ -1,0 +1,61 @@
+---
+id: SAEAS6479
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Splicer, Fusion, Fiber Optic, Aerospace
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6479
+- type: src
+  content: https://saemobilus.sae.org/standards/as6479-splicer-fusion-fiber-optic-aerospace
+docidentifier:
+- content: SAE AS6479
+  type: SAE
+  primary: true
+- content: 10.4271/as6479
+  type: DOI
+date:
+- type: approved
+  at: '2020-12-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) defines fiber optic fusion splicers acceptable for the installation and repair of fiber optic interconnects in aerospace applications. Two different application environments are defined, depending on whether there is risk of flammable vapor or hazardous atmosphere being present. Equipment suited to flammable or hazardous environments may be over specified for factory, depot, or other relatively safe environments. To address these different application environments, two types of fusion splicer will be specified in applicable detail specifications:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Type I. For hazardous environments specifically including potentially flammable or explosive atmospheres.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Type II. For environments in which it is established that there is no risk of flammable or explosive vapors being present.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

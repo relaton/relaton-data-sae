@@ -1,0 +1,57 @@
+---
+id: SAEAIR737C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AEROSPACE HYDRAULIC AND PNEUMATIC SPECIFICATIONS AND STANDARDS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air737c
+- type: src
+  content: https://saemobilus.sae.org/standards/air737c-aerospace-hydraulic-pneumatic-specifications-standards
+docidentifier:
+- content: SAE AIR737C
+  type: SAE
+  primary: true
+- content: 10.4271/air737c
+  type: DOI
+date:
+- type: approved
+  at: '1971-07-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6 Aerospace Actuation, Control and Fluid Power Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report lists military and industry specifications and standards which are used in aerospace hydraulic and pneumatic systems. It is intended as a supplement to specifications MIL-H-5440 and MIL-P-5518. Only those hardware standards which have been specifically designed for hydraulic or pneumatic use are listed. Revisions and amendments which are current for these specifications and standards are not listed. Order of procedure for the selection of specifications and standards is covered by MIL-STD-143.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

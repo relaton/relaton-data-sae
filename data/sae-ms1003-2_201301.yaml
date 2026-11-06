@@ -1,0 +1,60 @@
+---
+id: SAEMS10032_201301
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Lubricants, Industrial Oils, and Related Products Type D Compressor Oils
+    - Specification - Addendum
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ms1003/2_201301
+- type: src
+  content: https://saemobilus.sae.org/standards/ms10032_201301-lubricants-industrial-oils-related-products-type-d-compressor-oils-specification-addendum
+docidentifier:
+- content: SAE MS1003/2_201301
+  type: SAE
+  primary: true
+- content: 10.4271/ms1003/2_201301
+  type: DOI
+date:
+- type: approved
+  at: '2013-01-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel and Lubricants TC2 Industrial Lubricants
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The Society of Automotive Engineers (SAE) Industrial Lubricants Committee
+    has developed a number of industrial, non-production lubricant performance specifications.
+    \nThe purpose of these voluntary SAE specifications is to:\n\na.\tDefine minimum
+    performance requirements for industrial lubricants.\nb.\tProvide lubricant suppliers
+    with performance targets for a minimum number of key industrial lubricants.\nc.\tImprove
+    the availability of these lubricants to member companies.\nd.\tProvide a plant
+    oriented, user friendly, classification system using common test standards and
+    properties.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

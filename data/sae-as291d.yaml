@@ -1,0 +1,56 @@
+---
+id: SAEAS291D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SURFACE TEXTURE, ROUGHNESS, WAVINESS AND LAY
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as291d
+- type: src
+  content: https://saemobilus.sae.org/standards/as291d-surface-texture-roughness-waviness-lay
+docidentifier:
+- content: SAE AS291D
+  type: SAE
+  primary: true
+- content: 10.4271/as291d
+  type: DOI
+date:
+- type: approved
+  at: '1995-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard provides a method of applying surface roughness, waviness and lay control. The data included herein also covers the method of applying surface roughness symbols and related designations to drawings and specifications of parts when applicable. This standard is based on the Arithmetical Average (AA) method of instrumentation. Data compiled are based on current manufacturing practices. It also includes a summary of data published in the latest issue of the American Standards Association publication ASA B46.1.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

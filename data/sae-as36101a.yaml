@@ -1,0 +1,58 @@
+---
+id: SAEAS36101A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Air Cargo Unit Load Devices – Load Distribution Model
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as36101a
+- type: src
+  content: https://saemobilus.sae.org/standards/as36101a-air-cargo-unit-load-devices-load-distribution-model
+docidentifier:
+- content: SAE AS36101A
+  type: SAE
+  primary: true
+- content: 10.4271/as36101a
+  type: DOI
+date:
+- type: approved
+  at: '2011-09-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) defines an industry agreed reference model for load distribution on air cargo unit load device (ULD) bases, to reflect maximum allowable center of gravity (CG) eccentricity and ensure the maximum allowable area load is not exceeded.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,55 @@
+---
+id: SAEARP755D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Propulsion System Performance Station Designation and Nomenclature
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp755d
+- type: src
+  content: https://saemobilus.sae.org/standards/arp755d-aircraft-propulsion-system-performance-station-designation-nomenclature
+docidentifier:
+- content: SAE ARP755D
+  type: SAE
+  primary: true
+- content: 10.4271/arp755d
+  type: DOI
+date:
+- type: approved
+  at: '2014-02-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-15 Gas Turbine Perf Simulation Nomenclature and Interfaces
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This SAE Aerospace Recommended Practice (ARP) provides performance  station designation and nomenclature systems for aircraft propulsion systems and their derivatives.
+
+    The systems presented herein are for use in all communications concerning propulsion system performance such as computer programs, data reduction, design activities, and published documents.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

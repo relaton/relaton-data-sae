@@ -1,0 +1,59 @@
+---
+id: SAEJ25342BA_5_00
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Pass-Thru Extended Feature - Base Document
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2534-2/ba_5_00
+- type: src
+  content: https://saemobilus.sae.org/standards/j2534-2ba_5_00-pass-thru-extended-feature-base-document
+docidentifier:
+- content: SAE J2534-2/BA_5_00
+  type: SAE
+  primary: true
+- content: 10.4271/j2534-2/ba_5_00
+  type: DOI
+date:
+- type: approved
+  at: '2022-01-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE J2534-1_0500 defines the pass-thru interface requirements for the reprogramming of emission related control modules.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The SAE J2534-2/X_0500 document set adds extensions to the SAE J2534-1_0500 API (version 05.00) specification so that the API can be used for features not covered in the SAE J2534-1_0500 specification. Together, these features provide a comprehensive framework for a common standard, to protect the software investment of the vehicle OEMs and scan tool manufacturers. There is no required for an SAE J2534-2/X_0500 pass-thru interface to be fully compliant with SAE J2534-1_0500. SAE J2534-2/X_0500 interfaces can implement some or all of the features specified in the SAE J2534-2/X_0500 document set.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document must be used in conjunction with the SAE J2534-2/RE_0500 document.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

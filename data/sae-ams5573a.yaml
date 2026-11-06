@@ -1,0 +1,49 @@
+---
+id: SAEAMS5573A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL TUBING, SEAMLESS, CORROSION AND HEAT RESISTANT 17.5Cr - 12.5Ni -
+    2.3Mo (SAE 30316)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5573a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5573a-steel-tubing-seamless-corrosion-heat-resistant-175cr-125ni-23mo-sae-30316
+docidentifier:
+- content: SAE AMS5573A
+  type: SAE
+  primary: true
+- content: 10.4271/ams5573a
+  type: DOI
+date:
+- type: approved
+  at: '1956-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

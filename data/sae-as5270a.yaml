@@ -1,0 +1,64 @@
+---
+id: SAEAS5270A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Bolts, Screws and Studs, Nickel Alloy, UNS N07718 Work-Strengthened, Tensile
+    Strength 220 ksi Procurement Specification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5270a
+- type: src
+  content: https://saemobilus.sae.org/standards/as5270a-bolts-screws-studs-nickel-alloy-uns-n07718-work-strengthened-tensile-strength-220-ksi-procurement-specification
+docidentifier:
+- content: SAE AS5270A
+  type: SAE
+  primary: true
+- content: 10.4271/as5270a
+  type: DOI
+date:
+- type: approved
+  at: '2020-08-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This procurement specification covers bolts, screws, and studs made from a work-strengthened corrosion and heat resistant, age hardenable nickel base alloy of the type identified under the Unified Numbering System as UNS N07718. The following properties are covered:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;220 ksi minimum ultimate tensile strength at room temperature&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;180 ksi minimum ultimate tensile strength at 900 °F&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;114 ksi tension to 11.4 ksi tension fatigue at room temperature&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

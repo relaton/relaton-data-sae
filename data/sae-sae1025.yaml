@@ -1,0 +1,106 @@
+---
+id: SAESAE1025
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Failure Mode and Effects Analysis (FMEA) Includes Criticality Analysis
+    and Design, Supportability, Software, and Process FMEA
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/sae1025
+- type: src
+  content: https://saemobilus.sae.org/standards/sae1025-failure-mode-effects-analysis-fmea-includes-criticality-analysis-design-supportability-software-process-fmea
+docidentifier:
+- content: SAE SAE1025
+  type: SAE
+  primary: true
+- content: 10.4271/sae1025
+  type: DOI
+date:
+- type: approved
+  at: '2025-12-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-41 Reliability
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;FMEA is a systematic approach aimed at identifying and mitigating potential risks in the design, manufacture, and maintenance of a product. Implementing FMEA provides a range of benefits, such as:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Preventing potential failures early in the life cycle.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Identifying risk - establishing clear linkages ensures that no potential failure mode is overlooked across the life cycle of the product.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Improving product safety, reliability, performance, and supportability.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Enhancing collaboration - the framework fosters cross-functional communication, enabling design, manufacturing, and maintenance teams to work in harmony.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Achieving effectiveness - by integrating analyses and plans, organizations can streamline workflows and reduce redundancies.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Reducing costs associated with product failures.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Enhancing customer satisfaction through consistent quality and reliability.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Improving product quality - comprehensive linkage reduces errors and ensures a robust design and manufacturing process.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Providing the basis for developing product support requirements through supportability analysis&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;FMEA is versatile and shall be applied across various dimensions of product and process management. This standard provides terms, definitions, defined data elements, and essential information within each category of FMEA. The are many types of FMEA, but the primary types defined in this standard include:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;DFMEA: Focuses product design deficiencies during the design phase of a product and is updated based on product design changes throughout the life of the product design.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SwFMEA: Addresses risks and issues specific to software during the design phase of a product and is updated based on software changes throughout the life of the product design.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SupFMEA: Evaluates factors affecting product support and maintenance during the design phase of a product and is updated throughout the life of the product design.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;PFMEA: Concentrates on manufacturing and operational processes to identify and mitigate risks during the design phase of a product and is updated based on product or process changes throughout the life of the product design.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Quantitative Criticality Analysis: Focuses on determining the risk of failure based on calculated or estimated failure rates.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;An essential part of the FMEA process is to identify and communicate potential issues that need to be addressed. When significant risks are discovered, it is incumbent on the FMEA team to communicate quickly to key stakeholders so that the project team can address as soon as feasible and not wait until the contracted deliverable is completed. FMEA is a dynamic and living process, the result of which is improved designs, manufacturing processes, and supportability, not forms or databases that are filled out.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard applies to any product, process, or software in all phases of their life cycle. As a standard, this document contains requirements (“shall”) and recommendations (“should”) to guide the user through FMEA methods.&lt;/div&gt;
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

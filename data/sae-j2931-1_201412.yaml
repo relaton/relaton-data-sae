@@ -1,0 +1,74 @@
+---
+id: SAEJ29311_201412
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Digital Communications for Plug-in Electric Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2931/1_201412
+- type: src
+  content: https://saemobilus.sae.org/standards/j29311_201412-digital-communications-plug-electric-vehicles
+docidentifier:
+- content: SAE J2931/1_201412
+  type: SAE
+  primary: true
+- content: 10.4271/j2931/1_201412
+  type: DOI
+date:
+- type: approved
+  at: '2014-12-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report SAE J2931 establishes the requirements for digital communication between Plug-In Electric Vehicles (PEV), the Electric Vehicle Supply Equipment (EVSE) and the utility or service provider, Energy Services Interface (ESI), Advanced Metering Infrastructure (AMI) and Home Area Network (HAN).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This is the third version of this document and completes the effort that specifies the digital communication protocol stack between Plug-in Electric Vehicles (PEV) and the Electric Vehicle Supply Equipment (EVSE). The purpose of the stack outlined in &lt;span class="xref"&gt;Figure 1&lt;/span&gt; and defined by Layers 3 to 6 of the OSI Reference Model (&lt;span class="xref"&gt;Figure 1&lt;/span&gt;) is to use the functions of Layers 1 and 2 specified in SAE J2931/4 and export the functionalities to Layer 7 as specified in SAE J2847/2 (as of August 1, 2012, revision) and SAE J2847/1 (targeting revision at the end of 2012).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Communications between the EVSE and other than PEV entities such as AMI, ESI, HAN, Utility head-end, etc. as shown in &lt;span class="xref"&gt;Figure 2&lt;/span&gt; are outside of the scope of this document. It is presumed that a bridging device will be required to carry PEV information beyond the EVSE and may be collocated with the latter.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The effort continues however, to additional comments and viewpoints, while the task force also continues additional testing and early implementation. Results of this effort will then be incorporated into updates of this document and lead to a republished versions as needed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The SAE J2931 family of documents has been organized into several “slash” subsections:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;This document, SAE J2931/1, defines architecture and general requirements including association, registration, security, and HAN requirements, as well as mapping to other SAE documents.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J2931/2 is under development and is proposed to define a MAC &amp;amp; PHY layer implementation of digital communications using FSK and the SAE J1772™ Pilot wire.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J2931/3 is under development and is proposed to define a MAC &amp;amp; PHY layer implementation of digital communications using NB OFDM and either the SAE J1772™ Pilot wire or mains.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J2931/4 defines the MAC &amp;amp; PHY layer implementation of digital communications using BB OFDM and either the SAE J1772™ Pilot wire or mains.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;Testing and validation of the aforementioned physical layer specifications is ongoing, and it is possible that the results of said testing may preclude one or more of the proposed solutions as unable to meet the technical requirements. Reduction of the available options to a single, worldwide standard remains the long-term goal.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The document mapping of the PEV communication standards are further defined in &lt;span class="xref"&gt;section 4&lt;/span&gt;.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

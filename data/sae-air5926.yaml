@@ -1,0 +1,56 @@
+---
+id: SAEAIR5926
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: White Paper to Support Supersession of MIL-S-8879C With AS8879C
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5926
+- type: src
+  content: https://saemobilus.sae.org/standards/air5926-white-paper-support-supersession-mil-s-8879c-as8879c
+docidentifier:
+- content: SAE AIR5926
+  type: SAE
+  primary: true
+- content: 10.4271/air5926
+  type: DOI
+date:
+- type: approved
+  at: '2018-08-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This paper was prepared to support supersession of MIL-S-8879C with Screw Thread Conformity Task Force selected industry standard AS8879C, published by the Society of Automotive Engineers (SAE). Other documentation changes will be covered by separate papers. Separate papers are anticipated for thread gaging issues, and thread gage calibration procedures. The STC-TF decided that the thread design standard needed to be completed before thread gage definition could be addressed. Thread gage definition has to be known before calibration procedures can be addressed.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

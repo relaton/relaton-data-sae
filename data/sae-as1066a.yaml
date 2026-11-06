@@ -1,0 +1,58 @@
+---
+id: SAEAS1066A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MINIMUM STANDARDS FOR VALVE, HIGH PRESSURE OXYGEN, CYLINDER SHUT OFF, MANUALLY
+    OPERATED
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1066a
+- type: src
+  content: https://saemobilus.sae.org/standards/as1066a-minimum-standards-valve-high-pressure-oxygen-cylinder-shut-off-manually-operated
+docidentifier:
+- content: SAE AS1066A
+  type: SAE
+  primary: true
+- content: 10.4271/as1066a
+  type: DOI
+date:
+- type: approved
+  at: '1996-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard covers all types of manually operated high pressure oxygen, cylinder shut off valves for use in commercial type aircraft. It is intended that the valve shall be attached to a pressure cylinder storing oxygen under pressure of 1800 to 2100 psig at 70 °F. Upon opening the valve, oxygen will be permitted to discharge from the storage cylinder to the valve outlet and thence to other components of the oxygen system. It shall also be possible to recharge the cylinder through the valve.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

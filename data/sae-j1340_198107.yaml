@@ -1,0 +1,59 @@
+---
+id: SAEJ1340_198107
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TEST METHOD FOR MEASURING POWER CONSUMPTION OF AIR CONDITIONING AND AIR
+    BRAKE COMPRESSORS FOR TRUCKS AND BUSES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1340_198107
+- type: src
+  content: https://saemobilus.sae.org/standards/j1340_198107-test-method-measuring-power-consumption-air-conditioning-air-brake-compressors-trucks-buses
+docidentifier:
+- content: SAE J1340_198107
+  type: SAE
+  primary: true
+- content: 10.4271/j1340_198107
+  type: DOI
+date:
+- type: approved
+  at: '1981-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Aerodynamics and Fuel Economy Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The testing techniques outlined in this SAE Recommended Practice were developed as part of an overall program for testing and evaluating fuel consumption of heavy-duty trucks and buses. The technique outlined in this recommended practice provides a general description of the type of equipment and facility which is necessary to determine the power consumption of these engine-driven components.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is recommended that the specific operating conditions suggested throughout the test be carefully reviewed on the basis of actual data obtained on the specific vehicle operation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;If specific vehicle application is not known, see SAE J1343, “Information Relating to Duty Cycles and Average Power Requirements of Truck and Bus Engine Accessories,” &lt;span class="xref"&gt;Section 3&lt;/span&gt;, Air Brake Compressors and &lt;span class="xref"&gt;Section 5&lt;/span&gt;, Air Conditioning Compressor.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

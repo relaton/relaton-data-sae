@@ -1,0 +1,56 @@
+---
+id: SAEJ1547_201807
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electromagnetic Susceptibility Procedures for Common Mode Injection (1
+    - 400 MHz), Module Testing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1547_201807
+- type: src
+  content: https://saemobilus.sae.org/standards/j1547_201807-electromagnetic-susceptibility-procedures-common-mode-injection-1-400-mhz-module-testing
+docidentifier:
+- content: SAE J1547_201807
+  type: SAE
+  primary: true
+- content: 10.4271/j1547_201807
+  type: DOI
+date:
+- type: approved
+  at: '2018-07-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This document establishes a method of determining the relative level of susceptibility of electronic
+    modules and the improvement or degradation which results from design changes to those modules. Further
+    work needs to be done to correlate this module test to whole vehicle coupling in an electromagnetic field.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

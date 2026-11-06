@@ -1,0 +1,48 @@
+---
+id: SAEAS472
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FLANGE-ACCESSORY, 8″ BOLT CIRCLE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as472
+- type: src
+  content: https://saemobilus.sae.org/standards/as472-flange-accessory-8-bolt-circle
+docidentifier:
+- content: SAE AS472
+  type: SAE
+  primary: true
+- content: 10.4271/as472
+  type: DOI
+date:
+- type: approved
+  at: '1957-11-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-1 Engine Accessory Installations Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

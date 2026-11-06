@@ -1,0 +1,59 @@
+---
+id: SAEJ2990_201211
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hybrid and EV First and Second Responder Recommended Practice
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2990_201211
+- type: src
+  content: https://saemobilus.sae.org/standards/j2990_201211-hybrid-ev-first-second-responder-recommended-practice
+docidentifier:
+- content: SAE J2990_201211
+  type: SAE
+  primary: true
+- content: 10.4271/j2990_201211
+  type: DOI
+date:
+- type: approved
+  at: '2012-11-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;xEVs involved in incidents present unique hazards associated with the high voltage system (including the battery system). These hazards can be grouped into 3 categories: chemical, electrical, and thermal. The potential consequences can vary depending on the size, configuration and specific battery chemistry. Other incidents may arise from secondary events such as garage fires and floods. These types of incidents are also considered in the recommended practice (RP). This RP aims to describe the potential consequences associated with hazards from xEVs and suggest common procedures to help protect emergency responders, tow and/or recovery, storage, repair, and salvage personnel after an incident has occurred with an electrified vehicle. Industry design standards and tools were studied and where appropriate, suggested for responsible organizations to implement.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Nickel metal hydride (NiMH) and lithium ion (Li-ion) batteries used for vehicle propulsion power are the assumed battery systems of this RP. These battery chemistries are the prevailing technologies associated with high voltage vehicle electrification today and the foreseeable future. The hazards associated with these specific battery chemistries are addressed in this RP. Other chemistries and alternative propulsion systems including Fuel Cells are not considered in this version of SAE J2990.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,50 @@
+---
+id: SAEAS55061
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'SAE Architecture Analysis and Design Language (AADL) Annex Volume 1:Annex
+    A: Graphical AADL Notation,Annex C: AADL Meta-Model and Interchange Formats,Annex
+    D: Language Compliance and Application Program InterfaceAnnex E: Error Model Annex'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5506/1
+- type: src
+  content: https://saemobilus.sae.org/standards/as55061-sae-architecture-analysis-design-language-aadl-annex-volume-1annex-a-graphical-aadl-notationannex-c-aadl-meta-model-interchange-formatsannex-d-language-compliance-application-program-interfaceannex-e-error-model-annex
+docidentifier:
+- content: SAE AS5506/1
+  type: SAE
+  primary: true
+- content: 10.4271/as5506/1
+  type: DOI
+date:
+- type: approved
+  at: '2011-04-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-2C Architecture Analysis and Design Language
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,70 @@
+---
+id: SAEAIR6190A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Provisions of Medical Oxygen for Aircraft Occupants
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6190a
+- type: src
+  content: https://saemobilus.sae.org/standards/air6190a-provisions-medical-oxygen-aircraft-occupants
+docidentifier:
+- content: SAE AIR6190A
+  type: SAE
+  primary: true
+- content: 10.4271/air6190a
+  type: DOI
+date:
+- type: approved
+  at: '2026-01-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides information on provisions for passengers with disabilities on board commercial aircraft. In this context the term "provision of medical oxygen" shall be understood as application of oxygen on board an aircraft not linked to (post) decompression in the sense of Airworthiness Requirements FAR/CS 25 and Operational Regulations of FAR 121/135.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Information about available equipment and physiological treatment in clinical practice will be provided in this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It covers the use of oxygen concentrators according to guidance of FAR Advisory Circular AC120-95.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

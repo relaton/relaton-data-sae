@@ -1,0 +1,72 @@
+---
+id: SAEAIR5784
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: A Review of Literature on the Relationship Between Gas Turbine Engine Lubricants
+    and Aircraft Cabin Air Quality
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5784
+- type: src
+  content: https://saemobilus.sae.org/standards/air5784-a-review-literature-relationship-gas-turbine-engine-lubricants-aircraft-cabin-air-quality
+docidentifier:
+- content: SAE AIR5784
+  type: SAE
+  primary: true
+- content: 10.4271/air5784
+  type: DOI
+date:
+- type: approved
+  at: '2016-09-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-34 Propulsion Lubricants Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;There has been a recent upsurge in interest from the media concerning the quality of the environment within aircraft cabins and cockpits especially in the commercial world&lt;sup&gt;1-4&lt;/sup&gt;. This has included (although by no means been limited to) the air quality, with particular reference to the alleged effects of contamination from the aircraft turbine lubricant. Possible exposure to ‘organophosphates’ (OPs) from the oil has raised special concerns from cabin crew.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Such is the concern that government organisations around the world, including Australia, USA and UK, have set up committees to investigate the cabin air quality issue. Concern was also voiced in the aviation lubricants world at the way in which OP additives in turbine lubricants were being blamed in some reports for the symptoms being experienced by air crew and passengers. SAE Committee E-34 therefore decided that it should gather as much available information on the subject as possible. This would then enable E-34 to participate in debates on the issue and help prevent a potentially erroneous decision regarding the future of OP based additives in turbine lubricants. It would also serve as an indicator of where any additional work may be necessary to properly gauge the role that turbine lubricants, and OP additives, play in cabin air quality.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This report summarises recent documentation from the literature on this subject. The contents do not necessarily represent the views of the SAE or any of the members of the study group who produced this review.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The literature falls into three categories:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Air quality (&lt;span class="xref"&gt;Section 5&lt;/span&gt;), which includes:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Future systems to improve air quality&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Research plans into investigating cabin air quality&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Chemistry of turbine lubricants, phosphate esters (&lt;span class="xref"&gt;Section 6&lt;/span&gt;), including evaluation of products found in cabin air and thermal breakdown products of lubricants.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Toxicity evaluation of turbine oils and additives (&lt;span class="xref"&gt;Section 7&lt;/span&gt;).&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

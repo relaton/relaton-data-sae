@@ -1,0 +1,56 @@
+---
+id: SAEUSCAR32
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: NEW FINISH DEVELOPMENT DOCUMENT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar32
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar32-new-finish-development-document
+docidentifier:
+- content: SAE USCAR-32
+  type: SAE
+  primary: true
+- content: 10.4271/uscar32
+  type: DOI
+date:
+- type: approved
+  at: '2007-03-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard lists variables that shall be investigated and reported as an initial investigation into new or revised surface finishes intended for use on fasteners. This standard provides instruction for producing a final report that will be used to determine if further investigation of a surface finish is justified. Further investigation may include tests and evaluations specific to an individual OEM prior to introduction/approval of the surface finish. The final report shall include the results, observations, and conclusions for all of the variables. The final report may be made up of several individual reports covering each variable. In all cases the laboratory performing the test, the test date and the report approver shall be included in the final report.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

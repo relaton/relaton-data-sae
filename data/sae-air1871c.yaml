@@ -1,0 +1,60 @@
+---
+id: SAEAIR1871C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Lessons Learned from Developing, Implementing, and Operating a Health Management
+    System for Propulsion and Drive Train Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1871c
+- type: src
+  content: https://saemobilus.sae.org/standards/air1871c-lessons-learned-developing-implementing-operating-a-health-management-system-propulsion-drive-train-systems
+docidentifier:
+- content: SAE AIR1871C
+  type: SAE
+  primary: true
+- content: 10.4271/air1871c
+  type: DOI
+date:
+- type: approved
+  at: '2017-01-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE Aerospace Information Report AIR1871 provides valuable insight into lessons learned in the development, implementation, and operation of various health monitoring systems for propulsion engines and drive train systems. This document provides an overview of the lessons learned for ground-based systems, oil debris monitoring systems, lubrication systems, and Health and Usage Monitoring Systems (HUMS) for military and commercial programs. For each case study, this document presents a brief technical description, the design requirements, accomplishments, lessons learned, and future recommendations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The lessons learned presented in this document represent a fragment of the knowledge gained through experience when developing and implementing a propulsion health management system. Previous versions of this document contain additional lessons learned during the 1980’s and 1990’s that may be of additional value to the reader. This document will be maintained as technology progresses so that industry members may benefit from the lessons learned of others.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

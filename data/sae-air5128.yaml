@@ -1,0 +1,58 @@
+---
+id: SAEAIR5128
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ELECTRICAL BONDING OF AIRCRAFT FUEL SYSTEM PLUMBING SYSTEMS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5128
+- type: src
+  content: https://saemobilus.sae.org/standards/air5128-electrical-bonding-aircraft-fuel-system-plumbing-systems
+docidentifier:
+- content: SAE AIR5128
+  type: SAE
+  primary: true
+- content: 10.4271/air5128
+  type: DOI
+date:
+- type: approved
+  at: '2007-12-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5A Aerospace Fuel, Inerting and Lubrication Sys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) is limited to the subject of aircraft fuel system plumbing systems and the questions concerning the requirements for electrical bonding of the various components of the system as related to Static Electric Charges, Electromagnectic Interference (EMI) and Lightning Strikes (Direct and Indirect Effects)&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

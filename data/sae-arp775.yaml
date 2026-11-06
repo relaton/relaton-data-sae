@@ -1,0 +1,49 @@
+---
+id: SAEARP775
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Test Procedure to Determine Surge Potential of Ground Pressure Fueling
+    Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp775
+- type: src
+  content: https://saemobilus.sae.org/standards/arp775-test-procedure-determine-surge-potential-ground-pressure-fueling-systems
+docidentifier:
+- content: SAE ARP775
+  type: SAE
+  primary: true
+- content: 10.4271/arp775
+  type: DOI
+date:
+- type: approved
+  at: '2002-12-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

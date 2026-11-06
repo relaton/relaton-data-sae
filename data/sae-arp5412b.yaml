@@ -1,0 +1,61 @@
+---
+id: SAEARP5412B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Lightning Environment and Related Test Waveforms
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5412b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5412b-aircraft-lightning-environment-related-test-waveforms
+docidentifier:
+- content: SAE ARP5412B
+  type: SAE
+  primary: true
+- content: 10.4271/arp5412b
+  type: DOI
+date:
+- type: approved
+  at: '2013-01-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-2 Lightning Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The environment and test waveforms defined in this SAE Aerospace Recommended Practice (ARP) account for the best lightning data and analysis currently available. The quantified environment and levels herein represent the minimum currently required by certifying authorities, consistent with the approach applied in related lightning documents.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Lightning, like other weather phenomenon, is probabilistic in nature. Levels and waveforms vary considerably from one flash to the next. Within this document, standardized voltage and current waveforms have been derived to represent the lightning environment external to an aircraft. These standardized waveforms are used to assess the effects of lightning on aircraft. The standardized external current waveforms have in turn been used to derive standardized transient voltage and current test waveforms that can be expected to appear on cable bundles and at equipment interfaces within an aircraft. When deriving these latter internal induced test waveforms, considerations such as testability and important waveform characteristics that can demonstrate lightning design effectiveness, have been taken into account.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The parameters of the standardized waveforms, both external and derived internal induced transients, represent severe versions of each of the characteristics of natural lightning flashes and include all parameters of interest with respect to lightning protection for aircraft. These standardized waveforms are thus referred to as idealized standard lightning environment waveforms, idealized standard waveforms, or just idealized waveforms within this document. The waveforms associated with the external environment are termed, the idealized standard external lightning environment. The waveforms associated with the internal induced environment are termed the idealized standard induced transient waveforms.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In every case more severe versions of each of the individual characteristics of the idealized standard external lightning environment waveforms have been recorded in natural lightning flashes. The more severe individual characteristics of the idealized standard external lightning environment waveforms have never been recorded together within a single lightning flash. Therefore the parameters combined in the idealized standard lightning environment waveforms provided in this document represent a very severe environment.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The waveforms provided in this ARP are considered to be adequate for the demonstration of compliance for the protection of an aircraft and its systems against the lightning environment and should be applied in accordance with the aircraft lightning strike zones (see ARP5414) and test methods (see ARP5416), and applicable FAA and EASA advisory and interpretive material.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

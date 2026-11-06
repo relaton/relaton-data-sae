@@ -1,0 +1,57 @@
+---
+id: SAEAS9000A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Basic Quality System Standard
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9000a
+- type: src
+  content: https://saemobilus.sae.org/standards/as9000a-aerospace-basic-quality-system-standard
+docidentifier:
+- content: SAE AS9000A
+  type: SAE
+  primary: true
+- content: 10.4271/as9000a
+  type: DOI
+date:
+- type: approved
+  at: '2004-02-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>To assure customer satisfaction, aerospace industry manufacturers must
+    produce world class quality products at the lowest possible cost. This document
+    \ standardizes, to the greatest extent possible, the quality system requirements
+    of the aerospace industry. Standardization of compliance requirements results
+    in cost savings due to the elimination or reduction of unique requirements developed
+    for each different customer.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,53 @@
+---
+id: SAEAS5590_A1
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Connectors, Fiber Optic, Advanced, Circular Or Rectangular, Plug and Receptacle,
+    Environment Resistant, Removable Termini, General Specification For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5590_a1
+- type: src
+  content: https://saemobilus.sae.org/standards/as5590_a1-connectors-fiber-optic-advanced-circular-rectangular-plug-receptacle-environment-resistant-removable-termini-general-specification
+docidentifier:
+- content: SAE AS5590_A1
+  type: SAE
+  primary: true
+- content: 10.4271/as5590_a1
+  type: DOI
+date:
+- type: approved
+  at: '2004-07-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>Amendment 1 of AS5590.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

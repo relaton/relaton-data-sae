@@ -1,0 +1,84 @@
+---
+id: SAEMA1370A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Screw Threads - MJ Profile, Metric
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma1370a
+- type: src
+  content: https://saemobilus.sae.org/standards/ma1370a-screw-threads-mj-profile-metric
+docidentifier:
+- content: SAE MA1370A
+  type: SAE
+  primary: true
+- content: 10.4271/ma1370a
+  type: DOI
+date:
+- type: approved
+  at: '2024-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard specifies the characteristics of the MJ profile metric series of screw threads, altered from ISO 68 M Profile, to include a mandatory controlled radius of 0.18042P to 0.15011P at the root of the external thread and with the minor diameter of both external and internal threads increased to provide a basic thread height of 0.5625H in order to accommodate the external thread maximum root radius. The following detailed requirements are included:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;MJ basic profile and design profiles&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Standard series of diameter-pitch combinations for nominal thread diameters from 1.6 to 200 mm&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Standard thread classes and form tolerances&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Formulae for thread dimensions and tolerances&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Method of designating MJ threads&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;f&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Inspection requirement&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;g&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Tables for selected diameter-pitch combinations for aerospace screws, bolts, nuts, shaft and bearing retaining screw threads, and fluid fittings thread sizes&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;h&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Tables for MJ screw threads limiting dimensions and tolerances&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;i&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Symbols for MJ thread dimensions and tolerances&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

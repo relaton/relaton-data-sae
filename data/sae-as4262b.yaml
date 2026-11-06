@@ -1,0 +1,57 @@
+---
+id: SAEAS4262B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Ground Air Conditioning Service Connection
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4262b
+- type: src
+  content: https://saemobilus.sae.org/standards/as4262b-aircraft-ground-air-conditioning-service-connection
+docidentifier:
+- content: SAE AS4262B
+  type: SAE
+  primary: true
+- content: 10.4271/as4262b
+  type: DOI
+date:
+- type: approved
+  at: '2022-09-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) defines interface configurations for the ground air conditioning service connection on commercial transport aircraft. In addition, it defines the clearances required to accommodate the connection of ground air conditioning hose couplings. Two types of service connections are included. The Type A connection (&lt;span class="xref"&gt;Figure 1&lt;/span&gt;) is a slotted ring with integral locking pads and is comparable to the MS33562 connection. The Type B connection (&lt;span class="xref"&gt;Figure 2&lt;/span&gt;) is a flanged tube with external locking lugs (&lt;span class="xref"&gt;Figure 3&lt;/span&gt;). The Type B connection has the same interface dimensional requirements as the Type A connection.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

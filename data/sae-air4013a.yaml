@@ -1,0 +1,58 @@
+---
+id: SAEAIR4013A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Multiplex Data Bus Networks for MIL-STD-1760 Stores
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4013a
+- type: src
+  content: https://saemobilus.sae.org/standards/air4013a-multiplex-data-bus-networks-mil-std-1760-stores
+docidentifier:
+- content: SAE AIR4013A
+  type: SAE
+  primary: true
+- content: 10.4271/air4013a
+  type: DOI
+date:
+- type: approved
+  at: '1998-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1B Aircraft Store Integration Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) will examine network aspects of open and shorted stubs, line reflections and bus loading due to network changes. Single network level is assumed, that is, no carriage store hierarchical levels. However, two passive network coupling variants called "branched bus" and "branched stub" will be introduced that possibly could be used in a stores management network.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This report assumes familiarity with MIL-STD-1553B.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

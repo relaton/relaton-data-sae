@@ -1,0 +1,57 @@
+---
+id: SAEARP4404D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Electrical Installations
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4404d
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4404d-aircraft-electrical-installations
+docidentifier:
+- content: SAE ARP4404D
+  type: SAE
+  primary: true
+- content: 10.4271/arp4404d
+  type: DOI
+date:
+- type: approved
+  at: '2024-10-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8A Elec Wiring and Fiber Optic Interconnect Sys Install
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;It is the purpose of this document to present design recommendations that will provide a basis for satisfactory and safe electrical installations in transport aircraft. This document is not intended to be a complete electrical installation design handbook. However, the requirements for safety extend so thoroughly throughout the electric systems that few areas of the installation are untouched by the document. It is recognized that individual circumstances may alter the details of any design. It is, therefore, important that this document not be considered mandatory but be used as a guide to good electrical application and installation design.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Transport aircraft electric systems have rapidly increased in importance over a number of years until they are now used for many functions necessary to the successful operation of the aircraft. An ever increasing number of these functions are critical to the safety of the aircraft and its occupants. The greatly increased power available in electric systems is another factor in aircraft safety. These considerations make it essential that aircraft electrical design practices be carefully considered from the standpoint of safety and reliability. It is believed that this document will be of value in pointing out potential difficulties and in solving many of the problems.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

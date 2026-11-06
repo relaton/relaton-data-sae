@@ -1,0 +1,70 @@
+---
+id: SAEJ708_200305
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Agricultural Tractor Test Code
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j708_200305
+- type: src
+  content: https://saemobilus.sae.org/standards/j708_200305-agricultural-tractor-test-code
+docidentifier:
+- content: SAE J708_200305
+  type: SAE
+  primary: true
+- content: 10.4271/j708_200305
+  type: DOI
+date:
+- type: approved
+  at: '2003-05-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ATSC Test Standards Subcommittee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>The purpose of this SAE Standard is to define test conditions, give a description of the tests to be made, specify data to be obtained, show formulas and calculations, define terms, and establish a uniform method of reporting so that performance data obtained on various makes and models of tractors, tested in accordance with this document, will be comparable regardless of where the test is made. It is obvious, because of the many present day tractor models available in a number of types with numerous items of special or optional equipment, that the scope of this document must be limited to obtaining and reporting only the most significant of widely used performance data.
+    Outline of Code
+    Section 3 Definitions
+    Section 4 Test Conditions
+    Section 5 Detailed Description of Test Procedure
+    5.1  Preparation of Tractor for Performance Runs
+    5.2  Mechanical Power Outlet Performance
+    5.2.1  Maximum Power Fuel Consumption
+    5.2.2  Varying Power Fuel Consumption
+    5.2.3  Power at Standard Power Take-Off Speed (This run is made only when the engine speed at SAE standard power take-off speed does not correspond to the engine speed at the maximum power run (5.2.1).)
+    5.3  Drawbar Performance
+    5.3.1  Maximum Drawbar Power
+    5.3.2  Varying Drawbar Power Fuel Consumption, Including Sound Level at Operator Station
+    5.3.3  Drawbar Pull Versus Travel Speed
+    5.3.4  Exterior Sound Level
+    Section 6 Final Inspection
+    Section 7 Calculations and Formulas
+    Section 8 Uniform Method of Publishing Results</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

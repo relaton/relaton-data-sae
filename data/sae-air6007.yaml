@@ -1,0 +1,56 @@
+---
+id: SAEAIR6007
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: In-Flight Thrust Determination for Aircraft with Thrust Vectoring
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6007
+- type: src
+  content: https://saemobilus.sae.org/standards/air6007-flight-thrust-determination-aircraft-thrust-vectoring
+docidentifier:
+- content: SAE AIR6007
+  type: SAE
+  primary: true
+- content: 10.4271/air6007
+  type: DOI
+date:
+- type: approved
+  at: '2022-06-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-33 In Flight Propulsion Measurement Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this document is to provide guidance on in-flight thrust determination of engines that are impacted by intentional or unintentional thrust vectoring. However, as indicated in the Foreword, the field of aircraft thrust vectoring is varied and complex. For simplicity and coherence of purpose, this document will be limited in scope to multi-axis thrust vectoring nozzles or vanes attached to the rear of the engine or airfame; single-axis thrust vectoring and unintentional thrust vectoring (fixed shelf or deck configuration) are special cases of this discussion. Specifically excluded from this scope are thrust vectoring created primarily by airframe components such as wing flaps, etc.; lift engines, propulsive fans and thrust augmenting ejectors; and powerplants that rotate or otherwise move with respect to the airframe. Note that thrust reversing, which is also a special case of thrust vectoring (vector angles greater than 90 degrees), is covered by a separate SAE Aerospace Information Report (AIR6064) and will not be covered herein.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEAIR81B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hydrocarbon-Based Hydraulic Fluid Properties
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air81b
+- type: src
+  content: https://saemobilus.sae.org/standards/air81b-hydrocarbon-based-hydraulic-fluid-properties
+docidentifier:
+- content: SAE AIR81B
+  type: SAE
+  primary: true
+- content: 10.4271/air81b
+  type: DOI
+date:
+- type: approved
+  at: '2000-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document discusses the relative merits of the properties of hydrocarbon-based hydraulic fluid in relation to the fluid formulation, aerospace hydraulic system design and the related materials compatibility. In some cases, numerical limits are suggested, but, in general, the effect of a property is noted qualitatively.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The properties of the fluid must be considered in the design of a hydraulic system, but it is possible to design a system to be less sensitive, or more robust, to a particular fluid property. For this reason, the property of the hydraulic fluid must be weighed for each individual hydraulic system, taking into account the system's basic design, function and environment, as well as the fluid toxicity and disposal issues. Besides the hydraulic system itself, ground handling and servicing needs of the system must also be considered.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The only absolute characteristic of a hydraulic fluid is that it be a liquid throughout the range of use. All other fluid properties must be considered in hydraulic system design. See MIL-HDBK-118.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Phosphate ester-based hydraulic fluids, not covered in this document, have some unique properties which need to be considered separately. See AS1241 for information on phosphate ester-based hydraulic fluids.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

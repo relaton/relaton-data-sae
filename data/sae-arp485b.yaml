@@ -1,0 +1,55 @@
+---
+id: SAEARP485B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Temperature Measuring Devices Nomenclature
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp485b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp485b-temperature-measuring-devices-nomenclature
+docidentifier:
+- content: SAE ARP485B
+  type: SAE
+  primary: true
+- content: 10.4271/arp485b
+  type: DOI
+date:
+- type: approved
+  at: '2024-06-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>&lt;p&gt;This SAE Aerospace Recommended Practice (ARP) defines the
+    nomenclature of temperature measuring devices.  General temperature measurement
+    related terms are defined first, followed by nomenclature specifice to temperature
+    measuring devices, particularly thermocouples.&lt;/p&gt;</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

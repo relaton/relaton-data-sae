@@ -1,0 +1,57 @@
+---
+id: SAEARP1953B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Acceptance Test Procedures and Standards to Ensure Clean Fuel System Components
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1953b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1953b-acceptance-test-procedures-standards-ensure-clean-fuel-system-components
+docidentifier:
+- content: SAE ARP1953B
+  type: SAE
+  primary: true
+- content: 10.4271/arp1953b
+  type: DOI
+date:
+- type: approved
+  at: '2020-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5A Aerospace Fuel, Inerting and Lubrication Sys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;To describe general guidelines for achieving selected levels of cleanliness in gas turbine engine fuel system components and to describe laboratory methods for measuring and reporting the contamination level of the wetted portion of fuel system components. As in SAE J1227 (covering hydraulic components) this practice includes guidelines for levels of acceptance but does not attempt to set those levels.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

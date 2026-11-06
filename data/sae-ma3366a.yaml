@@ -1,0 +1,49 @@
+---
+id: SAEMA3366A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BOLT, MACHINE - SPLINE DRIVE EXTENDED WASHER, DRILLED HEAD, FULL SHANK,
+    LONG THREAD, NICKEL ALLOY (UNS N07718), METRIC
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma3366a
+- type: src
+  content: https://saemobilus.sae.org/standards/ma3366a-bolt-machine-spline-drive-extended-washer-drilled-head-full-shank-long-thread-nickel-alloy-uns-n07718-metric
+docidentifier:
+- content: SAE MA3366A
+  type: SAE
+  primary: true
+- content: 10.4271/ma3366a
+  type: DOI
+date:
+- type: approved
+  at: '2021-03-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEJ3303_202510
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Lithium and Lithium-Ion Cell and Battery Containment Performance Recommended
+    Practice
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3303_202510
+- type: src
+  content: https://saemobilus.sae.org/standards/j3303_202510-lithium-lithium-ion-cell-battery-containment-performance-recommended-practice
+docidentifier:
+- content: SAE J3303_202510
+  type: SAE
+  primary: true
+- content: 10.4271/j3303_202510
+  type: DOI
+date:
+- type: approved
+  at: '2025-10-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Battery Transportation and Storage Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Prescribe test conditions to quantify the effectiveness of containment devices for containing thermal runaway hazards of lithium/lithium-ion cells, batteries, and equipment during storage resulting from the failure of a cell within the container. Due to the many storage locations (indoors, outdoors, etc.), the hazards shall be classified individually to allow for varying performance based on a given storage location.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

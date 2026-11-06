@@ -1,0 +1,49 @@
+---
+id: SAEAS3117B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BOLT, MACHINE - HEXAGON HEAD, DRILLED 6 HOLES, PD SHANK, AMS5731, UNS S66286,
+    .375-24 UNJF-3A
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as3117b
+- type: src
+  content: https://saemobilus.sae.org/standards/as3117b-bolt-machine-hexagon-head-drilled-6-holes-pd-shank-ams5731-uns-s66286-375-24-unjf-3a
+docidentifier:
+- content: SAE AS3117B
+  type: SAE
+  primary: true
+- content: 10.4271/as3117b
+  type: DOI
+date:
+- type: approved
+  at: '2020-06-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

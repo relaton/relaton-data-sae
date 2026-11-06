@@ -1,0 +1,68 @@
+---
+id: SAEAMS4532J
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Copper-Beryllium Alloy, Sheet and Strip, 98Cu - 1.9Be, Half Hard (TD02)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4532j
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4532j-copper-beryllium-alloy-sheet-strip-98cu-19be-half-hard-td02
+docidentifier:
+- content: SAE AMS4532J
+  type: SAE
+  primary: true
+- content: 10.4271/ams4532j
+  type: DOI
+date:
+- type: approved
+  at: '2026-02-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers one type of copper-beryllium alloy in the form of sheet and strip up to 0.188 inch (4.78 mm) in nominal thickness (see &lt;span class="xref"&gt;8.7&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

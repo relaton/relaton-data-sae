@@ -1,0 +1,68 @@
+---
+id: SAEAS8993
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Coefficient of Friction Test Method for Aircraft Flooring and Walkway Surfaces
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8993
+- type: src
+  content: https://saemobilus.sae.org/standards/as8993-coefficient-friction-test-method-aircraft-flooring-walkway-surfaces
+docidentifier:
+- content: SAE AS8993
+  type: SAE
+  primary: true
+- content: 10.4271/as8993
+  type: DOI
+date:
+- type: approved
+  at: '2020-04-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-9A Safety Equipment and Survival Systems Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AS provides suitable test methods for measuring the dynamic coefficient of friction ("slip resistance" or "sliding friction") of aircraft flooring and walkway surfaces in accordance with 14 CFR and EASA CS 25.793 and 25.810(c). § 25.793 specifies the areas which are likely to become wet in service must have slip-resistant properties, and § 25.810 specifies an escape route must be established from each overwing emergency exit that is covered with a slip-resistant surface.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

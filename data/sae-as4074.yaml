@@ -1,0 +1,77 @@
+---
+id: SAEAS4074
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Linear Token Passing Multiplex Data Bus
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4074
+- type: src
+  content: https://saemobilus.sae.org/standards/as4074-linear-token-passing-multiplex-data-bus
+docidentifier:
+- content: SAE AS4074
+  type: SAE
+  primary: true
+- content: 10.4271/as4074
+  type: DOI
+date:
+- type: approved
+  at: '1993-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard specifies the characteristics of the SAE Linear Token Passing Bus (LTPB) Interface Unit.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The LTPB provides a high reliability, high bandwidth, low latency serial interconnection network suitable for utilization in real time military and commercial applications. Multiple redundant data paths can be implemented to enhance reliability and survivability in those applications which require these attributes. The token passing and data exchange protocols are optimized to provide low latency and fast failure detection and correction. Physical configurations with bus lengths up to 1000 m can be accommodated.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This specification defines the following:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;General Description (&lt;span class="xref"&gt;3.1&lt;/span&gt;): An overview of the LTPB protocol.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Physical Media Interface (&lt;span class="xref"&gt;3.2&lt;/span&gt;): This portion of the standard defines the physical interface to both optical and electrical bus media.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Access Protocol Definition (&lt;span class="xref"&gt;3.3&lt;/span&gt;): This portion of the standard defines the symbols, frame formats, timing functions and traffic recording requirements of the Token Passing Interface Unit (TPIU).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Network Protocol Definition (&lt;span class="xref"&gt;3.4&lt;/span&gt;): This portion of the standard defines the network control and station management functions.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Test and Verification (&lt;span class="xref"&gt;Section 4&lt;/span&gt;): This paragraph defines the responsibilities and methods for test and verification of the LTPB.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;f&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;TPIU State Machine (&lt;span class="xref"&gt;Section 5&lt;/span&gt;): This section defines the TPIU States and state transition rules.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

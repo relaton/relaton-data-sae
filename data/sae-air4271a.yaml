@@ -1,0 +1,56 @@
+---
+id: SAEAIR4271A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Handbook of System Data Communications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4271a
+- type: src
+  content: https://saemobilus.sae.org/standards/air4271a-handbook-system-data-communications
+docidentifier:
+- content: SAE AIR4271A
+  type: SAE
+  primary: true
+- content: 10.4271/air4271a
+  type: DOI
+date:
+- type: approved
+  at: '2016-10-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Information Report (AIR) has been prepared by the Systems Applications and Requirements Subcommittee of SAE Committee AS-2. It is intended to provide guidance primarily, but not exclusively, for specifiers and designers of data communication systems for real time military avionics applications within a platform. The subject of high speed data transmission is addressed from two standpoints: (1) the influence of developments in technology on avionics architectures as a whole and (2) the way in which specific problems, such as video, voice, closed loop control, and security may be handled. While the material has been prepared against a background of experience within SAE AS-2 relating to the development of a family of high speed interconnect standards, reference to specific standards and interconnect systems is minimized. It should be noted, however, that many of the concepts described require interconnect systems with advanced operational and performance characteristics, such as those developed by SAE AS-2.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

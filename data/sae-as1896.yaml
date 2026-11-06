@@ -1,0 +1,56 @@
+---
+id: SAEAS1896
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: COUPLING ASSEMBLY, SELF-SEALING, ONE SIDE ONLY, HYDRAULIC
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1896
+- type: src
+  content: https://saemobilus.sae.org/standards/as1896-coupling-assembly-self-sealing-one-side-only-hydraulic
+docidentifier:
+- content: SAE AS1896
+  type: SAE
+  primary: true
+- content: 10.4271/as1896
+  type: DOI
+date:
+- type: approved
+  at: '1984-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the requirements for aircraft, hydraulic couplings, self sealing one side only, for use in Type II hydraulic systems (-65°F to +275° temperature range) as defined by MIL-H-5440. The purpose being to connect a hose or tube to a standard MS33656, MS33514 or MIL-F-85421 fitting and provide the self sealing feature on that side only.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

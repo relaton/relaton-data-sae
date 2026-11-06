@@ -1,0 +1,70 @@
+---
+id: SAEARP5376B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Methods, Locations And Criteria For System Sampling And Measuring The Solid
+    Particle Contamination Of Hydraulic Fluids
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5376b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5376b-methods-locations-criteria-system-sampling-measuring-solid-particle-contamination-hydraulic-fluids
+docidentifier:
+- content: SAE ARP5376B
+  type: SAE
+  primary: true
+- content: 10.4271/arp5376b
+  type: DOI
+date:
+- type: approved
+  at: '2010-03-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides procedures for assuring cleanliness of sampling equipment, for performing the sampling process, and for measuring and reporting the sample particle count.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The ARP gives procedures for cleaning sample bottles, when used, and recommends the solvents to be applied and how these solvents should be prepared.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Requirements for the selection of the sampling point, sampling method, and sampling frequency are also specified.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This ARP also recommends three measuring methods for determining the level of solid particle contamination of hydraulic fluids used in aerospace hydraulics. These are:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;on-line automatic particle counting;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;automatic particle counting method using bottle samples;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;microscopic particle count method using bottle samples.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

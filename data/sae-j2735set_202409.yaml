@@ -1,0 +1,57 @@
+---
+id: SAEJ2735SET_202409
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: V2X Communications Message Set Dictionary™ SET File
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2735set_202409
+- type: src
+  content: https://saemobilus.sae.org/standards/j2735set_202409-v2x-communications-message-set-dictionary-set-file
+docidentifier:
+- content: SAE J2735SET_202409
+  type: SAE
+  primary: true
+- content: 10.4271/j2735set_202409
+  type: DOI
+date:
+- type: approved
+  at: '2024-09-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Core Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This set of Abstract Syntax Notation (ASN.1) modules contains the precise definitions of data structures used in the SAE J2735 standard. Using the ASN.1 specification, a compiler tool can produce libraries that enable software applications to use the data structures and produce corresponding encodings (UPER is typically used to encode J2735 messages).&lt;/p&gt;
+    &lt;p&gt;The J2735 Standard specifies a message set, data frames and data elements, specifically for use by V2X applications. Although the scope of the standard is focused on V2X, the message set may also be used in other types wireless communications systems. In some cases the specific requirements for use of messages, data frames and data elements are defined in other standards. Refer to the SAE J2735 standard for more information.&lt;/p&gt;
+    &lt;p&gt;You may also be interested in:&lt;/p&gt;
+    &lt;p&gt;&lt;a href="https://www.sae.org/standards/content/j2735_202409/"&gt;V2X Communications Message Set Dictionary™ the J2735 PDF.&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href="https://www.sae.org/standards/content/j2735_202409/"/&gt;&lt;a href="https://www.sae.org/standards/content/j2735asn_202409/"&gt;V2X Communications Message Set Dictionary™ J2735 ASN File that includes the ASN file (ZIP format) - download purchase only.&lt;/a&gt;&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

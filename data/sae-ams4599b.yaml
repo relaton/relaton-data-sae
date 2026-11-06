@@ -1,0 +1,57 @@
+---
+id: SAEAMS4599B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Sheet, and Plate 6.3Cu - 0.30Mn - 0.06Ti - 0.10V - 0.18Zr
+    Solution and Precipitation Heat Treated (2219 -T81/-T851)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4599b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4599b-aluminum-alloy-sheet-plate-63cu-030mn-006ti-010v-018zr-solution-precipitation-heat-treated-2219-t81-t851
+docidentifier:
+- content: SAE AMS4599B
+  type: SAE
+  primary: true
+- content: 10.4271/ams4599b
+  type: DOI
+date:
+- type: approved
+  at: '2023-05-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of sheet and plate from 0.020 to 6.000 inches (0.51 to 152.40 mm), inclusive, in thickness (see &lt;span class="xref"&gt;8.5&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

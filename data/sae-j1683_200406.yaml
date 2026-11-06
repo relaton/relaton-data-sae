@@ -1,0 +1,54 @@
+---
+id: SAEJ1683_200406
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MS-DOS™ Interface for SAE J1708 Communications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1683_200406
+- type: src
+  content: https://saemobilus.sae.org/standards/j1683_200406-ms-dos-interface-sae-j1708-communications
+docidentifier:
+- content: SAE J1683_200406
+  type: SAE
+  primary: true
+- content: 10.4271/j1683_200406
+  type: DOI
+date:
+- type: approved
+  at: '2004-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;The communication driver described in this SAE Recommended Practice resides on the PC between the SAE J1708 hardware and the individual application programs developed by each supplier. From the perspective of the application program, the SAE J1708 hardware is totally transparent. This means diagnostic programs can operate on any PC using any SAE J1708 adapter hardware. The diagnosic (application) program sees no different from one hardware base to the next. All hardware-specific tasks are handled by this document. This allows for complete portability of software programs. It also guarantees complete functionality from one hardware platform to the next.&lt;/p&gt;
+    &lt;p&gt;The standard presented applies to computer systems that use the MS-DOS operating system. Design standards that contain the same functionality may be defined in the future for other operating systems.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

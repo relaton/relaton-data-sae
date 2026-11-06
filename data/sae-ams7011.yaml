@@ -1,0 +1,57 @@
+---
+id: SAEAMS7011
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electron Beam-Powder Bed Fusion (EB-PBF) Produced Preforms and Parts Titanium
+    Alloy, 6Al - 4V Hot Isostatically Pressed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7011
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7011-electron-beam-powder-bed-fusion-eb-pbf-produced-preforms-parts-titanium-alloy-6al-4v-hot-isostatically-pressed
+docidentifier:
+- content: SAE AMS7011
+  type: SAE
+  primary: true
+- content: 10.4271/ams7011
+  type: DOI
+date:
+- type: approved
+  at: '2022-11-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS AM Additive Manufacturing Metals
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a titanium alloy in the form of preforms and parts produced by electron beam-powder bed fusion (EB-PBF) that are subjected to post-deposition hot isostatic press (HIP). Preforms may require subsequent machining or surface finishing to meet requirements for their intended final part application.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

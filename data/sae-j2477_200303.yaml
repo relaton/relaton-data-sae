@@ -1,0 +1,79 @@
+---
+id: SAEJ2477_200303
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Automotive Austempered Ductile (Nodular) Iron Castings (ADI)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2477_200303
+- type: src
+  content: https://saemobilus.sae.org/standards/j2477_200303-automotive-austempered-ductile-nodular-iron-castings-adi
+docidentifier:
+- content: SAE J2477_200303
+  type: SAE
+  primary: true
+- content: 10.4271/j2477_200303
+  type: DOI
+date:
+- type: approved
+  at: '2003-03-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Automotive Iron and Steel Castings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard covers the mechanical and physical property requirements for Austempered Ductile Iron (ADI) castings used in automotive and allied industries. Specifically covered are:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Hardness&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Tensile Strength&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Yield Strength&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Elongation&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Modulus of Elasticity&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;f&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Impact Energy&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;g&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Microstructure&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;In this document SI units are primary and in-lb units are derived. &lt;span class="xref"&gt;Appendix A&lt;/span&gt; provides general information and related resources on the microstructural, chemical and heat treatment requirements to meet the mechanical properties needed for ADI in particular service conditions and applications.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

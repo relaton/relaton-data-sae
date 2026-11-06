@@ -1,0 +1,52 @@
+---
+id: SAEAMS5502B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Sheet and Strip, Low Heat Resistant (UNS S50100)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5502b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5502b-steel-sheet-strip-low-heat-resistant-uns-s50100
+docidentifier:
+- content: SAE AMS5502B
+  type: SAE
+  primary: true
+- content: 10.4271/ams5502b
+  type: DOI
+date:
+- type: approved
+  at: '1991-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This document was cancelled.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

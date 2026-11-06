@@ -1,0 +1,61 @@
+---
+id: SAEAIR5145
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: DIRECTORY OF DATABASES PART I - WHOLE BODY ANTHROPOMETRY SURVEYS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5145
+- type: src
+  content: https://saemobilus.sae.org/standards/air5145-directory-databases-part-whole-body-anthropometry-surveys
+docidentifier:
+- content: SAE AIR5145
+  type: SAE
+  primary: true
+- content: 10.4271/air5145
+  type: DOI
+date:
+- type: approved
+  at: '1996-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-45 Human Systems Integration
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) lists whole body anthropometric surveys and provides current sources for the survey raw data and summary statistics.&lt;/div&gt;
+
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

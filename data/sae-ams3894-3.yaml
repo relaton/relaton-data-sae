@@ -1,0 +1,57 @@
+---
+id: SAEAMS38943
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GRAPHITE FIBER TAPE AND SHEET Epoxy Resin Impregnated G 150,000 (1034)
+    Tensile, 19,000,000 (131) Modulus, 180 (82)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3894/3
+- type: src
+  content: https://saemobilus.sae.org/standards/ams38943-graphite-fiber-tape-sheet-epoxy-resin-impregnated-g-150000-1034-tensile-19000000-131-modulus-180-82
+docidentifier:
+- content: SAE AMS3894/3
+  type: SAE
+  primary: true
+- content: 10.4271/ams3894/3
+  type: DOI
+date:
+- type: approved
+  at: '1972-11-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P Polymeric Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers one type of epoxy-resin-impregnated graphite fibers in the form of tape and sheet.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

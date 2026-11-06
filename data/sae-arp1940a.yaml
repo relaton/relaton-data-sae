@@ -1,0 +1,55 @@
+---
+id: SAEARP1940A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Solid-State Frequency Converter, 400 Hertz, 3-Phase Output
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1940a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1940a-solid-state-frequency-converter-400-hertz-3-phase-output
+docidentifier:
+- content: SAE ARP1940A
+  type: SAE
+  primary: true
+- content: 10.4271/arp1940a
+  type: DOI
+date:
+- type: approved
+  at: '2012-03-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This specification covers the requirements for solid-state frequency converters with 480 (or 380) V 3-phase, 60 (or 50) Hz input and 115/200V, 3-phase, 400 Hz output capable of powering aircraft type loads requiring MIL-STD-704D quality power.
+
+    The frequency converter shall be a  self-contained unit suitable for the environment of intended use. Typical applications include dedicated use at passenger loading bridges (mounted under the bridge in telescoping bridge applications or fixed installation at base of stationary type loading bridges) with weatherproof enclosures or hangar/lab use where indoor fixed or portable units can be used.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

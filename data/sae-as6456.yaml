@@ -1,0 +1,56 @@
+---
+id: SAEAS6456
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Analog Fiber Optic Link
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6456
+- type: src
+  content: https://saemobilus.sae.org/standards/as6456-aerospace-analog-fiber-optic-link
+docidentifier:
+- content: SAE AS6456
+  type: SAE
+  primary: true
+- content: 10.4271/as6456
+  type: DOI
+date:
+- type: approved
+  at: '2018-01-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) defines the parameters that describe the performance of an analog link transported over an optical fiber interconnect system suitable for aerospace applications.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

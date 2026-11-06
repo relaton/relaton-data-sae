@@ -1,0 +1,56 @@
+---
+id: SAEAIR36105
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Air Cargo Unit Load Devices - Reference Standards
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air36105
+- type: src
+  content: https://saemobilus.sae.org/standards/air36105-air-cargo-unit-load-devices-reference-standards
+docidentifier:
+- content: SAE AIR36105
+  type: SAE
+  primary: true
+- content: 10.4271/air36105
+  type: DOI
+date:
+- type: approved
+  at: '2011-04-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The present Aerospace Information Report (AIR) provides a list of the main government regulations, SAE and international standards, and standing industry recommendations applying to air cargo unit load devices (pallets, nets and containers) to be loaded with either baggage or freight on board civil transport aircraft.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

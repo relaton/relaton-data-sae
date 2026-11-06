@@ -1,0 +1,71 @@
+---
+id: SAEJA1020_202603
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Safety and Cybersecurity Recommendations for the Use of the Rust Language
+    in Critical Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ja1020_202603
+- type: src
+  content: https://saemobilus.sae.org/standards/ja1020_202603-safety-cybersecurity-recommendations-use-rust-language-critical-systems
+docidentifier:
+- content: SAE JA1020_202603
+  type: SAE
+  primary: true
+- content: 10.4271/ja1020_202603
+  type: DOI
+date:
+- type: approved
+  at: '2026-03-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Functional Safety Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides guidance to using Rust in critical and safety-related software. The document summarizes how the usage of Rust supports in arguing safety according to ISO 26262 or RTCA DO-178C combined with RTCA DO-332. Cybersecurity best practices are referenced as these requirements largely overlap with those implemented for safety.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;As the Rust language is still evolving, this document targets the 2021 and 2024 editions of the language. Older or newer editions might require additional or changed rules and guidelines. Generally, the newest available edition of the language should be selected as newer editions remove ambiguities and outdated parts from the language.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

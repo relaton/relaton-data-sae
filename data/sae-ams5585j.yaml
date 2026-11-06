@@ -1,0 +1,57 @@
+---
+id: SAEAMS5585J
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Alloy, Corrosion and Heat Resistant, Welded Tubing 32Fe - 21Cr -
+    20Ni - 20Co - 3Mo - 2.5W - 1.0Cb (Nb) - 0.15N Solution Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5585j
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5585j-steel-alloy-corrosion-heat-resistant-welded-tubing-32fe-21cr-20ni-20co-3mo-25w-10cb-nb-015n-solution-heat-treated
+docidentifier:
+- content: SAE AMS5585J
+  type: SAE
+  primary: true
+- content: 10.4271/ams5585j
+  type: DOI
+date:
+- type: approved
+  at: '2021-11-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat resistant alloy in the form of welded and drawn tubing.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,48 @@
+---
+id: SAEAS9956
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PACKING, PREFORMED - AMS 3668, SEAL
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9956
+- type: src
+  content: https://saemobilus.sae.org/standards/as9956-packing-preformed-ams-3668-seal
+docidentifier:
+- content: SAE AS9956
+  type: SAE
+  primary: true
+- content: 10.4271/as9956
+  type: DOI
+date:
+- type: approved
+  at: '2007-06-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C2 Seals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

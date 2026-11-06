@@ -1,0 +1,56 @@
+---
+id: SAEEIA4900
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Use of Semiconductor Devices Outside Manufacturers' Specified Temperature
+    Ranges
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/eia4900
+- type: src
+  content: https://saemobilus.sae.org/standards/eia4900-use-semiconductor-devices-outside-manufacturers-specified-temperature-ranges
+docidentifier:
+- content: SAE EIA-4900
+  type: SAE
+  primary: true
+- content: 10.4271/eia4900
+  type: DOI
+date:
+- type: approved
+  at: '2016-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: APMC Avionics Process Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This document prescribes processes for using semiconductor devices in wider temperature ranges than those specified by the device manufacturer.  It applies to any designer or manufacturer of equipment intended to operate under conditions tht require semiconductor devices to function in temperature ranges beyond those for which the devices are marketed.
+
+    This document is intended for applications in which only the performance of the device is an issue.  Even though the device is used at wider temperatures, the wider temperatures will be limited to those that do not compromise the system performance or application-specific reliability of the device in the application.  Specifically, this document is not intended for applications that require the device to function at an operating or environmental stress level that significantly increases the risk of catastrophic device failure, loss of equipment function, or unstable operation of the device.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

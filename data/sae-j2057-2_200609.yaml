@@ -1,0 +1,59 @@
+---
+id: SAEJ20572_200609
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Class A Multiplexing Actuators
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2057/2_200609
+- type: src
+  content: https://saemobilus.sae.org/standards/j20572_200609-class-a-multiplexing-actuators
+docidentifier:
+- content: SAE J2057/2_200609
+  type: SAE
+  primary: true
+- content: 10.4271/j2057/2_200609
+  type: DOI
+date:
+- type: approved
+  at: '2006-09-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Architecture For Data Communications Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The Class A Task Force of the Vehicle Network for Multiplex and Data Communications Committee is publishing this SAE Information Report to provide insight into Class A Multiplexing. Multiplexed actuators are generally defined as devices which accept information from the multiplexed bus. A multiplexed actuator can be an output device controlled by the operator or an intelligent controller. A Multiplex actuator can also be a display device that reports the status of a monitored vehicle function. This document is intended to help the network system engineers and is meant to stimulate the design thought process.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A list of multiplexed actuator examples is provided in &lt;span class="xref"&gt;Appendix A&lt;/span&gt;, &lt;span class="xref"&gt;Figure A1&lt;/span&gt;. Many other examples can be it identified.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEAIR1706A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: THE ADVANCED ENVIRONMENTAL CONTROL SYSTEM (AECS) COMPUTER PROGRAM FOR STEADY
+    STATE ANALYSIS AND PRELIMINARY SYSTEM SIZING
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1706a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1706a-advanced-environmental-control-system-aecs-computer-program-steady-state-analysis-preliminary-system-sizing
+docidentifier:
+- content: SAE AIR1706A
+  type: SAE
+  primary: true
+- content: 10.4271/air1706a
+  type: DOI
+date:
+- type: approved
+  at: '1986-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Many different computer programs have been developed to determine performance capabilities of aircraft environmental control systems, and to calculate size and weight tradeoffs during preliminary design. Many of these computer programs are limited in scope to a particular arrangement of components for a specific application. General techniques, providing flexibility to handle varied types of ECS configurations and different requirements (i.e., during conceptual or preliminary design, development, testing, production, and operation) are designated "company proprietary" and are not available for industry-wide use.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document describes capabilities, limitations, and potentials of a particular computer program which provides a general ECS analysis capability, and is available for use in industry. This program, names AECS&lt;span class="xref"&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/span&gt;, was developed under the sponsorship of the U.S. Air Force Flight Dynamics Laboratory (References 1 and 2).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The basic operating modes and organizations of the program are described. Methods of problem definition, data inputs and outputs, control options, and computer system are discussed. The program's key capabilities and limitations, and recommendations for future improvements in AECS to facilitate its use as an industry-wide acceptable method for analysis, are also discussed.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

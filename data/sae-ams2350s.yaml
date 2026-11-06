@@ -1,0 +1,56 @@
+---
+id: SAEAMS2350S
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STANDARDS AND TEST METHODS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2350s
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2350s-standards-test-methods
+docidentifier:
+- content: SAE AMS2350S
+  type: SAE
+  primary: true
+- content: 10.4271/ams2350s
+  type: DOI
+date:
+- type: approved
+  at: '1971-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;To establish the issue of specifications, standards, and recommended practices published by standardizing agencies other than divisions and committees of the Aerospace Council of the Society of Automotive Engineers, Inc. approved for use in determining conformance to requirements of Aerospace Material Specifications (AMS), Aerospace Material Documents (AMD), and other specifications in which this specification is referenced.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

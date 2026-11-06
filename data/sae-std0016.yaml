@@ -1,0 +1,57 @@
+---
+id: SAESTD0016
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standard for Preparing a DMSMS Management Plan
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/std0016
+- type: src
+  content: https://saemobilus.sae.org/standards/std0016-standard-preparing-a-dmsms-management-plan
+docidentifier:
+- content: SAE STD0016
+  type: SAE
+  primary: true
+- content: 10.4271/std0016
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: APMC Avionics Process Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document defines the requirements for developing a DMSMS Management Plan, hereinafter also called the Plan, to assure customers that the Plan owner is using a proactive DMSMS process for minimizing the cost and impact that part and material obsolescence will have on equipment delivered by the Plan owner. The technical requirements detailed in clause &lt;span class="xref"&gt;5&lt;/span&gt; ensure that the Plan owner can meet the requirement of having a process to address obsolescence as required by Industry Standards such as EIA-4899 “Standard for Preparing an Electronic Components Management Plan” and DoD Programs as required by MIL-STD-3018 “Parts Management”.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Owners of DMSMS Management Plans include System Integrators, Original Equipment Manufacturers (OEM), and logistics support providers.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,60 @@
+---
+id: SAEJ20561_199306
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CLASS C APPLICATION REQUIREMENT CONSIDERATIONS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2056/1_199306
+- type: src
+  content: https://saemobilus.sae.org/standards/j20561_199306-class-c-application-requirement-considerations
+docidentifier:
+- content: SAE J2056/1_199306
+  type: SAE
+  primary: true
+- content: 10.4271/j2056/1_199306
+  type: DOI
+date:
+- type: approved
+  at: '1993-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Architecture For Data Communications Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice will focus on the requirements of Class C applications. The requirements for these applications are different from those required for either Class A or Class B applications. An overall example system is provided for consistency of discussion.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Figure 1&lt;/span&gt; is a block diagram of a typical network node. The hardware and software for both the communication interface and the application itself are shown. For the purposes of this discussion the communication hardware and software will be considered as the communication interface. This paper will discuss the requirements for the communication interface (both hardware and software) without necessarily determining whether it will be accomplished by hardware or software. This choice is left as a subsequent trade-off. Thus requirements are presented from the perspective of the application.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The examples provided are for discussion purposes only and are in no way intended to be an endorsement or recommendation of how a specific application should be designed.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,62 @@
+---
+id: SAEARP6538
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Dynamic Modeling of Aerospace Systems (DyMAS)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6538
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6538-dynamic-modeling-aerospace-systems-dymas
+docidentifier:
+- content: SAE ARP6538
+  type: SAE
+  primary: true
+- content: 10.4271/arp6538
+  type: DOI
+date:
+- type: approved
+  at: '2018-05-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7M Aerospace Model Based Engineering
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The objective of this document is to provide a recommended practice for the development of aerospace EPS dynamic models so that models developed by different companies/industries/governments/etc. will have a basic level of compatibility and interconnectivity. This will be crucial as the aerospace industry looks to solve the challenges of the 21&lt;sup&gt;st&lt;/sup&gt; century through integrated vehicle optimization.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document focuses on model interfaces and their interconnection. Other than these boundary characteristics, this document does not attempt to describe or regulate the inner workings of individual component models.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;AIR6326 defines the four-level paradigm for aircraft EPS MSAT studies. Of the four levels, Device Physical, Behavioral, Functional, and Architectural, only the first three are dynamic models. Further, the Device Physical level is too detailed and not intended to be interconnected to other EPS models. Thus, only the middle two levels – Behavioral and Functional – will be covered by this document. Real-time models are a fast subset contained within these two levels, and these will be addressed here as well.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Functional models capture EPS component performance over an entire flight or long portions of the flight. These models might include behavior of ground preparations, startup/warm up, taxi, takeoff/climb, cruise, and descent, for example. These models require lower fidelity than behavioral ones, and are intended to address overall system-level considerations. Real-time models are a subset of functional models that are typically used in hardware-in-the-loop (HIL) studies to establish relevant boundary conditions for hardware under test. They are dynamic models that must be as fast as or faster than real time at every time step; practically, this restricts real-time models to the functional level, although future increases in computational speed may one day make it possible to create real-time-capable behavioral models.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Behavioral models capture EPS component performance within considerably shorter time periods than functional models. They are generally used to investigate short-term (i.e., microsecond scale) transient behavior. Thus, they must simulate physical phenomena at much higher bandwidth (i.e., higher frequencies) than functional models. Consequently, they require a high level of fidelity and run much more slowly than functional models.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Since every model development team has its own set of goals, processes, and legacy codes, it is perhaps inappropriate and certainly infeasible to impose hard requirements for all models. Thus, rather than define a rigid framework that must be followed, this document provides a structured set of guidelines that, if followed, lay a foundation for the successful interconnection and integration of numerous disparate models.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

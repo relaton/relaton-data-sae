@@ -1,0 +1,86 @@
+---
+id: SAEJ2617_201108
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Recommended Practice for Testing Performance of PEM Fuel Cell Stack Sub-system
+    for Automotive Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2617_201108
+- type: src
+  content: https://saemobilus.sae.org/standards/j2617_201108-recommended-practice-testing-performance-pem-fuel-cell-stack-sub-system-automotive-applications
+docidentifier:
+- content: SAE J2617_201108
+  type: SAE
+  primary: true
+- content: 10.4271/j2617_201108
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Cell Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice is intended to serve as a procedure to verify the functional performance, design specifications or vendor claims of any PEM (Proton Exchange Membrane) type fuel cell stack sub-system for automotive applications. In this document, definitions, specifications, and methods for the functional performance characterization of the fuel cell stack sub-system are provided. The functional performance characterization includes evaluating electrical outputs and controlling fluid inputs and outputs based on the test boundary defined in this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In this document, a fuel cell stack sub-system is defined to include the following:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Fuel cell stack(s) – An assembly of membrane electrode assemblies (MEA), current collectors, separator plates, cooling plates, manifolds, and a supporting structure.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Connections for conducting fuels, oxidants, cooling media, inert gases and exhausts.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Electrical connections for the power delivered by the stack sub-system.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Devices for monitoring electrical loads.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Devices for monitoring cell voltage.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Humidification devices.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Instrumentation for detecting normal and/or abnormal operating conditions.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Enclosures (that may qualify as pressure vessels), and ventilation systems for the enclosure.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;Not included in the sub-system are the following:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Fuel and air processors&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Thermal management system&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Power conditioner and distributor&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Controllers&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,49 @@
+---
+id: SAEAS9209C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BOLT, MACHINE - STEEL, DIFFUSED NICKEL-CADMIUM PLATED, DOUBLE HEXAGON EXTENDED
+    WASHER HEAD, UNS K14675, 195 KSI MIN, .2500-28 UNJF-3A
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9209c
+- type: src
+  content: https://saemobilus.sae.org/standards/as9209c-bolt-machine-steel-diffused-nickel-cadmium-plated-double-hexagon-extended-washer-head-uns-k14675-195-ksi-min-2500-28-unjf-3a
+docidentifier:
+- content: SAE AS9209C
+  type: SAE
+  primary: true
+- content: 10.4271/as9209c
+  type: DOI
+date:
+- type: approved
+  at: '2012-01-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

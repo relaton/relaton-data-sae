@@ -1,0 +1,57 @@
+---
+id: SAEARP6621
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Predicting Photometric Degradation of Exterior Aircraft Lights
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6621
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6621-predicting-photometric-degradation-exterior-aircraft-lights
+docidentifier:
+- content: SAE ARP6621
+  type: SAE
+  primary: true
+- content: 10.4271/arp6621
+  type: DOI
+date:
+- type: approved
+  at: '2025-09-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20B Exterior Lighting Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice provides guidance for designers and specifiers of aircraft exterior lighting. Typical causes of light degradation and methods of predicting performance degradation in the aircraft environment are given. Although the document considers only exterior lighting, many of the principles and methods discussed apply to interior or flight deck lighting as well.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

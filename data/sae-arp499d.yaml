@@ -1,0 +1,68 @@
+---
+id: SAEARP499D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Interior Doors
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp499d
+- type: src
+  content: https://saemobilus.sae.org/standards/arp499d-interior-doors
+docidentifier:
+- content: SAE ARP499D
+  type: SAE
+  primary: true
+- content: 10.4271/arp499d
+  type: DOI
+date:
+- type: approved
+  at: '2026-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-9B Cabin Interiors and Furnishings Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Aerospace Recommended Practice (ARP) is to provide recommendations which will lead to the standardization of interior door design and operation in all transport aircraft. Interior doors are broadly classified into two main categories which include egress path doors and non-egress path doors. The scope of this ARP does not include crew rest doors, secondary barriers to the flight deck, or doors incorporated in furniture surrounding passenger seats as defined in AS6960.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

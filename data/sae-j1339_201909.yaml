@@ -1,0 +1,61 @@
+---
+id: SAEJ1339_201909
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Test Method for Measuring Performance of Engine Cooling Fans
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1339_201909
+- type: src
+  content: https://saemobilus.sae.org/standards/j1339_201909-test-method-measuring-performance-engine-cooling-fans
+docidentifier:
+- content: SAE J1339_201909
+  type: SAE
+  primary: true
+- content: 10.4271/j1339_201909
+  type: DOI
+date:
+- type: approved
+  at: '2019-09-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Cooling Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice is intended for use in testing and evaluating the approximate performance of engine-driven cooling fans. This performance would include flow, pressure, and power. This flow and pressure information is used to estimate the engine cooling performance. This power consumption is used to estimate net engine power per SAE J1349. The procedure also provides a general description of equipment necessary to measure the approximate fan performance.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The test conditions in the procedure generally will not match those of the installation for which cooling and fuel consumption information is desired. The performance of a given fan depends on the geometric details of the installation, including the shroud and its clearance. These details should be duplicated in the test setup if accurate performance measurement is expected. The performance at a given air density and speed also depends on the volumetric flow rate, or the pressure rise across the fan, since these two parameters are mutually dependent. These parameters depend on the pressure drop across the radiator core and the ram pressure due to vehicle motion. For these reasons, the test procedure should be recognized as providing only an approximate measure of installed fan performance.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Although the test procedure is based on running the fan with a motoring dynamometer, the actual installation can be used as a test fixture if an accurate torque meter is available. In this case, the same qualifications discussed apply.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For the effect of a fan clutch in reducing fan use and power consumption, which is not a part of this procedure, refer to SAE J1342.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Performance testing of electric cooling fan assemblies is covered in SAE J2867.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

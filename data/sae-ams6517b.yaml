@@ -1,0 +1,57 @@
+---
+id: SAEAMS6517B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Bars, and Forgings 3.5Cr - 9.5Ni - 18Co - 1.1Mo (0.13 - 0.17C) Double
+    Vacuum Melted, Normalized, Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6517b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6517b-steel-bars-forgings-35cr-95ni-18co-11mo-013-017c-double-vacuum-melted-normalized-annealed
+docidentifier:
+- content: SAE AMS6517B
+  type: SAE
+  primary: true
+- content: 10.4271/ams6517b
+  type: DOI
+date:
+- type: approved
+  at: '2019-10-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a premium aircraft-quality alloy steel in the form of bars, forgings, and forging stock.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,52 @@
+---
+id: SAEAMS7474C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Bolts and Screws, Steel, Corrosion Resistant
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7474c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7474c-bolts-screws-steel-corrosion-resistant
+docidentifier:
+- content: SAE AMS7474C
+  type: SAE
+  primary: true
+- content: 10.4271/ams7474c
+  type: DOI
+date:
+- type: approved
+  at: '1993-10-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>1. ACKNOWLEDGMENT; A vendor shall mention this specification number in all quotations and when.
+    acknowledging purchase orders.
+
+    2. APPLICATION: Bolts and screws for tension applications requiring corrosion resistance and high
+    strength at temperatures up to 600 F(316 C).</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

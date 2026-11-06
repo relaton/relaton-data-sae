@@ -1,0 +1,71 @@
+---
+id: SAEARP5890B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guidelines for Preparing Reliability Assessment Plans for Electronic Engine
+    Controls
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5890b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5890b-guidelines-preparing-reliability-assessment-plans-electronic-engine-controls
+docidentifier:
+- content: SAE ARP5890B
+  type: SAE
+  primary: true
+- content: 10.4271/arp5890b
+  type: DOI
+date:
+- type: approved
+  at: '2018-05-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-36 Electronic Engine Controls Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document establishes guidelines for a Reliability Assessment Plan (herein also called the Plan), in which Electronic Engine Control manufacturers document their controlled, repeatable processes for assessing reliability of their products. Each Electronic Engine Control manufacturer (the Plan owner) prepares a Plan, which is unique to the Plan owner.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document describes processes that are intended for use in assessing the reliability of Electronic Engine Controls, or subassemblies thereof. The results of such assessments are intended for use as inputs to safety analyses, certification analyses, equipment design decisions, system architecture selection and business decisions such as warranties or maintenance cost guarantees.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This Guide may be used to prepare plans for reliability assessment of electronic engine controls in which, typically, the impact of failure is high, the operating environment can be relatively severe and the opportunity to improve the equipment after the start of production is limited. In this and similar industries, accurate estimates of expected equipment reliability are necessary prior to the start of production. This guide was initially produced in response to the recognized need for alternative reliability assessment and prediction methods in the wake of the decline in the availability of mil-spec parts and the declining use of military specifications and handbooks.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Since the original publication of this document, a more advanced approach to handbook prediction has been developed, re-introducing this assessment method as a more viable option. This re-issue describes recent handbook advances while also highlighting a number of emerging reliability risks resulting from advances in electronic component development.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The approach to reliability assessment in this Guide:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Encourages the equipment manufacturer (the Plan owner) to consider all relevant information regarding equipment reliability which may include the effects of design and manufacturing process as well as component selection issues. This is in contrast to more traditional methods that focus on component reliability as the most significant contributor to the equipment reliability.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Encourages the equipment manufacturer to define and use the processes that are most effective for the manufacturer’s own equipment. This guide does not attempt to prescribe a set of acceptable data, algorithms, methods, or equations to be used in reliability assessment, but rather to provide a ‘toolbox’ of complementary assessment methodologies based upon a number of current practices.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Describes a continuous process, in which a reliability assessment can be updated as more information becomes available during the equipment life cycle. This information may be used to improve both the reliability of the equipment and the effectiveness of the assessment process.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;Reliability assessment results should be viewed as objective evidence that it is expected the product reliability requirements and goals will be satisfied, by the proposed design. As such, they may be used, for example, to authorize advancement to the next step in product development, or to authorize progress payments, or to proceed with delivery and acceptance of products. Reliability assessment results should never be used to support a claim that the reliability requirements, goals, or expectations have been satisfied, in the face of clear evidence to the contrary from in-service experience.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Traditional approaches to reliability assessment, including Handbook Predictions and Durability Analysis described herein, primarily address unreliability resulting from hardware defects within the equipment. It is not the intention of the ARP to provide methods and processes to specifically address software and system reliability issues, but it is recognized that system and software design errors contribute to product unreliability and that the use of Similarity Analysis, for instance, can encompass these sources of unreliability.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) is intended as a guide towards standard practice and is subject to change to keep pace with experience and technical advances.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

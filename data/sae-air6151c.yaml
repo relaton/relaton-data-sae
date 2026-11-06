@@ -1,0 +1,58 @@
+---
+id: SAEAIR6151C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Torque, Threaded Application, Electrical Connector, Accessory and Terminal
+    Board Installation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6151c
+- type: src
+  content: https://saemobilus.sae.org/standards/air6151c-torque-threaded-application-electrical-connector-accessory-terminal-board-installation
+docidentifier:
+- content: SAE AIR6151C
+  type: SAE
+  primary: true
+- content: 10.4271/air6151c
+  type: DOI
+date:
+- type: approved
+  at: '2024-01-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C1 Connectors Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) is intended to provide guidelines to tightening methods and torque values as applied to electrical connectors, related hardware and switches, relays, circuit breakers, and A-A-59125 type terminal boards. The connectors and associated hardware discussed herein are typically manufactured from aluminum alloy, high-grade engineering thermoplastics, or corrosion-resistant steel, and typically plated with a protective/conductive coating. These guidelines may be used where no rules have been mandated either contractually or otherwise.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

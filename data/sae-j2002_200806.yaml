@@ -1,0 +1,61 @@
+---
+id: SAEJ2002_200806
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Internal Combustion Engines--Piston Rings--Oil Control Rings
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2002_200806
+- type: src
+  content: https://saemobilus.sae.org/standards/j2002_200806-internal-combustion-engines-piston-rings-oil-control-rings
+docidentifier:
+- content: SAE J2002_200806
+  type: SAE
+  primary: true
+- content: 10.4271/j2002_200806
+  type: DOI
+date:
+- type: approved
+  at: '2008-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Piston and Ring Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This SAE Standard is equivalent to ISO Standard 6625.
+
+    Differences, where they exist, are shown in Appendix A.
+
+    This SAE Standard specifies the dimensional features of S, G, D, and DV oil control piston ring types.
+
+    The normal range for the axial width of oil control rings (2.5 to 8 m inclusive) is divided into 0.5 or 1.0 increments.  In Table 7, dimensions in inch units are given for oil control rings with axial width 4.75 m (equal to 3/16 in) for existing applications.
+
+    The requirements of this document apply to oil control rings for reciprocating internal combustion piston engines up to and including 200 mm in diameter.  They may also be used for piston rings of compressors working under similar conditions.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

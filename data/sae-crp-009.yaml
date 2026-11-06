@@ -1,0 +1,50 @@
+---
+id: SAECRP009
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Heavy Truck Crashworthiness - Phase I
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/crp-009
+- type: src
+  content: https://saemobilus.sae.org/standards/crp-009-heavy-truck-crashworthiness-phase
+docidentifier:
+- content: SAE CRP-009
+  type: SAE
+  primary: true
+- content: 10.4271/crp-009
+  type: DOI
+date:
+- type: approved
+  at: '1995-03-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This research report evaluates heavy truck crashworthiness,  with the
+    goal of using information to improve truck-occupant protection.  Contents include:
+    \ Cluster  Analysis; In Depth Study of Accident Scenarios; and  Selection of Scenarios
+    and Crash Components for Development  of Crash Pulse.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,61 @@
+---
+id: SAEAS9680C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BOLT, MACHINE - DOUBLE HEX, EXTENDED WASHER HD, PD SHANK, CUP WASHER LOCKED,
+    CADMIUM PLATED, STEEL, UNS G87400, 125 KSI MIN, .1900-32 UNJF-3A
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9680c
+- type: src
+  content: https://saemobilus.sae.org/standards/as9680c-bolt-machine-double-hex-extended-washer-hd-pd-shank-cup-washer-locked-cadmium-plated-steel-uns-g87400-125-ksi-min-1900-32-unjf-3a
+docidentifier:
+- content: SAE AS9680C
+  type: SAE
+  primary: true
+- content: 10.4271/as9680c
+  type: DOI
+date:
+- type: approved
+  at: '2026-08-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

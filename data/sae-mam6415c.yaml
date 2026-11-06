@@ -1,0 +1,61 @@
+---
+id: SAEMAM6415C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Bars, Forgings, and Tubing, 0.80cr 1.8ni 0.25mo (0.38 0.43)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/mam6415c
+- type: src
+  content: https://saemobilus.sae.org/standards/mam6415c-steel-bars-forgings-tubing-080cr-18ni-025mo-038-043
+docidentifier:
+- content: SAE MAM6415C
+  type: SAE
+  primary: true
+- content: 10.4271/mam6415c
+  type: DOI
+date:
+- type: approved
+  at: '2003-03-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers an aircraft-quality, low-alloy steel in the
+    form of bars, forgings, mechanical tubing, and forging stock procured in SI (Metric)
+    units. AMS 6415 is the inch/pound version of this MAM. These products have been
+    used typically for parts, 90 millimeters and under in nominal thickness at time
+    of heat treatment, requiring a through-hardening steel capable of developing a
+    minimum hardness of 40 HRC when properly hardened and tempered and also for parts
+    of greater thickness but requiring proportionately lower hardness, but usage is
+    not limited to such applications. Certain design and processing procedures may
+    cause these products to become susceptible to stress-corrosion cracking after
+    heat treatment; ARP 1110 recommends practices to minimize such conditions.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

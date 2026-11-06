@@ -1,0 +1,56 @@
+---
+id: SAEARP1111A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Inspection of Worn Involute Splines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1111a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1111a-inspection-worn-involute-splines
+docidentifier:
+- content: SAE ARP1111A
+  type: SAE
+  primary: true
+- content: 10.4271/arp1111a
+  type: DOI
+date:
+- type: approved
+  at: '2020-02-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EG-1 Aerospace Propulsion Systems Support Equipment
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This concept for measuring worn splines provides a direct wear depth dimension by utilizing the unworn involute surface as a contact point from which to measure the depth of wear on the spline tooth at the pitch diameter. &lt;span class="xref"&gt;Fig. 1&lt;/span&gt; shows spline wear patterns and pitch diameter gaging points.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

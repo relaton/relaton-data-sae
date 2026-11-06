@@ -1,0 +1,64 @@
+---
+id: SAEJ1616_199402
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Recommended Practice for Compressed Natural Gas Vehicle Fuel
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1616_199402
+- type: src
+  content: https://saemobilus.sae.org/standards/j1616_199402-recommended-practice-compressed-natural-gas-vehicle-fuel
+docidentifier:
+- content: SAE J1616_199402
+  type: SAE
+  primary: true
+- content: 10.4271/j1616_199402
+  type: DOI
+date:
+- type: approved
+  at: '1994-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuels and Lubricants TC 7 Fuels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Compressed Natural Gas (CNG) is a practical automotive fuel, with advantages and disadvantages when compared to gasoline. It has a good octane quality, is clean burning, easy to meter, and generally produces lower vehicle exhaust emissions. CNG is used to fuel internal combustion engines. Natural gas is normally compressed form 20 690 to 24 820 kPa (3000 to 3600 psig) to increase its energy density thereby reducing its on-board vehicle storage volume for a given range and payload.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The properties of natural gas are influenced by (1) the processing of natural gas by the production and transmission companies and (2) the regional gas supply, storage, and demand balancing done by distribution companies often in concert with pipeline companies to maintain uninterrupted service throughout the year, e.g., peakshaving with propane-air (see U.S. Bureau of Mines Publication 503).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Information on the properties of distribution system natural gas and its variability has been included in &lt;span class="xref"&gt;Figure 1&lt;/span&gt; and can be found in GRI-92/0123. The analysis in this reference summarizes the expected composition of natural gas in 26 cities. Composition can vary hourly under certain operating conditions in certain areas of the country. Thus the data should generally be considered representative for the areas mentioned with due consideration for local variation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Natural gas is comprised chiefly of methane (generally 88 to 96 mole percent) with the balance being a decreasing proportion of non-methane alkanes (i.e., ethane, propane, butanes, etc.).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Other components found in natural gas are nitrogen (N&lt;sub&gt;2&lt;/sub&gt;), carbon dioxide (CO&lt;sub&gt;2&lt;/sub&gt;), water, oxygen, and trace amounts of lubricating oil (from compressors) and sulfur found as hydrogen sulfide (H&lt;sub&gt;2&lt;/sub&gt;S) and other sulfur compounds. Before entering the transmission system, it is processed to meet limits on hydrogen sulfide, water, condensibles of heavier hydrocarbons, inert gases such as carbon dioxide and nitrogen, and energy content. Mercaptan odorants (e.g., tertiary butyl mercaptan) are added by local distribution companies (LDC's) for safety reasons to detect the presence of natural gas which otherwise would be odorless.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Water content and other corrosion precursors, heavier hydrocarbons which may condense within the fuel container, particulate matter, oil and energy content need to be controlled in order to minimize corrosion and provide satisfactory low-temperature vehicle operation, performance, and emissions levels.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;The provisions contained in this SAE Recommended Practice are intended to protect the interior surfaces of the fuel container and other vehicle fuel system components such as fuel injector and exhaust catalyst elements from the onset of corrosion, poisoning, the deposition of liquids or large dust particles, or the formation of water, ice particles, frost, or hydrates. The provisions contained in this document are not intended to address the composition of natural gas as delivered to a fueling station, but rather at the outlet of the fueling station as delivered into the containers on the vehicle. Limits on gas composition constituents currently not included in this document may be added when data are available to substantiate them.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

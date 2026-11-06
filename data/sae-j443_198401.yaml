@@ -1,0 +1,57 @@
+---
+id: SAEJ443_198401
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PROCEDURES FOR USING STANDARD SHOT PEENING TEST STRIP
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j443_198401
+- type: src
+  content: https://saemobilus.sae.org/standards/j443_198401-procedures-using-standard-shot-peening-test-strip
+docidentifier:
+- content: SAE J443_198401
+  type: SAE
+  primary: true
+- content: 10.4271/j443_198401
+  type: DOI
+date:
+- type: approved
+  at: '1984-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Surface Enhancement Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice provides uniform procedures for using the standard shot peening test strips reported in SAE Standard J442, Test Strip, Holder and Gage for Shot Peening. Standard test strips are used to control repeatability of the shot peening machine operations, and to specify a desired result on a part. It is recommended that the standard test strip A be used for intensities that produce arc heights of 6A to 24A. For intensities below 6A, the standard N strip is recommended, and for intensities above 24A, the standard C strip is recommended.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Shot peening is intended to induce surface compressive stresses in metal parts for the purpose of improving resistance to fatigue and stress corrosion cracking. Springs, axles, and aircraft landing gears are typical examples of such parts. To have the desired effect, shot peening requires that specified intensity and coverage be achieved on critical areas, where the high tension stresses or stress ranges are most likely to cause fatigue or stress corrosion failures in service. Actual experience with service failures or fatigue tests may sometimes be required to discover or confirm the location of areas subject to critical stressing, as a result of service, design, and/or manufacturing conditions.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

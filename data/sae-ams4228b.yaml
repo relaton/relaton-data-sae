@@ -1,0 +1,54 @@
+---
+id: SAEAMS4228B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Castings, High Strength, 4.5cu 0.70ag 0.30mn 0.25mg 0.25ti,
+    Solution and Precipitation Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4228b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4228b-aluminum-alloy-castings-high-strength-45cu-070ag-030mn-025mg-025ti-solution-precipitation-heat-treated
+docidentifier:
+- content: SAE AMS4228B
+  type: SAE
+  primary: true
+- content: 10.4271/ams4228b
+  type: DOI
+date:
+- type: approved
+  at: '1996-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification has been 'CANCELLED' by the Aerospace Materials
+    \ Division, SAE, as of April 1996. Alloy: A201.0-T6 UNS Number: A12010</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

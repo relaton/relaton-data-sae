@@ -1,0 +1,49 @@
+---
+id: SAEAS818224
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: WIRE, ELECTRICAL, SOLDERLESS WRAP, POLYIMIDE COATING OVER EXTRUDED POLYTETRAFLUOROETHYLENE
+    (PTFE) INSULATION, SILVER COATED SOLID CONDUCTOR
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as81822/4
+- type: src
+  content: https://saemobilus.sae.org/standards/as818224-wire-electrical-solderless-wrap-polyimide-coating-extruded-polytetrafluoroethylene-ptfe-insulation-silver-coated-solid-conductor
+docidentifier:
+- content: SAE AS81822/4
+  type: SAE
+  primary: true
+- content: 10.4271/as81822/4
+  type: DOI
+date:
+- type: approved
+  at: '2004-05-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8D Wire and Cable Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

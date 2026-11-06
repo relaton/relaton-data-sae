@@ -1,0 +1,57 @@
+---
+id: SAEAIR902A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Determination of Distance from Ground Observer to Aircraft for Acoustic
+    Tests
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air902a
+- type: src
+  content: https://saemobilus.sae.org/standards/air902a-determination-distance-ground-observer-aircraft-acoustic-tests
+docidentifier:
+- content: SAE AIR902A
+  type: SAE
+  primary: true
+- content: 10.4271/air902a
+  type: DOI
+date:
+- type: approved
+  at: '2022-11-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-21 Aircraft Noise Measurement Aviation Emission Modeling
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes a practical system for a user to determine observer-to-aircraft distances. These observer-to-aircraft distances can be either closest point of approach (CPA) distances during field measurements or overhead distances during acoustic certification tests. The system uses a digital camera to record an image of the subject aircraft. A method of using commercial software to obtain the distance from such an image is presented. Potential issues which may affect accuracy are discussed.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

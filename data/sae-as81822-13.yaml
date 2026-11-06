@@ -1,0 +1,49 @@
+---
+id: SAEAS8182213
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: WIRE, ELECTRICAL, SOLDERLESS WRAP, EXTRUDED ETHYLENE-TETRAFLUOROETHYLENE
+    (ETFE) INSULATION, SILVER COATED SOLID CONDUCTOR
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as81822/13
+- type: src
+  content: https://saemobilus.sae.org/standards/as8182213-wire-electrical-solderless-wrap-extruded-ethylene-tetrafluoroethylene-etfe-insulation-silver-coated-solid-conductor
+docidentifier:
+- content: SAE AS81822/13
+  type: SAE
+  primary: true
+- content: 10.4271/as81822/13
+  type: DOI
+date:
+- type: approved
+  at: '2004-05-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8D Wire and Cable Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEARP4259
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: METABOLIC SIMULATOR TESTING SYSTEMS FOR AVIATION BREATHING EQUIPMENT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4259
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4259-metabolic-simulator-testing-systems-aviation-breathing-equipment
+docidentifier:
+- content: SAE ARP4259
+  type: SAE
+  primary: true
+- content: 10.4271/arp4259
+  type: DOI
+date:
+- type: approved
+  at: '1991-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice (ARP) describes test equipment and methods used for testing closed cycle or semi closed cycle breathing devices of short duration that are designed to operate with a high partial pressure of oxygen in the breathing circuit. It is intended to supplement ARP1109 and ARP1398 for applications involving closed cycle or semiclosed cycle breathing equipment which may be evaluated to the requirements of AS8031 and/or AS8047.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

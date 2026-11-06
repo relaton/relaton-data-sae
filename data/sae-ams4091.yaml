@@ -1,0 +1,48 @@
+---
+id: SAEAMS4091
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOT TUBING, HYDRAULIC 1Mg - 0.6Si - 0.25Cu - 0.09Cr (6062-T4)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4091
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4091-aluminum-allot-tubing-hydraulic-1mg-06si-025cu-009cr-6062-t4
+docidentifier:
+- content: SAE AMS4091
+  type: SAE
+  primary: true
+- content: 10.4271/ams4091
+  type: DOI
+date:
+- type: approved
+  at: '1955-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

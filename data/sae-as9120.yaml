@@ -1,0 +1,71 @@
+---
+id: SAEAS9120
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Quality Management Systems - Aerospace Requirements for Stockist Distributors
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9120
+- type: src
+  content: https://saemobilus.sae.org/standards/as9120-quality-management-systems-aerospace-requirements-stockist-distributors
+docidentifier:
+- content: SAE AS9120
+  type: SAE
+  primary: true
+- content: 10.4271/as9120
+  type: DOI
+date:
+- type: approved
+  at: '2002-11-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;&lt;i&gt;This standard includes ISO 9001:2000&lt;/i&gt;&lt;span class="xref"&gt;&lt;sup&gt;&lt;i&gt;1&lt;/i&gt;&lt;/sup&gt;&lt;/span&gt; &lt;i&gt;quality management system requirements and specifies additional requirements for a quality management system for the aerospace industry applicable to stockist distributors. The additional aerospace requirements are shown in bold, italic text.&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;&lt;i&gt;It is emphasized that the quality management system requirements specified in this standard are complementary (not alternative) to contractual and applicable law and regulatory requirements.&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This International Standard specifies requirements for a quality management system where an organization&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;needs to demonstrate its ability to consistently provide product that meets customer and applicable regulatory requirements, and&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;aims to enhance customer satisfaction through the effective application of the system, including processes for continual improvement of the system and the assurance of conformity to customer and applicable regulatory requirements.
+    &lt;div class="table-wrap anchor "&gt;
+    &lt;div class="table-container"&gt;&lt;table class="br-none tbr-void "&gt;
+    &lt;tbody&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;NOTE:&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;In this International Standard, the term “product” applies only to the product intended for, or required by, a customer.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div/&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

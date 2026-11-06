@@ -1,0 +1,57 @@
+---
+id: SAEARP6883
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guidelines for Writing IVHM Requirements for Aerospace Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6883
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6883-guidelines-writing-ivhm-requirements-aerospace-systems
+docidentifier:
+- content: SAE ARP6883
+  type: SAE
+  primary: true
+- content: 10.4271/arp6883
+  type: DOI
+date:
+- type: approved
+  at: '2019-12-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: HM-1 Integrated Vehicle Health Management Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice (ARP) provides guidance on developing requirements for systems that include Integrated Vehicle Health Management (IVHM) capability [REF1], [REF18]. IVHM is increasingly being implemented on military and commercial aircraft. Some examples include the F-35 Joint Strike Fighter (JSF) [REF1] and the AH-64 Apache [REF3] in the military domain, and the B787 [REF4] and A350XWB [REF5] in the commercial domain. This document provides a systematic approach for developing requirements related to the IVHM capabilities of a vehicle system. This document is not intended to repeat general guidelines on good requirements writing [REF13], [REF20]. Instead, the focus is on the unique elements, which need to be considered for IVHM and the resulting specific guidelines that will help define better requirements and hence better systems. The multi-faceted nature of IVHM should include the process of requirements gathering. Therefore, this document presents some guidance on how to go about this task. The document also includes some case studies that illustrate, in a practical manner, what a good set of IVHM requirements might look like. These have been taken from real life examples, but have been generalized for the purpose of this ARP.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Section 3&lt;/span&gt; of this ARP introduces the general requirements and considerations from the perspective of various stakeholders. This is followed by &lt;span class="xref"&gt;Section 4&lt;/span&gt; describing the entire systems engineering process for IVHM systems showing how IVHM requirements are linked to other systems engineering elements, such as the verification and validation (V&amp;amp;V) process. &lt;span class="xref"&gt;Section 5&lt;/span&gt; provides a detailed description of the requirements breakdown structure and writing process, including the taxonomy of a requirements document. &lt;span class="xref"&gt;Section 6&lt;/span&gt; provides some examples of IVHM core (stakeholder) requirements for representative air vehicles, and &lt;span class="xref"&gt;Section 7&lt;/span&gt; provides an application of the guidelines as an example.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,60 @@
+---
+id: SAEAS4318B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FITTING, ADAPTER, FLARED TUBE, .375 BULKHEAD TO BOSS FOR SEAL RING
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4318b
+- type: src
+  content: https://saemobilus.sae.org/standards/as4318b-fitting-adapter-flared-tube-375-bulkhead-boss-seal-ring
+docidentifier:
+- content: SAE AS4318B
+  type: SAE
+  primary: true
+- content: 10.4271/as4318b
+  type: DOI
+date:
+- type: approved
+  at: '2026-05-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

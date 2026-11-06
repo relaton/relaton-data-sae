@@ -1,0 +1,58 @@
+---
+id: SAEJ1952_202405
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: All-Wheel Drive Systems Classification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1952_202405
+- type: src
+  content: https://saemobilus.sae.org/standards/j1952_202405-wheel-drive-systems-classification
+docidentifier:
+- content: SAE J1952_202405
+  type: SAE
+  primary: true
+- content: 10.4271/j1952_202405
+  type: DOI
+date:
+- type: approved
+  at: '2024-05-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Drivetrain Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document seeks to classify all-wheel drive (AWD) architectures primarily based on the installed hardware and does not consider the implementation of the controls and software. For example, a power transfer unit (PTU) may be equipped with a clutch that is capable of torque management, but the control implementation only uses it for disconnection functions without torque management.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In this SAE Recommended Practice, attention will be given to passenger cars and light trucks (through Class III). The definitions presented herein may also be applicable to heavy trucks (Class 4 through 8) and off-highway applications using more than two axles but are primarily focused on passenger cars and light trucks.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

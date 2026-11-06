@@ -1,0 +1,57 @@
+---
+id: SAEAMS3363E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Silicone Rubber Compound Room Temperature Vulcanizing, 50,000 Centipoise
+    Viscosity Durometer 30 - 45
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3363e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3363e-silicone-rubber-compound-room-temperature-vulcanizing-50000-centipoise-viscosity-durometer-30-45
+docidentifier:
+- content: SAE AMS3363E
+  type: SAE
+  primary: true
+- content: 10.4271/ams3363e
+  type: DOI
+date:
+- type: approved
+  at: '2012-01-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G9 Aerospace Sealing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a silicone rubber in the form of a two-component liquid compound.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

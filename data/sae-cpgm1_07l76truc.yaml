@@ -1,0 +1,51 @@
+---
+id: SAECPGM1_07L76TRUC
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: J1349 Certified Power Engine Date for GM L76 as used in 2007 Full Size
+    Trucks (Silverado, Sierra)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/cpgm1_07l76truc
+- type: src
+  content: https://saemobilus.sae.org/services/cpgm1_07l76truc-j1349-certified-power-engine-date-gm-l76-used-2007-full-size-trucks-silverado-sierra
+docidentifier:
+- content: SAE CPGM1_07L76TRUC
+  type: SAE
+  primary: true
+- content: 10.4271/cpgm1_07l76truc
+  type: DOI
+date:
+- type: approved
+  at: '2007-05-11'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This product includes information on the manufacturer, engine, application,
+    testing location, certified maximum horsepower, certified maximum torque along
+    with the certified curves of horsepower and torque over a wide range of engine
+    RPM speeds.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

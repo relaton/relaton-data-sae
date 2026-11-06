@@ -1,0 +1,58 @@
+---
+id: SAEAS29606
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Wire, Electrical, Stranded, Uninsulated Copper, Copper Alloy, or Aluminum,
+    or Thermocouple Extension, General Specification For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as29606
+- type: src
+  content: https://saemobilus.sae.org/standards/as29606-wire-electrical-stranded-uninsulated-copper-copper-alloy-aluminum-thermocouple-extension-general-specification
+docidentifier:
+- content: SAE AS29606
+  type: SAE
+  primary: true
+- content: 10.4271/as29606
+  type: DOI
+date:
+- type: approved
+  at: '2014-06-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8D Wire and Cable Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers concentric lay stranded and rope-lay stranded round electrical conductor fabricated from copper, copper alloy or aluminum. This specification also covers thermocouple extension conductor fabricated from nickel/chromium or nickel/aluminum/manganese. The conductors in this specification are suitable for use in insulated wires used in aerospace and other applications.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

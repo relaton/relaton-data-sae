@@ -1,0 +1,57 @@
+---
+id: SAEAMS6520C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Maraging, Sheet, Strip, and Plate 18Ni - 7.8Co - 4.9Mo - 0.40Ti
+    - 0.10Al Consumable Electrode Melted, Solution Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6520c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6520c-steel-maraging-sheet-strip-plate-18ni-78co-49mo-040ti-010al-consumable-electrode-melted-solution-heat-treated
+docidentifier:
+- content: SAE AMS6520C
+  type: SAE
+  primary: true
+- content: 10.4271/ams6520c
+  type: DOI
+date:
+- type: approved
+  at: '1995-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a premium aircraft-quality, maraging steel in the form of sheet, strip, and plate.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

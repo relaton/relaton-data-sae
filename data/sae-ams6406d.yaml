@@ -1,0 +1,57 @@
+---
+id: SAEAMS6406D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Sheet, Strip, and Plate, 1.6si 2.1cr 0.58mo 0.05v(0.41-0.46c), Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6406d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6406d-steel-sheet-strip-plate-16si-21cr-058mo-005v-041-046c-annealed
+docidentifier:
+- content: SAE AMS6406D
+  type: SAE
+  primary: true
+- content: 10.4271/ams6406d
+  type: DOI
+date:
+- type: approved
+  at: '2001-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: <p>Primarily for heat treated parts and structures that may require welding
+    during fabrication and may be through-hardened to a minimum tensile strength of
+    270,000 psi (1862 MPa) in sections of 2 in. (50 mm) or less in nominal thickness.
+    This specification has been declared "Noncurrent" by the Aerospace Materials Division,
+    SAE, as of April 1, 1987. It is recommended that this specification not be specified
+    for new designs.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

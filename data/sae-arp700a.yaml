@@ -1,0 +1,56 @@
+---
+id: SAEARP700A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HIGH STRENGTH ELEVATED TEMPERATURE BOLTING PRACTICE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp700a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp700a-high-strength-elevated-temperature-bolting-practice
+docidentifier:
+- content: SAE ARP700A
+  type: SAE
+  primary: true
+- content: 10.4271/arp700a
+  type: DOI
+date:
+- type: approved
+  at: '1996-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This ARP provides general information on the design and installation of threaded fasteners in high strength, high temperature applications. Some of the more common definitions of fastener terminology are also provided.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

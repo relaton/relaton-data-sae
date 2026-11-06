@@ -1,0 +1,65 @@
+---
+id: SAEAIR6113
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guidelines for Design of Digital Fiber Optic Link Loss Budget Methodology
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6113
+- type: src
+  content: https://saemobilus.sae.org/standards/air6113-guidelines-design-digital-fiber-optic-link-loss-budget-methodology
+docidentifier:
+- content: SAE AIR6113
+  type: SAE
+  primary: true
+- content: 10.4271/air6113
+  type: DOI
+date:
+- type: approved
+  at: '2024-10-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document draws from, summarizes, and explains existing broadly accepted engineering best practices.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document defines the process and procedure for application of various best practice methods.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is specifically intended as a standard for the engineering practice of development and execution of a link loss power budget for a general aerospace system related digital fiber optic link.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is not intended to specify the values associated with specific categories or implementations of digital fiber optic links.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is intended to address both existing digital fiber optic link technology and accommodate new and emerging technologies.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The proper application of various calculation methods is provided to determine link loss power budget(s), that depend on differing requirements on aerospace programs.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A list of parameters is provided as guidance for aerospace fiber optics applications along with a check list to help assure that appropriate parameters and impairments have been accounted for in the link budget.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

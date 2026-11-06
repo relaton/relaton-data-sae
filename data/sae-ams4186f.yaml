@@ -1,0 +1,57 @@
+---
+id: SAEAMS4186F
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy Bars, Rods, and Wire, Rolled or Cold Finished, 5.6Zn - 2.5Mg
+    - 1.6Cu - 0.23Cr (7075-F), As Fabricated, or When Specified, Annealed (7075-O)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4186f
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4186f-aluminum-alloy-bars-rods-wire-rolled-cold-finished-56zn-25mg-16cu-023cr-7075-f-fabricated-specified-annealed-7075-o
+docidentifier:
+- content: SAE AMS4186F
+  type: SAE
+  primary: true
+- content: 10.4271/ams4186f
+  type: DOI
+date:
+- type: approved
+  at: '2025-10-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of bars, rods, and wire, in the sizes shown in &lt;span class="xref"&gt;3.3.3&lt;/span&gt;, in the “as-fabricated (F) temper.” When specified, product shall be supplied in the annealed (O) condition (see &lt;span class="xref"&gt;8.6&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

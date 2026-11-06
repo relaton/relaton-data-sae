@@ -1,0 +1,56 @@
+---
+id: SAEJ306_202502
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Automotive Driveline Lubricant Viscosity Classification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j306_202502
+- type: src
+  content: https://saemobilus.sae.org/standards/j306_202502-automotive-driveline-lubricant-viscosity-classification
+docidentifier:
+- content: SAE J306_202502
+  type: SAE
+  primary: true
+- content: 10.4271/j306_202502
+  type: DOI
+date:
+- type: approved
+  at: '2025-02-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuels and Lubricants TC 3  Driveline and Chassis Lubrication
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard defines the limits for a classification of automotive gear lubricants in rheological terms only. Other lubricant characteristics are not considered.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

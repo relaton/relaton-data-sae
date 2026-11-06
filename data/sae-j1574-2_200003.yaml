@@ -1,0 +1,64 @@
+---
+id: SAEJ15742_200003
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Measurement of Vehicle and Suspension Parameters for Directional Control
+    Studies—Rationale
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1574/2_200003
+- type: src
+  content: https://saemobilus.sae.org/standards/j15742_200003-measurement-vehicle-suspension-parameters-directional-control-studies-rationale
+docidentifier:
+- content: SAE J1574/2_200003
+  type: SAE
+  primary: true
+- content: 10.4271/j1574/2_200003
+  type: DOI
+date:
+- type: approved
+  at: '2000-03-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Dynamics Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report presents the background and rationale for SAE J1574-1.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The motor vehicle industry is working toward a more complete understanding of the factors affecting the motions of vehicles on the roadway, by using a variety of techniques that predict responses to road and operator inputs. The capability to predict responses is desirable so that vehicles can be designed for optimum safety and utility. In addition to the force and moment properties of the pneumatic tires, a number of vehicle and suspension parameters affect the response of the vehicle; these include weight, center-of-gravity location, moments of inertia, suspension ride and roll rates, suspension kinematic and compliance properties, and shock absorber characteristics. These parameters must be quantified in order to predict vehicle responses.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Measurement of most of these parameters will be limited to determining their values in the linear range for use in directional control simulations. The limitation to linear range characteristics primarily reflects current measurement practice, to which SAE J1574-1 is directed. In the case of mass and inertia properties, this limitation clearly does not apply. For those to which it does apply, it is not felt to be a serious limitation since most of the measurement techniques can be extended beyond the linear range through appropriate increases in steering or suspension displacement or loading. Use of the measured parameters in simulations is assumed as the most frequent use. However, this does not seem to limit their use to simulations. Vehicle and suspension characteristics appropriate for simulation can equally well be used for vehicle and suspension characterization and comparison, suspension development and optimization, and processing of road test data.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;As noted in SAE J1574-1, vehicles addressed will be limited to passenger cars, light trucks, and on-highway recreational and commercial vehicles with two or more axles of approximately the same wheel track. This excludes bicycles, motorcycles, tricycles, and vehicles intended primarily for off-highway use. This limitation is largely a recognition of the types of vehicles historically measured for ride and directional control simulation, since SAE J1574-1 has been written to document the current state-of-the-art rather than to expand it. Additionally, inclusion of these other vehicles might well require measurement of other chassis characteristics to properly simulate their dynamic characteristics. The measurement of these additional characteristics may not be supported by widespread experimental practice.&lt;/div&gt;
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

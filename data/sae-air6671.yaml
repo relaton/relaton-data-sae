@@ -1,0 +1,61 @@
+---
+id: SAEAIR6671
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standardized Composite Training Program
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6671
+- type: src
+  content: https://saemobilus.sae.org/standards/air6671-standardized-composite-training-program
+docidentifier:
+- content: SAE AIR6671
+  type: SAE
+  primary: true
+- content: 10.4271/air6671
+  type: DOI
+date:
+- type: approved
+  at: '2025-06-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CACRC Commercial Aircraft Composite Repair Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AIR provides means of developing a composite training program, as stipulated by FAA AC 20-107B, FAA AC 65-33A, EASA AMC 20-29, and other similar regulatory guidance. Its approach is a comprehensive, sequential training curriculum build-up, customized to the specific needs of the organization (see &lt;span class="xref"&gt;Figure 2&lt;/span&gt;).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It contains recommendations for the skill-building, training, and qualification of persons involved in the design, fabrication, maintenance, and repair of aircraft composite structures or other aviation composite components. It further addresses the qualification of administrative personnel and instructors. Flight operations are usually not in the scope of an SAE CACRC Standard; however, the recommendations of this report may be used also for this target audience.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This report addresses persons responsible for the definition of training, qualification and authorization, or the supervision of aviation personnel. Its content intends to facilitate the development of a formal composite training program which describes the means to train, qualify, and authorize the organization’s personnel.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE CACRC has produced several training standard documents, each representing the best-practice, recommended minimum training syllabus for its targeted audience. The purpose of this report is to promote the use of these training standards for developing training programs for employees in airlines and maintenance organizations, and as reference in regulatory guidance material. It provides a quick reference to the SAE CACRC training standard documents (see &lt;span class="xref"&gt;2.1.1&lt;/span&gt;). Thereby, it allows its users to either develop appropriate in-house trainings or to select external training providers and courses that acceptably conform with the syllabi covered by the SAE CACRC training standard documents. It also supports the organization to recognize existing training records of individuals by comparing their equivalence with these standards.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This report does not intend to introduce new training content/syllabus.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This report does not intend to establish a licensing standard.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

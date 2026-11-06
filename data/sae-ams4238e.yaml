@@ -1,0 +1,52 @@
+---
+id: SAEAMS4238E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy Castings, Sand, 6.8Mg - 0.18Ti - 0.18Mn (535.0-F), As Cast
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4238e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4238e-aluminum-alloy-castings-sand-68mg-018ti-018mn-5350-f-cast
+docidentifier:
+- content: SAE AMS4238E
+  type: SAE
+  primary: true
+- content: 10.4271/ams4238e
+  type: DOI
+date:
+- type: approved
+  at: '2006-09-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers an aluminum alloy in the form of sandcastings.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

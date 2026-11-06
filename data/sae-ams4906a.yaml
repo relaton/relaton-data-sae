@@ -1,0 +1,53 @@
+---
+id: SAEAMS4906A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Titanium Alloy Sheet and Strip, 6al 4v, Continuously Rolled, Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4906a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4906a-titanium-alloy-sheet-strip-6al-4v-continuously-rolled-annealed
+docidentifier:
+- content: SAE AMS4906A
+  type: SAE
+  primary: true
+- content: 10.4271/ams4906a
+  type: DOI
+date:
+- type: approved
+  at: '1994-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G Titanium and Refractory Metals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification has been Cancelled by the Aerospace Materials Division,
+    SAE, as of August 1994.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

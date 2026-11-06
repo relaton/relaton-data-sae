@@ -1,0 +1,54 @@
+---
+id: SAEAIR4985A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: A Methodology for Quantifying the Performance of an Engine Monitoring System
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4985a
+- type: src
+  content: https://saemobilus.sae.org/standards/air4985a-a-methodology-quantifying-performance-engine-monitoring-system
+docidentifier:
+- content: SAE AIR4985A
+  type: SAE
+  primary: true
+- content: 10.4271/air4985a
+  type: DOI
+date:
+- type: approved
+  at: '2021-11-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>&lt;p&gt;The purpose of this SAE Aerospace Information Report (AIR)
+    is to present a quantitative approach for evaluating the performance and capabilities
+    of an Engine Monitoring System (EMS).&lt;/p&gt;</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

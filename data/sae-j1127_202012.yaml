@@ -1,0 +1,56 @@
+---
+id: SAEJ1127_202012
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Low Voltage Battery Cable
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1127_202012
+- type: src
+  content: https://saemobilus.sae.org/standards/j1127_202012-low-voltage-battery-cable
+docidentifier:
+- content: SAE J1127_202012
+  type: SAE
+  primary: true
+- content: 10.4271/j1127_202012
+  type: DOI
+date:
+- type: approved
+  at: '2020-12-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Cable Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard covers low voltage battery cable intended for use at a nominal system voltage of 60 VDC (25 VAC) or less in surface vehicle electrical systems. The tests are intended to qualify cables for normal applications with limited exposure to fluids and physical abuse.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

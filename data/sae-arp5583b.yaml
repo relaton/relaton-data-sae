@@ -1,0 +1,88 @@
+---
+id: SAEARP5583B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guide to Certification of Aircraft in a High-Intensity Radiated Field (HIRF)
+    Environment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5583b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5583b-guide-certification-aircraft-a-high-intensity-radiated-field-hirf-environment
+docidentifier:
+- content: SAE ARP5583B
+  type: SAE
+  primary: true
+- content: 10.4271/arp5583b
+  type: DOI
+date:
+- type: approved
+  at: '2026-06-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-4 Electromagnetic Compatibility (EMC) Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document and the EUROCAE equivalent, ED-107, provides detailed information, guidance, and methods in support of the Federal Aviation Administration (FAA) Advisory Circular (AC) 20-158 and to the European Union Aviation Safety Agency (EASA) AMC 20-158. AC 20-158 provides a means, but not the only means, for demonstrating compliance with Title 14 of the Code of Federal Regulations (14 CFR) 23.1308 (Amendment 57 and lower), 23.2520 (Amendment 64 and higher), 25.1317, 27.1317, 29.1317, and applicable FAA HIRF special conditions addressing HIRF Protection. AMC 20-158 is applicable to Certification Specifications CS 23.1308 (Amendment 4 and lower), 23.2520 (Amendment 5 and higher), 25.1317, 27.1317, and 29.1317.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It should be noted that this document is neither mandatory nor regulatory in nature and does not constitute a regulation or legal interpretation of the regulation. Therefore, an applicant may elect to establish an alternative method of compliance that is acceptable to the certifying airworthiness authorities.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The information in this guide represents a collection of the best engineering practices that have been used to certify aircraft HIRF protection. It provides:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Practical design considerations&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;HIRF compliance steps&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Aircraft level verification and testing guidance&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Detailed guidance for Level A system compliance and testing&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Detailed guidance for Level B and C system compliance and testing&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Guidance in the area of continued airworthiness&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;This document provides guidelines for testing the aircraft and equipment for HIRF compliance, with the latter using RTCA DO-160/EUROCAE ED-14 Section 20.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document also contains guidance applicable to both new applications for aircraft certification and historic information applicable to continued compliance with existing aircraft certifications. When establishing continued compliance, it is necessary to review the basis on which the original certification was granted to determine the requirements that were in force at that time in all jurisdictions where the certification was granted.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

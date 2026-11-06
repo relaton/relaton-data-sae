@@ -1,0 +1,57 @@
+---
+id: SAEAIR1589C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Damage Caused by Ground Support Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1589c
+- type: src
+  content: https://saemobilus.sae.org/standards/air1589c-aircraft-damage-caused-ground-support-equipment
+docidentifier:
+- content: SAE AIR1589C
+  type: SAE
+  primary: true
+- content: 10.4271/air1589c
+  type: DOI
+date:
+- type: approved
+  at: '2022-05-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Incidents where a piece of ground support equipment or personnel damages an aircraft under the control of ground or maintenance operations that requires corrective action by aircraft maintenance personnel. Operations include, but are not limited to servicing, line maintenance, heavy maintenance, and aircraft movement, e.g., marshalling/pushback/tow/reposition/taxi.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

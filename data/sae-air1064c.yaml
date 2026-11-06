@@ -1,0 +1,57 @@
+---
+id: SAEAIR1064C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BRAKE DYNAMICS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1064c
+- type: src
+  content: https://saemobilus.sae.org/standards/air1064c-brake-dynamics
+docidentifier:
+- content: SAE AIR1064C
+  type: SAE
+  primary: true
+- content: 10.4271/air1064c
+  type: DOI
+date:
+- type: approved
+  at: '2006-03-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5A Wheels, Brakes and Skid Controls Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The landing gear is a complex multi-degree of freedom dynamic system and may encounter vibration problems induced by braking action. The vibratory modes can be induced by several frictional characteristics and brake design features. These should be assessed during the design concept and verified during the development of the hardware.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) has been prepared by a panel of the A-5A Subcommittee to present an overview of the landing gear system problems associated with aircraft brake dynamics and the approaches to the solution of these problems. In addition, facilities available for test and evaluation are presented and discussed.&lt;span class="xref"&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

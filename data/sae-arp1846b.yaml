@@ -1,0 +1,57 @@
+---
+id: SAEARP1846B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Measurement of Far Field Noise from Gas Turbine Engines During Static Operation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1846b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1846b-measurement-far-field-noise-gas-turbine-engines-static-operation
+docidentifier:
+- content: SAE ARP1846B
+  type: SAE
+  primary: true
+- content: 10.4271/arp1846b
+  type: DOI
+date:
+- type: approved
+  at: '2020-12-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-21 Aircraft Noise Measurement Aviation Emission Modeling
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Recommendations presented in this document are intended primarily for the acquisition of far-field noise data. The test engine is to be appropriately configured and operated so that the sound pressure levels obtained are consistent with the specific objectives of the test. The principal output of the data reduction system is one-third octave band sound pressure levels. However, when appropriate, data may be recorded for purposes of broader or narrower bandwidth analysis.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

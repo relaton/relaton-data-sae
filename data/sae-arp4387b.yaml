@@ -1,0 +1,60 @@
+---
+id: SAEARP4387B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Accommodation for Passengers with Ambulatory Disabilities in Transport
+    Category Aircraft Cabins with Seating Capacities Greater than 44
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4387b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4387b-accommodation-passengers-ambulatory-disabilities-transport-category-aircraft-cabins-seating-capacities-greater-44
+docidentifier:
+- content: SAE ARP4387B
+  type: SAE
+  primary: true
+- content: 10.4271/arp4387b
+  type: DOI
+date:
+- type: approved
+  at: '2009-12-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-9B Cabin Interiors and Furnishings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>The methods and designs presented herein shall not be construed as being the only means of accomplishing these accommodations.
+
+    This document applies to all transport category aircraft using features required by Department of Transportation Regulations CFR382.
+
+    Passengers with ambulatory disabilities for whom provisions shall be made on each airplane type and location(s) for their seating are defined in 14CFR382.
+
+    The goal is to provide cabin service comparable to that available to other travelers without jeopardizing the safety of fellow passengers. This necessitates consideration of physical, neurological and sensory capabilities, and limitations of mobility impaired persons. With proper consideration and design implementation, it will be possible to serve the needs of the majority of the disabled population.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

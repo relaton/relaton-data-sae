@@ -1,0 +1,55 @@
+---
+id: SAEJ2043_199611
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nonmetallic Fuel System Tubing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2043_199611
+- type: src
+  content: https://saemobilus.sae.org/standards/j2043_199611-nonmetallic-fuel-system-tubing
+docidentifier:
+- content: SAE J2043_199611
+  type: SAE
+  primary: true
+- content: 10.4271/j2043_199611
+  type: DOI
+date:
+- type: approved
+  at: '1996-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Standard covers the minimum requirements for nonmetallic tubing
+    as manufactured for use in gasoline or diesel fuel systems. It is not intended
+    to cover tubing for any portion of the system which operates below -40 degrees
+    C, above 115 degrees C, or above a maximum working gage pressure of 690 kPa.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

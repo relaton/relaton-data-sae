@@ -1,0 +1,59 @@
+---
+id: SAEARP4868A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Function-Based API for Gas Turbine Engine Performance Programs
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4868a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4868a-function-based-api-gas-turbine-engine-performance-programs
+docidentifier:
+- content: SAE ARP4868A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4868a
+  type: DOI
+date:
+- type: approved
+  at: '2011-05-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-15 Gas Turbine Perf Simulation Nomenclature and Interfaces
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The SAE Aerospace Standard document AS681 is the parent document of this SAE Aerospace Recommended Practice (ARP). AS681 applies to Engine programs written to conform to this document. This ARP specifies a set of functions and their expected behaviors that constitute a function based Application Program Interface (API) for gas turbine engine customer programs. The functions specified in this API are delivered by the Supplier as part of the Engine model.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document defines generic language independent functions and specific appendices for implementations in C and Fortran.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The function based API specified in this ARP represents an alternative to the Fortran COMMON block structure, as specified in AS4191, historically used to communicate with an engine program. The customer may request emulation of the AS4191 interface if desired.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not specify how the parameter names in the Engine program are constructed, how program capabilities might be expanded or altered, or how error messages are constructed. See AS755 for overall guidelines for nomenclature. See ARP5571 for information on nomenclature, expanding program operational capabilities and generating error values and messages for object-oriented models.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

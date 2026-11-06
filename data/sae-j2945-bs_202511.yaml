@@ -1,0 +1,57 @@
+---
+id: SAEJ2945BS_202511
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Minimum Requirements to Support Traffic Signal Priority and Preemption™
+    SET File
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2945/bs_202511
+- type: src
+  content: https://saemobilus.sae.org/standards/j2945bs_202511-minimum-requirements-support-traffic-signal-priority-preemption-set-file
+docidentifier:
+- content: SAE J2945/BS_202511
+  type: SAE
+  primary: true
+- content: 10.4271/j2945/bs_202511
+  type: DOI
+date:
+- type: approved
+  at: '2025-11-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Connected Transportation Interoperability Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;Included in this set are the SAE J2945/B Standard which specifies the over-the-air (OTA) interface between connected vehicles (CVs) and connected intersections (CIs) to support traffic signal priority and preemption (TSPP) applications. It specifies the use of updated revisions of the SAE J2735 Signal Request Message (SRM) and Signal Status Message (SSM) and the use of a Wireless Access in Vehicular Environments (WAVE) Service Advertisement (WSA) to advertise support for TSPP at a CI. Included are a concept of operations, requirements, design, and the Abstract Syntax Notation One (ASN.1) message format, data frame, and data element definitions.&lt;/p&gt;
+
+
+    &lt;p&gt;Also included is the Abstract Syntax Notation One (ASN.1) file precisely defines the structure of the data used to implement applications conformant to the SAE J2945/B Standard. Using this ASN.1 specification, a compiler tool can be used to produce encodings to enable applications to easily encode and decode the Signal Request Message (SRM) and Signal Status Message (SSM) messages, along with the Wireless Access in Vehicular Environments (WAVE) Service Advertisement (WSA) application data, defined in SAE J2945/B defined in SAE J2945/B. Included in the ASN.1 file is the complete SAE J2735 ASN.1 along with the updates to the ASN.1 for the SRM and SSM defined in SAE J2945/B.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,50 @@
+---
+id: SAECPGM1_LLRHUMMER
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: J1349 Certified Power Engine Data for GM LLR as used in 2007 Hummer H3
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/cpgm1_llrhummer
+- type: src
+  content: https://saemobilus.sae.org/services/cpgm1_llrhummer-j1349-certified-power-engine-data-gm-llr-used-2007-hummer-h3
+docidentifier:
+- content: SAE CPGM1_LLRHUMMER
+  type: SAE
+  primary: true
+- content: 10.4271/cpgm1_llrhummer
+  type: DOI
+date:
+- type: approved
+  at: '2006-03-07'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This product includes information on the manufacturer, engine, application,
+    testing location, certified maximum horsepower, certified maximum torque along
+    with the certified curves of horsepower and torque over a wide range of engine
+    RPM speeds.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

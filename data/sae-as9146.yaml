@@ -1,0 +1,58 @@
+---
+id: SAEAS9146
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Foreign Object Damage (FOD) Prevention Program - Requirements for Aviation,
+    Space, and Defense Organizations
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9146
+- type: src
+  content: https://saemobilus.sae.org/standards/as9146-foreign-object-damage-fod-prevention-program-requirements-aviation-space-defense-organizations
+docidentifier:
+- content: SAE AS9146
+  type: SAE
+  primary: true
+- content: 10.4271/as9146
+  type: DOI
+date:
+- type: approved
+  at: '2022-09-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard defines FOD Prevention Program requirements for organizations that design, develop, and provide aviation, space, and defense products and services; and by organizations providing post-delivery support, including the provision of maintenance, spare parts, or materials for their own products and services.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is emphasized that the requirements specified in this standard are complementary (not alternative) to customer, and applicable statutory and regulatory requirements. Should there be a conflict between the requirements of this standard and applicable statutory or regulatory requirements, the latter shall take precedence.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

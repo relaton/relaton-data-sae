@@ -1,0 +1,69 @@
+---
+id: SAEJ193911_202607
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Physical Layer, 250 kbit/s, Twisted Shielded Pair
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939-11_202607
+- type: src
+  content: https://saemobilus.sae.org/standards/j1939-11_202607-physical-layer-250-kbit-s-twisted-shielded-pair
+docidentifier:
+- content: SAE J1939-11_202607
+  type: SAE
+  primary: true
+- content: 10.4271/j1939-11_202607
+  type: DOI
+date:
+- type: approved
+  at: '2026-07-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document defines a physical layer having a robust immunity to EMI and physical properties suitable for harsh environments. This document is suitable for CAN interfaces applying CAN HS (high-speed) transceivers as specified in ISO 11898-2.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These SAE Recommended Practices are intended for light- and heavy-duty vehicles on- or off-road, as well as appropriate stationary applications which use vehicle derived components (e.g., generator sets). Vehicles of interest include, but are not limited to, on- and off-highway trucks and their trailers, construction equipment, and agricultural equipment and implements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

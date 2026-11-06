@@ -1,0 +1,59 @@
+---
+id: SAEARP8463
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Methods for Determining the Effect of Liquid Disinfectants on Seats in
+    Transport Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp8463
+- type: src
+  content: https://saemobilus.sae.org/standards/arp8463-methods-determining-effect-liquid-disinfectants-seats-transport-aircraft
+docidentifier:
+- content: SAE ARP8463
+  type: SAE
+  primary: true
+- content: 10.4271/arp8463
+  type: DOI
+date:
+- type: approved
+  at: '2022-03-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aircraft Seat Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) defines acceptable methods for determining the effect of disinfectants application to passenger and crew seating products in transport aircraft. This ARP selected a standard application process for all disinfectants in order to remove one variable from the investigation, which, at the time, was more concerned with the unknown effect of disinfectant chemicals on seat materials. The SAE Aircraft Seat Committee noted that most disinfectant manufacturers have their own application regimens to ensure the effectiveness of their product and that these differ from those defined in the ARP. Consequently, the standard application methodology defined in the ARP is not suitable for qualifying disinfectants, but is rather a standard method to compare the disinfectant’s behavior across a range of seat materials. Acceptance of individual disinfectants for specific application regimens is outside the scope of this ARP.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The herein described application of disinfectants furthermore might be overcritical in terms of structural integrity, flammability, aesthetics and corrosion. Consequently, this ARP does not form the basis for any certification requirement.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

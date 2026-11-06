@@ -1,0 +1,49 @@
+---
+id: SAEAMS5641
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL, CORROSION RESISTANT 18 Chromium - 8 Nickel (Swaging or Hot Upsetting
+    Type)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5641
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5641-steel-corrosion-resistant-18-chromium-8-nickel-swaging-hot-upsetting-type
+docidentifier:
+- content: SAE AMS5641
+  type: SAE
+  primary: true
+- content: 10.4271/ams5641
+  type: DOI
+date:
+- type: approved
+  at: '1942-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

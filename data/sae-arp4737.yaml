@@ -1,0 +1,56 @@
+---
+id: SAEARP4737
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AIRCRAFT DEICING/ANTI-ICING METHODS WITH FLUIDS, FOR LARGE TRANSPORT AIRCRAFT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4737
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4737-aircraft-deicing-anti-icing-methods-fluids-large-transport-aircraft
+docidentifier:
+- content: SAE ARP4737
+  type: SAE
+  primary: true
+- content: 10.4271/arp4737
+  type: DOI
+date:
+- type: approved
+  at: '1992-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12M Methods Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides information to assist in the preparation of particular airline aircraft ground deicing/anti-icing procedures and to ensure safe operation of large transport aircraft during adverse conditions conducive to aircraft icing on the ground, in accordance with aircraft manufacturers’ recommendations.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

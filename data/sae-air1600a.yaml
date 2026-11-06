@@ -1,0 +1,61 @@
+---
+id: SAEAIR1600A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Animal Environment in Cargo Compartments
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1600a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1600a-animal-environment-cargo-compartments
+docidentifier:
+- content: SAE AIR1600A
+  type: SAE
+  primary: true
+- content: 10.4271/air1600a
+  type: DOI
+date:
+- type: approved
+  at: '2015-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The environmental factors of prime importance in the transport of animals in aircraft are air temperature, humidity and carbon dioxide concentration, and of course space (or volume) limitations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Secondary factors are air velocity, noise, lighting, etc. Pressure is not addressed herein as pressure levels and rates of change are totally dictated by human occupancy requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Some basic governmental documents, such as References 1, 2 and 3, define overall requirements for animal transportation, but with very limited data on environmental requirements. Reference 4 gives some airplane characteristics measured during animal transportation from the USA to foreign destinations. Temperature and humidity profiles are indicative of airplane characteristics.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This report presents information on the temperature, humidity, ventilation, and carbon dioxide limitations and the metabolic heat release rates for animals which will allow the determination of the environment required by the animals. Design features of ventilated and nonventilated cargo compartments are presented. Methods of calculation of the temperature, humidity, and carbon dioxide environment are provided that will allow for the determination of the animal capacities of animal carrying cargo compartments. Animals are being carried in the lower cargo compartments on passenger carrying aircraft which are only provided with coarse temperature control. These compartments provide a very satisfactory environment for most animals if knowledge of the animal’s requirements are matched with the compartment’s capability to produce that environment.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It should be noted that although animal is the definition of cargo being considered, data is also provided for birds.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

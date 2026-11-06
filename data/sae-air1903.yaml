@@ -1,0 +1,61 @@
+---
+id: SAEAIR1903
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Inerting Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1903
+- type: src
+  content: https://saemobilus.sae.org/standards/air1903-aircraft-inerting-systems
+docidentifier:
+- content: SAE AIR1903
+  type: SAE
+  primary: true
+- content: 10.4271/air1903
+  type: DOI
+date:
+- type: approved
+  at: '2008-07-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5D Fuel Tank Flammability Reduction Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;An airplane fuel tank inerting system provides an inert atmosphere in a fuel tank to minimize explosive ignition of fuel vapor.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This AIR deals with the three methods of fuel tank inerting systems currently used in operational aircraft: (1) on-board inert gas generation systems (OBIGGS), (2) liquid/gaseous nitrogen systems and (3) Halon systems. The OBIGGS and nitrogen systems generally are designed to provide full-time fuel tank fire protection; the Halon systems generally are designed to provide only on-demand or combat-specific protection.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This AIR does not treat the subject of Explosion Suppression Foam (ESF) that has been used for fuel tank explosion protection on a number of military aircraft. ESF is a totally passive, full-time protection system with multiple and simultaneous hit capability up to 23 mm. The primary disadvantages of foam are weight, reduction of usable fuel, and the added maintenance complexity when the foam must be removed for tank maintenance or inspection. AIR4170A is an excellent reference for the use of ESF for fuel tank explosion protection [1].&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEJ2629_201106
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standard Formats for Presenting Acoustical Data
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2629_201106
+- type: src
+  content: https://saemobilus.sae.org/standards/j2629_201106-standard-formats-presenting-acoustical-data
+docidentifier:
+- content: SAE J2629_201106
+  type: SAE
+  primary: true
+- content: 10.4271/j2629_201106
+  type: DOI
+date:
+- type: approved
+  at: '2011-06-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Acoustical Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE developed this document and associated spreadsheets at the request of automobile manufacturers to help compare products from multiple suppliers using standard data presentation formats. This document includes several preferred formats for presenting acoustical data on materials, components, systems, or vehicles. These formats cover the range of acoustical tests commonly conducted in the automotive industry. These tests follow SAE and ASTM test practices as well as vehicle specific test methods.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For each test, the details of samples and test conditions can be entered into an applicable electronic spreadsheet together with the acoustical results data. These data are then linked to standard graphical display(s) for each test. All manufacturers and suppliers in this industry are encouraged to present data and results in these formats.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Although this practice was developed specifically for use in the automotive industry, the formats may be usable in other industries and applications as well.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

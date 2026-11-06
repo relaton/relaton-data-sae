@@ -1,0 +1,58 @@
+---
+id: SAEARP1288A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Placarding of Aircraft Hydraulic Equipment to Identify Phosphate Ester
+    Fluid Compatibility
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1288a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1288a-placarding-aircraft-hydraulic-equipment-identify-phosphate-ester-fluid-compatibility
+docidentifier:
+- content: SAE ARP1288A
+  type: SAE
+  primary: true
+- content: 10.4271/arp1288a
+  type: DOI
+date:
+- type: approved
+  at: '1998-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A1 Commercial Aircraft Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This ARP defines a recommended placard for readily identifying equipment with aircraft phosphate ester fluid to be used in the aircraft hydraulic systems to assure compatibility between the internal seals/materials and the system fluid.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A definition is provided for a durable type and semipermanently attached placard with prescribed text for the permissible fluid are included in the document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

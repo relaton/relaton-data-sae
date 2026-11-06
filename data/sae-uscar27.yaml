@@ -1,0 +1,68 @@
+---
+id: SAEUSCAR27
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SPECIFICATION FOR TESTING GAS DISCHARGE LIGHT SOURCE SUBSYSTEM
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar27
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar27-specification-testing-gas-discharge-light-source-subsystem
+docidentifier:
+- content: SAE USCAR-27
+  type: SAE
+  primary: true
+- content: 10.4271/uscar27
+  type: DOI
+date:
+- type: approved
+  at: '2007-10-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification is a general level subsystem light source specification that establishes test requirements of a Gas Discharge Light Source (GDLS) subsystem for use on passenger vehicles.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The completed test data to this test specification is intended to be provided to the OEM by the Tier one lamp set maker as part of the lamp assembly PPAP. Re-testing shall be required if any portion of the approved GDLS experiences a design, manufacturing or component change.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document shall be applied to systems that meet the requirements for design, performance and validation established by government standards.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The subsystem is defined as the ballast, igniter and light source and shall be tested as a subsystem and considered one test sample for the entire test sequence. A failure of any component in the test sample shall constitute a failure of the entire sample. Substitution or replacement of only the light source shall be allowed during testing. Failure of the light source more than once in a tested system shall constitute a failure of the GDLS. &lt;i&gt;If other manufacture’s components are intended to be approved for use in the GDLS, then those possible combinations of components shall be considered a new GDLS and shall also be tested&lt;/i&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Additional testing may be required by individual OEM’s to meet specific EMC, quality, reliability and durability objectives.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The following tests are to be performed under the following conditions:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;New light source (capsule) or ballast design&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Design or process change made to an existing capsule or ballast, which could affect the outcome of the test&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Completion of one calendar year as noted in the “ANNUAL TESTS” Table shown in the Appendix. &lt;i&gt;(Note: Production process control data, collected at a shorter interval per an approved control plan, may be substituted if approved by customer’s responsible engineer and purchasing representative.)&lt;/i&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

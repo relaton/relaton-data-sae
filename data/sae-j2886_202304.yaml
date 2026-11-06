@@ -1,0 +1,59 @@
+---
+id: SAEJ2886_202304
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Design Review Based on Failure Modes (DRBFM)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2886_202304
+- type: src
+  content: https://saemobilus.sae.org/standards/j2886_202304-design-review-based-failure-modes-drbfm
+docidentifier:
+- content: SAE J2886_202304
+  type: SAE
+  primary: true
+- content: 10.4271/j2886_202304
+  type: DOI
+date:
+- type: approved
+  at: '2023-04-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Automotive Quality and Process Improvement Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE J2886 Design Review Based on Failure Modes (DRBFM) Recommended Practice is intended for Automotive and Non-Automotive applications. It describes the basic principles and processes of DRBFM including planning, preparation, change point FMEA, design reviews, decisions based on actions completed, and feedback loops to other processes, such as design, validation and process guidelines (&lt;span class="xref"&gt;Appendix B&lt;/span&gt; - DRBFM Process Map).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The intent of each fundamental step of the DRBFM methodology is presented. It is intended for use by organizations whose product development processes currently (or intend to) use Failure Mode &amp;amp; Effects Analysis (FMEA) or DRBFM as a tool for assessing the potential risk and reliability of system elements (product or process) or as part of their product improvement processes.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;DRBFM is not intended to replace FMEA however, companies interested in adopting DRBFM will benefit from the focus on specific change points and supporting engineering decisions based on detailed discussions. DRBFM is a change in company culture that requires management commitment to changing the mind set of employees to drill deep and continually ask the question “What Else”. The DRBFM user is responsible for following this recommended practice as well as corporate policies. Alternative documentation formats are provided to meet the intent of the recommended practice.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

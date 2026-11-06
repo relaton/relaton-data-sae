@@ -1,0 +1,56 @@
+---
+id: SAEAIR1850A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Twin Engine Helicopter Power Requirements
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1850a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1850a-twin-engine-helicopter-power-requirements
+docidentifier:
+- content: SAE AIR1850A
+  type: SAE
+  primary: true
+- content: 10.4271/air1850a
+  type: DOI
+date:
+- type: approved
+  at: '1997-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-12 Powered Lift Propulsion Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) defines the power spectrum during normal and emergency operations of a twin engine helicopter and thereby postulates suitable power plant rating structures. This document does not address the power requirements for single engine helicopters or those with more than two engines.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

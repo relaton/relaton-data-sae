@@ -1,0 +1,58 @@
+---
+id: SAEJ2181_201109
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steady-State Circular Test Procedure for Trucks and Buses
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2181_201109
+- type: src
+  content: https://saemobilus.sae.org/standards/j2181_201109-steady-state-circular-test-procedure-trucks-buses
+docidentifier:
+- content: SAE J2181_201109
+  type: SAE
+  primary: true
+- content: 10.4271/j2181_201109
+  type: DOI
+date:
+- type: approved
+  at: '2011-09-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Total Vehicle Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This test procedure is used to determine the steady-state directional control response of vehicles by measuring steady-state cornering behavior. Due to the wide range of operational conditions to which a vehicle can be subjected, the results of this testing do not provide a complete description of a vehicle's total dynamic behavior; in particular, the procedure does not test the vehicle's response during transient maneuvers. To fully assess a vehicle's total dynamic behavior, it would be necessary to conduct other test procedures in order to evaluate the vehicle's performance as a whole.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The extent of instrumentation and the required accuracy of the measurement will be dependent on the goals of the personnel conducting the test. If it is desired simply to determine the general performance characteristics of a vehicle, then this test can be conducted with minimal instrumentation and test item preparation.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

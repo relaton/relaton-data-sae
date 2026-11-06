@@ -1,0 +1,58 @@
+---
+id: SAEAIR6521
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Unmanned Systems (UxS) Control Segment (UCS) Architecture: Data Distribution
+    Service (DDS)'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6521
+- type: src
+  content: https://saemobilus.sae.org/standards/air6521-unmanned-systems-uxs-control-segment-ucs-architecture-data-distribution-service-dds
+docidentifier:
+- content: SAE AIR6521
+  type: SAE
+  primary: true
+- content: 10.4271/air6521
+  type: DOI
+date:
+- type: approved
+  at: '2016-12-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-4UCS Unmanned Systems Control Segment Architecture
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This platform specific Interface Control Document (ICD) provides an example mapping to the Object Management Group’s (OMG) Data Distribution Service (DDS) infrastructure middleware. The mapping is based on the Unmanned Systems (UxS) Control Segment (UCS) Architecture: Model, AS6518. A series of non-normative implementation choices have been made that are specific to this ICD. These implementation choices may not be appropriate for different system implementations. The machine readable ICD and result of this mapping and implementation choices are provided with AIR6521.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Use and understanding of this document assumes a working knowledge of the UCS Architecture, the model structure and its contents.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

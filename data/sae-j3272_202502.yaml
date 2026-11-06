@@ -1,0 +1,57 @@
+---
+id: SAEJ3272_202502
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Powered Micromobility Vehicle Identification Number
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3272_202502
+- type: src
+  content: https://saemobilus.sae.org/standards/j3272_202502-powered-micromobility-vehicle-identification-number
+docidentifier:
+- content: SAE J3272_202502
+  type: SAE
+  primary: true
+- content: 10.4271/j3272_202502
+  type: DOI
+date:
+- type: approved
+  at: '2025-02-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Powered Micromobility Vehicles Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard will apply primarily to the vehicle classes identified in SAE J3194. It provides a schema for utilizing alphanumeric values to represent identifying information such as the manufacturer or vehicle provider, year of manufacture, model, vehicle type, weight, width, speed, and power source. Although conceptually similar to a Vehicle Identification Number (VIN), this standard does not classify or intend to suggest classification of these vehicles as motor vehicles for regulatory or safety data purposes.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The location for placement of these identifiers on the vehicle, type of label, permanence, and visibility are out of scope for this document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

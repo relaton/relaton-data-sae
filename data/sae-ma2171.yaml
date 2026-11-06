@@ -1,0 +1,49 @@
+---
+id: SAEMA2171
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HOSE ASSEMBLY, POLYTETRAFLUOROETHYLENE, PTFE CRES REINFORCED, 204 °C, 21,000
+    KPA, LIGHTWEIGHT BEAM SEAL, STRAIGHT TO 45°, METRIC
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma2171
+- type: src
+  content: https://saemobilus.sae.org/standards/ma2171-hose-assembly-polytetrafluoroethylene-ptfe-cres-reinforced-204-c-21000-kpa-lightweight-beam-seal-straight-45-metric
+docidentifier:
+- content: SAE MA2171
+  type: SAE
+  primary: true
+- content: 10.4271/ma2171
+  type: DOI
+date:
+- type: approved
+  at: '2015-04-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

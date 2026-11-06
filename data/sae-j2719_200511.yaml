@@ -1,0 +1,63 @@
+---
+id: SAEJ2719_200511
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Information Report on the Development of a Hydrogen Quality Guideline for
+    Fuel Cell Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2719_200511
+- type: src
+  content: https://saemobilus.sae.org/standards/j2719_200511-information-report-development-a-hydrogen-quality-guideline-fuel-cell-vehicles
+docidentifier:
+- content: SAE J2719_200511
+  type: SAE
+  primary: true
+- content: 10.4271/j2719_200511
+  type: DOI
+date:
+- type: approved
+  at: '2005-11-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Cell Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Information Report provides interim background information and an interim specification of hydrogen fuel quality for commercial proton exchange membrane (PEM) fuel cell vehicles. This Report also provides background information on how this interim specification was developed by the Hydrogen Quality Task Force (HQTF) of the Interface Working Group (IWG) of the SAE Fuel Cell Standards Committee.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The constituents and thresholds listed in &lt;span class="xref"&gt;table 1&lt;/span&gt; are based on a survey of the industry, the published literature and reflects current and draft analytical test methods. Some of the allowable constituent levels are higher than desired because a published detection method is not available for the desired threshold. Some of the allowable constituent levels may be lower than desired due to incomplete evaluations and/or an attempt to minimize testing costs (such as including methane in total hydrocarbons).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Additional testing of the effects of impurities on fuel cells, fuel systems, and storage media is required. Furthermore, development is required on suitable, cost effective test methods, sampling methodologies and equipment for laboratory, in-line and field evaluation. The American Society of Testing and Materials (ASTM) working group D03 has been charged to address some of these issues.&lt;/div&gt;
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

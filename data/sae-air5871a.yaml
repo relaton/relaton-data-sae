@@ -1,0 +1,56 @@
+---
+id: SAEAIR5871A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Prognostics for Aerospace Propulsion Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5871a
+- type: src
+  content: https://saemobilus.sae.org/standards/air5871a-prognostics-aerospace-propulsion-systems
+docidentifier:
+- content: SAE AIR5871A
+  type: SAE
+  primary: true
+- content: 10.4271/air5871a
+  type: DOI
+date:
+- type: approved
+  at: '2020-10-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document applies to prognostics of aerospace propulsion systems. Its purpose is to define the meaning of prognostics in this context, explain their potential and limitations, and to provide guidelines for potential approaches for use in existing condition monitoring environments. This document also includes some examples. The current revision does not provide specific guidance on validation and verification, nor does it address implementation aspects such as computational capability or certification.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

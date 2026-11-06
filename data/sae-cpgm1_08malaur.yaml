@@ -1,0 +1,51 @@
+---
+id: SAECPGM1_08MALAUR
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: J1349 Certified Power Engine Data for GM LE5 as used in 2008 Chevrolet
+    Malibu / 2008 Saturn Aura Level 1
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/cpgm1_08malaur
+- type: src
+  content: https://saemobilus.sae.org/services/cpgm1_08malaur-j1349-certified-power-engine-data-gm-le5-used-2008-chevrolet-malibu-2008-saturn-aura-level-1
+docidentifier:
+- content: SAE CPGM1_08MALAUR
+  type: SAE
+  primary: true
+- content: 10.4271/cpgm1_08malaur
+  type: DOI
+date:
+- type: approved
+  at: '2007-09-26'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This product includes information on the manufacturer, engine, application,
+    testing location, certified maximum horsepower, certified maximum torque along
+    with the certified curves of horsepower and torque over a wide range of engine
+    RPM speeds.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

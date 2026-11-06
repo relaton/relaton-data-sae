@@ -1,0 +1,72 @@
+---
+id: SAEAIR5719B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Teaching Points for a Class on “Critical Issues in Composite Maintenance,
+    Repair, and Overhaul”
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5719b
+- type: src
+  content: https://saemobilus.sae.org/standards/air5719b-teaching-points-a-class-critical-issues-composite-maintenance-repair-overhaul
+docidentifier:
+- content: SAE AIR5719B
+  type: SAE
+  primary: true
+- content: 10.4271/air5719b
+  type: DOI
+date:
+- type: approved
+  at: '2026-02-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CACRC Commercial Aircraft Composite Repair Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is to be used as a checklist by curriculum developers to create courses or training for critical composite repair, maintenance, and overhaul issues. This document will not take the place of courses or training requirements for specific job roles of a composite repair technician, inspector, or engineer.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

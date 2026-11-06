@@ -1,0 +1,71 @@
+---
+id: SAEJ1216_199907
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Test Methods for Metric Threaded Fasteners
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1216_199907
+- type: src
+  content: https://saemobilus.sae.org/standards/j1216_199907-test-methods-metric-threaded-fasteners
+docidentifier:
+- content: SAE J1216_199907
+  type: SAE
+  primary: true
+- content: 10.4271/j1216_199907
+  type: DOI
+date:
+- type: approved
+  at: '1999-07-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fasteners Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This standard establishes procedures for conducting tests to determine the mechanical properties of externally and internally threaded fasteners.
+
+    Property requirements and the applicable tests for their determination are specified in individual product standards.  In those instances where the testing requirements are unique or at variance with these standard procedures, the product standard shall specify the controlling testing requirements.
+
+    This standard describes mechanical tests for determining the following properties:
+
+    For externally threaded fasteners:
+    Product hardness (Section 4.1)
+    Surface hardness (Section 4.2)
+    Proof load (Section 4.3)
+    Yield strength (Section 4.4)
+    Axial tensile strength (Section 4.5)
+    Wedge tensile strength (Section 4.6)
+    Elongation (Section 4.7)
+    Reduction of area (Section 4.7)
+
+    For internally threaded fasteners:
+    Product hardness (Section 5.1)
+    Proof load (Section 5.2)</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

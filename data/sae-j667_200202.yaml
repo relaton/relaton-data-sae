@@ -1,0 +1,60 @@
+---
+id: SAEJ667_200202
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Brake Test Code--Inertia Dynamometer
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j667_200202
+- type: src
+  content: https://saemobilus.sae.org/standards/j667_200202-brake-test-code-inertia-dynamometer
+docidentifier:
+- content: SAE J667_200202
+  type: SAE
+  primary: true
+- content: 10.4271/j667_200202
+  type: DOI
+date:
+- type: approved
+  at: '2002-02-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Brake Dynamometer Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Recommended Practice establishes a uniform laboratory procedure
+    for evaluating performance and wear of automotive brakes and brake drums by an
+    inertial dynamometer simulation of vehicle test and  operating conditions. The
+    code is applicable to hydraulic, air, or electrically actuated brakes. For electric
+    brakes, 'ampere' values are substituted for 'line pressure' where specified in
+    the procedure or on data and curve sheets. The procedure includes the following
+    tests: 1.  Torque output and deceleration (various speeds and brake input). 2.
+    Evaluation of lining life (wear tests). 3. Brake characteristics (fade and recovery
+    tests, noise, chatter, grabbiness). 4. Drum evaluation (wear, heat checking, scoring).</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

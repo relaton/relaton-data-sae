@@ -1,0 +1,57 @@
+---
+id: SAEJ2497_201012
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Power Line Carrier Communications for Commercial Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2497_201012
+- type: src
+  content: https://saemobilus.sae.org/standards/j2497_201012-power-line-carrier-communications-commercial-vehicles
+docidentifier:
+- content: SAE J2497_201012
+  type: SAE
+  primary: true
+- content: 10.4271/j2497_201012
+  type: DOI
+date:
+- type: approved
+  at: '2010-12-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice defines a method for implementing a bidirectional, serial communications link over the vehicle power supply line among modules containing microcomputers. This document defines those parameters of the serial link that relate primarily to hardware and software compatibility such as interface requirements, system protocol, and message format that pertain to Power Line Communications (PLC) between Tractors and Trailers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document defines a method of activating the trailer ABS Indicator Lamp that is located in the tractor.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

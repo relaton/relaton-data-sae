@@ -1,0 +1,60 @@
+---
+id: SAEUSCAR361
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: DIMENSIONAL AND PERFORMANCE SPECIFICATION FOR AFTER-MARKET GASOLINE ENGINE
+    OIL FILTERS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar36-1
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar36-1-dimensional-performance-specification-market-gasoline-engine-oil-filters
+docidentifier:
+- content: SAE USCAR-36-1
+  type: SAE
+  primary: true
+- content: 10.4271/uscar36-1
+  type: DOI
+date:
+- type: approved
+  at: '2021-05-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification defines the dimensional and performance requirements for aftermarket spin-on oil filters intended for use on gasoline engines. Filters meeting this specification may also be suitable for use on some diesel applications.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Filters meeting these dimensional limits are intended to meet the oil filter fit and package requirements for engine and vehicle designs.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Filters meeting the performance requirements are intended to maintain sufficient durability to support typical 10000 mile oil change intervals. Some OEM engines may require special filters for which this specification would not support.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Filters that meet or exceed this specification requirements for both dimensional and performance can claim “&lt;b&gt;Conformance to SAE/USCAR - 36 Specifications&lt;/b&gt;.” Filters that meet just the performance specifications (ie. may have different thread) can claim “&lt;b&gt;Aligns to SAE/USCAR - 36 Performance Specifications&lt;/b&gt;.”&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

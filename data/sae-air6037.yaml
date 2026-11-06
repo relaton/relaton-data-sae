@@ -1,0 +1,57 @@
+---
+id: SAEAIR6037
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Exhaust Nonvolatile Particle Matter Measurement Method Development
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6037
+- type: src
+  content: https://saemobilus.sae.org/standards/air6037-aircraft-exhaust-nonvolatile-particle-matter-measurement-method-development
+docidentifier:
+- content: SAE AIR6037
+  type: SAE
+  primary: true
+- content: 10.4271/air6037
+  type: DOI
+date:
+- type: approved
+  at: '2010-03-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-31P Particulate Matter Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report provides current practice measurement methods for quantifying nonvolatile particle matter at the exit plane of aircraft gas turbine engines. This document contains detailed information for many instruments and techniques, described in AIR5892A, that have been applied in aircraft engine field tests since AIR5892A was first issued in April 2003. There are four sections, identified as Technical Appendices (TA), presenting measurement techniques, sampling, and quantification of nonvolatile particles. The sections are written in the format of Aerospace Recommended Practice (ARP) documents and intended to progress to recommended practices upon overcoming existing technical challenges. Many important technical advances have been accomplished that comprise the Aircraft Engine Exhaust Nonvolatile Particle Matter Measurement Method Development techniques described in TA A: Particle Mass,TA B: particle Number and Size,TA C: Particle Sampling, and TA D: Calculation of Particle Number and particle Mass Emission Indices.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Various measurement methodologies and operability and compatibility issues are described within the TAs. The TAs briefly discuss degrees of sensitivity, accuracy, repeatability, and test operations acceptability for each measurement discipline. They reflect that many important technical advances have been accomplished for measurement techniques of nonvolatile particles. Additional research is required to transition the TAs to Aerospace Recommended Practices.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,77 @@
+---
+id: SAEUSCAR381
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PERFORMANCE SPECIFICATION FOR ULTRASONICALLY WELDED WIRE TERMINATIONS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar38-1
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar38-1-performance-specification-ultrasonically-welded-wire-terminations
+docidentifier:
+- content: SAE USCAR-38-1
+  type: SAE
+  primary: true
+- content: 10.4271/uscar38-1
+  type: DOI
+date:
+- type: approved
+  at: '2016-04-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification defines test methods and performance criteria for evaluating ultrasonically welded wire-to-terminal metallurgical bonds. The examples used are specific to the linear weld type of process equipment. USCAR-38 is not applicable for “Splice Welding”. The specification is applicable to wire-on-pad configurations with a typical weld shown in &lt;span class="xref"&gt;Figure 1&lt;/span&gt;. This test specification subjects parts under test to environmental exposures to simulate a lifetime of field exposure for a road vehicle. Exposures called-out in this specification include Thermal Shock, Temperature Humidity Cycling and mechanical abuse. This test specification is intended to evaluate the strength and performance of the interface between wires to an electrical terminal. Validation of the performance of the Terminal is a separate task and can be accomplished using a component validation test such as SAE/USCAR-2, which evaluates whether the entire connection system is acceptable.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;If the weld under test (WUT) is different than described in this section, or is subjected to conditions beyond what is typical of automotive use, the SAE/USCAR-38 test sequence may not be applicable. Parts used in custom applications must pass tests simulating the actual conditions encountered before they can be considered acceptable for that application.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Vehicle and product conditions applicable to use of this specification are:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Applicable use: This specification is applicable where the wire and terminal are part of an electrical connection system used in road vehicles at ambient temperatures from -40°C to +150°C. Applied voltage may be either low (0 - 60 VDC) or high (to 600V). USCAR-38 applies to all wire lengths and includes a special test for wires shorter than 500mm where a weld is done after another component has been assembled to the wire (test samples must be made from the exact production-intent welding process to assess potential process damage risk to the terminal at the other end of the wire. Wire harness makers typically will be given the responsibility to track short wire applications per a statement in the applicable engineering statement of work.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Applicable designs: The procedures described are applicable to buss, terminal, or device connections, including eyelet and battery terminations comprising either single or multiple wire terminations. Designs withd without crimped insulation wings are applicable.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Applicable wire: This specification was developed using clean, bare, uncoated, stranded automotive wire. Wire with tin coatings, applied lubricants, or contamination is known to affect the mechanical and electrical performance of ultrasonically welded cable terminations and are not applicable to be evaluated per this spec.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;4)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Applicable wire sizes: Copper wire sizes between 0.22mm&lt;sup&gt;2&lt;/sup&gt; to 85mm&lt;sup&gt;2&lt;/sup&gt; per ISO 6722-1 wire specification and aluminum (per ISO 6722-2) sizes from 0.5mm&lt;sup&gt;2&lt;/sup&gt; to 120mm&lt;sup&gt;2&lt;/sup&gt; are applicable. Other wire types may be tested per this specification but cannot claim compliance to this specification since those sizes are out of our experience. Examples of representative “other” wires types are: compressed core, compacted core, solid wire core, and wire core materials other than copper, copper alloy, aluminum, or aluminum alloy. Examples of different center core materials are copper-clad or steel-center-core wires.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;5)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The validation process described applies only to linear ultrasonic welding, typically with pressure, energy, and amplitude set as inputs and weld time controlled by limiting energy based on ‘feedback’ from process monitoring sensors. Using process feedback assures the energy-per-weld is maintained. If the equipment used to make samples for USCAR-38 testing is different from this description, this spec may need to be modified or may not be applicable.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

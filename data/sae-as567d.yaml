@@ -1,0 +1,58 @@
+---
+id: SAEAS567D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GENERAL PRACTICES FOR USE OF LOCK WIRE, KEY WASHERS, AND COTTER PINS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as567d
+- type: src
+  content: https://saemobilus.sae.org/standards/as567d-general-practices-use-lock-wire-key-washers-cotter-pins
+docidentifier:
+- content: SAE AS567D
+  type: SAE
+  primary: true
+- content: 10.4271/as567d
+  type: DOI
+date:
+- type: approved
+  at: '1969-08-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard covers those devices whose primary function is locking, and excludes those devices which have integral locking features incorporated into the item being locked.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

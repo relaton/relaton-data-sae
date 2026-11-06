@@ -1,0 +1,48 @@
+---
+id: SAEAS152601
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STUD, STEPPED, DRILLED, 1.5 DIA ENGAGEMENT, .250-20 X .190-32
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as152601
+- type: src
+  content: https://saemobilus.sae.org/standards/as152601-stud-stepped-drilled-15-dia-engagement-250-20-x-190-32
+docidentifier:
+- content: SAE AS152601
+  type: SAE
+  primary: true
+- content: 10.4271/as152601
+  type: DOI
+date:
+- type: approved
+  at: '2005-05-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

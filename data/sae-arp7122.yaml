@@ -1,0 +1,60 @@
+---
+id: SAEARP7122
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Utilizing Integrated Vehicle Health Management Systems for Airworthiness
+    Credit
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp7122
+- type: src
+  content: https://saemobilus.sae.org/standards/arp7122-utilizing-integrated-vehicle-health-management-systems-airworthiness-credit
+docidentifier:
+- content: SAE ARP7122
+  type: SAE
+  primary: true
+- content: 10.4271/arp7122
+  type: DOI
+date:
+- type: approved
+  at: '2025-05-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: HM-1 Integrated Vehicle Health Management Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The process detailed within this document is generic and applies to the entire end-to-end health management capability, covering both on-board and on-ground elements in both commercial and military applications throughout their life cycle. While some guidance related to usage of ground-based health management equipment for airworthiness credit exists in certain areas, this document provides a general mechanism to ensure a level of integrity commensurate with the potential aircraft-level consequences of the relevant failure conditions. The practical application of this standardized process is detailed in the form of a checklist. In order to provide some detailed guidance utilizing the process and checklist, some high-level examples of successful cases of approved “Maintenance Credit” applications for airworthiness credit (and one case where the approval is in process in 2024) are included.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not teach how to design an IVHM function, how to do a safety or risk analysis, prescribe hardware or software assurance levels, or answer the question, “How much mitigation and evidence are enough?” The criticality level and mitigation methods will be determined between the applicant and the regulator, using existing guidance from SAE International and other sources. Note that the focus of this document is to ensure appropriate process integrity for the creation of a candidate IVHM function, but it may not address all the elements required to operationalize that function.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document uses the term IVHM to refer to any health management function applied to an air vehicle. The SAE standards committees have been using this term for decades; however, other communities within this industry have used terms such as Aircraft Health Management or Monitoring (AHM), Integrated Aircraft Health Management (IAHM), Vehicle Health Management (VHM), and Rotorcraft Health and Usage Monitoring System (HUMS) to refer to the same concept. At the subsystem level, terms such as Structural Health Monitoring (SHM), Equipment Health Management (EHM), Engine Condition Monitoring (ECM), and Engine Health Management (EHM) are also commonly used. It should be understood that all these terms refer to the same function.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;There are cases where this process is applicable but is not required because of historic precedents. For example, there is a historical precedent for using an off-board health management solution to achieve compliance with extended-range twin-engine operations performance standards (ETOPS) (refer to AC 120-42A).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAMS3042
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MAGNETIC PARTICLES Wet Method, Dry Powder
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3042
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3042-magnetic-particles-wet-method-dry-powder
+docidentifier:
+- content: SAE AMS3042
+  type: SAE
+  primary: true
+- content: 10.4271/ams3042
+  type: DOI
+date:
+- type: approved
+  at: '1974-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS K Non Destructive Methods and Processes Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers magnetic particles having black, red, or other color, as ordered, supplied in the form of dry powders and, when specified, the oil or vehicle to be used, of the type and in the proportions required.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,68 @@
+---
+id: SAEARP4101A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Flight Deck Layout and Facilities
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4101a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4101a-flight-deck-layout-facilities
+docidentifier:
+- content: SAE ARP4101A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4101a
+  type: DOI
+date:
+- type: approved
+  at: '2026-09-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-7 Flight Deck Handling Qualities Stds for Trans Aircraft
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document recommends criteria for the layout and for the design, installation, and operation of flight deck facilities for transport aircraft.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEARP1401B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Fuel System and Component Icing Test
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1401b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1401b-aircraft-fuel-system-component-icing-test
+docidentifier:
+- content: SAE ARP1401B
+  type: SAE
+  primary: true
+- content: 10.4271/arp1401b
+  type: DOI
+date:
+- type: approved
+  at: '2012-06-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5A Aerospace Fuel, Inerting and Lubrication Sys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice (ARP) covers a brief discussion of the icing problem in aircraft fuel systems and different means that have been used to test for icing. Fuel preparation procedures and icing tests for aircraft fuel systems and components are proposed herein as a recommended practice to be used in the aircraft industry for fixed wing aircraft and their operational environment only. In the context of this ARP, the engine (and APU) is not considered to be a component of the aircraft fuel system, for the engine fuel system is subjected to icing tests by the engine/APU manufacturer for commercial and specific military applications. This ARP is written mostly to address fuel system level testing. It also provides a means to address the requirements of 14 CFR 23.951(c) and 25.951(c). Some of the methods described in this document can be applied to engine and APU level testing or components of those application domains.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This revision does not completely address new developments in ice accretion resulting from internal flow in tubing. This will be addressed in a future revision when more experimental data is available. Some background information on the topic is planned to be available in AIR790.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

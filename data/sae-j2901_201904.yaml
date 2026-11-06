@@ -1,0 +1,60 @@
+---
+id: SAEJ2901_201904
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Misfire Generator Functional Requirements
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2901_201904
+- type: src
+  content: https://saemobilus.sae.org/standards/j2901_201904-misfire-generator-functional-requirements
+docidentifier:
+- content: SAE J2901_201904
+  type: SAE
+  primary: true
+- content: 10.4271/j2901_201904
+  type: DOI
+date:
+- type: approved
+  at: '2019-04-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The intent of the specification is to present a functional set of requirements which define the user and hardware interfaces while providing sufficient capability to meet the misfire patterns for compliance demonstration and engineering development. Throughout this requirement, any reference to “ignition or injector control signal” is used interchangeably to infer that the effected spark ignition engine’s ignition control signal or the compression ignition engine’s injector control signal is interrupted, timing phased, or directly passed by the misfire generator.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For spark ignition engines, the misfire generator behaves as a spark-defeat device which induces misfires by inhibiting normal ignition coil discharge. It does so by monitoring the vehicle’s ignition timing signals and suspends ignition coil saturation for selected cylinder firing events. The misfire generator will thereby induce engine misfire in spark ignited gasoline internal combustion engines; including rotary engines.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For compression ignition engines, the misfire generator behaves as a fuel injection-defeat device which induces misfire by inhibiting the normal fuel injection pulses. It does so by monitoring the injection pulses signal and suspending the injection pulses for selected cylinder firing events. The misfire generator will thereby induce engine misfire in compression ignition engines.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This requirement assumes that the user has a fundamental understanding of misfire diagnostics as well as ignition controls. This requirement is not intended to be an introductory misfire guideline or interpretation of regulatory requirements.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

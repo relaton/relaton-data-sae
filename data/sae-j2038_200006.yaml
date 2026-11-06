@@ -1,0 +1,57 @@
+---
+id: SAEJ2038_200006
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Engine Weight, Dimensions, Center of Gravity, and Moment of inertia
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2038_200006
+- type: src
+  content: https://saemobilus.sae.org/standards/j2038_200006-engine-weight-dimensions-center-gravity-moment-inertia
+docidentifier:
+- content: SAE J2038_200006
+  type: SAE
+  primary: true
+- content: 10.4271/j2038_200006
+  type: DOI
+date:
+- type: approved
+  at: '2000-06-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: SAE IC Powertrain Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Recommended Practice has been developed to provide a uniform
+    method for reporting the weight, dimensions, center of gravity, and moment of
+    inertia of internal combustion engines. SAE J2038 is not intended to cover the
+    technical interface between the engine and  transmission. To locate the rear of
+    the engine crankshaft in relationship to the rear of the flywheel housing, refer
+    to SAE J617.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

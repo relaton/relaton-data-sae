@@ -1,0 +1,57 @@
+---
+id: SAEARP4698
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guide for Choosing a Minimum Wall Thickness of Tubing for Use With Weld
+    Fittings Coded for a Range of Wall Sizes
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4698
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4698-guide-choosing-a-minimum-wall-thickness-tubing-use-weld-fittings-coded-a-range-wall-sizes
+docidentifier:
+- content: SAE ARP4698
+  type: SAE
+  primary: true
+- content: 10.4271/arp4698
+  type: DOI
+date:
+- type: approved
+  at: '2013-01-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) is intended as a guide for choosing a minimum wall thickness of tubing, based only on pressure, for use with welded tube fitting ends that have a “tube wall code” covering a range of tube wall thicknesses. These wall thicknesses are based on burst pressure with an arbitrary additional safety factor. If the weld fitting user has already established the required minimum wall thickness for given performance conditions, this guide does not apply.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,49 @@
+---
+id: SAEAS34451A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CONNECTOR, PLUG, ELECTRIC, CRIMP TYPE, RACK AND PANEL, SERIES 2 (CLASS
+    E)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as34451a
+- type: src
+  content: https://saemobilus.sae.org/standards/as34451a-connector-plug-electric-crimp-type-rack-panel-series-2-class-e
+docidentifier:
+- content: SAE AS34451A
+  type: SAE
+  primary: true
+- content: 10.4271/as34451a
+  type: DOI
+date:
+- type: approved
+  at: '2021-07-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C1 Connectors Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

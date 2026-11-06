@@ -1,0 +1,56 @@
+---
+id: SAEARP492
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AIRCRAFT FUEL PUMP CAVITATION ENDURANCE TEST
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp492
+- type: src
+  content: https://saemobilus.sae.org/standards/arp492-aircraft-fuel-pump-cavitation-endurance-test
+docidentifier:
+- content: SAE ARP492
+  type: SAE
+  primary: true
+- content: 10.4271/arp492
+  type: DOI
+date:
+- type: approved
+  at: '1957-11-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5B Aircraft and Engine Fuel and Lubricant Sys Components
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This procedure is intended to apply to any aircraft fuel pump which supplies liquid hydrocarbon fuel either directly to an aircraft engine or to another pump mounted on an aircraft engine, except that it is not intended to apply to a fuel pump mounted in a fuel tank.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEJ1850_198811
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CLASS B DATA COMMUNICATION NETWORK INTERFACE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1850_198811
+- type: src
+  content: https://saemobilus.sae.org/standards/j1850_198811-class-b-data-communication-network-interface
+docidentifier:
+- content: SAE J1850_198811
+  type: SAE
+  primary: true
+- content: 10.4271/j1850_198811
+  type: DOI
+date:
+- type: approved
+  at: '1988-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Architecture For Data Communications Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The objective of this document is to define a minimum set of physical and data link layer requirements applicable to a vehicle data communication network that is cost effective for simple applications and flexible enough to use in complex applications. Network requirements "above" the physical and data link layers are generally application specific and are, therefore, left to the system designer.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The requirements contained in this document define a data communications network philosophy that satisfies the needs of the automotive manufacturers. In its present form, this document defines a cohesive set of data link layer requirements. On the other hand, several alternative physical layer approaches are specified to accommodate a variety of application requirements. Although devices may be constructed that can be configured to meet all of the physical and data link layer requirements defined in this document, it is expected that most manufacturers will use subsets of these requirements depending on their specific application and corporate philosophy toward data link usage. However, low volume users of network interface devices may still find it more effective to use a generic interface capable of handling essentially all of the requirements specified in this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Designers of integrated circuit(s) associated with these requirements are encouraged to innovate and add flexibility in their designs in order to gain broader market acceptance of their specific product offerings.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This SAE document is under the control and maintenance of The Vehicle Network for Multiplexing and Data Communications (Multiplex) Committee. This committee will periodically review and update this document as needs dictate. In the document's present form, as a recommended practice, it contains information that is intended as a guide to standard engineering practice. It is the eventual goal of this committee to upgrade this document to an SAE Standard. To accomplish this upgrade, the document must contain information describing a broadly accepted engineering practice. This means hardware must be developed requiring most likely refinements, technical advancements, and a broad acceptance of a single cohesive set of network features.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

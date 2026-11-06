@@ -1,0 +1,58 @@
+---
+id: SAEAS83819
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Bearings, Plain, Self-Aligning, Self-Lubricating, 1400 cpm (15 fpm), Oscillation,
+    -65 to +160 °F (-54 to +71 °C)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as83819
+- type: src
+  content: https://saemobilus.sae.org/standards/as83819-bearings-plain-self-aligning-self-lubricating-1400-cpm-15-fpm-oscillation-65-160-f-54-71-c
+docidentifier:
+- content: SAE AS83819
+  type: SAE
+  primary: true
+- content: 10.4271/as83819
+  type: DOI
+date:
+- type: approved
+  at: '2018-08-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ACBG Plain Bearing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard covers the requirements for spherical, self-aligning, self-lubricating, bearings which are for use in the ambient temperature range of -65 to +160 °F (-54 to +71 °C) at high cyclic speeds 1400 cpm (15 fpm). The scope of this standard is to provide a liner system qualification procedure for helicopter sliding bearings defined and controlled by source control drawings. Once a liner system is qualified, the source-controlled bearings are further tested under application conditions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Under Department of Defense (DoD) Policies and Procedures, any qualification requirements and associated Qualified Products List (QPLs) are mandatory for DoD contracts. Any materials relating to QPLs have not been adopted by SAE and are not part of this SAE technical document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

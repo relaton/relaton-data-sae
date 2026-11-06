@@ -1,0 +1,59 @@
+---
+id: SAEMA1547A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Wrenches, Twelve Spline, Metric
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma1547a
+- type: src
+  content: https://saemobilus.sae.org/standards/ma1547a-wrenches-twelve-spline-metric
+docidentifier:
+- content: SAE MA1547A
+  type: SAE
+  primary: true
+- content: 10.4271/ma1547a
+  type: DOI
+date:
+- type: approved
+  at: '2019-05-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EG-1B Hand Tools Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard covers the design, performance, and test requirements for high strength, thin wall, commercial sockets, universal sockets, and box wrenches used for the attachment and detachment of metric spline drive, high strength, and high temperature aircraft fasteners.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Inclusion of dimensional data in this standard is not intended to imply that all of the products described herein are stock production sizes. Consumers are requested to consult with manufacturers concerning lists of stock production sizes.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard is based on, but not limited to, the following external spline wrenching system:&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

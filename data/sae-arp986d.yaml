@@ -1,0 +1,60 @@
+---
+id: SAEARP986D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guide for Qualification Testing of Aircraft Air Valves
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp986d
+- type: src
+  content: https://saemobilus.sae.org/standards/arp986d-guide-qualification-testing-aircraft-air-valves
+docidentifier:
+- content: SAE ARP986D
+  type: SAE
+  primary: true
+- content: 10.4271/arp986d
+  type: DOI
+date:
+- type: approved
+  at: '2020-05-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) defines recommended analysis and test procedures for qualification of pneumatically, electrically, manually, and hydraulically actuated air valves. They may be further defined as valves that function in response to externally applied forces or in response to variations in upstream and/or downstream duct air conditions in order to maintain a calibrated duct air condition (e.g., air flow, air pressure, air temperature, air pressure ratio, or air shutoff).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Qualification testing performed on the airplane to verify compatibility of the valve function and stability as part of a complete system is outside the scope of this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Refer to ARP1270 for design and certification requirements for cabin pressurization control system components.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;As this document is only a guide, it does not supersede or relieve any requirements contained in detailed Customer specifications.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

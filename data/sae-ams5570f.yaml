@@ -1,0 +1,49 @@
+---
+id: SAEAMS5570F
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL TUBING, SEAMLESS, CORROSION AND HEAT RESISTANT 18Cr - 11Ni - Ti (SAE
+    30321)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5570f
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5570f-steel-tubing-seamless-corrosion-heat-resistant-18cr-11ni-ti-sae-30321
+docidentifier:
+- content: SAE AMS5570F
+  type: SAE
+  primary: true
+- content: 10.4271/ams5570f
+  type: DOI
+date:
+- type: approved
+  at: '1950-06-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

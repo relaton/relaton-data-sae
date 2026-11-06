@@ -1,0 +1,57 @@
+---
+id: SAEJ1044A_197709
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: WORLD MANUFACTURER IDENTIFIER
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1044a_197709
+- type: src
+  content: https://saemobilus.sae.org/standards/j1044a_197709-world-manufacturer-identifier
+docidentifier:
+- content: SAE J1044A_197709
+  type: SAE
+  primary: true
+- content: 10.4271/j1044a_197709
+  type: DOI
+date:
+- type: approved
+  at: '1977-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: VIN - WMI Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes procedure for the issuance and assignment of a World Manufacturer Identifier (WMI) on a uniform basis to vehicle manufacturers who may desire to incorporate it in their Vehicle Identification Numbers (VIN). This recommended practice is intended to be used in conjunction with the recommendations for VIN systems described in SAE J853a, J187, J272b, J273a, and other SAE reports for VIN systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These procedures were developed to assist in identifying the vehicle as to its point of origin. It was felt that issuance of the WMI by a single organization would avoid duplication of manufacturer identifiers and assist in the identification of vehicles by agencies such as those concerned with motor vehicle titling and registration, law enforcement, and theft recovery.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

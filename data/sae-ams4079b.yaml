@@ -1,0 +1,49 @@
+---
+id: SAEAMS4079B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY TUBING, SEAMLESS, DRAWN, ROUND, CLOSE TOLERANCE 1.0Mg -
+    0.60Si - 0.30Cu - 0.20Cr (6061-0)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4079b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4079b-aluminum-alloy-tubing-seamless-drawn-round-close-tolerance-10mg-060si-030cu-020cr-6061-0
+docidentifier:
+- content: SAE AMS4079B
+  type: SAE
+  primary: true
+- content: 10.4271/ams4079b
+  type: DOI
+date:
+- type: approved
+  at: '1969-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

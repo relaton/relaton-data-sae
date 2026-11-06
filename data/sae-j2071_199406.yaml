@@ -1,0 +1,100 @@
+---
+id: SAEJ2071_199406
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AERODYNAMIC TESTING OF ROAD VEHICLES - OPEN THROAT WIND TUNNEL ADJUSTMENT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2071_199406
+- type: src
+  content: https://saemobilus.sae.org/standards/j2071_199406-aerodynamic-testing-road-vehicles-open-throat-wind-tunnel-adjustment
+docidentifier:
+- content: SAE J2071_199406
+  type: SAE
+  primary: true
+- content: 10.4271/j2071_199406
+  type: DOI
+date:
+- type: approved
+  at: '1994-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Road Vehicle Aerodynamics Forum Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;As a simulation of road driving, wind tunnel testing of full-size vehicles produces certain errors in the aerodynamic forces, aerodynamic moments, and surface pressures. The magnitude of these errors, in general, depends on the following:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Flow quality&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Determination of the reference dynamic pressure&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Wind tunnel floor boundary layer&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Test section geometry and position of the car within that geometry&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Shape of the vehicle&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;f&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Blockage ratio: The ratio of the cross-sectional area of the vehicle to the cross-sectional area of the wind tunnel nozzle&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;g&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Wheel rotation&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;h&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Internal flow in the model&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;The SAE Standards Committee, Open Throat Wind Tunnel Adjustments had as a goal to document the knowledge of the influence of model interference on wind tunnel test results for automotive open jet wind tunnels. This document contains the following information related to this subject:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Design data of open throat wind tunnels&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A summary of published and unpublished test data&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Documentation and theoretical explanation of various blockage correction procedures for automotive tests&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Critical evaluation of blockage correction procedures, especially in relation to other influences, such as test section geometry, position of the car, floor boundary layer, etc.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Recommendation of a calibration procedure to determine the effect of blockage and other influences in each individual wind tunnel&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;An initial goal of the committee, to recommend a well proven correction procedure for automotive open jet wind tunnels based on blockage theory (&lt;span class="xref"&gt;Figure 1&lt;/span&gt;), could not be established at this time. The reason is that, besides blockage, other factors, such as test section geometry, are at least as influential as pure blockage. As these influential parameters are wind tunnel specific, a general valid adjustment procedure is presently not available.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

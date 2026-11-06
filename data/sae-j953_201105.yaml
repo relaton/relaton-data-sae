@@ -1,0 +1,56 @@
+---
+id: SAEJ953_201105
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Passenger Car Backlight Defogging System
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j953_201105
+- type: src
+  content: https://saemobilus.sae.org/standards/j953_201105-passenger-car-backlight-defogging-system
+docidentifier:
+- content: SAE J953_201105
+  type: SAE
+  primary: true
+- content: 10.4271/j953_201105
+  type: DOI
+date:
+- type: approved
+  at: '2011-05-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Interior Climate Control Vehicle OEM Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this SAE Recommended Practice is to establish uniform test procedures for passenger cars, to determine whether the system is defined as a defroster or defogger, and to establish minimum performance requirements for each system. A defroster for purposes of this practice is a system which will remove moisture and/or frost from the interior surface of the backlight at −18 °C. A defogger is a system which will remove moisture and/or fog from the interior surface of the backlight at 4 °C. The test procedure is intended to simulate actual conditions by utilizing either a cold room with an appropriate device to introduce air flow over the backlight or a sufficiently large wind tunnel with ambient temperature control. The test procedure and the minimum performance requirements are based on currently available engineering data.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,49 @@
+---
+id: SAEAMS6419
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS, FORGINGS, AND TUBING 1.6Si - 0.82Cr - 1.8Ni - 0.40Mo - 0.07V
+    (0.41 - 0.46C) Premium Quality, Consumable Electrode Melted
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6419
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6419-steel-bars-forgings-tubing-16si-082cr-18ni-040mo-007v-041-046c-premium-quality-consumable-electrode-melted
+docidentifier:
+- content: SAE AMS6419
+  type: SAE
+  primary: true
+- content: 10.4271/ams6419
+  type: DOI
+date:
+- type: approved
+  at: '1968-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

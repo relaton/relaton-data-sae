@@ -1,0 +1,57 @@
+---
+id: SAEAIR1855
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ACTUATION SYSTEM DATA SUMMARY FOR MISSILES AND LAUNCH VEHICLES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1855
+- type: src
+  content: https://saemobilus.sae.org/standards/air1855-actuation-system-data-summary-missiles-launch-vehicles
+docidentifier:
+- content: SAE AIR1855
+  type: SAE
+  primary: true
+- content: 10.4271/air1855
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6B1 Hydraulic Servo Actuation Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this document includes all missile and launch vehicle actuation systems, including electrohydraulic, electropneumatic, and electromechanical types. The data for many systems are not complete. As more information becomes available, periodic updates will be issued to complete existing data sheets and to add new ones.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;An index by type of vehicle and by type of actuation system is included. The actual data sheets in the body of the report are organized in alphabetical order.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

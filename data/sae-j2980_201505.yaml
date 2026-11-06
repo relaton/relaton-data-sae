@@ -1,0 +1,59 @@
+---
+id: SAEJ2980_201505
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Considerations for ISO 26262 ASIL Hazard Classification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2980_201505
+- type: src
+  content: https://saemobilus.sae.org/standards/j2980_201505-considerations-iso-26262-asil-hazard-classification
+docidentifier:
+- content: SAE J2980_201505
+  type: SAE
+  primary: true
+- content: 10.4271/j2980_201505
+  type: DOI
+date:
+- type: approved
+  at: '2015-05-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Functional Safety Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice presents a method and example results for determining the Automotive Safety Integrity Level (ASIL) for automotive electrical and electronic (E/E) systems. This activity is required by ISO 26262-3:2011 [1], and it is intended that the process and results herein are consistent with ISO 26262:2011 [1]. The technical focus of this document is on vehicle motion control systems. It is limited to passenger cars weighing up to 3.5 metric tons. Furthermore, the scope of this recommended practice is limited to collision-related hazards. ISO 26262:2011 [1] has a wider scope than SAE J2980, covering other functions and accidents (not just motion control or collisions as in SAE J2980).&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

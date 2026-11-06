@@ -1,0 +1,49 @@
+---
+id: SAEAS828191
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BEARINGS, PLAIN, SELF-ALIGNING, SELF-LUBRICATING, 300 CPM (13 FPM) OSCILLATION,
+    -65 TO +160 °F, LINERS LESS THAN .015 INCH THICK
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as82819/1
+- type: src
+  content: https://saemobilus.sae.org/standards/as828191-bearings-plain-self-aligning-self-lubricating-300-cpm-13-fpm-oscillation-65-160-f-liners-less-015-inch-thick
+docidentifier:
+- content: SAE AS82819/1
+  type: SAE
+  primary: true
+- content: 10.4271/as82819/1
+  type: DOI
+date:
+- type: approved
+  at: '2018-08-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ACBG Plain Bearing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

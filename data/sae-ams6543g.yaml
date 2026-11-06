@@ -1,0 +1,57 @@
+---
+id: SAEAMS6543G
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Bars and Forgings 2.0Cr - 10Ni - 8.0Co - 1.0Mo (0.10 - 0.14C) (HY-180)
+    Double Vacuum Melted Solution Heat Treated, Marage Hardenable
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6543g
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6543g-steel-bars-forgings-20cr-10ni-80co-10mo-010-014c-hy-180-double-vacuum-melted-solution-heat-treated-marage-hardenable
+docidentifier:
+- content: SAE AMS6543G
+  type: SAE
+  primary: true
+- content: 10.4271/ams6543g
+  type: DOI
+date:
+- type: approved
+  at: '2020-06-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a premium aircraft-quality maraging steel in the form of bars 0.50 inch (12.7 mm) and over in nominal diameter or least distance between parallel sides, forgings, and forging stock.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

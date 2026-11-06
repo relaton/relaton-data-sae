@@ -1,0 +1,58 @@
+---
+id: SAEAS6858
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Installation of Fuel Cell Systems in Large Civil Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6858
+- type: src
+  content: https://saemobilus.sae.org/standards/as6858-installation-fuel-cell-systems-large-civil-aircraft
+docidentifier:
+- content: SAE AS6858
+  type: SAE
+  primary: true
+- content: 10.4271/as6858
+  type: DOI
+date:
+- type: approved
+  at: '2023-04-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7F Hydrogen and Fuel Cells
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This is a joint SAE/EUROCAE development. This document will be released as both an SAE Aerospace Specification (AS) and a EUROCAE Minimum Aviation System Performance Standard (MASPS).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document defines the technical requirements for the safe integration of gaseous hydrogen fueled Proton Exchange Membrane (PEM) Fuel Cell Systems (FCS) within the aircraft.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Most of the technical concepts and approaches covered by this document represent current industry "best practice". Others require specific approval from the procuring activity before use. This requirement for approval is not intended to prohibit their use; but rather to ensure that the prime contractor has fully investigated their capability to perform reliably and to be sufficiently durable under the required conditions and that the prime contractor can present substantiating evidence for approval before the design is committed to.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

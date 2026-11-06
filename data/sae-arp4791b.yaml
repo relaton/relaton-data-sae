@@ -1,0 +1,58 @@
+---
+id: SAEARP4791B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Human Engineering Recommendations for Data Link Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4791b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4791b-human-engineering-recommendations-data-link-systems
+docidentifier:
+- content: SAE ARP4791B
+  type: SAE
+  primary: true
+- content: 10.4271/arp4791b
+  type: DOI
+date:
+- type: approved
+  at: '2020-11-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10EAB Executive Advisory Group
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document sets forth general, functional, procedural, and design criteria and recommendations concerning human engineering of data link systems. The recommendations are based on limited evidence from empirical and analytic studies of simulated data link communication, and on experience from operational tests and actual use of data link. However, because data are not yet available to support recommendations on all potentially critical human engineering issues these recommendations necessarily go beyond the data link research and include requirements based on related research and human factors engineering practice. It is also recognized that evolution of these recommendations will be appropriate as experience with data link accumulates and new applications are implemented.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document focuses primarily on recommendations for data link communications between an air traffic specialist and a pilot, i.e., air traffic services communications, although some recommendations address use of data link for flight information services. Unless otherwise specified within the text, all recommendations apply to both flight deck and ground-based data link systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is intended as a guide for development and evaluation of data link systems. Human engineering considerations are an important element of data link system performance. As illustrated in &lt;span class="xref"&gt;Figure 1&lt;/span&gt;, human engineering recommendations address many component functions required for effective data link communication services in the operational environment. For presentation purposes, the recommendations are divided into five sections: General, functional, procedures, flight deck/air traffic service (ATS) workstation integration, and human-computer interface. To facilitate understanding and use of this document appropriate cross-references to interrelated recommendations appear in parentheses throughout the text.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

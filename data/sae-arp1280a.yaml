@@ -1,0 +1,58 @@
+---
+id: SAEARP1280A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace - Application Guide for Hydraulic Power Transfer Units
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1280a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1280a-aerospace-application-guide-hydraulic-power-transfer-units
+docidentifier:
+- content: SAE ARP1280A
+  type: SAE
+  primary: true
+- content: 10.4271/arp1280a
+  type: DOI
+date:
+- type: approved
+  at: '2002-07-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C4 Power Sources Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) is an application guide for hydraulic power transfer units, and describes the various types, typical design approaches, their operational characteristics and limitations, circuit recommendations, and a tabulation of typical applications. The scope is limited to devices that transfer power between hydraulic systems and do so by means of rotary subassemblies such as hydraulic motors and pumps.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

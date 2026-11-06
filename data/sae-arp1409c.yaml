@@ -1,0 +1,56 @@
+---
+id: SAEARP1409C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft On Board Weight and Balance System Requirements
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1409c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1409c-aircraft-board-weight-balance-system-requirements
+docidentifier:
+- content: SAE ARP1409C
+  type: SAE
+  primary: true
+- content: 10.4271/arp1409c
+  type: DOI
+date:
+- type: approved
+  at: '2018-10-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) establishes requirements for the function, characteristics, and installation of an aircraft On Board Weight and Balance System (OBWBS) for use on civil transport aircraft. This document is not intended to specify design methods, mechanisms, or material to accomplish the requirements set forth.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

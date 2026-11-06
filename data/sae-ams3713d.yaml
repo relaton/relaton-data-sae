@@ -1,0 +1,56 @@
+---
+id: SAEAMS3713D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Core, Flexible Honeycomb, Polyamide Paper Base, Phenolic Coated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3713d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3713d-core-flexible-honeycomb-polyamide-paper-base-phenolic-coated
+docidentifier:
+- content: SAE AMS3713D
+  type: SAE
+  primary: true
+- content: 10.4271/ams3713d
+  type: DOI
+date:
+- type: approved
+  at: '2013-07-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P17 Polymer Matrix Composites Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers honeycomb core made of polyamide paper sheets in a non-hexagonal, flexible cell configuration and supplied in the form of blocks, slices, and ordered shapes.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

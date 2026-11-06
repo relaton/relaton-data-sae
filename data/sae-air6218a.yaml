@@ -1,0 +1,70 @@
+---
+id: SAEAIR6218A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Constructing a Development Assurance Plan for Integrated Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6218a
+- type: src
+  content: https://saemobilus.sae.org/standards/air6218a-constructing-a-development-assurance-plan-integrated-systems
+docidentifier:
+- content: SAE AIR6218A
+  type: SAE
+  primary: true
+- content: 10.4271/air6218a
+  type: DOI
+date:
+- type: approved
+  at: '2026-05-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-18 Aircraft and Sys Dev and Safety Assessment Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) supplements ARP4754B/ED-79B by identifying the crucial elements to be considered when constructing the development assurance plans described in &lt;span class="xref"&gt;Section 3&lt;/span&gt; (Development Assurance Planning) of ARP4754B/ED-79B for integrated systems. Section 4.6.4 of ARP4754B/ED-79B expands the aircraft/system integration and verification activities by emphasizing testing during integration to investigate for unintended behaviors. However, guidelines are needed for planning that are specifically aimed at the aircraft level and at integrating across system functions and boundaries. Until such guidelines are more comprehensively provided, this AIR presents a collection of lessons learned from past certification programs involving integrated systems, and as such it may be considered in conjunction with Sections 3 and 4 of ARP4754B/ED-79B.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;ARP4761A/ED-135 elaborates the safety activities by adding processes and methods such as the Aircraft or System Functional Hazard Assessment (AFHA/SFHA) and Preliminary Aircraft or System Safety Assessment (PASA/PSSA). These safety activities can contribute to the overall plans for the integration phase of development at the aircraft or system level, including the identification of areas that could lead to cascading failures or unintended behaviors.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This AIR is not guidance for system integration technologies.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

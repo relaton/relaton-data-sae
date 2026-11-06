@@ -1,0 +1,55 @@
+---
+id: SAEAMS6449E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Bars, Forgings, and Tubing, 1.0Cr (0.98 - 1.10C) (SAE 51100) for
+    Bearing Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6449e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6449e-steel-bars-forgings-tubing-10cr-098-110c-sae-51100-bearing-applications
+docidentifier:
+- content: SAE AMS6449E
+  type: SAE
+  primary: true
+- content: 10.4271/ams6449e
+  type: DOI
+date:
+- type: approved
+  at: '2006-05-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification has been declared NONCURRENT by the Aerospace Materials
+    Division, SAE, as of September 1995. It is recommended, therefore, that this specification
+    not be specified for new designs. Alloy: 51100 UNS Number: G51986</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

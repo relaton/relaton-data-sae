@@ -1,0 +1,59 @@
+---
+id: SAEAIR5720
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Technical Architecture for Aircraft, Launcher, and Weapon Interoperability
+    (ALWI TA)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5720
+- type: src
+  content: https://saemobilus.sae.org/standards/air5720-technical-architecture-aircraft-launcher-weapon-interoperability-alwi-ta
+docidentifier:
+- content: SAE AIR5720
+  type: SAE
+  primary: true
+- content: 10.4271/air5720
+  type: DOI
+date:
+- type: approved
+  at: '2008-01-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1B Aircraft Store Integration Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The technical architecture defined in this document outlines mandatory, emerging, and needed standards to provide interoperability at key interfaces in the aircraft/store system (including an associated NATO Network Enabled Capability environment), as required to support a future plug-and-play aircraft/store integration capability. These standards relate to services and protocols associated with the subject interfaces. Modeling standards to facilitate the Model Driven Architecture® (MDA®) approach to system definition and implementation are also included. Note that the status of referenced standards as reflected in this document is as of August 2007, and document users should check to see if there has been a subsequent change of status relative to applicable standards.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

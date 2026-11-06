@@ -1,0 +1,56 @@
+---
+id: SAEJ1516_200902
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Accommodation Tool Reference Point
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1516_200902
+- type: src
+  content: https://saemobilus.sae.org/standards/j1516_200902-accommodation-tool-reference-point
+docidentifier:
+- content: SAE J1516_200902
+  type: SAE
+  primary: true
+- content: 10.4271/j1516_200902
+  type: DOI
+date:
+- type: approved
+  at: '2009-02-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Human Factors Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Reference lines have been developed to which driver workspace accomodation tools can be located in vehicle space. The lines describe horizontal reference point locations as a function of vehicle H-point height (H30). One reference line has been established for use in vehicles with H-point heights (H30) and steering wheel diameters (W9) less than 405 and 450 mm, respectively. (Class A Vehicles) This point can be used to reference appropriate workspace tools to accommodate a driver population with a male-to-female ratio of one-to-one. Separate reference lines have been established for use in vehicles with H-point heights (H30) between 405 and 530 mm and steering wheel diameters (W9) between 450 and 560 mm with treadle type pedals. (Class B Vehicles) See &lt;span class="xref"&gt;Figure 1&lt;/span&gt;. Three lines are available for use in Class B vehicles depending on the percentages of males and females in the population the designer wishes to accommodate. Separate points can be used to reference appropriate workspace tools to accommodate driver populations with male-to-female ratios of 50:50, 75:25, and 90:10 to 95:5. Different procedures for locating Class A and Class B accommodation tool reference lines in vehicle space have been established based on unique packaging considerations of the two categories of vehicles.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

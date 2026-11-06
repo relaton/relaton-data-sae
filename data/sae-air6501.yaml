@@ -1,0 +1,57 @@
+---
+id: SAEAIR6501
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Method for Modeling Line-of-Sight Blockage of Aircraft Noise
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6501
+- type: src
+  content: https://saemobilus.sae.org/standards/air6501-method-modeling-line-sight-blockage-aircraft-noise
+docidentifier:
+- content: SAE AIR6501
+  type: SAE
+  primary: true
+- content: 10.4271/air6501
+  type: DOI
+date:
+- type: approved
+  at: '2020-02-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-21 Aircraft Noise Measurement Aviation Emission Modeling
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes methods for calculating the attenuation of sound due to line-of-sight blockage or shielding from non-level terrain. This method applies to sound propagating from an airplane to locations on the ground during ground roll, climbout after liftoff, and landing operations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;AIR1845 and AIR5662 provides guidance for modeling aircraft noise at airports with flat terrain. In reality, many airports are surrounded by non-level terrain that may result in attenuation (or shielding) of sound at some receptors. This noise blockage can be accounted for with the line-of-sight blockage calculation, based on the difference in propagation path length between the direct path and propagation path over the top of terrain feature. The purpose of this aircraft information report is to provide a method that accounts for the attenuation due to line-of-sight blockage of aircraft noise by terrain features.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

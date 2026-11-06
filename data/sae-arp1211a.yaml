@@ -1,0 +1,52 @@
+---
+id: SAEARP1211A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GAS TURBINE ENGINE STATUS PERFORMANCE PRESENTATION FOR DIGITAL COMPUTER
+    PROGRAMS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1211a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1211a-gas-turbine-engine-status-performance-presentation-digital-computer-programs
+docidentifier:
+- content: SAE ARP1211A
+  type: SAE
+  primary: true
+- content: 10.4271/arp1211a
+  type: DOI
+date:
+- type: approved
+  at: '1971-07-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Status programs are neither preliminary design nor specification programs (as covered by SAE Standard AS 681C) but represent an additional category: They are intended to provide the best estimate of performance for an engine or group of engines at the time of program preparation and will normally include greater test experience than a specification program.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

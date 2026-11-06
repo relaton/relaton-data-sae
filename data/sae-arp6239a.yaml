@@ -1,0 +1,66 @@
+---
+id: SAEARP6239A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Demonstration Emergency Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6239a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6239a-demonstration-emergency-equipment
+docidentifier:
+- content: SAE ARP6239A
+  type: SAE
+  primary: true
+- content: 10.4271/arp6239a
+  type: DOI
+date:
+- type: approved
+  at: '2023-06-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-9B Cabin Interiors and Furnishings Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>&lt;p&gt;This SAE Aerospace Recommended Practice (ARP) recommends the
+    design and features of aircraft demonstration emergency equipment for use in passenger
+    safety briefings.&lt;/p&gt;</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

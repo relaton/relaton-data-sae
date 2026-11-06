@@ -1,0 +1,56 @@
+---
+id: SAEJ2222_201210
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Coiled Electrical Cable - Truck and Bus
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2222_201210
+- type: src
+  content: https://saemobilus.sae.org/standards/j2222_201210-coiled-electrical-cable-truck-bus
+docidentifier:
+- content: SAE J2222_201210
+  type: SAE
+  primary: true
+- content: 10.4271/j2222_201210
+  type: DOI
+date:
+- type: approved
+  at: '2012-10-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Electrical Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard establishes the minimum performance and endurance requirements for coiled electrical cables used for hookup between trucks, trailers and dollies. The component standards SAE J2394 (replaced SAE J1067) for cable and SAE J560 for connectors must be consulted to determine the complete performance and endurance requirements of the system. Related TMC Recommended Practices may be consulted for information associated with selection, installation and inspection of these coiled electrical cables. This document is intended to set out requirements for the majority of conditions rather than for specialized applications or environments.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

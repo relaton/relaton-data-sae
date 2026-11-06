@@ -1,0 +1,48 @@
+---
+id: SAEAMS6371B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL TUBING, SEAMLESS (MECHANICAL) 0.95Cr - 0.2Mo (0.27-0.33C) (SAE 4130)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6371b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6371b-steel-tubing-seamless-mechanical-095cr-02mo-027-033c-sae-4130
+docidentifier:
+- content: SAE AMS6371B
+  type: SAE
+  primary: true
+- content: 10.4271/ams6371b
+  type: DOI
+date:
+- type: approved
+  at: '1949-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

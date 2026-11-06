@@ -1,0 +1,58 @@
+---
+id: SAEJ2799_202406
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hydrogen Surface Vehicle to Station Communications Hardware and Software
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2799_202406
+- type: src
+  content: https://saemobilus.sae.org/standards/j2799_202406-hydrogen-surface-vehicle-station-communications-hardware-software
+docidentifier:
+- content: SAE J2799_202406
+  type: SAE
+  primary: true
+- content: 10.4271/j2799_202406
+  type: DOI
+date:
+- type: approved
+  at: '2024-06-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Cell Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard specifies the communications hardware and software requirements for fueling hydrogen surface vehicles (HSV), such as fuel cell vehicles, but may also be used where appropriate with heavy-duty vehicles (e.g., buses) and industrial trucks (e.g., forklifts) with compressed hydrogen storage. It contains a description of the communications hardware and communications protocol that may be used to refuel the HSV. The intent of this standard is to enable harmonized development and implementation of the hydrogen fueling interfaces.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard is intended to be used in conjunction with the hydrogen fueling protocols in SAE J2601 and nozzles and receptacles conforming with SAE J2600.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

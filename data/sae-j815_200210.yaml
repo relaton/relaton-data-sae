@@ -1,0 +1,56 @@
+---
+id: SAEJ815_200210
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Load Deflection Testing of Urethane Foams for Automotive Seating
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j815_200210
+- type: src
+  content: https://saemobilus.sae.org/standards/j815_200210-load-deflection-testing-urethane-foams-automotive-seating
+docidentifier:
+- content: SAE J815_200210
+  type: SAE
+  primary: true
+- content: 10.4271/j815_200210
+  type: DOI
+date:
+- type: approved
+  at: '2002-10-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Textile and Flexible Plastics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Traditionally, cellular foam products have been checked for load deflection by determining the load required to cause a 25% deflection. In automotive seating, on the other hand, the load deflection is checked by determining the thickness under constant force conditions to (a) indicate the initial softness of the seat cushion, (b) measure how thick the seat cushion is under the average passenger load (a measurement of padding left for “ride” and seated height), and (c) determine a value to indicate resiliency. In this method these measurements are made by determining the thickness of the seat cushion under fixed loads of 4.5 N, 110 N, and 220 N with a 323 cm &lt;sup&gt;2&lt;/sup&gt; circular indentor foot.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

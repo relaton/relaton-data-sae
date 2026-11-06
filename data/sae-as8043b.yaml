@@ -1,0 +1,57 @@
+---
+id: SAEAS8043B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Restraint Systems for Civil Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8043b
+- type: src
+  content: https://saemobilus.sae.org/standards/as8043b-restraint-systems-civil-aircraft
+docidentifier:
+- content: SAE AS8043B
+  type: SAE
+  primary: true
+- content: 10.4271/as8043b
+  type: DOI
+date:
+- type: approved
+  at: '2014-03-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aircraft Seat Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) specifies laboratory test procedures and minimum requirements for the manufacturer of restraint systems for use in civil aircraft. It is intended to establish a minimum level of quality which can be called upon by the designer of those systems. However, compliance with this standard alone may not assure adequate performance of the restraint system under normal and emergency conditions. Such performance requires consideration of factors beyond the scope of this standard, and must be demonstrated by a system evaluation procedure which includes the seat, the occupant, the specific restraint installation and the cabin interior configuration. This standard specifies the requirements for Type 1, Type 2, and Type 3 restraint systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Buckles that release automatically or through any means other than the direct action of the fingers or thumb on the buckle are beyond the scope of this standard.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAMS4110D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Bars and Rods, Rolled Or Cold Finished 4.0cu 0.70mn 0.50mg
+    Stress Relief Stretched
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4110d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4110d-aluminum-alloy-bars-rods-rolled-cold-finished-40cu-070mn-050mg-stress-relief-stretched
+docidentifier:
+- content: SAE AMS4110D
+  type: SAE
+  primary: true
+- content: 10.4271/ams4110d
+  type: DOI
+date:
+- type: approved
+  at: '1983-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>SUPERSEDING SPECIFICATION:  The requirements of this specification
+    are embodied in the latest issue of AMS 4118, ALUMINUM ALLOY BARS, ROLLED OR COLD
+    FINISHED, 4.0Cu - 0.70Mn - 0.60Mg - 0.50Si (2017; -T4, -T451), Solution Heat Treated.
+    \ The requirements of the latest issue of AMS 4118 shall be fulfilled whenever
+    reference is made to this specification.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

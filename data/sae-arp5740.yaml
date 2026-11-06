@@ -1,0 +1,58 @@
+---
+id: SAEARP5740
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Cockpit Display of Data Linked Weather Information
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5740
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5740-cockpit-display-data-linked-weather-information
+docidentifier:
+- content: SAE ARP5740
+  type: SAE
+  primary: true
+- content: 10.4271/arp5740
+  type: DOI
+date:
+- type: approved
+  at: '2015-01-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10W Weather Information Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) addresses the information content for the electronic presentation of data linked weather Meteorological (MET) information used in the cockpit. It defines guidelines for the electronic presentation of MET information (including text, graphics, textures, icons, and symbology) to the flight crew.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This ARP is applicable to certified equipment for the electronic display (whether installed or portable) of MET information in the cockpit. This ARP also provides a set of symbols that illustrate the depiction of data linked MET information on flight deck display systems such as Navigation Displays, Multi-function Displays, and Electronic Flight Bags. These recommendations complement standard symbology guidelines for airborne applications already in existence (see reference section for applicable documents).&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

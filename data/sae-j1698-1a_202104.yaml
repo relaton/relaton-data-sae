@@ -1,0 +1,58 @@
+---
+id: SAEJ16981A_202104
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SAE J1698-1A Pedestrian Protection EDR Output Data Definition, Appendix
+    to SAE J1698-1 Event Data Recorder - Output Data Definition
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1698/1a_202104
+- type: src
+  content: https://saemobilus.sae.org/standards/j16981a_202104-sae-j1698-1a-pedestrian-protection-edr-output-data-definition-appendix-sae-j1698-1-event-data-recorder-output-data-definition
+docidentifier:
+- content: SAE J1698/1A_202104
+  type: SAE
+  primary: true
+- content: 10.4271/j1698/1a_202104
+  type: DOI
+date:
+- type: approved
+  at: '2021-04-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Event Data Recorder Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE J1698-1A creates an appendix to SAE J1698-1. The appendix contains EDR Record parameters and definitions related to light duty passenger vehicle pedestrian protection systems.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEJA1005_200401
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Software Supportability Program Implementation Guide
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ja1005_200401
+- type: src
+  content: https://saemobilus.sae.org/standards/ja1005_200401-software-supportability-program-implementation-guide
+docidentifier:
+- content: SAE JA1005_200401
+  type: SAE
+  primary: true
+- content: 10.4271/ja1005_200401
+  type: DOI
+date:
+- type: approved
+  at: '2004-01-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-11R,  Reliability Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice provides recommended guidelines and best practices for implementing a supportability program to ensure that software is supportable throughout its life cycle. This Implementation Guide is the companion to the Software Supportability Program Standard, SAE JA1004, that describes, within a Plan-Case framework, what software supportability performance requirements are necessary.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document has general applicability to all sectors of industry and commerce and to all types of equipment whose functionality is to some degree implemented via software. It is intended to be guidance for business purposes and should be applied when it provides a value-added basis for the business aspects of development, use, and sustainment of support-critical software. Applicability of specific recommended practices will depend on the support-significance of the software, application domain, and life cycle stage of the software.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

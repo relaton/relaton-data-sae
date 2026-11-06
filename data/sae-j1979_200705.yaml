@@ -1,0 +1,73 @@
+---
+id: SAEJ1979_200705
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: E/E Diagnostic Test Modes
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1979_200705
+- type: src
+  content: https://saemobilus.sae.org/standards/j1979_200705-e-e-diagnostic-test-modes
+docidentifier:
+- content: SAE J1979_200705
+  type: SAE
+  primary: true
+- content: 10.4271/j1979_200705
+  type: DOI
+date:
+- type: approved
+  at: '2007-05-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document supersedes SAE J1979 Apr 2002, and is technically equivalent to ISO 15031-5:2006, with the addition of new capabilities required by revised regulations from the California Air Resources Board (see Section &lt;span class="xref"&gt;1.2&lt;/span&gt;).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is intended to satisfy the data reporting requirements of On-Board Diagnostic (OBD) regulations in the United States and Europe, and any other region that may adopt similar requirements in the future. This document specifies:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;message formats for request and response messages,&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;timing requirements between request messages from external test equipment and response messages from vehicles, and between those messages and subsequent request messages,&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;behavior of both the vehicle and external test equipment if data is not available,&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;a set of diagnostic services, with corresponding content of request and response messages, to satisfy OBD regulations,&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;This document includes capabilities required to satisfy OBD requirements for multiple regions, model years, engine types, and vehicle types. Those regulations are not yet final for some regions, and are expected to change in the future. This document makes no attempt to interpret the regulations and does not include applicability of the included diagnostic services and data parameters for various vehicle applications. The user of this document is responsible to verify the applicability of each section of this document for a specific vehicle, engine, model year and region.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is based on the Open Systems Interconnection (OSI) Basic Reference Model in accordance with ISO/IEC 7498 and ISO/IEC 10731 which structures communication systems into seven layers as shown in &lt;span class="xref"&gt;Table 1&lt;/span&gt;.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEARP41024
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Flight Deck Alerting System (FAS)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4102/4
+- type: src
+  content: https://saemobilus.sae.org/standards/arp41024-flight-deck-alerting-system-fas
+docidentifier:
+- content: SAE ARP4102/4
+  type: SAE
+  primary: true
+- content: 10.4271/arp4102/4
+  type: DOI
+date:
+- type: approved
+  at: '2007-07-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-7 Flight Deck Handling Qualities Stds for Trans Aircraft
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document recommends design criteria for the Flight Deck Alerting System. The FAS shall enhance safety of flight by providing early crew recognition of aircraft system or component status or malfunction as well as of crew operational error. The FAS, therefore, relates to aircraft configuration and flight phase as well as the aircraft systems. To fulfill this objective, the FAS must attract the attention of the crew, must state with clarity the nature and location of the problem, and must be highly reliable and thoroughly responsive to the operational requirements and environment. Wherever possible, it should provide guidance as to the corrective action.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

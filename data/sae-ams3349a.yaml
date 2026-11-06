@@ -1,0 +1,57 @@
+---
+id: SAEAMS3349A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SILICONE RUBBER 1100 psi (7.58 MPa) Tensile Strength, High Resiliency 65
+    - 75
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3349a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3349a-silicone-rubber-1100-psi-758-mpa-tensile-strength-high-resiliency-65-75
+docidentifier:
+- content: SAE AMS3349A
+  type: SAE
+  primary: true
+- content: 10.4271/ams3349a
+  type: DOI
+date:
+- type: approved
+  at: '1977-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CE Elastomers Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a silicone rubber in the form of sheet, strip, tubing, extrusions, and molded shapes.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

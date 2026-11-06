@@ -1,0 +1,72 @@
+---
+id: SAEJ2302_202607
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Thermal Effectiveness of Sleeve/Tubing/Tape Insulation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2302_202607
+- type: src
+  content: https://saemobilus.sae.org/standards/j2302_202607-thermal-effectiveness-sleeve-tubing-tape-insulation
+docidentifier:
+- content: SAE J2302_202607
+  type: SAE
+  primary: true
+- content: 10.4271/j2302_202607
+  type: DOI
+date:
+- type: approved
+  at: '2026-07-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Harness Covering Standards Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This procedure measures the resistance to radiant heat flow of insulating materials in sleeve, tubing, or tape (collectively referred to as “sleeve”) form. The sleeve’s effectiveness (S&lt;sub&gt;E&lt;/sub&gt;) is determined by measuring the difference in surface temperature of a flat black, single-diameter ceramic cylinder with and without the standard diameter sleeve at the specified temperature, position, and distance from the radiant heat source.&lt;/div&gt;
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

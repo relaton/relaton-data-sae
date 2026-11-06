@@ -1,0 +1,67 @@
+---
+id: SAEJ2260_200411
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nonmetallic Fuel System Tubing with One or More Layers
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2260_200411
+- type: src
+  content: https://saemobilus.sae.org/standards/j2260_200411-nonmetallic-fuel-system-tubing-one-layers
+docidentifier:
+- content: SAE J2260_200411
+  type: SAE
+  primary: true
+- content: 10.4271/j2260_200411
+  type: DOI
+date:
+- type: approved
+  at: '2004-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard presents the minimum requirements for nonmetallic tubing with one or more layers manufactured for use as liquid-carrying or vapor-carrying component in fuel systems for gasoline, or alcohol blends with gasoline. Requirements in this document also apply to monowall tubing (one layer construction). When the construction has one or more layers of polymer-based compounds in the wall, the multilayer constructions are primarily for the purpose of improvement in permeation resistance to hydrocarbons found in various fuels. The tube construction can have a straight-wall configuration, a wall that is convoluted or corrugated, or a combination of each. It may have an innermost layer with improved electrical conductivity for use where such a characteristic is desired. The improved electrical conductivity can apply to the entire wall construction, if the tubing is a monowall. (For elastomeric based MLT constructions, refer to SAE J30 and SAE J2405).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Unless otherwise agreed to by suppliers and users this document applies to tubing for any portion of the fuel system that might operate continuously at temperatures above −40 °C and below 90 °C and up to a maximum working gage pressure of 450kPa. The tubing can be used at the peak intermittent temperature up to 115 °C.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document can apply to systems that operate at higher pressures and/or are exposed to higher temperatures. For higher pressures, the acceptance criteria of section &lt;span class="xref"&gt;7.2&lt;/span&gt; must be correspondingly changed. For higher temperatures, the acceptance criteria of sections &lt;span class="xref"&gt;7.2&lt;/span&gt; and &lt;span class="xref"&gt;7.14&lt;/span&gt; remain the same, but apply at the higher temperature. The selection of higher temperatures and pressures that could be used for this document would be the decision of the end user and supplier of the specific fuel/fuel vapor system in question.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;There are three types of tubing covered by this specification, based on the type of application for which the tubing is intended to be used:
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;u&gt;High pressure, liquid fuel line&lt;/u&gt; is tubing that handles liquid fuel at pressures up to 450 kPa pressure, and can handle the maximum pressure requirements identified in sections &lt;span class="xref"&gt;7.1&lt;/span&gt; and &lt;span class="xref"&gt;7.2&lt;/span&gt;. These are typically the smaller diameter tubes identified in &lt;span class="xref"&gt;Table A1&lt;/span&gt;.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;u&gt;Low pressure, liquid fuel line&lt;/u&gt; is tubing that is regularly exposed to liquid fuel, but is subjected to pressures that are under 50 kPa (e.g. fuel filler pipes). These are typically the larger diameters identified in &lt;span class="xref"&gt;Table A1&lt;/span&gt;.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;u&gt;Fuel vapor tubing&lt;/u&gt; is tubing that handles fuel in vapor form or some liquid condensed from vapor, and operates at a working gauge pressure that does not exceed 20 kPa.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In some cases, a distinction is made in the criteria that apply to tubing used to carry liquid fuel compared to tubing used to carry fuel vapor. These are identified separately in each section.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

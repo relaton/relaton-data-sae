@@ -1,0 +1,56 @@
+---
+id: SAEAS5261A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Contact, Wire Barrel, Crimp Type
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5261a
+- type: src
+  content: https://saemobilus.sae.org/standards/as5261a-contact-wire-barrel-crimp-type
+docidentifier:
+- content: SAE AS5261A
+  type: SAE
+  primary: true
+- content: 10.4271/as5261a
+  type: DOI
+date:
+- type: approved
+  at: '2025-02-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C1 Connectors Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification provides dimensional standards for crimp type contact wire barrel design and is a replacement for MS3190. Some wire barrel designs may exist in AS39029 but are not considered approved for future use, therefore, will not appear in this specification. The crimp barrel sizes listed in this document have been standardized in AS39029 and AS22520 specifications, tools and contacts are available to support these listed sizes. These crimp barrel requirements shall be used for any contact, regardless of whether it is a standard or non-standard contact configuration. The specification lists details for three types of wire barrels: A, B, and C. Wire barrel type A is not recommended for new design. &lt;span class="xref"&gt;Table 4&lt;/span&gt; lists each AS39029 detail sheet wire barrel type.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAMS4590A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: EXTRUSIONS, NICKEL-ALUMINUM BRONZE, MARTENSITIC 78.5Cu - 10.5Al - 5.1Ni
+    - 4.8Fe Solution Heat Treated and Tempered (TQ50)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4590a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4590a-extrusions-nickel-aluminum-bronze-martensitic-785cu-105al-51ni-48fe-solution-heat-treated-tempered-tq50
+docidentifier:
+- content: SAE AMS4590A
+  type: SAE
+  primary: true
+- content: 10.4271/ams4590a
+  type: DOI
+date:
+- type: approved
+  at: '1994-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers one type of nickel-aluminum bronze in the form of extruded bars, rods, and tubes.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

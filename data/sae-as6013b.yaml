@@ -1,0 +1,49 @@
+---
+id: SAEAS6013B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HOSE ASSEMBLY, POLYTETRAFLUORETHYLENE, PARA ARAMID REINFORCED, 275 °F,
+    4000 MAX PSI, FLARELESS, TITANIUM FITTINGS, STRAIGHT TO STRAIGHT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6013b
+- type: src
+  content: https://saemobilus.sae.org/standards/as6013b-hose-assembly-polytetrafluorethylene-para-aramid-reinforced-275-f-4000-max-psi-flareless-titanium-fittings-straight-straight
+docidentifier:
+- content: SAE AS6013B
+  type: SAE
+  primary: true
+- content: 10.4271/as6013b
+  type: DOI
+date:
+- type: approved
+  at: '2019-04-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

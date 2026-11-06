@@ -1,0 +1,60 @@
+---
+id: SAEJ1100_200207
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Motor Vehicle Dimensions
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1100_200207
+- type: src
+  content: https://saemobilus.sae.org/standards/j1100_200207-motor-vehicle-dimensions
+docidentifier:
+- content: SAE J1100_200207
+  type: SAE
+  primary: true
+- content: 10.4271/j1100_200207
+  type: DOI
+date:
+- type: approved
+  at: '2002-07-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Human Accom and Design Devices Stds Comm
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice defines a set of measurements and standard procedures for vehicle dimensions. The dimensions are primarily intended to measure the design intent of a vehicle within a design environment (i.e., CAD). All dimensions in this practice can be measured this way.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In addition, some dimensions can be taken in an actual vehicle. If measurements are taken on physical properties, some differences in values should be expected. Also, care should be taken to not confuse design intent measurements with those taken on a physical property.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Unless otherwise specified, all dimensions are measured normal to the three-dimensional reference system (see SAE J182), except ground-related dimensions, which are defined normal to ground. All dimensions are taken with the vehicle at curb weight unless otherwise specified.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;All dimensions are measured on the base vehicle and do not include Regular Production Options (RPO) or accessory parts, unless otherwise specified.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;Although many terms and dimensions use human body parts in their name, they should not be construed as measures that indicate occupant accommodation, capabilities, or comfort&lt;/b&gt;.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

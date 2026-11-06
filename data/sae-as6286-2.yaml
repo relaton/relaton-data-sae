@@ -1,0 +1,75 @@
+---
+id: SAEAS62862
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6286/2
+- type: src
+  content: https://saemobilus.sae.org/standards/as62862-equipment
+docidentifier:
+- content: SAE AS6286/2
+  type: SAE
+  primary: true
+- content: 10.4271/as6286/2
+  type: DOI
+date:
+- type: approved
+  at: '2016-11-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12T Training and Quality Programs Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document shall be used in conjunction with:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;-&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;AS6286, Training and Qualification Program for Deicing/Anti-icing of Aircraft on the Ground&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;-&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;AS6286/1, Methods&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;-&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;AS6286/3, Fluids&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;-&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;AS6286/4, Weather&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;-&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;AS6286/5, Health, Safety and First Aid&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;-&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;AS6286/6, Aircraft Deicing/Anti-icing Diagrams, No-Spray-Zones&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

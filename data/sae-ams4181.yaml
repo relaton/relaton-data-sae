@@ -1,0 +1,56 @@
+---
+id: SAEAMS4181
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY WELDING WIRE 7.0Si - 0.38Mg - 0.10Ti (4008)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4181
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4181-aluminum-alloy-welding-wire-70si-038mg-010ti-4008
+docidentifier:
+- content: SAE AMS4181
+  type: SAE
+  primary: true
+- content: 10.4271/ams4181
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of two types of welding wire.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

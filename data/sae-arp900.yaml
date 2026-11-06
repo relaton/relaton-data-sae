@@ -1,0 +1,56 @@
+---
+id: SAEARP900
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: METHODS FOR EVALUATING CRYOGENIC FILTERS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp900
+- type: src
+  content: https://saemobilus.sae.org/standards/arp900-methods-evaluating-cryogenic-filters
+docidentifier:
+- content: SAE ARP900
+  type: SAE
+  primary: true
+- content: 10.4271/arp900
+  type: DOI
+date:
+- type: approved
+  at: '1975-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this test procedure is to present test methods that can be utilized to evaluate the filtration and operating characteristics of filters that will be utilized in a cryogenic system. The methods presented herein are intended to supplement standard filter testing specifications to allow evaluation of filter performance characteristics in areas that could be affected by extreme low temperatures. The test methods can be utilized to evaluate filters up to and including 60 GPM (330 liters per minute) capacity. If higher flow rate filters are to be evaluated in accordance with the test methods presented herein, it will be necessary to increase the system flow capacity and the size of effluent sampling system.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

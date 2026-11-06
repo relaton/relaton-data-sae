@@ -1,0 +1,64 @@
+---
+id: SAEJ2881_201006
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Measurement of Aerodynamic Performance for Mass-Produced Cars and Light-Duty
+    Trucks
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2881_201006
+- type: src
+  content: https://saemobilus.sae.org/standards/j2881_201006-measurement-aerodynamic-performance-mass-produced-cars-light-duty-trucks
+docidentifier:
+- content: SAE J2881_201006
+  type: SAE
+  primary: true
+- content: 10.4271/j2881_201006
+  type: DOI
+date:
+- type: approved
+  at: '2010-06-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Road Vehicle Aerodynamics Forum Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice provides a procedure for measuring and documenting the aerodynamic performance in a full-scale wind tunnel of passenger vehicles, i.e., mass-produced cars and light-duty trucks intended primarily for individual consumers. Testing or numerical modeling of pre-production and/or reduced-scale models is outside the scope of this document. Aerodynamic &lt;i&gt;development&lt;/i&gt; procedures, i.e., methods to improve or optimize aerodynamic performance, are also excluded.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is well-known that aerodynamic performance results depend significantly on vehicle content and loading, as well as the wind tunnel itself (type, scale, and simulation qualities of the wind tunnel). Publication of non-standard test results causes unnecessary additional development work and incorrect perception of a vehicle’s anticipated aerodynamic performance by government, academia, and the general public.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The intent of this document is to promote uniformity and traceability of published aerodynamic performance data acquired in a wind tunnel, thereby enhancing the public reputation and credibility of the aerodynamics discipline in the total vehicle development process.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Measurement of the aerodynamic performance according to this recommended practice requires a full-scale wind tunnel test on a production-ready, full-scale vehicle according to specifications for vehicle loading, content, and wind tunnel conditions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The measurement and resulting documentation for a particular vehicle shall be reported only by the company that intends to produce the vehicle. Whenever there is an opportunity for interpretation of the document, a good faith effort shall be made to obtain the vehicle’s typical in-service performance and avoid finding the best possible performance under the best possible circumstances.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Use of and compliance with this recommended practice is voluntary; however, it is mandatory for those advertising or otherwise publishing aerodynamic performance as “measured according to SAE J2881”. Conversely, any advertised or otherwise published result carrying this or a substantially similar designation must have the necessary documentation accepted by and on file with the SAE in accordance with the procedures defined in this recommended practice.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Appendices B&lt;/span&gt; and &lt;span class="xref"&gt;C&lt;/span&gt; contain the necessary submittal documents for compliance with this recommended practice. When a submittal is made, the chairman of the Road Vehicle Aerodynamics Committee (or his/her designee) shall review the submittal for proper completion according to the requirements herein, but without consideration of the technical merit of the claimed performance. After the chairman’s review, SAE will maintain an electronic database of all submittals.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The database shall be available only to members of the Road Vehicle Aerodynamics Committee. Any RVAC member who retrieves information from the database shall do so with the understanding that the information is to be considered confidential within his or her company.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

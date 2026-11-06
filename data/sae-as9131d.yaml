@@ -1,0 +1,58 @@
+---
+id: SAEAS9131D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Series - Quality Management Systems - Nonconformity Data Definition
+    and Documentation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9131d
+- type: src
+  content: https://saemobilus.sae.org/standards/as9131d-aerospace-series-quality-management-systems-nonconformity-data-definition-documentation
+docidentifier:
+- content: SAE AS9131D
+  type: SAE
+  primary: true
+- content: 10.4271/as9131d
+  type: DOI
+date:
+- type: approved
+  at: '2019-05-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard defines the common nonconformity data definition and documentation that shall be exchanged between an internal/external supplier or sub-tier supplier, and the customer when informing about a nonconformity requiring formal decision. The requirements are applicable, partly or totally, when reporting a product nonconformity to the owner or operator, as user of the end item (e.g., engine, aircraft, spacecraft, helicopter), if specified by contract.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Reporting of nonconformity data, either electronically or conventionally on paper, is subject to the terms and conditions of the contract. This also includes, where applicable, data access under export control regulations.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

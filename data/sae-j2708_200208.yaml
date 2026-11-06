@@ -1,0 +1,68 @@
+---
+id: SAEJ2708_200208
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Agricultural Tractor Test Code (OECD)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2708_200208
+- type: src
+  content: https://saemobilus.sae.org/standards/j2708_200208-agricultural-tractor-test-code-oecd
+docidentifier:
+- content: SAE J2708_200208
+  type: SAE
+  primary: true
+- content: 10.4271/j2708_200208
+  type: DOI
+date:
+- type: approved
+  at: '2002-08-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ATSC Test Standards Subcommittee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The purpose of this SAE standard is to define test conditions, describe
+    tests to be made, specify data to be obtained, show formulas and calculations,
+    define terms, and establish a uniform method of reporting so that performance
+    data obtained on various makes and models of  tractors, tested in accordance with
+    this document, will be comparable  regardless of where the tests are made. Because
+    of the availability of many tractor models and types that can be equipped with
+    a variety of special or optional equipment, the scope of this standard must be
+    limited to obtaining and reporting only the most significant of widely used performance
+    data. \n\nTest performed to either the Standard Code as outline in Section 4 or
+    the Restricted Coed as outlined in Section 5 will satisfy requirements of this
+    Agricultural Tractor Test Code. \n\nThis document is technically equivalent to
+    the OECD Tractor Test Code C(87)53, Annex I and Annex II. It is intended as a
+    guide to development and pre-testing of tractors prior to official OECD testing.
+    It is not, however, a replacement for the official codes used by OECD test stations,
+    and any questions or conflicts concerning official OECD testing should be resolved
+    by consulting the official OECD codes of the OECD Coordinating Center in Paris.Coordinating
+    Center in Paris.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

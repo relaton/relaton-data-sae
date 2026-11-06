@@ -1,0 +1,57 @@
+---
+id: SAEAS1852
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GRAVITY REFUELING NOZZLES AND PORTS INTERFACE STANDARD FOR CIVIL AIRCRAFT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1852
+- type: src
+  content: https://saemobilus.sae.org/standards/as1852-gravity-refueling-nozzles-ports-interface-standard-civil-aircraft
+docidentifier:
+- content: SAE AS1852
+  type: SAE
+  primary: true
+- content: 10.4271/as1852
+  type: DOI
+date:
+- type: approved
+  at: '1984-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5A Aerospace Fuel, Inerting and Lubrication Sys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Standard (AS) defines maximum free opening dimensions for airframe refueling ports on civil aircraft that require the exclusive use of aviation gasolines, and minimum free opening dimensions for airframe refueling ports on civil aircraft that operate with turbine fuels as a primary fuel type.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In addition, this document defines the minimum refueling nozzle tip dimensions for turbine fuels ground service equipment, and the maximum refueling nozzle tip diameter dimension for aviation gasolines ground service equipment.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

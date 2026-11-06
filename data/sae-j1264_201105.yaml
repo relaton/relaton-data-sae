@@ -1,0 +1,57 @@
+---
+id: SAEJ1264_201105
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Joint RCCC/SAE Fuel Consumption Test Procedure (Short Term In-Service Vehicle)
+    Type 1
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1264_201105
+- type: src
+  content: https://saemobilus.sae.org/standards/j1264_201105-joint-rccc-sae-fuel-consumption-test-procedure-short-term-service-vehicle-type-1
+docidentifier:
+- content: SAE J1264_201105
+  type: SAE
+  primary: true
+- content: 10.4271/j1264_201105
+  type: DOI
+date:
+- type: approved
+  at: '2011-05-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Aerodynamics and Fuel Economy Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice provides minimum requirements for testing components or systems of the type which can be switched from one truck to another with relative ease; i.e., aerodynamic devices, clutch fans, radial tires, and the like. The test utilizes in-service fleet vehicles, operated over representative routes. The relative fuel effectiveness of the component or system under test is determined as a percentage improvement factor. This factor is calculated using the relative fuel usage of like vehicles operating with and without the specific component or system under evaluation. Accuracy capability employing this test technique is either ±1% or ±2%, depending upon the method of fuel measured. (See paragraph &lt;span class="xref"&gt;7.4&lt;/span&gt;.)&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

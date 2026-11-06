@@ -1,0 +1,57 @@
+---
+id: SAEJ193916_202409
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Automatic Baud Rate Detection Process
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939/16_202409
+- type: src
+  content: https://saemobilus.sae.org/standards/j193916_202409-automatic-baud-rate-detection-process
+docidentifier:
+- content: SAE J1939/16_202409
+  type: SAE
+  primary: true
+- content: 10.4271/j1939/16_202409
+  type: DOI
+date:
+- type: approved
+  at: '2024-09-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Define a process enabling network devices to detect the baud rate of a CAN Classic network as specified by physical layers SAE J1939-11, SAE J1939-14, or SAE J1939-15. The intent is to minimize or eliminate communication disruption between existing network devices. These networks only support Classical Base Frame Format (CBFF) and Classical Extended Frame Format (CEFF) Data Frames, as defined in ISO 11898-1:2015.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Baud rate detection on a SAE J1939 CAN FD network is not in scope, as SAE J1939-17 is currently the only SAE J1939 CAN FD physical layer option and specifies only one supported baud rate combination (500 kbit/s / 2000 kbit/s).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

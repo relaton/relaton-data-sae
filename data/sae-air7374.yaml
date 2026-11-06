@@ -1,0 +1,57 @@
+---
+id: SAEAIR7374
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aging Mechanisms of Electrical Insulation Materials in a High Energy System
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air7374
+- type: src
+  content: https://saemobilus.sae.org/standards/air7374-aging-mechanisms-electrical-insulation-materials-a-high-energy-system
+docidentifier:
+- content: SAE AIR7374
+  type: SAE
+  primary: true
+- content: 10.4271/air7374
+  type: DOI
+date:
+- type: approved
+  at: '2024-02-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-11 Aging Models for Electrical Insulation in Hi-Enrgy Sys
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The objective of this report is to serve as an introductory (educational) document to cover the potential failure mechanisms related to EIS in high voltage electrical component or HV electrical equipment in aircraft power systems. It has the following contents: (1) an overview of the current understandings of potential failure mechanisms related to EIS for high voltage and high-power application in aircraft; (2) main aging stressors and aging processes of EIS in electrical components used in the aircraft power systems and their common failure modes, and (3) the key indicators to assess the status of electrical insulation degradation and related testing needs.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document aims to assist HV power system designers in understanding the key considerations for EIS design and testing of HV components in aircraft, as well as the requirements for predicting their designed service life. Detailed testing guideline including testing methods will be provided in ARP7375, and life modeling in ARP7380.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

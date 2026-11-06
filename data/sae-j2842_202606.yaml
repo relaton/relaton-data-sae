@@ -1,0 +1,71 @@
+---
+id: SAEJ2842_202606
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Design Criteria and Certification for OEM Mobile Air Conditioning Evaporator
+    and Service Replacements
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2842_202606
+- type: src
+  content: https://saemobilus.sae.org/standards/j2842_202606-design-criteria-certification-oem-mobile-air-conditioning-evaporator-service-replacements
+docidentifier:
+- content: SAE J2842_202606
+  type: SAE
+  primary: true
+- content: 10.4271/j2842_202606
+  type: DOI
+date:
+- type: approved
+  at: '2026-06-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Interior Climate Control MAC Supplier Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The intent of this standard is to establish a framework to assure that all evaporators conforming to its requirements demonstrate an acceptable health and safety environment for vehicle occupants as determined from the completed risk assessment. R-744 and low pressure (i.e., non-transcritical refrigerants with a critical temperature between 85 and 120 °C) mobile air conditioning (MAC) refrigerant evaporators shall meet the testing and labeling requirements of this standard. SAE J639 contains a list of all refrigerants considered acceptable for use in mobile thermal systems for which this standard applies when the refrigerant is used in a direct expansion architecture. SAE J639 also requires an assessment to be performed to minimize reasonable risks in MAC systems. The evaporator (as designed and manufactured) shall be part of that risk assessment, and it is the responsibility of the vehicle manufacturer to ensure all relevant aspects of the evaporator are included. It is the responsibility of all vehicle or evaporator manufacturers to comply with the standards of this document at a minimum. (Substitution of specific test procedures by vehicle manufacturers that correlate well to field return data is acceptable.) As appropriate, this standard can be used as a guide to support risk assessments.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;With regard to certification, most vehicle manufacturers have established formal production part approval processes (PPAP) where compliance certification is established and formally documented. For an evaporator manufacturer of non-original equipment parts (or a vehicle manufacturer that does not have a formal part compliance certification process), then the certification described in this standard is the requirement to which those evaporators shall comply. In this case, the evaporator manufacturer or an independent institution shall complete the evaporator certification according to SAE J2911. An example of the latter would be the completion of witness testing by the evaporator manufacturer with the submission of certification documents by the witness organization.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard originated for the introduction of R-1234yf. The content is based upon the associated 2011 Risk Assessment with input from five OEM evaporator manufacturers. R-744 was included as its requirements were understood in 2011. Refrigerant R-152a was excluded from this standard because a single secondary loop refrigerant system is required. This standard also does not apply to R-134a refrigerant evaporators because it is proven in use.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,89 @@
+---
+id: SAEJ1166_199005
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SOUND MEASUREMENT - OFF-ROAD SELF-PROPELLED WORK MACHINES OPERATOR-WORK
+    CYCLE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1166_199005
+- type: src
+  content: https://saemobilus.sae.org/standards/j1166_199005-sound-measurement-off-road-self-propelled-work-machines-operator-work-cycle
+docidentifier:
+- content: SAE J1166_199005
+  type: SAE
+  primary: true
+- content: 10.4271/j1166_199005
+  type: DOI
+date:
+- type: approved
+  at: '1990-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: SLTC - Earth Moving Machinery Sound Level
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard sets forth the procedures to be used in measuring sound levels and determining the time weighted sound level at the operator's stations(s) of specified off-road self-propelled work machines. This document applies to the following work machines which have operator stations as specified in SAE J1116:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Crawler Loader&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Wheel Loader&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Dumper&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Tractor Scraper&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Grader&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Crawler Tractor with Dozer&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Wheel Tractor with Dozer&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Pad Foot Wheel Compactor with Dozer&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Backhoe&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Hydraulic Excavator&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Log Skidder&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Excavator &amp;amp; Wheel Feller-Buncher&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Pipelayer&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Roller/Compactor&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Trencher&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;The Instrumentation requirements and specific work cycles for these machines are described. The method used to calculate the time weighted average sound level at the operator statlon(s) is specified for L&lt;sub&gt;eq(5)&lt;/sub&gt;, or optional exchange rates, during continuous operation in a work cycle. A method to relate the time weighted average sound level at the operator statlon(s) to operator sound exposure is also provided.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

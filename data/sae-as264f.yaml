@@ -1,0 +1,56 @@
+---
+id: SAEAS264F
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Instrument and Cockpit Lighting for Commercial Transport Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as264f
+- type: src
+  content: https://saemobilus.sae.org/standards/as264f-instrument-cockpit-lighting-commercial-transport-aircraft
+docidentifier:
+- content: SAE AS264F
+  type: SAE
+  primary: true
+- content: 10.4271/as264f
+  type: DOI
+date:
+- type: approved
+  at: '2016-08-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20A Crew Station Lighting
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The desired system for aircraft instrument panel and cockpit lighting
+    is one that will furnishlight of adequate intensity and distribution under all
+    conditions of external lighting so that the crew may read instrumentation, placards,
+    check lists, manuals, maps, instrument color coding, distinguish controls, etc.,
+    without undue interference with their vision outside of the aircraft.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

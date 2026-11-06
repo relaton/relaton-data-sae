@@ -1,0 +1,57 @@
+---
+id: SAEAMS7006
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nickel Alloy, Corrosion- and Heat-Resistant, Powder for Additive Manufacturing
+    52.5Ni - 19Cr - 3.0Mo - 5.1Cb (Nb) - 0.90Ti - 0.50Al - 18Fe
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7006
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7006-nickel-alloy-corrosion-heat-resistant-powder-additive-manufacturing-525ni-19cr-30mo-51cb-nb-090ti-050al-18fe
+docidentifier:
+- content: SAE AMS7006
+  type: SAE
+  primary: true
+- content: 10.4271/ams7006
+  type: DOI
+date:
+- type: approved
+  at: '2022-03-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS AM Additive Manufacturing Metals
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The intended upper bound of this specification is that the particle size distribution (PSD) of powders supplied shall be &amp;lt;60 mesh (250 μm) and that no powder (0.0 wt%) greater than 40 mesh (425 μm) is allowed.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

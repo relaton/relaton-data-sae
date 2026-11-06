@@ -1,0 +1,48 @@
+---
+id: SAEARP842B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: DESIGN OBJECTIVES FOR FLYING QUALITIES OF CIVIL TRANSPORT AIRCRAFT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp842b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp842b-design-objectives-flying-qualities-civil-transport-aircraft
+docidentifier:
+- content: SAE ARP842B
+  type: SAE
+  primary: true
+- content: 10.4271/arp842b
+  type: DOI
+date:
+- type: approved
+  at: '1970-11-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-7 Flight Deck Handling Qualities Stds for Trans Aircraft
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

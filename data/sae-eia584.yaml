@@ -1,0 +1,57 @@
+---
+id: SAEEIA584
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Zero Acceptance Number Sampling Procedures and Tables for Inspection by
+    Attributes of A Continuous Manufacturing Process
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/eia584
+- type: src
+  content: https://saemobilus.sae.org/standards/eia584-zero-acceptance-number-sampling-procedures-tables-inspection-attributes-a-continuous-manufacturing-process
+docidentifier:
+- content: SAE EIA-584
+  type: SAE
+  primary: true
+- content: 10.4271/eia584
+  type: DOI
+date:
+- type: approved
+  at: '2015-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Systems Management Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Conventional attribute sampling plans based upon nonzero acceptance numbers are no longer desirable. In addition, emphasis is now placed on the quality level that is received by the customer. This relates directly to the Lot Tolerance Percent Defective (LTPD) value or the Limiting Quality Protection of MIL-STD-105. Measuring quality levels in percent nonconforming, although not incorrect, has been replaced with quality levels measured in parts per million (PPM). As a result, this standard addresses the need for sampling plans that can augment MIL-STD-105, are based upon a zero acceptance number, and address quality (nonconformance) levels in the parts per million range. This document does not address minor nonconformances, which are defined as nonconformances that are not likely to reduce materially the usability of the unit of product for its intended purpose.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

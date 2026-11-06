@@ -1,0 +1,57 @@
+---
+id: SAEJ1491_200210
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Vehicle Acceleration Measurement
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1491_200210
+- type: src
+  content: https://saemobilus.sae.org/standards/j1491_200210-vehicle-acceleration-measurement
+docidentifier:
+- content: SAE J1491_200210
+  type: SAE
+  primary: true
+- content: 10.4271/j1491_200210
+  type: DOI
+date:
+- type: approved
+  at: '2002-10-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Light Duty Vehicle Performance and Economy Measure Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;To define a test procedure that when conducted will provide a repeatable measure of a vehicle's maximum acceleration performance.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

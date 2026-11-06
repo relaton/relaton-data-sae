@@ -1,0 +1,57 @@
+---
+id: SAEJ16992_199801
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: OBD-II Related SAE Specification Verification Test Procedures1
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1699/2_199801
+- type: src
+  content: https://saemobilus.sae.org/standards/j16992_199801-obd-ii-related-sae-specification-verification-test-procedures1
+docidentifier:
+- content: SAE J1699/2_199801
+  type: SAE
+  primary: true
+- content: 10.4271/j1699/2_199801
+  type: DOI
+date:
+- type: approved
+  at: '1998-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice recommends test methods, test procedures, and specific test parameters to help verify that vehicles and test tools can communicate using SAE J1962. These test procedures are to be used whenever SAE J1850 communication parameters need to be verified. However, all specific details for testing are not specified, e.g., sample size, environment, vibration, etc.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

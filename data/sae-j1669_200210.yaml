@@ -1,0 +1,55 @@
+---
+id: SAEJ1669_200210
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Passenger Compartment Air Filter Test Code
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1669_200210
+- type: src
+  content: https://saemobilus.sae.org/standards/j1669_200210-passenger-compartment-air-filter-test-code
+docidentifier:
+- content: SAE J1669_200210
+  type: SAE
+  primary: true
+- content: 10.4271/j1669_200210
+  type: DOI
+date:
+- type: approved
+  at: '2002-10-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Air Cleaner Test Code Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This SAE Recommended Practice describes laboratory test methods to  measure filter performance. Performance includes, but is not limited to, air flow restriction or pressure drop, overall and fractional efficiency, holding capacity for airborne particles, and air filter structural integrity.
+
+    The purpose of this test code is to establish and specify consistent test procedures, conditions, equipment, and performance reports to enable comparison of filter performance of particulate air filters used in automotive interior ventilation systems.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

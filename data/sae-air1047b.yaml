@@ -1,0 +1,75 @@
+---
+id: SAEAIR1047B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: A GUIDE FOR THE SELECTION OF QUICK-DISCONNECT COUPLINGS FOR AEROSPACE FLUID
+    SYSTEMS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1047b
+- type: src
+  content: https://saemobilus.sae.org/standards/air1047b-a-guide-selection-quick-disconnect-couplings-aerospace-fluid-systems
+docidentifier:
+- content: SAE AIR1047B
+  type: SAE
+  primary: true
+- content: 10.4271/air1047b
+  type: DOI
+date:
+- type: approved
+  at: '1976-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The factors involved in the selection of a quick-disconnect are grouped into the following classifications for the purpose of discussion:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(a)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Functional considerations.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(b)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Weight considerations.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(c)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Environmental performance factors.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(d)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;End fitting types.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(e)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Additional considerations.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEARP4895
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AEROSPACE - FLIGHT CONTROL ACTUATOR DISPLACEMENT - METHOD FOR COLLECTION
+    OF DUTY CYCLE DATA
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4895
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4895-aerospace-flight-control-actuator-displacement-method-collection-duty-cycle-data
+docidentifier:
+- content: SAE ARP4895
+  type: SAE
+  primary: true
+- content: 10.4271/arp4895
+  type: DOI
+date:
+- type: approved
+  at: '1994-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A3 Flight Control and Vehicle Management Systems Cmt
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this SAE Aerospace Recommended Practice (ARP) covers acquisition of flight test data for use in developing a statistical data base of aerospace vehicle flight control surface actuator duty cycle. The statistical data base is intended for use in establishing industry guidelines and procurement specification requirements for actuator displacement duty cycle.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The objective of this ARP is to provide a uniform method for the aerospace industry to collect flight control displacement type duty cycle data during demonstration and full scale development of new aircraft or during development testing of new models of existing aircraft.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

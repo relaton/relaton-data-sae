@@ -1,0 +1,76 @@
+---
+id: SAEAS6165
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Interface Standard, Airborne EO/IR Systems, Maintenance and Test
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6165
+- type: src
+  content: https://saemobilus.sae.org/standards/as6165-interface-standard-airborne-eo-ir-systems-maintenance-test
+docidentifier:
+- content: SAE AS6165
+  type: SAE
+  primary: true
+- content: 10.4271/as6165
+  type: DOI
+date:
+- type: approved
+  at: '2012-12-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1C Avionic Subsystems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard defines the use of data interfaces between a host platform and an electro-optic/infrared (EO/IR) system for maintenance and test (M&amp;amp;T) purposes. In particular, this standard defines the use of the data interfaces in order to facilitate the:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;confirmation of system performance and function;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;external initiation of built-in-test (BIT) functions;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;performance of other diagnostic tests of system health;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;downloading M&amp;amp;T data;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;uploading software changes.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard does not cover mechanical or electrical interfaces, nor does it define the basic platform-to-sensor communication protocols and formats. Furthermore, this standard does not address software changes that are made by the manufacturer and not accessible at the sensor interfaces. Data protocols and formats are covered by AS6135. Electrical interfaces are covered by AS6129. This standard covers the use of the interfaces defined by AS6129 and AS6135 for the purposes described herein.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

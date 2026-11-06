@@ -1,0 +1,56 @@
+---
+id: SAEJ3122_202005
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Test Target Correlation - Radar Characteristics
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3122_202005
+- type: src
+  content: https://saemobilus.sae.org/standards/j3122_202005-test-target-correlation-radar-characteristics
+docidentifier:
+- content: SAE J3122_202005
+  type: SAE
+  primary: true
+- content: 10.4271/j3122_202005
+  type: DOI
+date:
+- type: approved
+  at: '2020-05-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Active Safety and Driver Support Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document will provide methodologies and procedures to validate active safety test targets and correlate them to the objects they are intended to represent. This process will be separated into three procedures. The correlation procedure will document a means of measuring representative object characteristics and how to calculate a correlation score for a test target using that objective characteristic measurement. The validation procedure will be utilized to determine the correlation score for the test target. A confirmation procedure will identify unacceptable characteristic deviations of the targets during use in the field. Test targets may include cars, pedestrians, motorcycles, bicycles, or any other object that may be encountered by a vehicle. This document relates only to the radar characteristics of these test targets.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

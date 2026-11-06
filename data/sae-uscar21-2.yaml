@@ -1,0 +1,79 @@
+---
+id: SAEUSCAR212
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PERFORMANCE SPECIFICATION FOR CABLE-TO-TERMINAL ELECTRICAL CRIMPS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar21-2
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar21-2-performance-specification-cable-terminal-electrical-crimps
+docidentifier:
+- content: SAE USCAR-21-2
+  type: SAE
+  primary: true
+- content: 10.4271/uscar21-2
+  type: DOI
+date:
+- type: approved
+  at: '2008-10-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+    &lt;div class="htmlview paragraph"&gt;In any intended vehicle application, if the products covered by this specification are, or may be, subjected to conditions beyond those described in this document, they must pass special tests simulating the actual conditions to be encountered before they can be considered acceptable for actual vehicle application. Products certified by their supplier as having passed specific applicable portions of this specification are not to be used in applications where conditions may exceed those for which the product has been satisfactorily tested.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The Authorized Person is the final authority as to what tests are to be performed on his or her parts and for what purpose these tests are required. He or she is also the final authority for resolving any questions related to testing to this specification and to authorizing any deviations to the equipment or procedures contained in this specification. Any such deviation must be documented and included in the final test report.&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;This specification defines basic test methods and requirements for solder-less crimped connections.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;Note:&lt;/b&gt; This specification was developed for use with stranded automotive copper wire. Wire types using compressed, compacted, or solid core construction or other core materials (clad, steel core, etc) need to be reviewed to determine if this specification is applicable.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Grip applications validated to this specification supersede any &lt;b&gt;crimp information&lt;/b&gt; on the component prints. The terminal supplier has the primary responsibility for testing and selection of crimp tooling and to supply detailed crimp information or make crimp tooling available to the wiring assembly supplier actually doing the production crimping. If the wiring supplier deviates from this information, the information is not available, or the information does not produce an acceptable crimp as defined by this document, the responsibility for testing to this specification lies with the wiring harness supplier. Getting approval from the customer with appropriate test data showing that the grip will function as defined by this specification also lies with the wiring harness supplier.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;New or revised terminals shall be designed to meet this specification.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;4&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;All grip applications shall meet this specification. Deviations must be approved by the customer engineering department.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;5&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Electrical tests in this specification have been proven by past experience to ensure that crimped connections will meet the requirements in SAE/USCAR-2 and SAE/USCAR-20 by including Thermal Shock, Temperature Humidity, and Power Current Cycling. Testing and electrical acceptance criteria will detect defects in crimp tooling geometry, plating quality, inadequate strand distribution in the grip, or cable stranding. Grip applications that have passed SAE/USCAR-2 and SAE/USCAR-20 normally have only passed the nominal crimp height and usually only with the largest wire size. Therefore, grips within the production crimp height range may not necessarily pass this test.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;6&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Procedures included within this specification are intended to cover performance testing and development of electrical terminal grips that are part of the electrical connection systems in low voltage (0 - 48 VDC) road vehicle applications at ambient temperatures of 125°C maximum. The OEM customer must approve use of these test procedures for use at voltages and temperatures beyond these limits.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;7&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;These procedures are applicable to terminals used for in-line, header, edge board, and device connector systems as well as eyelet or battery terminals.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

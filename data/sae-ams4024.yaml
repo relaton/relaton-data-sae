@@ -1,0 +1,49 @@
+---
+id: SAEAMS4024
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY PLATE 4.3Zn - 3.3Mg - 0.6Cu - 0.2Mn - 0.17Cr (7079-T651)
+    Stress-Relief Stretched
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4024
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4024-aluminum-alloy-plate-43zn-33mg-06cu-02mn-017cr-7079-t651-stress-relief-stretched
+docidentifier:
+- content: SAE AMS4024
+  type: SAE
+  primary: true
+- content: 10.4271/ams4024
+  type: DOI
+date:
+- type: approved
+  at: '1960-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEARP6157
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: WAM Pressure-Viscosity Coefficient Measurement
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6157
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6157-wam-pressure-viscosity-coefficient-measurement
+docidentifier:
+- content: SAE ARP6157
+  type: SAE
+  primary: true
+- content: 10.4271/arp6157
+  type: DOI
+date:
+- type: approved
+  at: '2017-05-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-34 Propulsion Lubricants Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The lubricant performance capability for aero propulsion drive systems is derived from the physical properties of the oil and performance attributes associated with the chemical properties of the oil. Physical properties, such as viscosity, pressure-viscosity coefficient and full-film traction coefficient are inherent properties of the lubricating fluid. Chemical attributes are critical for the formation of protective boundary lubricating films on the surfaces to prevent wear and scuffing. These attributes are also associated with surface initiated fatigue (micropitting). To assure performance and to provide required information for engineering design, methodology for at least five oil properties are being studied: (1) pressure-viscosity coefficient, (2) full-film traction coefficient, (3) scuffing resistance, (4) wear resistance; and (5) micropitting propensity. The pressure-viscosity coefficient can be measured either directly by assessing viscosity as a function of pressure using high-pressure apparatus, or indirectly by measuring film thickness in an optical interferometer. This document (ARP6157) describes the test method for calculating the pressureviscosity coefficient by measuring film thickness with a WAM (Wedeven Associates Machine) and the calculating pressure-viscosity coefficient from the measured film thickness.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

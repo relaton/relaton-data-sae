@@ -1,0 +1,60 @@
+---
+id: SAEAS5391
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Health and Usage Monitoring System Accelerometer Interface Specification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5391
+- type: src
+  content: https://saemobilus.sae.org/standards/as5391-health-usage-monitoring-system-accelerometer-interface-specification
+docidentifier:
+- content: SAE AS5391
+  type: SAE
+  primary: true
+- content: 10.4271/as5391
+  type: DOI
+date:
+- type: approved
+  at: '2002-12-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: HM-1 Integrated Vehicle Health Management Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Accelerometers are transducers, or sensors, that convert acceleration into an electrical signal which can be used for vibration monitoring and analysis.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document defines interface requirements for accelerometers and associated interfacing electronics for use in a helicopter Health and Usage Monitoring System (HUMS). The purpose is to standardize the accelerometer-to-electronics interface with the intent of increasing interchangeability among HUMS sensors/systems and reducing the cost of HUMS accelerometers. Although this interface was specified with an internally amplified piezoelectric accelerometer in mind, this does not preclude the use of any other sensor technology that meets the requirements given in this specification.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These SAE HUMS Interface Specifications include the minimal interface and performance requirements for interoperability with the Rotorcraft Industry Technology Association (RITA) compliant HUMS. Compliance with these Interface Specifications can be referenced in more comprehensive procurement and device specifications.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

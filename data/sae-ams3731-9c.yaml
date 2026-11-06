@@ -1,0 +1,53 @@
+---
+id: SAEAMS37319C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Potting Compound, Epoxy Flexible, Thermal Shock Resistant, Heat Cure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3731/9c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams37319c-potting-compound-epoxy-flexible-thermal-shock-resistant-heat-cure
+docidentifier:
+- content: SAE AMS3731/9C
+  type: SAE
+  primary: true
+- content: 10.4271/ams3731/9c
+  type: DOI
+date:
+- type: approved
+  at: '2016-09-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P Polymeric Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers a flexibilized epoxy resin formulation, supplied
+    as a two-component system, requiring an oven cure for attainment of maximum properties.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,73 @@
+---
+id: SAEAIR1662A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Minimization of Electrostatic Hazards in Aircraft Fuel Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1662a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1662a-minimization-electrostatic-hazards-aircraft-fuel-systems
+docidentifier:
+- content: SAE AIR1662A
+  type: SAE
+  primary: true
+- content: 10.4271/air1662a
+  type: DOI
+date:
+- type: approved
+  at: '2013-08-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5A Aerospace Fuel, Inerting and Lubrication Sys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides background information, technical data and related technical references for minimization of electrostatic hazards in aircraft fuel systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Techniques used to minimize the electrostatic hazard include:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Reducing fueling rate into tank bays including use of multiple refueling inlet nozzles.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Reducing refuel plumbing flow velocities.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Introducing fuel into the tank at a low velocity near the bottom and directing it to impinge upon a grounded conducting surface.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Avoiding electrically isolated conductors in the fuel tank.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Using conductivity additives in the fuel.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

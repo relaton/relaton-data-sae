@@ -1,0 +1,56 @@
+---
+id: SAEEIA830
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Model for Integrating Metrics into the Procurement Process
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/eia830
+- type: src
+  content: https://saemobilus.sae.org/standards/eia830-model-integrating-metrics-procurement-process
+docidentifier:
+- content: SAE EIA-830
+  type: SAE
+  primary: true
+- content: 10.4271/eia830
+  type: DOI
+date:
+- type: approved
+  at: '2016-06-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Systems Management Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This model is designed to enhance insight into the application of meaningful metrics. The emphasis is on business processes which may best provide indication of the level of risk to the customer when contemplating or continuing business with the supplier base. (E.g., the RFP/RFQ, proposal, supplier selection, and performance).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

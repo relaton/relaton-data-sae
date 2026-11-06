@@ -1,0 +1,56 @@
+---
+id: SAEARP4874A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electronic Propulsion Control/Aircraft Interface Control Documents
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4874a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4874a-electronic-propulsion-control-aircraft-interface-control-documents
+docidentifier:
+- content: SAE ARP4874A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4874a
+  type: DOI
+date:
+- type: approved
+  at: '2013-08-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-36 Electronic Engine Controls Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Aerospace Recommended Practice (ARP) provides guidelines for
+    the format and content of documents defining the interface between electronic
+    propulsion control systems and aircraft systems.  The scope includes civilian
+    aircraft powered by turbofan, turboprop, and turboshaft engines equipped with
+    electronic engine controls.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

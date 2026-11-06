@@ -1,0 +1,57 @@
+---
+id: SAEAS707C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Thermal Sensitive Inflation Pressure Release Devices for Tubeless Aircraft
+    Wheels
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as707c
+- type: src
+  content: https://saemobilus.sae.org/standards/as707c-thermal-sensitive-inflation-pressure-release-devices-tubeless-aircraft-wheels
+docidentifier:
+- content: SAE AS707C
+  type: SAE
+  primary: true
+- content: 10.4271/as707c
+  type: DOI
+date:
+- type: approved
+  at: '2019-02-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5A Wheels, Brakes and Skid Controls Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The focus of this SAE Aerospace Standard (AS) is the integration of thermally actuated pressure release devices, hereafter referred to as fuse plugs, with the wheel and brake assembly. It does not address the manufacturing, quality or acceptance test requirements pertaining to the production of these fuse plugs. It establishes minimum design, installation, qualification, and operational requirements for fuse plugs which are used only in tubeless tire type aircraft braked wheels. Fuse plugs are designed to completely release the contained inflation pressure from a tubeless tire and wheel assembly when brake generated heat causes the tire or wheel to exceed a safe temperature level. The objective is to prevent tire or wheel rupture due to brake generated heat that could cause an unsafe condition for personnel or the aircraft. (Reference: U.S. Department of Transportation FAA Advisory Circular No. 23-17C; Title 14, Code of Federal Regulations (14 CFR) Part 25.735 (j); U.S. Department of Transportation FAA Advisory Circular No. 25.735-1 and U.S. Department of Transportation FAA Advisory Circular No. 25-7C.)&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

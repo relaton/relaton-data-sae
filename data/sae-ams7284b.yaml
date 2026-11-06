@@ -1,0 +1,53 @@
+---
+id: SAEAMS7284B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Rings, Sealing, Phosphonitrilic Fluoroelastomer (Fz) Aviation Fuel Resistant
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7284b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7284b-rings-sealing-phosphonitrilic-fluoroelastomer-fz-aviation-fuel-resistant
+docidentifier:
+- content: SAE AMS7284B
+  type: SAE
+  primary: true
+- content: 10.4271/ams7284b
+  type: DOI
+date:
+- type: approved
+  at: '2016-05-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CE Elastomers Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification and its associated detail specifications cover phosphonitrilic
+    fluoroelastomers (FZ) in the form of molded rings.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

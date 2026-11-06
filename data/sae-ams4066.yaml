@@ -1,0 +1,57 @@
+---
+id: SAEAMS4066
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY TUBING, SEAMLESS, DRAWN 6.3Cu - 0.30Mn - 0.18Zr - 0.10V
+    - 0.06Ti (2219-T851)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4066
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4066-aluminum-alloy-tubing-seamless-drawn-63cu-030mn-018zr-010v-006ti-2219-t851
+docidentifier:
+- content: SAE AMS4066
+  type: SAE
+  primary: true
+- content: 10.4271/ams4066
+  type: DOI
+date:
+- type: approved
+  at: '1977-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of seamless, drawn, round tubing 0.500 in. (12.70 mm) and over in OD with wall thickness of 0.029 – 0.500 in. (0.74 – 12.70 mm).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

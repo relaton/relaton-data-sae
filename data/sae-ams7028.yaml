@@ -1,0 +1,58 @@
+---
+id: SAEAMS7028
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Titanium Alloy, Ti-6Al-4V, Hot Isostatically Pressed (Low Temperature,
+    High Pressure), Produced by Laser Powder Bed Fusion
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7028
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7028-titanium-alloy-ti-6al-4v-hot-isostatically-pressed-low-temperature-high-pressure-produced-laser-powder-bed-fusion
+docidentifier:
+- content: SAE AMS7028
+  type: SAE
+  primary: true
+- content: 10.4271/ams7028
+  type: DOI
+date:
+- type: approved
+  at: '2024-12-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS AM Additive Manufacturing Metals
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an alpha-beta Ti-6Al-4V alloy produced by laser powder bed fusion (L-PBF) additive manufacturing and subjected to hot isostatic press (HIP) operation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Typically, this material is used for complex-shaped aerospace products made to near net shape dimensions. These products have been used typically for parts requiring operating strength up to 750 °F (399 °C), but usage is not limited to such applications.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEAMS4314C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Rings, Rolled or Forged 4.5Cu - 0.85Si - 0.80Mn - 0.50Mg
+    (2014-T651, 2014-T652) Solution Heat Treated, Mechanically Stress Relieved, and
+    Precipitation Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4314c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4314c-aluminum-alloy-rings-rolled-forged-45cu-085si-080mn-050mg-2014-t651-2014-t652-solution-heat-treated-mechanically-stress-relieved-precipitation-heat-treated
+docidentifier:
+- content: SAE AMS4314C
+  type: SAE
+  primary: true
+- content: 10.4271/ams4314c
+  type: DOI
+date:
+- type: approved
+  at: '2003-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of rolled or forged rings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

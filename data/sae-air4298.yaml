@@ -1,0 +1,64 @@
+---
+id: SAEAIR4298
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Impulse Test Machine, Sine Wave, Equipment and Operation of
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4298
+- type: src
+  content: https://saemobilus.sae.org/standards/air4298-impulse-test-machine-sine-wave-equipment-operation
+docidentifier:
+- content: SAE AIR4298
+  type: SAE
+  primary: true
+- content: 10.4271/air4298
+  type: DOI
+date:
+- type: approved
+  at: '2014-10-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) describes equivalent type equipment and operational guidelines for a standard sine wave impulse test machine. The machine may be used for testing hydraulic tubing, fittings, hose assemblies, and similar fluid system components, if desired.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The standard sine wave impulse test machine is established for the following purposes:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A design guide for future machines being built by manufacturers and users.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;As a referee in the event of conflicting data from two or more nonstandard impulse machines. Such a referee machine might be built by an impartial testing activity.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

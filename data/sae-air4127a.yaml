@@ -1,0 +1,63 @@
+---
+id: SAEAIR4127A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Steel: Chemical Composition and Hardenability'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4127a
+- type: src
+  content: https://saemobilus.sae.org/standards/air4127a-steel-chemical-composition-hardenability
+docidentifier:
+- content: SAE AIR4127A
+  type: SAE
+  primary: true
+- content: 10.4271/air4127a
+  type: DOI
+date:
+- type: approved
+  at: '2015-12-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document, as referenced in the applicable product specifications in procurement documents, contains:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A catalog of the standard carbon steels, alloy steels (including H-steels), and stainless and heat-resisting steels that are designated by chemical composition, or (for H-steels) by chemical composition and hardenability limits by reference to standard industry documents.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Rules for designating the chemical content of carbon steels, alloy steels, and stainless and heat-resisting steels that are not classified as standard.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

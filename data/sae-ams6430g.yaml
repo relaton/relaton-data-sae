@@ -1,0 +1,57 @@
+---
+id: SAEAMS6430G
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Bars, Forgings, Tubing, and Rings 0.75Mn - 0.78Cr - 1.8Ni - 0.35Mo
+    - 0.20V (0.32 - 0.38C) (4335 Modified)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6430g
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6430g-steel-bars-forgings-tubing-rings-075mn-078cr-18ni-035mo-020v-032-038c-4335-modified
+docidentifier:
+- content: SAE AMS6430G
+  type: SAE
+  primary: true
+- content: 10.4271/ams6430g
+  type: DOI
+date:
+- type: approved
+  at: '2007-08-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aircraft-quality, low-alloy steel in the form of bars, forgings, mechanical tubing, flash welded rings, and stock for forging or flash welded rings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

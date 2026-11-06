@@ -1,0 +1,56 @@
+---
+id: SAEAIR6218
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Constructing Development Assurance Plan for Integrated Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6218
+- type: src
+  content: https://saemobilus.sae.org/standards/air6218-constructing-development-assurance-plan-integrated-systems
+docidentifier:
+- content: SAE AIR6218
+  type: SAE
+  primary: true
+- content: 10.4271/air6218
+  type: DOI
+date:
+- type: approved
+  at: '2018-10-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-18 Aircraft and Sys Dev and Safety Assessment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) supplements ARP4754A by identifying the crucial elements to be considered when constructing the development assurance plans described in Chapter 3 (Development Planning) of ARP4754A for integrated systems. This AIR presents a collection of lessons learned from past certification programs involving integrated systems. This AIR is not guidance for system integration technologies.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

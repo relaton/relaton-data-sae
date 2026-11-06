@@ -1,0 +1,58 @@
+---
+id: SAEARP6881
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guidelines for the Use and Installation of Bonded Cable Harness Supports
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6881
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6881-guidelines-use-installation-bonded-cable-harness-supports
+docidentifier:
+- content: SAE ARP6881
+  type: SAE
+  primary: true
+- content: 10.4271/arp6881
+  type: DOI
+date:
+- type: approved
+  at: '2018-10-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8A Elec Wiring and Fiber Optic Interconnect Sys Install
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This ARP provides recommended use and installation procedures for bonded cable harness supports.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

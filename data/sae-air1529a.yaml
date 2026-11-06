@@ -1,0 +1,59 @@
+---
+id: SAEAIR1529A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Flexure Testing of Hydraulic Tubing Joints and Fittings by Planar Resonant
+    Vibration (Free-Free Beam)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1529a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1529a-flexure-testing-hydraulic-tubing-joints-fittings-planar-resonant-vibration-free-free-beam
+docidentifier:
+- content: SAE AIR1529A
+  type: SAE
+  primary: true
+- content: 10.4271/air1529a
+  type: DOI
+date:
+- type: approved
+  at: '2013-01-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Information Report (AIR) establishes flexure test procedures to determine and classify the fatigue strengths of reconnectable or permanent hydraulic tube joints.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The procedure is intended for conducting flexure tests of fittings and joints for hydraulic tubing materials such as AMS 5561 steel, AMS 4944 titanium and MIL-T-7081 aluminum alloy, mounted as free-free resonant beams.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Of particular advantage are the inherent simplicity of test setup, minimum restraint from a test fixture, low power requirements, short test duration, and ease of varying stress level.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

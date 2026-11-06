@@ -1,0 +1,56 @@
+---
+id: SAEAMS5061F
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Low Carbon, Bars and Wire 0.08 to 0.20 C
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5061f
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5061f-steel-low-carbon-bars-wire-008-020-c
+docidentifier:
+- content: SAE AMS5061F
+  type: SAE
+  primary: true
+- content: 10.4271/ams5061f
+  type: DOI
+date:
+- type: approved
+  at: '2004-03-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a low-carbon steel in the form of bars and wire 0.750 inch (19.05 mm) and under in nominal diameter or distance between parallel sides.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

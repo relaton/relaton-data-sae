@@ -1,0 +1,62 @@
+---
+id: SAEARP5621
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electronic Display of Aeronautical Information (Charts)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5621
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5621-electronic-display-aeronautical-information-charts
+docidentifier:
+- content: SAE ARP5621
+  type: SAE
+  primary: true
+- content: 10.4271/arp5621
+  type: DOI
+date:
+- type: approved
+  at: '2011-01-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10EAB Executive Advisory Group
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The objective of this ARP is to provide a set of user-centered design guidelines for the implementation of data driven electronic aeronautical charts, which dynamically create charts from a database of individual elements. The data driven chart is intended to provide information required to navigate, but it is not intended to supplant the aircraft’s primary navigation display. These guidelines seek to provide a balance between standardization of equipment with similar intended functions and individual manufacturer innovation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This ARP provides guidelines for the display of an electronic chart that can replace existing paper. This document addresses what information is required, when it is required, and how it should be displayed and controlled. This document does not include all the detailed specifications required to generate an electronic aeronautical chart. This document primarily addresses the human factors aspects of electronic chart display, and does not address the software, hardware or system integrity/availability issues associated with certification of an electronic chart system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;During the transition to data driven charts, the guidelines of this document should be applied to interim electronic chart products that may be pre-composed, such as vector or raster based electronic charts.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is designed primarily for IFR Aeronautical Charts. There is a limited discussion of its applicability to VFR charts.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

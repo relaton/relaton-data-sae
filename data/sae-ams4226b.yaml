@@ -1,0 +1,57 @@
+---
+id: SAEAMS4226B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy Castings, High Strength 5.0Cu - 0.35Mn - 0.18Zr - 0.10V
+    (224.0) Solution and Precipitation Heat Treated (Overaged)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4226b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4226b-aluminum-alloy-castings-high-strength-50cu-035mn-018zr-010v-2240-solution-precipitation-heat-treated-overaged
+docidentifier:
+- content: SAE AMS4226B
+  type: SAE
+  primary: true
+- content: 10.4271/ams4226b
+  type: DOI
+date:
+- type: approved
+  at: '2017-04-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of high-strength sand, permanent mold, and composite mold castings of four classes.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

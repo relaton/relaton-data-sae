@@ -1,0 +1,57 @@
+---
+id: SAEJ2461_199811
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Vehicle Electronic Programming Stations (VEPS) System Specification for
+    Win32™
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2461_199811
+- type: src
+  content: https://saemobilus.sae.org/standards/j2461_199811-vehicle-electronic-programming-stations-veps-system-specification-win32
+docidentifier:
+- content: SAE J2461_199811
+  type: SAE
+  primary: true
+- content: 10.4271/j2461_199811
+  type: DOI
+date:
+- type: approved
+  at: '1998-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This system specification, SAE J2461, revises the requirements for Vehicle Electronics Programming Stations (VEPS) set forth in SAE J2214, Vehicle Electronics Programming Stations (VEPS) System Specification for Programming Components at OEM Assembly Plants. SAE J2461 specifies the recommended practices for a Win32™ environment while maintaining the core VEPS architecture specified in SAE J2214.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

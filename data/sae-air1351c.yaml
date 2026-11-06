@@ -1,0 +1,59 @@
+---
+id: SAEAIR1351C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MANUFACTURERS’ IDENTIFICATION OF AEROSPACE ELECTRICAL AND ELECTRONIC WIRING
+    DEVICES AND ACCESSORIES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1351c
+- type: src
+  content: https://saemobilus.sae.org/standards/air1351c-manufacturers-identification-aerospace-electrical-electronic-wiring-devices-accessories
+docidentifier:
+- content: SAE AIR1351C
+  type: SAE
+  primary: true
+- content: 10.4271/air1351c
+  type: DOI
+date:
+- type: approved
+  at: '1992-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C1 Connectors Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document lists the symbols used by manufacturers of electrical and electronic wiring devices and accessories to identify their products that are within the scope of SAE Subcommittees AE-8C1 and AE-8C2.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These symbols appear on small wiring devices where the manufacturers' name (or recognizable portion) is not used.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

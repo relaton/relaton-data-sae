@@ -1,0 +1,91 @@
+---
+id: SAESAE1007
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standard Practice for Habitability
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/sae1007
+- type: src
+  content: https://saemobilus.sae.org/standards/sae1007-standard-practice-habitability
+docidentifier:
+- content: SAE SAE1007
+  type: SAE
+  primary: true
+- content: 10.4271/sae1007
+  type: DOI
+date:
+- type: approved
+  at: '2021-09-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-45 Human Systems Integration
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Standard specifies the Habitability processes throughout planning, design, development, test, production, use and disposal of a system. Depending on contract phase and/or complexity of the program, tailoring of this standard may be applied. The primary goals of a contractor Habitability program include:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Ensuring that the system design complies with the customer Habitability requirements and that discrepancies are reported to management and the customer.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Identifying, coordinating, tracking, prioritizing, and resolving Habitability risks and issues and ensuring that they are:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Reflected in the contractor proposal, budgets, and plans&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Raised at design, management, and program reviews&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Debated in Working Group meetings&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Coordinated with Training, Logistics, and the other HSI disciplines&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Included appropriately in documentation and deliverable data items&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Ensuring that Habitability requirements are applied to all personnel environments, including operators, maintainers, trainers, and support personnnel.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Identifying and pursuing opportunities to reduce Habitability costs.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Ensuring that Habitability considerations are addressed in analyses, design decisions, trade-offs, and design changes (e.g., Engineering Change Proposals (ECP)).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Conducting Habitability analysis activities and supporting human factors analyses (e.g., workload analysis) and other HSI domain analyses to provide evidence to support design decisions and trade-offs and to coordinate shared data.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Ensuring that Habitability analyses, results and recommendations are timely, technically competent/complete, and included in design decisions, tradeoffs, and changes.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Ensuring that environments experienced by subjects in experiments, simulations, tests, evaluations, and demonstrations are consistent with the customer’s Habitability requirements and meet the U.S. Government and DoD policies for protecton of human subjects.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Ensuring that Habitability issues discovered in test, evaluation, demonstration, Operational Test and Evaluation (OT&amp;amp;E), and operations are resolved in a technically competent/complete and timely manner.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

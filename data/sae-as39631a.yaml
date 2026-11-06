@@ -1,0 +1,53 @@
+---
+id: SAEAS39631A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Univeral Joint, Antifriction Bearings
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as39631a
+- type: src
+  content: https://saemobilus.sae.org/standards/as39631a-univeral-joint-antifriction-bearings
+docidentifier:
+- content: SAE AS39631A
+  type: SAE
+  primary: true
+- content: 10.4271/as39631a
+  type: DOI
+date:
+- type: approved
+  at: '2005-05-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ACBG Rolling Element Bearing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers anti-friction bearing universal joints for
+    intermittent and continuous operation suitable for use in military applications.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

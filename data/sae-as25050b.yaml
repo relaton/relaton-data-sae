@@ -1,0 +1,58 @@
+---
+id: SAEAS25050B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Colors, Aeronautical Lights and Lighting Equipment, General Requirements
+    For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as25050b
+- type: src
+  content: https://saemobilus.sae.org/standards/as25050b-colors-aeronautical-lights-lighting-equipment-general-requirements
+docidentifier:
+- content: SAE AS25050B
+  type: SAE
+  primary: true
+- content: 10.4271/as25050b
+  type: DOI
+date:
+- type: approved
+  at: '2022-09-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20B Exterior Lighting Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the chromaticity and transmission requirements of aircraft lighting and light transmitting ware in descending order of transmission. It is intended for use in aviation lighting.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

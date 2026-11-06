@@ -1,0 +1,57 @@
+---
+id: SAEAS15532A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Data Word and Message Formats
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as15532a
+- type: src
+  content: https://saemobilus.sae.org/standards/as15532a-data-word-message-formats
+docidentifier:
+- content: SAE AS15532A
+  type: SAE
+  primary: true
+- content: 10.4271/as15532a
+  type: DOI
+date:
+- type: approved
+  at: '2016-10-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The emphasis in this standard is the development of data word and message formats for AS15531 or MIL-STD-1553 data bus applications. This standard is intended as a guide for the designer to identify standard data words and messages for use in avionics systems and subsystems. These standard words and messages, as well as the documentation format for interface control document (ICD) sheets, provide the basis for defining 15531/1553 systems. Also provided in this standard is the method for developing additional data word formats and messages that may be required by a particular system but are not covered by the formats provided herein. It is essential that any new word formats or message formats that are developed for a 15531/1553 application follow the fundamental guidelines established in this standard in order to ease future standardization of these words and messages. The standard word formats presented represent a composite result of studies conducted by the U.S. Army, Navy, and Air Force (see References 1, 2 and 3, respectively).&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

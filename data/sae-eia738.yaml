@@ -1,0 +1,56 @@
+---
+id: SAEEIA738
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guideline on the Use and Application of Cpk
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/eia738
+- type: src
+  content: https://saemobilus.sae.org/standards/eia738-guideline-use-application-cpk
+docidentifier:
+- content: SAE EIA-738
+  type: SAE
+  primary: true
+- content: 10.4271/eia738
+  type: DOI
+date:
+- type: approved
+  at: '2015-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Systems Management Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is applicable to electronic component and equipment manufacturing.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

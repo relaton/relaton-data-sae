@@ -1,0 +1,80 @@
+---
+id: SAEAS6174B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Counterfeit Materiel; Assuring Acquisition of Authentic and Conforming
+    Materiel
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6174b
+- type: src
+  content: https://saemobilus.sae.org/standards/as6174b-counterfeit-materiel-assuring-acquisition-authentic-conforming-materiel
+docidentifier:
+- content: SAE AS6174B
+  type: SAE
+  primary: true
+- content: 10.4271/as6174b
+  type: DOI
+date:
+- type: approved
+  at: '2026-02-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-21 Counterfeit Materiel Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard provides requirements and guidance to:&lt;/div&gt;
+    &lt;ul class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Develop a Materiel authenticity plan.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Procure Materiel from reliable sources.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Assure authenticity and conformance of procured Materiel, including methods such as certification, traceability, testing, and inspection appropriate to the Commodity/item in question.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Control Materiel identified as counterfeit.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Report Suspect or Counterfeit Materiel to other potential users and Authorities Having Jurisdiction.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

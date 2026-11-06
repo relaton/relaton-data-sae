@@ -1,0 +1,48 @@
+---
+id: SAEJ193973_202006
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Application Layer - Diagnostics
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939-73_202006
+- type: src
+  content: https://www.sae.org/content/j1939-73_202006
+docidentifier:
+- content: SAE J1939-73_202006
+  type: SAE
+  primary: true
+- content: 10.4271/j1939-73_202006
+  type: DOI
+date:
+- type: approved
+  at: 2020-06
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

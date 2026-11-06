@@ -1,0 +1,56 @@
+---
+id: SAEJ193916_201811
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Automatic Baud Rate Detection Process
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939/16_201811
+- type: src
+  content: https://saemobilus.sae.org/standards/j193916_201811-automatic-baud-rate-detection-process
+docidentifier:
+- content: SAE J1939/16_201811
+  type: SAE
+  primary: true
+- content: 10.4271/j1939/16_201811
+  type: DOI
+date:
+- type: approved
+  at: '2018-11-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Define a process enabling devices to detect the baud rate of a SAE J1939-11, SAE J1939-14, or SAE J1939-15 network automatically with the intent of minimizing or eliminating communication disruption between existing devices. These networks only support CBFF and CEFF Data Frames, as defined in ISO 11898-1.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

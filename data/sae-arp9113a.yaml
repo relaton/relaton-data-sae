@@ -1,0 +1,55 @@
+---
+id: SAEARP9113A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Supply Chain Risk Management Guideline
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp9113a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp9113a-supply-chain-risk-management-guideline
+docidentifier:
+- content: SAE ARP9113A
+  type: SAE
+  primary: true
+- content: 10.4271/arp9113a
+  type: DOI
+date:
+- type: approved
+  at: '2012-03-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>Supply Chain Risk Management (SCRM), defined in this guideline, can be applied proactively for the protection of all procured products and services; both flying and non-flying through all levels of the supply chain.
+
+    The guideline focuses on Quality as a key risk assessment factor taking into accoutn elements from all aspects of the business having a direct link to global quality management.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEJ2812_202303
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Road Load Tire Model Validation Procedures for Dynamic Behavior
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2812_202303
+- type: src
+  content: https://saemobilus.sae.org/standards/j2812_202303-road-load-tire-model-validation-procedures-dynamic-behavior
+docidentifier:
+- content: SAE J2812_202303
+  type: SAE
+  primary: true
+- content: 10.4271/j2812_202303
+  type: DOI
+date:
+- type: approved
+  at: '2023-03-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Dynamics Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice describes an evaluation procedure for validating tire models for use in road load simulations and assesses the relevant dynamic behavior of tires.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The laboratory test utilized is a “cleat” test, where a rolling tire on a drum encounters a cleat and the resulting dynamic forces and moments are measured. This test is described in SAE J2730, “Dynamic Cleat Test with Perpendicular and Inclined Cleats”. The test is commonly used to identify tire model parameters.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In this recommended practice, requirements for the measurement of the tire’s response are described along with data processing techniques and calculations used to quantitatively compare the tire model’s calculated response to the tire’s response measured on test. This recommended practice addresses both the tire model structure and its parameters.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

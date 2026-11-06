@@ -1,0 +1,57 @@
+---
+id: SAEMAM5706C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nickel Alloy, Corrosion and Heat Resistant, Bars, Forgings, and Rings 57Ni
+    19.5Cr 13.5Co 4.3Mo 3.0Ti 1.4Al 0.006B 0.05Zr, Consumable Electrode or Vacuum
+    Induction Melted, 995 to 1040°C Solution Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/mam5706c
+- type: src
+  content: https://saemobilus.sae.org/standards/mam5706c-nickel-alloy-corrosion-heat-resistant-bars-forgings-rings-57ni-195cr-135co-43mo-30ti-14al-0006b-005zr-consumable-electrode-vacuum-induction-melted-995-1040c-solution-heat-treated
+docidentifier:
+- content: SAE MAM5706C
+  type: SAE
+  primary: true
+- content: 10.4271/mam5706c
+  type: DOI
+date:
+- type: approved
+  at: '2003-03-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This specification covers a corrosion and heat resistant nickel alloy in the form of bars, forgings, flash welded rings, and stock for forging, flash welded rings, or heading procured in SI (metric) units.&lt;/p&gt;
+    &lt;p&gt;AMS 5706 is the inch/pound version of this MAM.&lt;/p&gt;
+    &lt;p&gt;These products have been used typically for parts, such as fasteners, flanges, and rings, requiring high strength up to 815 degrees C and oxidation resistance up to 955 degrees C, particularly those parts which are formed or welded and then heat treated to develop required properties, but usage is not limited to such applications.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,60 @@
+---
+id: SAEJ402_200507
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: New Steel Designation System for Wrought or Rolled Steel
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j402_200507
+- type: src
+  content: https://saemobilus.sae.org/standards/j402_200507-new-steel-designation-system-wrought-rolled-steel
+docidentifier:
+- content: SAE J402_200507
+  type: SAE
+  primary: true
+- content: 10.4271/j402_200507
+  type: DOI
+date:
+- type: approved
+  at: '2005-07-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Metals Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard describes a new alphanumeric designation system for wrought steel used to designate wrought ferrous materials, identify chemical composition, and any other requirements listed in SAE Standards and Recommended Practices.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The previous SAE steel designation coding system consisted of four or five numbers used to designate standard carbon and alloy steels specified to chemical composition ranges. Using SAE 1035 as an example, the 35 represents the nominal weight % carbon content for the grade. Using SAE 52100 as an example, the 100 represents the nominal weight % carbon content. The first two numbers of this four or five number series are used to designate the steel grade carbon or alloy system with variations in elements other than carbon. These are described in &lt;span class="xref"&gt;Table 1&lt;/span&gt;. In addition to the standard four or five number steel designation above, a letter was sometimes added to the grade code to denote a non-standard specific element being added to the standard grade. For example, with SAE 10B21, B designates a boron addition; with SAE 12L14, L designates a lead addition; and with SAE 10V45, V designates a vanadium addition.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For many years, the SAE four or five character steel designation system has provided a simple way to identify and label steel grades. However, it is not comprehensive enough to allow for the accurate coding of popular new or non-standard chemistry grades, different chemistries for the same grade that traditionally have been associated with a specific product form, eg. SAE 1006 and SAE 1008, steel grades with dual chemistry and mechanical property requirements, microalloyed grades, and grades with both chemistry and hardenability requirements. As a result, these grades could not be properly recorded within the constraints of the previous steel designation system and were not included in the SAE steel grade Tables in SAE J403/J404 and other SAE documents. The new steel designation system is meant to ensure that the original or old SAE steel grades are still usable and both old and new SAE grades can be referenced uniformly between Standards organizations. Since the UNS numbering system for metals provides the basis for the recording of steel grades between North American and International Standards organizations, UNS was used as the framework of the new coding system. However, in order for the traditional five number UNS code to be used, it had to be expanded and modified to allow for an increase in the number of grades that would need to be classified in the future and to provide proper coding of new or non-standard element modifications, corresponding element ranges and dual hardenability, mechanical property or special processing requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These new steel designations are the same in both the UNS and SAE systems, as described in this standard (J402) and the joint SAE J1086/ASTM E527 UNS Publication. An alphanumeric code has been developed to identify the composition of SAE steel grades.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

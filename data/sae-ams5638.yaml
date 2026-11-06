@@ -1,0 +1,49 @@
+---
+id: SAEAMS5638
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS AND FORGINGS, CORROSION RESISTANT 18Cr - 9.5Ni - 0.5Mo - 0.8Al
+    FREE MACHINING
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5638
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5638-steel-bars-forgings-corrosion-resistant-18cr-95ni-05mo-08al-free-machining
+docidentifier:
+- content: SAE AMS5638
+  type: SAE
+  primary: true
+- content: 10.4271/ams5638
+  type: DOI
+date:
+- type: approved
+  at: '1963-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

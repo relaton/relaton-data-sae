@@ -1,0 +1,61 @@
+---
+id: SAEARP4386C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Terminology and Definitions for Aerospace Fluid Power, Actuation and Control
+    Technologies
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4386c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4386c-terminology-definitions-aerospace-fluid-power-actuation-control-technologies
+docidentifier:
+- content: SAE ARP4386C
+  type: SAE
+  primary: true
+- content: 10.4271/arp4386c
+  type: DOI
+date:
+- type: approved
+  at: '2010-07-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6 Aerospace Actuation, Control and Fluid Power Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) comprises the technical terms and nomenclature, together with their definitions and abbreviations that are used in aerospace Fluid Power Actuation and Control Systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: When a term is applicable to more than one branch or segment of the technology it may have different meanings and definitions in each. Where this occurs the multiple listings with appropriate designations will be shown under the same primary term.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

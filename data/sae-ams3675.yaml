@@ -1,0 +1,48 @@
+---
+id: SAEAMS3675
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: INSULATION, SOUND AND THERMAL Resin-Bonded Glass Fiber
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3675
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3675-insulation-sound-thermal-resin-bonded-glass-fiber
+docidentifier:
+- content: SAE AMS3675
+  type: SAE
+  primary: true
+- content: 10.4271/ams3675
+  type: DOI
+date:
+- type: approved
+  at: '1952-06-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P Polymeric Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

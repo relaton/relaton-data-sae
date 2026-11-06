@@ -1,0 +1,58 @@
+---
+id: SAEARP6807A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guide for Identification of Terminal Lugs in Electrical Wiring Interconnect
+    Systems (EWIS)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6807a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6807a-guide-identification-terminal-lugs-electrical-wiring-interconnect-systems-ewis
+docidentifier:
+- content: SAE ARP6807A
+  type: SAE
+  primary: true
+- content: 10.4271/arp6807a
+  type: DOI
+date:
+- type: approved
+  at: '2021-05-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C2 Terminating Devices and Tooling Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The intent of the SAE Aerospace Recommended Practice (ARP) is to provide a process for users to identify the part number of AS7928 terminal lugs installed in civilian or military applications, although it can also be used to identify terminals that have been stored incorrectly. This ARP is subject to change to keep pace with experience and technical advances of AS7928 terminals. A current set of tables are provided to list and identify current AS7928 terminal lug configurations per the associated specification detail sheet and terminal lug configuration. Specific configuration details, graphic, size, and marking information for each individual terminal lug is provided to assist the product user with accurate selection for replacement or identification.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

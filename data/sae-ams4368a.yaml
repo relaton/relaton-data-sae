@@ -1,0 +1,57 @@
+---
+id: SAEAMS4368A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Discontinuously Reinforced Hot Isostatically Pressed Shapes
+    6061B/SiC/40p (3 μm) (T1P)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4368a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4368a-aluminum-alloy-discontinuously-reinforced-hot-isostatically-pressed-shapes-6061b-sic-40p-3-m-t1p
+docidentifier:
+- content: SAE AMS4368A
+  type: SAE
+  primary: true
+- content: 10.4271/ams4368a
+  type: DOI
+date:
+- type: approved
+  at: '2023-03-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers discontinuously reinforced aluminum alloy (DRA) metal matrix composites (MMC) made by mechanical alloying of 6061B aluminum powder and SiC particulate, which is then consolidated by Hot Isostatic Pressing (HIP) into shapes between 12 to 100 square inches (0.008 to 0.065 m&lt;sup&gt;2&lt;/sup&gt;), inclusive, cross-section. Tensile property response to heat treatment has been demonstrated on samples of 1 square inch (645 mm&lt;sup&gt;2&lt;/sup&gt;) maximum cross section (see &lt;span class="xref"&gt;8.9&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

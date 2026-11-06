@@ -1,0 +1,49 @@
+---
+id: SAEAS55062
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'SAE Architecture Analysis and Design Language (AADL) Annex Volume 2:Annex
+    B: Data Modeling AnnexAnnex D: Behavior Model AnnexAnnex F: ARINC653 Annex'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5506/2
+- type: src
+  content: https://saemobilus.sae.org/standards/as55062-sae-architecture-analysis-design-language-aadl-annex-volume-2annex-b-data-modeling-annexannex-d-behavior-model-annexannex-f-arinc653-annex
+docidentifier:
+- content: SAE AS5506/2
+  type: SAE
+  primary: true
+- content: 10.4271/as5506/2
+  type: DOI
+date:
+- type: approved
+  at: '2019-02-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-2C Architecture Analysis and Design Language
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

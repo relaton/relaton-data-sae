@@ -1,0 +1,61 @@
+---
+id: SAEARP9034
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: A Process Standard for the Storage, Retrieval and Use of Three-Dimensional
+    Type Design Data
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp9034
+- type: src
+  content: https://saemobilus.sae.org/standards/arp9034-a-process-standard-storage-retrieval-use-three-dimensional-type-design-data
+docidentifier:
+- content: SAE ARP9034
+  type: SAE
+  primary: true
+- content: 10.4271/arp9034
+  type: DOI
+date:
+- type: approved
+  at: '2003-09-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes requirements for standardized processes (and associated technologies) that ensure type design data are retrievable and usable for the life of a type certificate (50+ years). These processes are primarily concerned with, but not limited to, digital type design data retained in three-dimensional representations and associated data that is required for complete product definition, such as tolerances, specification call-outs, product structure and configuration control data, etc. This process standard includes process requirements for managing the evolution of technologies required to ensure the availability of the data for the life of the product. This data must be available to meet regulatory, legal, contractual and business requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This process standard is not intended to incorporate every company specific requirement and does not dictate specific organizational structures within a company. This process standard does not specify a design or an implementation. Actual implementations may distribute responsibilities or break out functionality differently.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document assumes that all requirements for configuration management of the type design data as specified by CFR Title 14, Part 21 [CFR 21] are in place and therefore are not specifically described in this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document sets forth the minimum requirements for product data storage. If an organization chooses to implement requirements beyond those outlined in this standard, those additional requirements shall not conflict or negatively impact the standard requirements. Additional requirements shall also be documented for auditing purposes.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

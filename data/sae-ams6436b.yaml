@@ -1,0 +1,49 @@
+---
+id: SAEAMS6436B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL SHEET, STRIP, AND PLATE, LOW-ALLOY, HEAT RESISTANT 0.65Si - 1.25Cr
+    - 0.50Mo - 0.85V (0.25 - 0.30C) Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6436b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6436b-steel-sheet-strip-plate-low-alloy-heat-resistant-065si-125cr-050mo-085v-025-030c-annealed
+docidentifier:
+- content: SAE AMS6436B
+  type: SAE
+  primary: true
+- content: 10.4271/ams6436b
+  type: DOI
+date:
+- type: approved
+  at: '1994-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

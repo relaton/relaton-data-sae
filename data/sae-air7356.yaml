@@ -1,0 +1,60 @@
+---
+id: SAEAIR7356
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Opportunities, Challenges, and Requirements for Use of Blockchain in Unmanned
+    Aircraft Systems Operating Below 400 Feet Above Ground Level for Commercial Use
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air7356
+- type: src
+  content: https://saemobilus.sae.org/standards/air7356-opportunities-challenges-requirements-use-blockchain-unmanned-aircraft-systems-operating-400-feet-ground-level-commercial-use
+docidentifier:
+- content: SAE AIR7356
+  type: SAE
+  primary: true
+- content: 10.4271/air7356
+  type: DOI
+date:
+- type: approved
+  at: '2023-01-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-31 Digital Transactions for Aerospace
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) focuses on opportunities, challenges, and requirements in use of blockchain for Unmanned Aircraft Systems (UAS) operating at and below 400 feet above ground level (AGL) for commercial use. UAS stakeholders like original equipment manufacturers (OEMs), suppliers, operators, owners, regulators, and maintenance repair and overhaul (MRO) providers face many challenges in certification, airspace management, operations, supply chain, and maintenance. Blockchain—defined as a distributed ledger technology that includes enterprise blockchain—can help address some of these challenges. Blockchain technology is evolving and also poses certain concerns in adoption. This AIR provides information on the current UAS challenges and how these challenges can be addressed by deploying blockchain technology along with identified areas of concern when using this technology. The scope of this AIR includes elicitation of key requirements for blockchain in UAS across its life cycle and the need for the standardization of blockchain-enabled processes.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

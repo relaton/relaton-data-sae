@@ -1,0 +1,57 @@
+---
+id: SAEJ2735_202409
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: V2X Communications Message Set Dictionary
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2735_202409
+- type: src
+  content: https://saemobilus.sae.org/standards/j2735_202409-v2x-communications-message-set-dictionary
+docidentifier:
+- content: SAE J2735_202409
+  type: SAE
+  primary: true
+- content: 10.4271/j2735_202409
+  type: DOI
+date:
+- type: approved
+  at: '2024-09-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Core Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard specifies a message set, and its data frames and data elements, for use by applications that use vehicle-to-everything (V2X) communications systems.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

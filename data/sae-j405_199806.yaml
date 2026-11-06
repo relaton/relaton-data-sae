@@ -1,0 +1,56 @@
+---
+id: SAEJ405_199806
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Chemical Compositions of SAE Wrought Stainless Steels
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j405_199806
+- type: src
+  content: https://saemobilus.sae.org/standards/j405_199806-chemical-compositions-sae-wrought-stainless-steels
+docidentifier:
+- content: SAE J405_199806
+  type: SAE
+  primary: true
+- content: 10.4271/j405_199806
+  type: DOI
+date:
+- type: approved
+  at: '1998-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Metals Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The chemical composition of standard types of wrought stainless steels are listed in ASTM Specification A240. The UNS 20000 series designates nickel-chromium manganese, corrosion resistant types that are nonhardenable by thermal treatment. The UNS 30000 series are nickel-chromium, corrosion resistant steels, nonhardenable by thermal treatment. The UNS 40000 however, includes both a hardenable, martensitic chromium steel and nonhardenable, ferritic, chromium steel. Reference to SAE J412 is suggested for general information and usage of these types of materials. See &lt;span class="xref"&gt;Table 1&lt;/span&gt;.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

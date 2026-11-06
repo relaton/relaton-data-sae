@@ -1,0 +1,55 @@
+---
+id: SAEAMS3835
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fabric, Glass (181) (Decorative Grade)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3835
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3835-fabric-glass-181-decorative-grade
+docidentifier:
+- content: SAE AMS3835
+  type: SAE
+  primary: true
+- content: 10.4271/ams3835
+  type: DOI
+date:
+- type: approved
+  at: '1982-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P Polymeric Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This specification is declared "CANCELLED" by the Aerospace Materials Division, SAE, as of 1-1-82. By this action, subject specification number and title will be deleted from the active specification index of Aerospace Material Specifications.
+
+    This fabric style is no longer manufactured. See the latest issue of AMS 3824 for other glass cloth styles.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

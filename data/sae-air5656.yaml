@@ -1,0 +1,58 @@
+---
+id: SAEAIR5656
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Statistical Stability Assessment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5656
+- type: src
+  content: https://saemobilus.sae.org/standards/air5656-statistical-stability-assessment
+docidentifier:
+- content: SAE AIR5656
+  type: SAE
+  primary: true
+- content: 10.4271/air5656
+  type: DOI
+date:
+- type: approved
+  at: '2008-03-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-16 Turbine Engine Inlet Flow Distortion  Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides a methodology for performing a statistical assessment of gas-turbine-engine stability-margin usage. Consideration is given to vehicle usage, fleet size, and environment to provide insight into the probability of encountering an in-service engine stall event. Current industry practices, such as ARP1420, supplemented by AIR1419, and engine thermodynamic models, are used to determine and quantify the contribution of individual stability threats. The statistical technique adopted by the S-16 committee for performing a statistical stability assessment is the Monte Carlo method (see Applicable References 1 and 2). While other techniques may be suitable, their application is beyond the scope of this document. The intent of the document is to present a methodology and process to construct a statistical-stability-assessment model for use on a specific system and its mission or application.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEJ193931_199712
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: NETWORK LAYER
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939/31_199712
+- type: src
+  content: https://saemobilus.sae.org/standards/j193931_199712-network-layer
+docidentifier:
+- content: SAE J1939/31_199712
+  type: SAE
+  primary: true
+- content: 10.4271/j1939/31_199712
+  type: DOI
+date:
+- type: approved
+  at: '1997-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This series of SAE Recommended Practices was developed to provide an open interconnect system for on-board electronic systems. It is the intention of these documents to allow electronic devices to communicate with each other by providing a standard architecture. This particular document describes the Network Layer which defines the requirements and services needed for the electronic devices (Network Interconnection ECUs) providing intercommunications between different segments of the SAE J1939 Vehicle Network. It also defines the various types of Network Interconnection ECUs and the functions they provide.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

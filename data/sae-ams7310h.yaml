@@ -1,0 +1,56 @@
+---
+id: SAEAMS7310H
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: RINGS, PISTON, CAST IRON As Cast
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7310h
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7310h-rings-piston-cast-iron-cast
+docidentifier:
+- content: SAE AMS7310H
+  type: SAE
+  primary: true
+- content: 10.4271/ams7310h
+  type: DOI
+date:
+- type: approved
+  at: '1996-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers piston rings fabricated from cast iron.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

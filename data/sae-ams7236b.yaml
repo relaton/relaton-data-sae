@@ -1,0 +1,56 @@
+---
+id: SAEAMS7236B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: RIVETS, ALLOY, CORROSION AND HEAT RESISTANT 52Co - 20Cr - 10Ni - 15W
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7236b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7236b-rivets-alloy-corrosion-heat-resistant-52co-20cr-10ni-15w
+docidentifier:
+- content: SAE AMS7236B
+  type: SAE
+  primary: true
+- content: 10.4271/ams7236b
+  type: DOI
+date:
+- type: approved
+  at: '1979-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers rivets fabricated from a corrosion and heat resistant cobalt alloy.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,55 @@
+---
+id: SAEAMS2309A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Magnetic Rubber Inspection Material
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2309a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2309a-magnetic-rubber-inspection-material
+docidentifier:
+- content: SAE AMS2309A
+  type: SAE
+  primary: true
+- content: 10.4271/ams2309a
+  type: DOI
+date:
+- type: approved
+  at: '2007-04-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS K Non Destructive Methods and Processes Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers an inspection material in the form of a liquid
+    room-temperature vulcanizing rubber filled with magnetic particles which is cured
+    by addition of one or more curing agents.  The product may be supplied in a variety
+    of viscosities and colors.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,61 @@
+---
+id: SAEEIA6492A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Configuration Management Acquisition Requirements for Aeronautics and Space
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/eia649-2a
+- type: src
+  content: https://saemobilus.sae.org/standards/eia649-2a-configuration-management-acquisition-requirements-aeronautics-space
+docidentifier:
+- content: SAE EIA-649-2A
+  type: SAE
+  primary: true
+- content: 10.4271/eia649-2a
+  type: DOI
+date:
+- type: approved
+  at: '2024-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-33 Configuration Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard applies to all products and services produced for Aeronautics and Space enterprises and regulatory environments, including those produced by component facilities and technical and service support centers. If applied, this standard must be cited in the CM requirements of Enterprise Planning, Facilities Programs, Projects, and Supplier agreements.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;This standard applies throughout all phases of the program and project life cycle.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;CM is about the truth, trust, and traceability of products, data used to produce products, and processes throughout their life cycle and should be applied across the Enterprise at the process and product level. The significant data to which CM is applied includes scientific and engineering data; data that drives mission success; data that ensures IT security; and data used to make technical, programmatic, and business decisions. Proper application of CM is essential for product integrity and overall effectiveness. Acquirers complying with the principles in SAE/EIA-649 can tailor the specific “shall” statements in this standard and incorporate the tailored requirements into agreements to ensure the rigor required for Aeronautics, Space, and Ground Systems as discussed in the sections below.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

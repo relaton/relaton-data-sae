@@ -1,0 +1,58 @@
+---
+id: SAEAIR6343
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Design and Development of Rechargeable Lithium Battery Systems for Aerospace
+    Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6343
+- type: src
+  content: https://saemobilus.sae.org/standards/air6343-design-development-rechargeable-lithium-battery-systems-aerospace-applications
+docidentifier:
+- content: SAE AIR6343
+  type: SAE
+  primary: true
+- content: 10.4271/air6343
+  type: DOI
+date:
+- type: approved
+  at: '2020-01-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7D Aircraft Energy Storage and Charging Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AIR is intended to provide a basic overview of methodologies that should be utilized when undertaking the design and development of rechargeable lithium battery systems for aerospace applications. The battery system includes the battery cells, monitoring and control electronics, and battery charger as applicable. The methodologies presented herein apply to “installed” equipment which would be part of the original or supplemental type certification or military airframe qualification.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

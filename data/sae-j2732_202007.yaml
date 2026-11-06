@@ -1,0 +1,70 @@
+---
+id: SAEJ2732_202007
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Motor Vehicle Seat Dimensions
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2732_202007
+- type: src
+  content: https://saemobilus.sae.org/standards/j2732_202007-motor-vehicle-seat-dimensions
+docidentifier:
+- content: SAE J2732_202007
+  type: SAE
+  primary: true
+- content: 10.4271/j2732_202007
+  type: DOI
+date:
+- type: approved
+  at: '2020-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Human Accom and Design Devices Stds Comm
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides dimensional definitions that facilitate geometric quantification and evaluation of seats. Linear, radial, and angular surface dimensions included in this document are intended to approximate shape characteristics based on defined points of interest and not as a method needed to reproduce complex surface contours. In many cases, other points across the seat surface shape may exceed or not reach the boundary defined by these simple geometric definitions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Dimensions described in this document have been designed to be measured in a CAD environment; however, many dimensions require the HPD position and attitude. This can be obtained by physically establishing H-point using benchmark or auditing procedures OR by measuring the HPD within a CAD or modelling system. Refer to the appropriate document for these procedures.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Three types of seat geometry reference points and measurements have been developed:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Simple reference points and measurements not related to H-point.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;H-point dependent reference points and measurements that utilize the seat characterization capabilities of the HPD to quantify seat measurements.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Cross-sectional seat trim outlines.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;For convenience and simplicity, many terms associated with H-point devices use human body parts in their name. However, they should not be construed as measures that indicate interaction with any or all occupants concerning accommodation, human capabilities, or comfort.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;H-point devices do not represent the size or posture of any category of occupant.&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

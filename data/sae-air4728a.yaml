@@ -1,0 +1,59 @@
+---
+id: SAEAIR4728A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: References, Spacecraft and Spacecraft Servicing, Fluid System Components
+    (Abbreviations, Acronyms, Definitions, Applicable Documents and Environmental
+    Conditions)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4728a
+- type: src
+  content: https://saemobilus.sae.org/standards/air4728a-references-spacecraft-spacecraft-servicing-fluid-system-components-abbreviations-acronyms-definitions-applicable-documents-environmental-conditions
+docidentifier:
+- content: SAE AIR4728A
+  type: SAE
+  primary: true
+- content: 10.4271/air4728a
+  type: DOI
+date:
+- type: approved
+  at: '2021-04-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) presents reference information for use in preparing detailed specifications and other documents. The intent is to have a master reference document containing frequently required tabulations of information, such as the meaning of abbreviations, the spelled out wording of acronyms, the definition of terms, etc. so that such tabulations need not be repeated in recommended practice documents describing how to prepare technical documents.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is intended to provide references in the field of fluid system components for space applications. Space applications include spacecraft, such as satellites, space stations, launch vehicles and space shuttles, and servicing equipment and components used for ground systems and launching and for servicing in space. Fluid system components include couplings, fittings, hose and tubing assemblies.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

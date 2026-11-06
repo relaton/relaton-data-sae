@@ -1,0 +1,48 @@
+---
+id: SAEARP464
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Mount - Thermocouple
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp464
+- type: src
+  content: https://saemobilus.sae.org/standards/arp464-mount-thermocouple
+docidentifier:
+- content: SAE ARP464
+  type: SAE
+  primary: true
+- content: 10.4271/arp464
+  type: DOI
+date:
+- type: approved
+  at: '2018-05-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

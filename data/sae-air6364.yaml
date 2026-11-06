@@ -1,0 +1,68 @@
+---
+id: SAEAIR6364
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Test Facility Shakedown and Commissioning
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6364
+- type: src
+  content: https://saemobilus.sae.org/standards/air6364-test-facility-shakedown-commissioning
+docidentifier:
+- content: SAE AIR6364
+  type: SAE
+  primary: true
+- content: 10.4271/air6364
+  type: DOI
+date:
+- type: approved
+  at: '2017-11-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EG-1E Gas Turbine Test Facilities and Equipment
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The paper discusses in general terms the activities required to be undertaken or demonstrated during the establishment of the facility such as:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;the assessment checks prior to forwarding to the end users site for embodiment into the facility system&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;the establishment of the facility such as trial installations of hardware, functionality checking of lifting transportation and access systems, centerline pull checks, pressure testing of fuel and air start systems, flushing of wet systems and electrical continuity checking.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;the commissioning of the facility such as instrumentation calibrations, engine starts, engine running, assessment of command and control system, assessment of DAS system, aerodynamic and acoustic surveys.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;The paper will concentrate on the main engineering engine related aspects of the facility and will not necessarily contain information on the construction validation activities such as HVAC, electrical, facility fire system, waste water etc.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Risk analysis may be performed during the design phase whose results could lead to pay particular attention to some specific equipment / functionalities during the commissioning phase. If identified, these risks should be translated to specific tests and integrated into the validation plan, either at the factory or on site or both.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;If the test cell is designed to test several engine types, the acceptance process should validate upon which engine the test cell will be commissioned ➔ these discussions should take place at the early stage of the design process if not during the bidding phase. Moreover, an agreement between the Contractor and the Customer may have to be reached in order to clearly define how the scaling will be demonstrated in the case of the available engine types for commissioning are not representative of the full capacity upon which the facility is designed (e.g. the requirements are assessed based on future engine types). It is particularly relevant to air flow and acoustic levels and tones where effects aren’t only linear.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Correlation activities are outside the scope of this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Document is primary intended for typical overhaul (MRO) test cells. Development/Production facilities may include additional and specific equipment that requires dedicated shakedown and commissioning processes and procedures issued directly from the OEMs. Outdoor test cell specifics are not covered by this document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

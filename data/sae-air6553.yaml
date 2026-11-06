@@ -1,0 +1,57 @@
+---
+id: SAEAIR6553
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Measurement Uncertainty and Consumer Risk
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6553
+- type: src
+  content: https://saemobilus.sae.org/standards/air6553-measurement-uncertainty-consumer-risk
+docidentifier:
+- content: SAE AIR6553
+  type: SAE
+  primary: true
+- content: 10.4271/air6553
+  type: DOI
+date:
+- type: approved
+  at: '2020-02-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document addresses measurement uncertainty and consumer risk as they relate to AS8879 thread inspection. It describes the rationale, theory and methodology used to generate the technical content of the AS5870. The document describes how to calculate measurement consumer risk. It documents all of the calculation methods which industry employs today to calculate what is commonly called measurement uncertainty (&lt;span class="xref"&gt;Appendices A&lt;/span&gt;, &lt;span class="xref"&gt;B&lt;/span&gt;, &lt;span class="xref"&gt;C&lt;/span&gt;, &lt;span class="xref"&gt;D&lt;/span&gt;, &lt;span class="xref"&gt;E&lt;/span&gt; and &lt;span class="xref"&gt;F&lt;/span&gt;). These, in turn, are used to calculate measurement uncertainty ratios which are required inputs to calculate measurement consumer risk.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Users of this document can apply the information described herein for the evaluation of the capability of their measurements based on the measurement consumer risk. It involves the analysis of the measurement (product) distribution and biases of both the product and measurement system distributions. It protects the consumer from the worst case distribution results.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

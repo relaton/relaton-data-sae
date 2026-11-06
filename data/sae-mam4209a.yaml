@@ -1,0 +1,57 @@
+---
+id: SAEMAM4209A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY SHEET, ALCLAD 6.0Cu - 0.40Zr (2004-F) As Rolled
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/mam4209a
+- type: src
+  content: https://saemobilus.sae.org/standards/mam4209a-aluminum-alloy-sheet-alclad-60cu-040zr-2004-f-rolled
+docidentifier:
+- content: SAE MAM4209A
+  type: SAE
+  primary: true
+- content: 10.4271/mam4209a
+  type: DOI
+date:
+- type: approved
+  at: '1994-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of sheet procured in metric units.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEARP62832
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: In-Service Fiber Optic Inspection, Evaluation, and Cleaning, Best Practices,
+    Multi-Fiber Push on Termini
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6283/2
+- type: src
+  content: https://saemobilus.sae.org/standards/arp62832-service-fiber-optic-inspection-evaluation-cleaning-best-practices-multi-fiber-push-termini
+docidentifier:
+- content: SAE ARP6283/2
+  type: SAE
+  primary: true
+- content: 10.4271/arp6283/2
+  type: DOI
+date:
+- type: approved
+  at: '2020-03-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides user information on best practice methods and processes for the in-service inspection, evaluation, and cleaning of multi-fiber push on (MPO) (referred to as multi-fiber) fiber optic interconnect components, test equipment, and test leads based on the information provided in AIR6031 and ARP6283. This document provides the user with a decision-making tool to determine if the fiber optic components are acceptable for operation with multi-fiber fiber optic termini.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAMS5637B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS CORROSION RESISTANT 18Cr - 8.5Ni (SAE 30302) Cold Drawn, 125,000
+    psi (862 MN/m2)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5637b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5637b-steel-bars-corrosion-resistant-18cr-85ni-sae-30302-cold-drawn-125000-psi-862-mn-m2
+docidentifier:
+- content: SAE AMS5637B
+  type: SAE
+  primary: true
+- content: 10.4271/ams5637b
+  type: DOI
+date:
+- type: approved
+  at: '1971-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion resistant steel in the form of bars and wire 0.75 in. (19 mm) and under in diameter or distance between parallel sides.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

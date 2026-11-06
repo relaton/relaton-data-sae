@@ -1,0 +1,57 @@
+---
+id: SAEAMS4881A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: NICKEL-ALUMINUM-BRONZE CASTINGS, MARTENSITIC Sand and Centrifugal 78Cu
+    - 11Al - 5.1Ni - 4.8Fe Solution Heat Treated and Tempered
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4881a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4881a-nickel-aluminum-bronze-castings-martensitic-sand-centrifugal-78cu-11al-51ni-48fe-solution-heat-treated-tempered
+docidentifier:
+- content: SAE AMS4881A
+  type: SAE
+  primary: true
+- content: 10.4271/ams4881a
+  type: DOI
+date:
+- type: approved
+  at: '1992-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers one type of nickel-aluminum bronze in the form of sand or centrifugal castings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

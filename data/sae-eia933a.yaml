@@ -1,0 +1,59 @@
+---
+id: SAEEIA933A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standard for Preparing a COTS Assembly Management Plan
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/eia933a
+- type: src
+  content: https://saemobilus.sae.org/standards/eia933a-standard-preparing-a-cots-assembly-management-plan
+docidentifier:
+- content: SAE EIA-933A
+  type: SAE
+  primary: true
+- content: 10.4271/eia933a
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: APMC Avionics Process Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document applies to the development of plans for the integration and management of COTS assemblies in electronic systems used in the commercial, military and space markets. COTS assemblies include items such as VPX circuit cards/modules (single board computers, etc.), servers, printers, laptop computers, printed wiring assemblies, disk drives, etc.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;This publication is not intended to preclude or discourage other approaches that similarly represent good engineering practice, or that may be acceptable to, or have been accepted by, appropriate bodies. Parties who wish to bring other approaches to the attention of the formulating committee to be considered for inclusion in future drafts of this publication are encouraged to do so. It is the intention of the formulating committee to revise and update this publication from time to time as may be occasioned by changes in technology, industry practice, or government regulations, or for other appropriate reasons.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;[Development by the Information Technology Association of America (ITAA) Avionics Process Management Committee (APMC)]&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

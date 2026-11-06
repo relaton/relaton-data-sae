@@ -1,0 +1,58 @@
+---
+id: SAEAIR4896A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Recommended RMS Terms and Parameters
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4896a
+- type: src
+  content: https://saemobilus.sae.org/standards/air4896a-recommended-rms-terms-parameters
+docidentifier:
+- content: SAE AIR4896A
+  type: SAE
+  primary: true
+- content: 10.4271/air4896a
+  type: DOI
+date:
+- type: approved
+  at: '2023-07-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-41 Reliability
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The terms used in most engineering technologies tend to be physical characteristics such as speed, rate of turn, and fuel consumption. While they may require very careful definition and control of the way in which they are measured, the terms themselves are not subject to different interpretations. Reliability, maintainability and supportability (RMS) however, use terms that are mathematically defined. As a result, there are more than 2000 terms defined in just the documents reviewed so far, many of which have multiple interpretations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This proliferation of definitions of the terms leads to problems when one attempts to compare the performance of one system to another. For example, the RMS performance of a transport aircraft from the commercial arena is measured using metrics that are not the same as those for a fighter or attack aircraft from a military service. It is accepted that some of the metrics may be unique because of the nature of the missions, but it is the strong conviction of the Government and Industry practitioners who make up the SAE Committee G-11 that there should be some fundamental definitions used for all hardware systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Accordingly, in early 1986 the SAE G-11R (Resources) subcommittee was formed and tasked to review relevant RMS documents, extract any applicable terms, and through a system of logical selection compile a series of terms and definitions that would be recommended for the Aerospace Community. There are undoubtedly many more documents that need to be reviewed for the definitions they contain, for example, we have specifically excluded “software reliability” from this edition. Also, there is a need to reconcile the terms and their definitions with those commonly used in the commercial aircraft business. It is planned that the SAE subcommittee work shall continue to result in future revisions that will broaden the scope of the document. This is the document that has been prepared by the SAE G-11R subcommittee. Future updates of this document will continue to reflect the converging of defense and commercial technology and standards.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAS1072F
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Sleeve, Hose Assembly, Fire Protection
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1072f
+- type: src
+  content: https://saemobilus.sae.org/standards/as1072f-sleeve-hose-assembly-fire-protection
+docidentifier:
+- content: SAE AS1072F
+  type: SAE
+  primary: true
+- content: 10.4271/as1072f
+  type: DOI
+date:
+- type: approved
+  at: '2019-01-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard defines the requirements for bulk protective sleeve to provide fire resistance for aircraft hose assemblies, which will enable these assemblies to meet the requirements of AS1055.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: Use of this sleeve does not eliminate the need to demonstrate that the sleeved assemblies will meet the applicable requirements of AS1055.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

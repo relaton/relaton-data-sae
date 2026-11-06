@@ -1,0 +1,57 @@
+---
+id: SAEARP6253A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: LEDs and Aircraft Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6253a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6253a-leds-aircraft-applications
+docidentifier:
+- content: SAE ARP6253A
+  type: SAE
+  primary: true
+- content: 10.4271/arp6253a
+  type: DOI
+date:
+- type: approved
+  at: '2025-01-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20C Interior Lighting
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document presents minimum criteria for the design and installation of LED assemblies in aircraft. The use of "shall" in this specification expresses provisions that are binding. Nonmandatory provisions use the term "should."&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

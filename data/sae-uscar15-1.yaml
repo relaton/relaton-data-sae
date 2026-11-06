@@ -1,0 +1,90 @@
+---
+id: SAEUSCAR151
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Specification For Testing Automotive Miniature Bulb Socket/Circuit Plate
+    Assemblies
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar15-1
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar15-1-specification-testing-automotive-miniature-bulb-socket-circuit-plate-assemblies
+docidentifier:
+- content: SAE USCAR-15-1
+  type: SAE
+  primary: true
+- content: 10.4271/uscar15-1
+  type: DOI
+date:
+- type: approved
+  at: '2004-12-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes the requirements and test procedures for automotive miniature bulb retention devices, including wedge base sockets with integral connector, direct wire wedge base sockets, circuit plate assemblies, and associated interfaces.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Tests shall follow the sequence shown in the flow charts in &lt;span class="xref"&gt;Appendix E&lt;/span&gt; whenever the following occurs:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;New design&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Design, material or process change made to an existing device, which could affect the outcome of the test.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;The following test sequences shall be run annually:&lt;/div&gt;
+
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Test Sequence #2 (Run only the tests listed below, in the following order.)
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Bulb Insertion/Removal Force&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Voltage Drop&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Vibration&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Bulb Insertion/Removal Force&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Bulb Wobble&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Test Sequence #8&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Test Sequence #9&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Test Sequence #10&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

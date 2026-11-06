@@ -1,0 +1,55 @@
+---
+id: SAEARP6022A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Cargo Stopper Devices
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6022a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6022a-cargo-stopper-devices
+docidentifier:
+- content: SAE ARP6022A
+  type: SAE
+  primary: true
+- content: 10.4271/arp6022a
+  type: DOI
+date:
+- type: approved
+  at: '2011-09-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: <p>The purpose of this SAE Aerospace Recommended Practice (ARP) is to standardize
+    the basic design, performance and testing requirements for "Cargo Stoppers" cargo
+    tie-down accessories to be used in conjunction with approved tie-down straps meeting
+    AS5385C requirements.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

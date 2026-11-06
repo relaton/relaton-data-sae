@@ -1,0 +1,56 @@
+---
+id: SAEAMS275912B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Automated Gaseous Nitrocarburizing Controlled by Potentials
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2759/12b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams275912b-automated-gaseous-nitrocarburizing-controlled-potentials
+docidentifier:
+- content: SAE AMS2759/12B
+  type: SAE
+  primary: true
+- content: 10.4271/ams2759/12b
+  type: DOI
+date:
+- type: approved
+  at: '2018-07-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the requirements for producing a continuous white layer with controlled extent of porosity by means of a gaseous process, automatically controlled to maintain set values of the nitriding and carburizing potentials that determine properties of the nitrocarburized surface. Automatic control is intended to ensure repeatability of nitrogen and carbon content of the white layer which influences properties such as wear and corrosion resistance, ductility and fatigue strength.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

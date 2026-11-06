@@ -1,0 +1,58 @@
+---
+id: SAEJ2978_202106
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Truck and Bus Coastdown Procedure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2978_202106
+- type: src
+  content: https://saemobilus.sae.org/standards/j2978_202106-truck-bus-coastdown-procedure
+docidentifier:
+- content: SAE J2978_202106
+  type: SAE
+  primary: true
+- content: 10.4271/j2978_202106
+  type: DOI
+date:
+- type: approved
+  at: '2021-06-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Aerodynamics and Fuel Economy Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes a rigorous engineering test procedure that utilizes industry-accepted data collection and statistical analysis methods to determine the road load and to estimate the aerodynamic drag area of trucks and buses weighing more than 10000 pounds. The test procedure may be conducted on a test track or on a public road under controlled conditions and supported by extensive data collection and data analysis constraints. The estimated aerodynamic-drag-area result represents a single-speed and single-yaw-angle condition. Test results that do not rigorously follow the method described herein shall not be represented as an SAE J2978 result.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,54 @@
+---
+id: SAEJ2130_200902
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Self-Propelled Sweepers and Cleaning Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2130_200902
+- type: src
+  content: https://saemobilus.sae.org/standards/j2130_200902-self-propelled-sweepers-cleaning-equipment
+docidentifier:
+- content: SAE J2130_200902
+  type: SAE
+  primary: true
+- content: 10.4271/j2130_200902
+  type: DOI
+date:
+- type: approved
+  at: '2009-02-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: MTC2, Sweeper, Cleaner, and Machinery
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Standard applies to all machines that are designed to sweep
+    material from highways, parking lots, and inside buildings. Primary methods for
+    removing material can be by mechanical means, pneumatic, or combinations of both.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

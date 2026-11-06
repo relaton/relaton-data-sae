@@ -1,0 +1,61 @@
+---
+id: SAEAS21438E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BEARING, ROLLER, NEEDLE, SINGLE ROW, HEAVY DUTY, TRACK ROLLER, SEALED,
+    TYPE V ANTIFRICTION, INCH
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as21438e
+- type: src
+  content: https://saemobilus.sae.org/standards/as21438e-bearing-roller-needle-single-row-heavy-duty-track-roller-sealed-type-v-antifriction-inch
+docidentifier:
+- content: SAE AS21438E
+  type: SAE
+  primary: true
+- content: 10.4271/as21438e
+  type: DOI
+date:
+- type: approved
+  at: '2025-12-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ACBG Rolling Element Bearing Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

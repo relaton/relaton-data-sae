@@ -1,0 +1,56 @@
+---
+id: SAEARP6227
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: JAUS Messaging over the OMG Data Distribution Service (DDS)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6227
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6227-jaus-messaging-omg-data-distribution-service-dds
+docidentifier:
+- content: SAE ARP6227
+  type: SAE
+  primary: true
+- content: 10.4271/arp6227
+  type: DOI
+date:
+- type: approved
+  at: '2024-03-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-4JAUS Joint Architecture for Unmanned Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document defines a standard representation of JAUS AS5684A message data in DDS IDL defined by the Object Management Group (OMG) CORBA 3.2 specification. This document does NOT address how JAUS transport considerations or JAUS service protocols are implemented on OMG DDS platforms.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

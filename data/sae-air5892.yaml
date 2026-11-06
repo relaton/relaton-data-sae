@@ -1,0 +1,60 @@
+---
+id: SAEAIR5892
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nonvolatile Exhaust Particle Measurement Techniques
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5892
+- type: src
+  content: https://saemobilus.sae.org/standards/air5892-nonvolatile-exhaust-particle-measurement-techniques
+docidentifier:
+- content: SAE AIR5892
+  type: SAE
+  primary: true
+- content: 10.4271/air5892
+  type: DOI
+date:
+- type: approved
+  at: '2004-05-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-31 Aircraft Eng Gas and Particulate Emissions Measurement
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) addresses procedures applicable to quantifying the emission of nonvolatile particulate matter at the exit plane of aircraft gas turbine engines. While both volatile and nonvolatile particulate matter (PM) are present in aircraft gas turbine exhaust, the methods used to measure nonvolatile particles are farther advanced and are addressed here.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Existing PM measurement regulations employ the SAE Smoke Number measurement (Reference &lt;span class="xref"&gt;2.1.1&lt;/span&gt;), a stained filter technique used in evaluating visible emissions. The environmental and human health issues associated with submicronic PM emissions require more detailed measurement of the mass, size, and quantity of these particle emissions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Responding to regulatory agency requests, this AIR describes measurement techniques that are well developed and could be applied to the measurement of aircraft engine particulate matter. The techniques discussed here are considered relevant for measuring particle parameters identified with environmental and health concerns.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The discussion that follows is based on research made while developing measurement techniques and in scientific and engineering experiments regarding PM emissions. The techniques are not yet used in routine aircraft engine certification. Future use in regulatory testing is likely to involve further refinements in methodology and application. It is planned that these refinements will be included in the subsequent publication of an Aerospace Recommended Practice.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The distinction between nonvolatile and volatile particle types is a critical task in the measurement of particles in aircraft engine exhaust. &lt;span class="xref"&gt;Appendix A&lt;/span&gt;, SAE E-31 Position Paper on Particle Matter Measurements, provides additional technical bases for the scope of this AIR. The measurement methods for volatile condensed particles in turbine exhaust will be covered in a subsequent report. Observations to date show that volatile particles occur mainly at diameters less than 10 nanometers (&amp;lt;10 nm) but may dominate in particle number density (PND).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEAIR5645
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: JAUS Transport Considerations
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5645
+- type: src
+  content: https://saemobilus.sae.org/standards/air5645-jaus-transport-considerations
+docidentifier:
+- content: SAE AIR5645
+  type: SAE
+  primary: true
+- content: 10.4271/air5645
+  type: DOI
+date:
+- type: approved
+  at: '2007-12-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-4JAUS Joint Architecture for Unmanned Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) discusses characteristics of data communications for the Joint Architecture for Unmanned Systems (JAUS). This document provides guidance on the aspects of transport media, unmanned systems and the characteristics of JAUS itself that are relevant to the definition of a JAUS transport specification.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

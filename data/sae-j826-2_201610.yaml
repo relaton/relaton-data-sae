@@ -1,0 +1,56 @@
+---
+id: SAEJ8262_201610
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 2-D CAD Template for SAE J826 H-point Machine
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j826/2_201610
+- type: src
+  content: https://saemobilus.sae.org/standards/j8262_201610-2-d-cad-template-sae-j826-h-point-machine
+docidentifier:
+- content: SAE J826/2_201610
+  type: SAE
+  primary: true
+- content: 10.4271/j826/2_201610
+  type: DOI
+date:
+- type: approved
+  at: '2016-10-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Human Accom and Design Devices Stds Comm
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes the 2-D computer-aided design (CAD) template for the HPM-1 H-point machine or HPD available from SAE. The elements of the HPD include the curve shapes, datum points and lines, and calibration references. The intended purpose for this information is to provide a master CAD reference for design and benchmarking. The content and format of the data files that are available are also described.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

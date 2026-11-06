@@ -1,0 +1,56 @@
+---
+id: SAEAMS2269C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CHEMICAL CHECK ANALYSIS LIMITS Wrought Nickel Alloys and Cobalt Alloys
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2269c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2269c-chemical-check-analysis-limits-wrought-nickel-alloys-cobalt-alloys
+docidentifier:
+- content: SAE AMS2269C
+  type: SAE
+  primary: true
+- content: 10.4271/ams2269c
+  type: DOI
+date:
+- type: approved
+  at: '1979-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers chemical check analysis limits for wrought nickel alloys and cobalt alloys having nominal compositions made up of elements, other than iron, that comprise more than 50% of the total. The chemical check analysis limits shown herein shall apply when this specification is referenced in the material specification. Check analysis limits for elements or for ranges of elements not listed herein shall be as specified in the applicable material specification or as agreed upon by purchaser and vendor.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

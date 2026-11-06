@@ -1,0 +1,48 @@
+---
+id: SAEMA3384A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STUD, STEPPED - 1.5 DIA ENGAGEMENT, A286, MJ METRIC 7 X 1 - 6 X 1
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma3384a
+- type: src
+  content: https://saemobilus.sae.org/standards/ma3384a-stud-stepped-15-dia-engagement-a286-mj-metric-7-x-1-6-x-1
+docidentifier:
+- content: SAE MA3384A
+  type: SAE
+  primary: true
+- content: 10.4271/ma3384a
+  type: DOI
+date:
+- type: approved
+  at: '2014-12-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

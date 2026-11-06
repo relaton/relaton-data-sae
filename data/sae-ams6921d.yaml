@@ -1,0 +1,69 @@
+---
+id: SAEAMS6921D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Titanium Alloy Bars and Forging Stock, 3Al - 8V - 6Cr - 4Mo - 4Zr, Solution
+    Heat Treated and Aged
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6921d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6921d-titanium-alloy-bars-forging-stock-3al-8v-6cr-4mo-4zr-solution-heat-treated-aged
+docidentifier:
+- content: SAE AMS6921D
+  type: SAE
+  primary: true
+- content: 10.4271/ams6921d
+  type: DOI
+date:
+- type: approved
+  at: '2026-02-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G Titanium and Refractory Metals Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a titanium alloy in the form of bars up through 4.000 inches (101.60 mm) in nominal diameter or least distance between parallel sides, inclusive, and stock for forging of any size (see &lt;span class="xref"&gt;8.7&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

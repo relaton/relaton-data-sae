@@ -1,0 +1,58 @@
+---
+id: SAEJ1708_199010
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SERIAL DATA COMMUNICATIONS BETWEEN MICROCOMPUTER SYSTEMS IN HEAVY DUTY
+    VEHICLE APPLICATIONS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1708_199010
+- type: src
+  content: https://saemobilus.sae.org/standards/j1708_199010-serial-data-communications-microcomputer-systems-heavy-duty-vehicle-applications
+docidentifier:
+- content: SAE J1708_199010
+  type: SAE
+  primary: true
+- content: 10.4271/j1708_199010
+  type: DOI
+date:
+- type: approved
+  at: '1990-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document defines a recommended practice for implementing a bidirectional, serial communication link among modules containing microcomputers. This document defines those parameters of the serial link that relate primarily to hardware and basic software compatibility such as interface requirements, system protocol, and message format. The actual data to be transmitted by particular modules, which is an important aspect of communications compatibility, is not specified in this document. These and other details of communication link implementation and use should be specified in the separate application documents referenced in &lt;span class="xref"&gt;Section 2&lt;/span&gt;.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

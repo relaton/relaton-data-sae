@@ -1,0 +1,59 @@
+---
+id: SAESSB1_004A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Failure Rate Estimating
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ssb1_004a
+- type: src
+  content: https://saemobilus.sae.org/standards/ssb1_004a-failure-rate-estimating
+docidentifier:
+- content: SAE SSB1-004A
+  type: SAE
+  primary: true
+- content: 10.4271/ssb1_004a
+  type: DOI
+date:
+- type: approved
+  at: '2009-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CE-12 Solid State Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is an annex to EIA Engineering Bulletin SSB-1, &lt;i&gt;Guidelines for Using Plastic Encapsulated Microcircuits and Semiconductors in Military, Aerospace and Other Rugged Applications&lt;/i&gt; (the latest revision).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Failure-Mechanism-Driven Reliability Monitoring draws upon the concepts and implementation of line controls, process stability, and effective monitoring programs in lieu of qualifying a product based solely on a fixed list of tests. A supplier must identify those failure mechanisms that may be actuated through a given product / process change(s), and must design and implement reliability tests adequate to assess the impact of those failure mechanisms on system level reliability. In order for this to be effective, the supplier establishes a thorough understanding of and linkage to their reliability monitoring program. Statistical Reliability Monitoring (SRM) is a statistically based methodology for monitoring and improving reliability; it involves identification and classification of failure mechanisms, development and use of monitors, and investigation of failure kinetics allowing prediction of failure rate at use conditions. Failure kinetics are the characteristics of failure for a given physical failure mechanism, including (where applicable) acceleration factor, derating curve, activation energy, median life, standard deviation, characteristic life, instantaneous failure rate, etc.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The failure rate of semiconductor devices is inherently low. As a result, the semiconductor industry uses a technique called accelerated testing to assess device reliability. Elevated stresses are used to produce the same failure mechanisms as would be observed under normal use conditions, but in a shorter time period. Acceleration factors are used by device manufacturers to estimate failure rates based on the results of accelerated testing. The objective of this testing is to identify these failure mechanisms and eliminate them as a cause of failure during the useful life of the product.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document provides reference information concerning methods commonly used by the semiconductor industry to estimate failure rates from accelerated test results. These methods are frequently used by OEMs in conjunction with physics of failure reliability analysis to assess the suitability of plastic encapsulated microcircuits and semiconductors for specific end use applications.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

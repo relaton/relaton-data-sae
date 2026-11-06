@@ -1,0 +1,60 @@
+---
+id: SAEARP780C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Environmental Systems Schematic Symbols
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp780c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp780c-environmental-systems-schematic-symbols
+docidentifier:
+- content: SAE ARP780C
+  type: SAE
+  primary: true
+- content: 10.4271/arp780c
+  type: DOI
+date:
+- type: approved
+  at: '2020-05-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides symbols to schematically represent aerospace vehicle environmental system components on functional flow schematic drawings and graphical computerized output. The symbols are for use on simplified diagrams that provide basic information about an environmental system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Symbols are provided to represent basic types of components used in environmental systems. Simple variations of basic symbol types are provided. Words on the schematic diagram, special symbol codes, or symbols that combine basic symbol types (&lt;span class="xref"&gt;Section 5&lt;/span&gt;) can be used to augment the basic symbols when appropriate. Special or combined symbols not contained in this document should be defined on the schematic diagram.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;An example of a complete schematic is given in &lt;span class="xref"&gt;Section 6&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A bibliography of other documents on environmental system symbols is found in &lt;span class="xref"&gt;Appendix A&lt;/span&gt;.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,60 @@
+---
+id: SAEARP5413
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Certification of Aircraft Electrical/Electronic Systems for the Indirect
+    Effects of Lightning
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5413
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5413-certification-aircraft-electrical-electronic-systems-indirect-effects-lightning
+docidentifier:
+- content: SAE ARP5413
+  type: SAE
+  primary: true
+- content: 10.4271/arp5413
+  type: DOI
+date:
+- type: approved
+  at: '2006-03-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-2 Lightning Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides guidance for a means of showing compliance with the regulations for hazards caused by the lightning environment to electrical/electronic systems installed either on or within aircraft. Equipment hazards addressed include those due to indirect effects on equipment and its associated wiring that is mounted on the aircraft exterior as well as indirect effects on equipment and its associated wiring located within the aircraft interior. This document applies to new aircraft and equipment designs, modifications of existing aircraft or equipment, and applications of existing (off the shelf) equipment on new aircraft.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: This ARP does not address direct effects such as burning, eroding, blasting, of aircraft structure nor does it address fuel ignition hazards (see related reading material in &lt;span class="xref"&gt;2.3&lt;/span&gt; of this document). This ARP does not address lightning zoning methods or lightning test requirements, methods, and techniques. Coverings (fairing, skin, cowl, etc.) should normally prevent direct attachment of the lightning channel to underlying system components. However, if a direct lightning strike attachment to a system component can occur, a complete evaluation of both direct and indirect effects will be necessary.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It should be noted that electrical/electronic systems or components are sometimes exposed to lightning currents directly conducted from the aircraft exterior, as may happen when an antenna is struck and a portion of lightning current flows in its cable. Care should be taken to identify any such possibilities and either eliminate these situations by design modifications, or address them in the certification plan. No further discussion of these situations is included in this ARP.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

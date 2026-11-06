@@ -1,0 +1,58 @@
+---
+id: SAEARP5674
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Safety Considerations for Aircraft-Mounted Lasers Projected Into the Navigable
+    Airspace
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5674
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5674-safety-considerations-aircraft-mounted-lasers-projected-navigable-airspace
+docidentifier:
+- content: SAE ARP5674
+  type: SAE
+  primary: true
+- content: 10.4271/arp5674
+  type: DOI
+date:
+- type: approved
+  at: '2012-08-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10T Laser Safety Hazards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is intended to be used for laser systems mounted on aircraft and intended for use in the navigable airspace. This does not include lasers onboard aircraft where the beam is contained within an enclosure so that the beam cannot enter into airspace, nor does it include lasers from satellites and spacecraft in outer space. It may be used in conjunction with: AS4970, ARP5535, ARP5572, ARP5293, and the ANSI Z136 laser safety standards.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

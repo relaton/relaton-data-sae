@@ -1,0 +1,58 @@
+---
+id: SAEARP6199A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Method to Evaluate Aircraft Passenger Seats for the Test Requirements of
+    14 CFR Part 25 Appendix F, Parts IV and V
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6199a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6199a-method-evaluate-aircraft-passenger-seats-test-requirements-14-cfr-part-25-appendix-f-parts-iv-v
+docidentifier:
+- content: SAE ARP6199A
+  type: SAE
+  primary: true
+- content: 10.4271/arp6199a
+  type: DOI
+date:
+- type: approved
+  at: '2017-02-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aircraft Seat Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) is only applicable to 14 CFR part 25 Transport Airplane passenger seats. This document provides an approach for determining which parts on aircraft seats are required to meet the test requirements of 14 CFR part 25 Appendix F, Parts IV and V. Such materials are referred to as Heat Release Special Conditions (HRSC) compliant]. Additionally, it is recommended to use HRSC compliant materials in applications where not required.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Independent furniture related to seat installations is outside the scope of this document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

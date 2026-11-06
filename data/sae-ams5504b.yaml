@@ -1,0 +1,48 @@
+---
+id: SAEAMS5504B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL SHEET AND STRIP, CORROSION RESISTANT 12.5Cr (SAE 51410)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5504b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5504b-steel-sheet-strip-corrosion-resistant-125cr-sae-51410
+docidentifier:
+- content: SAE AMS5504B
+  type: SAE
+  primary: true
+- content: 10.4271/ams5504b
+  type: DOI
+date:
+- type: approved
+  at: '1952-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

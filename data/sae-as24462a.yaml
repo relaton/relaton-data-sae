@@ -1,0 +1,48 @@
+---
+id: SAEAS24462A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BEARING, ROLLER, NEEDLE, SINGLE ROW, THIN SHELL, TYPE II, ANTIFRICTION
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as24462a
+- type: src
+  content: https://saemobilus.sae.org/standards/as24462a-bearing-roller-needle-single-row-thin-shell-type-ii-antifriction
+docidentifier:
+- content: SAE AS24462A
+  type: SAE
+  primary: true
+- content: 10.4271/as24462a
+  type: DOI
+date:
+- type: approved
+  at: '2005-07-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ACBG Rolling Element Bearing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,71 @@
+---
+id: SAEARP7375
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Test Guidelines for Assessment of Electrical Insulation Material Aging
+    in a High Voltage System
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp7375
+- type: src
+  content: https://saemobilus.sae.org/standards/arp7375-test-guidelines-assessment-electrical-insulation-material-aging-a-high-voltage-system
+docidentifier:
+- content: SAE ARP7375
+  type: SAE
+  primary: true
+- content: 10.4271/arp7375
+  type: DOI
+date:
+- type: approved
+  at: '2026-08-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-11 Aging Models for Electrical Insulation in Hi-Enrgy Sys
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;To provide test guidelines, recommendations, and referenced standards for insulation materials in a high energy system especially at high voltages (AC, DC, and PWM) and at operational altitudes, for the purpose of defining/measuring the effects of insulation aging.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is a part of a family of documents related to the impact of ageing on insulating materials devoted to aviation applications. Aging mechanisms, and the markers to monitor them, have been defined in AIR7374. For sake of brevity, the main conclusions are used here.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;ARP7375 focuses on the ways to measure these markers on representative samples (either coupons or electrical insulation systems) for aerospace applications.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

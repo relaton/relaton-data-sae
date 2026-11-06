@@ -1,0 +1,56 @@
+---
+id: SAEARP7044
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Powder History Metric and Labeling Schema
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp7044
+- type: src
+  content: https://saemobilus.sae.org/standards/arp7044-powder-history-metric-labeling-schema
+docidentifier:
+- content: SAE ARP7044
+  type: SAE
+  primary: true
+- content: 10.4271/arp7044
+  type: DOI
+date:
+- type: approved
+  at: '2022-11-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS AM Additive Manufacturing Metals
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) describes a method to measure, track, and characterize the history of powder feedstock when consumed in the production of parts via additive manufacturing (AM). The history captured as part of this ARP includes AM process exposure, feedstock consumption, blending, and losses associated with the totality of the AM workflow. This document also outlines a two-part metric schema for used powder feedstock consequential of its process exposure history. This metric schema also enables aligning risk determination and usage practices for used powder when based on a correlation between tabulated values in the scheme and user-identified metrics. These correlated metrics with schema values may also be used when establishing powder blending workflows or identifying end-of-life for feedstock.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

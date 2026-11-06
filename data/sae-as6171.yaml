@@ -1,0 +1,72 @@
+---
+id: SAEAS6171
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Test Methods Standard; General Requirements, Suspect/Counterfeit, Electrical,
+    Electronic, and Electromechanical Parts
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6171
+- type: src
+  content: https://saemobilus.sae.org/standards/as6171-test-methods-standard-general-requirements-suspect-counterfeit-electrical-electronic-electromechanical-parts
+docidentifier:
+- content: SAE AS6171
+  type: SAE
+  primary: true
+- content: 10.4271/as6171
+  type: DOI
+date:
+- type: approved
+  at: '2016-10-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-19A Test Laboratory Standards Development Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) standardizes inspection and test procedures, workmanship criteria, and minimum training and certification requirements to detect Suspect/Counterfeit (SC) Electrical, Electronic, and Electromechanical (EEE) parts. The requirements of this document apply once a decision is made to use parts with unknown chain of custody that do not have pedigree back to the original component manufacturer, or have been acquired from a broker or independent distributor, or when there are other known risk elements that result in the User/Requester to have concerns about potential SC EEE parts. The tests specified by this standard may also detect occurrences of malicious tampering, although the current version of this standard is not designed specifically for this purpose.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard ensures consistency across the supply chain for test techniques and requirements based on assessed risk associated with the application, component, supplier, and other relevant risk factors. The requirements of this document supplement the requirements of a higher level quality standard (e.g., AS9100, AS9003, AS9120, ISO 9001) and other quality management system documents. They are not intended to stand alone, supersede, or cancel requirements found in other quality management system documents, or requirements imposed by contracting authorities.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard should be implemented when other risk mitigation methods for avoiding the use of SC EEE parts (e.g., acquiring all parts from Authorized Sources, redesigning the system, having obsolete parts emulated, etc.) are either unavailable or inadequate. This standard mitigates the technical risk of performing insufficient inspection and test to determine suspect counterfeit EEE parts. This standard is not intended to be used to assess quality or reliability issues that may arise because of component production issues or due to mishandling, improper storage, or other attributes specific to quality or reliability.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The following terminology is used throughout this document and associated AS6171 Slash Sheets:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Shall = is mandatory;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Should = is recommended; and&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Will = is planned (is considered to be part of a standard process).&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard should be utilized when parts are not available from sources with known traceability to the Original Component Manufacturer (OCM), Original Equipment Manufacturer (OEM) for electromechanical parts, or authorized manufacturer. The requirements of this document specify testing based on acceptable levels of risk for a program or customer, to identify anomalies or performance issues that may indicate suspect counterfeit and counterfeit activity. No amount of testing can confirm an item as authentic; this would require that there be a known, unbroken chain of custody to the OCM/OEM or authorized manufacturer. Therefore, organizations should attempt to obtain parts from sources that have known traceability to the OCM or authorized manufacturer to avoid receiving counterfeit parts. All intermediaries from the origin (i.e., OCM/OEM or authorized manufacturer) to the final destination should consist of Trusted Suppliers, and transportation should be provided by logistics carriers that have documented processes and procedures to avoid tampering or substitution during the journey to the parts’ final destination. A preference should be given to parts with known pedigree over parts with unknown pedigree to avoid counterfeit parts. This standard does not apply to parts obtained directly from a Trustworthy Authorized Supplier with traceability to the OCM/OEM or authorized manufacturer. This standard does not have specific test methods to determine if an item is a Fraudulent Part beyond what is considered counterfeit. Test data on anomalies can be gathered for potential legal determination of fraudulent intent or negligence. This document does not make a legal determination of fraud, and appropriate legal counsel should be consulted for further action.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Unless otherwise specified in the SOW or PO by the User/Requester, the information in the Appendices is not considered mandatory.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

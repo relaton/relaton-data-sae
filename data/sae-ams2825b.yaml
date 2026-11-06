@@ -1,0 +1,58 @@
+---
+id: SAEAMS2825B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Material Safety Data Sheets
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2825b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2825b-material-safety-data-sheets
+docidentifier:
+- content: SAE AMS2825B
+  type: SAE
+  primary: true
+- content: 10.4271/ams2825b
+  type: DOI
+date:
+- type: approved
+  at: '2010-01-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: <p>&lt;p&gt;This specification has been declared "CANCELLED" by the Aerospace
+    Materials Division, SAE, as of xxxx and has been superseded by ANSI Z400.1, Material
+    Safety Data Sheets -Preparation. The requirements of the latest issue of ANSI
+    Z400.1 shall be fulfilled whenever reference is made to the cancelled AMS2825.
+    By this action, this document will remain listed in the Numerical Section of the
+    Index of Aerospace Material Specifications, noting that it has been superseded
+    by ANSI Z400.1.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

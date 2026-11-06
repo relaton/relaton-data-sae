@@ -1,0 +1,59 @@
+---
+id: SAEAIR5052
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CRACK INITIATION AND GROWTH CONSIDERATIONS FOR LANDING GEAR STEEL WITH
+    EMPHASIS ON AERMET 100
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5052
+- type: src
+  content: https://saemobilus.sae.org/standards/air5052-crack-initiation-growth-considerations-landing-gear-steel-emphasis-aermet-100
+docidentifier:
+- content: SAE AIR5052
+  type: SAE
+  primary: true
+- content: 10.4271/air5052
+  type: DOI
+date:
+- type: approved
+  at: '1997-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5B Gears, Struts and Couplings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Steel alloys, such as AF1410 (AMS 6527, UNS K92571) and AerMet 100 (AMS 6532), have been developed which have improved Fracture Toughness characteristics compared to the current landing gear steel alloy, 300M (AMS 6419 and AMS 6257, MIL-S-8844, UNS K44220). The 300M steel is the most widely used material in current landing gear designs. It has been successfully used in thousands of applications. The use of the 300M material necessitates a safe life design criterion where components are retired after one-fourth to one-sixth the laboratory test life. This criterion was established in part due to the relatively low fracture toughness of low-alloy steel in the 260 to 300 ksi strength range.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The high fracture tough alloys give comparable strength levels with an increase in fracture toughness and better resistance to stress corrosion cracking. These alloys may make possible the consideration of new procedures for operation, maintenance, and inspection. For the present, these materials in the 220 to 280 ksi strength range, cannot be certified to damage tolerant design criteria. They may not yield critical cracks readily detectable using normal in-service inspection methods. Even though they may not qualify as damage tolerant in single load path applications, the improved mechanical properties alone may justify the consideration of these materials, especially in corrosive environments. In the future, they may allow on-condition maintenance, crack growth monitoring, and increased potential for rework.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document identifies several available materials. It compares properties of selected low-alloy steels to the higher alloyed steels. It also compares failure modes, maintenance, and inspection techniques. Although cost should be a factor when considering the material selection for landing gear application, this document will only focus on the technical aspects.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

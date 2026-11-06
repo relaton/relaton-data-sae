@@ -1,0 +1,56 @@
+---
+id: SAEARP1084B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: External Hydraulic Leakage for In-Service Components
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1084b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1084b-external-hydraulic-leakage-service-components
+docidentifier:
+- content: SAE ARP1084B
+  type: SAE
+  primary: true
+- content: 10.4271/arp1084b
+  type: DOI
+date:
+- type: approved
+  at: '2022-12-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A1 Commercial Aircraft Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The purpose of this SAE Aerospace Recommended Practice (ARP) is to
+    provide guide lines for allowable leakage for in-service aircraft hydraulic components
+    at a nominal 100 °F (38 °C) temperature and to outline the procedure for measuring
+    such leakage. The limits to be applied to any specific aircraft should be adjusted
+    before inclusion in a maintenance manual.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

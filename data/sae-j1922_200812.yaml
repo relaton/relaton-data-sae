@@ -1,0 +1,58 @@
+---
+id: SAEJ1922_200812
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Powertrain Control Interface for Electronic Controls Used in Medium- and
+    Heavy-Duty Diesel On-Highway Vehicle Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1922_200812
+- type: src
+  content: https://saemobilus.sae.org/standards/j1922_200812-powertrain-control-interface-electronic-controls-used-medium-heavy-duty-diesel-highway-vehicle-applications
+docidentifier:
+- content: SAE J1922_200812
+  type: SAE
+  primary: true
+- content: 10.4271/j1922_200812
+  type: DOI
+date:
+- type: approved
+  at: '2008-12-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice provides a development or possibly interim production communication protocol between engine, transmission, ABS/traction control, and retarder systems until higher speed communication links are established.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

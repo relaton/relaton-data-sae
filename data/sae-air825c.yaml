@@ -1,0 +1,59 @@
+---
+id: SAEAIR825C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Oxygen Equipment for Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air825c
+- type: src
+  content: https://saemobilus.sae.org/standards/air825c-oxygen-equipment-aircraft
+docidentifier:
+- content: SAE AIR825C
+  type: SAE
+  primary: true
+- content: 10.4271/air825c
+  type: DOI
+date:
+- type: approved
+  at: '2010-12-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report provides information on the design and use of aircraft oxygen systems. It explains the physiological oxygen requirements of the human body in both a normal environment and in an hypoxic environment.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It includes an overview of the continuous flow, demand and pressure demand, and liquid oxygen systems. A basic understanding of how each system operates is then specifically addressed in its own titled section.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The charts, tables, and schematics provide a specific example of a theoretical oxygen system design and the calculations showing how that system would meet the regulations established by the FAR’s. A comprehensive overview of the theoretical oxygen requirements of the human body at altitude is also provided.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A detailed list of specifications and standards applicable to aircraft oxygen systems is included.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

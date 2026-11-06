@@ -1,0 +1,53 @@
+---
+id: SAEAMS4756A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Solder 97.5pb 1.5ag 1sn
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4756a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4756a-solder-975pb-15ag-1sn
+docidentifier:
+- content: SAE AMS4756A
+  type: SAE
+  primary: true
+- content: 10.4271/ams4756a
+  type: DOI
+date:
+- type: approved
+  at: '1997-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers wire, strip, bars, pigs, or as ordered. Alloy:
+    1.5 Sn Solder UNS Number: L50131</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

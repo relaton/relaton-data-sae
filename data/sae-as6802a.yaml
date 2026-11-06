@@ -1,0 +1,56 @@
+---
+id: SAEAS6802A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Time-Triggered Ethernet
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6802a
+- type: src
+  content: https://saemobilus.sae.org/standards/as6802a-time-triggered-ethernet
+docidentifier:
+- content: SAE AS6802A
+  type: SAE
+  primary: true
+- content: 10.4271/as6802a
+  type: DOI
+date:
+- type: approved
+  at: '2023-02-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-2D2 Deterministic Ethernet and Unified Networking
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This SAE Aerospace Standard (AS) defines a fault-tolerant synchronization strategy for building and maintaining synchronized time in a distributed system of end systems and switches (we use the term “end system” for data terminal equipment (DTE), as specified in IEEE 802.3), which can be used to support communication among these components for traffic, which may have different levels of time criticality. In particular, the standard defines algorithms for clock synchronization, clique detection, startup, and restart. These algorithms have been designed to allow scalable fault-tolerance and provide self-stabilization mechanisms.&lt;/p&gt;
+    &lt;p&gt;Time-triggered Ethernet supports the design of communication systems with mixed time criticality in which several applications of mixed time criticality share a single physical network. In particular, an Ethernet network can be used to transfer frames in a time-triggered mode (synchronous communication) and non-time-triggered modes (asynchronous communication as for example Ethernet frames transmitted according to the best-effort strategy). The time-triggered Ethernet synchronization strategy inherently compensates for latency and jitter resulting from this integration and ensures high-quality synchronization despite increased network latency and jitter. Synchronized time provides the foundation for partitioning and isolation of critical applications from the less critical or non-critical ones.&lt;/p&gt;
+    &lt;p&gt;End systems exchange application data with each other by transmitting standard Ethernet frames. The points in time when end systems dispatch these frames can be coupled to the synchronized time. The transfer of these frames is then called time-triggered transfer, because the trigger for frame dispatch is derived from time. Time-triggered Ethernet formally defines the relationship between the synchronized time and the time-triggered transfer.&lt;/p&gt;
+    &lt;p&gt;Time-triggered Ethernet covers only the network aspects for mixed time-criticality systems. Time-triggered Ethernet does not address how to integrate mixed time-criticality applications within a single node. Hence, partitioning strategies for shared resources other than the network, e.g., memory partitioning, are not discussed in time-triggered Ethernet. Furthermore, the fault-tolerance strategies discussed in this standard also address only the networking aspects. Time-triggered Ethernet does not specify or recommend any complete system architecture for highly reliable systems.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

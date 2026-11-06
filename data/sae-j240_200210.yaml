@@ -1,0 +1,57 @@
+---
+id: SAEJ240_200210
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Life Test for Automotive Storage Batteries
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j240_200210
+- type: src
+  content: https://saemobilus.sae.org/standards/j240_200210-life-test-automotive-storage-batteries
+docidentifier:
+- content: SAE J240_200210
+  type: SAE
+  primary: true
+- content: 10.4271/j240_200210
+  type: DOI
+date:
+- type: approved
+  at: '2002-10-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Storage Battery Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard applies to 12 V, automotive storage batteries of 180 min or less reserve capacity. This life test simulates automotive service when the battery operates in a voltage regulated charging system. It subjects the battery to charge and discharge cycles comparable to those encountered in automotive service. Other performance and dimensional information is contained in the latest issue of SAE J537.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is intended as a guide toward standard practice, but may be subject to change to keep pace with experience and technical advances.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

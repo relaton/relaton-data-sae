@@ -1,0 +1,57 @@
+---
+id: SAEJ3268_202303
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Listing of Provider Service Identifiers and Associated Application Technical
+    Reports
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3268_202303
+- type: src
+  content: https://saemobilus.sae.org/standards/j3268_202303-listing-provider-service-identifiers-associated-application-technical-reports
+docidentifier:
+- content: SAE J3268_202303
+  type: SAE
+  primary: true
+- content: 10.4271/j3268_202303
+  type: DOI
+date:
+- type: approved
+  at: '2023-03-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Core Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides a mapping between provider service identifiers (PSIDs)—allocated to SAE by the appropriate registration authorities—and SAE technical specifications of applications identified by those PSIDs. It is intended that this document will be updated regularly, including information about the publication status of SAE technical reports.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

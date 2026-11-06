@@ -1,0 +1,51 @@
+---
+id: SAECPGM2_10H3CC
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: J1349 Certified Power Engine Data for GM LH9 as used in 2010 Hummer H3,
+    Hummer H3T, GMC Canyon, Chevrolet Colorado - Level 2
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/cpgm2_10h3cc
+- type: src
+  content: https://saemobilus.sae.org/services/cpgm2_10h3cc-j1349-certified-power-engine-data-gm-lh9-used-2010-hummer-h3-hummer-h3t-gmc-canyon-chevrolet-colorado-level-2
+docidentifier:
+- content: SAE CPGM2_10H3CC
+  type: SAE
+  primary: true
+- content: 10.4271/cpgm2_10h3cc
+  type: DOI
+date:
+- type: approved
+  at: '2009-08-07'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This product includes information on the manufacturer, engine, applications, testing location, certified maximum horsepower, certified maximum torque along with the certified curves of horsepower and torque over a wide range of engine RPM speeds.
+
+    In addition, this product contains complete engine information such as displacement, cylinder configuration, valve train, combustion cycle, pressure charging, charge air cooling, bore, stroke, cylinder numbering  convention, firing order, compression ratio, fuel system, fuel system pressure, ignition system, knock control, intake manifold, exhaust manifold, cooling system, coolant liquid, thermostat, cooling fan, lubricating oil, fuel, fuel shut off speed, etc.  Also included are all measured test parameters outlined in J2723.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

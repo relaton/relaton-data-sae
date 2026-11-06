@@ -1,0 +1,58 @@
+---
+id: SAEUSCAR47
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ERGONOMICS SPECIFICATION FOR MANUALLY SEATED FASTENERS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar47
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar47-ergonomics-specification-manually-seated-fasteners
+docidentifier:
+- content: SAE USCAR-47
+  type: SAE
+  primary: true
+- content: 10.4271/uscar47
+  type: DOI
+date:
+- type: approved
+  at: '2020-12-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes the assembly force guidelines for manually seated push-pins, clips, and similar retention devices. For the purpose of this document, the term “clip” is used to reference all retention devices addressed within this document. Applicable retention devices must have force exerted directly to the clip using the finger/thumb and are hand seated independent of other fasteners. For a retention device to be manually installed and seated independent of other retention devices, it must be seated fully without any interaction with an adjacent fastener (i.e., multiple PIA clips on the back of a hard trim panel).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard applies to contact surfaces angled at 90 degrees (±10 degrees) and/or perpendicular from the direction of force insertion. Mechanically installed fasteners (screws, rivets, etc.) are not included in this document. This standard does not apply to extraction/retention forces. Refer to USCAR-44 for additional guidelines for clips attached to wire harnesses.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;All possible design and applications could not be anticipated in creating this guideline. Pictures and examples are included throughout to assist. Where there are questions of adherence to the guideline, consult the responsible ergonomic departments or representatives.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAS6847
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fitting End, Bulkhead, Cone, Design Standard
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6847
+- type: src
+  content: https://saemobilus.sae.org/standards/as6847-fitting-end-bulkhead-cone-design-standard
+docidentifier:
+- content: SAE AS6847
+  type: SAE
+  primary: true
+- content: 10.4271/as6847
+  type: DOI
+date:
+- type: approved
+  at: '2025-10-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard specifies the dimensions and design requirements that are required to produce a typical bulkhead fitting used with aircraft oxygen equipment. This fitting may come in different configurations; however, the end design remains the same for all configurations. The purpose of fittings designed using this standard is to mate applicable oxygen equipment, e.g., an oxygen filling cart connection mated with an aircraft oxygen port for refilling of the oxygen system supply, mating two sensing lines, etc. Dimensions are developed from AND10089 and AS4377.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

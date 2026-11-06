@@ -1,0 +1,57 @@
+---
+id: SAEJ3013_201210
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Friction Material Elastic Constants Determination through FRF Measurements
+    and Optimization
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3013_201210
+- type: src
+  content: https://saemobilus.sae.org/standards/j3013_201210-friction-material-elastic-constants-determination-frf-measurements-optimization
+docidentifier:
+- content: SAE J3013_201210
+  type: SAE
+  primary: true
+- content: 10.4271/j3013_201210
+  type: DOI
+date:
+- type: approved
+  at: '2012-10-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Brake NVH Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard specifies necessary procedures and control parameters in estimating anisotropic elastic constants of friction material based on pad assembly FRF measurements and optimization. It is intended to provide a set of elastic constants as inputs to brake NVH simulation, with the objective of ensuring pad assembly vibration correlation between simulation and measurements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEAS9000APPNDX1A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AS9000 Audit Summary and Supplier Profile Instructions
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9000-appndx1a
+- type: src
+  content: https://saemobilus.sae.org/standards/as9000-appndx1a-as9000-audit-summary-supplier-profile-instructions
+docidentifier:
+- content: SAE AS9000-APPNDX1A
+  type: SAE
+  primary: true
+- content: 10.4271/as9000-appndx1a
+  type: DOI
+date:
+- type: approved
+  at: '2003-12-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>To assure customer satisfaction, aerospace industry manufacturers must
+    produce world class quality products at the lowest possible cost. AS9000 standardizes,
+    to the greatest extent possible, the quality system requirements of the aerospace
+    industry. Standardization of compliance requirements results in cost savings due
+    to the elimination or reduction of unique requirements developed for each different
+    customer. AS9000 Appendix 1, AS9000 Audit Summary and Supplier Profile Instructions,
+    facilitates the standardization of this process.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

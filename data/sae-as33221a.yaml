@@ -1,0 +1,48 @@
+---
+id: SAEAS33221A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GASKET, CONDUCTIVE, MIL-C-81511 ELECTRICAL CONNECTORS, JAM NUT MOUNT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as33221a
+- type: src
+  content: https://saemobilus.sae.org/standards/as33221a-gasket-conductive-mil-c-81511-electrical-connectors-jam-nut-mount
+docidentifier:
+- content: SAE AS33221A
+  type: SAE
+  primary: true
+- content: 10.4271/as33221a
+  type: DOI
+date:
+- type: approved
+  at: '2018-10-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C1 Connectors Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

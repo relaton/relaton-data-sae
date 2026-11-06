@@ -1,0 +1,65 @@
+---
+id: SAEAS5830
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Coupling Assembly, Threadless, Flexible, Fixed Cavity, Current Carrying,
+    Self-Bonding, Procurement Specification
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5830
+- type: src
+  content: https://saemobilus.sae.org/standards/as5830-coupling-assembly-threadless-flexible-fixed-cavity-current-carrying-self-bonding-procurement-specification
+docidentifier:
+- content: SAE AS5830
+  type: SAE
+  primary: true
+- content: 10.4271/as5830
+  type: DOI
+date:
+- type: approved
+  at: '2013-01-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This aerospace specification defines the requirements for a threadless, flexible, conductive, self-bonding coupling assembly which, when installed on fixed cavity ferrules, provides a flexible, current carrying connection for joining tubing and components in aircraft fuel, vent and other systems. The assembled coupling is designed to provide interchangeability of parts and components between qualified manufacturers for the service life of the aircraft system. The assembled coupling is for use from -65 to +200 °F at nominal operating pressures (125 psig for -08 through -64 and 30 psig for -72 through -88).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This aerospace specification is a departure from prior qualification practices for assembled couplings. Prior practice sought to validate this type of assembled coupling design by conducting a sequence of tests on sets of coupling assemblies. There were multiple test sequences and each was conducted on a different set of coupling assemblies. Each of these test sequences challenged a particular design feature of the coupling assembly. No single coupling assembly was expected to survive all of the required tests.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;FAR 23.954, FAR 25.954 and FAR 25.981 certification requirements have identified the need for high-current capable flexible fluid couplings. The coupling assembly does not require inspection and maintenance to remain current capable for the life of the aircraft.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is important to simulate the in-service wear and damage experienced by the assembled coupling if it is to remain capable of carrying current for the life of the aircraft. The test procedures in this specification simulate a worst case wear and damage condition for the assembled couplings.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Interchangeability of vendor parts must be qualified by design, test and/or analysis.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;CAUTION: Although the AS5830 coupling and sleeve will fit on AS1650 ferrules due to the use of common O-rings, the combinations of these parts are not qualified. Using AS5830 parts on AS1650 ferrules may result in leakage and/or premature failure of the joint and does not produce a high current capable joint.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;WARNING: The use of AS1650 parts with AS5830 ferrules is not qualified. Assembly of worn AS1650 parts with AS5830 ferrules may be possible but could result in leakage and/or premature failure of the joint and does not produce a high current capable joint.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

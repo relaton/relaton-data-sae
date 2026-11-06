@@ -1,0 +1,64 @@
+---
+id: SAEGEIAGEB0002
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Reducing the Risk of Tin Whisker-Induced Failures in Electronic Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/geiageb0002
+- type: src
+  content: https://saemobilus.sae.org/standards/geiageb0002-reducing-risk-tin-whisker-induced-failures-electronic-equipment
+docidentifier:
+- content: SAE GEIAGEB0002
+  type: SAE
+  primary: true
+- content: 10.4271/geiageb0002
+  type: DOI
+date:
+- type: approved
+  at: '2014-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CE-12 Solid State Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Bulletin provides a brief description of tin whisker formation and describes various methods recommended by government and industry to reduce the risk of tin whisker-induced failures in electronic hardware. It is not a mandate nor does it contain any requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A tin whisker is a single crystal that emerges from tin-finished surfaces. Tin whiskers can pose a serious reliability risk to electronic assemblies that have pure tin finish. The general risks fall into several categories: [1, 2, 3, 8, 16]&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;i&gt;Short Circuits:&lt;/i&gt; The whisker can create a short circuit, either by 1) growing from an area at one potential to an area at another or 2) breaking free and later bridging these areas. In some cases, these shorts may be permanent and cause catastrophic system failures. A transient short may result if the available current exceeds the fusing current of the whisker, and the whisker can fuse open. The amount of current needed to fuse open the whisker depends on the atmospheric pressure and the diameter of the whisker.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;i&gt;Low-pressure-Induced Metal Vapor Arcing (Plasma):&lt;/i&gt; In low-pressure environments, even a transient short can result in a catastrophic failure. Under certain current and voltage conditions (current more than a few amps and supply voltage over 12 V), when a tin whisker fuses open, the vaporized tin may initiate arcing or a plasma. The plasma can conduct over 200 A and may continue until all the available exposed tin is consumed or the supply current is interrupted. [1, 8]&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;i&gt;Debris/Contamination:&lt;/i&gt; The tin whisker’s small diameter may allow it break free under handling or other vibration. A free floating whisker may cause the same problems typically associated with free floating particles, i.e., interfering with the movement of mechanical parts or contaminating optical surfaces. [1, 8]&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

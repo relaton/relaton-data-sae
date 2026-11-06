@@ -1,0 +1,66 @@
+---
+id: SAEAIR1245
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: POWER SOURCES FOR FLUIDIC CONTROLS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1245
+- type: src
+  content: https://saemobilus.sae.org/standards/air1245-power-sources-fluidic-controls
+docidentifier:
+- content: SAE AIR1245
+  type: SAE
+  primary: true
+- content: 10.4271/air1245
+  type: DOI
+date:
+- type: approved
+  at: '1991-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A3 Flight Control and Vehicle Management Systems Cmt
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AIR concerns itself with the end use of Fluidic (or Flueric) control hardware on aerospace vehicle applications. The fluidic control hardware application is viewed as a system comprised of the following subsystems:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Power Source&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Power Conditioner&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Fluidic/Flueric Control(s)&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;This AIR identifies potential power sources and relates the design of the fluidic/flueric controls to the nature of both the power source and, as required, the power conditioner. In the unlikely event that the power source yields a fluid which is always at the desired pressure level, temperature range and flow rate capacity and, further, is free of particulate or liquid contaminate, pressure pulsation, etc., no power conditioner is required. Experience has shown that the power conditioner is usually necessary to assure operability and reliability of the total control system. The functions of the fluidic power conditioner are analagous to those of the electrical power supply regulator circuit in an electrical control system or those of the hydraulic servo supply regulator in a hydraulic control system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Examples of (fluidic) power sources are given along with the referencing of government or industry standards (or other documents) which are of interest. AIR 744A "Auxiliary Power Sources for Aerospace Applications" is an excellent, more broadly based document which may be utilized in conjunction with this AIR.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Input parameters and output parameters, relative to the power conditioner, are presented. Also, ambients affecting the design of the power conditioner are indicated.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

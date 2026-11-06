@@ -1,0 +1,57 @@
+---
+id: SAEJ2605_201504
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Non-Contact Hose Measurement Study 1
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2605_201504
+- type: src
+  content: https://saemobilus.sae.org/standards/j2605_201504-non-contact-hose-measurement-study-1
+docidentifier:
+- content: SAE J2605_201504
+  type: SAE
+  primary: true
+- content: 10.4271/j2605_201504
+  type: DOI
+date:
+- type: approved
+  at: '2015-04-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Non-Hydraulic Hose Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The Hose Measurement Task Force conducted a round-robin study to determine the measuring capability of automotive suppliers and users to simultaneously measure the Inside Diameter (ID), Outside Diameter (OD), Wall Thickness (Wall), and Wall thickness Variation (WV) of hose using a laser-based, non-contact LOTIS QC-20 gauging device. Three (3) companies (all end users) participated in this testing with one of the three companies performing the GR&amp;amp;R calculations presented herein. Based upon the round-robin study this report will detail procedures, test measuring devices, results, and conclusions.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

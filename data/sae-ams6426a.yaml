@@ -1,0 +1,49 @@
+---
+id: SAEAMS6426A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL BARS, FORGINGS, AND TUBING 0.75Si - 1.0Cr - 0.58Mo (0.80 - 0.90C)
+    Vacuum Consumable Melted
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6426a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6426a-steel-bars-forgings-tubing-075si-10cr-058mo-080-090c-vacuum-consumable-melted
+docidentifier:
+- content: SAE AMS6426A
+  type: SAE
+  primary: true
+- content: 10.4271/ams6426a
+  type: DOI
+date:
+- type: approved
+  at: '1970-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

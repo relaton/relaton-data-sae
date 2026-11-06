@@ -1,0 +1,59 @@
+---
+id: SAEAMS5914C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nickel Alloy, Corrosion and Heat Resistant, Sheet, Strip, and Foil, 52.5Ni
+    - 19Cr - 3.0Mo - 5.0Cb (Nb) - 0.90Ti - 0.50Al - 18Fe, Consumable Electrode or
+    Vacuum Induction Melted, Precision Cold Rolled, Solution Heat Treated (Alloy 718
+    SPF)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5914c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5914c-nickel-alloy-corrosion-heat-resistant-sheet-strip-foil-525ni-19cr-30mo-50cb-nb-090ti-050al-18fe-consumable-electrode-vacuum-induction-melted-precision-cold-rolled-solution-heat-treated-alloy-718-spf
+docidentifier:
+- content: SAE AMS5914C
+  type: SAE
+  primary: true
+- content: 10.4271/ams5914c
+  type: DOI
+date:
+- type: approved
+  at: '2024-09-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a precision cold-rolled corrosion- and heat-resistant nickel alloy in the form of sheet and strip over 0.005 to 0.015 inch (0.13 to 0.38 mm), inclusive, in nominal thickness and foil up to 0.005 inch (0.13 mm), inclusive, in nominal thickness (see &lt;span class="xref"&gt;8.4&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

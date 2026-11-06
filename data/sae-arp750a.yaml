@@ -1,0 +1,56 @@
+---
+id: SAEARP750A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PASSENGER SEAT DESIGN COMMERCIAL TRANSPORT AIRCRAFT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp750a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp750a-passenger-seat-design-commercial-transport-aircraft
+docidentifier:
+- content: SAE ARP750A
+  type: SAE
+  primary: true
+- content: 10.4271/arp750a
+  type: DOI
+date:
+- type: approved
+  at: '1974-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aircraft Seat Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;In addition to those aspects of a passenger seat such as comfort and appearance, the passenger seat, whether aft, forward, or side-facing, is the basic link that supports and ties the air transport passenger to the aircraft structure. It is essential that the support and tiedown functions be accomplished in a manner that will provide maximum safety and security during all normal conditions of flight, emergency flight maneuvers and crash landings, whether on land or sea and that these functions not be compromised to attain the comfort and appearance features.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

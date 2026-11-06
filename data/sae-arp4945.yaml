@@ -1,0 +1,63 @@
+---
+id: SAEARP4945
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace-Solenoid Valve, Hydraulic, Three Way, Two Position, Direct Acting
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4945
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4945-aerospace-solenoid-valve-hydraulic-three-way-two-position-direct-acting
+docidentifier:
+- content: SAE ARP4945
+  type: SAE
+  primary: true
+- content: 10.4271/arp4945
+  type: DOI
+date:
+- type: approved
+  at: '2002-07-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C5 Components Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) is intended as a guide to aid in the specifying and testing of direct acting three way, two position, single and multiple coil, normally open and normally closed solenoid valves used for the pilot actuation of hydraulic control systems and the control of hydraulic components.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The information presented should be useful in standardizing terminology, in specifying requirements and performance parameters, and in defining test methods.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The recommendations do not restrict or attempt to define the internal design features of solenoid valves. Standard mechanical, electrical and fluid porting interfaces are recommended to provide commonalty, interchangeability, design flexibility and to be more affordable.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In general, this recommended practice is directed toward solenoid valves for use in military and commercial flight control and hydraulic actuation systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For military aircraft applications, this recommended practice covers solenoid valves for use in hydraulic actuation systems of the following types as defined in MIL-H-5440 with rated operating pressures to 8000 psi (55,160 kPa) and flow rates typically less than 1 gpm (3.785 L/min).&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;For commercial aircraft applications, the information and guidelines of ARP4752 are considered. References are made to several documents that address phosphate ester hydraulic fluids. Detail Specification requirements, however, may need to be modified for a specific application.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;When recommended by a paragraph, the word “should” is used. The word “shall” is used to designate a firm requirement of a paragraph.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

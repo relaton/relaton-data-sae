@@ -1,0 +1,57 @@
+---
+id: SAEARP1702B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Defining and Measuring Factors Affecting Helicopter Turbine Engine Power
+    Available
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1702b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1702b-defining-measuring-factors-affecting-helicopter-turbine-engine-power-available
+docidentifier:
+- content: SAE ARP1702B
+  type: SAE
+  primary: true
+- content: 10.4271/arp1702b
+  type: DOI
+date:
+- type: approved
+  at: '2021-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-12 Powered Lift Propulsion Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) identifies and defines a method of measuring those factors affecting installed power available for helicopter powerplants. These factors are installation losses, accessory power extraction, and operational effects. Accurate determination of these factors is vital in the calculation of helicopter performance as described in the RFM. It is intended that the methods presented herein prescribe and define each factor as well as an approach to measuring said factor. Only basic installations of turboshaft engines in helicopters are considered. Although the methods described may apply in principle to other configurations that lead to more complex installation losses, such as an inlet particle separator, inlet barrier filter (with or without a bypass system), or infrared suppressor, specialized or individual techniques may be required in these cases for the determination and definition of engine installation losses. Some rotorcraft may use an alternate source of propulsion system power to supplement engine output shaft power delivered. If RFM performance includes the contribution of a Supplemental Power Unit (SPU), then the installed power available of the SPU should also be defined and measured, for which the power loss factors and methods described in this document may be applicable.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

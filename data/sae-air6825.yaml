@@ -1,0 +1,71 @@
+---
+id: SAEAIR6825
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Identification and Assessment of Damage to Composite Aircraft Structures
+    Training Document
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6825
+- type: src
+  content: https://saemobilus.sae.org/standards/air6825-identification-assessment-damage-composite-aircraft-structures-training-document
+docidentifier:
+- content: SAE AIR6825
+  type: SAE
+  primary: true
+- content: 10.4271/air6825
+  type: DOI
+date:
+- type: approved
+  at: '2020-08-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CACRC Commercial Aircraft Composite Repair Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Individuals who complete the applicable modules aligned with this training document will be able to define the type of damage, define the extent of damage, determine if further inspection is required, evaluate the damage against published allowable damage limits, and provide accurate documentation of the damage. The intended outcome of the training is increased safety such that no aircraft is released with unknown damage and that the aircraft meets continued airworthiness requirements. The goal is to change the culture from damage discovery to damage reporting while also reducing or eliminating flight delays due to incorrect or insufficient information.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Teaching levels have been assigned to the curriculum to define the knowledge, skills, and abilities graduates will need. Minimum hours of instruction have been provided to ensure adequate coverage of all subject matter including lecture and practical exercise. These minimums may be exceeded and may include an increase in the total number of training hours and/or increases in the teaching levels. The modules are intended to be a competency-based training approach.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Each curriculum is a subpart of this document.&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Module 1 is the Composite Awareness curriculum, independent of the application.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Module 2 is the Initial Inspection and Damage Mapping curriculum.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Module 3 is the Special Inspection Tools curriculum.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Module 4 is the Reporting, Recording, and Assessment curriculum.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: While the modules in this document are technically interrelated, each module can be trained independently; modules may be selected as applicable to an operator’s or maintenance organization’s needs. The combination of the modules represents the applicable identification and assessment process for damage to composite aircraft structures (see &lt;span class="xref"&gt;Figure 1&lt;/span&gt;). Module 1 is prerequisite for attendance to the other modules.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;The contents of Module 1 may also be used for composite awareness training of a broader target audience, including line mechanics.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

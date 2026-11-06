@@ -1,0 +1,57 @@
+---
+id: SAEAMS4295
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY, SHEET AND PLATE 6.3Cu - 0.30Mn - 0.18Zr - 0.10V - 0.06Ti
+    (2219 - O, F, T31, T351, T37, T81, T851, T87)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4295
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4295-aluminum-alloy-sheet-plate-63cu-030mn-018zr-010v-006ti-2219-o-f-t31-t351-t37-t81-t851-t87
+docidentifier:
+- content: SAE AMS4295
+  type: SAE
+  primary: true
+- content: 10.4271/ams4295
+  type: DOI
+date:
+- type: approved
+  at: '1997-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of sheet and plate.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

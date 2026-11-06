@@ -1,0 +1,58 @@
+---
+id: SAEAS9133
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Qualification Procedure for Aerospace Standard Parts
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9133
+- type: src
+  content: https://saemobilus.sae.org/standards/as9133-qualification-procedure-aerospace-standard-parts
+docidentifier:
+- content: SAE AS9133
+  type: SAE
+  primary: true
+- content: 10.4271/as9133
+  type: DOI
+date:
+- type: approved
+  at: '2002-07-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides a basic uniform method for ensuring that aerospace standard parts (products) conform with the requirements of technical specifications referring to qualified parts and for a manufacturer of such parts to have a qualified management system at least equivalent to AS/EN/SJAC9100.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These standards apply when called out in the aerospace standard part standard.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

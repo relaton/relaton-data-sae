@@ -1,0 +1,56 @@
+---
+id: SAEAS6286B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Ground Deicing/Anti-Icing Training and Qualification Program
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6286b
+- type: src
+  content: https://saemobilus.sae.org/standards/as6286b-aircraft-ground-deicing-anti-icing-training-qualification-program
+docidentifier:
+- content: SAE AS6286B
+  type: SAE
+  primary: true
+- content: 10.4271/as6286b
+  type: DOI
+date:
+- type: approved
+  at: '2020-06-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12T Training and Quality Programs Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document establishes the minimum training and qualification requirements for ground-based aircraft deicing/anti-icing methods and procedures. All guidelines referred to herein are applicable only in conjunction with the applicable documents. Due to aerodynamic and other concerns, the application of deicing/anti-icing fluids shall be carried out in compliance with engine and aircraft manufacturers’ recommendations. The scope of training should be adjusted according to local demands. There are a wide variety of winter seasons and differences of the involvement between deicing operators, and therefore the level and length of training should be adjusted accordingly. However, the minimum level of training shall be covered in all cases. As a rule of thumb, the amount of time spent in practical training should equal or exceed the amount of time spent in classroom training.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,65 @@
+---
+id: SAEARP4260A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Photometric and Colorimetric Measurement Procedures for Airborne Electronic
+    Flat Panel Displays
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4260a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4260a-photometric-colorimetric-measurement-procedures-airborne-electronic-flat-panel-displays
+docidentifier:
+- content: SAE ARP4260A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4260a
+  type: DOI
+date:
+- type: approved
+  at: '2009-04-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20A Crew Station Lighting
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) contains methods used to measure the optical performance of airborne electronic flat panel display (FPD) systems. The methods described are specific to the direct view, liquid crystal matrix (x-y addressable) display technology used on aircraft flight decks. The focus of this document is on active matrix, liquid crystal displays (LCD). The majority of the procedures can be applied to other display technologies, however, it is cautioned that some techniques need to be tailored to different display technologies.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The document covers monochrome and color LCD operation in the transmissive mode within the visual spectrum (the wavelength range of 380 to 780 nm). These procedures are adaptable to reflective and transflective displays paying special attention to the source illumination geometry.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Photometric and colorimetric measurement procedures for airborne direct view CRT (cathode ray tube) displays are found in SAE ARP1782. Optical measurement procedures for airborne head up displays (HUDs) can be found in ARP5287.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Generally, the procedures describe manual single point measurements. The individual procedures may be readily incorporated into automated testing equipment (ATE) or other automated environments. This also includes, but is not limited to Fourier scopes and video imaging devices.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This report is published by SAE to advance the state of technical and engineering sciences. The use of this Technical Report is entirely voluntary, and its applicability and suitability for any particular use, including any patent infringement arising therefrom, is the sole responsibility of the user.&lt;/div&gt;
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

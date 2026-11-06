@@ -1,0 +1,56 @@
+---
+id: SAEAMS03_20A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electro-Deposition of Zinc
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams03_20a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams03_20a-electro-deposition-zinc
+docidentifier:
+- content: SAE AMS03-20A
+  type: SAE
+  primary: true
+- content: 10.4271/ams03_20a
+  type: DOI
+date:
+- type: approved
+  at: '2017-10-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard specifies the requirements for the electro-deposition of zinc on non-corrosion resisting steel items for protection against corrosion, and on copper-base alloy items and corrosion resisting steel items for the reduction of contact corrosion of less noble metallic materials. Zinc coatings shall not be used on items which are liable to be subjected to temperatures exceeding 350 °C.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

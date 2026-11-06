@@ -1,0 +1,49 @@
+---
+id: SAEAMS5543B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Sheet, Strip, and Plate, Corrosion and Heat Resistant 13.5cr 26ni
+    1.75mo 3.0ti 0.07b Vacuum Melted, Solution Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5543b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5543b-steel-sheet-strip-plate-corrosion-heat-resistant-135cr-26ni-175mo-30ti-007b-vacuum-melted-solution-heat-treated
+docidentifier:
+- content: SAE AMS5543B
+  type: SAE
+  primary: true
+- content: 10.4271/ams5543b
+  type: DOI
+date:
+- type: approved
+  at: '1991-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

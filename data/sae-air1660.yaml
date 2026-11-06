@@ -1,0 +1,57 @@
+---
+id: SAEAIR1660
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fuel Level Control Valves/Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1660
+- type: src
+  content: https://saemobilus.sae.org/standards/air1660-fuel-level-control-valves-systems
+docidentifier:
+- content: SAE AIR1660
+  type: SAE
+  primary: true
+- content: 10.4271/air1660
+  type: DOI
+date:
+- type: approved
+  at: '1981-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5A Aerospace Fuel, Inerting and Lubrication Sys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>A fuel level control valve/system controls the quantity of fuel in
+    a tank being filled or emptied. This document provides a general  familiarization
+    with these mechanisms (e.g. forms they take, functions, system design considerations).
+    This document provides the aircraft fuel system designer with information about
+    these mechanisms/devices, so that he can prescribe the types of level control
+    valves/systems which are best suited for his particular fuel system configuration.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

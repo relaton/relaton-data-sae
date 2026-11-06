@@ -1,0 +1,66 @@
+---
+id: SAEJ111312_201711
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electrical Interference by Conduction and Coupling - Capacitive and Inductive
+    Coupling via Lines Other than Supply Lines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1113/12_201711
+- type: src
+  content: https://saemobilus.sae.org/standards/j111312_201711-electrical-interference-conduction-coupling-capacitive-inductive-coupling-via-lines-supply-lines
+docidentifier:
+- content: SAE J1113/12_201711
+  type: SAE
+  primary: true
+- content: 10.4271/j1113/12_201711
+  type: DOI
+date:
+- type: approved
+  at: '2017-11-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard establishes test methods for the evaluation of devices and equipment in vehicles against transient transmission by coupling via lines other than the power supply lines. The test methods demonstrates the immunity of the instrument, device, or equipment to coupled fast transient disturbances, such as those caused by switching of inductive loads, relay contact bouncing, etc. Four test methods are presented in SAE J1113-12:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;the capacitive coupling clamp (CCC) method&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;the direct capacitive coupling (DCC) method&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;the inductive coupling clamp (ICC) method&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;the capacitive/inductive coupling (CIC) method&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

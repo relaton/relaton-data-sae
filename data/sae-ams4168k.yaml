@@ -1,0 +1,55 @@
+---
+id: SAEAMS4168K
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Extrusions, 5.6Zn - 2.5Mg - 1.6Cu - 0.23Cr (7075-T6510)
+    Solution Heat Treated, Stress Relieved by Stretching, and Precipitation Heat Treated,
+    Unstraightened
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4168k
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4168k-aluminum-alloy-extrusions-56zn-25mg-16cu-023cr-7075-t6510-solution-heat-treated-stress-relieved-stretching-precipitation-heat-treated-unstraightened
+docidentifier:
+- content: SAE AMS4168K
+  type: SAE
+  primary: true
+- content: 10.4271/ams4168k
+  type: DOI
+date:
+- type: approved
+  at: '2012-01-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers an aluminum alloy in the form of extruded
+    bars, rods, wire, profiles, and tubing.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

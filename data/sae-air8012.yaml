@@ -1,0 +1,69 @@
+---
+id: SAEAIR8012
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Prognostics and Health Management Guidelines for Electro-Mechanical Actuators
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air8012
+- type: src
+  content: https://saemobilus.sae.org/standards/air8012-prognostics-health-management-guidelines-electro-mechanical-actuators
+docidentifier:
+- content: SAE AIR8012
+  type: SAE
+  primary: true
+- content: 10.4271/air8012
+  type: DOI
+date:
+- type: approved
+  at: '2020-11-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: HM-1 Integrated Vehicle Health Management Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Reducing the power consumption—and hence, the fuel burn—is a major target for the next generation of aircraft, and electrical actuation is perceived as a technological area able to provide power saving. Electrical actuation can in fact contribute to the reduction of the non-propulsive power because electro-mechanical actuators, when compared to the conventional hydraulic actuators, rely on a form of power subjected to lower distribution losses and in general can lead to a weight savings at the aircraft level if the required power remains under a break-over point. Moreover, electro-mechanical actuators (EMAs) present higher reliability and maintainability with a lower life-cycle cost.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Two critical issues with electrically powered actuation are the temperature rise in the electric motor windings and in the power electronics, and the sensitivity to certain single point of failures that can lead to mechanical seizures, that has so far thwarted the use of EMAs for safety-critical applications. In order to address the issue of a possible actuator seizure, many research and development activities have been performed to identify ways of making an electro-mechanical actuator jam-free or jam-tolerant, since this would allow more flexibility in defining the overall architecture of the flight control system. Although interesting and ingenious design solutions have been proposed, they all have so far resulted in complex mechanical designs that on one hand allow the actuator to operate after a jam of an internal component, but on the other hand bring about increased weight, volume, and cost, and a reliability reduction due to the much larger number of parts.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;With primary flight control actuators being some of the more safety-critical components of an aircraft, an undetected actuator failure can lead to serious consequences. Furthermore, failures that are not flight safety critical can still have negative consequences ranging from flight disruptions to unscheduled and costly maintenance.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The development of an effective and reliable PHM system for EMAs is thus seen as a possible way to contribute to the acceptance of EMAs as primary flight control actuators in commercial aircraft, for an effective PHM system will feature appropriate diagnostic functions to detect anomalous behavior, and prognostic capabilities indicating when an incipient fault develops and estimating how, under continuing usage, the fault will eventually become a failure. Providing EMAs with a PHM capability will entail positive results in different areas:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Progressively improve the EMA robustness; PHM algorithms can initially provide indication of the onset of a fault, while more sophisticated reasoning functions can then assess the remaining useful life and contribute to the safety of flight.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Minimize the unscheduled maintenance events, thereby increasing the EMA availability.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Facilitate maintenance operations and troubleshooting.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Simplify the supply chain.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;It is important to note that a more extensive use of EMAs facilitated by PHM algorithms must be associated to all design provisions necessary to attain mandatory safety requirements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

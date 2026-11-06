@@ -1,0 +1,56 @@
+---
+id: SAEJ3068_201804
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electric Vehicle Power Transfer System Using a Three-Phase Capable Coupler
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3068_201804
+- type: src
+  content: https://saemobilus.sae.org/standards/j3068_201804-electric-vehicle-power-transfer-system-using-a-three-phase-capable-coupler
+docidentifier:
+- content: SAE J3068_201804
+  type: SAE
+  primary: true
+- content: 10.4271/j3068_201804
+  type: DOI
+date:
+- type: approved
+  at: '2018-04-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Electrical Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document covers the general physical, electrical, functional, testing, and performance requirements for conductive power transfer to an Electric Vehicle using a Coupler capable of, but not limited to, transferring three-phase AC power. It defines a conductive power transfer method including the digital communication system. It also covers the functional and dimensional requirements for the Electric Vehicle Inlet, Supply Equipment Connector, and mating housings and contacts. Moveable charging equipment such as a service truck with charging facilities are within scope. Charging while moving (or in-route-charging) is not in scope.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

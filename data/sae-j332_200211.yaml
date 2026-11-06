@@ -1,0 +1,62 @@
+---
+id: SAEJ332_200211
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Testing Machines for Measuring the Uniformity of Passenger Car and Light
+    Truck Tires
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j332_200211
+- type: src
+  content: https://saemobilus.sae.org/standards/j332_200211-testing-machines-measuring-uniformity-passenger-car-light-truck-tires
+docidentifier:
+- content: SAE J332_200211
+  type: SAE
+  primary: true
+- content: 10.4271/j332_200211
+  type: DOI
+date:
+- type: approved
+  at: '2002-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Highway Tire Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The comfort and fatigue of vehicle passengers is a major engineering consideration. Among the many factors involved are vibratory and auditory disturbances. Tires participate, among other elements of the vehicle, in exciting vibrations and noises. Furthermore, tires also may generate forces leading to lateral drift of the vehicle.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice describes the design requirements for equipment to evaluate some of the characteristic excitations of passenger car and light truck tires which may cause disturbance in vehicles. The kinds of excitations treated result from nonuniformities in the structure of the tire and have their effect when a vehicle bearing the tire travels on a smooth road.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document also describes some broad aspects of the use of the equipment and lists precautionary measures that have arisen out of current experience.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The intention underlying these recommendations is to establish a standardized measurement for use by the engineering community.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The evidence from years of experience supports the statistical relevance of data obtained using the type of equipment and procedures described. However, mechanical instability of materials in response to temperature, storage conditions, and surface contamination, as well as the previous history of usage, etc., produces variation in vibratory excitations. Thus, the measurements of individual tires are always to a degree of uncertain. Nevertheless, larger values of vibratory excitations are usually well identified, and statistical evaluations of the data usually serve to indicate properly the vibration excitation quality of production lots of tires for those items considered in this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Criteria of quality which might be based on measurements made under this document follow from the needs of individual engineering applications and are consequently not sufficiently general to be specified here.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

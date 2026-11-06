@@ -1,0 +1,48 @@
+---
+id: SAEAS3232C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BOLT, TEE HEAD – CHAMFERED, AMS5708 (UNS N07001), 165 KSI MIN UTS, .1900-32UNJF-3A
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as3232c
+- type: src
+  content: https://saemobilus.sae.org/standards/as3232c-bolt-tee-head-chamfered-ams5708-uns-n07001-165-ksi-min-uts-1900-32unjf-3a
+docidentifier:
+- content: SAE AS3232C
+  type: SAE
+  primary: true
+- content: 10.4271/as3232c
+  type: DOI
+date:
+- type: approved
+  at: '2019-04-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

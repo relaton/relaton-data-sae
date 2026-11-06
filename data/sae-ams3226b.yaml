@@ -1,0 +1,48 @@
+---
+id: SAEAMS3226B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SYNTHETIC RUBBER Hot Oil and Coolant Resistant - Low Swell (45-55)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3226b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3226b-synthetic-rubber-hot-oil-coolant-resistant-low-swell-45-55
+docidentifier:
+- content: SAE AMS3226B
+  type: SAE
+  primary: true
+- content: 10.4271/ams3226b
+  type: DOI
+date:
+- type: approved
+  at: '1945-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CE Elastomers Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

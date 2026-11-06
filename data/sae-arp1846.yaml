@@ -1,0 +1,58 @@
+---
+id: SAEARP1846
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MEASUREMENT OF FAR FIELD NOISE FROM GAS TURBINE ENGINES DURING STATIC OPERATION
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1846
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1846-measurement-far-field-noise-gas-turbine-engines-static-operation
+docidentifier:
+- content: SAE ARP1846
+  type: SAE
+  primary: true
+- content: 10.4271/arp1846
+  type: DOI
+date:
+- type: approved
+  at: '1995-09-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-21 Aircraft Noise Measurement Aviation Emission Modeling
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Recommendations presented in this document are intended primarily for the acquisition of far-field acoustical data. The test engine is to be appropriately configured and operated so that the acoustical signals generated are consistent with the specific objectives of the test. The principal output of the data reduction system is one-third octave band sound pressure levels. However, broader or narrower bandwidth analysis of the recorded data may also be accomplished when appropriate.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Although not specifically intended to apply to special purpose engine noise testing (for example, tests involving unique instrumentation or procedures to identify specific noise sources), some of the practices described herein may be appropriate for such testing.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Specification of reference conditions is outside the scope of this document although procedures to adjust data to a reference condition are described in &lt;span class="xref"&gt;7.2.4&lt;/span&gt;.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

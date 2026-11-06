@@ -1,0 +1,57 @@
+---
+id: SAEAS6512
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Unmanned Systems (UxS) Control Segment (UCS) Architecture: Architecture
+    Description'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6512
+- type: src
+  content: https://saemobilus.sae.org/standards/as6512-unmanned-systems-uxs-control-segment-ucs-architecture-architecture-description
+docidentifier:
+- content: SAE AS6512
+  type: SAE
+  primary: true
+- content: 10.4271/as6512
+  type: DOI
+date:
+- type: approved
+  at: '2016-12-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-4UCS Unmanned Systems Control Segment Architecture
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is the &lt;b&gt;&lt;i&gt;Architecture Description&lt;/i&gt; (&lt;i&gt;AD&lt;/i&gt;)&lt;/b&gt; for the SAE Unmanned Systems (UxS) Control Segment (UCS) Architecture. This AD serves as the official designation of the UCS Architecture - SAE AS6512. The UCS Architecture is expressed by a library of SAE publications as referenced herein. The other publications in the UCS Architecture Library are: AS6513, AIR6514, AIR6515, AIR6516, AIR6517, AS6518, AIR6519, AIR6520, AIR6521, and AS6522.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

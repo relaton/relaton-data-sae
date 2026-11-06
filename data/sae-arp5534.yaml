@@ -1,0 +1,58 @@
+---
+id: SAEARP5534
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Application of Pure-Tone Atmospheric Absorption Losses to One-Third Octave-Band
+    Data
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5534
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5534-application-pure-tone-atmospheric-absorption-losses-one-third-octave-band-data
+docidentifier:
+- content: SAE ARP5534
+  type: SAE
+  primary: true
+- content: 10.4271/arp5534
+  type: DOI
+date:
+- type: approved
+  at: '2021-01-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-21 Aircraft Noise Measurement Aviation Emission Modeling
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document presents a practical method for calculating atmospheric absorption for wide-band sounds analyzed with one-third octave-band filters, called the SAE Method. The SAE Method utilizes pure-tone attenuation algorithms originally published in ISO 9613-1 and ANSI S1.26-1995 to calculate path-length attenuation at mid-band frequencies. The equations introduced in this standard transform the pure-tone, mid-band attenuation to one-third octave-band attenuation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The purpose of this guidance document is to extend the useful attenuation range of the Approximate Method outlined in ANSI S1.26-1995, and to replace ARP866A. Calculation of sound attenuation caused by mechanisms other than atmospheric absorption such as divergence, refraction, scattering due to turbulence, ground reflections, or non-linear propagation effects, is outside the scope of this document.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

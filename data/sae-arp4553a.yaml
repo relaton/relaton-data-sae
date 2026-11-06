@@ -1,0 +1,67 @@
+---
+id: SAEARP4553A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace - Accumulator, Hydraulic, Self-Displacing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4553a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4553a-aerospace-accumulator-hydraulic-self-displacing
+docidentifier:
+- content: SAE ARP4553A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4553a
+  type: DOI
+date:
+- type: approved
+  at: '2008-12-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C4 Power Sources Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) is intended to provide design and qualification requirements for self-displacing hydraulic accumulators.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These requirements are intended be included in the Procurement Specification for the accumulator. Those requirements identified by the use of “shall” are considered to be essential requirements; those requirements identified by the use of “should” are considered to be optional requirements for inclusion in the Specification at the discretion of the Purchaser.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In addition, test methods for production acceptance and qualification purposes are provided.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The accumulator is intended for use in military aerospace hydraulic systems with rated pressures of up to 8000 psi (55 158 kPa) and of the following types as specified in AS5440:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Type I −65 to +160 °F (−54 to +71 °C) fluid temperature&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Type II −65 to +275 °F (−54 to +135 °C) fluid temperature&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The accumulator is also intended for use in commercial aerospace and helicopter hydraulic systems.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

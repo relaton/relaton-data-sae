@@ -1,0 +1,75 @@
+---
+id: SAEJ643_201812
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hydrodynamic Drive Test Code
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j643_201812
+- type: src
+  content: https://saemobilus.sae.org/standards/j643_201812-hydrodynamic-drive-test-code
+docidentifier:
+- content: SAE J643_201812
+  type: SAE
+  primary: true
+- content: 10.4271/j643_201812
+  type: DOI
+date:
+- type: approved
+  at: '2018-12-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Automatic Transmission and Transaxle Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The range of test conditions on the dynamometer shall be sufficient to determine the primary operating characteristics corresponding to the full range of vehicle operations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The characteristics to be determined are:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Torque ratio versus speed ratio and output speed&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Input speed versus speed ratio and output speed&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Efficiency versus speed ratio and output speed&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Capacity factor versus speed ratio and output speed&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Input torque versus input speed&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: For more information about these characteristics and the design of hydrodynamic drives, refer to “Design Practices: Passenger Car Automatic Transmissions,” SAE Advances in Engineering, AE-18 (Third Ed.) or AE-29 (Fourth Ed.).&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAMS2415K
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Plating, Lead and Indium
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2415k
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2415k-plating-lead-indium
+docidentifier:
+- content: SAE AMS2415K
+  type: SAE
+  primary: true
+- content: 10.4271/ams2415k
+  type: DOI
+date:
+- type: approved
+  at: '2018-01-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the requirements for electrodeposited and diffused lead and indium plate.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

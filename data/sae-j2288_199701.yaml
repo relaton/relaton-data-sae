@@ -1,0 +1,60 @@
+---
+id: SAEJ2288_199701
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: LIFE CYCLE TESTING OF ELECTRIC VEHICLE BATTERY MODULES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2288_199701
+- type: src
+  content: https://saemobilus.sae.org/standards/j2288_199701-life-cycle-testing-electric-vehicle-battery-modules
+docidentifier:
+- content: SAE J2288_199701
+  type: SAE
+  primary: true
+- content: 10.4271/j2288_199701
+  type: DOI
+date:
+- type: approved
+  at: '1997-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electric Vehicle Forum Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice defines a standardized test method to determine the expected service life, in cycles, of electric vehicle battery modules. It is based on a set of nominal or baseline operating conditions in order to characterize the expected degradation in electrical performance as a function of life and to identify relevant failure mechanisms where possible. Accelerated aging is not included in the scope of this procedure, although the time compression resulting from continuous testing may unintentionally accelerate battery degradation unless test conditions are carefully controlled. The process used to define a test matrix of accelerated aging conditions based on failure mechanisms, and to establish statistical confidence levels for the results, is considered beyond the scope of this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Because the intent is to use standard testing conditions whenever possible, results from the evaluation of different technologies should be comparable. End-of-life is determined based on module capacity and power ratings. This may result in a measured cycle life different than that which would be determined based on actual capacity; however, this approach permits a battery manufacturer to make necessary tradeoffs between power and energy in establishing ratings for a battery module. This approach is considered appropriate for a mature design or production battery. It should be noted that the procedure defined in this document is functionally identical to the USABC Baseline Life Cycle Test Procedure.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

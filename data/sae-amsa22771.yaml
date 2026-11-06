@@ -1,0 +1,56 @@
+---
+id: SAEAMSA22771
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy Forgings, Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/amsa22771
+- type: src
+  content: https://saemobilus.sae.org/standards/amsa22771-aluminum-alloy-forgings-heat-treated
+docidentifier:
+- content: SAE AMS-A-22771
+  type: SAE
+  primary: true
+- content: 10.4271/amsa22771
+  type: DOI
+date:
+- type: approved
+  at: '1999-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the requirements for heat treated aluminum alloy die forgings, hand forgings, and ring forgings, produced under additional mechanical property control to ensure known mechanical properties for parts used in aerospace critical applications. This specification also covers the requirements for forgings furnished in the F or 01 conditions which will ultimately be used in the heat treated condition.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

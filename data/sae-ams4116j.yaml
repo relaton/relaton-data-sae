@@ -1,0 +1,58 @@
+---
+id: SAEAMS4116J
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Bars, Rods, and Wire 1.0Mg - 0.60Si - 0.30Cu - 0.20Cr (6061-T4)
+    Cold Finished, Solution Heat Treated and Naturally Aged
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4116j
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4116j-aluminum-alloy-bars-rods-wire-10mg-060si-030cu-020cr-6061-t4-cold-finished-solution-heat-treated-naturally-aged
+docidentifier:
+- content: SAE AMS4116J
+  type: SAE
+  primary: true
+- content: 10.4271/ams4116j
+  type: DOI
+date:
+- type: approved
+  at: '2015-03-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of bars, rods, and wire.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

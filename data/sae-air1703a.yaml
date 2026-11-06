@@ -1,0 +1,60 @@
+---
+id: SAEAIR1703A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: In-Flight Thrust Determination
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1703a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1703a-flight-thrust-determination
+docidentifier:
+- content: SAE AIR1703A
+  type: SAE
+  primary: true
+- content: 10.4271/air1703a
+  type: DOI
+date:
+- type: approved
+  at: '2017-12-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-33 In Flight Propulsion Measurement Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;In-Flight Thrust Determination, SAE AIR1703 reviews the major aspects of processes that may be used for the determination of in-flight thrust (IFT). It includes discussions of basic definitions, analytical and ground test methods to predict installed thrust of a given propulsion system, and methods to gather data and calculate thrust of the propulsion system during the flight development program of the aircraft. Much of the treatment is necessarily brief due to space limitations. This document and the British Ministry/Industry Drag Analysis Panel (MIDAP) Guide (Reference 1.1&lt;span class="xref"&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/span&gt;), which SAE Committee E-33 used as a starting point, can be used to understand the processes and limitations involved in the determination of in-flight thrust. Application to a specific in-flight thrust determination program will require the use of many important assumptions not fully developed in this document, and these assumptions must be evaluated during the conduct of the program.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The determination of in-flight thrust is a complex process. Success depends upon careful planning and meticulous attention to detail throughout the test program. It is important that the participants involved (engine and airframe manufacturers, military service, government agency, etc.) agree at the outset on the definitions and the methods to be used for demonstration. Provisions for flexibility and redundant methods are important to provide for unforeseen difficulties with a particular method.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

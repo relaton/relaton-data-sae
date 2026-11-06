@@ -1,0 +1,56 @@
+---
+id: SAEJ2399_202110
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Adaptive Cruise Control (ACC) Operating Characteristics and User Interface
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2399_202110
+- type: src
+  content: https://saemobilus.sae.org/standards/j2399_202110-adaptive-cruise-control-acc-operating-characteristics-user-interface
+docidentifier:
+- content: SAE J2399_202110
+  type: SAE
+  primary: true
+- content: 10.4271/j2399_202110
+  type: DOI
+date:
+- type: approved
+  at: '2021-10-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Advanced Driver Assistance Systems (ADAS) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Adaptive cruise control (ACC) is an enhancement of conventional cruise control systems that allows the ACC-equipped vehicle to follow a forward vehicle at a pre-selected time gap, up to a driver selected speed, by controlling the engine, power train, and/or service brakes. This SAE Standard focuses on specifying the minimum requirements for ACC system operating characteristics and elements of the user interface. This document applies to original equipment and aftermarket ACC systems for passenger vehicles (including motorcycles). This document does not apply to heavy vehicles (GVWR &amp;gt; 10,000 lbs. or 4,536 kg). Furthermore, this document does not address other variations on ACC, such as “stop &amp;amp; go” ACC, that can bring the equipped vehicle to a stop and reaccelerate. Future revisions of this document should consider enhanced versions of ACC, as well as the integration of ACC with Forward Vehicle Collision Warning Systems (FVCWS).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

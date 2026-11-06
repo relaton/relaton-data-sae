@@ -1,0 +1,58 @@
+---
+id: SAEAIR5396
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Characterizations of Aircraft Icing Conditions
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5396
+- type: src
+  content: https://saemobilus.sae.org/standards/air5396-characterizations-aircraft-icing-conditions
+docidentifier:
+- content: SAE AIR5396
+  type: SAE
+  primary: true
+- content: 10.4271/air5396
+  type: DOI
+date:
+- type: approved
+  at: '2001-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9C Aircraft Icing Technology Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides various graphical displays of atmospheric variables related to aircraft icing conditions in natural clouds. It is intended as a review of recent developments on the subject, and for stimulating thought on novel ways to arrange and use the available data. Included in this Report is FAR 25 (JAR 25) Appendix C, the established Aircraft Icing Atmospheric Characterization used for engineering design, development, testing and certification of civilian aircraft to fly in aircraft icing conditions.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

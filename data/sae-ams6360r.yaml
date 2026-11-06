@@ -1,0 +1,57 @@
+---
+id: SAEAMS6360R
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Mechanical Tubing, Seamless, 0.95Cr - 0.20Mo (0.28 - 0.33C) (4130),
+    Aircraft Quality, Normalized and Tempered, or Stress Relieved
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6360r
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6360r-steel-mechanical-tubing-seamless-095cr-020mo-028-033c-4130-aircraft-quality-normalized-tempered-stress-relieved
+docidentifier:
+- content: SAE AMS6360R
+  type: SAE
+  primary: true
+- content: 10.4271/ams6360r
+  type: DOI
+date:
+- type: approved
+  at: '2023-12-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aircraft-quality, low-alloy steel in the form of seamless mechanical tubing.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

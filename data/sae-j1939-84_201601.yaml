@@ -1,0 +1,61 @@
+---
+id: SAEJ193984_201601
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: OBD Communications Compliance Test Cases for Heavy Duty Components and
+    Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939/84_201601
+- type: src
+  content: https://saemobilus.sae.org/standards/j193984_201601-obd-communications-compliance-test-cases-heavy-duty-components-vehicles
+docidentifier:
+- content: SAE J1939/84_201601
+  type: SAE
+  primary: true
+- content: 10.4271/j1939/84_201601
+  type: DOI
+date:
+- type: approved
+  at: '2016-01-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this Recommended Practice is to verify that vehicles and/or components are capable of communicating a required set of information, in accordance with the diagnostic messages specified in SAE J1939-73, to fulfill the off-board diagnostic tool interface requirements contained in the government regulations cited below.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document describes the tests, methods, and results for verifying diagnostic communications from an off board diagnostic tool (i.e., scan tool) to a vehicle and/or component. SAE members have generated this document to serve as a guide for testing vehicles for compliance with ARB and other requirements for emissions-related on-board diagnostic (OBD) functions for heavy duty engines used in medium and heavy duty vehicles.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The development of HD OBD regulations by US EPA and California’s Air Resources Board (ARB) require that diagnostic message services are exercised to evaluate diagnostic communication standardization requirements on production vehicles. The user should reference the summary provided by SAE J1939-73 Table 1 and Table 2 for OBD compliance support.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The February 2015 version of SAE J1939-84 replaced the test procedures in &lt;span class="xref"&gt;section 6&lt;/span&gt; in order to implement a 2-operating cycle failure detection process for Production Vehicle Evaluation (l)(1) as requested by ARB. The tests also exercise diagnostic executive features such as three drive cycle accounting, freeze frame management and the general denominator in addition to the demonstration of interface function. Detailed criteria for some tests are described in a normative appendix, &lt;span class="xref"&gt;Appendix A&lt;/span&gt;, which was inserted before the output report examples that are now in &lt;span class="xref"&gt;Appendix B&lt;/span&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The December 2008 publication of J1939-84 described a test process for EURO IV and EURO V engine emissions and diagnostics regulations, which is given in &lt;span class="xref"&gt;section 7&lt;/span&gt;. The December 2010 version of the document added a test plan and procedure outline for ARB and US EPA HD OBD requirements with emphasis on 13 CCR 1971.1 (l)(1) Verification of Standardized Requirements, as &lt;span class="xref"&gt;section 6&lt;/span&gt;. The June 2012 version added the observation of the MIL_On to MIL_Off transition for a single trip CCM fault and reformatted tables in &lt;span class="xref"&gt;section 6&lt;/span&gt; to improve ease of use.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

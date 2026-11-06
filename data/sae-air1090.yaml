@@ -1,0 +1,56 @@
+---
+id: SAEAIR1090
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: IGNITION EXCITER OUTPUT VOLTAGE PULSE MEASUREMENT USING A PRESSURIZED BALL
+    GAP
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1090
+- type: src
+  content: https://saemobilus.sae.org/standards/air1090-ignition-exciter-output-voltage-pulse-measurement-using-a-pressurized-ball-gap
+docidentifier:
+- content: SAE AIR1090
+  type: SAE
+  primary: true
+- content: 10.4271/air1090
+  type: DOI
+date:
+- type: approved
+  at: '1994-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-30 Propulsion Ignition Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+    &lt;div class="htmlview paragraph"&gt;This report includes a procedure for typical pulse voltage measurement using the pressurized ball gap, calibration procedure, and a description of the pressurized ball gap.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

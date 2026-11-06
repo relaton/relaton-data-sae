@@ -1,0 +1,61 @@
+---
+id: SAEJ542_199106
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STARTING MOTOR MOUNTINGS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j542_199106
+- type: src
+  content: https://saemobilus.sae.org/standards/j542_199106-starting-motor-mountings
+docidentifier:
+- content: SAE J542_199106
+  type: SAE
+  primary: true
+- content: 10.4271/j542_199106
+  type: DOI
+date:
+- type: approved
+  at: '1991-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electrical Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Recommended Practice is to provide standardized dimensions for mounting starting motors. (See &lt;span class="xref"&gt;Figures 1&lt;/span&gt; through &lt;span class="xref"&gt;4&lt;/span&gt;.)&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is recommended that a full register diameter having a minimum depth of 2.54 mm (0.100 in) be provided in the flywheel housing to insure proper control of gear center distance and clearance between pitch diameters. The clearance between the starting motor pilot diameter and the register diameter in the flywheel housing should be 0.03 mm (0.001 in) minimum to 0.25 mm (0.010 in) maximum.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Text noted with an asterisk in &lt;span class="xref"&gt;Figures 1&lt;/span&gt;, &lt;span class="xref"&gt;2&lt;/span&gt;, and 3, should not exceed root radius of pinion in order to provide clearance for the flywheel.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The face of the starting motor mounting flange should be relieved at its junction with the pilot diameter to avoid mounting interference with flywheel housing.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For backlash allowance between the pinion and ring gear refer to SAE J543.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Dimensional units—millimeter (inch)&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

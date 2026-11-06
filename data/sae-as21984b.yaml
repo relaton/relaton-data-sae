@@ -1,0 +1,49 @@
+---
+id: SAEAS21984B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CIRCUIT BREAKER-AIRCRAFT, TRIP-FREE PUSH-PULL, 3-PHASE, 5 THRU 60 AMP.,
+    TYPE I
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as21984b
+- type: src
+  content: https://saemobilus.sae.org/standards/as21984b-circuit-breaker-aircraft-trip-free-push-pull-3-phase-5-thru-60-amp-type
+docidentifier:
+- content: SAE AS21984B
+  type: SAE
+  primary: true
+- content: 10.4271/as21984b
+  type: DOI
+date:
+- type: approved
+  at: '2016-01-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7P Protective and Control Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

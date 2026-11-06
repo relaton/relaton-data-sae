@@ -1,0 +1,58 @@
+---
+id: SAEJ19395_200802
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Marine Stern Drive and Inboard Spark-Ignition Engine On-Board Diagnostics
+    Implementation Guide
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939/5_200802
+- type: src
+  content: https://saemobilus.sae.org/standards/j19395_200802-marine-stern-drive-inboard-spark-ignition-engine-board-diagnostics-implementation-guide
+docidentifier:
+- content: SAE J1939/5_200802
+  type: SAE
+  primary: true
+- content: 10.4271/j1939/5_200802
+  type: DOI
+date:
+- type: approved
+  at: '2008-02-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes the application of the SAE J1939 recommended practices for compliance with on-board diagnostic malfunction detection system requirements for marine sterndrive and inboard spark ignition engines, as mandated by the California Air Resources Board (CARB). These Otto-cycle engines are not derived from automotive diesel-cycle engines.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

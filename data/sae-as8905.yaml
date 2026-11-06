@@ -1,0 +1,56 @@
+---
+id: SAEAS8905
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fittings and Cargo Rings, Tie-Down, Aircraft Floor
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8905
+- type: src
+  content: https://saemobilus.sae.org/standards/as8905-fittings-cargo-rings-tie-down-aircraft-floor
+docidentifier:
+- content: SAE AS8905
+  type: SAE
+  primary: true
+- content: 10.4271/as8905
+  type: DOI
+date:
+- type: approved
+  at: '2006-07-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes requirements for two types of aircraft floor fittings for tiedown of cargo and seats, and two types of cargo tiedown rings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

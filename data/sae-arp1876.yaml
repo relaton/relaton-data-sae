@@ -1,0 +1,48 @@
+---
+id: SAEARP1876
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: WELDABILITY TEST FOR WELD FILLER METAL WIRE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1876
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1876-weldability-test-weld-filler-metal-wire
+docidentifier:
+- content: SAE ARP1876
+  type: SAE
+  primary: true
+- content: 10.4271/arp1876
+  type: DOI
+date:
+- type: approved
+  at: '1993-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEJA6268_202303
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Design & Run-Time Information Exchange for Health-Ready Components
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ja6268_202303
+- type: src
+  content: https://saemobilus.sae.org/standards/ja6268_202303-design-run-time-information-exchange-health-ready-components
+docidentifier:
+- content: SAE JA6268_202303
+  type: SAE
+  primary: true
+- content: 10.4271/ja6268_202303
+  type: DOI
+date:
+- type: approved
+  at: '2023-03-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: HM-1 Integrated Vehicle Health Management Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Surface Vehicle &amp;amp; Aerospace Recommended Practice offers best practices and a methodology by which IVHM functionality relating to components and subsystems should be integrated into vehicle or platform level applications. The intent of the document is to provide practitioners with a structured methodology for specifying, characterizing and exposing the inherent IVHM functionality of a component or subsystem using a common functional reference model, i.e., through the exchange of design-time data and the application of standard vehicle data communications interfaces. This document includes best practices and guidance related to the specification of the information that must be exchanged between the functional layers in the IVHM system or between lower-level components/subsystems and the higher-level control system to enable health monitoring and tracking of system degradation severity. The intent is to provide an IVHM system that can robustly report the degradation of a given component before it reaches the point where it goes outside its operational performance envelope by providing sufficient advance notice to deal with the issue. This document does not specify or address how each layer in the IVHM system produces or uses the data available for exchange.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

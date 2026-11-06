@@ -1,0 +1,57 @@
+---
+id: SAEARP6248
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Stripline Test Method to Characterize the Shielding Effectiveness of Conductive
+    EMI Gaskets up to 40 GHz
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6248
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6248-stripline-test-method-characterize-shielding-effectiveness-conductive-emi-gaskets-40-ghz
+docidentifier:
+- content: SAE ARP6248
+  type: SAE
+  primary: true
+- content: 10.4271/arp6248
+  type: DOI
+date:
+- type: approved
+  at: '2022-01-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-4 Electromagnetic Compatibility (EMC) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this procedure is to establish a technique for reliably and repeatedly measuring the RF shielding characteristics of EMI conductive gasket materials and EMI conductive gaskets. Depending on the materials used for the construction of the measuring setup, the EMI conductive gaskets can be characterized against various joint surfaces. This standard will directly provide shielding effectiveness values up to 40 GHz, and will also be applicable for small samples of conductive EMI gaskets.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,76 @@
+---
+id: SAEJ3211_202512
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Inertia Dynamometer Brake Squeal Noise Test Procedure for Vehicles with
+    Regenerative Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3211_202512
+- type: src
+  content: https://saemobilus.sae.org/standards/j3211_202512-inertia-dynamometer-brake-squeal-noise-test-procedure-vehicles-regenerative-systems
+docidentifier:
+- content: SAE J3211_202512
+  type: SAE
+  primary: true
+- content: 10.4271/j3211_202512
+  type: DOI
+date:
+- type: approved
+  at: '2025-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Brake NVH Standards Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The SAE J3211 procedure applies to squeal evaluation for foundation brakes using single-ended inertia dynamometers for friction couples used on vehicles with regenerative braking systems. This document applies to squeal noise occurrences for on-road passenger cars and light trucks with a gross vehicle weight rating of 4536 kg or below and with at least one rechargeable energy storage system as a source for propulsion. The procedure incorporates aspects related to (a) minimum inertia dynamometer capabilities, (b) fixture requirements and setup, and (c) test sequences with emphasis on brake temperatures, brake pressure profiles, and strategies to represent brake blending.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For this document, squeal occurs when the peak noise level is at least 70 dB(A) between 1.25 and 16 kHz for tests using full suspension corners or complete axle assemblies, or between 2 and 16 kHz for brakes not using an entire suspension corner.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Test facilities intending to use this document, building on their expertise in conducting SAE J2521, shall review in detail the changes to test parameters (mainly brake temperatures and brake pressures) for legacy modules.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document also applies to vehicles with electromechanical braking systems to actuate the foundation brake. The test requester and the test facility are responsible for converting the hydraulic pressure levels into their equivalent clamping forces for brakes using electromechanical actuation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Before using this document for chassis dynamometer testing, review in detail the specifics related to at least (a) instrumentation, including in-cabin microphones; (b) threshold levels for noise detection; (c) temperature control priority between the front and rear axles; (d) vehicle loading and load distribution; (e) cooling air and environmental conditioning; (f) detailed terminology and labeling of channels and sensors; and (g) the regenerative settings and the state of charge during the test.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Before using this document along with other methods to recreate the regenerative brake blending (e.g., Software-in-the-Loop or Hardware-in-the-Loop), consider (a) the vehicle powertrain, blending architecture and its applicable models, (b) actual profiles intended to recreate (e.g., control strategies, state of charge, test scenarios), and (c) actual embodiment of the simulation and integration with the native controls of the brake dynamometer.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document does not include noise from other sources (e.g., parking brakes, electric machines, driveline components).&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

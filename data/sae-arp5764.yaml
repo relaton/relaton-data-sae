@@ -1,0 +1,67 @@
+---
+id: SAEARP5764
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Active Inceptor Systems for Aircraft Flight and Engine Controls
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5764
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5764-aerospace-active-inceptor-systems-aircraft-flight-engine-controls
+docidentifier:
+- content: SAE ARP5764
+  type: SAE
+  primary: true
+- content: 10.4271/arp5764
+  type: DOI
+date:
+- type: approved
+  at: '2018-07-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A3 Flight Control and Vehicle Management Systems Cmt
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this document is to develop the general characteristics and requirements for feel-force control systems for active cockpit controllers, also known as Active Inceptors. The document presents technical material that describes the recommended key characteristics and design considerations for these types of systems. Where appropriate, the effects of platform specific requirements (e.g., single axis/dual axis, single seat/dual seat, civil/military, rotorcraft/fixed wing aircraft, etc.) are clearly identified.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The material developed will serve as a reference guide for:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Aircraft prime contractors who want to understand active cockpit controller technology and develop their own set of requirements;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Suppliers that develop active cockpit controller equipment and;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Regulatory Authorities who will be involved in the certification of these types of systems.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

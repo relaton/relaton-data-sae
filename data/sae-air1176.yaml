@@ -1,0 +1,56 @@
+---
+id: SAEAIR1176
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: OXYGEN SYSTEM AND COMPONENT CLEANING AND PACKAGING
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1176
+- type: src
+  content: https://saemobilus.sae.org/standards/air1176-oxygen-system-component-cleaning-packaging
+docidentifier:
+- content: SAE AIR1176
+  type: SAE
+  primary: true
+- content: 10.4271/air1176
+  type: DOI
+date:
+- type: approved
+  at: '1974-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AIR specifies work area details, cleaning methods, test methods, and specifications for oxygen clean parts and packaging materials.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEJ3168_202112
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Reliability Physics Analysis of Electrical, Electronic, and Electromechanical
+    Equipment, Modules and Components
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3168_202112
+- type: src
+  content: https://saemobilus.sae.org/standards/j3168_202112-reliability-physics-analysis-electrical-electronic-electromechanical-equipment-modules-components
+docidentifier:
+- content: SAE J3168_202112
+  type: SAE
+  primary: true
+- content: 10.4271/j3168_202112
+  type: DOI
+date:
+- type: approved
+  at: '2021-12-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Automotive Electronic Systems Reliability Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice has been developed for use in any EEE system used in the AADHP industries. RPA is especially important to AADHP systems, which are often safety critical applications that must operate for long times in rugged environments. These EEE systems often use EEE components that were originally designed and produced for more benign consumer applications.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Although the focus of this recommended practice is on AADHP applications, the process described herein is not limited to AADHP and may be used for EEE systems and components in any industry.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

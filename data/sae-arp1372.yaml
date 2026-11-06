@@ -1,0 +1,58 @@
+---
+id: SAEARP1372
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MINIMUM REQUIREMENTS FOR AIR CARGO UNIT LOAD DEVICE GROUND HANDLING AND
+    TRANSPORT SYSTEMS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1372
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1372-minimum-requirements-air-cargo-unit-load-device-ground-handling-transport-systems
+docidentifier:
+- content: SAE ARP1372
+  type: SAE
+  primary: true
+- content: 10.4271/arp1372
+  type: DOI
+date:
+- type: approved
+  at: '1975-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The requirements of this document are applicable to ground handling and transport systems equipment which is designated to accommodate main deck unitized cargo in the form of intermodal containers and other compatible unitized load devices. Intermodality in the context of this ARP concerns primarily air and land modes but does not exclude the marine mode. Equipment with compatibility features for other than main deck cargo is likewise not excluded.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is not the intent of this ARP to specify equipment design but rather to insure interface compatibility of the various elements which might make up a total ground handling and transport system developed within a number of different operational schemes. It is the intent of this ARP to specify minimum ULD handling and restraint features to insure future interchange capability.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAIR1639A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Safety Criteria for Pneumatic Starting Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1639a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1639a-safety-criteria-pneumatic-starting-systems
+docidentifier:
+- content: SAE AIR1639A
+  type: SAE
+  primary: true
+- content: 10.4271/air1639a
+  type: DOI
+date:
+- type: approved
+  at: '1999-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-6 Starting Systems and Auxiliary Power Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) presents safety criteria for pneumatic type engine starting system design and component hardware. Included are safety criteria in design of both starter control valves and starters as well as in design of airframe control systems. Safety topics concern starter valve operation and material application, airframe controls and instrumentation installations and starter rotor integrity and containment.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

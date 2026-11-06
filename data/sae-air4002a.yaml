@@ -1,0 +1,56 @@
+---
+id: SAEAIR4002A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: '8000 psi Hydraulic Systems: Experience and Test Results'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4002a
+- type: src
+  content: https://saemobilus.sae.org/standards/air4002a-8000-psi-hydraulic-systems-experience-test-results
+docidentifier:
+- content: SAE AIR4002A
+  type: SAE
+  primary: true
+- content: 10.4271/air4002a
+  type: DOI
+date:
+- type: approved
+  at: '2012-11-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A2 Military Aircraft Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Shortly after World War II, as aircraft became more sophisticated and power-assist, flight-control functions became a requirement, hydraulic system operating pressures rose from the 1000 psi level to the 3000 psi level found on most aircraft today. Since then, 4000 psi systems have been developed for the U.S. Air Force XB-70 and B-1 bombers and a number of European aircraft including the tornado multirole combat aircraft and the Concorde supersonic transport. The V-22 Osprey incorporates a 5000 psi hydraulic system. The power levels of military aircraft hydraulic systems have continued to rise. This is primarily due to higher aerodynamic loading, combined with the increased hydraulic functions and operations of each new aircraft. At the same time, aircraft structures and wings have been getting smaller and thinner as mission requirements expand. Thus, internal physical space available for plumbing and components continues to decrease.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAS8023
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MINIMUM PERFORMANCE STANDARDS FOR AIRBORNE STATIC ELECTRIC POWER INVERTERS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8023
+- type: src
+  content: https://saemobilus.sae.org/standards/as8023-minimum-performance-standards-airborne-static-electric-power-inverters
+docidentifier:
+- content: SAE AS8023
+  type: SAE
+  primary: true
+- content: 10.4271/as8023
+  type: DOI
+date:
+- type: approved
+  at: '1993-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7B Power Management, Distribution and Storage
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The tests specified herein provide a laboratory means to determine the performance characteristics of static electric power inverters under electrical and environmental conditions representative of those encountered in actual aeronautical operation.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

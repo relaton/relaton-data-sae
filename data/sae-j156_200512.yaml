@@ -1,0 +1,57 @@
+---
+id: SAEJ156_200512
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fusible Links
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j156_200512
+- type: src
+  content: https://saemobilus.sae.org/standards/j156_200512-fusible-links
+docidentifier:
+- content: SAE J156_200512
+  type: SAE
+  primary: true
+- content: 10.4271/j156_200512
+  type: DOI
+date:
+- type: approved
+  at: '2005-12-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Cable Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard covers supplemental requirements for low tension primary cable intended for use as Fusible Links (Fuse Links) at a nominal system voltage of 60 V DC (25 V AC) or less in surface vehicle electrical systems. These supplemental requirements are intended to qualify cables for an extreme current overload.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

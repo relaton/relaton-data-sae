@@ -1,0 +1,71 @@
+---
+id: SAEARD6481
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TSO for Berthing Divans and Seats with Features that Require the Release
+    of the Occupant Restraint
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ard6481
+- type: src
+  content: https://saemobilus.sae.org/standards/ard6481-tso-berthing-divans-seats-features-require-release-occupant-restraint
+docidentifier:
+- content: SAE ARD6481
+  type: SAE
+  primary: true
+- content: 10.4271/ard6481
+  type: DOI
+date:
+- type: approved
+  at: '2009-11-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aircraft Seat Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>AS8049A currently requires adjustable features on aircraft seats to
+    be designed so they can be returned to the positions required for taxi, takeoff
+    and landing by the occupant without the release of the occupant restraints. This
+    ARD will demonstrate Aviation Industry support for revisions to TSO-C39c and TSO-C127a
+    to allow Technical Standard Order (TSO) approval of aircraft seat products designed
+    with adjustable features that require the release of occupant restraints to return
+    the feature to the taxi, takeoff and landing position.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

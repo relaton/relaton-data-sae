@@ -1,0 +1,49 @@
+---
+id: SAEAS3902969
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CONNECTOR CONTACT, ELECTRICAL SOCKET, CRIMP REMOVABLE, FOR MIL-C-85028(AS)
+    CONNECTORS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as39029/69
+- type: src
+  content: https://saemobilus.sae.org/standards/as3902969-connector-contact-electrical-socket-crimp-removable-mil-c-85028-connectors
+docidentifier:
+- content: SAE AS39029/69
+  type: SAE
+  primary: true
+- content: 10.4271/as39029/69
+  type: DOI
+date:
+- type: approved
+  at: '2001-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C1 Connectors Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

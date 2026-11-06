@@ -1,0 +1,56 @@
+---
+id: SAEAS943
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STARTER, PNEUMATIC, AIRCRAFT ENGINE, GENERAL SPECIFICATION FOR
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as943
+- type: src
+  content: https://saemobilus.sae.org/standards/as943-starter-pneumatic-aircraft-engine-general-specification
+docidentifier:
+- content: SAE AS943
+  type: SAE
+  primary: true
+- content: 10.4271/as943
+  type: DOI
+date:
+- type: approved
+  at: '1968-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-6 Starting Systems and Auxiliary Power Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The starters covered by this specification shall be designed to operate on compressed air from ground support equipment, engine interbleed or on board air supply.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

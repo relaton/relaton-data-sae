@@ -1,0 +1,49 @@
+---
+id: SAEAMS3693
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ADHESIVE, MODIFIED EPOXY Moderate Heat Resistant, 250 F (121.1 C) Curing,
+    Film Type
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3693
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3693-adhesive-modified-epoxy-moderate-heat-resistant-250-f-1211-c-curing-film-type
+docidentifier:
+- content: SAE AMS3693
+  type: SAE
+  primary: true
+- content: 10.4271/ams3693
+  type: DOI
+date:
+- type: approved
+  at: '1968-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P Polymeric Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,48 @@
+---
+id: SAEAMS4215A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY CASTINGS, PREMIUM GRADE 5Si - 1.2Cu - 0.5Mg (C355)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4215a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4215a-aluminum-alloy-castings-premium-grade-5si-12cu-05mg-c355
+docidentifier:
+- content: SAE AMS4215A
+  type: SAE
+  primary: true
+- content: 10.4271/ams4215a
+  type: DOI
+date:
+- type: approved
+  at: '1962-01-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

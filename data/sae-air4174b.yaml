@@ -1,0 +1,92 @@
+---
+id: SAEAIR4174B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: A Guide to Aircraft Power Train Monitoring
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4174b
+- type: src
+  content: https://saemobilus.sae.org/standards/air4174b-a-guide-aircraft-power-train-monitoring
+docidentifier:
+- content: SAE AIR4174B
+  type: SAE
+  primary: true
+- content: 10.4271/air4174b
+  type: DOI
+date:
+- type: approved
+  at: '2026-05-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;The purpose of this SAE Aerospace Information Report (AIR) is to provide management, designers, and operators with information to assist them to decide what type of power train monitoring they desire. This document is to provide assistance in optimizing system complexity, performance, and cost effectiveness.&lt;/p&gt;
+
+
+    &lt;p&gt;This document covers all power train elements from the point at which energy in a turbine or electric engine is converted via a gear train to mechanical energy for propulsion purposes. The document covers aircraft engine driven transmission and gearbox components, their interfaces, drivetrain shafting, drive shaft hanger bearings, and associated rotating accessories, propellers, and rotor systems as shown in Figure 1. For guidance on monitoring additional engine components not addressed herein (e.g., main shaft bearings and compressor/turbine rotors), refer to ARP1839.&lt;/p&gt;
+
+
+    &lt;p&gt;This document addresses rotary and fixed wing applications for rotor, turboprop, turbofan, prop fan, and lift fan drive trains on both commercial and military aircraft.&lt;/p&gt;
+
+
+    &lt;p&gt;Information is provided to assist in:&lt;/p&gt;
+
+
+    &lt;p&gt;a. Defining technology maturity and application risk&lt;/p&gt;
+
+
+    &lt;p&gt;b. Cost benefit analysis (value analysis)&lt;/p&gt;
+
+
+    &lt;p&gt;c. Selection of system components&lt;/p&gt;
+
+
+    &lt;p&gt;d. Selection of technology&lt;/p&gt;
+
+
+    &lt;p&gt;e. Managing interface requirements&lt;/p&gt;
+
+
+    &lt;p&gt;f. Defining information flow requirements&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

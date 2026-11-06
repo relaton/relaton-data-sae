@@ -1,0 +1,64 @@
+---
+id: SAEARP6467
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Human Factors Minimum Requirements and Recommendations for the Flight Deck
+    Display of Data Linked Notices to Airmen (NOTAMs)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6467
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6467-human-factors-minimum-requirements-recommendations-flight-deck-display-data-linked-notices-airmen-notams
+docidentifier:
+- content: SAE ARP6467
+  type: SAE
+  primary: true
+- content: 10.4271/arp6467
+  type: DOI
+date:
+- type: approved
+  at: '2014-02-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10A Aeronautical Information System Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) includes the minimum human factors requirements and recommendations for the flight deck display of data linked Aeronautical Information (AI), specifically Notices to Airmen (NOTAMs). The goal of human factors is to make it easy for users to do things right and hard to do them wrong. The guidance in this ARP supports this goal by defining minimum requirements and recommendations that focus on the text and potential graphics for NOTAMs as well as the human’s interaction with these on the flight deck. In this ARP “flight deck” includes both single pilot flight decks as well as multi-pilot flight decks.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The FAA defines NOTAMs&lt;span class="xref"&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/span&gt; as any information concerning the establishment, condition, or change in any component of, or hazard to, the National Airspace System. ICAO Annex 15 defines a NOTAM as “a notice distributed by means of telecommunication containing information concerning the establishment, condition, or change in any aeronautical facility, service, procedure or hazard, the timely knowledge of which is essential to personnel concerned with flight operations.”&lt;span class="xref"&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/span&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The minimum requirements and recommendations in this ARP do not replace guidelines or requirements for existing airborne applications or displays on the flight deck. It does not replace existing general human factors design standards. It also does not address every specific NOTAM category, series or type, but focuses on a subset, which includes the most safety critical NOTAMs (such as closed runways), most common NOTAMs, or ones which may affect the efficiency of the airspace such as Temporary Flight Restrictions (TFRs). This ARP also does not reference other aeronautical information such as private provider updates, such as Company NOTAMs and/or private sector charting notices or advisories such as charting errors or omissions, which might be sent to pilots via data link. Finally, this ARP does not address data integrity as the NOTAM moves from its originator to the flight deck and all the steps in between. This is addressed by the aeronautical information services data link standards developed by the RTCA Special Committee 206 while the quality of the aeronautical information is addressed by the RTCA 217 Special Committee.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;There may come a time in the future when data linked NOTAMs presented in graphical format (gNOTAMs) are the primary source for NOTAMs on the flight deck. However, standardization and data quality issues must be addressed before gNOTAMs can be considered anything other than a visual supplement or an additional safety layer to text-based NOTAMs. Data quality at the origination point will be handled by quality control/quality assurance programs for each State producing NOTAMs. The aviation industry is still years away from complete standardization of all NOTAMs, but progress is being made. For example, regulators and others are working to develop geo-referenced data for airport and airspace subjects (e.g., navigation aids, obstructions, runways, taxiways, temporary flight restrictions and airspace). Similarly, regulators are creating new tools for the origination of NOTAMs that result in digital NOTAMs that are comprised of standardized elements. Such standardization allows automation (machines or software) to check accuracy, apply various sorting or filtering choices to the NOTAMs, or add other data to them such as displaying their shapes or locations over maps or other baseline data. Unfortunately, the current lack of standardization means that not every NOTAM created today is machine-readable, thus accuracy is dependent upon human analysis which is very labor intensive and costly. In the U.S. alone, approximately one (1) million NOTAMs are issued each year and the number is growing. As a result, for the foreseeable future, we remain in a mixed use environment where some NOTAMs are standardized and machine-readable but many are not. As a consequence, not every NOTAM created can be sorted, filtered, or converted to its graphical form with the accuracy that pilots and aviation regulators require.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;There are advantages to having standardized gNOTAMs among every manufacturer. This increases the ability of the pilot to see, comprehend and project into the future the applicability of the NOTAM to their flight, reduces training costs, and improves pilot performance. Consistent depictions of gNOTAMs across different flight deck display manufacturers would enable pilots to move from display to display within an aircraft, and from aircraft to aircraft with more ease and would likely result in a reduction of errors. However, it is not the mandate of this Committee to stifle innovation by dictating specific symbols or graphics. Consequently, this ARP is geared toward identifying minimum human factors requirements and recommendations that will help ensure that all products meet some basic minimum standards for usability. Many choices have been left for the designer, after working with users, to determine what their highest priorities are and to find the most intuitive and efficient way to present the information.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;While this ARP focuses solely on the flight deck of aircraft, the guidance may be expanded in the future to apply to displays for dispatchers, air traffic controllers, and other NOTAM users.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,49 @@
+---
+id: SAEAMS4165A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY EXTRUSIONS 4.4Cu - 1.5Mg - 0.6Mn (2024-T3511) Stress-Relief
+    Stretched and Straightened
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4165a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4165a-aluminum-alloy-extrusions-44cu-15mg-06mn-2024-t3511-stress-relief-stretched-straightened
+docidentifier:
+- content: SAE AMS4165A
+  type: SAE
+  primary: true
+- content: 10.4271/ams4165a
+  type: DOI
+date:
+- type: approved
+  at: '1962-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

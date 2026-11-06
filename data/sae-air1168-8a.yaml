@@ -1,0 +1,76 @@
+---
+id: SAEAIR11688A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Fuel Weight Penalty Due to Air Conditioning
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1168/8a
+- type: src
+  content: https://saemobilus.sae.org/standards/air11688a-aircraft-fuel-weight-penalty-due-air-conditioning
+docidentifier:
+- content: SAE AIR1168/8A
+  type: SAE
+  primary: true
+- content: 10.4271/air1168/8a
+  type: DOI
+date:
+- type: approved
+  at: '2011-07-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this section is to provide methods and a set of convenient working charts to estimate penalty values in terms of take-off fuel weight for any given airplane mission. The curves are for a range of specific fuel consumption (&lt;i&gt;SFC&lt;/i&gt;) and lift/drag ratio (&lt;i&gt;L/D&lt;/i&gt;) compatible with the jet engines and supersonic aircraft currently being developed. A typical example showing use of the charts for an air conditioning system is given.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Evaluation of the penalty imposed on aircraft performance characteristics by the installation of an air conditioning system is important for two reasons:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;It provides a common denominator for comparing systems in the preliminary design stage, thus aiding in the choice of system to be used.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;It aids in pinpointing portions of existing systems where design improvements can be most readily achieved.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;All factors that influence the flight performance of an aircraft can be expressed in terms of weight, external and momentum drags, and changes in powerplant performance due to bleed air or shaft power extraction, or both. These factors lend themselves to numerical analysis, and the purpose of this chapter is to present and discuss methods that permit their evaluation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The methods of evaluating performance penalties to an aircraft in flight employ such parameters as flight range, aircraft gross weight, fuel load, payload, speed-altitude characteristics (Refs. 1-3), and the effects of power, landing, and take-off field length limiting cases.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Two major criteria need to be considered in arriving at system take-off weight penalties:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Air vehicle weight is assumed fixed, and degradation in range occurs as a result of weight displacing fuel.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Range is assumed fixed, and the resultant take-off weight penalty is added to the total airplane weight.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;The latter method will be discussed in this section, and is based, in part, on Ref. 4. The former method (degradation in range) can be found, in detail, in Ref. 5.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The optimization process consists of calculating specific penalty numbers for system fixed weight, variable weight, power consumption, ram air, and bleed air consumption, in terms of take-off weight and selecting the system that results in greater payload or range.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

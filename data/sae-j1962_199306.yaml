@@ -1,0 +1,64 @@
+---
+id: SAEJ1962_199306
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: DIAGNOSTIC CONNECTOR
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1962_199306
+- type: src
+  content: https://saemobilus.sae.org/standards/j1962_199306-diagnostic-connector
+docidentifier:
+- content: SAE J1962_199306
+  type: SAE
+  primary: true
+- content: 10.4271/j1962_199306
+  type: DOI
+date:
+- type: approved
+  at: '1993-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The SAE J1962 diagnostic connector consists of two mating connectors, the vehicle connector (see &lt;span class="xref"&gt;Figure 1&lt;/span&gt;) and the test equipment connector (see &lt;span class="xref"&gt;Figure 2&lt;/span&gt;).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Defines the functional requirements for the vehicle connector. These functional requirements are separated into three principal areas: connector location/access, connector design, and connector terminal assignments.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Defines the functional requirements for the test equipment connector. These functional requirements are separated into two principal areas: connector design and connector terminal assignments.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

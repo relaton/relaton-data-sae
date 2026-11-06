@@ -1,0 +1,53 @@
+---
+id: SAEAS27444A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Net, Cargo Tiedown, Pallets, HCU-7/E, HCU-15/C, HCU-11/C, and HCU-16/C
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as27444a
+- type: src
+  content: https://saemobilus.sae.org/standards/as27444a-net-cargo-tiedown-pallets-hcu-7-e-hcu-15-c-hcu-11-c-hcu-16-c
+docidentifier:
+- content: SAE AS27444A
+  type: SAE
+  primary: true
+- content: 10.4271/as27444a
+  type: DOI
+date:
+- type: approved
+  at: '2007-08-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers pallet cargo tiedown nets, designated HCU-7/E,
+    HCU-15/C, HCU-11/C and HCU-16/C.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,54 @@
+---
+id: SAEAMS4632E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Bronze Bars and Rods 90cu 8.5al, Hard
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4632e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4632e-aluminum-bronze-bars-rods-90cu-85al-hard
+docidentifier:
+- content: SAE AMS4632E
+  type: SAE
+  primary: true
+- content: 10.4271/ams4632e
+  type: DOI
+date:
+- type: approved
+  at: '2001-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This specification covers one type of aluminum bronze in the form of bars and rods.&lt;/p&gt;
+    &lt;p&gt;Primarily for parts, such as bushings, requiring strength and corrosion resistance at moderate temperatures.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

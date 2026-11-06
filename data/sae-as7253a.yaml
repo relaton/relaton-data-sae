@@ -1,0 +1,58 @@
+---
+id: SAEAS7253A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'NUTS, SELF-LOCKING, NICKEL ALLOY, UNS N07001 CLASSIFICATION: 180 ksi/1400°F
+    PROCUREMENT SPECIFICATION'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as7253a
+- type: src
+  content: https://saemobilus.sae.org/standards/as7253a-nuts-self-locking-nickel-alloy-uns-n07001-classification-180-ksi-1400f-procurement-specification
+docidentifier:
+- content: SAE AS7253A
+  type: SAE
+  primary: true
+- content: 10.4271/as7253a
+  type: DOI
+date:
+- type: approved
+  at: '1995-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This procurement specification covers all metal, self-locking wrenching nuts, plate nuts, shank nuts, and gang channel nuts made of a corrosion and heat resistant nickel-base alloy of the type identified under the Unified Numbering System as UNS N07001.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,48 @@
+---
+id: SAEAS9389A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PIN, STRAIGHT, HEADLESS - AMS5735, LOCK
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as9389a
+- type: src
+  content: https://saemobilus.sae.org/standards/as9389a-pin-straight-headless-ams5735-lock
+docidentifier:
+- content: SAE AS9389A
+  type: SAE
+  primary: true
+- content: 10.4271/as9389a
+  type: DOI
+date:
+- type: approved
+  at: '2018-10-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

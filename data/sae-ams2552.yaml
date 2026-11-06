@@ -1,0 +1,49 @@
+---
+id: SAEAMS2552
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CLEANING, PACKAGING, AND ASSEMBLY OF CRITICAL SYSTEM COMPONENTS Clean Room
+    Procedure, 500 Micron Max Particle Size
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2552
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2552-cleaning-packaging-assembly-critical-system-components-clean-room-procedure-500-micron-max-particle-size
+docidentifier:
+- content: SAE AMS2552
+  type: SAE
+  primary: true
+- content: 10.4271/ams2552
+  type: DOI
+date:
+- type: approved
+  at: '1963-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

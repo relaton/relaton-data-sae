@@ -1,0 +1,58 @@
+---
+id: SAEJ3253_202508
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electric Power Take-Off Interface for Commercial Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3253_202508
+- type: src
+  content: https://saemobilus.sae.org/standards/j3253_202508-electric-power-take-off-interface-commercial-vehicles
+docidentifier:
+- content: SAE J3253_202508
+  type: SAE
+  primary: true
+- content: 10.4271/j3253_202508
+  type: DOI
+date:
+- type: approved
+  at: '2025-08-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Electrical Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice (RP) covers the general guidelines for conductive power transfer of high voltage Direct Current (DC) between OEM commercial truck chassis electrical systems and electrically powered body accessory equipment. The OEM chassis can have an EV drive train or be a hybrid chassis with or without a connection for traditional mechanical Power Take-Off (PTO). The chassis can include use of range extension systems. Voltage levels are defined as greater than 60 VDC and include typical EV chassis voltage ranges up to and including 1500 VDC based on selected component capabilities. It also covers limited functional requirements for the connection systems, body builder communication modes, and suggested operational modes. The scope of the Electric Power Take-Off (ePTO) physical electrical connection will be limited to a recommendation of the interface concept, space claim, and service features and will leave connector features and design open for future definition.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Although many of the elements defined here may apply, including addendum, the scope does not include sufficient content to define a connector for linking a Class 8 tractor to a semi-trailer or truck to trailer in any class using functional voltages as defined below. The scope does not include high-cycle connections or other applications where the connections to ePTO are separated daily or outside of annual maintenance inspections. Requirements for bidirectional power flow on the ePTO connection are out of scope in this document but could be accommodated within the future definition of ePTO applications. These application scope limits were reviewed by the Task Force and tabled for future development.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

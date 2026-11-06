@@ -1,0 +1,56 @@
+---
+id: SAEAS81531
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Marking of Electrical Insulating Materials
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as81531
+- type: src
+  content: https://saemobilus.sae.org/standards/as81531-marking-electrical-insulating-materials
+docidentifier:
+- content: SAE AS81531
+  type: SAE
+  primary: true
+- content: 10.4271/as81531
+  type: DOI
+date:
+- type: approved
+  at: '1998-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8A Elec Wiring and Fiber Optic Interconnect Sys Install
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes performance requirements for markings that have been applied to electrical insulating materials (see &lt;span class="xref"&gt;6.1&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

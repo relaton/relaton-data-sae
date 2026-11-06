@@ -1,0 +1,57 @@
+---
+id: SAEAMS3050A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Performance Specification Anti-Seize Thread Compound, High Temperature
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3050a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3050a-performance-specification-anti-seize-thread-compound-high-temperature
+docidentifier:
+- content: SAE AMS3050A
+  type: SAE
+  primary: true
+- content: 10.4271/ams3050a
+  type: DOI
+date:
+- type: approved
+  at: '2024-11-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS M Aerospace Greases Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This foundation specification (AMS3050) and its associated category specifications (AMS3050/1 through AMS3050/9) cover anti-seize compounds for use on threads of nuts, studs, bolts, and other mating surfaces, including those of superheated steam installations, at temperatures up to 1050 °F (566 °C). Compounds containing PTFE are limited to 600 °F (315 °C) maximum. Materials for nuts, studs, bolts, and other mating surfaces include, but are not limited to: steel, nickel alloys, stainless steel, and silver-coated materials. This specification invokes the Performance Review Institute (PRI) product qualification process. Requests for submittal information may be made to the PRI at the address in &lt;span class="xref"&gt;2.3.3&lt;/span&gt;, referencing this specification. Products qualified to this specification are listed on a Qualified Products List (QPL) managed by the PRI. Additional tests and evaluations may be required by individual equipment builders before a grease is approved for use in their equipment. Approval and/or certification for use of a specific grease in aero and aero-derived marine and industrial applications is the responsibility of the individual equipment builder and/or government authorities and is not implied by compliance with or qualification to this specification.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,62 @@
+---
+id: SAEJ2954_201605
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Wireless Power Transfer for Light-Duty Plug-In/ Electric Vehicles and Alignment
+    Methodology
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2954_201605
+- type: src
+  content: https://saemobilus.sae.org/standards/j2954_201605-wireless-power-transfer-light-duty-plug-electric-vehicles-alignment-methodology
+docidentifier:
+- content: SAE J2954_201605
+  type: SAE
+  primary: true
+- content: 10.4271/j2954_201605
+  type: DOI
+date:
+- type: approved
+  at: '2016-05-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE TIR J2954 establishes an industry-wide specification guideline that defines acceptable criteria for interoperability, electromagnetic compatibility, minimum performance, safety and testing for wireless charging of light duty electric and plug-in electric vehicles. The current version addresses unidirectional charging, from grid to vehicle, but bidirectional energy transfer may be evaluated for a future standard. The specification defines various charging levels that are based on the levels defined for SAE J1772 conductive AC charge levels 1, 2 and 3, with some variations. A standard for wireless power transfer (WPT) based on these charge levels will enable selection of a charging rate based on vehicle requirements, thus allowing for better vehicle packaging, and ease of customer use. The specification supports home (private) charging and public wireless charging.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is anticipated, that, in the near term, vehicles that are capable to be charged wirelessly under this Technical Information Report (TIR) should also be able to be charged by SAE J1772 plug in chargers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This TIR is planned to be standardized after the 2016 timeframe after receiving field data. The contents, including frequency, parameters, specifications, procedures and other contents of this TIR are to be re-evaluated at that time to allow for additional developments and future innovations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE TIR J2954 is intended to be used for stationary applications (charging while vehicle is not in motion). Dynamic applications may be considered in the future based on industry feedback.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE TIR J2954 is meant to be used for interoperability testing, where a single master coil has been chosen for the WPT Power Class 1, per Z classes (1 and 2), however, there are two reference options for WPT 2 per Z-classes (1 through 3). In the future standard SAE J2954, the majority of team members believe there should be only one Master Vehicle Assembly Coil per each WPT Class and per Z-Class.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

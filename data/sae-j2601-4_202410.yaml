@@ -1,0 +1,62 @@
+---
+id: SAEJ26014_202410
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Ambient Temperature Variable and Fixed-Orifice Fueling Protocols for Light-Duty
+    Gaseous Hydrogen Surface Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2601/4_202410
+- type: src
+  content: https://saemobilus.sae.org/standards/j26014_202410-ambient-temperature-variable-fixed-orifice-fueling-protocols-light-duty-gaseous-hydrogen-surface-vehicles
+docidentifier:
+- content: SAE J2601/4_202410
+  type: SAE
+  primary: true
+- content: 10.4271/j2601/4_202410
+  type: DOI
+date:
+- type: approved
+  at: '2024-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Cell Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE J2601-4 establishes process limits for ambient temperature hydrogen fueling of light-duty automotive vehicles, passenger cars, and trucks that use a compressed hydrogen storage system (CHSS) that meets SAE J2579, where ambient temperature hydrogen fueling is defined as a fueling event where the fuel delivery temperature is greater (e.g., warmer) than the precooled requirements of SAE J2601.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Table 1&lt;/span&gt; depicts the scope of SAE J2601-4 and potential work items for future revisions within this or other documents of the SAE J2601 series. SAE J2601 includes protocols that are applicable for two pressure classes (35 MPa and 70 MPa), three fuel delivery temperature categories (-40 °C, -30 °C, and -20 °C) and CHSS sizes from 49.7 to 248.6 L. Future versions of SAE J2601 may incorporate warmer fuel delivery temperatures (-10 °C and ambient) and smaller compressed hydrogen storage systems for motorcycles and other light-duty applications.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Fueling protocols should be developed based on a set of key assumptions described in &lt;span class="xref"&gt;Section 7&lt;/span&gt; and &lt;span class="xref"&gt;Appendix A&lt;/span&gt; of J2601. These assumptions should be carefully considered in the development and implementation of an onboard CHSS. In particular, hydrogen storage systems with properties that do not fall within the parameters in Table A3 of SAE J2601 should be further evaluated with protocols developed based on the process limits described in this Technical Information Report (TIR).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For fueling with communications, this TIR is to be used in conjunction with SAE J2799.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document focuses on the fueling protocol and the equipment necessary to implement the fueling protocol properly. Other requirements may be necessary to operate the station in a proper manner.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

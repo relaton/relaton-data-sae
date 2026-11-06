@@ -1,0 +1,56 @@
+---
+id: SAEMA2093
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fitting End, Dimensions, Fluid Systems Port Connection, Metric
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma2093
+- type: src
+  content: https://saemobilus.sae.org/standards/ma2093-fitting-end-dimensions-fluid-systems-port-connection-metric
+docidentifier:
+- content: SAE MA2093
+  type: SAE
+  primary: true
+- content: 10.4271/ma2093
+  type: DOI
+date:
+- type: approved
+  at: '2012-11-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This design standard specifies the dimensions of the externally threaded fitting end to be assembled into an internally threaded fluid system port, using an elastomeric o-ring for sealing. Fitting end dimensions and o-ring sizes agree with ISO 7320-1985.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,49 @@
+---
+id: SAEARP1279A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standard Indoor Method of Collection and Presentation of the Bare Turboshaft
+    Engine Noise Data for Use in Helicopter Installations
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1279a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1279a-standard-indoor-method-collection-presentation-bare-turboshaft-engine-noise-data-use-helicopter-installations
+docidentifier:
+- content: SAE ARP1279A
+  type: SAE
+  primary: true
+- content: 10.4271/arp1279a
+  type: DOI
+date:
+- type: approved
+  at: '2023-12-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-21 Aircraft Noise Measurement Aviation Emission Modeling
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

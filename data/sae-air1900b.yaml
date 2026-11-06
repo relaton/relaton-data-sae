@@ -1,0 +1,57 @@
+---
+id: SAEAIR1900B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guide to Temperature Monitoring in Aircraft Gas Turbine Engines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1900b
+- type: src
+  content: https://saemobilus.sae.org/standards/air1900b-guide-temperature-monitoring-aircraft-gas-turbine-engines
+docidentifier:
+- content: SAE AIR1900B
+  type: SAE
+  primary: true
+- content: 10.4271/air1900b
+  type: DOI
+date:
+- type: approved
+  at: '2023-09-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides an overview of temperature measurement techniques for various locations of aircraft gas turbine engines while focusing on current usage and methods, systems, selection criteria, and types of hardware.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

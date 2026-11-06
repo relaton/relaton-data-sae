@@ -1,0 +1,57 @@
+---
+id: SAEAS16511
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Insert Arrangements for MIL-C-5015, MIL-C-22992 (Classes C, J, and R),
+    and MIL-C-83723 (Series II) Electrical Connectors
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as16511
+- type: src
+  content: https://saemobilus.sae.org/standards/as16511-insert-arrangements-mil-c-5015-mil-c-22992-classes-c-j-r-mil-c-83723-series-ii-electrical-connectors
+docidentifier:
+- content: SAE AS16511
+  type: SAE
+  primary: true
+- content: 10.4271/as16511
+  type: DOI
+date:
+- type: approved
+  at: '2004-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C1 Connectors Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard gives the dimensional requirements for insert arrangements used in MIL-C-5015, MIL-C-22992 (Classes C, J, and R), and MIL-C-83723 (Series II) electrical connectors.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAS5528C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Lubricant Application, Solid Film, Heat Cured, Corrosion Inhibiting
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5528c
+- type: src
+  content: https://saemobilus.sae.org/standards/as5528c-lubricant-application-solid-film-heat-cured-corrosion-inhibiting
+docidentifier:
+- content: SAE AS5528C
+  type: SAE
+  primary: true
+- content: 10.4271/as5528c
+  type: DOI
+date:
+- type: approved
+  at: '2016-06-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) establishes the surface pretreatment, temperature, and baking time required to cure AS5272 lubricant when it is applied over the surfaces of manufactured parts of various metals.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

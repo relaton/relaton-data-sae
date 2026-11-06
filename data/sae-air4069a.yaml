@@ -1,0 +1,82 @@
+---
+id: SAEAIR4069A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Sealing of Integral Fuel Tanks
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4069a
+- type: src
+  content: https://saemobilus.sae.org/standards/air4069a-sealing-integral-fuel-tanks
+docidentifier:
+- content: SAE AIR4069A
+  type: SAE
+  primary: true
+- content: 10.4271/air4069a
+  type: DOI
+date:
+- type: approved
+  at: '1998-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G9 Aerospace Sealing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) presents preferred practices for sealing of aircraft integral fuel tanks, including rework of applied fuel tank seals. It addresses engineering designs for integral fuel tanks as they are currently found in practice; and this document discusses the most practical and conservative methods for producing a reliable, sealed system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Design preferences for optimum sealing are not within the scope of this document. Such discussions can be found in the Air Force sponsored handbook, entitled Aircraft Integral Fuel Tank Design Handbook, AFWAL-TR-87-3078.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Key objectives of the fuel tank sealing process are to produce a sealing plane that is leak-free and corrosion resistant, especially at fastener locations, at environmental and operational conditions expected for the life of each air vehicle. Factors that can influence the outcome of this process are:&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Effective and efficient sealing of aircraft fuel tanks are prime considerations in commercial and military aircraft designs. Sealant fillets inside the tanks are considered to be primary seals.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Of nearly equal importance is corrosion control. Sealants are used for fuel containment and corrosion protection, but the purpose of use should never be confused. It is generally accepted, for example, that a major objective of faying-surface sealing is corrosion control. The faying-surface seal is not considered to be a primary seal, except in adhesive-bonded systems; the faying surface seal, however, plays an extremely important role as a secondary seal. It limits the length of a leak path and is a permanent, stable, protected, and essentially non-dislodgeable seal that is sandwiched between two surfaces. Extensive use of faying-surface sealing is highly recommended.&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;How well the basic design lends itself to good sealing (key design factors to consider include accessibility and minimal movement, among others)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The choice of sealant; where it is applied; how it is applied&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;How well the substrate surface is prepared&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Whether sealant fillet dimensions are optimum for air vehicle configuration and flight dynamics&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The degree of resistance of the sealant to the fluid and thermal environment&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;f&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The degree of engineering insurance -- i.e., application of adhesion promoters to sealant bond surfaces, application of organic topcoats over sealants, proper drainage of the fuel tank, etc. -- employed for technical risk reduction.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;Sealing philosophies differ within industry and government. However, as stated in &lt;span class="xref"&gt;3.1&lt;/span&gt;, there is much greater agreement than dispute. If a particular fuel tank sealing approach appears to be clearly more reliable, keeping production cycle time and costs in mind, it will be identified as a preferred method.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is based on technical opinions from a broad cross-section of engineering experts who specialize in aircraft sealing.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The user should consider the engineering requirements and options provided by this document; then develop an individual course (or plan) of action from a somewhat more informed position.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

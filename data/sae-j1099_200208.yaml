@@ -1,0 +1,57 @@
+---
+id: SAEJ1099_200208
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Technical Report on Low Cycle Fatigue Properties Ferrous and Non-Ferrous
+    Materials
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1099_200208
+- type: src
+  content: https://saemobilus.sae.org/standards/j1099_200208-technical-report-low-cycle-fatigue-properties-ferrous-non-ferrous-materials
+docidentifier:
+- content: SAE J1099_200208
+  type: SAE
+  primary: true
+- content: 10.4271/j1099_200208
+  type: DOI
+date:
+- type: approved
+  at: '2002-08-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Materials, Processes and Parts Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Information that provides design guidance in avoiding fatigue failures is outlined in this SAE Information Report. Of necessity, this report is brief, but it does provide a basis for approaching complex fatigue problems. Information presented here can be used in preliminary design estimates of fatigue life, the selection of materials and the analysis of service load and/or strain data. The data presented are for the “low cycle” or strain-controlled methods for predicting fatigue behavior. Note that these methods may not be appropriate for materials with internal defects, such as cast irons, which exhibit different tension and compression stress-strain behavior.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

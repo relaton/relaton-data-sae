@@ -1,0 +1,57 @@
+---
+id: SAEAMS4771G
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SILVER ALLOY BRAZING FILLER METAL 50Ag - 16Cd - 15.5Zn - 15.5Cu - 3.0Ni
+    1170 to 1270 °F (632 to 688 °C) Solidus-Liquidus Range
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4771g
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4771g-silver-alloy-brazing-filler-metal-50ag-16cd-155zn-155cu-30ni-1170-1270-f-632-688-c-solidus-liquidus-range
+docidentifier:
+- content: SAE AMS4771G
+  type: SAE
+  primary: true
+- content: 10.4271/ams4771g
+  type: DOI
+date:
+- type: approved
+  at: '1992-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a silver alloy in the form of wire, rod, sheet, strip, foil, pig, powder, shot, and chips and a viscous mixture (paste) of powder in a suitable binder.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

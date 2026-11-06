@@ -1,0 +1,57 @@
+---
+id: SAEARP5921
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Evaluation of Coking Propensity of Aviation Lubricants in an Air-Oil Mist
+    Environment using the Vapor Phase Coker
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5921
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5921-evaluation-coking-propensity-aviation-lubricants-air-oil-mist-environment-using-vapor-phase-coker
+docidentifier:
+- content: SAE ARP5921
+  type: SAE
+  primary: true
+- content: 10.4271/arp5921
+  type: DOI
+date:
+- type: approved
+  at: '2014-04-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-34 Propulsion Lubricants Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This method is designed to evaluate the coking propensity of synthetic ester-based aviation lubricants under two phase air-oil mist conditions as found in certain parts of a gas turbine engine, for instance, bearing chamber vent lines. Based on the results from round robin data in 2008–2009 from four laboratories, this method is currently intended to provide a comparison between lubricants as a research tool; it is not currently a satisfactory pass/fail test. At this juncture a reference oil may improve reproducibility (precision between laboratories); a formal precision statement will be given when there is satisfactory data and an agreed on, suitable reference oil if applicable.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,48 @@
+---
+id: SAEAS21231A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BEARING, PLAIN, SELF-ALIGNING, PTFE LINED, WIDE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as21231a
+- type: src
+  content: https://saemobilus.sae.org/standards/as21231a-bearing-plain-self-aligning-ptfe-lined-wide
+docidentifier:
+- content: SAE AS21231A
+  type: SAE
+  primary: true
+- content: 10.4271/as21231a
+  type: DOI
+date:
+- type: approved
+  at: '2012-02-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ACBG Plain Bearing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

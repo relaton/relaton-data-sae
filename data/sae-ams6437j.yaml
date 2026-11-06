@@ -1,0 +1,56 @@
+---
+id: SAEAMS6437J
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Sheet, Strip, and Plate 5.0Cr - 1.3Mo - 0.50V (0.38 - 0.43C) (H-11)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6437j
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6437j-steel-sheet-strip-plate-50cr-13mo-050v-038-043c-h-11
+docidentifier:
+- content: SAE AMS6437J
+  type: SAE
+  primary: true
+- content: 10.4271/ams6437j
+  type: DOI
+date:
+- type: approved
+  at: '2015-12-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;AMS6437J results from a Five Year Review and update of this specification that revises decarburization testing and reporting.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

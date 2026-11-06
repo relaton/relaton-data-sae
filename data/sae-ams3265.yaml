@@ -1,0 +1,57 @@
+---
+id: SAEAMS3265
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SEALING COMPOUND, POLYSULFIDE (T) RUBBER Nonchromated, Corrosion Inhibiting
+    for Intermittent Use to 340 °C (171 °F)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3265
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3265-sealing-compound-polysulfide-t-rubber-nonchromated-corrosion-inhibiting-intermittent-use-340-c-171-f
+docidentifier:
+- content: SAE AMS3265
+  type: SAE
+  primary: true
+- content: 10.4271/ams3265
+  type: DOI
+date:
+- type: approved
+  at: '1996-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G9 Aerospace Sealing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a polysulfide (T) rubber sealing compound with nonchromated corrosion inhibitors supplied as a two-component system which cures at room temperature.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

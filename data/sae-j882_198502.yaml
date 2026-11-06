@@ -1,0 +1,56 @@
+---
+id: SAEJ882_198502
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TEST METHOD FOR MEASURING THICKNESS OF AUTOMOTIVE TEXTILES AND PLASTICS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j882_198502
+- type: src
+  content: https://saemobilus.sae.org/standards/j882_198502-test-method-measuring-thickness-automotive-textiles-plastics
+docidentifier:
+- content: SAE J882_198502
+  type: SAE
+  primary: true
+- content: 10.4271/j882_198502
+  type: DOI
+date:
+- type: approved
+  at: '1985-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Textile and Flexible Plastics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This test is designed to measure the thickness of relatively flat textiles, plastics, and similar materials.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

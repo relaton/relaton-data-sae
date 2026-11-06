@@ -1,0 +1,58 @@
+---
+id: SAEARP1334A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GROUND EQUIPMENT REQUIREMENTS FOR COMPATIBILITY WITH AIRCRAFT UNIT LOAD
+    DEVICES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1334a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1334a-ground-equipment-requirements-compatibility-aircraft-unit-load-devices
+docidentifier:
+- content: SAE ARP1334A
+  type: SAE
+  primary: true
+- content: 10.4271/arp1334a
+  type: DOI
+date:
+- type: approved
+  at: '1984-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Included in this document are requirements for conveyor systems, guides, stops, restraint hardware that are used on trucks, transporters, dollies, storage provisions, pallet build-up hoists, or other device-handling equipment.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These requirements reflect state of the art criteria applied to known successfully operated hardware. Any design deviations shall be required to demonstrate equivalency to this specification criteria.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

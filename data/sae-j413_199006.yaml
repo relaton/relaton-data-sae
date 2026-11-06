@@ -1,0 +1,62 @@
+---
+id: SAEJ413_199006
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MECHANICAL PROPERTIES OF HEAT TREATED WROUGHT STEELS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j413_199006
+- type: src
+  content: https://saemobilus.sae.org/standards/j413_199006-mechanical-properties-heat-treated-wrought-steels
+docidentifier:
+- content: SAE J413_199006
+  type: SAE
+  primary: true
+- content: 10.4271/j413_199006
+  type: DOI
+date:
+- type: approved
+  at: '1990-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Carbon and Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The figures in this SAE Information Report illustrate the principle that, regardless of composition, steels of the same cross sectional hardness produced by tempering after through hardening, will have approximately the same longitudinal&lt;sup&gt;&lt;span class="xref"&gt;1&lt;/span&gt;&lt;/sup&gt; tensile strength at room temperature.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Figure 1&lt;/span&gt; shows the relation between hardness and longitudinal tensile strength of 0.30 to 0.50% carbon steels in the fully hardened and tempered, as rolled, normalized, and annealed conditions. &lt;span class="xref"&gt;Figure 2&lt;/span&gt; showing the relation between longitudinal tensile strength and yield strength, and &lt;span class="xref"&gt;Figure 3&lt;/span&gt; illustrating longitudinal tensile strength versus reduction of area, are typical of steels in the quenched and tempered condition. &lt;span class="xref"&gt;Figure 3&lt;/span&gt; shows the direct relationship between ductility and hardness and illustrates the fact that the reduction of area decreases as hardness increases, and that, for a given hardness, the reduction of area is generally higher for alloy steels than for plain carbon steels.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is evident from these curves that steels of the same cross sectional hardness have about the same strength characteristics, so that any one of several different compositions would yield the same results. For some specific application then, the first thing to be determined is what composition is required to obtain proper hardening in the size section involved. This information is not contained in mechanical property charts, but can be determined from published data or by means of a hardenability test. Methods of making this hardenability test and interpretation of the test results are provided in SAE J406b.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Having selected a steel that will through harden in the size section under consideration, the engineer must decide from the service stresses imposed on the finished part what tensile properties are required in the part. These tensile properties may then be converted to hardness values from the figures given here; and from &lt;span class="xref"&gt;Figure 4&lt;/span&gt; showing the effect of tempering temperature on hardness, the appropriate tempering temperature to obtain this hardness can be selected. In &lt;span class="xref"&gt;Figure 4&lt;/span&gt; the curves are approximate values to be used as a guide. Carbon steels and lean alloy steels, when fully hardened, will fall slightly below the curves and strongly alloyed steels will fall slightly above the curves.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Figure 4&lt;/span&gt; showing the effect of tempering temperature on hardness is a summary of information contained in a large number of mechanical property charts published by steel companies, alloy suppliers and users. These charts represent, as do the charts on tensile, yield strengths, and reduction of area, data on all SAE alloy and carbon steels with carbon contents of 0.30 to 0.50%.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Mechanical property values obtained from these few summary figures will be as accurate as the information formerly available in a large number of charts, each representing an individual type of steel. For more exact information it would be necessary to make tests on samples from individual heats of steel.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

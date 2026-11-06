@@ -1,0 +1,56 @@
+---
+id: SAEARP1623A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guide for Preparing An ECS Computer Program User's Manual
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1623a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1623a-guide-preparing-ecs-computer-program-users-manual
+docidentifier:
+- content: SAE ARP1623A
+  type: SAE
+  primary: true
+- content: 10.4271/arp1623a
+  type: DOI
+date:
+- type: approved
+  at: '1997-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The purpose of this recommended practice is to provide aircraft industry
+    with guidelines as to the pertinent information which should be contained in a
+    user's manual for an environmental control system (ECS) computer program.  This
+    recommended practice is intended to facilitate the preparation  of a user's manual
+    without unduly restricting its format or content.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEARP921
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FLIGHT TEST PROCEDURES FOR STATIC PRESSURE SYSTEMS INSTALLED IN SUBSONIC
+    TRANSPORT AIRCRAFT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp921
+- type: src
+  content: https://saemobilus.sae.org/standards/arp921-flight-test-procedures-static-pressure-systems-installed-subsonic-transport-aircraft
+docidentifier:
+- content: SAE ARP921
+  type: SAE
+  primary: true
+- content: 10.4271/arp921
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4 Aircraft Instruments Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice covers the test procedures and equipment for performing flight testing on pitot-static systems installed in subsonic transport type aircraft.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

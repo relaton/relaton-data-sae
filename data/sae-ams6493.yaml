@@ -1,0 +1,57 @@
+---
+id: SAEAMS6493
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Bars, Forgings, and Tubing 1.0Cr – 3.25Ni – 0.40Mo (0.17 – 0.22C)
+    Premium Aircraft-Quality Electroslag Remelted or Consumable Electrode Vacuum Remelted
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6493
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6493-steel-bars-forgings-tubing-10cr-325ni-040mo-017-022c-premium-aircraft-quality-electroslag-remelted-consumable-electrode-vacuum-remelted
+docidentifier:
+- content: SAE AMS6493
+  type: SAE
+  primary: true
+- content: 10.4271/ams6493
+  type: DOI
+date:
+- type: approved
+  at: '2009-09-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a premium aircraft-quality, low-alloy steel in the form of bars, forgings, mechanical tubing, and forging stock.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

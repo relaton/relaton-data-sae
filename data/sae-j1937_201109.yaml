@@ -1,0 +1,73 @@
+---
+id: SAEJ1937_201109
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Engine Testing with Low-Temperature Charge Air-cooler Systems in a Dynamometer
+    Test Cell
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1937_201109
+- type: src
+  content: https://saemobilus.sae.org/standards/j1937_201109-engine-testing-low-temperature-charge-air-cooler-systems-a-dynamometer-test-cell
+docidentifier:
+- content: SAE J1937_201109
+  type: SAE
+  primary: true
+- content: 10.4271/j1937_201109
+  type: DOI
+date:
+- type: approved
+  at: '2011-09-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: SAE IC Powertrain Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The methods presented in this SAE Recommended Practice apply to the controlled testing of low-temperature charge, air-cooled, heavy-duty diesel engines. This document encompasses the following main sections:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Definitions of pertinent parameters&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Vehicle testing to determine typical values for these parameters&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Description of the setup and operation of the test cell system&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Validation testing of the test cell system&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;While not covered in this document, computer modeling of the vehicle engine cooler system is recognized as a valid tool to determine cooler system performance and could be utilized to supplement the testing described. However, adequate in-vehicle testing should be performed to validate the model before it is used for the purposes outlined.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The procedure makes references to test cycles that are prescribed by the United States Environmental Protection Agency (US EPA) and are contained in the Code of Federal Regulations. The existence of other international test cycles, which can be used for validation testing, is acknowledged.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

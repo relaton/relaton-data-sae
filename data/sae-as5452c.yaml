@@ -1,0 +1,69 @@
+---
+id: SAEAS5452C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Night Vision Goggles (NVG) Compatible Lighting for Civil Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5452c
+- type: src
+  content: https://saemobilus.sae.org/standards/as5452c-night-vision-goggles-nvg-compatible-lighting-civil-aircraft
+docidentifier:
+- content: SAE AS5452C
+  type: SAE
+  primary: true
+- content: 10.4271/as5452c
+  type: DOI
+date:
+- type: approved
+  at: '2026-03-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-20A Crew Station Lighting
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) will specify what type of NVGs are required and minimum requirements for compatible crew station lighting, aircraft exterior lighting such as anti-collision lights, and position/navigation lights that are “NVG compatible.” Also, this document is intended to set standards for NVG utilization for aircraft so that special use aircraft such as the Coast Guard, Border Patrol, Air Rescue, Police Department, Medivacs, etc., will be better equipped to chase drug smugglers and catch illegal immigrants, rescue people in distress, reduce high-speed chases through city streets by police, etc. Test programs and pilot operator programs are required.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For those people designing or modifying civil aircraft to be NVG compatible, the documents listed in &lt;span class="xref"&gt;2.1.3&lt;/span&gt; are essential.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

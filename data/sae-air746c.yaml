@@ -1,0 +1,57 @@
+---
+id: SAEAIR746C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Environmental Control for Civil Supersonic Transport
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air746c
+- type: src
+  content: https://saemobilus.sae.org/standards/air746c-environmental-control-civil-supersonic-transport
+docidentifier:
+- content: SAE AIR746C
+  type: SAE
+  primary: true
+- content: 10.4271/air746c
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document supplements ARP85, to extend its use in the design of ECS for supersonic transports. The ECS provides an environment controlled within specified operational limits of comfort and safety, for humans, animals, and equipment. These limits include pressure, temperature, humidity, conditioned air velocity, ventilation rate, thermal radiation, wall temperature, audible noise, vibration, and composition (ozone, contaminants, etc.) of the environment. The ECS is comprised of equipment, controls, and indicators that supply and distribute conditioned air to the occupied compartments. This system is defined within the ATA 100 specification, Chapter 21. It interfaces with the pneumatic system (Chapter 36 of ATA 100), at the inlet of the air conditioning system shutoff valves.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,61 @@
+---
+id: SAEJ195_201107
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Automatic Vehicle Speed Control-Motor Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j195_201107
+- type: src
+  content: https://saemobilus.sae.org/standards/j195_201107-automatic-vehicle-speed-control-motor-vehicles
+docidentifier:
+- content: SAE J195_201107
+  type: SAE
+  primary: true
+- content: 10.4271/j195_201107
+  type: DOI
+date:
+- type: approved
+  at: '2011-07-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Controls and Displays Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>The purpose of this SAE Recommended Practice is to provide a series
+    of engineering guidelines for the design of an automatic vehicle speed control,
+    and to define the minimum control performance which a device must provide in order
+    to be classified an automatic vehicle speed control. An automatic vehicle speed
+    control is a device capable of maintaining selected vehicle speeds in the presence
+    of changing road load conditions. This SAE Recommended Practice is intended to
+    apply only to the design of an automatic vehicle speed control.  It is not intended
+    to encourage or discourage the installation of automatic vehicle speed controls
+    on any class of vehicles, nor is it intended to influence the requirements of
+    engine speed governors.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

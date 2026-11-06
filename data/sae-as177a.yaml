@@ -1,0 +1,56 @@
+---
+id: SAEAS177A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: OPERATING INSTRUCTIONS FOR AIRCRAFT ENGINES (PREPARATION OF)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as177a
+- type: src
+  content: https://saemobilus.sae.org/standards/as177a-operating-instructions-aircraft-engines-preparation
+docidentifier:
+- content: SAE AS177A
+  type: SAE
+  primary: true
+- content: 10.4271/as177a
+  type: DOI
+date:
+- type: approved
+  at: '1995-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the requirements for format and outline of contents of operating instructions in published form or in manuscript form suitable for publication.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

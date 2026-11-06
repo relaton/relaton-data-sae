@@ -1,0 +1,74 @@
+---
+id: SAEJ1666_200210
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electric Vehicle Acceleration, Gradeability, and Deceleration Test Procedure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1666_200210
+- type: src
+  content: https://saemobilus.sae.org/standards/j1666_200210-electric-vehicle-acceleration-gradeability-deceleration-test-procedure
+docidentifier:
+- content: SAE J1666_200210
+  type: SAE
+  primary: true
+- content: 10.4271/j1666_200210
+  type: DOI
+date:
+- type: approved
+  at: '2002-10-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Light Duty Vehicle Performance and Economy Measure Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes uniform procedures for testing electric battery-powered vehicles which are capable of being operated on public and private roads. It is the intent of this document to provide standard tests which will allow various performance characteristics of electric vehicles to be cross-compared on a common basis in specifications, technical papers, and engineering discussions. The tests concern attributes of the total vehicle system rather than those of its subsystems and components. Tests of components such as batteries are the subject of separate procedures.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The road tests specified in this document are recommended for use whenever possible particularly to establish vehicle performance specifications. The dynamometer procedures are included primarily to facilitate development testing.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Section 3&lt;/span&gt; provides definitions of terminology used in this document. &lt;span class="xref"&gt;Section 4&lt;/span&gt; specifies test conditions and instrumentation which are to be used for all the tests specified in this document while &lt;span class="xref"&gt;Section 5&lt;/span&gt; identifies the data which are to be recorded for all tests. The specific tests covered by this document are:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Acceleration Characteristics on a Level Road (&lt;span class="xref"&gt;Section 6&lt;/span&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Gradeability Limit (&lt;span class="xref"&gt;Section 7&lt;/span&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Gradeability at Speed (&lt;span class="xref"&gt;Section 8&lt;/span&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Deceleration (&lt;span class="xref"&gt;Section 9&lt;/span&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Coastdown Testing (&lt;span class="xref"&gt;Section 10&lt;/span&gt;)&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

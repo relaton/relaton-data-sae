@@ -1,0 +1,56 @@
+---
+id: SAEAMS4189G
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy Welding Wire 4.1Si - 0.20 Mg (4643)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4189g
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4189g-aluminum-alloy-welding-wire-41si-020-mg-4643
+docidentifier:
+- content: SAE AMS4189G
+  type: SAE
+  primary: true
+- content: 10.4271/ams4189g
+  type: DOI
+date:
+- type: approved
+  at: '2007-08-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of welding wire.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

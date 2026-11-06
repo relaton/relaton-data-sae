@@ -1,0 +1,61 @@
+---
+id: SAEJ29542_202212
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Wireless Power Transfer for Heavy-Duty Electric Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2954/2_202212
+- type: src
+  content: https://saemobilus.sae.org/standards/j29542_202212-wireless-power-transfer-heavy-duty-electric-vehicles
+docidentifier:
+- content: SAE J2954/2_202212
+  type: SAE
+  primary: true
+- content: 10.4271/j2954/2_202212
+  type: DOI
+date:
+- type: approved
+  at: '2022-12-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The published SAE J2954 standard established an industry-wide specification that defines acceptable criteria for interoperability, electromagnetic compatibility, EMF, minimum performance, safety, and testing for wireless power transfer (WPT) for light-duty plug-in electric vehicles. This SAE Information Report, SAE J2954/2, defines new power transfer levels in the higher power ranges needed for heavy-duty electric vehicles. This document addresses the requirements based on these charge levels and different vehicle applications as a first step in the process of completing a standard that the industry can use, both for private (fleet) and public wireless power transfer, including for charging electric vehicle batteries.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is the first step in a process towards HD static and dynamic WPT. This document lacks specific requirements and solutions, for which field data is needed. This document is not intended to be a guideline to enable manufacturers to design systems with minimal assistance; the goal is to inform readers about many of the things to consider in addressing this market and is an outline for the SAE J2954/2 committee for continued work. Based on data, there will be much more detail in the next version of this document. This document represents experience from the SAE J2954 light-duty standard along with active participation of industry providers developing and deploying non-standardized HD wireless power transfer systems with the goal of creating standardized systems in the future.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J2954/2 addresses unidirectional power transfer, from grid to vehicle; bidirectional transfer may be evaluated for a future document. This document is intended to be used in stationary applications (power transfer while vehicle is not in motion) and some dynamic applications.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J2954/2 covers requirements for safety, performance, and interoperability. Further development of detailed requirements will be based on performance-based evaluations of candidate designs, including evaluations against electrical safety and human safety standards.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J2954/2 also covers recommended methods for evaluating electromagnetic emissions, but the requirements and test procedures are controlled by regulatory bodies.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

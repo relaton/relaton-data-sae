@@ -1,0 +1,57 @@
+---
+id: SAEAMS6470K
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Nitriding, Bars, Forgings, and Tubing 1.6Cr - 0.35Mo - 1.1Al (0.38
+    - 0.43C)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6470k
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6470k-steel-nitriding-bars-forgings-tubing-16cr-035mo-11al-038-043c
+docidentifier:
+- content: SAE AMS6470K
+  type: SAE
+  primary: true
+- content: 10.4271/ams6470k
+  type: DOI
+date:
+- type: approved
+  at: '2000-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aircraft-quality nitriding grade low-alloy steel in the form of bars, forgings, mechanical tubing, and forging stock.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEAIR810D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Degradation Limits of Hydrocarbon-Based Hydraulic Fluids, MIL-PRF-5606,
+    MIL-PRF-83282, and MIL-PRF-87257 Used in Hydraulic Test Stands
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air810d
+- type: src
+  content: https://saemobilus.sae.org/standards/air810d-degradation-limits-hydrocarbon-based-hydraulic-fluids-mil-prf-5606-mil-prf-83282-mil-prf-87257-used-hydraulic-test-stands
+docidentifier:
+- content: SAE AIR810D
+  type: SAE
+  primary: true
+- content: 10.4271/air810d
+  type: DOI
+date:
+- type: approved
+  at: '2013-04-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) presents data on normally accepted changes in physical properties and contamination levels for military hydraulic fluids used in hydraulic test stands. This information is of importance to all users of hydraulic test stands to assure the performance data obtained on these test stands for specific components will not be adversely affected by excessive changes in fluid properties or contamination levels. The data pertains to fluids conforming to specifications MIL-PRF-5606, MIL-PRF-83282, and MIL-PRF-87257. The guidelines incorporated in the AIR are the general consensus values of knowledgeable professionals. However, the experience and judgment of engineers and operators responsible for the equipment must be relied upon to determine when the hydraulic fluid is to be replaced.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

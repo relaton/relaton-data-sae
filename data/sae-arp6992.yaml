@@ -1,0 +1,56 @@
+---
+id: SAEARP6992
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Evaluation of Thermal Stability and Corrosivity of Aviation Lubricants
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6992
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6992-evaluation-thermal-stability-corrosivity-aviation-lubricants
+docidentifier:
+- content: SAE ARP6992
+  type: SAE
+  primary: true
+- content: 10.4271/arp6992
+  type: DOI
+date:
+- type: approved
+  at: '2024-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-34 Propulsion Lubricants Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This test method describes a standardized process to evaluate an aviation lubricant’s resistance to thermal degradation and to evaluate the fluid’s tendency to corrode a steel specimen. Fluids are evaluated in an environment free of both air and moisture at a specified temperature and for a specified time period.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

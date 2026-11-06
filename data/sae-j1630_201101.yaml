@@ -1,0 +1,56 @@
+---
+id: SAEJ1630_201101
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Airbag Module Deployment Test Procedure
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1630_201101
+- type: src
+  content: https://saemobilus.sae.org/standards/j1630_201101-airbag-module-deployment-test-procedure
+docidentifier:
+- content: SAE J1630_201101
+  type: SAE
+  primary: true
+- content: 10.4271/j1630_201101
+  type: DOI
+date:
+- type: approved
+  at: '2011-01-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Inflatable Restraints Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice describes a method to be used for the static deployment of airbag module assemblies. The results obtained from the deployment tests will be used to verify compliance with design requirements and/or specifications, and for other engineering purposes such as module performance comparisons, and/or CAE input or validation. The purpose for this procedure is to describe recommended test methods to ensure, to the extent possible, reliable and reproducible test results for driver airbag modules, passenger airbag modules, or other airbag modules (e.g., side airbags, roof rail airbags, knee bolster airbags, etc.). Performance limits or acceptance criteria are not established as they are typically defined based on specific vehicle design requirements and/or manufacturer specifications. It is intended to be a general procedure for repetitive testing and suggests only general guidelines for the safe conduct of tests and reliable data correlation.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,196 @@
+---
+id: SAEAIR5715
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Procedure for the Calculation of Aircraft Emissions
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5715
+- type: src
+  content: https://saemobilus.sae.org/standards/air5715-procedure-calculation-aircraft-emissions
+docidentifier:
+- content: SAE AIR5715
+  type: SAE
+  primary: true
+- content: 10.4271/air5715
+  type: DOI
+date:
+- type: approved
+  at: '2009-07-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-21 Aircraft Noise Measurement Aviation Emission Modeling
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AIR describes procedures for calculating emissions resulting from the main engines of commercial jet and turboprop aircraft through all modes of operation for all segments of a flight. Piston engine aircraft emissions are not included in this AIR. Some information about piston engine aircraft emissions can be found in FOCA 2007. The principal purpose of the procedures is to assist model developers in calculating aircraft emissions in a consistent and accurate manner that can be used to address various environmental assessments including those related to policy decisions and regulatory requirements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The pollutants considered in this document are:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Nitrogen Oxides (NOx)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Carbon Monoxide (CO)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Total unburned Hydrocarbons (THC)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Carbon Dioxide (CO&lt;sub&gt;2&lt;/sub&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Water (H&lt;sub&gt;2&lt;/sub&gt;O)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Sulfur Oxides (SOx)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Volatile Organic Compounds (VOC)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Methane (CH&lt;sub&gt;4&lt;/sub&gt;)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Non-Methane Hydrocarbons (NMHC)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Non-Methane Volatile Organic Compounds (NMVOC)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Nitrous Oxide (N&lt;sub&gt;2&lt;/sub&gt;O)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Particulate Matter (PM&lt;sub&gt;2.5&lt;/sub&gt; and PM&lt;sub&gt;10&lt;/sub&gt;)&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;As indicated above, hazardous air pollutants (HAPs) are not individually accounted for; many of these are simply included as part of THC. Also, trace metals are not included other than those that may already be accounted for as part of PM emissions. Since the scope is limited to aircraft engine emissions only, emissions from Ground Service Equipment (GSE), roadway vehicles, power plants, training fires, etc., are not included within this document. Athough Auxilliary Power Units (APU), brakes, and tires are also part of the aircraft, their emissions (e.g., tire wear) are not within the scope of this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The methods are based on aircraft performance and emissions modeling. This means that only the pollutants exiting the exhaust of an engine are considered. Any atmospheric effects including those that occur in the near-field (e.g., exhaust plume) and the subsequent atmospheric dispersion are not modeled. The exception to this is in the computation of PM emissions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In meeting the needs of modelers who may have varying fidelity requirements for both emissions and aircraft performance modeling, this document does not try to promote a single database and methodology. Therefore, several methods have been included in this document as indicated below with the emissions methods categorized by pollutants:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Emissions Modeling Methods&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;NOx, CO, and THC&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;▪&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;P3T3&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;▪&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Boeing Fuel Flow Method 2 (BFFM2)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;▪&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Deutsche Forschungsanstalt fur Luft- and Raumfahrt (DLR) Method&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;▪&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;International Civil Aviation Organization (ICAO) Reference Method&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;CO&lt;sub&gt;2&lt;/sub&gt;, H&lt;sub&gt;2&lt;/sub&gt;O, and SOx&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;▪&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Fuel Composition Method (FCM)&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;VOC, NMVOC, CH&lt;sub&gt;4&lt;/sub&gt; and NMTHC&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;▪&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Derivative Factor Method (DFM)&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;N&lt;sub&gt;2&lt;/sub&gt;O&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;▪&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Approximate Factor Method (AFM)&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;PM&lt;sub&gt;2.5&lt;/sub&gt; and PM&lt;sub&gt;10&lt;/sub&gt;&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;▪&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;First Order Approximation (FOA)&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Aircraft Performance Methods&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Aircraft performance data from flight data recorders&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Manufacturer aircraft performance models&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE AIR 1845 combined with Eurocontrol’s Base of Aircraft Data (BADA)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Eurocontrol’s BADA&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Other aircraft performance models such as the Project Interactive Analysis and Optimisation (PIANO) tool&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;Both of these sets of emissions and aircraft performance methods are listed in the order in which they are presented in this document. And as previously indicated, the order generally denotes the level of accuracy where the first method in each section represents the most accurate method based on current understanding. The exceptions to this are:&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Emissions Methods&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;BFFM2&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;DLR&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;Aircraft Performance&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE 1845 + BADA&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;BADA&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;The ordering of these methods are arbitrary since they are considered comparable (e.g., BFFM2 is comparable to DLR). One other possible exception is the last listing under aircraft performance methods (“Other aircraft performance models”). The data from these other sources may be more accurate, comparable, or less accurate than the previously mentioned methods. This last category was added to include all other methods that were not based on manufacturer, SAE 1845, and BADA models.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In order to provide a better understanding of the relative condition of these methods, they have been defined into development status (i.e., “mature” or “developing”) and fidelity (i.e., “simple,” “intermediate,” or “advanced”) categories as presented in &lt;span class="xref"&gt;Table 1&lt;/span&gt;.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;The “other” aircraft model category was not included in &lt;span class="xref"&gt;Table 1&lt;/span&gt; since it is understood that it can be listed in any of the categories depending on which method/model is employed. The definitions for each of the categories are as follows:&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;In modeling aircraft performance and emissions, the main focus is on a single flight. This includes the complete operation and movement of the aircraft from gate-to-gate:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Main engine start-up&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Ground taxi-out and delay activities&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Takeoff: Runway roll&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Takeoff: Initial ascent&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Climbout&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;En route/cruise&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Airborne delay activities&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Approach&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Landing roll&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Thrust reverser&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Ground taxi-in and delay activities&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Engine shut-down&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;For modeling purposes, these modes can generally be simplified so that they are equated to one of the four LTO modes. Depending on the method, the actual modeling of the gate-to-gate movement may involve a segment-by-segment approach where results can be integrated to obtain totals by mode and flight. Currently, the AIR does not address emissions during engine start-up and shut-down activities. Also, thrust reverse operations are not directly covered in this AIR.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

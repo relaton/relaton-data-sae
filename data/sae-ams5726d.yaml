@@ -1,0 +1,58 @@
+---
+id: SAEAMS5726D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Corrosion and Heat-Resistant, Bars and Wire 15Cr - 25.5Ni - 1.2Mo
+    - 2.1Ti - 0.006B - 0.30V 1800 °F (982 °C) Solution Heat Treated and Work-Strengthened
+    Consumable Electrode Melted 200 ksi (1379 MPa) Tensile Strength
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5726d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5726d-steel-corrosion-heat-resistant-bars-wire-15cr-255ni-12mo-21ti-0006b-030v-1800-f-982-c-solution-heat-treated-work-strengthened-consumable-electrode-melted-200-ksi-1379-mpa-tensile-strength
+docidentifier:
+- content: SAE AMS5726D
+  type: SAE
+  primary: true
+- content: 10.4271/ams5726d
+  type: DOI
+date:
+- type: approved
+  at: '2006-08-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat-resistant steel in the form of work-strengthened bars and wire 1-1/4 inches (31.8 mm) and under in nominal diameter or least distance between parallel sides.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

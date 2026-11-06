@@ -1,0 +1,59 @@
+---
+id: SAEAS620E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Hose Assemblies, Convoluted Polytetrafluoroethylene Metallic Reinforced,
+    High Temperature, Medium Pressure, Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as620e
+- type: src
+  content: https://saemobilus.sae.org/standards/as620e-hose-assemblies-convoluted-polytetrafluoroethylene-metallic-reinforced-high-temperature-medium-pressure-aircraft
+docidentifier:
+- content: SAE AS620E
+  type: SAE
+  primary: true
+- content: 10.4271/as620e
+  type: DOI
+date:
+- type: approved
+  at: '2007-01-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) defines the requirements for a convoluted polytetrafluoroethylene (PTFE) lined, metallic reinforced, hose assembly suitable for use in aircraft fluid systems at temperatures of -65 to 400 °F and at operating pressures per &lt;span class="xref"&gt;Table 1&lt;/span&gt;.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

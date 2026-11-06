@@ -1,0 +1,58 @@
+---
+id: SAEARP6152
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Tires Service Overload Capability
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6152
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6152-aircraft-tires-service-overload-capability
+docidentifier:
+- content: SAE ARP6152
+  type: SAE
+  primary: true
+- content: 10.4271/arp6152
+  type: DOI
+date:
+- type: approved
+  at: '2023-10-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5C Aircraft Tires Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) defines a procedure for demonstrating service overload capability for new, main and nose landing gear, radial or bias tires fitted on multiple wheel landing gear of Part 25 certified aircraft.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

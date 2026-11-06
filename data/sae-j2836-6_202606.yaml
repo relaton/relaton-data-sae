@@ -1,0 +1,73 @@
+---
+id: SAEJ28366_202606
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Use Cases for Wireless Charging Communication for Plug-in Electric Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2836/6_202606
+- type: src
+  content: https://saemobilus.sae.org/standards/j28366_202606-use-cases-wireless-charging-communication-plug-electric-vehicles
+docidentifier:
+- content: SAE J2836/6_202606
+  type: SAE
+  primary: true
+- content: 10.4271/j2836/6_202606
+  type: DOI
+date:
+- type: approved
+  at: '2026-06-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report SAE J2836/6 establishes use cases for communication between plug-in electric vehicles and the EVSE for wireless energy transfer as specified in SAE J2954. It addresses the requirements for communications between the on-board charging system and the wireless EV supply equipment (WEVSE) in support of detection of the WEVSE, the charging process, and monitoring of the charging process.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Since the communication to the charging infrastructure and the power grid for smart charging will also be communicated by the WEVSE to the EV over the wireless interface, these requirements are also covered. However, the processes and procedures are expected to be identical to those specified for V2G communications specified in SAE J2836/1.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Where relevant, the specification notes interactions that may be required between the vehicle and vehicle operator, but does not formally specify them. Similarly, communications between the on-board charging sub-system and the on-board vehicle electronics is not formally specified in this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document will be published as a set of steps. The intent of step 1 was to record as much information on “what we think works” and publish. The intent of step 2 is to provide refinement and missing pieces to step 1, with a an eye to early testing.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This version is step 2, with the aim of providing a communication protocol for home chargers.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

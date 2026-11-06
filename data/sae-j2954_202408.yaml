@@ -1,0 +1,64 @@
+---
+id: SAEJ2954_202408
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Wireless Power Transfer for Light-Duty Plug-in/Electric Vehicles and Alignment
+    Methodology
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2954_202408
+- type: src
+  content: https://saemobilus.sae.org/standards/j2954_202408-wireless-power-transfer-light-duty-plug-electric-vehicles-alignment-methodology
+docidentifier:
+- content: SAE J2954_202408
+  type: SAE
+  primary: true
+- content: 10.4271/j2954_202408
+  type: DOI
+date:
+- type: approved
+  at: '2024-08-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The SAE J2954 standard establishes an industry-wide specification that defines acceptable criteria for interoperability, electromagnetic compatibility, EMF, minimum performance, safety, and testing for wireless power transfer (WPT) of light-duty plug-in electric vehicles. The specification defines three charging levels up to 11 kVA and in future revisions up to 22 kVA. A standard for WPT based on these charge levels enables selection of a charging rate based on vehicle requirements, thus allowing for better vehicle packaging and ease of customer use. This is meant to be used in conjunction with communications standard SAE J2847/6 and use cases J2836/6 and ground assembly WPT Certification UL 2750. The specification supports home (private) charging and public wireless charging.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In the near term, vehicles that are able to be charged wirelessly under SAE J2954 should also be able to be charged conductively by SAE J1772 plug-in chargers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard addresses stationary light-duty applications (charging while vehicle is not in motion); heavy-duty applications are considered in SAE J2954/2 and dynamic applications are to be specified in SAE J2954/3. In this version, only above-ground (surface-mounted) installations are covered; flush-mounted installations have been discussed and are planned to be specified in the next revision. SAE J2954 contains requirements for safety, performance, and interoperability. It also contains recommended methods for evaluating electromagnetic emissions, but the requirements and test procedures are controlled by regulatory bodies. Development of the interoperability requirements in this standard employed a performance-based evaluation of candidate designs using a standardized Test Station and procedures, resulting in defining reference devices that are used to determine acceptable performance of products.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;While this version of SAE J2954 explicitly specifies unidirectional WPT in the forward direction (from grid to vehicle), the next revision of this document is planned to also address testing and communication requirements for bidirectional transfer. V2G WPT may be integrated into future product applications for overnight fleet or home-based charging systems that aim to support regional smart grid interactions. That is, requirements for also transferring energy in the reverse direction using the vehicle high voltage energy storage to provide power to loads on the infrastructure side. The specific requirements for connecting back to the grid, to other vehicles, or to external devices are covered in other SAE standards. SAE J2954 will provide grid-equivalent voltage and current by sourcing it from the vehicle battery system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Until the time SAE J2954 explicitly covers bidirectional energy transfer as a standard, some sections of this current version are directly applicable to evaluate certain aspects in the development of bidirectional systems. Bidirectional V2G, WPT is to be used in conjunction per standards SAE J3072 and SAE J2836/3 (and applicable IEEE and UL standards).&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

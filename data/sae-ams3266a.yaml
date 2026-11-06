@@ -1,0 +1,56 @@
+---
+id: SAEAMS3266A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Sealing Compound, Polythioether Elastomeric Two-Part Electrically Conductive
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3266a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams3266a-sealing-compound-polythioether-elastomeric-two-part-electrically-conductive
+docidentifier:
+- content: SAE AMS3266A
+  type: SAE
+  primary: true
+- content: 10.4271/ams3266a
+  type: DOI
+date:
+- type: approved
+  at: '2017-02-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G9 Aerospace Sealing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers two types of electrically conductive, elastomeric polythioether sealing compounds that cure at room temperature. The sealing compound is supplied as either a two-component system or as premixed and frozen.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

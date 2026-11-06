@@ -1,0 +1,60 @@
+---
+id: SAEJ826_200206
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: H-Point Machine and Design Tool Procedures and Specifications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j826_200206
+- type: src
+  content: https://saemobilus.sae.org/standards/j826_200206-h-point-machine-design-tool-procedures-specifications
+docidentifier:
+- content: SAE J826_200206
+  type: SAE
+  primary: true
+- content: 10.4271/j826_200206
+  type: DOI
+date:
+- type: approved
+  at: '2002-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Human Accom and Design Devices Stds Comm
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The devices described in this document provide a method for a reliable layout and measurement of occupant seating compartments and/or seats. &lt;b&gt;They are not to be construed as tools that measure or indicate occupant capabilities or comfort.&lt;/b&gt;&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The devices are intended for applications at designated seating positions. They are not intended for use in defining or assessing temporary seating, such as folding jump seats.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;When using the H-Point Machine (HPM); interactions can occur between adjacent seating positions (i.e., having an HPM installed at the center occupant position can change the results obtained for the outboard occupant position). Therefore, only one machine should be installed in a particular row of seats during each test.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

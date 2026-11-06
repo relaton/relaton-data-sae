@@ -1,0 +1,72 @@
+---
+id: SAEARP7302
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Sampling, Conformance Strategies, and Recommended Practices for Closed
+    Loop Processing of Powder for Additive Manufacturing
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp7302
+- type: src
+  content: https://saemobilus.sae.org/standards/arp7302-sampling-conformance-strategies-recommended-practices-closed-loop-processing-powder-additive-manufacturing
+docidentifier:
+- content: SAE ARP7302
+  type: SAE
+  primary: true
+- content: 10.4271/arp7302
+  type: DOI
+date:
+- type: approved
+  at: '2026-04-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS AM Additive Manufacturing Metals
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) establishes methods and identifies opportunities to sample used powder feedstock circulating within closed loop equipment of an additive manufacturing (AM) process for the purpose of showing conformance to a powder specification.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Powder within the entirety of closed loop equipment cannot be represented by sampling and testing of discrete, in-process lots. Because powder processing (i.e., reconditioning, conveyance, and storage) is asynchronous with a build cycle, individual samples and their associated tests do not represent the totality of powder committed to a machine. Powder consumed as part of an individual build cycle may only represent a subset of feedstock in circulation within such equipment. Therefore, regular testing to substantiate conformance to a powder specification is required to assert conforming feedstock was consumed during individual build cycles of the AM workflow to fabricate parts or preforms.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Operation of some installations of closed loop equipment may not have sufficient control because they lack identified, monitored, and measured key process variables (KPVs). This recommended practice is intended to support such unmonitored operations where maintenance of system attributes is difficult or impossible. In such circumstances, the substantiation evidence to establish conformance of powder feedstock to its specification is required with every build cycle when producing parts.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Other specifications may establish a framework to identify and set limits on control variables to sustain system attributes required to assert continued conformance of circulating powder to requirements (e.g., controlled atmosphere and its impact on surface reactive elements). However, such a control framework as part of an aerospace process specification is out of the scope for this recommended practice. This document also establishes terms and definitions that may be referenced in other SAE documents and specifications where closed loop equipment operation is invoked or controlled.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

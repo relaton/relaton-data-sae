@@ -1,0 +1,59 @@
+---
+id: SAEAIR1828A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: GUIDE TO ENGINE OIL SYSTEM MONITORING
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1828a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1828a-guide-engine-oil-system-monitoring
+docidentifier:
+- content: SAE AIR1828A
+  type: SAE
+  primary: true
+- content: 10.4271/air1828a
+  type: DOI
+date:
+- type: approved
+  at: '1992-01-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Aerospace Information Report (AIR) is to provide information and guidance for the selection and use of oil system monitoring devices and methods.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This AIR is intended to be used as a technical guide. It is not intended to be used as a legal document or standard.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The scope of this document is limited to those inspection and analysis methods and devices that can be considered appropriate for routine maintenance.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In agreement with industry usage, wear particle size ranges are given in micrometers (1 &lt;i&gt;μ&lt;/i&gt;m = 10&lt;sup&gt;-3&lt;/sup&gt; mm = 10&lt;sup&gt;-6&lt;/sup&gt; m).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

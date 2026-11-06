@@ -1,0 +1,60 @@
+---
+id: SAEJ3021_202105
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Recommended Practice for Determining Material Properties of Li-Battery
+    Cathode Active Materials
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3021_202105
+- type: src
+  content: https://saemobilus.sae.org/standards/j3021_202105-recommended-practice-determining-material-properties-li-battery-cathode-active-materials
+docidentifier:
+- content: SAE J3021_202105
+  type: SAE
+  primary: true
+- content: 10.4271/j3021_202105
+  type: DOI
+date:
+- type: approved
+  at: '2021-05-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Battery Materials Testing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice provides a set of test methods and practices for the characterization of lithium ion battery cathode active material.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is beyond the scope of this document to establish criteria for the test results, as these are usually established between the vendor and customer. It should be noted that materials properties can vary substantially between classes of materials (e.g., LNO and LFP) and caution should be exercised when attempting to directly compare their chemical and physical properties. While these distinctions are important for the manufacturer, this document focuses on the techniques to measure the materials properties and not their absolute or relative values. Future materials such as solid-state batteries and sulfides are beyond the scope of this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is beyond the scope of this document to examine the rheological properties of the cathode material dispersed in a coating slurry since such properties are influenced by the conductive additive, binder, and solvent, which are determined by the coating process.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is beyond the scope of this document to examine the electrochemical properties of cathode materials since these are influenced by electrode and ultimately cell design. Due to the difference in electrical and electrochemical properties of the cathode material, it is unrealistic to establish an electrode and cell design that would justly compare different cathode active materials.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

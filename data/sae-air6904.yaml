@@ -1,0 +1,58 @@
+---
+id: SAEAIR6904
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Rationale, Considerations, and Framework for Data Interoperability for
+    Health Management within the Aerospace Ecosystem
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6904
+- type: src
+  content: https://saemobilus.sae.org/standards/air6904-rationale-considerations-framework-data-interoperability-health-management-aerospace-ecosystem
+docidentifier:
+- content: SAE AIR6904
+  type: SAE
+  primary: true
+- content: 10.4271/air6904
+  type: DOI
+date:
+- type: approved
+  at: '2020-04-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-31 Digital Transactions for Aerospace
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) offers an overview of the aspects of intellectual property (IP) protection, legislative compliance, business model, and technologies which need to be considered and addressed to implement a data interoperability, secure business model and technology platform to enable prognostics and health management (PHM) in the digital age. While this information report is restricted to the aerospace domain and also to commercial aviation, the concepts are applicable to any other domain that employs data for supporting health management functionality.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,60 @@
+---
+id: SAEJ1490_199909
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Measurement and Presentation of Truck Ride Vibrations
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1490_199909
+- type: src
+  content: https://saemobilus.sae.org/standards/j1490_199909-measurement-presentation-truck-ride-vibrations
+docidentifier:
+- content: SAE J1490_199909
+  type: SAE
+  primary: true
+- content: 10.4271/j1490_199909
+  type: DOI
+date:
+- type: approved
+  at: '1999-09-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Total Vehicle Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;There are two ways to assess the characteristics of ride vibrations of a vehicle during its operation. Subjective evaluation and objective measurement. Subjective assessments of the ride vibrations experienced by drivers during ride evaluations are generally performed by a panel of drivers and/or passengers who are instructed to operate or ride a group of vehicles in a predetermined manner in order to subjectively assess the levels and characteristics of ride vibrations. &lt;span class="xref"&gt;Figures 6A&lt;/span&gt; through &lt;span class="xref"&gt;6C&lt;/span&gt; show examples of subjective evaluation forms presently in use. The disadvantages of the subjective method include need for careful experimental design, need for statistically unbiased samples, complexity of human perceptions of vibrations, and difficulty in comparing qualitative data of vehicles evaluated at different times and/or by different groups of people. Often ride characterization is not an easy task using only qualitative or descriptive terms. Therefore, it is necessary and desirable to develop objective techniques to enable ride engineers and others to measure ride vibrations during ride assessment in a quantitative manner.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This recommendation details a uniform method for the measurement of ride vibrations of all Class 7 and 8 commercial vehicles, including both combination vehicles and straight trucks. Vibrations are to be measured utilizing cab and seat-pad mounted accelerometers in vertical (z axis) and fore/aft (x axis) directions. The measurement in lateral direction (y axis) is optional as these vibrations from a ride assessment standpoint are seldom significant in commercial vehicles. Several currently utilized methods of displaying, analyzing, and combining the measured accelerations are presented.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This recommendation does not make any statements concerning how well any of the objective ride measures will correlate to subjective evaluations of ride, nor does it deal with any limits or establish any desirable values for acceptable ride.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is recognized that objective ride evaluation methods have some disadvantages due to the complexities of these measures, sophistication of instrumentation and analysis techniques, etc. Therefore, it is recommended that technically trained personnel conduct the objective tests and analyze the data.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

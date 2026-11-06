@@ -1,0 +1,51 @@
+---
+id: SAECPGM1_09LGDCHIM
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: J1349 Certified Power Engine Data for GM LGD as used in 2009 LGD Chevrolet
+    Impala - Level 1
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/cpgm1_09lgdchim
+- type: src
+  content: https://saemobilus.sae.org/services/cpgm1_09lgdchim-j1349-certified-power-engine-data-gm-lgd-used-2009-lgd-chevrolet-impala-level-1
+docidentifier:
+- content: SAE CPGM1_09LGDCHIM
+  type: SAE
+  primary: true
+- content: 10.4271/cpgm1_09lgdchim
+  type: DOI
+date:
+- type: approved
+  at: '2009-04-15'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This product includes information on the manufacturer, engine, application,
+    testing location, certified maximum horsepower, certified maximum torque along
+    with the certified curves of horsepower and torque over a wide range of engine
+    RPM speeds.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

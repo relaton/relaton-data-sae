@@ -1,0 +1,57 @@
+---
+id: SAEAS8054A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Airborne Engine Vibration Monitoring (EVM) System, Guidelines for Performance
+    Standard For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8054a
+- type: src
+  content: https://saemobilus.sae.org/standards/as8054a-airborne-engine-vibration-monitoring-evm-system-guidelines-performance-standard
+docidentifier:
+- content: SAE AS8054A
+  type: SAE
+  primary: true
+- content: 10.4271/as8054a
+  type: DOI
+date:
+- type: approved
+  at: '2012-05-31'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Aerospace Standard (AS) provides guidelines for the  functional,
+    performance, qualification and acceptance testing, and documentation requirements
+    for the components of an airborne engine vibration monitoring (EVM) system which
+    is intended for use as a turbojet engine rotor unbalance indicating system, per
+    FAR 25.1305 (D)(3) on transport category airplanes.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

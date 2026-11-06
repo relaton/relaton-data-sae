@@ -1,0 +1,56 @@
+---
+id: SAEARP1816C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Charger for Battery Powered Ground Support Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1816c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1816c-charger-battery-powered-ground-support-equipment
+docidentifier:
+- content: SAE ARP1816C
+  type: SAE
+  primary: true
+- content: 10.4271/arp1816c
+  type: DOI
+date:
+- type: approved
+  at: '2009-06-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) describes two general types of Ground Support Equipment (GSE) battery chargers. The conventional industrial battery charger typically requiring up to 8 hours to recharge a 100% discharged battery, hereafter called “Conventional Charger”. The other type a fast battery charger typically used as an opportunity charger for ground support equipment, hereafter called “Fast Charger”. Recommendations that apply to both types will refer generically to “charger”.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

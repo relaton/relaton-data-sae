@@ -1,0 +1,49 @@
+---
+id: SAEAMS6420
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Tubing (Seamless for Machined Parts) 1.8ni 0.80cr 0.25mo (0.38 -
+    0.43c) Heat Treated (200,000 Tensile Strength)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6420
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6420-steel-tubing-seamless-machined-parts-18ni-080cr-025mo-038-043c-heat-treated-200000-tensile-strength
+docidentifier:
+- content: SAE AMS6420
+  type: SAE
+  primary: true
+- content: 10.4271/ams6420
+  type: DOI
+date:
+- type: approved
+  at: '2002-12-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

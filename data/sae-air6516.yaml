@@ -1,0 +1,68 @@
+---
+id: SAEAIR6516
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Unmanned Systems (UxS) Control Segment (UCS) Architecture: RSA Version
+    of UCS ICD Model'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6516
+- type: src
+  content: https://saemobilus.sae.org/standards/air6516-unmanned-systems-uxs-control-segment-ucs-architecture-rsa-version-ucs-icd-model
+docidentifier:
+- content: SAE AIR6516
+  type: SAE
+  primary: true
+- content: 10.4271/air6516
+  type: DOI
+date:
+- type: approved
+  at: '2016-12-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-4UCS Unmanned Systems Control Segment Architecture
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This User Guide describes the content of the Rational Software Architect (RSA) version of the UCS Architectural Model and how to use this model within the RSA modeling tool environment.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The purpose of the RSA version of the UCS Architectural Interface ICD model is to provide a model for Rational Software Architect (RSA) users, derived from the Enterprise Architect (EA) ICD model (AIR6515).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The AIR6515 EA Model, and by derivation, the AIR6516 RSA Model, have been validated to contain the same content as the AS6518 model for:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;all UCS ICD interfaces&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;all UCS ICD messages&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;all UCS ICD data directly or indirectly referenced by ICD messages and interfaces&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;the Domain Participant, Information, Service and Non-Functional Properties Models&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

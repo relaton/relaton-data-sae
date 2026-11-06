@@ -1,0 +1,56 @@
+---
+id: SAEARP4768B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Automatic Test Equipment, Relays Not Fully Rated 25 Amperes or Greater
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4768b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4768b-automatic-test-equipment-relays-fully-rated-25-amperes-greater
+docidentifier:
+- content: SAE ARP4768B
+  type: SAE
+  primary: true
+- content: 10.4271/arp4768b
+  type: DOI
+date:
+- type: approved
+  at: '2013-02-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-7P Protective and Control Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) is intended to be a guide for defining automatic test equipment (ATE) methods to be used in performing electrical acceptance tests to ensure repeatability and compatibility of results between manufacturers and between manufacturer and user.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

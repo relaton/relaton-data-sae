@@ -1,0 +1,73 @@
+---
+id: SAEJ31611A_202602
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Vehicle-Level Validation Test Procedures for V2V Safety Communications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3161/1a_202602
+- type: src
+  content: https://saemobilus.sae.org/standards/j31611a_202602-vehicle-level-validation-test-procedures-v2v-safety-communications
+docidentifier:
+- content: SAE J3161/1A_202602
+  type: SAE
+  primary: true
+- content: 10.4271/j3161/1a_202602
+  type: DOI
+date:
+- type: approved
+  at: '2026-02-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: C-V2X Technical Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides vehicle-level data collection, data analysis, and data verification procedures that may be used to verify that an instrument under test (IUT) satisfies the vehicle-level requirements specified in SAE J3161/1. For the purposes of this report, “vehicle-level requirements” primarily consist of those requirements which can be verified external to the vehicle. The IUT for these procedures is a configured LTE-V2X vehicle-to-vehicle (V2V) device as defined in SAE J3161/1 and is installed on a vehicle of class 2, 3, 4, or 5. While the IUT is conceptually separated from the vehicle it is installed on, the tests outlined in this document are primarily vehicle level, so the terms “vehicle” and “IUT” can generally be considered interchangeable. Additionally, non-vehicle-level complementary tests, not included in this document, are required to verify that the entire set of requirements specified in SAE J3161/1 is satisfied.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;This document also includes a Traceability Matrix to provide traceability between SAE J3161/1 sections and the test procedures. This can be used to ensure thoroughness of testing coverage. The traceability matrix in &lt;span class="xref"&gt;Section 7&lt;/span&gt; correlates test procedures from this document with the sections in SAE J3161/1 being tested.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The SAE J3161/1 sections that are addressed in this document are indicated in &lt;span class="xref"&gt;Table 1&lt;/span&gt;. SAE J3161/1 major section numbers that are indicated as N/A do not contain any requirements (subsections may include requirements). Sections that are not in scope, such as standards profiles, are expected to be tested and verified as part of device-level certification, done prior to the vehicle-level testing described in this document.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

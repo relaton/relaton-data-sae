@@ -1,0 +1,59 @@
+---
+id: SAEAS6896
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Markings for Ground Support Equipment Alignment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6896
+- type: src
+  content: https://saemobilus.sae.org/standards/as6896-aircraft-markings-ground-support-equipment-alignment
+docidentifier:
+- content: SAE AS6896
+  type: SAE
+  primary: true
+- content: 10.4271/as6896
+  type: DOI
+date:
+- type: approved
+  at: '2025-05-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this document is to provide a standard for aircraft fuselage markings located at the doors used for ground servicing operations. These markings can be used by all GSE that will dock at the aircraft.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These markings may be used for one or several phases of the GSE positioning relative to the aircraft process: GSE alignment during approach, GSE final docking, and GSE auto leveling.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is not the purpose of this standard to describe the different technologies, cameras, or other equipment that can be mounted on GSE to utilize these markings.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The aircraft that may use these markings will have a fuselage diameter of 3 m or more.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAIR1758A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Limits and Fits - International Metric Tolerance System
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1758a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1758a-limits-fits-international-metric-tolerance-system
+docidentifier:
+- content: SAE AIR1758A
+  type: SAE
+  primary: true
+- content: 10.4271/air1758a
+  type: DOI
+date:
+- type: approved
+  at: '2018-08-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This information report provides guidance when the ISO International metric tolerance system for limits and fits per ISO/R286 or ANSI B4.2-1978 is applied on a standard, and also provides a selected series of limits and fits for powerplant construction suitable for holes and shafts up to 500 mm. For holes or shafts over 500 mm or for limits and fits not shown, ISO/R286 should be consulted.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,49 @@
+---
+id: SAEAS3902955
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CONTACTS, ELECTRICAL CONNECTOR, SOCKET, CRIMP REMOVABLE, SHIELDED (FOR
+    MIL-C-26500(USAF) AND MIL-C-26518(USAF) CONNECTORS)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as39029/55
+- type: src
+  content: https://saemobilus.sae.org/standards/as3902955-contacts-electrical-connector-socket-crimp-removable-shielded-mil-c-26500-usaf-mil-c-26518-usaf-connectors
+docidentifier:
+- content: SAE AS39029/55
+  type: SAE
+  primary: true
+- content: 10.4271/as39029/55
+  type: DOI
+date:
+- type: approved
+  at: '2007-01-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C1 Connectors Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

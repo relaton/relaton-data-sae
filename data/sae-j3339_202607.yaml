@@ -1,0 +1,69 @@
+---
+id: SAEJ3339_202607
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Reverse Automatic Emergency Braking (AEB) Testing Summary
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3339_202607
+- type: src
+  content: https://saemobilus.sae.org/standards/j3339_202607-reverse-automatic-emergency-braking-aeb-testing-summary
+docidentifier:
+- content: SAE J3339_202607
+  type: SAE
+  primary: true
+- content: 10.4271/j3339_202607
+  type: DOI
+date:
+- type: approved
+  at: '2026-07-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Active Safety and Driver Support Systems Standards Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report provides a broad summary of existing Reverse Automatic Emergency Braking test protocols to help assess whether additional test protocols are needed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Eventually, the task force may develop additional protocols to support testing of Reverse Automatic Emergency Braking systems.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

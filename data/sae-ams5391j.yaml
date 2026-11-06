@@ -1,0 +1,58 @@
+---
+id: SAEAMS5391J
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nickel Alloy, Corrosion- and Heat-Resistant, Investment Castings 73Ni -
+    0.14C - 13Cr - 4.5Mo - 2.3Cb (Nb) - 0.75Ti - 6.0Al - 0.010B - 0.10Zr (IN-713)
+    Vacuum Cast, As-Cast
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5391j
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5391j-nickel-alloy-corrosion-heat-resistant-investment-castings-73ni-014c-13cr-45mo-23cb-nb-075ti-60al-0010b-010zr-713-vacuum-cast-cast
+docidentifier:
+- content: SAE AMS5391J
+  type: SAE
+  primary: true
+- content: 10.4271/ams5391j
+  type: DOI
+date:
+- type: approved
+  at: '2025-07-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion- and heat-resistant nickel alloy in the form of investment castings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

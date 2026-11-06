@@ -1,0 +1,102 @@
+---
+id: SAEJ240_197105
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: LIFE TEST FOR AUTOMOTIVE STORAGE BATTERIES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j240_197105
+- type: src
+  content: https://saemobilus.sae.org/standards/j240_197105-life-test-automotive-storage-batteries
+docidentifier:
+- content: SAE J240_197105
+  type: SAE
+  primary: true
+- content: 10.4271/j240_197105
+  type: DOI
+date:
+- type: approved
+  at: '1971-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Starter Battery Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+    &lt;div class="htmlview paragraph"&gt;This life test simulates automotive service where the battery operates in a voltage regulated charging system. This test subjects the battery to charge and discharge cycles resulting in failure modes comparable to those encountered in automotive service.&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The battery is tested in a water bath maintained at 105 ± 5 F.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The test cycle is performed as follows:
+    &lt;div class="table-wrap anchor "&gt;
+    &lt;div class="table-container"&gt;&lt;table class="br-none tbr-void " data-dataset-id=""&gt;
+    &lt;tbody&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Discharge:&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;2 min at 25 A&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;Charge:&lt;/td&gt;
+    &lt;td class="va-top ta-left "&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(a)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;maximum voltage — 14.8&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(b)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;maximum rate — 25 A&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(c)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;time — 10 min&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div/&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The battery is continuously cycled for 100 h (for example, Mon day noon until 4:00 p.m. Friday).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A switching delay of not more than 10 s is permitted from termination of charge to start of discharge, and termination of discharge to start of charge.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;4&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The battery is given a 60 h stand on open circuit in the water bath.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;5&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Discharge battery at a rate equal to its 0 F cold cranking discharge rate in amperes, at the battery temperature obtained in paragraph 4, to an end voltage equivalent to 1.20 V per cell, or a minimum discharge time of 30 s, whichever occurs first.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;6&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Replace battery on the cycling test without a separate recharge. Start on the “charge” portion of the cycle.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;7&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The life test shall be considered completed when the battery fails to maintain 1.2 V per cell for a minimum of 30 s on the manual discharge (paragraph 5).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The point of failure shall be determined by plotting the 30 s discharge voltage values.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;8&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Water should be added as required during the cycling portion of the test.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="small-caps"&gt;note&lt;/span&gt;: This test only applies to 12 V batteries of 180 min or less Reserve Capacity.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

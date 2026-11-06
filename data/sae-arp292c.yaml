@@ -1,0 +1,77 @@
+---
+id: SAEARP292C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Environmental Control Systems for Helicopters
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp292c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp292c-environmental-control-systems-helicopters
+docidentifier:
+- content: SAE ARP292C
+  type: SAE
+  primary: true
+- content: 10.4271/arp292c
+  type: DOI
+date:
+- type: approved
+  at: '2014-12-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This ARP discusses design philosophy, system and equipment requirements, environmental conditions, and design considerations for helicopter environmental control systems (ECS). The helicopter ECS comprises that arrangement of equipment, controls, and indicators which supply and distribute dehumidified conditioned air for ventilation, cooling and heating of the occupied compartments, and cooling of the avionics. The principal features of the system are:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A controlled fresh air supply&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A means for cooling (air or vapor cycle units and heat exchangers)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A means for removing excess moisture from the air supply&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A means for heating&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A temperature control system&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;f&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A conditioned air distribution system&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;The ARP is applicable to both civil and military helicopters where an ECS is specified; however, certain requirements peculiar to military applications, such as nuclear, biological and chemical (NBC) protection, are not covered. The integration of NBC protection into aircraft ECS is discussed in AIR4362.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

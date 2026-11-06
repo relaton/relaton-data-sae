@@ -1,0 +1,48 @@
+---
+id: SAEAS1577B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TUBE END, WELD DESIGN STANDARD
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1577b
+- type: src
+  content: https://saemobilus.sae.org/standards/as1577b-tube-end-weld-design-standard
+docidentifier:
+- content: SAE AS1577B
+  type: SAE
+  primary: true
+- content: 10.4271/as1577b
+  type: DOI
+date:
+- type: approved
+  at: '2014-11-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

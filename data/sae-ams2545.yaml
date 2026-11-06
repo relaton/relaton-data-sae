@@ -1,0 +1,56 @@
+---
+id: SAEAMS2545
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Controlled Pneumatic Needle Peening, Straightening and Forming
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2545
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2545-controlled-pneumatic-needle-peening-straightening-forming
+docidentifier:
+- content: SAE AMS2545
+  type: SAE
+  primary: true
+- content: 10.4271/ams2545
+  type: DOI
+date:
+- type: approved
+  at: '2017-11-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the requirements for saturation peening, straightening and forming metal parts using controlled pneumatic activated needles.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

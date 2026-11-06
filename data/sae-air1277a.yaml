@@ -1,0 +1,57 @@
+---
+id: SAEAIR1277A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Cooling of Modern Airborne Electronic Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1277a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1277a-cooling-modern-airborne-electronic-equipment
+docidentifier:
+- content: SAE AIR1277A
+  type: SAE
+  primary: true
+- content: 10.4271/air1277a
+  type: DOI
+date:
+- type: approved
+  at: '2004-06-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This document contains information on the cooling of modern airborne electronics, emphasizing the use of a heat exchange surface which separates coolant and component. It supplements the information contained in AIR64 for the draw through method and in AIR728 for high Mach Number aircraft. Report contents include basic methods, characteristics of coolants, application inside and outside of the black box use of thermostatic controls to improve reliability and system design. Characteristics of typical cooling components are treated sufficiently to permit selection and to estimate size and weight.
+
+    While emphasis is placed herein on equipment cooling, section 10 dealing with thermal control of the environment, reminds the reader that some equipment will require heating for start up from a cold condition or as a means to control temperature within narrow limits (e.g. in a crystal oven).
+
+    Property data and constants are also tabulated. All numerical values are given in British and SI units.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

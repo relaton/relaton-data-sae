@@ -1,0 +1,84 @@
+---
+id: SAEARP4294
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: DATA FORMATS AND PRACTICES FOR LIFE CYCLE COST INFORMATION
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4294
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4294-data-formats-practices-life-cycle-cost-information
+docidentifier:
+- content: SAE ARP4294
+  type: SAE
+  primary: true
+- content: 10.4271/arp4294
+  type: DOI
+date:
+- type: approved
+  at: '1992-02-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: LCLS Life Cycle Logistics Supportability
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP)4294 is directed at life cycle cost (LCC) analysis of aerospace propulsion systems and supplements AIR1939.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Specific topics addressed by ARP4294 are listed below:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Propulsion system LCC element structure.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Information exchange and relationships with:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(1)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Aircraft manufacturer&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(2)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Equipment suppliers&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;(3)&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Customer&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The relationship of the LCC element structure to work breakdown structures.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The relationship between LCC analysis and other related disciplines (e.g., technical (performance analysis, weight control, component lives), reliability, availability and maintainability (RAM), integrated logistic support (ILS), production and finance).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Classification of the accuracy and applicability of LCC assessments.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,72 @@
+---
+id: SAEAIR8678
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Architecture Examples for Electrified Propulsion Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air8678
+- type: src
+  content: https://saemobilus.sae.org/standards/air8678-architecture-examples-electrified-propulsion-aircraft
+docidentifier:
+- content: SAE AIR8678
+  type: SAE
+  primary: true
+- content: 10.4271/air8678
+  type: DOI
+date:
+- type: approved
+  at: '2022-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-40 Electrified Propulsion Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The application of electric power for aircraft propulsion can take a variety of forms, ranging from partial electric to full electric. The introduction of electric engines to drive propulsors, along with the variety of available methods to generate electricity and store energy offers great degree of new design freedom for next-generation aircraft and aircraft architectures. This newfound design freedom exposes a need within the aviation industry to establish a common design language for electrified propulsion. While this need for a common design language is recognized, the intent of this document is to encourage innovation, providing reference architectures as a launching point for future work in this area. This document will describe potential electrified propulsion architectures and provide examples. While providing these example architectures, this document will develop common definitions for the elements of the architectures by defining:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The elements of electrified propulsion architectures, including any dedicated power generation and distribution systems as well as energy storage elements.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The interfaces to/from the electrified propulsion system.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The interfaces within the electrified propulsion system.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;4&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Electrical energy management and storage architecture of an electrified propulsion system.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;While capturing these architectures and elements, this document will serve as a reference point for future works of SAE and provide aerospace industry guidance.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is recognized that the high power density associated with electrified propulsion will require an advanced thermal management system (TMS). It is expected that, in practice, there will be a great degree of implementation-specific variation in TMS solutions for the elements of an electrified propulsion system. Although thermal management is an intrinsic requirement applicable to most, if not all, elements of an electrified propulsion system, TMS is outside the scope of this document, which is intended to describe six example electrified propulsion architectures.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

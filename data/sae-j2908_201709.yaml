@@ -1,0 +1,56 @@
+---
+id: SAEJ2908_201709
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Vehicle Power Test for Electrified Powertrains
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2908_201709
+- type: src
+  content: https://saemobilus.sae.org/standards/j2908_201709-vehicle-power-test-electrified-powertrains
+docidentifier:
+- content: SAE J2908_201709
+  type: SAE
+  primary: true
+- content: 10.4271/j2908_201709
+  type: DOI
+date:
+- type: approved
+  at: '2017-09-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides test methods for evaluating the maximum power of electrified vehicle powertrain systems by direct measurement at the drive wheel hubs or axles. Additional tests are included specifically for PHEVs to measure electric-only propulsion power and for HEVs to measure electric power assist and regenerative braking. The testing requires either a chassis or hub dynamometer for all driven wheels. Results are processed to provide fair and consistent comparisons of power capabilities among different designs of electrified powertrains. Tests can also be performed on conventional vehicles if precise comparisons to electrified vehicles are desired.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,48 @@
+---
+id: SAEAMS5354
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL CASTINGS, PRECISION INVESTMENT, CORROSION RESISTANT 13Cr - 3W - 2Ni
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5354
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5354-steel-castings-precision-investment-corrosion-resistant-13cr-3w-2ni
+docidentifier:
+- content: SAE AMS5354
+  type: SAE
+  primary: true
+- content: 10.4271/ams5354
+  type: DOI
+date:
+- type: approved
+  at: '1947-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

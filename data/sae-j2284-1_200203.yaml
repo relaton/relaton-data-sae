@@ -1,0 +1,59 @@
+---
+id: SAEJ22841_200203
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: High Speed CAN (HSC) for Vehicle Applications at 125 Kbps
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2284/1_200203
+- type: src
+  content: https://saemobilus.sae.org/standards/j22841_200203-high-speed-hsc-vehicle-applications-125-kbps
+docidentifier:
+- content: SAE J2284/1_200203
+  type: SAE
+  primary: true
+- content: 10.4271/j2284/1_200203
+  type: DOI
+date:
+- type: approved
+  at: '2002-03-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle Architecture For Data Communications Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document will define the Physical Layer and portions of the Data Link Layer of the ISO model for a 125 Kbps High Speed CAN (HSC) protocol implementation. Both ECU and media design requirements for networks will be specified. Requirements will primarily address the CAN physical layer implementation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Requirements will focus on a minimum standard level of performance from the High Speed CAN (HSC) implementation. All ECUs and media shall be designed to meet certain component level requirements in order to ensure the HSC implementation system level performance at 125 Kbps. The minimum performance level shall be specified by system level performance requirements or characteristics described in detail in &lt;span class="xref"&gt;Section 6&lt;/span&gt; of this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is designed such that if the Electronic Control Unit requirements defined in &lt;span class="xref"&gt;Section 6&lt;/span&gt; are met, then the system level attributes should be obtainable.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document will address only requirements which may be tested at the ECU and media level. No requirements which apply to the testing of the HSC implementation as integrated into a vehicle are contained in this document. However, compliance with all ECU and media requirements will increase the possibility of communication compatibility between separately procured components and will greatly simplify the task of successfully integrating a HSC communication system in a vehicle.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

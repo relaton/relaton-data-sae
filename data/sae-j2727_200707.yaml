@@ -1,0 +1,57 @@
+---
+id: SAEJ2727_200707
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HFC-134a Mobile Air Conditioning System Emission Chart
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2727_200707
+- type: src
+  content: https://saemobilus.sae.org/standards/j2727_200707-hfc-134a-mobile-air-conditioning-system-emission-chart
+docidentifier:
+- content: SAE J2727_200707
+  type: SAE
+  primary: true
+- content: 10.4271/j2727_200707
+  type: DOI
+date:
+- type: approved
+  at: '2007-07-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Interior Climate Control Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The original SAE J2727 “Leakage Chart” provided a rating system for comparing mobile A/C systems and was not intended to define mobile A/C system refrigerant leakage. It had been developed from industry experience of expected system refrigerant leakage based upon currently available technologies.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The new “System Emissions Chart” now contained in this revision is intended to serve as a means of estimating the annual refrigerant emissions rate (grams per year) from new production A/C systems equipped with specified component technologies. It provides emission values for various component technologies that are currently available, and can be expanded as new technologies are commercialized. This document provides the information to develop an Excel file template “System Emissions Chart” for system emission analysis. The new chart includes automotive compressor technologies, for conventional mobile air conditioning systems as well as fully hermetic compressors.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

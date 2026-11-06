@@ -1,0 +1,63 @@
+---
+id: SAEJ1106_197501
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: LABORATORY TESTING MACHINES FOR MEASURING THE STEADY STATE FORCE AND MOMENT
+    PROPERTIES OF PASSENGER CAR TIRES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1106_197501
+- type: src
+  content: https://saemobilus.sae.org/standards/j1106_197501-laboratory-testing-machines-measuring-steady-state-force-moment-properties-passenger-car-tires
+docidentifier:
+- content: SAE J1106_197501
+  type: SAE
+  primary: true
+- content: 10.4271/j1106_197501
+  type: DOI
+date:
+- type: approved
+  at: '1975-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Highway Tire Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Recommended Practice describes some basic design requirements and operational procedures associated with equipment for laboratory measurement of tire force and moment properties of the full range of passenger car tires. These properties must be known to establish the tire's contribution to vehicle dynamic performance. Many factors influence laboratory tire force and moment measurements. This Recommended Practice was compiled as a guide for equipment design and test operation so that data from different laboratories can be directly compared and applied to vehicle design and tire selection problems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is recognized that laboratory measurements define performance in a controlled and idealized situation that may not correspond to conditions encountered in a vehicle's operating environment. Several decades of testing experience in different laboratories indicates, however, that these tests can provide a very useful bench mark for evaluation of tire performance. It is neither necessary nor practical to test under all possible conditions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;There are many factors which affect the forces and moments developed by rolling tires: surface, speed, temperature, water on the surface, dynamics of the changes in tire operating conditions, driving and braking torques, etc. A discussion of the effects of many of these factors as related to tire performance and testing is given in SAE Information Report, J1107, which provides the technical basis for this Recommended Practice.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This Recommended Practice is based on types of equipment and procedures that are used in several laboratories for routine tire evaluation. This limits the scope of this Recommended Practice to equipment and methodology for measuring the steady state properties of free-rolling tires. The procedures are intended to characterize the performance of the tire under operating conditions which are essentially invariant with time or which vary slowly enough so that dynamic effects are negligible (quasi-static rolling conditions). J1107 includes a discussion of some of the equipment design and methodology considerations for other kinds of force and moment tests.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This Recommended Practice includes specific recommendations for space, measuring system ranges and accuracy needed to measure the force and moment properties of the full range of passenger car tires. Because the range of tire sizes to be tested by a particular laboratory may be different from the full of range passenger car tires, a discussion of the space, measuring system ranges, and accuracy in terms of load capacities and the physical sizes of the tires to be tested will be included in J1107. These alternate recommendations should be used for any test machines which are designed to test a range of tires other than the full range of passenger car tires. It must be emphasized that the experience on which this Recommended Practice is based has been primarily obtained through testing of passenger car tires.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;These recommendations are a set of design and procedural goals that will not be completely satisfied by most of the test equipment in use. Existing equipment can still be useful for comparison testing associated with product development. However, to insure that test results are comparable among laboratories, the equipment and procedures defined in this Recommended Practice must be followed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Tire force and moment properties are most applicable to vehicle design and provide the best guidance for tire development if testing is done on flat rigid surfaces. Most flat surface laboratory tire testers in routine use incorporate simulated roadways translated at low speeds beneath fixed-axle dynamometers. Tests have shown that the force and moment properties are essentially independent of speed when the tire rolls without appreciable sliding in the contact area. On dry surfaces, tests have also shown that the effect of speed is small over a large range of slip angles. The methods described in this Recommended Practice are accordingly particularly suited for measuring the force and moment properties for dry surface conditions. A more complete discussion of the effects of speed and surface is presented in J1107.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEAS36100C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Air Cargo Unit Load Devices - Performance Requirements and Test Parameters
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as36100c
+- type: src
+  content: https://saemobilus.sae.org/standards/as36100c-air-cargo-unit-load-devices-performance-requirements-test-parameters
+docidentifier:
+- content: SAE AS36100C
+  type: SAE
+  primary: true
+- content: 10.4271/as36100c
+  type: DOI
+date:
+- type: approved
+  at: '2020-09-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) defines the minimum performance requirements and test parameters for air cargo unit load devices requiring approval of airworthiness for installation in an approved aircraft cargo compartment and restraint system that complies with the cargo restraint requirements of Title 14 CFR Part 25, except for the 9.0-g forward ultimate inertia force of § 25.561 (b)(3)(ii).&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

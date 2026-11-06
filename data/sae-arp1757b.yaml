@@ -1,0 +1,57 @@
+---
+id: SAEARP1757B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Symbology for Standardization of Cargo Handling Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1757b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1757b-symbology-standardization-cargo-handling-systems
+docidentifier:
+- content: SAE ARP1757B
+  type: SAE
+  primary: true
+- content: 10.4271/arp1757b
+  type: DOI
+date:
+- type: approved
+  at: '2013-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The symbols specified in this SAE Aerospace Recommended Practice (ARP) are applicable to all aircraft cargo handling systems for lower deck as well as for upper deck systems. Utilizing the symbols the conveyance, guidance, restraint, power drive unit and the degree of automation for the total cargo handling system can be depicted.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

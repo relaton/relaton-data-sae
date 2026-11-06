@@ -1,0 +1,81 @@
+---
+id: SAEJ28472_202309
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Communication Between Plug-in Vehicles and Off-Board DC Chargers
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2847/2_202309
+- type: src
+  content: https://saemobilus.sae.org/standards/j28472_202309-communication-plug-vehicles-off-board-dc-chargers
+docidentifier:
+- content: SAE J2847/2_202309
+  type: SAE
+  primary: true
+- content: 10.4271/j2847/2_202309
+  type: DOI
+date:
+- type: approved
+  at: '2023-09-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes requirements and specifications for communication between plug-in electric vehicle (PEV) and the DC off-board charger. Where relevant, this document notes, but does not formally specify, interactions between the vehicle and vehicle operator.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document applies to the off-board DC charger for conductive charging, which supplies DC current to the rechargable energy storage system (RESS) of the electric vehicle through a SAE J1772 coupler. Communications will be on the SAE J1772 pilot line for PLC communication. The details of powerline communications (PLC) are found in SAE J2931/4.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document supports DC energy transfer via forward power flow (FPF) from source to vehicle.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE has published multiple documents relating to PEV and vehicle-to-grid interfaces. The various document series are listed below, with a brief explanation of each.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Figure 1&lt;/span&gt; shows the sequencing of these documents and their primary function (e.g., the SAE J2836 and SAE J2847/1 documents start with smart charging, SAE J2836 and SAE J2847/2 then adds DC charging, etc.). The intent is to have subsequent slash sheets complement each other as more functions and features are included. The /6 series of documents add wireless charging items not already included in the proceeding slash sheets. These are all then included in interoperability in SAE J2953 and security in SAE J2931/7. SAE J3072 then includes the PEV to grid requirements for vehicle-to-grid (V2G) power and communication to match SAE J2836/3 use cases.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;The summary of documents for DC charging is then as follows:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J1772 is the PEV to EVSE systems document and includes the system and timing diagrams for DC charging.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J2836/2 starts with the use cases for DC charging communications.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J2847/2 then transforms these use case requirements into the signals and messages.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J2931/1 is where the protocol requirements are placed for all PEV communications.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J2931/4 is used for the PLC communication requirements for DC charging since it is only a wired median.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J2953/1 is the interoperability requirements.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J2953/2 is the interoperability procedure and plan.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J2931/7 includes the security.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

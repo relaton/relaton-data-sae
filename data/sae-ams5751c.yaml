@@ -1,0 +1,58 @@
+---
+id: SAEAMS5751C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALLOY BARS, FORGINGS, AND RINGS, CORROSION AND HEAT RESISTANT 54Ni - 17.5Cr
+    - 16.5Co - 4.0Mo - 2.9Ti - 2.9Al - 0.006B Solution, Stabilization, and Precipitation
+    Treated Consumable Electrode or Vacuum Induction Melted
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams5751c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams5751c-alloy-bars-forgings-rings-corrosion-heat-resistant-54ni-175cr-165co-40mo-29ti-29al-0006b-solution-stabilization-precipitation-treated-consumable-electrode-vacuum-induction-melted
+docidentifier:
+- content: SAE AMS5751C
+  type: SAE
+  primary: true
+- content: 10.4271/ams5751c
+  type: DOI
+date:
+- type: approved
+  at: '1981-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a corrosion and heat resistant nickel alloy in the form of bars, forgings, flash welded rings, and stock for forging or flash welded rings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEJ17982_202412
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Performance Rating of Lithium-Ion Battery Module
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1798/2_202412
+- type: src
+  content: https://saemobilus.sae.org/standards/j17982_202412-performance-rating-lithium-ion-battery-module
+docidentifier:
+- content: SAE J1798/2_202412
+  type: SAE
+  primary: true
+- content: 10.4271/j1798/2_202412
+  type: DOI
+date:
+- type: approved
+  at: '2024-12-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Battery Standards Testing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides a recommended electrical performance testing guideline for LIBM, which makes up an xEV (Battery Electric Vehicles and Hybrid Electric Vehicles) battery pack system. This testing guideline may also be used for other applications, such as stationary, vessel, and aircraft. However, using the guideline for other applications should be determined by the users of this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Users of this document may also be interested in conducting tests on battery cells and/or battery packs. To avoid conducting potentially redundant tests between cells, modules, and packs, this document does not specify which tests need to be conducted. Determination of which tests need to be conducted is at the user’s discretion and should be based on individual module applications. Rather than specifying which tests need to be conducted, this document describes how each test is to be conducted.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document provides a matrix of tests that can be selectively picked for the application requirements in order to standardize testing procedures for their specific application needs. Performance values from the tests in this document can be for comparative purposes, confirmation, and other reasons. However, pass/fail criteria are not part of this document. It is up to the customer and supplier to determine what the pass/fail criteria are. If the measured value is to be used to determine battery module ratings, the tested modules should be representative of those to be manufactured.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;LIBM consists of multiple cells grouped and electrically interconnected in various series and parallel configurations - typically noted as “XXP XXS.” Fully functional LIBM shall have a battery monitoring system to allow for the proper control and operation of individual cell voltage and module temperature monitoring. The LIBM configuration shall accommodate for cell compression, retention, thermal heat transferal, electrical isolation, and a hold-down method.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

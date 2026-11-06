@@ -1,0 +1,89 @@
+---
+id: SAEJ19793_202310
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'E/E Diagnostic Test Modes: Zero Emission Vehicle Propulsion Systems on
+    UDS (ZEVonUDS)'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1979-3_202310
+- type: src
+  content: https://saemobilus.sae.org/standards/j1979-3_202310-e-e-diagnostic-test-modes-zero-emission-vehicle-propulsion-systems-uds-zevonuds
+docidentifier:
+- content: SAE J1979-3_202310
+  type: SAE
+  primary: true
+- content: 10.4271/j1979-3_202310
+  type: DOI
+date:
+- type: approved
+  at: '2023-10-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is intended to satisfy the data reporting requirements of standardization regulations in the United States and Europe, and any other market that may adopt similar requirements in the future. This document specifies:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Message formats for request and response messages.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Timing requirements between request messages from external test equipment and response messages from vehicles, and between those messages and subsequent request messages.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Behavior of both the vehicle and external test equipment if data is not available.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A set of diagnostic services, with corresponding content of request and response messages.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;e&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Standardized source and target addresses for clients and vehicle.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;This document includes capabilities required to satisfy OBD requirements for multiple regions, model years, engine types, and vehicle types. At the time of publication many regional regulations are not yet final and are expected to change in the future. This document makes no attempt to interpret the regulations and does not include applicability of the included diagnostic services and data parameters for various vehicle applications. The user of this document is responsible to verify the applicability of each section of this document for a specific vehicle, engine, model year, and region.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J1979-3 specifies diagnostic services, and both functionally addressed and physically addressed request/response messages required to be supported by motor vehicles and external test equipment for diagnostic purposes which pertain to motor vehicle emission-related data. Any external test equipment meeting the requirements of SAE J1978 is intended to be able to use these messages to retrieve ZEV propulsion-related information from the vehicle.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The structure of this document is based on the structure of SAE J1979 for the convenience of users familiar with SAE J1979. Each section of this part of SAE J1979-3 which specifies additional detail to existing sections of ISO 15765-4 and SAE J1979 supersedes those specifications for their use under the scope of SAE J1979-2. When applicable, a reference to respective sections in SAE J1979-2 is made in this document.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J1979-3 references SAE J1979DA, which includes all Data Identifiers and Routine Identifiers.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

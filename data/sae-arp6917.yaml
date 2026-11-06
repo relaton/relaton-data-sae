@@ -1,0 +1,57 @@
+---
+id: SAEARP6917
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Evaluation of Gas Turbine Engine Lubricant Compatibility with Elastomer
+    Slabs - Long Duration Test
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6917
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6917-evaluation-gas-turbine-engine-lubricant-compatibility-elastomer-slabs-long-duration-test
+docidentifier:
+- content: SAE ARP6917
+  type: SAE
+  primary: true
+- content: 10.4271/arp6917
+  type: DOI
+date:
+- type: approved
+  at: '2018-12-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-34 Propulsion Lubricants Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This test method provides procedures for exposing specimens of elastomer material (slab form) representative to those used in gas turbine engines to aviation lubricants under extended duration and engine relevant thermal conditions. For AS5780 requirements the time is at least 1800 hours and temperatures are 100 °C to 160 °C. Positive volume change is an indication of specimen swell and subsequent negative volume change is an indication of specimen deterioration, both properties are important in the evaluation of the compatibility of the lubricant with elastomers used in the construction of the gas turbine.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

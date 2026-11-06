@@ -1,0 +1,58 @@
+---
+id: SAEARP4032
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HUMAN ENGINEERING CONSIDERATIONS IN THE APPLICATION OF COLOR TO ELECTRONIC
+    AIRCRAFT DISPLAYS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4032
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4032-human-engineering-considerations-application-color-electronic-aircraft-displays
+docidentifier:
+- content: SAE ARP4032
+  type: SAE
+  primary: true
+- content: 10.4271/arp4032
+  type: DOI
+date:
+- type: approved
+  at: '1988-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10 Aerospace Behavioral Engineering Technology
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Although this document is specifically intended for the application of color to cathode-ray-tube (CRT) instrumentation, most portions are also compatible with other emerging electronic display technologies, whether they are self-luminous or light modulating devices, such as liquid crystal displays. However, it is not intended to address the concerns brought about by the use of specialized equipment such as head-up displays and night vision goggles. Identifiable incompatibilities or special considerations for color display technologies other than the CRT have been noted in the recommendations.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

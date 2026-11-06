@@ -1,0 +1,55 @@
+---
+id: SAEJ1092_200305
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: NomenclatureÑIndustrial Tractors (General Purpose Wheel)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1092_200305
+- type: src
+  content: https://saemobilus.sae.org/standards/j1092_200305-nomenclaturenindustrial-tractors-general-purpose-wheel
+docidentifier:
+- content: SAE J1092_200305
+  type: SAE
+  primary: true
+- content: 10.4271/j1092_200305
+  type: DOI
+date:
+- type: approved
+  at: '2003-05-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Machine Technical Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Standard provides names of major components peculiar to tractors
+    (wheel) as referred to in SAE J1116 under Section 2: SELF-PROPELLED GENERAL PURPOSE
+    INDUSTRIAL MACHINES.  Illustrations are shown in Figure 1.  Illustrations of components
+    are not intended to be exactly descriptive of any particular machine.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

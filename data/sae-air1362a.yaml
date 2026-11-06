@@ -1,0 +1,56 @@
+---
+id: SAEAIR1362A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Hydraulic Fluids Physical Properties
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1362a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1362a-aerospace-hydraulic-fluids-physical-properties
+docidentifier:
+- content: SAE AIR1362A
+  type: SAE
+  primary: true
+- content: 10.4271/air1362a
+  type: DOI
+date:
+- type: approved
+  at: '1999-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) presents data on hydraulic fluids which are of interest to detail designers of hydraulic systems and components for aerospace flight vehicles. The data pertain to fluids conforming to specifications MIL-H-5606, MIL-H-8446, MIL-PRF-27601, MIL-PRF-83282, MIL-H-53119, MIL-PRF-87257, Aerospace Standard 1241 Type IV, Classes 1 and 2, and Type V. The relative merits of hydraulic fluid properties in relation to the fluid formulation, aerospace hydraulic system design and the related materials compatibility are discussed in AIR81, Hydraulic Fluid Properties. This document is essentially a metric document with English units available in the data charts for convenience. There is a treatment of conversions between ISO and English units in AIR1657.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

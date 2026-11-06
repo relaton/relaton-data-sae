@@ -1,0 +1,56 @@
+---
+id: SAEARP719B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Gas Motor
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp719b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp719b-gas-motor
+docidentifier:
+- content: SAE ARP719B
+  type: SAE
+  primary: true
+- content: 10.4271/arp719b
+  type: DOI
+date:
+- type: approved
+  at: '2013-06-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C4 Power Sources Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;It is intended that this SAE Aerospace Recommended Practice (ARP) will set down guidelines for the development and test of gas motors to provide a practical and reliable hot gas rotary actuation mechanism. Specific operational and test requirements shall be specified in a detail specification.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

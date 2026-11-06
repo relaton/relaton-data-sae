@@ -1,0 +1,64 @@
+---
+id: SAEJ29453_202003
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Requirements for Road Weather Applications
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2945/3_202003
+- type: src
+  content: https://saemobilus.sae.org/standards/j29453_202003-requirements-road-weather-applications
+docidentifier:
+- content: SAE J2945/3_202003
+  type: SAE
+  primary: true
+- content: 10.4271/j2945/3_202003
+  type: DOI
+date:
+- type: approved
+  at: '2020-03-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Core Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Inclement weather can have a significant impact on surface transportation systems. It can result in hazardous conditions for travelers due to poor visibility, or wet or icy roadways. Weather applications have the potential to provide additional data to surface transportation infrastructure owners and operators, allowing them to better assess the impacts of the weather environment on or around the roadway and to better manage the surface transportation system. Such weather applications can:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Collect road weather data from connected vehicles and mobile devices, increasing the number of data sources available.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Provide road weather related traveler information to travelers via connected vehicles and devices, such as when and where a hazardous condition exists.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Provide the ability to manage road weather response on specific roadways.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard specifies interface requirements between vehicles and infrastructure for weather applications, including detailed systems engineering documentation (needs and requirements mapped to appropriate message exchanges). The purpose of this SAE Standard is to enable interoperability supporting these weather applications over a communications technology agnostic interface.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

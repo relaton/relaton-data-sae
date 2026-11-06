@@ -1,0 +1,57 @@
+---
+id: SAEAS5590
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Connectors, Fiber Optic, Advanced, Circular or Rectangular, Plug and Receptacle,
+    Environment Resistant, Removable Termini, General Specification For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5590
+- type: src
+  content: https://saemobilus.sae.org/standards/as5590-connectors-fiber-optic-advanced-circular-rectangular-plug-receptacle-environment-resistant-removable-termini-general-specification
+docidentifier:
+- content: SAE AS5590
+  type: SAE
+  primary: true
+- content: 10.4271/as5590
+  type: DOI
+date:
+- type: approved
+  at: '2004-02-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-3 Fiber Optics and Applied Photonics Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers the performance requirements for a plug and receptacle, multiple termini, fiber optic connector. Fiber optic connectors using removable termini, and are capable of operating within a temperature range of -65 to +200 °C (see &lt;span class="xref"&gt;1.2.1.1&lt;/span&gt;). These connectors are supplied under MIL-STD-790 reliability assurance program. Statistical process control (SPC) techniques are required in the manufacturing process to minimize variation in production of connectors supplied to the requirements of this specification.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

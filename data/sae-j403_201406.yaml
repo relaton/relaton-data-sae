@@ -1,0 +1,65 @@
+---
+id: SAEJ403_201406
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Chemical Compositions of SAE Carbon Steels
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j403_201406
+- type: src
+  content: https://saemobilus.sae.org/standards/j403_201406-chemical-compositions-sae-carbon-steels
+docidentifier:
+- content: SAE J403_201406
+  type: SAE
+  primary: true
+- content: 10.4271/j403_201406
+  type: DOI
+date:
+- type: approved
+  at: '2014-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Metals Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;In 1941, the SAE Iron and Steel Division, in collaboration with the American Iron and Steel Institute (AISI), made a major change in the method of expressing composition ranges for the SAE steels. The plan, as now applied, is based in general on narrower cast or heat analysis ranges plus certain product analysis allowances on individual samples, in place of the fixed ranges and limits without tolerances formerly provided for carbon and other elements in SAE steels.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For years the variety of chemical compositions of steel has been a matter of concern in the steel industry. It was recognized that production of fewer grades of steel could result in improved deliveries and provide a better opportunity to achieve advances in technology, manufacturing practices, and quality, and thus develop more fully the possibilities of application inherent in those grades.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Comprehensive and impartial studies were directed toward determining which of the many grades being specified were the ones in most common demand, and the feasibility of combining compositions having like requirements. From these studies, the most common grades of steel have been selected and kept in the current revision. The cast or heat chemical composition limits or ranges of these grades are given in &lt;span class="xref"&gt;Tables 1&lt;/span&gt;, &lt;span class="xref"&gt;2&lt;/span&gt;, &lt;span class="xref"&gt;3A&lt;/span&gt;, and &lt;span class="xref"&gt;3B&lt;/span&gt;. These cast or heat limits or ranges are subject to standard variations for product analysis as given in SAE J409. Since AISI is no longer issuing steel grade designations, grades listed in this document are SAE grades.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is recognized that chemical compositions other than those listed in the previously mentioned tables will at times be needed for specialized applications or processing. When such a steel is required, the elements comprising the desired chemical composition are specified in one of three ways: (a) by a minimum limit, (b) by a maximum limit, or (c) by minimum and maximum limits, termed a range.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Standard cast or heat analysis limits and ranges for the various elements of carbon steels are given in &lt;span class="xref"&gt;Table 4&lt;/span&gt;. In this table, range is the arithmetical difference between the minimum and maximum limits (that is, 0.19 to 0.25 is a 0.06 range). These cast or heat limits and ranges are also subject to standard variations for product analysis as given in SAE J409.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;ISTC Division 1 has developed a procedure which allows for the maintenance of the grade lists in this document. This will involve conducting an industry-wide survey to solicit input. This survey will be conducted at a frequency deemed necessary by the technical committee.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Criteria have been established for the addition to or the deletion of grades from the grade lists. New grades will be considered based on the grade meeting a SAE grade designation and chemistry, having a minimum production or consumption of 225 tonnes/year (250 tons/year) and has the sponsorship of at least two individual users or producers. New steel compositions will be considered as Potential Standard (PS) steels, based on the guidelines in SAE J1081, until such time as production of the new steel achieves a level of production or usage qualifying it for consideration as a standard steel.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Deletion of grades will be by consensus based on the grade survey. Deleted grades will be archived in SAE J1249.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;When the cast or heat analysis is requested to be reported to demonstrate conformance to the chemical limits shown in &lt;span class="xref"&gt;Tables 1&lt;/span&gt;, &lt;span class="xref"&gt;2&lt;/span&gt;, &lt;span class="xref"&gt;3A&lt;/span&gt;, or &lt;span class="xref"&gt;3B&lt;/span&gt;, in addition to the quantities of carbon, manganese, phosphorus, and sulfur, the following elements and their quantities shall also be reported: copper, chromium, nickel, molybdenum, and silicon. When the amount of any one of these last five elements is less than 0.02% that analysis may be reported as “&amp;lt;0.02%.”&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Based on a survey question in the 2006 Grade Survey, the grade lists have been revised such that chemistries of all product forms are now consolidated into single tables. The chemistry ranges listed will be the narrowest range for the various product forms with the exception of S content. It is acknowledged however that due to differences in the section size of the various product forms, chemical composition demands for the product forms should be different to allow for adequate flexibility of steel application. These differences are reflected in &lt;span class="xref"&gt;Tables 4&lt;/span&gt; and &lt;span class="xref"&gt;5&lt;/span&gt;.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

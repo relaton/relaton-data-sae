@@ -1,0 +1,70 @@
+---
+id: SAEAMS4416C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Extruded Profiles (2196-T8511), 2.9Cu - 1.7Li - 0.4Mg -
+    0.4Ag - 0.10Zr, Solution Heat Treated, Stress Relieved by Stretching, and Artificially
+    Aged
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4416c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4416c-aluminum-alloy-extruded-profiles-2196-t8511-29cu-17li-04mg-04ag-010zr-solution-heat-treated-stress-relieved-stretching-artificially-aged
+docidentifier:
+- content: SAE AMS4416C
+  type: SAE
+  primary: true
+- content: 10.4271/ams4416c
+  type: DOI
+date:
+- type: approved
+  at: '2026-05-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum-lithium alloy in the form of extruded profiles 0.040 to 1.000 inch (1.00 to 25.40 mm), inclusive, in nominal thickness (see &lt;span class="xref"&gt;8.5&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

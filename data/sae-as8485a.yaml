@@ -1,0 +1,68 @@
+---
+id: SAEAS8485A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electrostatic Spray Application of AMS3143 Powder Coating Materials
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8485a
+- type: src
+  content: https://saemobilus.sae.org/standards/as8485a-electrostatic-spray-application-ams3143-powder-coating-materials
+docidentifier:
+- content: SAE AS8485A
+  type: SAE
+  primary: true
+- content: 10.4271/as8485a
+  type: DOI
+date:
+- type: approved
+  at: '2026-11-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G8 Aerospace Organic Coatings Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard provides the recommended requirements for electrostatic spray application of AMS3143 powder coatings to aerospace components. Adherence to these requirements will facilitate satisfactory performance of the applied powder coating.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

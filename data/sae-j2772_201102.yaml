@@ -1,0 +1,61 @@
+---
+id: SAEJ2772_201102
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Measurement of Passenger Compartment Refrigerant Concentrations Under System
+    Refrigerant Leakage Conditions
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2772_201102
+- type: src
+  content: https://saemobilus.sae.org/standards/j2772_201102-measurement-passenger-compartment-refrigerant-concentrations-system-refrigerant-leakage-conditions
+docidentifier:
+- content: SAE J2772_201102
+  type: SAE
+  primary: true
+- content: 10.4271/j2772_201102
+  type: DOI
+date:
+- type: approved
+  at: '2011-02-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Interior Climate Control Vehicle OEM Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Standard is restricted to refrigeration circuits that provide air-conditioning for the passenger compartments of passenger and commercial vehicles.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This Standard includes analytical and physical test procedures to evaluate concentration inside the passenger compartment. In the early phases of vehicle evaluation, usage of the analytical approach may be sufficient without performing physical tests.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The physical test procedure involves releasing refrigerant from an external source to a location adjacent to the evaporator core (inside the HVAC-Module). An apparatus is used to provide a repeatable, calibrated leak rate. If the system has multiple evaporators, leakage could be simulated at any of the evaporator locations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This standard gives detail information on the techniques for measuring R-744 [CO2] and R-1234yf [HFO-1234yf], but the general techniques described here can be used for other refrigerants as well.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

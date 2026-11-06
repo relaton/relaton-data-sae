@@ -1,0 +1,49 @@
+---
+id: SAEAIR26
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: NUMBER 70-90, 70L-90, 80-100 AND 80L-100 PROPELLER SHAFT ENDS DUAL ROTATION
+    (PROPELLER SUPPLIED BEARING)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air26
+- type: src
+  content: https://saemobilus.sae.org/standards/air26-number-70-90-70l-90-80-100-80l-100-propeller-shaft-ends-dual-rotation-propeller-supplied-bearing
+docidentifier:
+- content: SAE AIR26
+  type: SAE
+  primary: true
+- content: 10.4271/air26
+  type: DOI
+date:
+- type: approved
+  at: '2011-08-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

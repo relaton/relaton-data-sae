@@ -1,0 +1,56 @@
+---
+id: SAEARP901
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BUBBLE-POINT TEST METHOD
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp901
+- type: src
+  content: https://saemobilus.sae.org/standards/arp901-bubble-point-test-method
+docidentifier:
+- content: SAE ARP901
+  type: SAE
+  primary: true
+- content: 10.4271/arp901
+  type: DOI
+date:
+- type: approved
+  at: '1992-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This test method describes a procedure for measuring the largest pore or hole in a filter or similar fluid-permeable porous structure. A standard referee test method for precise determination or resolution of disputes is specified. A simpler inspection test procedure for quality assurance "go-no-go" measurement is also given. Bubble-point testing physics, analysis of bubble-point test data, and correlation with other methods of pore size determination are separately discussed in the appendix.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

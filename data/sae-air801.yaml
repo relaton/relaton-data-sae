@@ -1,0 +1,49 @@
+---
+id: SAEAIR801
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Oscillographic Method for Measuring Spark Energy of Capacitor Discharge
+    Ignition Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air801
+- type: src
+  content: https://saemobilus.sae.org/standards/air801-oscillographic-method-measuring-spark-energy-capacitor-discharge-ignition-systems
+docidentifier:
+- content: SAE AIR801
+  type: SAE
+  primary: true
+- content: 10.4271/air801
+  type: DOI
+date:
+- type: approved
+  at: '1994-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-30 Propulsion Ignition Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

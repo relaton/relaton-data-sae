@@ -1,0 +1,59 @@
+---
+id: SAEAS595C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace - Civil Type Variable Delivery, Pressure Compensated, Hydraulic
+    Pump
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as595c
+- type: src
+  content: https://saemobilus.sae.org/standards/as595c-aerospace-civil-type-variable-delivery-pressure-compensated-hydraulic-pump
+docidentifier:
+- content: SAE AS595C
+  type: SAE
+  primary: true
+- content: 10.4271/as595c
+  type: DOI
+date:
+- type: approved
+  at: '2003-09-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C4 Power Sources Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) establishes the general requirements for the design, construction, acceptance and qualification test of pressure compensated, variable delivery hydraulic pumps, used in civil aircraft hydraulic systems. It provides additional parameters for a Procurement Specification to be used in conjunction with this AS for each pump.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This AS is applicable to hydraulic pumps driven by an engine, in systems conforming to the general requirements of ARP4752, and the regulations of FAR and/or JAR 25.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is also applicable to pumps driven by other power sources such as electric motors, ram air turbines and engine bleed air turbines.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,74 @@
+---
+id: SAEJ5512_199403
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TEST LIMITS AND METHODS OF MEASUREMENT OF RADIO DISTURBANCE CHARACTERISTICS
+    OF VEHICLES, MOTORBOATS, AND SPARK-IGNITED ENGINE-DRIVEN DEVICES
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j551/2_199403
+- type: src
+  content: https://saemobilus.sae.org/standards/j5512_199403-test-limits-methods-measurement-radio-disturbance-characteristics-vehicles-motorboats-spark-ignited-engine-driven-devices
+docidentifier:
+- content: SAE J551/2_199403
+  type: SAE
+  primary: true
+- content: 10.4271/j551/2_199403
+  type: DOI
+date:
+- type: approved
+  at: '1994-03-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The limits in this SAE Standard are designed to provide protection for receivers of all types of radio transmissions when used in buildings. As a result, receivers of radio transmissions used out-of-doors may not be protected by the limits specified.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This publication applies to the emission of electromagnetic energy which may cause interference to radio reception and which is emitted from:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Vehicles propelled by an internal combustion engine, electrical means or both (see SAE J551/1 for definition)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Motorboats propelled by an internal combustion engine, electrical means or both
+    &lt;div class="table-wrap anchor "&gt;
+    &lt;div class="table-container"&gt;&lt;table class="br-none tbr-void "&gt;
+    &lt;tbody&gt;
+    &lt;tr&gt;
+    &lt;td class="va-top ta-left "&gt;NOTE—For the purposes of this publication, motorboats are considered to be a subset of vehicles unless specifically mentioned to the contrary.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div/&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Devices equipped with spark-ignited internal combustion engines (see SAE J551/1 for definition)&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;This publication does not apply to aircraft, traction systems (railway, tramway, and trolley bus), or to incomplete vehicles.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

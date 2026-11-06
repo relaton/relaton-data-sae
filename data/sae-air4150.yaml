@@ -1,0 +1,56 @@
+---
+id: SAEAIR4150
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: INSPECTION OF INSERVICE AIRBORNE ACCUMULATORS FOR CORROSION AND DAMAGE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4150
+- type: src
+  content: https://saemobilus.sae.org/standards/air4150-inspection-inservice-airborne-accumulators-corrosion-damage
+docidentifier:
+- content: SAE AIR4150
+  type: SAE
+  primary: true
+- content: 10.4271/air4150
+  type: DOI
+date:
+- type: approved
+  at: '1993-02-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A1 Commercial Aircraft Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) is intended for use as a guide in determining the condition of in-service accumulators. A minimum inspection program is recommended to determine the existence of corrosion or damage.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

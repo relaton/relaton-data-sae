@@ -1,0 +1,58 @@
+---
+id: SAEJ3138_202210
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Diagnostic Link Connector Security
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3138_202210
+- type: src
+  content: https://saemobilus.sae.org/standards/j3138_202210-diagnostic-link-connector-security
+docidentifier:
+- content: SAE J3138_202210
+  type: SAE
+  primary: true
+- content: 10.4271/j3138_202210
+  type: DOI
+date:
+- type: approved
+  at: '2022-10-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Data Link Connector Vehicle Security Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document describes a set of recommended actions to take to increase the likelihood of safe vehicle operation when a device (external test equipment, data collection device, etc.) whose normal operation has been compromised by a source external to the vehicle is connected to the vehicle’s diagnostic system. The term “diagnostic system” is intended to be a generic way to reference all the different ways that diagnostic commands might be injected into the system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The guidance in this document is intended to improve security without significantly impacting the ability for franchised dealer or independent aftermarket external test tools to perform legitimate diagnosis and maintenance functions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The goal is that intrusive services are only allowed to be performed when the vehicle is in a Safe State such that even if the intrusive service were to be initiated with adversarial intent the consequences of such a service would still be acceptable.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

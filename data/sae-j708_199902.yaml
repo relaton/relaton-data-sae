@@ -1,0 +1,91 @@
+---
+id: SAEJ708_199902
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Agricultural Tractor Test Code
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j708_199902
+- type: src
+  content: https://saemobilus.sae.org/standards/j708_199902-agricultural-tractor-test-code
+docidentifier:
+- content: SAE J708_199902
+  type: SAE
+  primary: true
+- content: 10.4271/j708_199902
+  type: DOI
+date:
+- type: approved
+  at: '1999-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ATSC Test Standards Subcommittee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Standard is to define test conditions, give a description of the tests to be made, specify data to be obtained, show formulas and calculations, define terms, and establish a uniform method of reporting so that performance data obtained on various makes and models of tractors, tested in accordance with this document, will be comparable regardless of where the test is made. It is obvious, because of the many present day tractor models available in a number of types with numerous items of special or optional equipment, that the scope of this document must be limited to obtaining and reporting only the most significant of widely used performance data.&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;i&gt;Outline of Code&lt;/i&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;i&gt;&lt;span class="xref"&gt;Section 3&lt;/span&gt;—Definitions&lt;/i&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;i&gt;&lt;span class="xref"&gt;Section 4&lt;/span&gt;—Test Conditions&lt;/i&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;i&gt;&lt;span class="xref"&gt;Section 5&lt;/span&gt;—Detailed Description of Test Procedure&lt;/i&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;&lt;span class="xref"&gt;5.1&lt;/span&gt; Preparation of Tractor for Performance Run&lt;/b&gt;s&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;&lt;span class="xref"&gt;5.2&lt;/span&gt; Mechanical Power Outlet Peformance&lt;/b&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;5.2.1&lt;/span&gt; M&lt;span class="small-caps"&gt;aximum&lt;/span&gt; P&lt;span class="small-caps"&gt;ower&lt;/span&gt;—F&lt;span class="small-caps"&gt;uel&lt;/span&gt; C&lt;span class="small-caps"&gt;onsumption&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;5.2.2&lt;/span&gt; V&lt;span class="small-caps"&gt;arying&lt;/span&gt; P&lt;span class="small-caps"&gt;ower&lt;/span&gt;—F&lt;span class="small-caps"&gt;uel&lt;/span&gt; C&lt;span class="small-caps"&gt;onsumption&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;5.2.3&lt;/span&gt; Power at Standard Power Take-Off Speed—(This run is made only when the engine speed at SAE standard power take-off speed does not correspond to the engine speed at the maximum power run (&lt;span class="xref"&gt;5.2.1&lt;/span&gt;).)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;b&gt;&lt;span class="xref"&gt;5.3&lt;/span&gt; Drawbar Performance&lt;/b&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;5.3.1&lt;/span&gt; M&lt;span class="small-caps"&gt;aximum&lt;/span&gt; D&lt;span class="small-caps"&gt;rawbar&lt;/span&gt; P&lt;span class="small-caps"&gt;ower&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;5.3.2&lt;/span&gt; V&lt;span class="small-caps"&gt;arying&lt;/span&gt; D&lt;span class="small-caps"&gt;rawbar&lt;/span&gt; P&lt;span class="small-caps"&gt;ower&lt;/span&gt;—F&lt;span class="small-caps"&gt;uel&lt;/span&gt; C&lt;span class="small-caps"&gt;onsumption&lt;/span&gt;, I&lt;span class="small-caps"&gt;ncluding&lt;/span&gt; S&lt;span class="small-caps"&gt;ound&lt;/span&gt; L&lt;span class="small-caps"&gt;evel at&lt;/span&gt; O&lt;span class="small-caps"&gt;perator&lt;/span&gt; S&lt;span class="small-caps"&gt;tation&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;5.3.3&lt;/span&gt; D&lt;span class="small-caps"&gt;rawbar&lt;/span&gt; P&lt;span class="small-caps"&gt;ull&lt;/span&gt; V&lt;span class="small-caps"&gt;ersus&lt;/span&gt; T&lt;span class="small-caps"&gt;ravel&lt;/span&gt; S&lt;span class="small-caps"&gt;peed&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;5.3.4&lt;/span&gt; E&lt;span class="small-caps"&gt;xterior&lt;/span&gt; S&lt;span class="small-caps"&gt;ound&lt;/span&gt; L&lt;span class="small-caps"&gt;evel&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;i&gt;&lt;span class="xref"&gt;Section 6&lt;/span&gt;—Final Inspection&lt;/i&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;i&gt;&lt;span class="xref"&gt;Section 7&lt;/span&gt;—Calculations and Formulas&lt;/i&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;i&gt;&lt;span class="xref"&gt;Section 8&lt;/span&gt;—Uniform Method of Publishing Results&lt;/i&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

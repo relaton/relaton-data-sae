@@ -1,0 +1,58 @@
+---
+id: SAEAS8010C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aviator's Breathing Oxygen Purity Standard
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8010c
+- type: src
+  content: https://saemobilus.sae.org/standards/as8010c-aviators-breathing-oxygen-purity-standard
+docidentifier:
+- content: SAE AS8010C
+  type: SAE
+  primary: true
+- content: 10.4271/as8010c
+  type: DOI
+date:
+- type: approved
+  at: '2012-10-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document defines the minimum degree of purity and maximum levels of certain deleterious impurities allowable for aviator's breathing oxygen at the point of manufacture or generation. It covers gaseous, liquid, and chemically generated oxygen, and oxygen supplied by in situ concentration and in situ electrolysis.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Different limits are established for oxygen from different sources, in recognition of differences in the ways the oxygen is stored, dispensed, and utilized, taking into account the safety of the user. These limits are not intended to specifically reflect upon the relative capabilities or merits of various technologies. Procurement documents may specify more stringent limits, where required for specific applications.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Medical oxygen is not covered by this standard. In the United States, medical oxygen is a prescription drug.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,54 @@
+---
+id: SAEAMS4995B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Billets and Preforms, 5Al 2Sn 2Zr 4Cr 4Mo 0.10O₂, Premium Quality, Powder-Metallurgy
+    Product
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4995b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4995b-billets-preforms-5al-2sn-2zr-4cr-4mo-010o-premium-quality-powder-metallurgy-product
+docidentifier:
+- content: SAE AMS4995B
+  type: SAE
+  primary: true
+- content: 10.4271/ams4995b
+  type: DOI
+date:
+- type: approved
+  at: '1998-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G Titanium and Refractory Metals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers a premium-quality, titanium alloy powder-metallurgy
+    product in the form of billets and preforms for forgings.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAMS37262B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Shims, Filled Resin Compound Precatalyzed Sheet
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3726/2b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams37262b-shims-filled-resin-compound-precatalyzed-sheet
+docidentifier:
+- content: SAE AMS3726/2B
+  type: SAE
+  primary: true
+- content: 10.4271/ams3726/2b
+  type: DOI
+date:
+- type: approved
+  at: '2002-07-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P Polymeric Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification covers a filled, resinous, thermosetting, precatalyzed
+    compound in the form of sheet capable of being applied and cured in place between
+    the surfaces of mechanically fastened (joined) structures.  This product has been
+    used typically as a molded shim during assembly of aircraft components and parts,
+    but usage is not limited to such applications.  The compound covered by this detail
+    specification requires storage in the frozen condition until just prior to installation.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEJ3117_202307
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Un-Shielded Balanced Single Twisted Pair Ethernet Cable
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3117_202307
+- type: src
+  content: https://saemobilus.sae.org/standards/j3117_202307-un-shielded-balanced-single-twisted-pair-ethernet-cable
+docidentifier:
+- content: SAE J3117_202307
+  type: SAE
+  primary: true
+- content: 10.4271/j3117_202307
+  type: DOI
+date:
+- type: approved
+  at: '2023-07-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Cable Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>&lt;p&gt;This document covers un-shielded balanced single twisted pair
+    data cable intended for use in surface vehicle cables for 100 Mbps Ethernet applications.
+    The tests in this document are intended to qualify cables for normal operation
+    in an automotive environment while maintaining the necessary electrical properties
+    for reliable data transmission.&lt;/p&gt;</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

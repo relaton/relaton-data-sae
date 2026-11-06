@@ -1,0 +1,55 @@
+---
+id: SAEAMS4265A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Particulate Reinforced Extrusions 6092/Sic/25p - T6p Solution
+    Heat Treated, Quenched, and Precipitation Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4265a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4265a-aluminum-alloy-particulate-reinforced-extrusions-6092-sic-25p-t6p-solution-heat-treated-quenched-precipitation-heat-treated
+docidentifier:
+- content: SAE AMS4265A
+  type: SAE
+  primary: true
+- content: 10.4271/ams4265a
+  type: DOI
+date:
+- type: approved
+  at: '2000-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;This specification covers particulate reinforced aluminum metal matrix composites in the form of extruded shapes.&lt;/p&gt;
+    &lt;p&gt;These extrusions have been used typically for structural applications requiring moderate static strength and high elastic modulus, but usage is not limited to such applications.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

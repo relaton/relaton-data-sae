@@ -1,0 +1,57 @@
+---
+id: SAEAS1491B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Interline Air Cargo Pallets
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1491b
+- type: src
+  content: https://saemobilus.sae.org/standards/as1491b-interline-air-cargo-pallets
+docidentifier:
+- content: SAE AS1491B
+  type: SAE
+  primary: true
+- content: 10.4271/as1491b
+  type: DOI
+date:
+- type: approved
+  at: '2023-01-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard specifies the dimensional, design criteria, fabrication, performance, operational, environmental, and testing requirements for interline pallets requiring airworthiness approval for loading onto civil transport aircraft equipped with NAS3610/AS36100 restraint systems and using pallet nets meeting the requirements of AS1492. Type II/2 covers NAS3610/AS36100 code sizes. Type III pallets have been removed from this SAE Aerospace Standard revision.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

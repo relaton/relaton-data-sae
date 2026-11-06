@@ -1,0 +1,61 @@
+---
+id: SAEAS3902928C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CONTACTS, ELECTRICAL CONNECTOR, PIN, CRIMP REMOVABLE, SHIELDED, SIZE 12
+    (FOR MIL-DTL-38999 SERIES I, II, III AND IV CONNECTORS)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as39029/28c
+- type: src
+  content: https://saemobilus.sae.org/standards/as3902928c-contacts-electrical-connector-pin-crimp-removable-shielded-size-12-mil-dtl-38999-series-i-ii-iii-iv-connectors
+docidentifier:
+- content: SAE AS39029/28C
+  type: SAE
+  primary: true
+- content: 10.4271/as39029/28c
+  type: DOI
+date:
+- type: approved
+  at: '2026-03-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C1 Connectors Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

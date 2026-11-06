@@ -1,0 +1,57 @@
+---
+id: SAEAMS32673
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: SEALING COMPOUND, LOW ADHESION, CORROSION INHIBITING 200 - 600 Poises (20
+    - 60 Pa·s), 2 Hour Application Time (A-2)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3267/3
+- type: src
+  content: https://saemobilus.sae.org/standards/ams32673-sealing-compound-low-adhesion-corrosion-inhibiting-200-600-poises-20-60-pas-2-hour-application-time-a-2
+docidentifier:
+- content: SAE AMS3267/3
+  type: SAE
+  primary: true
+- content: 10.4271/ams3267/3
+  type: DOI
+date:
+- type: approved
+  at: '1992-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G9 Aerospace Sealing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers accelerated curing synthetic rubber compounds with corrosion inhibitors and low adhesive strength supplied as a two-component system.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

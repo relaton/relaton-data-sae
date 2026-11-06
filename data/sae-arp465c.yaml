@@ -1,0 +1,55 @@
+---
+id: SAEARP465C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Flange - Thermocouple
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp465c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp465c-flange-thermocouple
+docidentifier:
+- content: SAE ARP465C
+  type: SAE
+  primary: true
+- content: 10.4271/arp465c
+  type: DOI
+date:
+- type: approved
+  at: '2024-06-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>&lt;p&gt;This SAE Aerospace Recommended Practice (ARP) provides guidance
+    for the design of flanges on temperature sensors intended for use in gas turbine
+    engines. Three figures detail the configuration of standard size flange mounts
+    with bolt holes, slotted flanges, and miniaturized flanges for small probes.&lt;/p&gt;</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

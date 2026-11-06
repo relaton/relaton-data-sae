@@ -1,0 +1,53 @@
+---
+id: SAEMAM2625C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Pressure Testing, Hydraulic, 17.5 Mpa
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/mam2625c
+- type: src
+  content: https://saemobilus.sae.org/standards/mam2625c-pressure-testing-hydraulic-175-mpa
+docidentifier:
+- content: SAE MAM2625C
+  type: SAE
+  primary: true
+- content: 10.4271/mam2625c
+  type: DOI
+date:
+- type: approved
+  at: '2001-11-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This specification provides requirements and procedures for hydraulic-pressure
+    leak testing of parts.  AMS 2625 is the inch/pound version of this MAM.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

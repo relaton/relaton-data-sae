@@ -1,0 +1,58 @@
+---
+id: SAEARP4418A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Procedure for Sampling and Measurement of Engine and APU Generated Contaminants
+    in Bleed Air Supplies from Aircraft Engines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4418a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4418a-procedure-sampling-measurement-engine-apu-generated-contaminants-bleed-air-supplies-aircraft-engines
+docidentifier:
+- content: SAE ARP4418A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4418a
+  type: DOI
+date:
+- type: approved
+  at: '2008-01-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-31B Bleed Air Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Aircraft propulsion engine and APU manufacturers shall demonstrate that air provided to the aircraft cabin is of acceptable quality. This ARP provides the basic information required to perform an engine bleed air quality certification test. This document provides the recommended levels and describes the measurement procedures required for the quantification of gaseous and particulate contaminants, which may be present in aircraft engine bleed air.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

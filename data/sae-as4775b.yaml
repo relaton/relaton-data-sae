@@ -1,0 +1,58 @@
+---
+id: SAEAS4775B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Maintenance Jacks - General Requirements
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4775b
+- type: src
+  content: https://saemobilus.sae.org/standards/as4775b-aircraft-maintenance-jacks-general-requirements
+docidentifier:
+- content: SAE AS4775B
+  type: SAE
+  primary: true
+- content: 10.4271/as4775b
+  type: DOI
+date:
+- type: approved
+  at: '2021-09-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-3 Aircraft Ground Support Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document covers the general requirements for hydraulic aircraft jacks. It can be applied to tripod, unipod, and axle jacks that may be used on open ramp areas as well as in the aircraft hangar.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Throughout this Aerospace Standard, the minimum essential criteria are identified by the key word “shall”. Recommended criteria are identified by use of the key word “should”. Deviation from recommended criteria should only occur after careful consideration and thorough service evaluation have shown alternate methods to provide an equivalent level of safety.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The term “vertical load” throughout this Aerospace Standard is defined as the force imposed on the aircraft jack at the airframe jack point.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

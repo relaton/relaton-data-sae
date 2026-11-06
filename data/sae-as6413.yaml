@@ -1,0 +1,58 @@
+---
+id: SAEAS6413
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Performance-Based Package Standard for Lithium-Ion Cylindrical Cells as
+    Cargo on Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6413
+- type: src
+  content: https://saemobilus.sae.org/standards/as6413-performance-based-package-standard-lithium-ion-cylindrical-cells-cargo-aircraft
+docidentifier:
+- content: SAE AS6413
+  type: SAE
+  primary: true
+- content: 10.4271/as6413
+  type: DOI
+date:
+- type: approved
+  at: '2024-10-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-27 Lithium Battery Packaging Performance
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) specifies the testing requirements, including test equipment, to demonstrate a package of lithium-ion (UN3480) cylindrical cells of a format of 21700 or smaller intended for air transport contains the potential hazardous effects to the aircraft resulting from the failure of a cell within the package.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The test described in this standard is intended to force a cylindrical lithium-ion cell into thermal runaway using thermal energy applied to the exterior of a cell. It is understood that, in the future, technology may be developed that will prevent cells from going into thermal runaway by this standard’s test protocol. The scope of this standard may be expanded as more technology and information become available.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

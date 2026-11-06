@@ -1,0 +1,58 @@
+---
+id: SAEAIR787A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Filter Element Cleaning Methods
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air787a
+- type: src
+  content: https://saemobilus.sae.org/standards/air787a-filter-element-cleaning-methods
+docidentifier:
+- content: SAE AIR787A
+  type: SAE
+  primary: true
+- content: 10.4271/air787a
+  type: DOI
+date:
+- type: approved
+  at: '2013-10-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides technical information to assist the development of specific cleaning methods for filter elements. Consideration is limited to filter elements which are designated as "cleanable" (not "disposable"), but which cannot be cleaned by simple and obvious procedures. Cleaning methods developed according to this report should be evaluated by the methods of ARP725.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Satisfactory cleaning methods can be developed for most "cleanable" filter elements. Technical or economic feasibility of the cleaning method may be limited, however, by incompatibility of filter-element construction materials, by mechanical weakness or lack of corrosion resistance to withstand repeated or continued cleaning, or by the presence of unusually tenacious contamination. These factors must be considered when selecting approaches to the development of specific methods.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

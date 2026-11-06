@@ -1,0 +1,56 @@
+---
+id: SAEAIR1973
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: INDEX OF HYDRAULIC SYSTEM COMPONENT MANUFACTURERS AND THEIR TRADEMARKS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1973
+- type: src
+  content: https://saemobilus.sae.org/standards/air1973-index-hydraulic-system-component-manufacturers-trademarks
+docidentifier:
+- content: SAE AIR1973
+  type: SAE
+  primary: true
+- content: 10.4271/air1973
+  type: DOI
+date:
+- type: approved
+  at: '1987-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Listings are current and former manufacturers of aerospace fittings, couplings, hose and tube support devices that are within the scope of activities of the SAE G-3 Committee and available at the time of publication. Suggestions for additional listings may be sent to the SAE in Warrendale, PA.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

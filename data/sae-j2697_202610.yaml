@@ -1,0 +1,78 @@
+---
+id: SAEJ2697_202610
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Inverter Requirements for Class Eight Trucks - Truck and Bus
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2697_202610
+- type: src
+  content: https://saemobilus.sae.org/standards/j2697_202610-inverter-requirements-class-eight-trucks-truck-bus
+docidentifier:
+- content: SAE J2697_202610
+  type: SAE
+  primary: true
+- content: 10.4271/j2697_202610
+  type: DOI
+date:
+- type: approved
+  at: '2026-10-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Electrical Systems Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice is intended to describe the application of single-phase DC to AC inverters, and bidirectional inverter/chargers, which supply power to ac loads in Class heavy duty on-highway trucks (10K GVW). The document identifies appropriate operating performance requirements and adds some insight into inverter selection.
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;This document applies to factory and after-market installed DC-to-AC inverter systems (Including inverter chargers) providing up 3000 W of 120 VAC line-voltage power as a convenience for operator and passenger use. Such inverters are intended to power user loads not essential to vehicle Operation or safety (e.g., HVAC, TV, microwave ovens, battery chargers for mobile phones or laptop computers, audio equipment, etc.).&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Systems incorporate the inverter itself as well as the input, output, control, and signal wiring associated with the inverter. Requirements are given for the performance, safety, reliability, and environmental compatibility of the system.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;These are recommended requirements to be used by vehicle manufacturers in the development of their own specifications, which may incorporate more or less stringent requirements.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;This document scope excludes military vehicles, bus and 28 V systems.&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

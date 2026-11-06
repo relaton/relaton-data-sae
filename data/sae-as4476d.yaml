@@ -1,0 +1,61 @@
+---
+id: SAEAS4476D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HOSE ASSEMBLY, LINED SILICONE, 125 PSI, FLARELESS, POTABLE WATER, STRAIGHT
+    MALE TO 45° FEMALE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4476d
+- type: src
+  content: https://saemobilus.sae.org/standards/as4476d-hose-assembly-lined-silicone-125-psi-flareless-potable-water-straight-male-45-female
+docidentifier:
+- content: SAE AS4476D
+  type: SAE
+  primary: true
+- content: 10.4271/as4476d
+  type: DOI
+date:
+- type: approved
+  at: '2026-02-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

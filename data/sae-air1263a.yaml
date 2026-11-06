@@ -1,0 +1,54 @@
+---
+id: SAEAIR1263A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Tin Plated Solderless Terminal Lugs and Splices on Nickel Coated High Temperature
+    Wire
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1263a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1263a-tin-plated-solderless-terminal-lugs-splices-nickel-coated-high-temperature-wire
+docidentifier:
+- content: SAE AIR1263A
+  type: SAE
+  primary: true
+- content: 10.4271/air1263a
+  type: DOI
+date:
+- type: approved
+  at: '2020-02-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C2 Terminating Devices and Tooling Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>&lt;p&gt;This publication formally cautions against terminating nickel
+    coated wire with tin plated insulated or uninsulated crimped solderless terminations.&lt;/p&gt;</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

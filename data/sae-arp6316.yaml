@@ -1,0 +1,59 @@
+---
+id: SAEARP6316
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Performance Standards for Oblique Facing Passenger Seats in Transport Aircraft
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6316
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6316-performance-standards-oblique-facing-passenger-seats-transport-aircraft
+docidentifier:
+- content: SAE ARP6316
+  type: SAE
+  primary: true
+- content: 10.4271/arp6316
+  type: DOI
+date:
+- type: approved
+  at: '2016-05-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aircraft Seat Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) documents a common understanding of terms, compliance issues, and occupant injury criteria to facilitate the design and certification of oblique facing passenger seat installations specific to Part 25 aircraft.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The applicability of the criteria listed in this current release is limited to seats with an occupant facing direction greater than 18 and no greater than 30 degrees relative to the aircraft longitudinal axis. Later revisions are intended to provide criteria for other facing directions. Performance criteria for side facing seats installed with the occupant facing direction at 90 degrees relative to the aircraft longitudinal axis are provided in AS8049/1.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Seats installed at angles greater than 30 degrees relative to the aircraft longitudinal axis must have an energy absorbing rest or shoulder harness. However, this document does not provide the criteria for oblique facing seats incorporating such rests. Satisfying the criteria listed in &lt;span class="xref"&gt;Table 2&lt;/span&gt; may satisfy the requirement for a rest.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Although the issues and criteria presented in this document are common with oblique facing seats installed in Part 23 aircraft and Parts 27 and 29 rotorcraft, these recommendations have not been validated for these types of aircraft.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

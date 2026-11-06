@@ -1,0 +1,69 @@
+---
+id: SAEAIR4899A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Cargo Compartments Maximum Package Size Calculation Methodology
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4899a
+- type: src
+  content: https://saemobilus.sae.org/standards/air4899a-cargo-compartments-maximum-package-size-calculation-methodology
+docidentifier:
+- content: SAE AIR4899A
+  type: SAE
+  primary: true
+- content: 10.4271/air4899a
+  type: DOI
+date:
+- type: approved
+  at: '2014-03-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AGE-2 Air Cargo
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The methodology for maximum package size loading is based on a mathematical method allowing the calculation of maximum package size tables.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This method does not in principal differentiate between bulk loading and cargo system loading.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;However, some restrictions have to be considered:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Some cargo systems generate pre-determined pallet trajectories. Envelope curves depending on the pallet size and the possible trajectories have to be determined first.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Door geometric limitations (with or without cargo loading system)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Turning limitations due to weight, load geometry and conveyance capability&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Securing requirements&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is not intended for airline operational use. It should be used by engineers performing calculations or developing computer programs to produce Maximum Package Size tables specified in AS1825.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

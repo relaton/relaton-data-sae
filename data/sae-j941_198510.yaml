@@ -1,0 +1,56 @@
+---
+id: SAEJ941_198510
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MOTOR VEHICLE DRIVER'S EYE RANGE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j941_198510
+- type: src
+  content: https://saemobilus.sae.org/standards/j941_198510-motor-vehicle-drivers-eye-range
+docidentifier:
+- content: SAE J941_198510
+  type: SAE
+  primary: true
+- content: 10.4271/j941_198510
+  type: DOI
+date:
+- type: approved
+  at: '1985-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Driver Vision Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice establishes two dimensional Eyellipses representative of 90th, 95th and 99th percentile distributions of driver eye locations for use in passenger cars, trucks, buses and multipurpose passenger vehicles. New information obtained from the SAE Truck Driver Anthropometric and Workspace Study has resulted in development of new eye location procedures for trucks and other vehicles with high H-point heights and large steering wheel diameters. Therefore, this practice has been separated into two parts. Part I describes the eye location procedure for vehicles with H-point heights (H30) and steering wheel diameters (W9) less than 405mm and 450mm, respectively, which includes passenger cars, vans and light trucks (Class A Vehicles). Part I is currently under revision based on information obtained from new driver eye location studies. Part II describes a separate eye locating procedure for vehicles with H-point heights (H30) between 405 and 530mm and steering wheel diameters (W9) between 450 and 560mm (Class B Vehicles). See &lt;span class="xref"&gt;Fig. 7&lt;/span&gt;. This class of vehicles includes heavy trucks and some buses and multipurpose passenger vehicles.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

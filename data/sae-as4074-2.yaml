@@ -1,0 +1,70 @@
+---
+id: SAEAS40742
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Type F-2 Fiber Optic Media Interface Characteristics
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4074/2
+- type: src
+  content: https://saemobilus.sae.org/standards/as40742-type-f-2-fiber-optic-media-interface-characteristics
+docidentifier:
+- content: SAE AS4074/2
+  type: SAE
+  primary: true
+- content: 10.4271/as4074/2
+  type: DOI
+date:
+- type: approved
+  at: '2001-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-1A Avionic Networks Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This slash sheet specifies the operational parameters and characteristics of a particular implementation of the SAE Linear, Token Passing Bus (LTPB) Interface Unit.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This slash sheet defines the following:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The physical media interface: This slash sheet specifies the characteristics of the optical interface to the physical bus media.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The minimum and maximum timing requirements for operation of this implementation of the LTPB.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The data coding used to encode and decode the data for transmission.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The default values to be loaded into the timers of the LTPB interface at power-up prior to intervention by the host processor.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

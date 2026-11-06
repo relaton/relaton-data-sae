@@ -1,0 +1,57 @@
+---
+id: SAEAMS7274K
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Rubber: Acrylonitrile-Butadiene (NBR) Engine Oil Resistance, 65 to 75
+    Hardness, for Seals in Aircraft Engine Oil Systems'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7274k
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7274k-rubber-acrylonitrile-butadiene-nbr-engine-oil-resistance-65-75-hardness-seals-aircraft-engine-oil-systems
+docidentifier:
+- content: SAE AMS7274K
+  type: SAE
+  primary: true
+- content: 10.4271/ams7274k
+  type: DOI
+date:
+- type: approved
+  at: '2020-07-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS CE Elastomers Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an acrylonitrile-butadiene (NBR) rubber in the form of molded rings, compression seals, O-ring cord, and molded-in-place gaskets for aeronautical and aerospace applications. For sheet, strip, tubing, extrusions, and molded shapes, use the AMS3XXX specification which is intended for that use.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEAIR1603
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AUXILIARY POWER SYSTEM CONSIDERATIONS FOR ADVANCED MILITARY AIRCRAFT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1603
+- type: src
+  content: https://saemobilus.sae.org/standards/air1603-auxiliary-power-system-considerations-advanced-military-aircraft
+docidentifier:
+- content: SAE AIR1603
+  type: SAE
+  primary: true
+- content: 10.4271/air1603
+  type: DOI
+date:
+- type: approved
+  at: '1993-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-6 Starting Systems and Auxiliary Power Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document provides a brief description of the auxiliary power equipment that is available with enough description and pertinent comments to enable an engineer to make logical preliminary selection of the appropriate equipment for advanced military aircraft programs. The information has been kept as brief as possible to include the maximum amount of equipment in a relatively short document. It is not intended to replace textbook design analysis or detailed information available from the equipment suppliers.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The document describes auxiliary power equipment. Auxiliary power is defined as follows: "Those elements of secondary power [defined as all aircraft nonpropulsive power generation and transmission] related to main engine bleed air and shaft power extraction or power generation separate from the main engines. Included are engine bleed air systems, remote engine driven gearboxes, engine starting systems, auxiliary power units, and emergency power systems." Additional definitions may be found in ARP906A which is the source of this definition.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Some closely related systems which are not discussed in detail, include thermal management, environmental control, electrical, and hydraulic systems.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,48 @@
+---
+id: SAEAMS4350G
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MAGNESIUM ALLOY EXTRUSIONS 6.5Al - 1.0Zn (AZ61A-F)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4350g
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4350g-magnesium-alloy-extrusions-65al-10zn-az61a-f
+docidentifier:
+- content: SAE AMS4350G
+  type: SAE
+  primary: true
+- content: 10.4271/ams4350g
+  type: DOI
+date:
+- type: approved
+  at: '1966-03-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

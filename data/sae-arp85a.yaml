@@ -1,0 +1,69 @@
+---
+id: SAEARP85A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HEATING AND VENTILATING EQUIPMENT, AIRPLANE-GENERAL REQUIREMENTS FOR
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp85a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp85a-heating-ventilating-equipment-airplane-general-requirements
+docidentifier:
+- content: SAE ARP85A
+  type: SAE
+  primary: true
+- content: 10.4271/arp85a
+  type: DOI
+date:
+- type: approved
+  at: '1943-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification is written to cover heating and ventilating equipment under four main classifications, namely;&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;A&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;HEATING AND VENTILATING EQUIPMENT - GENERAL - Dealing with features applicable to all makes and uses.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;B&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;HEATING AND VENTILATING EQUIPMENT - MILITARY - Dealing with features applicable only to military aircraft.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;C&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;HEATING AND VENTILATING EQUIPMENT - COMMERCIAL - Dealing with features applicable only to commercial aircraft.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;D&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;DESIRABLE DESIGN FEATURES - General information for use of those concerned in meeting requirements contained herein.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

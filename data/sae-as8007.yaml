@@ -1,0 +1,56 @@
+---
+id: SAEAS8007
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Minimum Safe Performance Over Speed Warning Instruments
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8007
+- type: src
+  content: https://saemobilus.sae.org/standards/as8007-minimum-safe-performance-speed-warning-instruments
+docidentifier:
+- content: SAE AS8007
+  type: SAE
+  primary: true
+- content: 10.4271/as8007
+  type: DOI
+date:
+- type: approved
+  at: '2023-06-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-4ADWG Air Data Subcommittee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This AS defines instruments which use inputs of static and pitot pressure equal to those which are utilized to establish the pressure altitude and speed of that aircraft. These pressures are applied to the instrument ports to provide means for generation of an aural warning whenever the aircraft reaches or exceeds the maximum operating limit speed. This Over Speed Warning Instrument function may be incorporated as part of an Air Data Computer, or an Air Speed Indicator, or an Air Speed/Mach Number Indicator, or other instruments. In those cases where the Over Speed Warning Instrument is part of another instrument, the standards contained herein apply only to the Over Speed Warning Instrument function. Each aircraft type and model has a defined maximum operating limit speed curve or curves which are a part of the airframe manufacturer's type certification approval data; this limit speed data shall be available from the subject airframe manufacturer as published in the operating manual for the aircraft type and model number and configuration.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

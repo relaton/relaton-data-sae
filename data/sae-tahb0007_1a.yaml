@@ -1,0 +1,60 @@
+---
+id: SAETAHB0007_1A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Logistics Product Data Summaries Handbook
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/tahb0007_1a
+- type: src
+  content: https://saemobilus.sae.org/standards/tahb0007_1a-logistics-product-data-summaries-handbook
+docidentifier:
+- content: SAE TAHB0007_1A
+  type: SAE
+  primary: true
+- content: 10.4271/tahb0007_1a
+  type: DOI
+date:
+- type: approved
+  at: '2023-08-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: LCLS Life Cycle Logistics Supportability
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE TA-HB-0007-1A is an integral part of the following suite of documents, which are meant to be used together: SAE TA-STD-0017A, Product Support Analysis, SAE GEIA-STD-0007C, Logistics Product Data, SAE GEIA-HB-0007B, Logistics Product Data Handbook, and SAE TA-HB-0007-1A. MIL-HDBK-502A, Product Support Analysis provides additional guidance and instruction applicable to United States DoD programs.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE TA-STD-0017A Product Support Analysis is a standard which prescribes a set of analysis activities for designing support and supporting the design of a product. MIL-HDBK-502A provides DoD users with implementation guidance for SAE TA-STD-0017A. The results of the analysis are Logistics Product Data. SAE GEIA-HB-0007B is a companion handbook to SAE GEIA-STD-0007C. The handbook provides standard guidance (i.e., how to), data population during life cycle phases, tailoring, contracting, data selection, a data map, and detailed information on data development for key and major fields (LCN, PLISN, UOC, etc.).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE GEIA-STD-0007C provides a comprehensive list of data elements that can be generated as a result of the Product Support Analysis conducted during the design, development, and initial fielding of a system or end item (EI). It captures information related to logistics design requirements, reliability and maintainability, system safety, maintenance engineering, support and test equipment, training and training devices, manpower and skills, facilities, transportation, supply support, and parts packaging. The most important aspect of the data in SAE GEIA-STD-0007C is that it is used to generate the logistics support products (e.g., operator and maintainer manuals, supply support lists, training programs for operators/maintainers, etc.) required to sustain a system or end item. These products can be generated using the summary specifications in SAE TA-HB-0007-1A. The summary specifications are written to take advantage of the data element and entity relationships in SAE GEIA-STD-0007C. &lt;span class="xref"&gt;Figure 1&lt;/span&gt; illustrates the interrelations between the suite of documents.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;SAE TA-HB-0007-1A is written primarily with two audiences in mind: The software developer and the data consumer. Instructions for software developers are intended to explain the relationships between data elements and summary elements, as well as how to produce the LPD summaries from those data elements. Software developers should pay particular attention to the following sections within each summary specification: Summary Scope, Summary Selection, Summary Processing/Business Rules, Summary Sequence and Summary Format. Data consumers should pay particular attention to the Introduction, Associated Statutes, Regulations, Policy, Standards, Handbooks, and Data Item Descriptions (DID), Tailoring, and Data Sources. Data consumers can use the tables of data sources to determine the breadth and depth of data that is displayed on each summary. This is particularly helpful when contracting for the data and the summaries, since contracting for a particular summary requires contracting for all of the required data elements as identified in the summary.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,60 @@
+---
+id: SAEJ19391_200009
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Recommended Practice for Control and Communications Network for On-Highway
+    Equipment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939/1_200009
+- type: src
+  content: https://saemobilus.sae.org/standards/j19391_200009-recommended-practice-control-communications-network-highway-equipment
+docidentifier:
+- content: SAE J1939/1_200009
+  type: SAE
+  primary: true
+- content: 10.4271/j1939/1_200009
+  type: DOI
+date:
+- type: approved
+  at: '2000-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This series of recommended practices are intended for heavy duty vehicles used on roads (on-highway). It is recognized that these recommended practices or portions may be utilized for other applications such as stationary applications which use vehicle derived components (e.g., generator sets). Such alternative applications are allowed even though they are not the primary intent of this SAE recommended practice.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The purpose of these recommended practices is to provide an open interconnect system for electronic systems. It is the intention of these recommended practices to allow electronic devices to communicate with each other by providing a standard architecture.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Vehicles covered include all on-highway straight trucks and road trains. A road train consists of one towing vehicle (tractor), and one or more towed vehicle(s) (trailers and dollies). Dolly axles within the road train are considered to be towed vehicles.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

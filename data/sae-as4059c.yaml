@@ -1,0 +1,56 @@
+---
+id: SAEAS4059C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Fluid Power - Cleanliness Classification for Hydraulic Fluids
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as4059c
+- type: src
+  content: https://saemobilus.sae.org/standards/as4059c-aerospace-fluid-power-cleanliness-classification-hydraulic-fluids
+docidentifier:
+- content: SAE AS4059C
+  type: SAE
+  primary: true
+- content: 10.4271/as4059c
+  type: DOI
+date:
+- type: approved
+  at: '2000-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) defines cleanliness levels for particulate contamination of hydraulic fluids and includes methods of reporting data relating to the contamination levels. The contamination levels selected are an extension of the widely accepted NAS 1638 cleanliness levels.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

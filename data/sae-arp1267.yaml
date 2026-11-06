@@ -1,0 +1,57 @@
+---
+id: SAEARP1267
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Electromagnetic Interference Measurement Impulse Generators; Standard Calibration
+    Requirements and Techniques
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1267
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1267-electromagnetic-interference-measurement-impulse-generators-standard-calibration-requirements-techniques
+docidentifier:
+- content: SAE ARP1267
+  type: SAE
+  primary: true
+- content: 10.4271/arp1267
+  type: DOI
+date:
+- type: approved
+  at: '2013-02-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-4 Electromagnetic Compatibility (EMC) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice (ARP) describes a standard method and means for measuring or calibrating the "Spectrum Amplitude" output of an impulse generator.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

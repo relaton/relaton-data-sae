@@ -1,0 +1,56 @@
+---
+id: SAEUSCAR24
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: USCAR INFLATOR TECHNICAL REQUIREMENTS AND VALIDATION
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar24
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar24-uscar-inflator-technical-requirements-validation
+docidentifier:
+- content: SAE USCAR-24
+  type: SAE
+  primary: true
+- content: 10.4271/uscar24
+  type: DOI
+date:
+- type: approved
+  at: '2004-06-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes the performance, and validation requirements for the inflator assembly used in airbag modules. Pretensioners are covered only in respect to their effluents as included in Section &lt;span class="xref"&gt;3.2.3&lt;/span&gt;, Effluents and their autoignition performance as included in Section &lt;span class="xref"&gt;3.2.5&lt;/span&gt;, Autoignition, High Temperature Oven Performance/Autoignition of Heat Aged Inflators&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAMS38132A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Rope, Aramid Fiber, Jacketed Parallel Strand, Extruded Jacket
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams3813/2a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams38132a-rope-aramid-fiber-jacketed-parallel-strand-extruded-jacket
+docidentifier:
+- content: SAE AMS3813/2A
+  type: SAE
+  primary: true
+- content: 10.4271/ams3813/2a
+  type: DOI
+date:
+- type: approved
+  at: '1998-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS P Polymeric Materials Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers parallel-strand ropes formed from impregnated aramid fibers.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

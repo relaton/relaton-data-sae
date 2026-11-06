@@ -1,0 +1,58 @@
+---
+id: SAEARP5623
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Mobile Digital Infrared Pavement Surface, Ambient Air and Dew Point Temperature
+    Sensor System
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5623
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5623-mobile-digital-infrared-pavement-surface-ambient-air-dew-point-temperature-sensor-system
+docidentifier:
+- content: SAE ARP5623
+  type: SAE
+  primary: true
+- content: 10.4271/arp5623
+  type: DOI
+date:
+- type: approved
+  at: '2013-02-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-15 Airport Snow and Ice Control Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) covers the requirements for a combined Mobile Digital Infrared Pavement Surface, Ambient Air, and Dew Point Temperature Sensing System (referred to as the system). The system monitors real-time surface, air and dew point temperatures of airfield pavement areas to ensure safe winter ground operations of aircraft and other vehicles. The vehicle mounted electronic system provides the operator with real-time readings of surface, air and dew point temperatures of airfield pavement areas including runways, taxiways, ramps, bridges, vehicular roadways, parking garages and parking lots. The electronic system shall be available with or without the dew point sensing option.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This electronic system can be utilized as a stand alone system at small airports, or may be used to augment airport operations that currently have a Stationary Runway Weather Information System (reference ARP5533). Because the electronic system is mobile, it can be utilized to measure pavement temperatures at locations where an in-pavement sensor or weather station is not located.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

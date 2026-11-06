@@ -1,0 +1,57 @@
+---
+id: SAEJ17571_200207
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Standard Metrology for Vehicular Displays
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1757/1_200207
+- type: src
+  content: https://saemobilus.sae.org/standards/j17571_200207-standard-metrology-vehicular-displays
+docidentifier:
+- content: SAE J1757/1_200207
+  type: SAE
+  primary: true
+- content: 10.4271/j1757/1_200207
+  type: DOI
+date:
+- type: approved
+  at: '2002-07-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicular Flat Panel Display Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this SAE Standard is to provide methods to determine display optical performance in all typical automotive ambient light illumination - with focus on High Ambient Contrast Ratio, which is critical for display legibility in a sunshine environment. It covers indoor measurements and simulated outdoor lighting.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is not the scope of this document to set threshold values for automotive compliance, however some recommended values are presented for reference.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

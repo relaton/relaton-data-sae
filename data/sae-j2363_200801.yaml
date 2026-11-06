@@ -1,0 +1,57 @@
+---
+id: SAEJ2363_200801
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Lubricating Oil for Wheeled Military Vehicles with Heavy-Duty Diesel Engines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2363_200801
+- type: src
+  content: https://saemobilus.sae.org/standards/j2363_200801-lubricating-oil-wheeled-military-vehicles-heavy-duty-diesel-engines
+docidentifier:
+- content: SAE J2363_200801
+  type: SAE
+  primary: true
+- content: 10.4271/j2363_200801
+  type: DOI
+date:
+- type: approved
+  at: '2008-01-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuels and Lubricants TC 1 Engine Lubrication
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This SAE Standard describes lubricating oils meeting the physical,
+    chemical and performance requirements of American Petroleum Institute (API) performance
+    categories CF and CF-2, CI 4, supplement CI-4 PLUS, and SAE J300.  These oils
+    are suitable for the lubrication of wheeled vehicles with compression-ignition
+    (diesel) engines.  This document supersedes the military's Commercial Item Description
+    (CID) A-A-52306.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

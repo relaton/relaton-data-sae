@@ -1,0 +1,49 @@
+---
+id: SAEAS24208B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CABLE AND PLUG ASSEMBLY, EXTERNAL POWER 115/200 VOLTS 3 PHASE, SINGLE POINT
+    REFUELING
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as24208b
+- type: src
+  content: https://saemobilus.sae.org/standards/as24208b-cable-plug-assembly-external-power-115-200-volts-3-phase-single-point-refueling
+docidentifier:
+- content: SAE AS24208B
+  type: SAE
+  primary: true
+- content: 10.4271/as24208b
+  type: DOI
+date:
+- type: approved
+  at: '2022-08-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8A Elec Wiring and Fiber Optic Interconnect Sys Install
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

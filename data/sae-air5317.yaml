@@ -1,0 +1,57 @@
+---
+id: SAEAIR5317
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: A Guide to APU Health Management
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5317
+- type: src
+  content: https://saemobilus.sae.org/standards/air5317-a-guide-apu-health-management
+docidentifier:
+- content: SAE AIR5317
+  type: SAE
+  primary: true
+- content: 10.4271/air5317
+  type: DOI
+date:
+- type: approved
+  at: '2011-10-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The SAE Guide to APU health management establishes the foundation for developing a successful APU health management program at any aircraft or APU operator, such as an airline, an OEM, an equipment supplier, or a military transport unit. This guide identifies the best practices for using an APU health management program to improve dispatch reliability and to satisfy Extended Operations (ETOPS) availability requirements.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

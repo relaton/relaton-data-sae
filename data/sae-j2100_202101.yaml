@@ -1,0 +1,56 @@
+---
+id: SAEJ2100_202101
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Accelerated Environmental Testing for Bonded Automotive Assemblies
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2100_202101
+- type: src
+  content: https://saemobilus.sae.org/standards/j2100_202101-accelerated-environmental-testing-bonded-automotive-assemblies
+docidentifier:
+- content: SAE J2100_202101
+  type: SAE
+  primary: true
+- content: 10.4271/j2100_202101
+  type: DOI
+date:
+- type: approved
+  at: '2021-01-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Materials, Processes and Parts Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice defines conditions to which bonded assemblies can be exposed to simulate environmental aging. These recommendations are generally based on existing Original Equipment Manufacturer requirements at this time. (Environmental specifications used for this proposal were from General Motors, Ford, and Chrysler.) The substrate type, dimension, and number are described by the standard for materials being tested and should include control specimens which receive no environmental aging.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

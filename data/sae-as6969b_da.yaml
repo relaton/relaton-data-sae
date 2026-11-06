@@ -1,0 +1,57 @@
+---
+id: SAEAS6969B_DA
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Data Dictionary for Quantities Used in Cyber Physical Systems (Enhanced
+    License)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6969b_da
+- type: src
+  content: https://saemobilus.sae.org/standards/as6969b_da-data-dictionary-quantities-used-cyber-physical-systems-enhanced-license
+docidentifier:
+- content: SAE AS6969B_DA
+  type: SAE
+  primary: true
+- content: 10.4271/as6969b_da
+  type: DOI
+date:
+- type: approved
+  at: '2021-12-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-4UCS Unmanned Systems Control Segment Architecture
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;Enhanced License for Data Dictionary for Quantities Used in Cyber Physical Systems (AS6969B) allowing for greater usage as outlined in the terms of the Enhanced License. Terms can be reviewed prior to purchase once item is added to the cart.&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href="https://www.sae.org/standards/content/as6969b/"&gt; Data Dictionary for Quantities Used in Cyber Physical Systems (AS6969B)&lt;/a&gt; This data dictionary provides definitions for quantities commonly used in the command and control of cyber physical systems. It defines mathematical and logical terms, quantities, measurement units, reference systems, measurands, and measurements. It also defines common quantity modalities. The dictionary is structured to be convenient to data modelers. It is also extendable so that users can create their own quantity domains.&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

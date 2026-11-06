@@ -1,0 +1,57 @@
+---
+id: SAEAIR5631
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Catalog of Landing Gear Systems and Suppliers
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5631
+- type: src
+  content: https://saemobilus.sae.org/standards/air5631-catalog-landing-gear-systems-suppliers
+docidentifier:
+- content: SAE AIR5631
+  type: SAE
+  primary: true
+- content: 10.4271/air5631
+  type: DOI
+date:
+- type: approved
+  at: '2009-02-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5 Aerospace Landing Gear Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this document is to provide a listing for current commercial and military aircraft landing gear systems and their types and manufacturers. Data has been provided for the following aircraft types: wide body jet airliners, narrow body jet airliners, turboprop/commuter aircraft, cargo/transport aircraft and fighter/attack aircraft. The aircraft that have been included in this document are in operational service either with airlines, business, cargo or military operators. No information is presented for aircraft that are currently being developed or that are not in extensive usage. This document will provide an informational reference for landing gear engineers to access when evaluating other gear and aircraft systems.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

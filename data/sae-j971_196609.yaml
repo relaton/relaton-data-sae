@@ -1,0 +1,59 @@
+---
+id: SAEJ971_196609
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BRAKE RATING TEST CODE – COMMERCIAL VEHICLE INERTIA DYNAMOMETER
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j971_196609
+- type: src
+  content: https://saemobilus.sae.org/standards/j971_196609-brake-rating-test-code-commercial-vehicle-inertia-dynamometer
+docidentifier:
+- content: SAE J971_196609
+  type: SAE
+  primary: true
+- content: 10.4271/j971_196609
+  type: DOI
+date:
+- type: approved
+  at: '1966-09-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Foundation Brake Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The code provides test procedures and methods of calculating a brake rating from the data obtained. At this time, the procedure has been developed to cover only brakes of the sizes and types generally used on commercial vehicles. Some general correlation may be expected between brake ratings established by this means and those obtained from vehicle tests such as outlined in SAE J880. However, the effects of brake environment as installed in various vehicles are not considered in this laboratory procedure.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The code may be used as a supplement to SAE J667, or it may be used independently.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Other methods of measuring energy absorption capacity and establishing a brake rating other than those described herein may be equally valid.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The user of this SAE Recommended Practice should also take note that the brake rating horsepower (brhp) calculated by conduct of this code is an arbitrary index of performance of the brake (and drum) when tested by this procedure and may be appreciably different from the values obtained by other techniques.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

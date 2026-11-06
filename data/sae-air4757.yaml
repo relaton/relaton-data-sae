@@ -1,0 +1,68 @@
+---
+id: SAEAIR4757
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ARP4754B Clarification Notice
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4757
+- type: src
+  content: https://saemobilus.sae.org/standards/air4757-arp4754b-clarification-notice
+docidentifier:
+- content: SAE AIR4757
+  type: SAE
+  primary: true
+- content: 10.4271/air4757
+  type: DOI
+date:
+- type: approved
+  at: '2026-06-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-18 Aircraft and Sys Dev and Safety Assessment Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this AIR is to provide additional information on some areas of ARP4754B/ED-79B that may need additional clarification in order to be put into practice. This document should be used in conjunction with ARP4754B/ED-79B. The contents are recommendations and should not be construed to be regulatory requirements. This document may be revised with additional information as ARP4754B/ED-79B is put into practice.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

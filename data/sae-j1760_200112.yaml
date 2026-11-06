@@ -1,0 +1,63 @@
+---
+id: SAEJ1760_200112
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Data Security Services
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1760_200112
+- type: src
+  content: https://saemobilus.sae.org/standards/j1760_200112-data-security-services
+docidentifier:
+- content: SAE J1760_200112
+  type: SAE
+  primary: true
+- content: 10.4271/j1760_200112
+  type: DOI
+date:
+- type: approved
+  at: '2001-12-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Motor Vehicle Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this SAE Recommended Practice is to require the use of the same Security Services as defined by the International Standard ISO/CD 15764, modified by the Class of Security as determined by the resource provider and referenced in &lt;span class="xref"&gt;Table 1&lt;/span&gt;, Extended Data Link Security References.&lt;/div&gt;
+
+
+
+
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

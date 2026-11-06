@@ -1,0 +1,60 @@
+---
+id: SAEAS5116
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PERFORMANCE STANDARD FOR AIRPLANE GROUND ICE DETECTION SYSTEM, AIRPLANE/GROUND
+    BASED
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5116
+- type: src
+  content: https://saemobilus.sae.org/standards/as5116-performance-standard-airplane-ground-ice-detection-system-airplane-ground-based
+docidentifier:
+- content: SAE AS5116
+  type: SAE
+  primary: true
+- content: 10.4271/as5116
+  type: DOI
+date:
+- type: approved
+  at: '1996-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-12HOT Holdover Time Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) establishes minimum performance standards for Airplane Ground Ice Detection (AGID) Systems. This standard also defines functional capabilities, design requirements and test procedures. An AGID system detects frost, ice, slush, or snow on the upper surface of the wings, control surfaces, and/or other critical surfaces of airplanes. The AGID system can include ground-based and/or airplane mounted devices.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The AGID system will provide an indication within its area of coverage whenever frost, ice, slush or snow will affect safety of flight.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

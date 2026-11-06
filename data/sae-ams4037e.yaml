@@ -1,0 +1,49 @@
+---
+id: SAEAMS4037E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ALUMINUM ALLOY SHEET AND PLATE 4.5Cu - 1.5Mg - 0.6Mn (2024; -T3 Sheet,
+    -T4 Plate)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4037e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4037e-aluminum-alloy-sheet-plate-45cu-15mg-06mn-2024-t3-sheet-t4-plate
+docidentifier:
+- content: SAE AMS4037E
+  type: SAE
+  primary: true
+- content: 10.4271/ams4037e
+  type: DOI
+date:
+- type: approved
+  at: '1960-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

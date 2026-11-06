@@ -1,0 +1,58 @@
+---
+id: SAEARP7977
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Optical Equipment Safety in Aircraft Fuel Tanks
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp7977
+- type: src
+  content: https://saemobilus.sae.org/standards/arp7977-optical-equipment-safety-aircraft-fuel-tanks
+docidentifier:
+- content: SAE ARP7977
+  type: SAE
+  primary: true
+- content: 10.4271/arp7977
+  type: DOI
+date:
+- type: approved
+  at: '2024-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5A Aerospace Fuel, Inerting and Lubrication Sys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The recommended practices of this document are intended for optical devices and associated optical cables and connectors installed inside transport category aircraft or environments of equivalent ignitability.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document covers optical radiation in the wavelength range from 380 nm to 10 μm. As explained in this document, wavelengths below this range are capable of igniting fuel-air mixtures through an ignition mechanism not considered at this issue of ARP7977. Use of wavelengths outside the range 380 nm to 10 μm should be discussed with the relevant Certification Authority.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEJ184_197207
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: QUALIFYING A SOUND DATA ACQUISITION SYSTEM
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j184_197207
+- type: src
+  content: https://saemobilus.sae.org/standards/j184_197207-qualifying-a-sound-data-acquisition-system
+docidentifier:
+- content: SAE J184_197207
+  type: SAE
+  primary: true
+- content: 10.4271/j184_197207
+  type: DOI
+date:
+- type: approved
+  at: '1972-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Light Vehicle Exterior Sound Level Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope includes determination of frequency response characteristics for the entire measurement system except the microphone. However, the procedure described herein prescribes inclusion of the manufacturer’s frequency response calibration data for the microphone in order to determine if the overall system is within required tolerances. The scope also includes determination of certain dynamic performance characteristics of the sound level indication devices.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The scope of this document does not encompass qualifying components for harmonic distortion, signal-to-noise ratio, tape recorder flutter and wow, etc. The references listed in &lt;span class="xref"&gt;section 6&lt;/span&gt; should be consulted for general performance requirements and precautions regarding instrumentation for acoustical measurements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

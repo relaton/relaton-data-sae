@@ -1,0 +1,56 @@
+---
+id: SAEJ3217R_202401
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Road User Charging
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3217/r_202401
+- type: src
+  content: https://saemobilus.sae.org/standards/j3217r_202401-road-user-charging
+docidentifier:
+- content: SAE J3217/R_202401
+  type: SAE
+  primary: true
+- content: 10.4271/j3217/r_202401
+  type: DOI
+date:
+- type: approved
+  at: '2024-01-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Tolling Applications Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of this document is the concept of operations including reference system architecture, the user needs, the system functional and performance requirements, the messages, the corresponding data frames and elements, and other related functionality to enable road user charging.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,48 @@
+---
+id: SAEAS91001B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: NUT, HEXAGON, DRILLED, BOSS CONNECTION, CRES - UNS S30400
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as91001b
+- type: src
+  content: https://saemobilus.sae.org/standards/as91001b-nut-hexagon-drilled-boss-connection-cres-uns-s30400
+docidentifier:
+- content: SAE AS91001B
+  type: SAE
+  primary: true
+- content: 10.4271/as91001b
+  type: DOI
+date:
+- type: approved
+  at: '2007-06-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

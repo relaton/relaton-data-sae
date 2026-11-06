@@ -1,0 +1,57 @@
+---
+id: SAEAS6518A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Unmanned Systems (UxS) Control Segment (UCS) Architecture: UCS Architecture
+    Model'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6518a
+- type: src
+  content: https://saemobilus.sae.org/standards/as6518a-unmanned-systems-uxs-control-segment-ucs-architecture-ucs-architecture-model
+docidentifier:
+- content: SAE AS6518A
+  type: SAE
+  primary: true
+- content: 10.4271/as6518a
+  type: DOI
+date:
+- type: approved
+  at: '2021-03-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-4UCS Unmanned Systems Control Segment Architecture
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope and purpose of the UCS Architecture Library Revision A is provided in AS6512™A. The scope of this document is to identify the elements of the UCS Architecture Model Revision A as distributed in the AS6518A.zip file, establish the terms and conditions and user license agreement for the architecture model, and provide other metadata.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

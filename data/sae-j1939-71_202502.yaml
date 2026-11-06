@@ -1,0 +1,58 @@
+---
+id: SAEJ193971_202502
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Vehicle Application Layer
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1939/71_202502
+- type: src
+  content: https://saemobilus.sae.org/standards/j193971_202502-vehicle-application-layer
+docidentifier:
+- content: SAE J1939/71_202502
+  type: SAE
+  primary: true
+- content: 10.4271/j1939/71_202502
+  type: DOI
+date:
+- type: approved
+  at: '2025-02-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Control and Communications Network Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The SAE J1939 communications network is developed for use in heavy-duty environments and is suitable for horizontally integrated vehicle industries. The SAE J1939 communications network is applicable for light-duty, medium-duty, and heavy-duty vehicles used on-road or off-road, and for appropriate stationary applications which use vehicle-derived components (e.g., generator sets). Vehicles of interest include, but are not limited to, on-highway and off-highway trucks and their trailers, construction equipment, and agricultural equipment and implements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J1939-71 is the SAE J1939 reference document describing SAE J1939 parameter (SP) and message (PG) definitions, SLOT (standard data encoding) definitions, conventions and notations used to specify the parameter (SP) placement in PG data, conventions for text data parameters, and conventions for PG transmission rates. This document previously contained the majority of the SAE J1939 OSI application layer data parameters and messages for information exchange between the ECU applications connected to the SAE J1939 communications network. It also contained reference figures and reference information. The data parameters (SPs), messages (PGs), reference figures, and information previously published within this document are now published in SAE J1939DA.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;There are several SAE J1939-7X documents that collectively define all of the SAE J1939 application layer data parameters and messages. Diagnostic services and some industry-specific data parameters and messages are documented within other SAE J1939-7X application layer documents. An ECU may simultaneously use and support data parameters and messages from multiple SAE J1939-7X application layer documents.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

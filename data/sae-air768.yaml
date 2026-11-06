@@ -1,0 +1,48 @@
+---
+id: SAEAIR768
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guide for Customer Flight Crew Training By Airframe Manufacturers
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air768
+- type: src
+  content: https://saemobilus.sae.org/standards/air768-guide-customer-flight-crew-training-airframe-manufacturers
+docidentifier:
+- content: SAE AIR768
+  type: SAE
+  primary: true
+- content: 10.4271/air768
+  type: DOI
+date:
+- type: approved
+  at: '1963-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-7 Flight Deck Handling Qualities Stds for Trans Aircraft
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAS1895A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: COUPLING ASSEMBLY, V-RETAINER, HIGH PRESSURE, HIGH TEMPERATURE, PNEUMATIC
+    TUBE
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1895a
+- type: src
+  content: https://saemobilus.sae.org/standards/as1895a-coupling-assembly-v-retainer-high-pressure-high-temperature-pneumatic-tube
+docidentifier:
+- content: SAE AS1895A
+  type: SAE
+  primary: true
+- content: 10.4271/as1895a
+  type: DOI
+date:
+- type: approved
+  at: '1988-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification defines the requirements for a grooved clamp coupling, flanges and seal suitable for joining high pressure and high temperature ducting in aircraft bleed air systems. The rigid coupling joint assembly, hereafter referred to as "the joint", shall operate within the temperature range of -65 - +1200°F.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

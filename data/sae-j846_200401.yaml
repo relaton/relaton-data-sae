@@ -1,0 +1,57 @@
+---
+id: SAEJ846_200401
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Coding Systems for Identification of Fluid Conductors and Connectors
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j846_200401
+- type: src
+  content: https://saemobilus.sae.org/standards/j846_200401-coding-systems-identification-fluid-conductors-connectors
+docidentifier:
+- content: SAE J846_200401
+  type: SAE
+  primary: true
+- content: 10.4271/j846_200401
+  type: DOI
+date:
+- type: approved
+  at: '2004-01-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hydraulic Tube Fittings Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This coding system is intended to provide a convenient means of identifying the various tube, pipe, hydraulic hose type and hose fittings, not intended for use in aircraft, and of transmitting technical or engineering information relating to them wherever drawings or other pictorial media may not be readily available. The code has been kept flexible to permit expansion to cover new fitting categories or styles and, if the need develops, the inclusion of materials. The system is also compatible with automatic data processing equipment.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;It is not intended that this code should supersede established systems or means of identification. However, because the SAE code for automotive flare fittings shown in SAE J512 is also applicable to corresponding refrigeration fittings in SAE J513, both an SAE code and the existing code ANSI B70.1 are included throughout SAE J513. Therefore, it should be the prerogative of the user to apply that code which best satisfies his requirements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

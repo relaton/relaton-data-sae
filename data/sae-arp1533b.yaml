@@ -1,0 +1,70 @@
+---
+id: SAEARP1533B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Procedure for the Analysis and Evaluation of Gaseous Emissions from Aircraft
+    Engines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1533b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1533b-procedure-analysis-evaluation-gaseous-emissions-aircraft-engines
+docidentifier:
+- content: SAE ARP1533B
+  type: SAE
+  primary: true
+- content: 10.4271/arp1533b
+  type: DOI
+date:
+- type: approved
+  at: '2013-01-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-31 Aircraft Eng Gas and Particulate Emissions Measurement
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE Aerospace Recommended Practice ARP1533 is a procedure for the analysis and evaluation of the measured composition of the exhaust gas from aircraft engines. Measurements of carbon monoxide, carbon dioxide, total hydrocarbon, and the oxides of nitrogen are used to deduce emission indices, fuel-air ratio, combustion efficiency, and exhaust gas thermodynamic properties. The emission indices (EI) are the parameters of critical interest to the engine developers and the atmospheric emissions regulatory agencies because they relate engine performance to environmental impact.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;While this procedure is intended to guide the analysis and evaluation of the emissions from aircraft gas turbine engines, the methodology may be applied to the analysis of the exhaust products of any hydrocarbon/air combustor. Some successful applications include:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Aircraft engine combustor development rig tests (aviation kerosene fueled)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Stationary source combustor development rig tests (natural gas and diesel fueled)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Afterburning military engine tests (aviation jet fueled)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Internal combustion aircraft engine diagnostics (AVGAS fueled)&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;Each application may be characterized by very different measured emissions levels (parts per million versus percent by volume) but this common approach solves the same basic combustion chemical equation.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This revision of ARP1533 assumes that major advances will occur in gas analysis technology in the near future. New instruments will be accepted by the regulatory agencies such that it will no longer be appropriate to specify the measurement method for each chemical species.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The matrix method of solving the combustion chemical equation is recommended because of all the potential variations in exhaust gas measurement requirements. Changes in the fuel type, addition of diluents, addition of measured species, and options for wet or dry basis measurements are most easily handled by revising individual matrix row equations. Matrix solution software is widely available on personal computers. However, derivation of the algebraic solution of the chemical equation is retained for traceability to previous versions of this document. New sections have been added to this document that pertain to data quality checks, measurement uncertainty, and water content calculations.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

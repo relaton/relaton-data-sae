@@ -1,0 +1,56 @@
+---
+id: SAEARP89C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TEMPERATURE CONTROL EQUIPMENT, AUTOMATIC, AIRCRAFT COMPARTMENT
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp89c
+- type: src
+  content: https://saemobilus.sae.org/standards/arp89c-temperature-control-equipment-automatic-aircraft-compartment
+docidentifier:
+- content: SAE ARP89C
+  type: SAE
+  primary: true
+- content: 10.4271/arp89c
+  type: DOI
+date:
+- type: approved
+  at: '1992-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AC-9 Aircraft Environmental Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The recommendations of this ARP are primarily intended to be applicable to temperature control of compartments, occupied or unoccupied, of civil aircraft whose prime function is the transporting of passengers or cargo. The recommendations will apply, however, to a much broader category of civil and military aircraft where automatic temperature control systems are applicable.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

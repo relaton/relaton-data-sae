@@ -1,0 +1,57 @@
+---
+id: SAEAMS4254
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: LAMINATED SHEET, ALUMINUM ALLOY, ARAMID-FIBER-REINFORCED 4.4Cu - 1.5Mg
+    - 0.6Mn (2024-T3) 3, 5, 7, or 9 Ply
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4254
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4254-laminated-sheet-aluminum-alloy-aramid-fiber-reinforced-44cu-15mg-06mn-2024-t3-3-5-7-9-ply
+docidentifier:
+- content: SAE AMS4254
+  type: SAE
+  primary: true
+- content: 10.4271/ams4254
+  type: DOI
+date:
+- type: approved
+  at: '1988-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers aluminum alloy sheet laminated with one or more layers of unidirectional aramid fiber/epoxy prepreg. The outer layers are always aluminum alloy and, when specified, one or both shall be one side alclad with the cladding on the exposed or outside surface.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

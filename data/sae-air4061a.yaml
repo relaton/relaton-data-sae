@@ -1,0 +1,60 @@
+---
+id: SAEAIR4061A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guidelines for Integration of Engine Monitoring Functions With On-Board
+    Aircraft Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4061a
+- type: src
+  content: https://saemobilus.sae.org/standards/air4061a-guidelines-integration-engine-monitoring-functions-board-aircraft-systems
+docidentifier:
+- content: SAE AIR4061A
+  type: SAE
+  primary: true
+- content: 10.4271/air4061a
+  type: DOI
+date:
+- type: approved
+  at: '1999-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-32 Aerospace Propulsion Systems Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) discusses physical and functional integration of main engine and auxiliary power unit (APU) monitoring with other on-board systems. It includes General Considerations, Parameter Selection and Requirements, Signal Sources, Signal Conditioning, Data Processing, Data Storage, and Data Retrieval.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Engine monitoring hardware and software are discussed so that they may be properly considered in an integrated design.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Civil and military aviation applications are included and delineated where requirements differ.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEAIR6148
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Synthetic Jet Fuels from Non-Petroleum Feed Stocks
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6148
+- type: src
+  content: https://saemobilus.sae.org/standards/air6148-synthetic-jet-fuels-non-petroleum-feed-stocks
+docidentifier:
+- content: SAE AIR6148
+  type: SAE
+  primary: true
+- content: 10.4271/air6148
+  type: DOI
+date:
+- type: approved
+  at: '2023-02-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-5A Aerospace Fuel, Inerting and Lubrication Sys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) provides general information on the developing subject of synthetic jet fuels derived from non-petroleum feed stocks. It addresses synthetic jet fuel properties and other topics associated with their use and is intended as a guide to assist aviation fuel system designers in considering important information on fuel properties when designing aircraft fuel systems and components. The AIR is limited to “drop-in” fuels that meet the requirements of the respective fuel specifications and are compatible with typical aircraft and ground refueling systems. While some key properties are included in this AIR for discussion, the reader should utilize documents such as MIL-HDBK-510 or the ASTM International research reports for a more-detailed review of fuel properties. AIR7484 also gives more details on fuel properties, specifically as they relate to airframe fuel system design.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

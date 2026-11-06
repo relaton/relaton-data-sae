@@ -1,0 +1,56 @@
+---
+id: SAEAS8010
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AVIATORS BREATHING OXYGEN PURITY STANDARD
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8010
+- type: src
+  content: https://saemobilus.sae.org/standards/as8010-aviators-breathing-oxygen-purity-standard
+docidentifier:
+- content: SAE AS8010
+  type: SAE
+  primary: true
+- content: 10.4271/as8010
+  type: DOI
+date:
+- type: approved
+  at: '1977-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard covers gaseous, liquid, and chemical aviators breathing oxygen.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEARP4895A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Flight Control Actuators - Dynamic Seals, Collection of Duty Cycle Data
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4895a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4895a-flight-control-actuators-dynamic-seals-collection-duty-cycle-data
+docidentifier:
+- content: SAE ARP4895A
+  type: SAE
+  primary: true
+- content: 10.4271/arp4895a
+  type: DOI
+date:
+- type: approved
+  at: '2006-05-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A3 Flight Control and Vehicle Management Systems Cmt
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) provides an algorithm aimed to analyse flight control surface actuator movements with the objective to generate duty cycle data applicable to hydraulic actuator dynamic seals.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This algorithm can be used to process digitally recorded actuator positions, generated either by pure simulation, or hardware-in-the-loop simulation, or flight test of full scale demonstrator of new aircraft, of new aircraft models in development, or of in-service aircraft, depending on what is available at different stages of the aircraft development and the purpose of the duty cycle investigation. This generated duty cycle data can be used as a basis for defining dynamic seal life requirements, dynamic seal life testing, or to assess the impact of control law or other changes to dynamic seal behavior.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

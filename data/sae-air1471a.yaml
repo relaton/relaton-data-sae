@@ -1,0 +1,56 @@
+---
+id: SAEAIR1471A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Torque Tightening Threaded Fasteners
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1471a
+- type: src
+  content: https://saemobilus.sae.org/standards/air1471a-torque-tightening-threaded-fasteners
+docidentifier:
+- content: SAE AIR1471A
+  type: SAE
+  primary: true
+- content: 10.4271/air1471a
+  type: DOI
+date:
+- type: approved
+  at: '2012-10-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The purpose of this SAE Aerospace Information Report (AIR) is to provide the aerospace propulsion industry with recommended assembly torque limits for commonly used aircraft propulsion system threaded fasteners when a common torque value per size is the objective.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

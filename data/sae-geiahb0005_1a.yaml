@@ -1,0 +1,59 @@
+---
+id: SAEGEIAHB0005_1A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Program Management/Systems Engineering Guidelines for Managing the Transition
+    to Lead-Free Electronics
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/geiahb0005_1a
+- type: src
+  content: https://saemobilus.sae.org/standards/geiahb0005_1a-program-management-systems-engineering-guidelines-managing-transition-lead-free-electronics
+docidentifier:
+- content: SAE GEIA-HB-0005-1A
+  type: SAE
+  primary: true
+- content: 10.4271/geiahb0005_1a
+  type: DOI
+date:
+- type: approved
+  at: '2016-02-24'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-24 Pb-free Risk Management Committee for ADHP
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This handbook is designed to assist a program in assuring the performance, reliability, airworthiness, safety, and certifiability of product(s), in accordance with GEIA-STD-0005-1, “Performance Standard for Aerospace and High Performance Electronic Systems Containing Pb-free Solder”. Please note that the program manager, and managers of systems engineering, Supply Chain and Quality Assurance (along with their respective organizations), and the appropriate enterprise authority need to work together in ensuring that all impacts of Pb-free technology insertion are understood and risks mitigated accordingly. Herein “program management (or manager), supplier chain management (or manager), quality assurance management (or manager) and systems engineering management (or manager) and/or the appropriate enterprise authority” shall be defined as “responsible manager” throughout the remaining document (see &lt;span class="xref"&gt;Section 3&lt;/span&gt;, Terms and Definitions).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The basic principles delineated in this handbook can be used for program management, system engineering, supply chain management and quality assurance management of any aerospace and/or high performance program. &lt;span class="xref"&gt;Appendix A&lt;/span&gt; contains a General Responsible Manager Checklist for Dealing with Pb-free Issues. The checklist can be used to identify potential issues related to the content in &lt;span class="xref"&gt;sections 5&lt;/span&gt; through 15 of this handbook.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Pb-free technology can impact any program regardless of whether the program itself is exempt or bound by environmental regulations. The industry conversion to Pb-free solder technology may affect manufacturers and consumers of ADHP electronics in one or combinations of the following three ways: (1) If the program is required to implement Pb-free technology (contract requirement, environmental regulation, etc), then the managers of organizations responsible for program execution will need to assess the impact of in-house transition with respect to design (e.g., performance of products using Pb-free) and process (e.g., processes to build Pb-free products). (2) If the program purchases COTS (Commercial-off-the-Shelf) items for its products/systems, then there is a very good chance that these items will contain Pb-free solder or Pb-free finishes on parts, PWBs, or PBAs. (3) Manufacturers of ADHP electronics may inadvertently introduce Pb-free parts or assemblies (including component finish, Printed Wiring Board (PWB) finish, or assembly solder) if careful coordination between buyer and supplier is not exercised.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

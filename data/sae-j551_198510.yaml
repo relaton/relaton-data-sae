@@ -1,0 +1,57 @@
+---
+id: SAEJ551_198510
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: PERFORMANCE LEVELS AND METHODS OF MEASUREMENT OF ELECTROMAGNETIC RADIATION
+    FROM VEHICLES AND DEVICES (30 - 1000 MHz)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j551_198510
+- type: src
+  content: https://saemobilus.sae.org/standards/j551_198510-performance-levels-methods-measurement-electromagnetic-radiation-vehicles-devices-30-1000-mhz
+docidentifier:
+- content: SAE J551_198510
+  type: SAE
+  primary: true
+- content: 10.4271/j551_198510
+  type: DOI
+date:
+- type: approved
+  at: '1985-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Electromagnetic Compatibility (EMC) Standards
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard covers the measurement of Impulse Electric Field Strength radiated over the frequency range of 30-1000 MHz from a vehicle or other device powered by an internal combustion engine or electric motor. Operation of all engines (main and auxiliary) on a vehicle or other device is included. All equipment normally operating when the engine is running is also included, except operator-controlled equipment, which is excluded. The recommended level applies only to complete vehicles or devices in their final manufactured form. Vehicle mounted rectifiers used for battery charging in electric vehicles are included in this specification when operated in their charging mode.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

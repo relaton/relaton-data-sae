@@ -1,0 +1,48 @@
+---
+id: SAEAMS4360D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MAGNESIUM ALLOY FORGINGS 8.5Al - 0.50Zn (AZ80A-T5)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4360d
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4360d-magnesium-alloy-forgings-85al-050zn-az80a-t5
+docidentifier:
+- content: SAE AMS4360D
+  type: SAE
+  primary: true
+- content: 10.4271/ams4360d
+  type: DOI
+date:
+- type: approved
+  at: '1979-03-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

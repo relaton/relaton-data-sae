@@ -1,0 +1,49 @@
+---
+id: SAEAS8151113
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: ACCESSORY, F ADAPTER, ROTATABLE, CONNECTOR, ELECTRICAL, CIRCULAR, HIGH
+    DENSITY, QUICK DISCONNECT, ENVIRONMENT RESISTING, TYPE 1, (SERIES 1 OR 2)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as81511/13
+- type: src
+  content: https://saemobilus.sae.org/standards/as8151113-accessory-f-adapter-rotatable-connector-electrical-circular-high-density-quick-disconnect-environment-resisting-type-1-series-1-2
+docidentifier:
+- content: SAE AS81511/13
+  type: SAE
+  primary: true
+- content: 10.4271/as81511/13
+  type: DOI
+date:
+- type: approved
+  at: '2019-12-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C1 Connectors Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

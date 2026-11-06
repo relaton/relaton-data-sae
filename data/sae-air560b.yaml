@@ -1,0 +1,56 @@
+---
+id: SAEAIR560B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: MISSILE HYDRAULIC PUMPS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air560b
+- type: src
+  content: https://saemobilus.sae.org/standards/air560b-missile-hydraulic-pumps
+docidentifier:
+- content: SAE AIR560B
+  type: SAE
+  primary: true
+- content: 10.4271/air560b
+  type: DOI
+date:
+- type: approved
+  at: '1992-01-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C4 Power Sources Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Missile pumps are categorized by a moderate testing life and a relatively short operational service life. Generally, the pumps are operated at higher speeds, temperatures, and pressures than those used in manned aircraft systems, yet reliability must be extremely high, since there rarely is a redundant system aboard the missile.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,54 @@
+---
+id: SAEJ727_200202
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Nomenclature--Crawler Tractor
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j727_200202
+- type: src
+  content: https://saemobilus.sae.org/standards/j727_200202-nomenclature-crawler-tractor
+docidentifier:
+- content: SAE J727_200202
+  type: SAE
+  primary: true
+- content: 10.4271/j727_200202
+  type: DOI
+date:
+- type: approved
+  at: '2002-02-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: MTC1, Earthmoving Machinery
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This Standard provides provides names of major components peculiar
+    to crawler tractors as defined in SAE J1057a (June, 1975). Illustrations of components
+    are not intended to be exactly descriptive of any particular machine.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

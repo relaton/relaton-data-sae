@@ -1,0 +1,57 @@
+---
+id: SAEARP1383B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Impulse Testing of Aerospace Hydraulic Actuators, Valves, Pressure Containers,
+    and Similar Fluid System Components
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1383b
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1383b-impulse-testing-aerospace-hydraulic-actuators-valves-pressure-containers-similar-fluid-system-components
+docidentifier:
+- content: SAE ARP1383B
+  type: SAE
+  primary: true
+- content: 10.4271/arp1383b
+  type: DOI
+date:
+- type: approved
+  at: '2003-02-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6 Aerospace Actuation, Control and Fluid Power Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) establishes the minimum requirements and procedures for impulse testing of aerospace hydraulic actuators, valves, pressure containers, and similar fluid system components, for use in aerospace hydraulic systems; for exceptions, see paragraph &lt;span class="xref"&gt;9.1&lt;/span&gt;. This ARP also refers to standard impulse test equipment, which may be used in conducting these impulse tests.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

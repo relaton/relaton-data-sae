@@ -1,0 +1,57 @@
+---
+id: SAEAIR1419C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Inlet Total-Pressure-Distortion Considerations for Gas-Turbine Engines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1419c
+- type: src
+  content: https://saemobilus.sae.org/standards/air1419c-inlet-total-pressure-distortion-considerations-gas-turbine-engines
+docidentifier:
+- content: SAE AIR1419C
+  type: SAE
+  primary: true
+- content: 10.4271/air1419c
+  type: DOI
+date:
+- type: approved
+  at: '2017-11-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-16 Turbine Engine Inlet Flow Distortion  Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document addresses many of the significant issues associated with effects of inlet total-pressure distortion on turbine-engine performance and stability. It provides a review of the development of techniques used to assess engine stability margins in the presence of inlet total-pressure distortion. Specific performance and stability issues that are covered by this document include total-pressure recovery and turbulence effects and steady and dynamic inlet total-pressure distortion.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

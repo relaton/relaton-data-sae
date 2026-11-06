@@ -1,0 +1,78 @@
+---
+id: SAEARP7519
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Potential Usage of Life Test Samples for Flight
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp7519
+- type: src
+  content: https://saemobilus.sae.org/standards/arp7519-potential-usage-life-test-samples-flight
+docidentifier:
+- content: SAE ARP7519
+  type: SAE
+  primary: true
+- content: 10.4271/arp7519
+  type: DOI
+date:
+- type: approved
+  at: '2023-03-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CE-12 Solid State Devices
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) is not a certification document; it contains no certification requirements beyond those already contained in existing certification documents. The purpose of this ARP is to provide:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Guidelines for potential usage of life samples depending upon the mission environment and at user discretion to use them or not.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Guidelines of:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Who approves the parts to be used.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Notification requirements to manufacturers.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Traceability and segregation.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;4&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Packing and labeling of such parts.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;This ARP does not claim that the recommended practices and artifacts described herein are the only acceptable ones. They are, however, used widely today, and merit serious consideration of potential usage where applicable in the military and space hardware.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This ARP does not supersede any contracts or legal agreements between contractual parties.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

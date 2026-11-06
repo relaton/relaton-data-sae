@@ -1,0 +1,56 @@
+---
+id: SAEJ2945AS_202410
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Minimum Requirements for Road Geometry and Attributes Definition™ SET File
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2945/as_202410
+- type: src
+  content: https://saemobilus.sae.org/standards/j2945as_202410-minimum-requirements-road-geometry-attributes-definition-set-file
+docidentifier:
+- content: SAE J2945/AS_202410
+  type: SAE
+  primary: true
+- content: 10.4271/j2945/as_202410
+  type: DOI
+date:
+- type: approved
+  at: '2024-10-25'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Communications Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;p&gt;Included in this set are the SAE J2945/A Recommended Practice which specifies the minimum requirements for defining various road geometries and select attributes associated with them via the Road Geometry and Attributes (RGA) data set (DS) to support road geometry related motor vehicle safety applications. Contained in this report are a concept of operations, requirements, and design, developed using a detailed systems engineering process. Utilizing the requirements, the RGA DS is defined, which includes the DS Abstract Syntax Notation One (ASN.1) format, data frames, and data element definitions.&lt;/p&gt;
+
+
+    &lt;p&gt;Also included is the Abstract Syntax Notation (ASN.1) file which precisely defines the structure of the data used to implement applications conformant to the SAE J2945/A Recommended Practice. Using the ASN.1 specification, a compiler tool can be used to produce encodings using encoding rules identified in J2945/A. Both this ASN.1 file and the SAE J2735 ASN.1 files are necessary to collectively implement the data structures described in the J2945/A. The combined library can be used by any receiving application (along with the additional logic of the application).&lt;/p&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

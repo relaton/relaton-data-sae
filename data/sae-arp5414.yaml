@@ -1,0 +1,57 @@
+---
+id: SAEARP5414
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aircraft Lightning Zoning
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5414
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5414-aircraft-lightning-zoning
+docidentifier:
+- content: SAE ARP5414
+  type: SAE
+  primary: true
+- content: 10.4271/arp5414
+  type: DOI
+date:
+- type: approved
+  at: '1999-12-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-2 Lightning Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) defines lightning strike zones and provides guidelines for locating them on particular aircraft, together with examples. The zone definitions and location guidelines described herein are applicable to Parts 23, 25, 27, and 29 aircraft. The zone location guidelines and examples are representative of in-flight lightning exposures.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

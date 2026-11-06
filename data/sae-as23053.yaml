@@ -1,0 +1,57 @@
+---
+id: SAEAS23053
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Insulation Sleeving, Electrical, Heat Shrinkable, General Specification
+    For
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as23053
+- type: src
+  content: https://saemobilus.sae.org/standards/as23053-insulation-sleeving-electrical-heat-shrinkable-general-specification
+docidentifier:
+- content: SAE AS23053
+  type: SAE
+  primary: true
+- content: 10.4271/as23053
+  type: DOI
+date:
+- type: approved
+  at: '2016-10-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8D Wire and Cable Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes the requirements for various types and colors of electrical insulating sleeving that will shrink to a predetermined size upon the application of heat. This specification includes provisions for demonstrating compliance with qualification requirements (see &lt;span class="xref"&gt;Section 4&lt;/span&gt; and &lt;span class="xref"&gt;7.3&lt;/span&gt;), in process inspection, and statistical process control inspections (see &lt;span class="xref"&gt;4.4&lt;/span&gt;). The continuous operating temperature ranges for the sleeving classes covered by this specification are from -112 to +482 °F (-80 to +250 °C). The continuous operating temperature range for each sleeving class is given in the applicable detail specification.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

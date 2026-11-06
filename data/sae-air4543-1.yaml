@@ -1,0 +1,57 @@
+---
+id: SAEAIR45431
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Hydraulics and Actuation Lessons Learned
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air4543/1
+- type: src
+  content: https://saemobilus.sae.org/standards/air45431-aerospace-hydraulics-actuation-lessons-learned
+docidentifier:
+- content: SAE AIR4543/1
+  type: SAE
+  primary: true
+- content: 10.4271/air4543/1
+  type: DOI
+date:
+- type: approved
+  at: '2011-12-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6 Aerospace Actuation, Control and Fluid Power Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) contains Lessons Learned from aerospace actuation, control and fluid power systems technologies. The lessons were prepared by engineers from the aerospace industry and government services as part of the work of SAE Committee A-6, Aerospace Actuation, Control and Fluid Power Systems. Each lesson was presented to the appropriate A-6 technical panel. The technical topics are organized into five sections covering systems, actuation, hydraulic components, electrical components and miscellaneous, each further divided into subsections. The information topics are presented in a concise format of Problem, Issue, Solution and Lesson Learned, often with accompanying descriptive diagrams and illustrations for clarity and understanding.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

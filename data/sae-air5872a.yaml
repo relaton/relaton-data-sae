@@ -1,0 +1,58 @@
+---
+id: SAEAIR5872A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Hydraulic Pump Controls
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5872a
+- type: src
+  content: https://saemobilus.sae.org/standards/air5872a-aerospace-hydraulic-pump-controls
+docidentifier:
+- content: SAE AIR5872A
+  type: SAE
+  primary: true
+- content: 10.4271/air5872a
+  type: DOI
+date:
+- type: approved
+  at: '2017-05-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C4 Power Sources Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Information Report (AIR) presents an overview of the application and control of fixed and variable displacement pumps with the emphasis on the controls most commonly used on variable displacement pumps. It describes various options to control the operation of hydraulic pumps in terms of controlling the pump output pressure and/or flow and assisting in the selection of the pump.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,86 @@
+---
+id: SAEARP6068A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Gas Turbine Engine Test Facility Vibration Measurement
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6068a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6068a-gas-turbine-engine-test-facility-vibration-measurement
+docidentifier:
+- content: SAE ARP6068A
+  type: SAE
+  primary: true
+- content: 10.4271/arp6068a
+  type: DOI
+date:
+- type: approved
+  at: '2025-12-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EG-1E Gas Turbine Test Facilities and Equipment
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The test procedure per the applicable Engine Manual does require a vibration check for the low/intermediate and high speed rotor systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Release of an engine with high vibrations can result in:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;On-wing vibration complaints, with subsequent troubleshooting&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Rotor system failures&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Premature engine removals&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;div class="htmlview paragraph"&gt;Limits are provided for transient conditions and steady state data points.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Troubleshooting recommendations are limited to verification of the proper signal input and tracking.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This practice provides recommendations for:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Correct cable and transmitter installation and connections&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Calibration&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Recorded data interpretation and data analysis&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

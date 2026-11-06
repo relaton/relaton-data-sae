@@ -1,0 +1,56 @@
+---
+id: SAEAMS4911F
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: TITANIUM ALLOY SHEET, STRIP, AND PLATE 6Al - 4V Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4911f
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4911f-titanium-alloy-sheet-strip-plate-6al-4v-annealed
+docidentifier:
+- content: SAE AMS4911F
+  type: SAE
+  primary: true
+- content: 10.4271/ams4911f
+  type: DOI
+date:
+- type: approved
+  at: '1988-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G Titanium and Refractory Metals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a titanium alloy in the form of sheet, strip, and plate procured in inch/pound units. MAM 4911 is the equivalent, specified in SI (metric) units, of this AMS.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

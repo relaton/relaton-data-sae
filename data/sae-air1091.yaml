@@ -1,0 +1,55 @@
+---
+id: SAEAIR1091
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HIGH VOLTAGE PULSE GENERATOR
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1091
+- type: src
+  content: https://saemobilus.sae.org/standards/air1091-high-voltage-pulse-generator
+docidentifier:
+- content: SAE AIR1091
+  type: SAE
+  primary: true
+- content: 10.4271/air1091
+  type: DOI
+date:
+- type: approved
+  at: '1994-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-30 Propulsion Ignition Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+    &lt;div class="htmlview paragraph"&gt;This report covers the use, electro-mechanical description, and accuracy of a pulse generator in the range of 5 to 30 kilovolts and zero to peak voltage time of less than 1.0 microsecond.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,55 @@
+---
+id: SAEAS1856A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Installation, Non-Reversible Fitting End
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as1856a
+- type: src
+  content: https://saemobilus.sae.org/standards/as1856a-installation-non-reversible-fitting-end
+docidentifier:
+- content: SAE AS1856A
+  type: SAE
+  primary: true
+- content: 10.4271/as1856a
+  type: DOI
+date:
+- type: approved
+  at: '2002-07-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3, Aerospace Couplings, Fittings, Hose, Tubing Assemblies
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>This document is a design standard and is not to be used as a part
+    number.  This design standard describes the assembly and/or installation of a
+    series of fitting ends that can be incorporated on fittings or valves in such
+    a manner as to make the units non-reversible.</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,60 @@
+---
+id: SAEJ3197_202107
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Automated Driving System Data Logger
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3197_202107
+- type: src
+  content: https://saemobilus.sae.org/standards/j3197_202107-automated-driving-system-data-logger
+docidentifier:
+- content: SAE J3197_202107
+  type: SAE
+  primary: true
+- content: 10.4271/j3197_202107
+  type: DOI
+date:
+- type: approved
+  at: '2021-07-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Event Data Recorder Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice provides common data output formats and definitions for a variety of data elements that may be useful for analyzing the performance of automated driving system (ADS) during an event that meets the trigger threshold criteria specified in this document. The document is intended to govern data element definitions, to provide a minimum data element set, and to specify a common ADS data logger record format as applicable for motor vehicle applications.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Automated driving systems (ADSs) perform the complete dynamic driving task (DDT) while engaged. In the absence of a human “driver,” the ADS itself could be the only witness of a collision event. As such, a definition of the ADS data recording is necessary in order to standardize information available to the accident reconstructionist. For this purpose, the data elements defined herein supplement the SAE J1698-1 defined EDR in order to facilitate the determination of the background and events leading up to a collision in an ADS-operated vehicle.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The data elements defined in this document are unique to Level 3, 4, or 5 ADS features, as defined by SAE J3016, and provide additional background of the events leading up to a crash or crash-like event. The data from sensors such as camera(s), LiDAR(s) etc. will provide information in the absence of a human driver. The data included in the ADS data logger is expected to be used in conjunction with the SAE J1698 event data recorder (EDR) record and traditional accident reconstruction analysis. The EDR and ADS data logger will capture information leading up to the triggered event, at a minimum. There are no facts to support that recording data for greater than 5 seconds pre-event would change the outcome of any crash analysis. Thus, the recommended recording duration for a data logger is 5 seconds pre-event, same as an EDR. Due to the potential for sensor and/or communication failure during a crash event, the recommendation is that data should be collected post-crash for impact and rollover sensors for up to 250 ms.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;ADS technology is still being developed and is not yet commercially deployed. Therefore, this SAE Recommended Practice is intended as a guide toward standard practice and is subject to change to keep pace with experience and technical advances.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

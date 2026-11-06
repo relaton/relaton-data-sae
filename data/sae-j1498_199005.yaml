@@ -1,0 +1,68 @@
+---
+id: SAEJ1498_199005
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: HEATING VALUE OF FUELS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1498_199005
+- type: src
+  content: https://saemobilus.sae.org/standards/j1498_199005-heating-value-fuels
+docidentifier:
+- content: SAE J1498_199005
+  type: SAE
+  primary: true
+- content: 10.4271/j1498_199005
+  type: DOI
+date:
+- type: approved
+  at: '1990-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuels and Lubricants TC 7 Fuels Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The heating value or heat of combustion is a measure of the energy available from the fuel. The fraction or percentage of the heat of combustion that is converted to useful work is a measure of the thermal efficiency of an engine. Thus, a knowledge of the heat of combustion of the fuel is basic to the engineering of automotive engines. This SAE Information Report provides information on the standardized procedures for determining the heat of combustion of fuels that may be used for automotive engines.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

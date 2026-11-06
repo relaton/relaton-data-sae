@@ -1,0 +1,57 @@
+---
+id: SAEAMS6250P
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Bars, Forgings, Mechanical Tubing, and Forging Stock, 1.5Cr - 3.5Ni
+    (0.07 - 0.13 C) (3310), Aircraft Quality
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6250p
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6250p-steel-bars-forgings-mechanical-tubing-forging-stock-15cr-35ni-007-013-c-3310-aircraft-quality
+docidentifier:
+- content: SAE AMS6250P
+  type: SAE
+  primary: true
+- content: 10.4271/ams6250p
+  type: DOI
+date:
+- type: approved
+  at: '2025-10-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aircraft-quality, low-alloy steel in the form of bars, forgings, mechanical tubing, and forging stock.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

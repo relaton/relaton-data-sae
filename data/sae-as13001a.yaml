@@ -1,0 +1,58 @@
+---
+id: SAEAS13001A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Delegated Product Release Verification Training Requirements
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as13001a
+- type: src
+  content: https://saemobilus.sae.org/standards/as13001a-delegated-product-release-verification-training-requirements
+docidentifier:
+- content: SAE AS13001A
+  type: SAE
+  primary: true
+- content: 10.4271/as13001a
+  type: DOI
+date:
+- type: approved
+  at: '2017-09-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-22 Aerospace Engine Supplier Quality (AESQ) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard establishes the common requirements for training of DPRV personnel for use at all levels of the aerospace engine supply chain. This standard shall apply when an organization elects to delegate product release verification by contractual flow down to its suppliers (reference 9100 and 9110 standards) and to perform product acceptance on its behalf. It is intended that organizations specify their DPRV requirements through the application of AS9117.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;While the delegating organization will use the AS13001 standard as the baseline for establishing DPRV process and product training, it may include additional contractual training requirements to meet its specific needs.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The DPRV training material was primarily developed for aerospace engine supply chain requirements. However, this standard may also be used in other aerospace industry sectors where a DPRV process requiring specific training can be of benefit.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

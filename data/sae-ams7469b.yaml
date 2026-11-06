@@ -1,0 +1,58 @@
+---
+id: SAEAMS7469B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: BOLTS AND SCREWS, NICKEL ALLOY, CORROSION AND HEAT RESISTANT Upset Headed,
+    Heat Treated, Roll Threaded 2050°F (1120°C) Solution and 1650°F (900°C) Precipitation
+    Heat Treatment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7469b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7469b-bolts-screws-nickel-alloy-corrosion-heat-resistant-upset-headed-heat-treated-roll-threaded-2050f-1120c-solution-1650f-900c-precipitation-heat-treatment
+docidentifier:
+- content: SAE AMS7469B
+  type: SAE
+  primary: true
+- content: 10.4271/ams7469b
+  type: DOI
+date:
+- type: approved
+  at: '1980-04-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers aircraft quality bolts and screws fabricated from a corrosion and heat resistant nickel alloy.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

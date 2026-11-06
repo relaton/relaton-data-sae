@@ -1,0 +1,57 @@
+---
+id: SAEAMSSTD66A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Steel:  Chemical Composition and Hardenability'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/amsstd66a
+- type: src
+  content: https://saemobilus.sae.org/standards/amsstd66a-steel-chemical-composition-hardenability
+docidentifier:
+- content: SAE AMS-STD-66A
+  type: SAE
+  primary: true
+- content: 10.4271/amsstd66a
+  type: DOI
+date:
+- type: approved
+  at: '2007-11-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>This standard, as referenced in the applicable product specifications in procurement documents, contains:
+
+    (a) A catalog of the standard carbon steels, alloy steels (including H-steels), and stainless and heat-resisting steels that are designated by chemical composition, or (for H-steels) by chemical composition and hardenability limits by reference to standard industry documents.
+
+    (b) Rules for designating the chemical content of carbon steels, alloy steels, and stainless and heat-resisting steels that are not classified as standard.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

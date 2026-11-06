@@ -1,0 +1,56 @@
+---
+id: SAEARP6166
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Minisimulator Method
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6166
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6166-minisimulator-method
+docidentifier:
+- content: SAE ARP6166
+  type: SAE
+  primary: true
+- content: 10.4271/arp6166
+  type: DOI
+date:
+- type: approved
+  at: '2016-09-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-34 Propulsion Lubricants Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This test method is designed to simulate the synergistic combinations of oil flow, temperature cycling, hot spots, and tribology that would typically be found in a gas turbine engine. The method is intended to quantitatively characterize changes in four basic oil properties that are brought about by exposure to the afore mentioned simulated turbine engine environment: the tendency of aviation lubricants to form coke deposits, viscosity changes, total acid number changes (TAN), and oil consumption.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEAS61715
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Techniques for Suspect/Counterfeit EEE Parts Detection by Radiological
+    Test Methods
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as6171/5
+- type: src
+  content: https://saemobilus.sae.org/standards/as61715-techniques-suspect-counterfeit-eee-parts-detection-radiological-test-methods
+docidentifier:
+- content: SAE AS6171/5
+  type: SAE
+  primary: true
+- content: 10.4271/as6171/5
+  type: DOI
+date:
+- type: approved
+  at: '2022-06-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-19A Test Laboratory Standards Development Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The intent of this document is to define the methodology for suspect parts inspection using radiological inspection. The purpose of radiology for suspect counterfeit part inspection is to detect deliberate misrepresentation of a part, either at the part distributor or original equipment manufacturer (OEM) level. Radiological inspection can also potentially detect unintentional damage to the part resulting from improper removal of part from assemblies, which may include, but not limited to, prolonged elevated temperature exposure during desoldering operations or mechanical stresses during removal.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Radiological inspection of electronics includes film radiography and filmless radiography such as digital radiography (DR), real time radiography (RTR), and computed tomography (CT). Radiology is an important tool used in part verification of microelectronic devices. Radiographic analysis is performed on parts to verify that the internal package or die construction is consistent with an exemplar. In case an exemplar is not available, comparisons should be made within a homogenous sample population using the technical data available for that item.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;If AS6171/5 is invoked in the contract, the base document, AS6171 General Requirements shall also apply.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

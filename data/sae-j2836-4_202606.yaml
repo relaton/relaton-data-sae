@@ -1,0 +1,70 @@
+---
+id: SAEJ28364_202606
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Use Cases for Diagnostic Communication for Plug-in Electric Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2836/4_202606
+- type: src
+  content: https://saemobilus.sae.org/standards/j28364_202606-use-cases-diagnostic-communication-plug-electric-vehicles
+docidentifier:
+- content: SAE J2836/4_202606
+  type: SAE
+  primary: true
+- content: 10.4271/j2836/4_202606
+  type: DOI
+date:
+- type: approved
+  at: '2026-06-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Surface Vehicle Technical Information Report, SAE J2836/4, establishes diagnostic use cases between plug-in electric vehicles (PEV) and the electric vehicle supply equipment (EVSE). As PEVs are deployed and include both plug-in hybrid electric (PHEV) and battery electric (BEV) vehicle variations, failures of the charging session between the EVSE and PEV may include diagnostics particular to the vehicle variations. This document describes the general information required for diagnostics and SAE J2847/4 will include the detail messages to provide accurate information to the customer and/or service personnel to identify the source of the issue and assist in resolution. Existing vehicle diagnostics can also be added and included during this charging session regarding issues that have occurred or are imminent to the EVSE or PEV, to assist in resolution of these items.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

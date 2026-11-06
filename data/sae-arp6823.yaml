@@ -1,0 +1,57 @@
+---
+id: SAEARP6823
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Electronic Transactions for Aerospace Systems: An Overview'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6823
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6823-electronic-transactions-aerospace-systems-overview
+docidentifier:
+- content: SAE ARP6823
+  type: SAE
+  primary: true
+- content: 10.4271/arp6823
+  type: DOI
+date:
+- type: approved
+  at: '2021-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-31 Digital Transactions for Aerospace
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) offers an overview of the many key processes that are being transformed as the aerospace industry is rapidly digitalizing. The G-31 Electronic Transactions in Aerospace committee has been established to develop standards related to these processes. This report, also known as the “cornerstone” document for the committee, is a comprehensive look at processes associated with commercial aviation. Because of universal convergence of these technologies, the technologies described here are applicable to other domains as well.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAMS6354B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: STEEL SHEET, STRIP, AND PLATE 0.75Si - 0.62Cr - 0.20Mo - 0.10Zr (0.10 -
+    0.17C)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6354b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6354b-steel-sheet-strip-plate-075si-062cr-020mo-010zr-010-017c
+docidentifier:
+- content: SAE AMS6354B
+  type: SAE
+  primary: true
+- content: 10.4271/ams6354b
+  type: DOI
+date:
+- type: approved
+  at: '1979-07-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a low-alloy steel in the form of sheet, strip, and plate.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

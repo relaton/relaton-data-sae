@@ -1,0 +1,57 @@
+---
+id: SAEJ2728_201006
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Heavy Vehicle Event Data Recorder (HVEDR) Standard - Tier 1
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2728_201006
+- type: src
+  content: https://saemobilus.sae.org/standards/j2728_201006-heavy-vehicle-event-data-recorder-hvedr-standard-tier-1
+docidentifier:
+- content: SAE J2728_201006
+  type: SAE
+  primary: true
+- content: 10.4271/j2728_201006
+  type: DOI
+date:
+- type: approved
+  at: '2010-06-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Event Data Recorder Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Recommended Practice (RP) document applies to Heavy Vehicle Event Data Recorders (HVEDR) for heavy-duty (HD) ground wheeled vehicles over 4545 kg (10 000 US pounds), commonly referred to as Class 3–8, which are intended to be compliant with current Federal Motor Vehicle Safety Standards (FMVSS) and/or Federal Motor Carrier Safety Regulations (FMCSR). In the context of the J2728 RP, the term &lt;i&gt;&lt;u&gt;heavy vehicle&lt;/u&gt;&lt;/i&gt; refers to motor vehicles equipped with one or both of the following vehicle communication networks: SAE J1708/J1587 or SAE J1939. This document is focused primarily on wheeled vehicles with standard on-board power supplies (e.g., batteries). It is intended to address the needs of OEM original, OEM modified/additive, and aftermarket systems. It does not specifically exclude trailers and similar non-engine powered vehicles, even though the current lack of standardized methodologies and processes for inter-vehicular communication and power supply interconnections remain unresolved.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

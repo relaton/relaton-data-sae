@@ -1,0 +1,57 @@
+---
+id: SAEJ28473_201312
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Communication for Plug-in Vehicles as a Distributed Energy Resource
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2847/3_201312
+- type: src
+  content: https://saemobilus.sae.org/standards/j28473_201312-communication-plug-vehicles-a-distributed-energy-resource
+docidentifier:
+- content: SAE J2847/3_201312
+  type: SAE
+  primary: true
+- content: 10.4271/j2847/3_201312
+  type: DOI
+date:
+- type: approved
+  at: '2013-12-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document applies to a Plug-in Electric Vehicle (PEV) which is equipped with an onboard inverter and communicates using the Smart Energy Profile 2.0 Application Protocol (SEP2). It is a supplement to the SEP2 Standard, which supports the use cases defined by J2836/3&lt;sup&gt;™&lt;/sup&gt;. It provides guidance for the use of the SEP2 Distributed Energy Resource Function Set with a PEV. It also provides guidance for the use of the SEP2 Flow Reservation Function Set, when used for discharging. It is not intended to be a comprehensive guide to the use of SEP2 in a PEV.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

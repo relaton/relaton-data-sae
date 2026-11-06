@@ -1,0 +1,49 @@
+---
+id: SAEAS2960012
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: CONNECTORS, ELECTRICAL, CIRCULAR, MINIATURE, COMPOSITE, HIGH DENSITY, QUICK
+    COUPLING, ENVIRONMENT RESISTANT, REMOVABLE CRIMP CONTACTS, PLUG (SERIES A)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as29600/12
+- type: src
+  content: https://saemobilus.sae.org/standards/as2960012-connectors-electrical-circular-miniature-composite-high-density-quick-coupling-environment-resistant-removable-crimp-contacts-plug-series-a
+docidentifier:
+- content: SAE AS29600/12
+  type: SAE
+  primary: true
+- content: 10.4271/as29600/12
+  type: DOI
+date:
+- type: approved
+  at: '2009-08-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8C1 Connectors Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

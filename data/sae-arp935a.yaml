@@ -1,0 +1,56 @@
+---
+id: SAEARP935A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Control Plan/Technical Construction File
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp935a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp935a-control-plan-technical-construction-file
+docidentifier:
+- content: SAE ARP935A
+  type: SAE
+  primary: true
+- content: 10.4271/arp935a
+  type: DOI
+date:
+- type: approved
+  at: '2003-09-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-4 Electromagnetic Compatibility (EMC) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document contains a "sample" Control Plan with explanations as to the intended content of various sections. It also can serve as a sample technical construction file as specified by the European EMC Directive.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,56 @@
+---
+id: SAEAMS2432E
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Shot Peening, Computer Monitored
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams2432e
+- type: src
+  content: https://saemobilus.sae.org/standards/ams2432e-shot-peening-computer-monitored
+docidentifier:
+- content: SAE AMS2432E
+  type: SAE
+  primary: true
+- content: 10.4271/ams2432e
+  type: DOI
+date:
+- type: approved
+  at: '2022-10-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS B Finishes Processes and Fluids Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification establishes the requirements for computer-monitored shot peening of part surfaces by impingement of media, including metallic, glass, or ceramic shot. Computer-monitored peening is intended to provide a method of process observation, traceability, and response for all process input settings, in real time, during the entire peening process to ensure with objective evidence, the desired process outputs. AMS2430 forms an integral part of this specification.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

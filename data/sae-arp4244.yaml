@@ -1,0 +1,56 @@
+---
+id: SAEARP4244
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Recommended Insertion Loss Test Methods for EMI Power Line Filters
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4244
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4244-recommended-insertion-loss-test-methods-emi-power-line-filters
+docidentifier:
+- content: SAE ARP4244
+  type: SAE
+  primary: true
+- content: 10.4271/arp4244
+  type: DOI
+date:
+- type: approved
+  at: '2004-08-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-4 Electromagnetic Compatibility (EMC) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document presents standard methods to evaluate the common mode and differential mode insertion loss of passive electromagnetic interference power line filters from 10 kHz through 10 GHz. Insertion loss test methods for both quality assurance and performance prediction purposes are described. The performance prediction tests are selected to more closely approximate operating impedances. They are not intended to be inclusive or to represent worst case conditions. However, the methodology of this document can be used to determine the performance in an arbitrary impedance circuit.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,58 @@
+---
+id: SAEARP1420A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Gas Turbine Engine Inlet Flow Distortion Guidelines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1420a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1420a-gas-turbine-engine-inlet-flow-distortion-guidelines
+docidentifier:
+- content: SAE ARP1420A
+  type: SAE
+  primary: true
+- content: 10.4271/arp1420a
+  type: DOI
+date:
+- type: approved
+  at: '1998-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-16 Turbine Engine Inlet Flow Distortion  Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The turbine-engine inlet flow distortion methodology addressed in this document applies only to the effects of inlet total-pressure distortion. Practices employed to quantify these effects are developing and therefore, periodic updates are anticipated. The effects of other forms of distortion on flow stability and performance and of any distortion on aeroelastic stability are not addressed.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The guidelines can be used as necessary to create a development method to minimize the risk of inlet/engine compatibility problems. The degree to which guidelines for descriptor use, assessment techniques, and testing outlined in this document are applied to a specific program should be consistent with the expected severity of the compatibility problem.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

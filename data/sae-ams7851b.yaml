@@ -1,0 +1,56 @@
+---
+id: SAEAMS7851B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: FOIL, SHEET, STRIP, AND PLATE, COLUMBIUM ALLOY 10W - 2.5Zr Recrystallized
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7851b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7851b-foil-sheet-strip-plate-columbium-alloy-10w-25zr-recrystallized
+docidentifier:
+- content: SAE AMS7851B
+  type: SAE
+  primary: true
+- content: 10.4271/ams7851b
+  type: DOI
+date:
+- type: approved
+  at: '1995-05-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS G Titanium and Refractory Metals Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a columbium alloy in the form of foil, sheet, strip, or plate.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

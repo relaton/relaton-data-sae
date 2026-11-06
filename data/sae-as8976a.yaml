@@ -1,0 +1,57 @@
+---
+id: SAEAS8976A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Bearings, Plain, Self-Aligning, All Metal General Specification for
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8976a
+- type: src
+  content: https://saemobilus.sae.org/standards/as8976a-bearings-plain-self-aligning-metal-general-specification
+docidentifier:
+- content: SAE AS8976A
+  type: SAE
+  primary: true
+- content: 10.4271/as8976a
+  type: DOI
+date:
+- type: approved
+  at: '2012-02-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ACBG Plain Bearing Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers all metal plain spherical bearings which are self-aligning for use between 65 °F to 250 °F. This specification covers bearings with alloy steel races, aluminum bronze races, and an entierly CRES bearing (ball and race). All units are inches, unless otherwise stated.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

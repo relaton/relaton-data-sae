@@ -1,0 +1,56 @@
+---
+id: SAEAS28431
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Signaling Torque Wrenches
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as28431
+- type: src
+  content: https://saemobilus.sae.org/standards/as28431-aerospace-signaling-torque-wrenches
+docidentifier:
+- content: SAE AS28431
+  type: SAE
+  primary: true
+- content: 10.4271/as28431
+  type: DOI
+date:
+- type: approved
+  at: '2011-02-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: EG-1B Hand Tools Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Society of Automotive Engineers (SAE) Aerospace Standard covers requirements for micrometer adjustable, feel impulse, torque wrenches. The torque wrench is used to apply a pre-set torque to threaded fasteners and other torque requirements.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,49 @@
+---
+id: SAEAMS6545B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel, Sheet, Strip, and Plate 0.48cr 8.0ni 4.0co 0.48mo 0.09v (0.24 -
+    0.30c) Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams6545b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams6545b-steel-sheet-strip-plate-048cr-80ni-40co-048mo-009v-024-030c-annealed
+docidentifier:
+- content: SAE AMS6545B
+  type: SAE
+  primary: true
+- content: 10.4271/ams6545b
+  type: DOI
+date:
+- type: approved
+  at: '1979-01-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS E Carbon and Low Alloy Steels Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

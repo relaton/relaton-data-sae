@@ -1,0 +1,57 @@
+---
+id: SAEJ2685_201412
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Positive Temperature Coefficient Overcurrent Protection Devices (PTCs)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2685_201412
+- type: src
+  content: https://saemobilus.sae.org/standards/j2685_201412-positive-temperature-coefficient-overcurrent-protection-devices-ptcs
+docidentifier:
+- content: SAE J2685_201412
+  type: SAE
+  primary: true
+- content: 10.4271/j2685_201412
+  type: DOI
+date:
+- type: approved
+  at: '2014-12-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Electrical Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice defines the test conditions, procedures, and performance requirements for PTC (positive temperature coefficient of resistance) overcurrent protection devices. PTCs are typically either polymeric (PPTC) or ceramic (CPTC). It is important to note battery voltages versus powernets/system voltage versus max battery voltages: (12 V/14 V/16 V, 24 V/28 V/32 V, and 36 V/42 V/58 V). All voltages are DC. These devices are typically rated with a maximum operating voltage, which for vehicular systems need to be 16 V (for 12 V batteries), 32 V (for 24 V batteries), and 58 V (for 36 V batteries/42 V powernets). PTC devices are considered to be self-resetting after responding to overcurrent conditions and after such condition has been removed from the affected circuit containing the PTC.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

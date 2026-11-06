@@ -1,0 +1,56 @@
+---
+id: SAECMB4_1A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Configuration Management Definitions for Digital Computer Programs
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/cmb4_1a
+- type: src
+  content: https://saemobilus.sae.org/standards/cmb4_1a-configuration-management-definitions-digital-computer-programs
+docidentifier:
+- content: SAE CMB4-1A
+  type: SAE
+  primary: true
+- content: 10.4271/cmb4_1a
+  type: DOI
+date:
+- type: approved
+  at: '2014-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-33 Configuration Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Bulletin is intended for use as a guide and defines the terms and definitions to be used during the development, documentation, verification, and delivery cycles of new and modified computer software. It lists and defines the most common terms currently used in the world of computer software configuration management. There has been no attempt to compete with some of the more formal documents in use within the software programming community.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

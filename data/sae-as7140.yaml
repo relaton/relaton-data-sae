@@ -1,0 +1,67 @@
+---
+id: SAEAS7140
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Common, Open Data Exchange Format for Rotorcraft Health and Usage Monitoring
+    Systems (CODEX-HUMS)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as7140
+- type: src
+  content: https://saemobilus.sae.org/standards/as7140-common-open-data-exchange-format-rotorcraft-health-usage-monitoring-systems-codex-hums
+docidentifier:
+- content: SAE AS7140
+  type: SAE
+  primary: true
+- content: 10.4271/as7140
+  type: DOI
+date:
+- type: approved
+  at: '2025-09-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: HM-1R Rotorcraft Integrated Vehicle Health Management
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: "<p>&lt;p&gt;This SAE Aerospace Standard (AS) provides guidance on the
+    development and implementation of a Common Open Data Exchange (CODEX) format for
+    rotorcraft Health and Usage Monitoring Systems (HUMS). The standard is intended
+    to apply to data generated on board rotorcraft and the transmission of that data,
+    as well as the data ingested by ground stations to facilitate Integrated Vehicle
+    Health Management (IVHM). The standard provides both a conceptual data model (or
+    models) and logical data models for rotorcraft HUMS use cases. However, the intent
+    of the standard is to allow for data schema evolution and does not define the
+    physical data models. The standard provides functional requirements for HUMS data
+    acquisition and HUMS data transfer interfaces. The initial standard is focused
+    primarily on drive train systems but is designed to potentially accommodate other
+    data (e.g., structural fatigue) in future revisions. It is acknowledged that current
+    rotorcraft onboard systems do not generate data in this format and will require
+    a translator for use in other systems. However, the intent is to set the standard
+    and have future onboard systems provide data natively with the CODEX-HUMS format.&lt;/p&gt;</p>"
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

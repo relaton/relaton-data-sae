@@ -1,0 +1,61 @@
+---
+id: SAEJ2945_201712
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Dedicated Short Range Communication (DSRC) Systems Engineering Process
+    Guidance for SAE J2945/X Documents and Common Design Concepts™
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2945_201712
+- type: src
+  content: https://saemobilus.sae.org/standards/j2945_201712-dedicated-short-range-communication-dsrc-systems-engineering-process-guidance-sae-j2945-x-documents-common-design-concepts
+docidentifier:
+- content: SAE J2945_201712
+  type: SAE
+  primary: true
+- content: 10.4271/j2945_201712
+  type: DOI
+date:
+- type: approved
+  at: '2017-12-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: V2X Core Technical Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard serves as the guidance document for the J2945/x family of standards as illustrated in &lt;span class="xref"&gt;Figure 7&lt;/span&gt;. It contains cross-cutting material which applies to the other J2945/x standards, including recommended practice for the use of Systems Engineering (SE) and generic DSRC interface requirements content.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The scope for the DSRC system environment is to provide for the information exchange between a host vehicle and another DSRC enabled device, a device worn by or otherwise attached to a traveler, a roadside device, or a management center, to address safety, mobility, and environmental system needs.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The audience for this document includes the technical teams of developers of the J2945/x documents and the implementers of the applications which are based on the J2945/x documents.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAMS4482B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Cast Aluminum Alloy Composite 4.6Cu - 3.4Ti - 1.4B - 0.75Ag - 0.27Mg (205.0/TiB2/3p-T7P)
+    Sand Cast, Solution, and Precipitation Heat Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4482b
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4482b-cast-aluminum-alloy-composite-46cu-34ti-14b-075ag-027mg-2050-tib2-3p-t7p-sand-cast-solution-precipitation-heat-treated
+docidentifier:
+- content: SAE AMS4482B
+  type: SAE
+  primary: true
+- content: 10.4271/ams4482b
+  type: DOI
+date:
+- type: approved
+  at: '2025-08-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers a dilute aluminum/TiB&lt;sub&gt;2&lt;/sub&gt; metal matrix composite in the form of sand castings.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

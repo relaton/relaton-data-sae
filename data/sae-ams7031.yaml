@@ -1,0 +1,58 @@
+---
+id: SAEAMS7031
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Batch Processing Requirements for the Reuse of Used Powder in Additive
+    Manufacturing of Aerospace Parts
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams7031
+- type: src
+  content: https://saemobilus.sae.org/standards/ams7031-batch-processing-requirements-reuse-used-powder-additive-manufacturing-aerospace-parts
+docidentifier:
+- content: SAE AMS7031
+  type: SAE
+  primary: true
+- content: 10.4271/ams7031
+  type: DOI
+date:
+- type: approved
+  at: '2022-03-29'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS AM Additive Manufacturing Metals
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification prescribes process requirements for batch processing of used, metal powder originating from an existing additive manufacturing process workflow for reuse in subsequent additive manufacturing of aerospace parts in non-closed loop additive manufacturing machines. Such powders may be pre-alloyed or commercially pure. This specification is not limited to a specific additive manufacturing process workflow as the originating source of material to be reused. It is intended to define those procedures and requirements necessary to achieve required cleanliness and performance of metal powder feedstock to be reintroduced into the same additive manufacturing process from which such powder originated. This specification is intended to be used in conjunction with relevant AMS powder specifications and AMS process specifications for additive manufacturing.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Unless otherwise specified, powder prepared for reuse following this specification is intended to be conforming in physical and chemical attributes as defined by the originating virgin powder specification for the purposes of producing aerospace parts, providing equivalent characteristics and properties as specified by the corresponding AMS material specification.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

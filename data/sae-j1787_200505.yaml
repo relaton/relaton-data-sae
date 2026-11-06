@@ -1,0 +1,61 @@
+---
+id: SAEJ1787_200505
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Measurement of the Total Ash Content of Aviation Piston Engine Oils by
+    a Calculation Method
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1787_200505
+- type: src
+  content: https://saemobilus.sae.org/standards/j1787_200505-measurement-total-ash-content-aviation-piston-engine-oils-a-calculation-method
+docidentifier:
+- content: SAE J1787_200505
+  type: SAE
+  primary: true
+- content: 10.4271/j1787_200505
+  type: DOI
+date:
+- type: approved
+  at: '2005-05-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-38 Aviation Piston Engine Fuels and Lubricants
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice describes an empirical method for determining the theoretical ash content of aviation piston engine lubricating oils by calculating the equivalent weight of metallic oxides formed at 775 °C based on the metallic elemental concentration.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The calculation method of ash determination may be used as an alternate to ASTM D 482 for application to the standards for aviation piston engine lubricating oils.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

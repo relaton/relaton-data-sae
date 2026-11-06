@@ -1,0 +1,56 @@
+---
+id: SAEAMS4011C
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum, Foil and Light Gage Sheet 99.45Al (1145-0) Annealed
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4011c
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4011c-aluminum-foil-light-gage-sheet-9945al-1145-0-annealed
+docidentifier:
+- content: SAE AMS4011C
+  type: SAE
+  primary: true
+- content: 10.4271/ams4011c
+  type: DOI
+date:
+- type: approved
+  at: '2003-12-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers aluminum in the form of foil and light gage sheet.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,48 @@
+---
+id: SAEMA3450
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: RETAINER, NUT AND BOLT, CUP LOCK 5 MM AND 6 MM, AMS 5510, METRIC
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ma3450
+- type: src
+  content: https://saemobilus.sae.org/standards/ma3450-retainer-nut-bolt-cup-lock-5-mm-6-mm-ams-5510-metric
+docidentifier:
+- content: SAE MA3450
+  type: SAE
+  primary: true
+- content: 10.4271/ma3450
+  type: DOI
+date:
+- type: approved
+  at: '2012-12-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-25 General Standards for Aerospace and Propulsion Systems
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

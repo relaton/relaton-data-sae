@@ -1,0 +1,84 @@
+---
+id: SAEJ28942_201503
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Power Quality Test Procedures for Plug-In Electric Vehicle Chargers
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2894/2_201503
+- type: src
+  content: https://saemobilus.sae.org/standards/j28942_201503-power-quality-test-procedures-plug-electric-vehicle-chargers
+docidentifier:
+- content: SAE J2894/2_201503
+  type: SAE
+  primary: true
+- content: 10.4271/j2894/2_201503
+  type: DOI
+date:
+- type: approved
+  at: '2015-03-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Hybrid - EV Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice provides test procedures for evaluating PEV chargers for the parameters established in SAE J2894/1, &lt;i&gt;Power Quality Requirements for Plug-In Electric Vehicle Chargers&lt;/i&gt;.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In addition, this Recommended Practice provides procedures for evaluating EVSE/charger/battery/vehicle systems in terms of energy efficiency, which is a subset of power quality. This expansion of scope from J2894/1 was requested by the stakeholders, and it provides relevance to the system level analyses that are current in state and federal processes. In accordance, the scope includes the energy storage system and the input and output of that system.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;In consideration of evaluation, a system boundary is established. The system boundary defines the tested elements and the measurement points. The system boundary for most of the systems expected to be evaluated under this Recommended Practice is shown in &lt;span class="xref"&gt;Figure 1&lt;/span&gt;. In this system boundary the parts of the battery charging system that are included for evaluation are the EVSE, the battery charger (BC), the system powering auxiliary loads, and the battery. It should be noted that this is a change from the original text of J2894/1, but it was essential for the purposes of system analysis to include all the elements, such as the EVSE, to evaluate efficiency and response to events. In terms of power quality and efficiency, the effects of this change should be minor. Note that no distinction is made about the battery or the auxiliary loads, which may include fans, chillers, or other thermal management devices. Note that some systems may require multiple measurement points to capture all auxiliary loads.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Figure 2&lt;/span&gt; shows the system boundary for an off-board charging system.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Figure 3&lt;/span&gt; shows the special case of an EVSE under test with a testing tool.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;Note that all systems include an EVSE device. EVSE devices can introduce variance in test results. Therefore, all system test results must be recorded for, and are only valid for the tested combinations.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Auxiliary loads include all of the separable electrical loads on the vehicle while charging and discharging that are necessary for safe and effective operation and sufficient battery life, but are separate from energy going into the battery that later does work.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Examples of auxiliary loads:
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Control modules&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Active battery cooling and heating system components&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Data systems or telematics&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;Cabin comfort systems
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Cooling&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;○&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Heating&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;12V system support (charging auxiliary, or starting, battery)&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

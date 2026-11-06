@@ -1,0 +1,58 @@
+---
+id: SAEARP994
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: RECOMMENDED PRACTICE FOR THE DESIGN OF TUBING INSTALLATIONS FOR AEROSPACE
+    FLUID POWER SYSTEMS
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp994
+- type: src
+  content: https://saemobilus.sae.org/standards/arp994-recommended-practice-design-tubing-installations-aerospace-fluid-power-systems
+docidentifier:
+- content: SAE ARP994
+  type: SAE
+  primary: true
+- content: 10.4271/arp994
+  type: DOI
+date:
+- type: approved
+  at: '1991-11-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C5 Components Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is a compendium of recommended practices for the design of tubing systems for the transmission of liquid and gasses influid power systems for aerospace vehicles such as aircraft, missiles and boosters, and is considered applicable to the design of future space vehicles and other applications using aircraft technology. Primary emphasis is given to recommended practices for line sizing, tube routing, supports and clamping, stress considerations and permissible defects, and provisions for flexure through the use of flexible hoses, coiled tubes, swivel joints, and expansion glands. Fluid power systems are differentiated from the normal aircraft fuel and oil systems and the various fluid systems used for environmental control and air conditioning systems; however, the practices cited herein will in many cases be applicable to these other systems.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;A &lt;span class="xref"&gt;section (3)&lt;/span&gt; regarding tubing materials and fitting types currently in use is included for reference, but particular recommendations are purposely avoided since their selection is dependent upon the specific requirements of each particular vehicle system and many other factors.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

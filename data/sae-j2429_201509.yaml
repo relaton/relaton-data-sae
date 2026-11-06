@@ -1,0 +1,60 @@
+---
+id: SAEJ2429_201509
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Free-Rolling Cornering Test for Truck and Bus Tires
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2429_201509
+- type: src
+  content: https://saemobilus.sae.org/standards/j2429_201509-free-rolling-cornering-test-truck-bus-tires
+docidentifier:
+- content: SAE J2429_201509
+  type: SAE
+  primary: true
+- content: 10.4271/j2429_201509
+  type: DOI
+date:
+- type: approved
+  at: '2015-09-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Tire Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice describes a test method for determination of heavy truck (Class VI, VII, and VIII) tire force and moment properties under free-rolling cornering conditions. The steady-state properties are acquired as functions of slip angle and normal force, which are changed incrementally using a sequence specified in this document. The data are suitable for use in vehicle dynamics modeling, comparative evaluations for research and development purposes, and manufacturing quality control.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document addresses two principal topics; a) the description of a hypothetical “Ideal Machine,” and b) a standard directly applicable to testing practices currently common to the industry. The references to the “Ideal Machine” are meant to provide a roadmap for the testing machine manufacturer, providing direction and goals for the next generation of testing capabilities. The ranges of parameters for the “Ideal Machine,” including those in &lt;span class="xref"&gt;Tables 2&lt;/span&gt; and &lt;span class="xref"&gt;3&lt;/span&gt;, are intended to represent minimal requirements to meet the &lt;i&gt;full and complete&lt;/i&gt; data needs of the industry. The remaining documentation provides practical guidelines for the test engineer to ensure the integrity of data generated using current and conventional means.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

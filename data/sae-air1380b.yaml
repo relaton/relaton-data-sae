@@ -1,0 +1,56 @@
+---
+id: SAEAIR1380B
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Recommended Practice for Measurement of Static Mechanical Stiffness Properties
+    of Aircraft Tires
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1380b
+- type: src
+  content: https://saemobilus.sae.org/standards/air1380b-recommended-practice-measurement-static-mechanical-stiffness-properties-aircraft-tires
+docidentifier:
+- content: SAE AIR1380B
+  type: SAE
+  primary: true
+- content: 10.4271/air1380b
+  type: DOI
+date:
+- type: approved
+  at: '2002-02-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-5 Aerospace Landing Gear Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>The static mechanical stiffness properties of aircraft tires are fundamental to any computation of wheel and landing gear shimmy characteristics, and are important guides in anti-skid system and aircraft wheel design. While the mechanical stiffness properties of aircraft tires are frequency sensitive, the static or low frequency values are important because they are the ones most easily obtained by laboratory testing and are most commonly found in literature.
+
+    The following recommended methods for measurement of such properties are believed to represent practices which will give reliable and repeatable measurements, either at one facility or among different facilities, using equipment which is commonly available in most tire testing installations.</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

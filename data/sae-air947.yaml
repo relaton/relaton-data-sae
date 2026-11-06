@@ -1,0 +1,56 @@
+---
+id: SAEAIR947
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Engine Erosion Protection
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air947
+- type: src
+  content: https://saemobilus.sae.org/standards/air947-engine-erosion-protection
+docidentifier:
+- content: SAE AIR947
+  type: SAE
+  primary: true
+- content: 10.4271/air947
+  type: DOI
+date:
+- type: approved
+  at: '1998-02-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-12 Powered Lift Propulsion Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Information Report deals with protection of helicopter aircraft engines against erosion. Applicability is restricted to aircraft having a disc loading of less than 15 pounds per square foot.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

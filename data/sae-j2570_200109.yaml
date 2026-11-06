@@ -1,0 +1,58 @@
+---
+id: SAEJ2570_200109
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Performance Specifications for Anthropomorphic Test Device Transducers
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2570_200109
+- type: src
+  content: https://saemobilus.sae.org/standards/j2570_200109-performance-specifications-anthropomorphic-test-device-transducers
+docidentifier:
+- content: SAE J2570_200109
+  type: SAE
+  primary: true
+- content: 10.4271/j2570_200109
+  type: DOI
+date:
+- type: approved
+  at: '2001-09-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Safety Test Instrumentation Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report defines the minimum performance specifications for accelerometers, load cells, and angular position transducers used within Anthropomorphic Test Devices (ATDs) when performing impact tests per SAE J211, “Instrumentation for Impact Test”. This report does not define methodology and equipment for performing verification tests of the transducers. It is intended that any agency proposing to conduct tests in accordance with SAE J211 should be able to demonstrate that the transducers they use would meet the performance requirements specified in this information report.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

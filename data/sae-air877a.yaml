@@ -1,0 +1,56 @@
+---
+id: SAEAIR877A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AEROSPACE-PARTICLE COUNT DATA CONVERSION AND EXTRAPOLATION
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air877a
+- type: src
+  content: https://saemobilus.sae.org/standards/air877a-aerospace-particle-count-data-conversion-extrapolation
+docidentifier:
+- content: SAE AIR877A
+  type: SAE
+  primary: true
+- content: 10.4271/air877a
+  type: DOI
+date:
+- type: approved
+  at: '1993-03-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C1 Fluids and Contamination Control Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Information Report (AIR) describes a mathematical model that can be used to analyze particle count data. Particle counts that fit the model can be graphically displayed, converted from one counting size-frequency range to another, and extrapolated to estimate counts beyond the measured range. Derivation, applications and calculations are described.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

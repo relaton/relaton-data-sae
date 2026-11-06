@@ -1,0 +1,61 @@
+---
+id: SAEAIR5315A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Overview and Rationale for GOA Framework Standard
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air5315a
+- type: src
+  content: https://saemobilus.sae.org/standards/air5315a-overview-rationale-goa-framework-standard
+docidentifier:
+- content: SAE AIR5315A
+  type: SAE
+  primary: true
+- content: 10.4271/air5315a
+  type: DOI
+date:
+- type: approved
+  at: '2018-05-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AS-2 Embedded Computing Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document is a companion document to SAE AS4893 “Generic Open Architecture (GOA) Framework Standard” and provides an overview and rationale for SAE AS4893. The GOA Framework establishes an architectural framework to assist in the application of open systems interface standards to the design of specific hardware/software systems. The GOA Framework standard is intended for use by both system designers and system implementers in the development of open systems architectures. It is intended that domain specific guidelines be developed to provide clarification for application of the GOA Framework.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The Generic Open Architecture (GOA) Framework was initially developed by the SAE to provide a framework which could be used to classify interfaces needed in airborne avionics systems. At the time of the development of the GOA Framework, development of such a classification was considered crucial to the application of open systems standards to military avionics. However, it was recognized during the development of the GOA that the GOA Framework might be applicable to domains other than avionics. For that reason the framework is entitled Generic Open Architecture instead of the original name, Generic Open Avionics Architecture (GOAA).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document is one of several documents contained within the GOA document set. “Introduction to the GOA Family of Document Set”, SAE AIR5314, provides an overview of the GOA Family of Documents. SAE AIR5314, the GOA Framework Standard, and this document make up the domain independent set of documents within the GOA Family of Documents. These domain independent documents are augmented with domain specific sets of document. The Domain specific sets of documents consist of a Catalog of Preferred Standards document, Rationale for Catalog of Preferred Standards Document, and GOA Guidance Document for each domain. The first domain specific set of documents within the GOA Family of Documents being developed is for the aviation domain.&lt;/div&gt;
+
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

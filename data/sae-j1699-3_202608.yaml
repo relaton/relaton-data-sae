@@ -1,0 +1,63 @@
+---
+id: SAEJ16993_202608
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Vehicle OBD II Compliance Test Cases
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1699/3_202608
+- type: src
+  content: https://saemobilus.sae.org/standards/j16993_202608-vehicle-obd-ii-compliance-test-cases
+docidentifier:
+- content: SAE J1699/3_202608
+  type: SAE
+  primary: true
+- content: 10.4271/j1699/3_202608
+  type: DOI
+date:
+- type: approved
+  at: '2026-08-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The main purpose of this SAE Recommended Practice is to verify that vehicles are capable of communicating a minimum subset of information in accordance with the diagnostic test services specified in SAE J1979, or the equivalent document ISO 15031-5.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Any software meeting these specifications will utilize the vehicle interface that is defined in SAE J2534.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;SAE J1699-3 tests shall be run using an SAE J2534-1 (API Version 04.04) Interface. However, the use of an SAE J2534-2 (API Version 04.04) Interface shall be permitted if the following conditions are met:&lt;/div&gt;
+    &lt;ul class="list disc"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;The number of 29-bit ISO 15765 OBD ECUs exceeds the capability of the SAE J2534-1 Interface.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;div class="htmlview paragraph"&gt;The SAE J2534-2 Interface meets or exceeds all of the SAE J2534-1 requirements and also supports the SAE J2534-2 feature “Mixed Format Frames on a CAN Network.”&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

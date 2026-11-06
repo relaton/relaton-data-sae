@@ -1,0 +1,57 @@
+---
+id: SAEARP4940
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Application Guide for Aerospace Hydraulic Motors
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp4940
+- type: src
+  content: https://saemobilus.sae.org/standards/arp4940-application-guide-aerospace-hydraulic-motors
+docidentifier:
+- content: SAE ARP4940
+  type: SAE
+  primary: true
+- content: 10.4271/arp4940
+  type: DOI
+date:
+- type: approved
+  at: '2014-07-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6C4 Power Sources Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) is an application guide for fixed and variable displacement hydraulic motors. It provides details of the characteristics of fixed and variable displacement hydraulic motors, architectures, circuit designs, controls, and typical applications. The applications include airborne and defense vehicles with emphasis on high performance applications.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

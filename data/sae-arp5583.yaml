@@ -1,0 +1,60 @@
+---
+id: SAEARP5583
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Guide to Certification of Aircraft in a High Intensity Radiated Field (HIRF)
+    Environment
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp5583
+- type: src
+  content: https://saemobilus.sae.org/standards/arp5583-guide-certification-aircraft-a-high-intensity-radiated-field-hirf-environment
+docidentifier:
+- content: SAE ARP5583
+  type: SAE
+  primary: true
+- content: 10.4271/arp5583
+  type: DOI
+date:
+- type: approved
+  at: '2003-01-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-4 Electromagnetic Compatibility (EMC) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This guide provides detailed information, guidance, and methods related to the Federal Aviation Administration Advisory Circular (AC)/Joint Airworthiness Authorities Advisory Material Joint (AMJ) 20-XXX, "Certification of Aircraft Electrical/Electronic Systems for Operation in the High Intensity Radiated Fields (HIRF) Environment" (draft). The AC/AMJ provides acceptable means, but not the only means, of compliance with Parts 23, 25, 27, and 29 of the Federal Aviation Regulations (FAR)/Joint Aviation Regulations (JAR) to prevent hazards to aircraft electrical and electronic systems due to HIRF produced by external transmitters.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This guide is neither mandatory nor regulatory in nature and does not constitute a regulation or legal interpretation of the regulation. The information in this guide represents a collection of best engineering practices that have been used to certify aircraft HIRF protection. An applicant may elect to establish an alternative method of compliance that is acceptable to the Federal Aviation Administration (FAA) or Joint Aviation Authorities (JAA).&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

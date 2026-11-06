@@ -1,0 +1,70 @@
+---
+id: SAEAMS4132J
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Die and Hand Forgings, and Rolled Rings, 2.3Cu - 1.6Mg
+    - 1.1Fe - 1.0Ni - 0.18Si - 0.07Ti (2618-T61), Solution and Precipitation Heat
+    Treated
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4132j
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4132j-aluminum-alloy-die-hand-forgings-rolled-rings-23cu-16mg-11fe-10ni-018si-007ti-2618-t61-solution-precipitation-heat-treated
+docidentifier:
+- content: SAE AMS4132J
+  type: SAE
+  primary: true
+- content: 10.4271/ams4132j
+  type: DOI
+date:
+- type: approved
+  at: '2026-03-13'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of die forgings, hand forgings, and rolled rings 4 inches (102 mm) and under in nominal thickness and forging stock of any size (see &lt;span class="xref"&gt;8.6&lt;/span&gt;).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

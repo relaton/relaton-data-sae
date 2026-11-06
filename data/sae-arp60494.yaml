@@ -1,0 +1,61 @@
+---
+id: SAEARP60494
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Touch Interactive Display Systems: Human Factors Considerations, System
+    Design and Performance Guidelines'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp60494
+- type: src
+  content: https://saemobilus.sae.org/standards/arp60494-touch-interactive-display-systems-human-factors-considerations-system-design-performance-guidelines
+docidentifier:
+- content: SAE ARP60494
+  type: SAE
+  primary: true
+- content: 10.4271/arp60494
+  type: DOI
+date:
+- type: approved
+  at: '2019-02-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-10TDS Touch Interactive Display Systems Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Recommended Practice (ARP) addresses direct touch interactive electronic display systems installed in the cockpit/flight deck for use by pilots. Direct touch refers to interactivity where the display screen is the input surface. This entire direct interactive electronic display system is referred to as the touch system throughout this document and covers those items related to direct interactive touch on display devices. In cases where only the display and touch device are being considered, this is referred to as the touch screen. The ARP covers system design guidelines as well as the considerations and recommendations for system performance and human factors. This ARP is intended to cover systems installed in 14 CFR Part 23, 25, 27, and 29 aircraft.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;As an ARP this document collects what are considered good practices by developers, users, and regulators of touch systems. The state of touch technology and the application of that technology is still evolving. As a result, it is premature to develop quantitative guidance for some key touch characteristics. In addition to the recommendations, this document provides considerations to address these cases by listing the issues that need to be assessed in a specific application.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This ARP only applies to touch systems that are part of the installed equipment in the cockpit. However, the tendency for non-installed devices, such as Portable Electronic Devices (PED) hosting Electronic Flight Bag (EFB) applications, to move into a primary role in the cockpit should not be ignored whether or not the function is regulated. In this regard the ARP may provide useful information for the designers of PED type devices, especially those hosting EFB applications.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

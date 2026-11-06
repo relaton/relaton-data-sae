@@ -1,0 +1,58 @@
+---
+id: SAEAIR8252
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: 'Effects of Acute Altitude Exposure in Humans: Requirements for Physiological
+    Protection'
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air825/2
+- type: src
+  content: https://saemobilus.sae.org/standards/air8252-effects-acute-altitude-exposure-humans-requirements-physiological-protection
+docidentifier:
+- content: SAE AIR825/2
+  type: SAE
+  primary: true
+- content: 10.4271/air825/2
+  type: DOI
+date:
+- type: approved
+  at: '2017-11-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-10 Aircraft Oxygen Equipment Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The intent of this SAE Aerospace Information Report (AIR) is to describe the effects of the environmental changes on human physiology and the protection required to avoid negative consequences resulting from altitude exposure. A brief presentation of basic terms and considerations required to discuss the topic of human physiology at altitude are followed by an overview of the cardiovascular and respiratory systems. Issues specifically related to human exposure to altitude are then discussed. Hypoxia, hyperventilation, barotrauma, and decompression sickness (DCS) are each addressed: hypoxia is defined as an insufficient supply of oxygen to the tissues, hyperventilation is an excessive rate of ventilation with ultimate consequences on acido-basic equilibrium, barotrauma is injury caused by pressure: most commonly referencing injury to the walls of the Eustachian tube and the ear drum due to the difference between atmospheric and intratympanic pressures, and DCS is related to an excess of nitrogen in the body tissues. One goal of this AIR is to demonstrate the necessity of oxygen use for prevention of physical and psychological problems, or loss of consciousness in an aircraft pilot, flight crew, or passengers. Hopefully, this will provide a clear understanding as to why the use of supplemental oxygen is required for flight crew and passengers at altitudes greater than 12,000 ft (3650 m).&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

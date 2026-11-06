@@ -1,0 +1,58 @@
+---
+id: SAEJA1006_199906
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Software Support Concept
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ja1006_199906
+- type: src
+  content: https://saemobilus.sae.org/standards/ja1006_199906-software-support-concept
+docidentifier:
+- content: SAE JA1006_199906
+  type: SAE
+  primary: true
+- content: 10.4271/ja1006_199906
+  type: DOI
+date:
+- type: approved
+  at: '1999-06-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-11R,  Reliability Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Recommended Practice provides a framework for the establishment of a software support concept related to the support and supportability of both custom-developed and Off-the-Shelf (OTS) software.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document complements SAE AIR 5121, JA1004, and JA1005 by providing information needed to understand the support aspects that should be covered by a software supportability program. It should be noted that particular information indicated here should not be considered a complete list of all aspects of the support concept. In particular, the information should not be confused with a list of data elements.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document has general applicability to all sectors of industry and commerce and to all types of equipment that contain software. The target audience for this document includes software acquisition organizations, software logisticians, developers, supporters, and customers. This document is intended to be guidance for business purposes and should be applied when it provides a value-added basis for the business aspects of development, use, and sustainment of support-critical software.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

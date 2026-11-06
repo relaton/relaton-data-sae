@@ -1,0 +1,57 @@
+---
+id: SAEARP1870
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Systems Electrical Bonding and Grounding for Electromagnetic
+    Compatibility and Safety
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp1870
+- type: src
+  content: https://saemobilus.sae.org/standards/arp1870-aerospace-systems-electrical-bonding-grounding-electromagnetic-compatibility-safety
+docidentifier:
+- content: SAE ARP1870
+  type: SAE
+  primary: true
+- content: 10.4271/arp1870
+  type: DOI
+date:
+- type: approved
+  at: '1999-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-4 Electromagnetic Compatibility (EMC) Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document establishes the minimum requirements for the electrical bonding and grounding of electric, avionic, armament, communication, and electronic equipment installations for aeronautical and aerospace applications. The bonding and grounding requirements specified herein are to ensure that an adequate low resistance return path for electric, avionic, armament, communication and electronic equipment is achieved which can withstand operating conditions and corrosion. This is essential for the reduction of coupling of electromagnetic fields into or out of the equipment as well as for providing electrical stability to control the currents and/or voltages caused by static charges and discharges and for suppressing the hazardous effects thereof.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

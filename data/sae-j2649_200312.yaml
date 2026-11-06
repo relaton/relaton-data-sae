@@ -1,0 +1,56 @@
+---
+id: SAEJ2649_200312
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Strain-Life Overload Fatigue Data File Format
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2649_200312
+- type: src
+  content: https://saemobilus.sae.org/standards/j2649_200312-strain-life-overload-fatigue-data-file-format
+docidentifier:
+- content: SAE J2649_200312
+  type: SAE
+  primary: true
+- content: 10.4271/j2649_200312
+  type: DOI
+date:
+- type: approved
+  at: '2003-12-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Material Properties Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE data file format for exchanging controlled periodic overload data. The object of this SAE Standard is to provide a simple, common methodology for exchanging the data from periodic overload fatigue tests. These tests consist of a single large fatigue cycle followed by a larger number of smaller cycles. The overloads are fully reversed fatigue cycles while the smaller cycles share a common mean and amplitude.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

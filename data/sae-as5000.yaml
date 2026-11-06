@@ -1,0 +1,59 @@
+---
+id: SAEAS5000
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fitting, Plug-in Union, Ring Locked, 24° Cone, Fluid Connection, 5080 psi,
+    Specification for
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as5000
+- type: src
+  content: https://saemobilus.sae.org/standards/as5000-fitting-plug-union-ring-locked-24-cone-fluid-connection-5080-psi-specification
+docidentifier:
+- content: SAE AS5000
+  type: SAE
+  primary: true
+- content: 10.4271/as5000
+  type: DOI
+date:
+- type: approved
+  at: '2006-03-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-3C, AS-EN Harmonization Task Group
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Standard (AS) establishes the requirements for 24° cone AS5827 or EN 6123 flareless Ring locked fitting assemblies per AS5550 and AS5865, for use in aircraft fluid systems at nominal operating pressure of 5080 psi maximum and operating temperature range of -65 to +275 °F.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The general requirements shall be for, but not limited to, commercial aircraft hydraulic components per AS4941, using port configuration as specified in AS5551.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

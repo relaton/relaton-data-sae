@@ -1,0 +1,58 @@
+---
+id: SAEMAM2303D
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Steel Cleanliness, Aircraft Quality Martensitic Corrosion-Resistant Steels
+    Magnetic Particle Inspection Procedure Metric (SI) Measurement
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/mam2303d
+- type: src
+  content: https://saemobilus.sae.org/standards/mam2303d-steel-cleanliness-aircraft-quality-martensitic-corrosion-resistant-steels-magnetic-particle-inspection-procedure-metric-si-measurement
+docidentifier:
+- content: SAE MAM2303D
+  type: SAE
+  primary: true
+- content: 10.4271/mam2303d
+  type: DOI
+date:
+- type: approved
+  at: '2003-03-12'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS F Corrosion and Heat Resistant Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers steel cleanliness requirements in SI (Metric) units for aircraft-quality, ferromagnetic, hardenable, corrosion-resistant steels as determined by magnetic particle inspection methods. This specification contains sampling, specimen preparation, and inspection procedures and cleanliness rating criteria.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

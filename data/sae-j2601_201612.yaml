@@ -1,0 +1,61 @@
+---
+id: SAEJ2601_201612
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Fueling Protocols for Light Duty Gaseous Hydrogen Surface Vehicles
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j2601_201612
+- type: src
+  content: https://saemobilus.sae.org/standards/j2601_201612-fueling-protocols-light-duty-gaseous-hydrogen-surface-vehicles
+docidentifier:
+- content: SAE J2601_201612
+  type: SAE
+  primary: true
+- content: 10.4271/j2601_201612
+  type: DOI
+date:
+- type: approved
+  at: '2016-12-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Fuel Cell Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;SAE J2601 establishes the protocol and process limits for hydrogen fueling of light duty vehicles. These process limits (including the fuel delivery temperature, the maximum fuel flow rate, the rate of pressure increase and the ending pressure) are affected by factors such as ambient temperature, fuel delivery temperature and initial pressure in the vehicle’s compressed hydrogen storage system. SAE J2601 establishes standard fueling protocols based on either a look-up table approach utilizing a fixed pressure ramp rate, or a formula based approach utilizing a dynamic pressure ramp rate continuously calculated throughout the fill. Both protocols allow for fueling with communications or without communications. The table-based protocol provides a fixed end-of-fill pressure target, whereas the formula-based protocol calculates the end-of-fill pressure target continuously. For fueling with communications, this standard is to be used in conjunction with SAE J2799, Hydrogen Surface Vehicle to Station Communications Hardware and Software.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;An important factor in the performance of hydrogen fueling is the station’s dispensing equipment cooling capability and the resultant fuel delivery temperature. There are three fuel delivery temperature categories denoted by a “T” rating - T40, T30, and T20, where T40 is the coldest. Under reference conditions, SAE J2601 has a performance target of a fueling time of 3 minutes and a State of Charge (SOC) of 95–100% (with communications), which can be achieved with a T40 rated dispenser. However, with higher fuel delivery temperature dispenser ratings (T30 or T20) and/or at high ambient temperatures, fueling times may be longer.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;&lt;span class="xref"&gt;Table 1&lt;/span&gt; below depicts the scope of SAE J2601 and potential work items for future revisions within this or other documents of the J2601 series. SAE J2601 includes protocols which are applicable for two pressure classes (35 and 70 MPa), three fuel delivery temperatures categories (−40 °C, −30 °C, −20 °C) and compressed hydrogen storage system sizes from 49.7 to 248.6 L. Future versions of SAE J2601work may incorporate warmer fuel delivery temperatures (−10 °C and ambient) and smaller compressed hydrogen storage systems for motorcycles and other light duty applications.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The fueling protocols herein were developed based on a set of key assumptions described in &lt;span class="xref"&gt;Section 7&lt;/span&gt; and &lt;span class="xref"&gt;Appendix A&lt;/span&gt;. These assumptions should be carefully considered in the development and implementation of an on-board compressed hydrogen storage system. In particular, hydrogen storage systems with properties which do not fall within the parameters in &lt;span class="xref"&gt;Table A3&lt;/span&gt; should be further evaluated to confirm compatibility with the protocols herein.&lt;/div&gt;
+
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

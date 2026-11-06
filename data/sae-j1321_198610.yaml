@@ -1,0 +1,73 @@
+---
+id: SAEJ1321_198610
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: JOINT TMC/SAE FUEL CONSUMPTION TEST PROCEDURE - TYPE II
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1321_198610
+- type: src
+  content: https://saemobilus.sae.org/standards/j1321_198610-joint-tmc-sae-fuel-consumption-test-procedure-type-ii
+docidentifier:
+- content: SAE J1321_198610
+  type: SAE
+  primary: true
+- content: 10.4271/j1321_198610
+  type: DOI
+date:
+- type: approved
+  at: '1986-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Truck and Bus Aerodynamics and Fuel Economy Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This recommended practice provides a standardized test procedure for comparing the in-service fuel consumption of two conditions of a test vehicle or of one test vehicle to another when it is not possible to run the two or more test vehicles simultaneously. An unchanging control vehicle is run in tandem with the test vehicle(s) to provide reference fuel consumption data. This procedure is especially suitable for testing components which require substantial time for removal and replacement or modification, such as engines, transmissions, tag-axles, and cab sheet metal. This procedure may also be used for comparison of entire vehicles and for easy-to-change components (those referenced in the Type I test described in SAE Recommended Practice, SAE J1264). The test may utilize fleet vehicles operating over representative routes.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The result of a test using this procedure is the percent difference in fuel consumption between the two test vehicles or the difference in fuel consumption of one vehicle in two different test conditions.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The fuel measurement method is a key factor in determining the overall accuracy achievable with this procedure. If the weighing method is used, overall test accuracy is best and, based on test experience, will be within +1% (for example, 6% measurement improvement can be from 5–7% actual improvement). (See &lt;span class="xref"&gt;Section 7&lt;/span&gt;, Test Accuracy.)&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The following four basic rules must be applied to this procedure to insure test result validity:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The test routes and cargo weight should be representative of actual operation.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;A single test is inconclusive regardless of the results. A single test should be taken as an indicator. Test results must be repeatable to have validity.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;c&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;The more variables controlled, the more conclusive the results.&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;d&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;All test procedures or methods are accurate within prescribed limits.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;If the component or system being tested by a given procedure shows a degree of improvement which is equal to or less than the accuracy limit of the procedure, an additional number of tests should be conducted to determine its true value. If a number of such tests do not show consistent results, then one must conclude that the changes caused by the component or vehicle system are less than can be measured by the test procedure.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

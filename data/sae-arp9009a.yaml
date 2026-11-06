@@ -1,0 +1,64 @@
+---
+id: SAEARP9009A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aerospace Contract Clauses
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp9009a
+- type: src
+  content: https://saemobilus.sae.org/standards/arp9009a-aerospace-contract-clauses
+docidentifier:
+- content: SAE ARP9009A
+  type: SAE
+  primary: true
+- content: 10.4271/arp9009a
+  type: DOI
+date:
+- type: approved
+  at: '2017-06-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: G-14 Americas Aerospace Quality Standards Committee (AAQSC)
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Aerospace Recommended Practice (ARP) specifies for quality requirements that are additive to a procurement document or contract, where an organization:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;needs to provide additional guidance for suppliers and other organizations in the delivery of products, goods and services in accordance with stated quality demands, and&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;needs to provide information in addition or in absence of existing quality system requirements to provide the assurance of conformity to customer and applicable regulatory requirements.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;NOTE: In this ARP, the term ‘product’ applies only to the product intended for, or required by, a customer.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,59 @@
+---
+id: SAEJ639_201102
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Safety Standards for Motor Vehicle Refrigerant Vapor Compression Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j639_201102
+- type: src
+  content: https://saemobilus.sae.org/standards/j639_201102-safety-standards-motor-vehicle-refrigerant-vapor-compression-systems
+docidentifier:
+- content: SAE J639_201102
+  type: SAE
+  primary: true
+- content: 10.4271/j639_201102
+  type: DOI
+date:
+- type: approved
+  at: '2011-02-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Interior Climate Control Steering Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Standard applies to refrigerant vapor compression systems that provide cooling and/or heating for passenger cars, light trucks and commercial vehicles (on and off road) that use automotive type mobile air conditioning (MAC) systems. Large trucks, buses and other vehicles that do not use typical automotive a/c systems or use refrigerants not listed in this document are not covered by this standard. This standard covers any vehicle with a MAC system using a belt or electric motor driven compressor.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This document provides standards for design, assembly, test and service of MAC systems to minimize environmental, health and safety impacts. Also included are cautionary statements for the service industry to alert technicians to the inadvisability and possible health or safety effects associated with venting refrigerant during service. It is not intended to restrict the use, or further development, of other types of refrigeration systems for mobile air conditioning applications. This document may be amended or additional safety standards created should other systems become practical. This document addresses only HFC-134a (R-134a), carbon dioxide (R-744), and HFO-1234yf (R-1234yf) refrigerants. To prevent system contamination all refrigerants used in mobile air conditioning vapor compression systems require unique service fittings and service equipment. The unique service fittings are intended to eliminate the potential for system refrigerant cross-contamination during service activity.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;CFC-12 (R-12) is no longer in use in new MAC systems. The service fitting description is maintained as a reference for older vehicles still in use. When retrofitting an R-12 system to use R-134a or when removing R-12 (vehicle disposal) use service equipment designed for R-12 and certified to meet the requirements of SAE J1990 (R-12 recovery and recycle equipment).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;HFC-152a is an A2 flammable refrigerant as classified by ASHRAE 34 and should be used only with a secondary loop application. However, until MAC systems are developed to use R-152a (HFC-152a), no SAE Standards for system design, service equipment or service procedures have been established. The R-152a service fittings described within this Standard were established as part of the industries evaluation of replacement refrigerants and are maintained for future design guidance and to prevent potential refrigerant cross contamination.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

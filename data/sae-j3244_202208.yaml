@@ -1,0 +1,57 @@
+---
+id: SAEJ3244_202208
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Common Port Connections Used in Truck and Bus Air Brake Systems
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3244_202208
+- type: src
+  content: https://saemobilus.sae.org/standards/j3244_202208-common-port-connections-used-truck-bus-air-brake-systems
+docidentifier:
+- content: SAE J3244_202208
+  type: SAE
+  primary: true
+- content: 10.4271/j3244_202208
+  type: DOI
+date:
+- type: approved
+  at: '2022-08-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Air Brake Tubing and Tube Ftg Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This SAE Information Report lists common port connection types used in truck, bus, truck-trailer, converter dolly, and multi-purpose vehicles with air brake systems at the time of publication. The purpose of the document is to give system designers and users a starting point for connector selection and a reference to the standards that govern these connector types. Also included are notes on common practices associated with these ports.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;CAUTION: Consult the relevant standard for the connector before making a decision on suitability for use in a specific application.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

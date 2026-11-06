@@ -1,0 +1,59 @@
+---
+id: SAEAIR6241A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Procedure for the Continuous Sampling and Measurement of Non-Volatile Particle
+    Emissions from Aircraft Turbine Engines
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6241a
+- type: src
+  content: https://saemobilus.sae.org/standards/air6241a-procedure-continuous-sampling-measurement-non-volatile-particle-emissions-aircraft-turbine-engines
+docidentifier:
+- content: SAE AIR6241A
+  type: SAE
+  primary: true
+- content: 10.4271/air6241a
+  type: DOI
+date:
+- type: approved
+  at: '2020-07-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-31P Particulate Matter Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Information Report (AIR) is a historical technical record describing procedures, required continuous sampling conditions, and instrumentation for the measurement of non-volatile particle number and mass concentrations from the exhaust of aircraft gas turbine engines. Procedures are included to calculate sampling loss performance. This AIR is not intended for in-flight testing, nor does it apply to engine operating in the afterburning mode.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This Aerospace Information Report is a historical technical record of the initial document detailing the measurement of non-volatile particle emissions at the exit plane of aircraft gas turbine engines. This methodology was adopted by ICAO into Annex 16 Vol II and updated into Aerospace Recommended Practice ARP6320.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Future updates of this document may include explanations of the reasoning and assumptions used to develop this measurement methodology.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

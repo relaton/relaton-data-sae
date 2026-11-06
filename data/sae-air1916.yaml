@@ -1,0 +1,56 @@
+---
+id: SAEAIR1916
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: AEROSPACE FLUID POWER AND CONTROL/ACTUATION SYSTEM GLOSSARY
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air1916
+- type: src
+  content: https://saemobilus.sae.org/standards/air1916-aerospace-fluid-power-control-actuation-system-glossary
+docidentifier:
+- content: SAE AIR1916
+  type: SAE
+  primary: true
+- content: 10.4271/air1916
+  type: DOI
+date:
+- type: approved
+  at: '1985-10-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: A-6A3 Flight Control and Vehicle Management Systems Cmt
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;General terms peculiar to aerospace fluid power and control systems are defined in this glossary. Relevant terms have been excerpted from the referenced documents and included herein from the aerospace terms felt to be most useful to the ISO. This is a systems document and the only component-related terms are those significant at the systems level.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

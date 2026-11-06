@@ -1,0 +1,56 @@
+---
+id: SAEAS8581
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Engine; Rocket, Solid Propellant 5 Second Duration, 4500 Pounds Thrust
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as8581
+- type: src
+  content: https://saemobilus.sae.org/standards/as8581-engine-rocket-solid-propellant-5-second-duration-4500-pounds-thrust
+docidentifier:
+- content: SAE AS8581
+  type: SAE
+  primary: true
+- content: 10.4271/as8581
+  type: DOI
+date:
+- type: approved
+  at: '2000-03-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Aerospace Council
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification established the requirements for a 5 second duration, 4500 pound thrust (when determined at 60°F) solid propellant rocket engine hereinafter specified as 5 S-4500.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

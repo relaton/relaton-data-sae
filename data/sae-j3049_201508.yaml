@@ -1,0 +1,67 @@
+---
+id: SAEJ3049_201508
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Model Architecture and Interfaces Recommended Practice for Ground Vehicle
+    System and Subsystem Dynamical Simulation
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3049_201508
+- type: src
+  content: https://saemobilus.sae.org/standards/j3049_201508-model-architecture-interfaces-recommended-practice-ground-vehicle-system-subsystem-dynamical-simulation
+docidentifier:
+- content: SAE J3049_201508
+  type: SAE
+  primary: true
+- content: 10.4271/j3049_201508
+  type: DOI
+date:
+- type: approved
+  at: '2015-08-27'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Dynamical Modeling and Simulation Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The “Model Architecture and Interfaces Recommended Practice for Ground Vehicle System and Subsystem Dynamical Simulation” defines the architectural structure of a ground vehicle system dynamical model by partitioning it into subsystem models and by defining subsystem interfaces required to enable plug-and-play operation of a dynamical simulation models. All types of ground vehicle were considered in the development of the architecture, such as, passenger cars, light and medium duty trucks, heavy duty tractor trailer trucks, and vehicles/equipment for military, farming, construction, and mining. Versatility of this architectural partitioning is demonstrated by showing how it can be applied to different vehicle configurations. Application examples of architecture are provided for a large number of the publicly known ground vehicle configurations in production, testing, or development.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This recommended practice encompasses standards to enable seamless plug-and-play reusability of dynamical models for simulating the functional behavior of a ground vehicle system and its subsystems. A single ground vehicle system is the system of interest. The architecture and interfaces support vehicle models that describe vehicle motion in one dimension (longitudinal), two dimensions (longitudinal and lateral or longitudinal and vertical), and three dimensions (longitudinal, lateral, and vertical). The scope includes defining recommended practices for:&lt;/div&gt;
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Model architectural structure, and interfaces that enable the plug-and-play development of: (1) a top-level ground vehicle system model from subsystem models, and (2) subsystem models from other subsystem models; and&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Model architecture and interfaces for all hardware and controller interfaces; however, the internal structure of control algorithms and software will not be included in this recommended practice.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="htmlview paragraph"&gt;Since, other groups (such as, AUTOSAR) are addressing architecture and interfaces of models for control applications and software; they are not included in the scope of the recommended practice. However, in the future, the internal structure of control algorithms and software should be addressed for special issues of dynamical modeling and simulation of ground vehicle systems that are not covered by other standards groups.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

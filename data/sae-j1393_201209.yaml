@@ -1,0 +1,57 @@
+---
+id: SAEJ1393_201209
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Heavy Duty Vehicle Cooling Test Code
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j1393_201209
+- type: src
+  content: https://saemobilus.sae.org/standards/j1393_201209-heavy-duty-vehicle-cooling-test-code
+docidentifier:
+- content: SAE J1393_201209
+  type: SAE
+  primary: true
+- content: 10.4271/j1393_201209
+  type: DOI
+date:
+- type: approved
+  at: '2012-09-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Cooling Systems Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document supersedes SAE J819 - Engine Cooling System Field Test. The purpose of this SAE Recommended Practice is to establish a testing procedure to determine the performance capability of engine cooling systems, including charge air coolers, on heavy-duty vehicles with liquid-cooled internal combustion engines. The definition of heavy vehicles for this document includes, but is not limited to, on- and off-highway trucks, cranes, drill rigs, construction, forestry and agricultural machines. Vehicles equipped with side or rear-mounted radiators may require an alternate procedure of a towing dynamometer because of peculiar aerodynamics.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Testing is generally conducted to determine compliance with cooling criteria established by the engine manufacturer or the end product user to meet a desired engine reliability goal.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

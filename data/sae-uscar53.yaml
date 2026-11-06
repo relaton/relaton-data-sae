@@ -1,0 +1,57 @@
+---
+id: SAEUSCAR53
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: INDUSTRIAL DATA COMMUNICATION FOR AUTOMOTIVE MANUFACTURING
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/uscar53
+- type: src
+  content: https://saemobilus.sae.org/standards/uscar53-industrial-data-communication-automotive-manufacturing
+docidentifier:
+- content: SAE USCAR-53
+  type: SAE
+  primary: true
+- content: 10.4271/uscar53
+  type: DOI
+date:
+- type: approved
+  at: '2023-07-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: USCAR
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The provisions of this document, attachments, and supplements apply to the creation of a universal methodology for data communication, machine language, and reporting to and from manufacturing devices in the automotive production (Smart Manufacturing) environment.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Universal connectivity is one of the foundational technologies enabling data sharing among participating components of an Industrial Internet of Things (IIoT) system. Connectivity provides the ability to exchange data among participants within a functional domain, across functional domains within a system, and across systems. The data exchanged may include sensor updates, events, alarms, status changes, commands, and configuration updates. Connectivity is a crosscutting function in the Industrial Internet Reference Architecture. It provides the ability to exchange data between participants within and across functional domains (control, operations, information, applications, and business).&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

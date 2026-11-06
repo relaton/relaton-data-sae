@@ -1,0 +1,57 @@
+---
+id: SAEARP6243
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Traction Coefficient Measurement
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/arp6243
+- type: src
+  content: https://saemobilus.sae.org/standards/arp6243-traction-coefficient-measurement
+docidentifier:
+- content: SAE ARP6243
+  type: SAE
+  primary: true
+- content: 10.4271/arp6243
+  type: DOI
+date:
+- type: approved
+  at: '2024-12-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: E-34 Propulsion Lubricants Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The lubricant performance capability for aero-propulsion drive systems is derived from the physical properties, chemical properties, and the transport phenomena of the oil. Viscosity, pressure-viscosity coefficient, and elastohydrodynamic (EHD) full-film traction coefficient are inherent properties of the lubricating fluid. Full-film traction coefficient is a required input for thermal performance prediction and engineering design. Traction coefficient data can be modeled and used as an input into bearing and gear analysis codes. This document describes a test method for traction coefficient measurement of 5 cSt oils under service-like conditions for high-stress Hertzian elastic contacting bodies operating under temperatures and sliding (slip) velocities found in high-speed rolling element bearings and gears.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

@@ -1,0 +1,57 @@
+---
+id: SAEAS50881G
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Wiring Aerospace Vehicle
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as50881g
+- type: src
+  content: https://saemobilus.sae.org/standards/as50881g-wiring-aerospace-vehicle
+docidentifier:
+- content: SAE AS50881G
+  type: SAE
+  primary: true
+- content: 10.4271/as50881g
+  type: DOI
+date:
+- type: approved
+  at: '2019-08-06'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AE-8A Elec Wiring and Fiber Optic Interconnect Sys Install
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers all aspects in Electrical Wiring Interconnection Systems (EWIS) from the selection through installation of wiring and wiring devices and optical cabling and termination devices used in aerospace vehicles. Aerospace vehicles include manned and unmanned airplanes, helicopters, lighter-than-air vehicles, missiles, and external pods.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

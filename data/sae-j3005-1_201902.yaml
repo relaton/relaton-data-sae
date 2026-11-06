@@ -1,0 +1,56 @@
+---
+id: SAEJ30051_201902
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Permanently or Semi-Permanently Installed Diagnostic Communication Devices
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3005-1_201902
+- type: src
+  content: https://saemobilus.sae.org/standards/j3005-1_201902-permanently-semi-permanently-installed-diagnostic-communication-devices
+docidentifier:
+- content: SAE J3005-1_201902
+  type: SAE
+  primary: true
+- content: 10.4271/j3005-1_201902
+  type: DOI
+date:
+- type: approved
+  at: '2019-02-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Vehicle E E System Diagnostic Standards Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;The scope of the document is to define communication best practices in order to minimize problems for the vehicle owner when installing equipment which has a permanently or semi-permanently diagnostic CAN communication device connected to the SAE J1962 connector, or hardwired directly to the in-vehicle network.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

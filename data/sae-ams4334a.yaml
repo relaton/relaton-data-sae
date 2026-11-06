@@ -1,0 +1,56 @@
+---
+id: SAEAMS4334A
+schema_version: v1.5.6
+fetched: '2026-11-06'
+type: standard
+title:
+- script: Latn
+  content: Aluminum Alloy, Forgings 7.8Zn - 2.2Mg - 1.6Cu - 0.15Cr (7249-T74 and -T7452)
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/ams4334a
+- type: src
+  content: https://saemobilus.sae.org/standards/ams4334a-aluminum-alloy-forgings-78zn-22mg-16cu-015cr-7249-t74-t7452
+docidentifier:
+- content: SAE AMS4334A
+  type: SAE
+  primary: true
+- content: 10.4271/ams4334a
+  type: DOI
+date:
+- type: approved
+  at: '2012-04-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: AMS D Nonferrous Alloys Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This specification covers an aluminum alloy in the form of die forgings, hand forgings, and forging stock.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae
