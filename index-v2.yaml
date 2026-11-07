@@ -61295,6 +61295,16 @@
   :file: data/sae-j1939_202603.yaml
 - :id:
     _type: pubid:sae:identifier
+    number: '1939'
+    part: '13'
+    date:
+      year: 2026
+      month: 11
+    type:
+      abbr: J
+  :file: data/sae-j1939-13_202611.yaml
+- :id:
+    _type: pubid:sae:identifier
     number: 1939-02
     date:
       year: 2023
