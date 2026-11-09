@@ -41,62 +41,824 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: "<p>&lt;div class=\"section abstract\"&gt;\n\n\n&lt;div class=\"htmlview
-    paragraph\"&gt;This report has been compiled by the Landing Gear Systems Terminology
-    panel of SAE Committee A-5 (Aerospace Landing Gear Systems). It represents an
-    effort to gather together those terms commonly used within the discipline. Some
-    terms are of course common to other disciplines as well. Others, however, are
-    unique in form and/or meaning to the Landing Gear discipline. The need has been
-    noted to set these terms down and provide a standard definition in order that
-    communication within the discipline may be conducted with a common understanding.
-    Full use has been made of available published information, and a list of references
-    is provided. See also References (a) to (e).&lt;/div&gt;\n&lt;div class=\"htmlview
-    paragraph\"&gt;Terms listed are usually applicable to a general functional area
-    of Landing Gear disciplines. These general functional areas include; landing impact,
-    directional ground control, velocity control (acceleration, retardation, and arrestment),
-    structural support, ground flotation, and ground maintenance. In the listing of
-    terms and definitions, each term is followed by a code in parenthesis which indicates
-    which basic functional area or major component to which the term is most applicable.&lt;/div&gt;\n&lt;div
-    class=\"htmlview paragraph\"&gt;Codes indicating basic functional area or major
-    component are as follows:\n&lt;ol class=\"list nostyle\"&gt;\n&lt;li class=\"list-item\"&gt;\n&lt;span
-    class=\"li-label\"&gt;a&lt;/span&gt;\n&lt;div class=\"htmlview paragraph\"&gt;Landing
-    Gear Systems\n&lt;ol class=\"list nostyle\"&gt;\n&lt;li class=\"list-item\"&gt;\n&lt;span
-    class=\"li-label\"&gt;1&lt;/span&gt;\n&lt;div class=\"htmlview paragraph\"&gt;Landing
-    Gear (General) (L/G)&lt;/div&gt;&lt;/li&gt;\n&lt;li class=\"list-item\"&gt;\n&lt;span
-    class=\"li-label\"&gt;2&lt;/span&gt;\n&lt;div class=\"htmlview paragraph\"&gt;Tire
-    (Tire)&lt;/div&gt;&lt;/li&gt;\n&lt;li class=\"list-item\"&gt;\n&lt;span class=\"li-label\"&gt;3&lt;/span&gt;\n&lt;div
-    class=\"htmlview paragraph\"&gt;Wheel (Whl)&lt;/div&gt;&lt;/li&gt;\n&lt;li class=\"list-item\"&gt;\n&lt;span
-    class=\"li-label\"&gt;4&lt;/span&gt;\n&lt;div class=\"htmlview paragraph\"&gt;Brake
-    (Brk)&lt;/div&gt;&lt;/li&gt;\n&lt;li class=\"list-item\"&gt;\n&lt;span class=\"li-label\"&gt;5&lt;/span&gt;\n&lt;div
-    class=\"htmlview paragraph\"&gt;Nose Wheel Steering (NWS)&lt;/div&gt;&lt;/li&gt;\n&lt;li
-    class=\"list-item\"&gt;\n&lt;span class=\"li-label\"&gt;6&lt;/span&gt;\n&lt;div
-    class=\"htmlview paragraph\"&gt;Shock Absorber (S/A)&lt;/div&gt;&lt;/li&gt;\n&lt;li
-    class=\"list-item\"&gt;\n&lt;span class=\"li-label\"&gt;7&lt;/span&gt;\n&lt;div
-    class=\"htmlview paragraph\"&gt;Skid Control (S/C)&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;\n&lt;li
-    class=\"list-item\"&gt;\n&lt;span class=\"li-label\"&gt;b&lt;/span&gt;\n&lt;div
-    class=\"htmlview paragraph\"&gt;Related Systems\n&lt;ol class=\"list nostyle\"&gt;\n&lt;li
-    class=\"list-item\"&gt;\n&lt;span class=\"li-label\"&gt;1&lt;/span&gt;\n&lt;div
-    class=\"htmlview paragraph\"&gt;Air Vehicle/Aircraft (A/V)&lt;/div&gt;&lt;/li&gt;\n&lt;li
-    class=\"list-item\"&gt;\n&lt;span class=\"li-label\"&gt;2&lt;/span&gt;\n&lt;div
-    class=\"htmlview paragraph\"&gt;Arresting Gear (A/G)&lt;/div&gt;&lt;/li&gt;\n&lt;li
-    class=\"list-item\"&gt;\n&lt;span class=\"li-label\"&gt;3&lt;/span&gt;\n&lt;div
-    class=\"htmlview paragraph\"&gt;Operating Base &amp;amp; Equipment (Base)&lt;/div&gt;&lt;/li&gt;\n&lt;li
-    class=\"list-item\"&gt;\n&lt;span class=\"li-label\"&gt;4&lt;/span&gt;\n&lt;div
-    class=\"htmlview paragraph\"&gt;Catapult (Cat)&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-    \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-    \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-    \   \n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-    \   \n    \n    \n    \n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-    \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-    \   \n    \n\n\n\n\n\n\n\n\n\n\n\n    \n    \n\n\n\n\n\n\n\n    \n    \n\n\n\n
-    \   \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-    \   \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n\n\n\n\n\n\n\n    \n    \n\n\n\n\n\n
-    \   \n    \n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-    \   \n    \n\n\n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-    \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-    \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-    \   \n\n\n\n\n\n\n\n\n\n\n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-    \   \n    \n\n\n\n\n    \n    \n\n\n&lt;/div&gt;</p>"
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This report has been compiled by the Landing Gear Systems Terminology panel of SAE Committee A-5 (Aerospace Landing Gear Systems). It represents an effort to gather together those terms commonly used within the discipline. Some terms are of course common to other disciplines as well. Others, however, are unique in form and/or meaning to the Landing Gear discipline. The need has been noted to set these terms down and provide a standard definition in order that communication within the discipline may be conducted with a common understanding. Full use has been made of available published information, and a list of references is provided. See also References (a) to (e).&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Terms listed are usually applicable to a general functional area of Landing Gear disciplines. These general functional areas include; landing impact, directional ground control, velocity control (acceleration, retardation, and arrestment), structural support, ground flotation, and ground maintenance. In the listing of terms and definitions, each term is followed by a code in parenthesis which indicates which basic functional area or major component to which the term is most applicable.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Codes indicating basic functional area or major component are as follows:
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;a&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Landing Gear Systems
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Landing Gear (General) (L/G)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Tire (Tire)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Wheel (Whl)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;4&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Brake (Brk)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;5&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Nose Wheel Steering (NWS)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;6&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Shock Absorber (S/A)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;7&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Skid Control (S/C)&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;b&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Related Systems
+    &lt;ol class="list nostyle"&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;1&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Air Vehicle/Aircraft (A/V)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;2&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Arresting Gear (A/G)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;3&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Operating Base &amp;amp; Equipment (Base)&lt;/div&gt;&lt;/li&gt;
+    &lt;li class="list-item"&gt;
+    &lt;span class="li-label"&gt;4&lt;/span&gt;
+    &lt;div class="htmlview paragraph"&gt;Catapult (Cat)&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+        
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+        
+        
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+        
+        
+
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+
+        
+        
+
+
+    &lt;/div&gt;</p>
 place:
 - city: 400 Commonwealth Drive
 - city: Warrendale

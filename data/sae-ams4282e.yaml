@@ -4,8 +4,7 @@ schema_version: v1.5.6
 type: standard
 title:
 - script: Latn
-  content: Aluminum Alloy Castings (Permanent Mold) 4 Copper - 2 Silicon (Solution
-    Precipitation)
+  content: Aluminum Alloy Castings (Permanent Mold) 4 Copper - 2 Silicon (Solution Precipitation)
   type: main
 source:
 - type: DOI
@@ -37,11 +36,21 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: "<p>1. ACKNOWLEDGMENT: A vendor must mention this specification number
-    in all quotations\nand when acknowledging purchase orders.\n\n2. COMPOSITION:
-    \nCopper \t\t4.0 - 5.0\nSilioon \t\t2.0 - 3.0\nIron\t\t\t1.2 max\nManganese \t0.3
-    max\nZinc       \t \t0.2 max\nTitanium\t\t0.2 max\nMagnesium \t0.05 max\nOther
-    Impurities, each 0.05 max\nOther Impurities, total 0.15 max\nAluminum \tremainder</p>"
+  content: |-
+    <p>1. ACKNOWLEDGMENT: A vendor must mention this specification number in all quotations
+    and when acknowledging purchase orders.
+
+    2. COMPOSITION: 
+    Copper 		4.0 - 5.0
+    Silioon 		2.0 - 3.0
+    Iron			1.2 max
+    Manganese 	0.3 max
+    Zinc       	 	0.2 max
+    Titanium		0.2 max
+    Magnesium 	0.05 max
+    Other Impurities, each 0.05 max
+    Other Impurities, total 0.15 max
+    Aluminum 	remainder</p>
 place:
 - city: 400 Commonwealth Drive
 - city: Warrendale

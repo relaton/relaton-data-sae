@@ -4,8 +4,7 @@ schema_version: v1.5.6
 type: standard
 title:
 - script: Latn
-  content: Minimum Requirements to Support Traffic Signal Priority and Preemption™
-    ASN File
+  content: Minimum Requirements to Support Traffic Signal Priority and Preemption™ ASN File
   type: main
 source:
 - type: DOI
@@ -42,14 +41,7 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: "<p>&lt;p&gt;This Abstract Syntax Notation One (ASN.1) file precisely defines
-    the structure of the data used to implement applications conformant to the SAE
-    J2945/B Standard. Using this ASN.1 specification, a compiler tool can be used
-    to produce encodings to enable applications to easily encode and decode the Signal
-    Request Message (SRM) and Signal Status Message (SSM) messages, along with the
-    Wireless Access in Vehicular Environments (WAVE) Service Advertisement (WSA) application
-    data, defined in SAE J2945/B. Included in the ASN.1 file is the complete SAE J2735
-    ASN.1 along with the updates to the ASN.1 for the SRM and SSM defined in SAE J2945/B.&lt;/p&gt;</p>"
+  content: "<p>&lt;p&gt;This Abstract Syntax Notation One (ASN.1) file precisely defines the structure of the data used to implement applications conformant to the SAE J2945/B Standard. Using this ASN.1 specification, a compiler tool can be used to produce encodings to enable applications to easily encode and decode the Signal Request Message (SRM) and Signal Status Message (SSM) messages, along with the Wireless Access in Vehicular Environments (WAVE) Service Advertisement (WSA) application data, defined in SAE J2945/B. Included in the ASN.1 file is the complete SAE J2735 ASN.1 along with the updates to the ASN.1 for the SRM and SSM defined in SAE J2945/B.&lt;/p&gt;</p>"
 place:
 - city: 400 Commonwealth Drive
 - city: Warrendale
