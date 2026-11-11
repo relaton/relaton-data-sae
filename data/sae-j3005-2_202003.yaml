@@ -4,7 +4,8 @@ schema_version: v1.5.6
 type: standard
 title:
 - script: Latn
-  content: Permanently or Semi-Permanently Installed Diagnostic Communication Devices, Security Guidelines
+  content: Permanently or Semi-Permanently Installed Diagnostic Communication Devices,
+    Security Guidelines
   type: main
 source:
 - type: DOI
@@ -41,7 +42,16 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: "<p>&lt;p&gt;The scope of the document is to define the cyber-security best practices to reduce interference with normal vehicle operation, or to minimize risk as to unauthorized access of the vehicle's control, diagnostic, or data storage system; access by equipment (i.e., permanently or semi-permanently installed diagnostic communication device, also known as dongle, etc.) which is either permanently or semi-permanently connected to the vehicle's OBD diagnostic connector, either SAE J1939-13, SAE J1962, or other future protocol; or hardwired directly to the in-vehicle network. This document only specifies requirements and guidance for those diagnostic communication devices and not for the vehicle. Refer to SAE J3138 for requirements for the vehicle side.&lt;/p&gt;</p>"
+  content: "<p>&lt;p&gt;The scope of the document is to define the cyber-security
+    best practices to reduce interference with normal vehicle operation, or to minimize
+    risk as to unauthorized access of the vehicle's control, diagnostic, or data storage
+    system; access by equipment (i.e., permanently or semi-permanently installed diagnostic
+    communication device, also known as dongle, etc.) which is either permanently
+    or semi-permanently connected to the vehicle's OBD diagnostic connector, either
+    SAE J1939-13, SAE J1962, or other future protocol; or hardwired directly to the
+    in-vehicle network. This document only specifies requirements and guidance for
+    those diagnostic communication devices and not for the vehicle. Refer to SAE J3138
+    for requirements for the vehicle side.&lt;/p&gt;</p>"
 place:
 - city: 400 Commonwealth Drive
 - city: Warrendale

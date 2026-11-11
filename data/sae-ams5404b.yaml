@@ -4,7 +4,9 @@ schema_version: v1.5.6
 type: standard
 title:
 - script: Latn
-  content: Alloy Castings, Investment, Corrosion and Heat Resistant, 59Ni - 12.6Cr - 9.0Co - 1.9Mo - 4.2W - 4.0Ti - 4.2Ta - 3.4Al - 0.015B - 0.10Zr - 0.90Hf, Vacuum Melted, Vacuum Cast, Solution and Precipitation Heat Treated
+  content: Alloy Castings, Investment, Corrosion and Heat Resistant, 59Ni - 12.6Cr
+    - 9.0Co - 1.9Mo - 4.2W - 4.0Ti - 4.2Ta - 3.4Al - 0.015B - 0.10Zr - 0.90Hf, Vacuum
+    Melted, Vacuum Cast, Solution and Precipitation Heat Treated
   type: main
 source:
 - type: DOI
@@ -41,7 +43,8 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: "<p>This specification covers a corrosion and heat resistant nickel alloy in the form of investment castings.</p>"
+  content: "<p>This specification covers a corrosion and heat resistant nickel alloy
+    in the form of investment castings.</p>"
 place:
 - city: 400 Commonwealth Drive
 - city: Warrendale

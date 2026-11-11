@@ -36,7 +36,25 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: '<p>&lt;p&gt;The SAE J1939 DBC file contains decoding rules for converting raw J1939 data to ''physical values'' (Mph, %, etc.). This file lets you easily decode data from heavy duty vehicles (trucks, buses, tractors, etc.).&lt;/p&gt;&lt;p&gt;This DBC file download includes:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;An SAE J1939 DBC file with ~1800+ PGNs and 12000+ SPNs&lt;/li&gt;&lt;li&gt;One legal license (1 user, 1 PC) matching the DA license&lt;/li&gt;&lt;li&gt;DECODE J1939: Convert J1939 data in wide range of software/API tools&lt;/li&gt;&lt;li&gt;1800+ PGNs: The extensive DBC contains 1800+ PGNs and 12000+ SPNs&lt;/li&gt;&lt;li&gt;REVIEW FIRST: Use our CAN ID converter to check if your PGNs are covered&lt;/li&gt;&lt;li&gt;CROWD INPUT: Benefit from free corrections based on large user base&lt;/li&gt;&lt;li&gt;SAVE HOURS: Avoid manually constructing the DBC file from scratch&lt;/li&gt;&lt;/ul&gt; &lt;p&gt;What is a DBC file?&lt;/p&gt;&lt;p&gt;A DBC file is a standardized method for storing the "rules" on how to interpret raw CAN bus data. In particular, it contains details on what ''signals'' (e.g. RPM, Vehicle Speed, …) are contained within which ''messages'' (i.e. CAN IDs).&lt;/p&gt; &lt;p&gt;In the J1939 standard, messages are referred to as Parameter Group Numbers (PGN) and signals as Suspect Parameter Numbers (SPN).&lt;/p&gt; &lt;p&gt;Further, a DBC file includes names, descriptions, positions and lengths of the signals - as well as how to offset &amp; scale them.&lt;/p&gt;</p>'
+  content: '<p>&lt;p&gt;The SAE J1939 DBC file contains decoding rules for converting
+    raw J1939 data to ''physical values'' (Mph, %, etc.). This file lets you easily
+    decode data from heavy duty vehicles (trucks, buses, tractors, etc.).&lt;/p&gt;&lt;p&gt;This
+    DBC file download includes:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;An SAE J1939 DBC file
+    with ~1800+ PGNs and 12000+ SPNs&lt;/li&gt;&lt;li&gt;One legal license (1 user,
+    1 PC) matching the DA license&lt;/li&gt;&lt;li&gt;DECODE J1939: Convert J1939
+    data in wide range of software/API tools&lt;/li&gt;&lt;li&gt;1800+ PGNs: The extensive
+    DBC contains 1800+ PGNs and 12000+ SPNs&lt;/li&gt;&lt;li&gt;REVIEW FIRST: Use
+    our CAN ID converter to check if your PGNs are covered&lt;/li&gt;&lt;li&gt;CROWD
+    INPUT: Benefit from free corrections based on large user base&lt;/li&gt;&lt;li&gt;SAVE
+    HOURS: Avoid manually constructing the DBC file from scratch&lt;/li&gt;&lt;/ul&gt;
+    &lt;p&gt;What is a DBC file?&lt;/p&gt;&lt;p&gt;A DBC file is a standardized method
+    for storing the "rules" on how to interpret raw CAN bus data. In particular, it
+    contains details on what ''signals'' (e.g. RPM, Vehicle Speed, …) are contained
+    within which ''messages'' (i.e. CAN IDs).&lt;/p&gt; &lt;p&gt;In the J1939 standard,
+    messages are referred to as Parameter Group Numbers (PGN) and signals as Suspect
+    Parameter Numbers (SPN).&lt;/p&gt; &lt;p&gt;Further, a DBC file includes names,
+    descriptions, positions and lengths of the signals - as well as how to offset
+    &amp; scale them.&lt;/p&gt;</p>'
 place:
 - city: 400 Commonwealth Drive
 - city: Warrendale

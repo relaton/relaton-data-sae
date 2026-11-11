@@ -41,7 +41,13 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: "<p>&lt;p&gt;This Abstract Syntax Notation (ASN.1) file precisely define the structure of the data used to implement applications conformant to the SAE J2945/A Recommended Practice. Using the ASN.1 specification, a compiler tool can be used to produce encodings using encoding rules identified in J2945/A. Both this ASN.1 file and the SAE J2735 ASN.1 files are necessary to collectively implement the data structures described in the J2945/A. The combined library can be used by any receiving application (along with the additional logic of the application).&lt;/p&gt;</p>"
+  content: "<p>&lt;p&gt;This Abstract Syntax Notation (ASN.1) file precisely define
+    the structure of the data used to implement applications conformant to the SAE
+    J2945/A Recommended Practice. Using the ASN.1 specification, a compiler tool can
+    be used to produce encodings using encoding rules identified in J2945/A. Both
+    this ASN.1 file and the SAE J2735 ASN.1 files are necessary to collectively implement
+    the data structures described in the J2945/A. The combined library can be used
+    by any receiving application (along with the additional logic of the application).&lt;/p&gt;</p>"
 place:
 - city: 400 Commonwealth Drive
 - city: Warrendale

@@ -41,7 +41,13 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: "<p>The utilities defined for J2037 are designed to facilitate manufacturing and service diagnosis requirements.  Definition of the capability includes definition of standard messages and the dialogue necessary to provide the capability. The standard messages will be distinguished by the contents of the first data byte which specifies the diagnostic operation.  Note that some vehicle applications will not require the implementation of all the defined diagnostic capabilities, and consequently, these applications will not support all message modes.</p>"
+  content: "<p>The utilities defined for J2037 are designed to facilitate manufacturing
+    and service diagnosis requirements.  Definition of the capability includes definition
+    of standard messages and the dialogue necessary to provide the capability. The
+    standard messages will be distinguished by the contents of the first data byte
+    which specifies the diagnostic operation.  Note that some vehicle applications
+    will not require the implementation of all the defined diagnostic capabilities,
+    and consequently, these applications will not support all message modes.</p>"
 place:
 - city: 400 Commonwealth Drive
 - city: Warrendale

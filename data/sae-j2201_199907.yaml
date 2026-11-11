@@ -41,14 +41,18 @@ contributor:
 abstract:
 - language: en
   script: Latn
-  content: |-
-    <p>SAE J1978 defines the requirements of the OBD II scan tool. SAE J2201 defines the minimum requirements of the vehicle communications interface for the SAE J1978 OBD II scan tool. This interface connects the SAE J1962 test requirement connector to the hardware/software of the SAE J1978 OBD II scan tool that will use this interface to communicate with vehicles for thr pupose of accessing required OBD II functions.
-
-    Included in this SAE Recommended Practice are several definitions relating to the interface, and interafce functionality evaluation.
-
-    Appendix AExamples include several example interface circuit implementation, which are believed to meet the requirements of this document and of SAE J1978. These examples are NOT requirements of this document. They are provided to assist circuit designers in developing interface circuits.
-
-    Appenidx BSupporting Documents includes a list of supporting documents for the examples shown in Appendix A.</p>
+  content: "<p>SAE J1978 defines the requirements of the OBD II scan tool. SAE J2201
+    defines the minimum requirements of the vehicle communications interface for the
+    SAE J1978 OBD II scan tool. This interface connects the SAE J1962 test requirement
+    connector to the hardware/software of the SAE J1978 OBD II scan tool that will
+    use this interface to communicate with vehicles for thr pupose of accessing required
+    OBD II functions.\n\nIncluded in this SAE Recommended Practice are several definitions
+    relating to the interface, and interafce functionality evaluation.\n\nAppendix
+    A\x97Examples include several example interface circuit implementation, which
+    are believed to meet the requirements of this document and of SAE J1978. These
+    examples are NOT requirements of this document. They are provided to assist circuit
+    designers in developing interface circuits.\n\nAppenidx B\x97Supporting Documents
+    includes a list of supporting documents for the examples shown in Appendix A.</p>"
 place:
 - city: 400 Commonwealth Drive
 - city: Warrendale

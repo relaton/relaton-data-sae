@@ -128189,6 +128189,14 @@
   :file: data/sae-j3078-6.yaml
 - :id:
     _type: pubid:sae:identifier
+    number: '3078'
+    year: '2026'
+    type:
+      abbr: AS
+    revision: D
+  :file: data/sae-as3078d.yaml
+- :id:
+    _type: pubid:sae:identifier
     number: '3079'
     part: '2'
     date:
@@ -289652,6 +289660,14 @@
   :file: data/sae-ams5864e.yaml
 - :id:
     _type: pubid:sae:identifier
+    number: '5864'
+    year: '2026'
+    type:
+      abbr: AS
+    revision: B
+  :file: data/sae-as5864b.yaml
+- :id:
+    _type: pubid:sae:identifier
     number: '5865'
     year: '2015'
     type:
@@ -309702,6 +309718,14 @@
     type:
       abbr: AS
   :file: data/sae-as6399.yaml
+- :id:
+    _type: pubid:sae:identifier
+    number: '6399'
+    year: '2026'
+    type:
+      abbr: AS
+    revision: A
+  :file: data/sae-as6399a.yaml
 - :id:
     _type: pubid:sae:identifier
     number: '64'

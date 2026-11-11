@@ -4,7 +4,10 @@ schema_version: v1.5.6
 type: standard
 title:
 - script: Latn
-  content: Nickel Alloy, Corrosion- and Heat-Resistant, Investment Castings, 61Ni - 16Cr - 8.5Co - 1.8Mo - 2.6W - 0.85Cb, (Nb) - 3.4Ti - 1.8Ta - 3.4Al - 0.010B - 0.05Zr (738), Vacuum Melted, Vacuum Cast, As Cast, or Solution Treated, or Solution and Precipitation Hardened
+  content: Nickel Alloy, Corrosion- and Heat-Resistant, Investment Castings, 61Ni
+    - 16Cr - 8.5Co - 1.8Mo - 2.6W - 0.85Cb, (Nb) - 3.4Ti - 1.8Ta - 3.4Al - 0.010B
+    - 0.05Zr (738), Vacuum Melted, Vacuum Cast, As Cast, or Solution Treated, or Solution
+    and Precipitation Hardened
   type: main
 source:
 - type: DOI
