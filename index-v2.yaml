@@ -23531,6 +23531,14 @@
   :file: data/sae-arp1322c.yaml
 - :id:
     _type: pubid:sae:identifier
+    number: '1322'
+    year: '2026'
+    type:
+      abbr: ARP
+    revision: D
+  :file: data/sae-arp1322d.yaml
+- :id:
+    _type: pubid:sae:identifier
     number: '1323'
     date:
       year: 2014
@@ -135270,6 +135278,15 @@
       abbr: AS
     revision: C
   :file: data/sae-as3179c.yaml
+- :id:
+    _type: pubid:sae:identifier
+    number: '3179'
+    date:
+      year: 2026
+      month: 11
+    type:
+      abbr: J
+  :file: data/sae-j3179_202611.yaml
 - :id:
     _type: pubid:sae:identifier
     number: '318'
@@ -292345,6 +292362,14 @@
   :file: data/sae-as5901e.yaml
 - :id:
     _type: pubid:sae:identifier
+    number: '5901'
+    year: '2026'
+    type:
+      abbr: AMS
+    revision: E
+  :file: data/sae-ams5901e.yaml
+- :id:
+    _type: pubid:sae:identifier
     number: '5902'
     year: '2014'
     type:
@@ -325027,6 +325052,14 @@
       abbr: AS
     revision: A
   :file: data/sae-as707a.yaml
+- :id:
+    _type: pubid:sae:identifier
+    number: '707'
+    year: '2026'
+    type:
+      abbr: AS
+    revision: D
+  :file: data/sae-as707d.yaml
 - :id:
     _type: pubid:sae:identifier
     number: '7074'
