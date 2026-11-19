@@ -1,0 +1,71 @@
+---
+id: SAECTI4501_202611
+schema_version: v1.5.6
+type: standard
+title:
+- script: Latn
+  content: Connected Intersections Implementation Guide
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/cti4501_202611
+- type: src
+  content: https://saemobilus.sae.org/standards/cti4501_202611-connected-intersections-implementation-guide
+docidentifier:
+- content: SAE CTI4501_202611
+  type: SAE
+  primary: true
+- content: 10.4271/cti4501_202611
+  type: DOI
+date:
+- type: approved
+  at: '2026-11-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Connected Transportation Interoperability Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;CTI 4501 defines the key capabilities and interfaces a connected signalized intersection must support to ensure interoperability with vehicles, including production vehicles, for state and local Infrastructure Owner Operators (IOOs). A connected intersection is defined as an infrastructure system that broadcasts SPaT, MAP, and optionally position correction data to vehicles.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;This recommended practice defines procurement and implementation guidance and the expectations leading to minimum performance requirements for a connected intersection. It is intended to be used by IOOs to provide guidance on how to implement an interoperable connected intersection. For OEMs and other application developers, this recommended practice provides an explanation on what data and connected vehicle messages are being provided from an interoperable connected intersection so safety applications can be developed for production vehicles, with an initial focus on the Red Light Violation Warning (RLVW) application. Although the focus of the recommended practice is on the RLVW application, requirements for other V2X applications related to connected intersections, including requirements for traffic signal controllers to generate the SPaT information, are also addressed assuming the connected intersection configuration and messages can support them and no significant effort was needed. The Needs to Requirements Traceability Matrix (NRTM) in &lt;span class="xref"&gt;6.2.3&lt;/span&gt; provides the guidance to IOOs for the procurement of a connected intersection.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Recognizing that some stakeholders require more in-depth guidance on specific aspects of connected intersections, Version 2 of the CI Implementation Guide has been reorganized into a main document and several companion subdocuments. The main document establishes the overarching framework – following a Systems Engineering Process (SEP) – and includes a Concept of Operations (ConOps) and an NRTM for a connected intersection; and the generic requirements, system design details, and a Requirements Traceability Matrix (RTM) for those generic requirements. These elements enable users to identify and procure connected intersection solutions that satisfy their specific needs.&lt;/div&gt;
+        &lt;div class="htmlview paragraph"&gt;The companion documents elaborate on specialized areas such as SPaT, MAP, security, and testing and validation, providing requirements and design details tailored for those subject areas. &lt;span class="xref"&gt;Figure 1&lt;/span&gt; depicts the relationships among these subdocuments and other documents that support the implementation of a connected intersection. SAE J3258 addresses positioning corrections for all V2X applications in addition to connected intersections. SAE J3305 addresses Assured Green Period and utilizes SPaT messages, linking this document with CTI 4501/1. SAE J3238/1 links to both CTI 4501/1 and CTI 4501/4 by providing an example method for the testing and validation of SPaT information broadcasts. SAE J3238/2 similarly links CTI 4501/2 and CTI 4501/4 by providing an example method for linking the testing and validation of MAP broadcasts. By separating out these focused topics, this recommended practice more effectively supports IOOs, OEMs, suppliers, and application developers who need targeted information. Taken together, this recommended practice (hereafter called the implementation guide) and the companion documents ensure that connected intersection deployments align with national standards and support a high level of interoperability, ultimately facilitating safer and more efficient automated transportation systems.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

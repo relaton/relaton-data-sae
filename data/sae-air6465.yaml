@@ -1,0 +1,68 @@
+---
+id: SAEAIR6465
+schema_version: v1.5.6
+type: standard
+title:
+- script: Latn
+  content: Quality Pressure Measurements for Determining Inlet Performance and Distortion
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/air6465
+- type: src
+  content: https://saemobilus.sae.org/standards/air6465-quality-pressure-measurements-determining-inlet-performance-distortion
+docidentifier:
+- content: SAE AIR6465
+  type: SAE
+  primary: true
+- content: 10.4271/air6465
+  type: DOI
+date:
+- type: approved
+  at: '2026-11-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: S-16 Turbine Engine Inlet Flow Distortion  Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This document identifies and expands upon many of the issues and challenges in obtaining high-quality total-pressure measurements at the designated Aerodynamic Interface Plane (AIP). More specifically, it applies to the measurement of inlet total pressure used to characterize and quantify inlet distortion and inlet total-pressure recovery for gas turbine applications where they factor into turbine engine stability or performance. This includes ground (subscale or full-scale wind tunnel and engine tests) and flight test pressure measurements. Static pressure measurements are also useful for understanding inlet flow characteristics; therefore, a section is included describing static pressure installation considerations within an inlet.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

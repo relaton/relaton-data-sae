@@ -1,0 +1,61 @@
+---
+id: SAECTI45011_202611
+schema_version: v1.5.6
+type: standard
+title:
+- script: Latn
+  content: Connected Intersections Implementation Guide - SPaT Guidance
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/cti45011_202611
+- type: src
+  content: https://saemobilus.sae.org/standards/cti45011_202611-connected-intersections-implementation-guide-spat-guidance
+docidentifier:
+- content: SAE CTI45011_202611
+  type: SAE
+  primary: true
+- content: 10.4271/cti45011_202611
+  type: DOI
+date:
+- type: approved
+  at: '2026-11-17'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Connected Transportation Interoperability Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;CTI 4501 defines the key capabilities and interfaces a connected signalized intersection must support to ensure interoperability with vehicles, including production vehicles, for state and local IOOs. A connected intersection is defined as an infrastructure system that broadcasts SPaT, MAP, and optionally position correction data to vehicles.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The CTI 4501 family of documents define procurement and implementation guidance and the expectations leading to minimum performance requirements for a connected intersection. It is intended to be used by IOOs to provide guidance on how to implement an interoperable connected intersection. For OEMs and other application developers, these recommended practices provide an explanation on what data and connected vehicle messages are being provided from an interoperable connected intersection so safety applications can be developed for production vehicles, with an initial focus on the Red Light Violation Warning (RLVW) application. Although the focus is on the RLVW application, requirements for other V2X applications related to connected intersections, including requirements for traffic signal controllers to generate the SPaT information, are also addressed assuming the connected intersection configuration and messages can support them and no significant effort was needed. The Needs to Requirements Traceability Matrix (NRTM) in CTI 4501 6.2.3 provides the guidance to IOOs for the procurement of a connected intersection.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;Recognizing that some stakeholders require more in-depth guidance on specific aspects of connected intersections, Version 2 of the CI Implementation Guide has been reorganized into a main document and several companion sub-documents. The main document establishes the overarching framework - following a Systems Engineering Process (SEP) - and includes a Concept of Operations (ConOps) and an NRTM for a connected intersection and the generic requirements, generic system design details, and an RTM for those generic requirements. These elements enable users to identify and procure connected intersection solutions that satisfy their specific needs.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;The companion documents elaborate on specialized areas such as SPaT, MAP, security, and testing and validation, providing requirements and design details tailored for those subject areas. &lt;span class="xref"&gt;Figure 1&lt;/span&gt; depicts the relationships among these sub-documents and other documents that support the implementation of a connected intersection. By separating out these focused topics, the guide more effectively supports IOOs, OEMs, suppliers, and application developers who need targeted information. Taken together, the main guide and the companion documents ensure that connected intersection deployments align with national standards and support a high level of interoperability, ultimately facilitating safer and more efficient automated transportation systems.&lt;/div&gt;
+
+    &lt;div class="htmlview paragraph"&gt;This document offers procurement and implementation guidance specific to SPaT messages in one focused resource while aligning with the overall structure and methodology of the main CTI 4501 document. It provides the requirements, design guidance, and testing considerations necessary to achieve minimum performance requirements for providing SPaT messages tailored for IOOs, OEMs, and application developers. This document allows stakeholders seeking detailed guidance on SPaT-related requirements and design considerations to access all relevant information in one focused resource while equipping practitioners with a comprehensive set of tools to design and deploy interoperable connected intersections.&lt;/div&gt;
+    &lt;div class="htmlview paragraph"&gt;For IOOs, this document provides actionable guidance on specifying and deploying SPaT-capable equipment to support interoperable connected intersections. For OEMs and developers, it explains which SPaT-related data and connected vehicle messages will be broadcast from compliant intersections, enabling the development of safety-critical applications such as RLVW.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

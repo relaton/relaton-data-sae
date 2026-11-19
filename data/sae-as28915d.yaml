@@ -1,0 +1,60 @@
+---
+id: SAEAS28915D
+schema_version: v1.5.6
+type: standard
+title:
+- script: Latn
+  content: BEARING, ROLLER, SELF-ALIGNING, DOUBLE ROW, TORQUE TUBE, AIRFRAME, ANTI-FRICTION,
+    SEALED, TYPE IV
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/as28915d
+- type: src
+  content: https://saemobilus.sae.org/standards/as28915d-bearing-roller-self-aligning-double-row-torque-tube-airframe-anti-friction-sealed-type-iv
+docidentifier:
+- content: SAE AS28915D
+  type: SAE
+  primary: true
+- content: 10.4271/as28915d
+  type: DOI
+date:
+- type: approved
+  at: '2026-11-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: ACBG Rolling Element Bearing Committee
+- role:
+  - type: author
+  person:
+    name:
+      forename:
+      - language: en
+        script: Latn
+        content: 'null'
+      surname:
+        language: en
+        script: Latn
+        content: 'null'
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae
