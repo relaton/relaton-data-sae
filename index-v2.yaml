@@ -49054,6 +49054,14 @@
   :file: data/sae-as1735.yaml
 - :id:
     _type: pubid:sae:identifier
+    number: '1735'
+    year: '2026'
+    type:
+      abbr: AS
+    revision: E
+  :file: data/sae-as1735e.yaml
+- :id:
+    _type: pubid:sae:identifier
     number: '1736'
     year: '2014'
     type:
@@ -49091,6 +49099,14 @@
     type:
       abbr: AS
   :file: data/sae-as1736.yaml
+- :id:
+    _type: pubid:sae:identifier
+    number: '1736'
+    year: '2026'
+    type:
+      abbr: AS
+    revision: E
+  :file: data/sae-as1736e.yaml
 - :id:
     _type: pubid:sae:identifier
     number: '1737'
@@ -49169,6 +49185,14 @@
   :file: data/sae-j1737_202505.yaml
 - :id:
     _type: pubid:sae:identifier
+    number: '1737'
+    year: '2026'
+    type:
+      abbr: AS
+    revision: D
+  :file: data/sae-as1737d.yaml
+- :id:
+    _type: pubid:sae:identifier
     number: '1738'
     year: '2015'
     type:
@@ -49198,6 +49222,14 @@
     type:
       abbr: AS
   :file: data/sae-as1738.yaml
+- :id:
+    _type: pubid:sae:identifier
+    number: '1738'
+    year: '2026'
+    type:
+      abbr: AS
+    revision: D
+  :file: data/sae-as1738d.yaml
 - :id:
     _type: pubid:sae:identifier
     number: '1739'
@@ -53824,6 +53856,15 @@
       abbr: AS
     revision: B
   :file: data/sae-as18280-2b.yaml
+- :id:
+    _type: pubid:sae:identifier
+    number: '18280'
+    part: '1'
+    year: '2026'
+    type:
+      abbr: AS
+    revision: D
+  :file: data/sae-as18280-1d.yaml
 - :id:
     _type: pubid:sae:identifier
     number: '1829'
@@ -115068,6 +115109,15 @@
   :file: data/sae-as27643e.yaml
 - :id:
     _type: pubid:sae:identifier
+    number: '27643'
+    part: '1'
+    year: '2026'
+    type:
+      abbr: AS
+    revision: B
+  :file: data/sae-as27643-1b.yaml
+- :id:
+    _type: pubid:sae:identifier
     number: '27644'
     year: '2012'
     type:
@@ -128248,6 +128298,16 @@
   :file: data/sae-as3078d.yaml
 - :id:
     _type: pubid:sae:identifier
+    number: '3078'
+    part: '5'
+    date:
+      year: 2026
+      month: 11
+    type:
+      abbr: J
+  :file: data/sae-j3078-5_202611.yaml
+- :id:
+    _type: pubid:sae:identifier
     number: '3079'
     part: '2'
     date:
@@ -140258,6 +140318,26 @@
       abbr: AMS
     revision: K
   :file: data/sae-ams3238k.yaml
+- :id:
+    _type: pubid:sae:identifier
+    number: '3238'
+    part: '1'
+    date:
+      year: 2026
+      month: 11
+    type:
+      abbr: J
+  :file: data/sae-j3238-1_202611.yaml
+- :id:
+    _type: pubid:sae:identifier
+    number: '3238'
+    part: '2'
+    date:
+      year: 2026
+      month: 11
+    type:
+      abbr: J
+  :file: data/sae-j3238-2_202611.yaml
 - :id:
     _type: pubid:sae:identifier
     number: '3239'

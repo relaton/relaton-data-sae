@@ -1,0 +1,56 @@
+---
+id: SAEJ32382_202611
+schema_version: v1.5.6
+type: standard
+title:
+- script: Latn
+  content: Verification of MAP Node Accuracy using Mobile Mapping Data at Connected
+    Intersections to Support in-vehicle Red Light Violation Warning
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3238/2_202611
+- type: src
+  content: https://saemobilus.sae.org/standards/j32382_202611-verification-map-node-accuracy-using-mobile-mapping-data-connected-intersections-support-vehicle-red-light-violation-warning
+docidentifier:
+- content: SAE J3238/2_202611
+  type: SAE
+  primary: true
+- content: 10.4271/j3238/2_202611
+  type: DOI
+date:
+- type: approved
+  at: '2026-11-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Connected Transportation Interoperability Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;Connected Transportation Interoperability (CTI) 4501 establishes requirements for SAE J2735 MAP Message node point accuracy supporting in-vehicle Red Light Violation Warning (RLVW) applications. These requirements are specified in relation to pavement markings defining ingress and egress lane boundaries for mapped intersections. Commercial mobile mapping services typically use a combination of scanning Light Detection and Ranging (LiDAR) technology in conjunction with high-accuracy positioning and multi-axis high-resolution photography to create three-dimensional (3D) models of roadways which include the locations of lane markings, curbs, stop lines, and crosswalks. This document describes testing and assessment methodologies using this information to verify the accuracy of MAP node point data focusing on through movement ingress lanes to support basic in-vehicle RLVW applications.&lt;/div&gt;&lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae
