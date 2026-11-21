@@ -1,0 +1,56 @@
+---
+id: SAEJ3258_202611
+schema_version: v1.5.6
+type: standard
+title:
+- script: Latn
+  content: V2X Infrastructure Support for GNSS Corrections
+  type: main
+source:
+- type: DOI
+  content: https://doi.org/10.4271/j3258_202611
+- type: src
+  content: https://saemobilus.sae.org/standards/j3258_202611-v2x-infrastructure-support-gnss-corrections
+docidentifier:
+- content: SAE J3258_202611
+  type: SAE
+  primary: true
+- content: 10.4271/j3258_202611
+  type: DOI
+date:
+- type: approved
+  at: '2026-11-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: Connected Transportation Interoperability Committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: SAE International
+- role:
+  - type: authorizer
+  organization:
+    name:
+    - content: SAE International
+    abbreviation:
+      content: SAE
+abstract:
+- language: en
+  script: Latn
+  content: |-
+    <p>&lt;div class="section abstract"&gt;
+
+
+    &lt;div class="htmlview paragraph"&gt;This standard specifies the requirements and design to meet the Radio Technical Commission for Maritime Services (RTCM) corrections user needs provided in CTI 4501. It can also be used to support implementation of Global Navigation Satellite System (GNSS) corrections at locations other than intersections. The approach defined herein enables interoperability and consistent implementations in support of lane-level vehicle positioning for V2X infrastructure applications using SAE J2735 and RTCM standards.&lt;/div&gt;
+    &lt;/div&gt;</p>
+place:
+- city: 400 Commonwealth Drive
+- city: Warrendale
+ext:
+  doctype:
+    content: standard
+  flavor: sae

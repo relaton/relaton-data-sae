@@ -48778,6 +48778,14 @@
   :file: data/sae-j1731_201708.yaml
 - :id:
     _type: pubid:sae:identifier
+    number: '1731'
+    year: '2026'
+    type:
+      abbr: AS
+    revision: D
+  :file: data/sae-as1731d.yaml
+- :id:
+    _type: pubid:sae:identifier
     number: '1732'
     date:
       year: 2011
@@ -48849,6 +48857,14 @@
       abbr: AS
     revision: F
   :file: data/sae-as1732f.yaml
+- :id:
+    _type: pubid:sae:identifier
+    number: '1732'
+    year: '2026'
+    type:
+      abbr: AS
+    revision: G
+  :file: data/sae-as1732g.yaml
 - :id:
     _type: pubid:sae:identifier
     number: '17320'
@@ -48949,6 +48965,14 @@
   :file: data/sae-j1733_202411.yaml
 - :id:
     _type: pubid:sae:identifier
+    number: '1733'
+    year: '2026'
+    type:
+      abbr: AS
+    revision: G
+  :file: data/sae-as1733g.yaml
+- :id:
+    _type: pubid:sae:identifier
     number: '1734'
     year: '2015'
     type:
@@ -48986,6 +49010,14 @@
     type:
       abbr: AS
   :file: data/sae-as1734.yaml
+- :id:
+    _type: pubid:sae:identifier
+    number: '1734'
+    year: '2026'
+    type:
+      abbr: AS
+    revision: E
+  :file: data/sae-as1734e.yaml
 - :id:
     _type: pubid:sae:identifier
     number: '1735'
@@ -142220,6 +142252,15 @@
   :file: data/sae-ams3258.yaml
 - :id:
     _type: pubid:sae:identifier
+    number: '3258'
+    date:
+      year: 2026
+      month: 11
+    type:
+      abbr: J
+  :file: data/sae-j3258_202611.yaml
+- :id:
+    _type: pubid:sae:identifier
     number: '3259'
     year: '2005'
     type:
@@ -168638,6 +168679,14 @@
       abbr: AMS
     revision: A
   :file: data/sae-ams3803a.yaml
+- :id:
+    _type: pubid:sae:identifier
+    number: '3803'
+    year: '2026'
+    type:
+      abbr: AMS
+    revision: B
+  :file: data/sae-ams3803b.yaml
 - :id:
     _type: pubid:sae:identifier
     number: '3804'
