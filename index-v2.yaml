@@ -322473,6 +322473,14 @@
   :file: data/sae-air6908a.yaml
 - :id:
     _type: pubid:sae:identifier
+    number: '6908'
+    year: '2026'
+    type:
+      abbr: AIR
+    revision: B
+  :file: data/sae-air6908b.yaml
+- :id:
+    _type: pubid:sae:identifier
     number: '6909'
     year: '2020'
     type:
@@ -346758,6 +346766,15 @@
   :file: data/sae-as81659-69b.yaml
 - :id:
     _type: pubid:sae:identifier
+    number: '81659'
+    part: '71'
+    year: '2026'
+    type:
+      abbr: AS
+    revision: C
+  :file: data/sae-as81659-71c.yaml
+- :id:
+    _type: pubid:sae:identifier
     number: '817'
     part: '1'
     date:
@@ -349679,6 +349696,15 @@
       abbr: AS
     revision: D
   :file: data/sae-as81914-6d.yaml
+- :id:
+    _type: pubid:sae:identifier
+    number: '81914'
+    part: '10'
+    year: '2026'
+    type:
+      abbr: AS
+    revision: C
+  :file: data/sae-as81914-10c.yaml
 - :id:
     _type: pubid:sae:identifier
     number: '81915'
@@ -359945,6 +359971,24 @@
       abbr: AS
     revision: E
   :file: data/sae-as85049-60e.yaml
+- :id:
+    _type: pubid:sae:identifier
+    number: '85049'
+    part: '56'
+    year: '2026'
+    type:
+      abbr: AS
+    revision: D
+  :file: data/sae-as85049-56d.yaml
+- :id:
+    _type: pubid:sae:identifier
+    number: '85049'
+    part: '75'
+    year: '2026'
+    type:
+      abbr: AS
+    revision: B
+  :file: data/sae-as85049-75b.yaml
 - :id:
     _type: pubid:sae:identifier
     number: '85052'
